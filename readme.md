@@ -10,7 +10,7 @@ This go package provides country information via a simple API.
 ```go
 
   import (
-    "bitbucket.org/pariz/gountries/gountries"
+    "github.com/pariz/gountries/gountries"
   )
 
   gountries := NewGountries()
