@@ -16,7 +16,7 @@ This go package provides country information via a simple API.
   gountries := NewGountries()
 
   // Find sweden
-  sweden, _ := query.FindCountryByName("sweden")
+  sweden, _ := gountries.FindCountryByName("sweden")
 
   // Get the bordering countries of sweden
   for _, country := range sweden.BorderingCountries() {
