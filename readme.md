@@ -4,6 +4,8 @@ The shameless port of the countries gem to golang (well kinda).
 
 This go package provides country information via a simple API.
 
+*This is currently a work in progress, so things may change. More stuff will be added*
+
 # Examples
 
 
