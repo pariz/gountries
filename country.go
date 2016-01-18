@@ -23,11 +23,11 @@ func (q *QueryHolder) FindCountryByName(name string) (result Country, err error)
 func (q *QueryHolder) FindCountryByCode(code string) (result Country, err error) {
 
 	for _, country := range q.Countries {
-		var countryCode = country.Code
+		var countryCode = country.Alpha2
 
 		// If code is 2 characters, its CCA2, if 3 its CCA3
 		if len(code) == 2 {
-			countryCode = country.Code
+			countryCode = country.Alpha2
 		} else if len(code) == 3 {
 			countryCode = country.Alpha3
 		} else {
@@ -43,10 +43,12 @@ func (q *QueryHolder) FindCountryByCode(code string) (result Country, err error)
 
 }
 
-type Country2 struct {
+// Country contains all countries and their country codes
+type Country struct {
 	Name    CountryName
 	Demonym string
 
+	Code string
 	TLDs []string
 
 	Languages    map[string]string
@@ -60,8 +62,6 @@ type Country2 struct {
 
 	Borders []string
 
-	Geo CountryGeo
-
 	LandLocked bool
 
 	Area int64
@@ -69,68 +69,23 @@ type Country2 struct {
 	// Yaml
 	//
 
-	Currency            string
-	CountryCode         int
-	InternationalPrefix string
-	Continent           string
-	EuMember            bool
-	Region              string
-	SubRegion           string
-}
+	Currency            string `yaml:"currency"`
+	CountryCode         int    `yaml:"country_code"`
+	InternationalPrefix string `yaml:"international_prefix"`
+	Continent           string `yaml:"continent"`
+	EuMember            bool   `yaml:"eu_member"`
+	Region              string `yaml:"region"`
+	SubRegion           string `yaml:"subregion"`
 
-type CountryGeo struct {
-	Longitude string
-	Latitude  string
+	Longitude string `yaml:"longitude"`
+	Latitude  string `yaml:"latitude"`
 
-	MinLongitude float64
-	MinLatitude  float64
-	MaxLongitude float64
-	MaxLatitude  float64
-	LatitudeF    float64
-	LongitudeF   float64
-}
-
-// Country contains all countries and their country codes
-type Country struct {
-	Name    CountryName
-	Demonym string
-
-	Code        string
-	TLD         []string
-	Alpha2      string `json:"cca2"`
-	Alpha3      string `json:"cca3"`
-	CIOC        string
-	Currency    []string
-	CallingCode []string
-
-	Capital   string
-	Region    string
-	SubRegion string
-
-	Languages    map[string]string
-	Translations map[string]BaseLang
-	AltSpellings []string
-
-	LatLng []float64
-
-	LandLocked bool
-
-	Borders []string // Bordering countries as slice of CCA3 strings
-
-	Area int64
-
-	// Yaml
-	//
-
-	Geo CountryGeo
-
-	//Currency            string
-	CountryCode         int
-	InternationalPrefix string
-	Continent           string
-	EuMember            bool
-	//Region              string
-	//SubRegion           string
+	MinLongitude float64 `yaml:"min_longitude"`
+	MinLatitude  float64 `yaml:"min_latitude"`
+	MaxLongitude float64 `yaml:"max_longitude"`
+	MaxLatitude  float64 `yaml:"max_latitude"`
+	LatitudeF    float64 `yaml:"latitude_dec"`
+	LongitudeF   float64 `yaml:"longitude_dec"`
 }
 
 // BorderingCountries gets the bordering countries for this country

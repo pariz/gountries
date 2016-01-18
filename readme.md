@@ -38,9 +38,9 @@ The complete country struct can be found here:
 
 type Country struct {
 	Name        CountryName
-	Code        string
+	Latin2        string `json:"cca2"`
 	TLD         []string
-	CCA3        string
+	Latin3        string `json:"cca3"`
 	CIOC        string
 	Currency    []string
 	CallingCode []string
