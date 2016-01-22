@@ -92,6 +92,7 @@ type BaseLang struct {
 	Official string `json:"official"`
 }
 
+// SubDivision contains Country subdivison information
 type SubDivision struct {
 	Name  string
 	Names []string
@@ -102,6 +103,7 @@ type SubDivision struct {
 	Coordinates
 }
 
+// Geo contains geographical information
 type Geo struct {
 	Region    string `json:"region"`
 	SubRegion string `json:"subregion"`
@@ -111,6 +113,7 @@ type Geo struct {
 	Area float64
 }
 
+// Codes contains various code representations
 type Codes struct {
 	Alpha2 string `json:"cca2"`
 	Alpha3 string `json:"cca3"`
@@ -123,9 +126,15 @@ type Codes struct {
 	InternationalPrefix string // Yaml
 }
 
+// Measurer provides coordinates for measurements
+type Measurer interface {
+	Coordinates() (minLong, minLat, maxLong, maxLat float64)
+}
+
+// Coordinates contains the coordinates for both Country and SubDivision
 type Coordinates struct {
-	LongitudeString string `json:longitude`
-	LatitudeString  string `json:latitude`
+	LongitudeString string `json:"longitude"`
+	LatitudeString  string `json:"latitude"`
 
 	MinLongitude float64
 	MinLatitude  float64
