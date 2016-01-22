@@ -1,0 +1,70 @@
+name:
+  common: Greenland
+  official: Greenland
+  native:
+    kal:
+      common: Kalaallit Nunaat
+      official: Kalaallit Nunaat
+nationality: Greenlandic
+code: ""
+callingcodes:
+- "299"
+tlds:
+- .gl
+languages:
+  kal: Greenlandic
+translations:
+  deu:
+    common: Grönland
+    official: Grönland
+  fin:
+    common: Groönlanti
+    official: Groönlanti
+  fra:
+    common: Groenland
+    official: Groenland
+  hrv:
+    common: Grenland
+    official: Grenland
+  ita:
+    common: Groenlandia
+    official: Groenlandia
+  jpn:
+    common: グリーンランド
+    official: グリーンランド
+  nld:
+    common: Groenland
+    official: Groenland
+  por:
+    common: Gronelândia
+    official: Groenlândia
+  rus:
+    common: Гренландия
+    official: Гренландия
+  spa:
+    common: Groenlandia
+    official: Groenlandia
+alpha2: GL
+alpha3: GRL
+cioc: ""
+capital: Nuuk
+borders: []
+landlocked: false
+area: 2.166086e+06
+region: Americas
+subregion: Northern America
+currencies:
+- DKK
+countrycode: "299"
+internationalprefix: "009"
+continent: North America
+eumember: false
+longitude: 40 00 W
+latitude: 72 00 N
+coordinates:
+  minlongitude: -73.05
+  minlatitude: 51.7
+  maxlongitude: -12.133333
+  maxlatitude: 83.666664
+  latitudef: 74.34955
+  longitudef: -41.08989

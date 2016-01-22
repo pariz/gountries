@@ -1,0 +1,83 @@
+name:
+  common: Western Sahara
+  official: Sahrawi Arab Democratic Republic
+  native:
+    ber:
+      common: Western Sahara
+      official: Sahrawi Arab Democratic Republic
+    mey:
+      common: الصحراء الغربية
+      official: الجمهورية العربية الصحراوية الديمقراطية
+    spa:
+      common: Sahara Occidental
+      official: República Árabe Saharaui Democrática
+nationality: Sahrawi
+code: ""
+callingcodes:
+- "212"
+tlds:
+- .eh
+languages:
+  ber: Berber
+  mey: Hassaniya
+  spa: Spanish
+translations:
+  deu:
+    common: Westsahara
+    official: Demokratische Arabische Republik Sahara
+  fin:
+    common: Länsi-Sahara
+    official: Länsi-Sahara
+  fra:
+    common: Sahara Occidental
+    official: République arabe sahraouie démocratique
+  hrv:
+    common: Zapadna Sahara
+    official: Sahrawi Arab Demokratska Republika
+  ita:
+    common: Sahara Occidentale
+    official: Repubblica Araba Saharawi Democratica
+  jpn:
+    common: 西サハラ
+    official: サハラアラブ民主共和国
+  nld:
+    common: Westelijke Sahara
+    official: Sahrawi Arabische Democratische Republiek
+  por:
+    common: Saara Ocidental
+    official: República Árabe Saharaui Democrática
+  rus:
+    common: Западная Сахара
+    official: Sahrawi Арабская Демократическая Республика
+  spa:
+    common: Sahara Occidental
+    official: República Árabe Saharaui Democrática
+alpha2: EH
+alpha3: ESH
+cioc: ""
+capital: El Aaiún
+borders:
+- DZA
+- MRT
+- MAR
+landlocked: false
+area: 266000
+region: Africa
+subregion: Northern Africa
+currencies:
+- MAD
+- DZD
+- MRO
+countrycode: "212"
+internationalprefix: ""
+continent: Africa
+eumember: false
+longitude: 13 00 W
+latitude: 24 30 N
+coordinates:
+  minlongitude: -17.110556
+  minlatitude: 20.8
+  maxlongitude: -8.666667
+  maxlatitude: 27.666668
+  latitudef: 25
+  longitudef: -13

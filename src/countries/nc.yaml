@@ -1,0 +1,70 @@
+name:
+  common: New Caledonia
+  official: New Caledonia
+  native:
+    fra:
+      common: Nouvelle-Calédonie
+      official: Nouvelle-Calédonie
+nationality: New Caledonian
+code: ""
+callingcodes:
+- "687"
+tlds:
+- .nc
+languages:
+  fra: French
+translations:
+  deu:
+    common: Neukaledonien
+    official: Neukaledonien
+  fin:
+    common: Uusi-Kaledonia
+    official: Uusi-Kaledonia
+  fra:
+    common: Nouvelle-Calédonie
+    official: Nouvelle-Calédonie
+  hrv:
+    common: Nova Kaledonija
+    official: Nova Kaledonija
+  ita:
+    common: Nuova Caledonia
+    official: Nuova Caledonia
+  jpn:
+    common: ニューカレドニア
+    official: ニューカレドニア
+  nld:
+    common: Nieuw-Caledonië
+    official: nieuw -Caledonië
+  por:
+    common: Nova Caledónia
+    official: New Caledonia
+  rus:
+    common: Новая Каледония
+    official: Новая Каледония
+  spa:
+    common: Nueva Caledonia
+    official: nueva Caledonia
+alpha2: NC
+alpha3: NCL
+cioc: ""
+capital: Nouméa
+borders: []
+landlocked: false
+area: 18575
+region: Oceania
+subregion: Melanesia
+currencies:
+- XPF
+countrycode: "687"
+internationalprefix: "00"
+continent: Australia
+eumember: false
+longitude: 165 30 E
+latitude: 21 30 S
+coordinates:
+  minlongitude: 158.24667
+  minlatitude: -22.783333
+  maxlongitude: 172.05
+  maxlatitude: -18.016666
+  latitudef: -21.317823
+  longitudef: 165.29858

@@ -1,0 +1,70 @@
+name:
+  common: Mayotte
+  official: Department of Mayotte
+  native:
+    fra:
+      common: Mayotte
+      official: Département de Mayotte
+nationality: Mahoran
+code: ""
+callingcodes:
+- "262"
+tlds:
+- .yt
+languages:
+  fra: French
+translations:
+  deu:
+    common: Mayotte
+    official: Übersee-Département Mayotte
+  fin:
+    common: Mayotte
+    official: Mayotte
+  fra:
+    common: Mayotte
+    official: Département de Mayotte
+  hrv:
+    common: Mayotte
+    official: Odjel Mayotte
+  ita:
+    common: Mayotte
+    official: Dipartimento di Mayotte
+  jpn:
+    common: マヨット
+    official: マヨット科
+  nld:
+    common: Mayotte
+    official: Afdeling Mayotte
+  por:
+    common: Mayotte
+    official: Departamento de Mayotte
+  rus:
+    common: Майотта
+    official: Департамент Майотта
+  spa:
+    common: Mayotte
+    official: Departamento de Mayotte
+alpha2: YT
+alpha3: MYT
+cioc: ""
+capital: Mamoudzou
+borders: []
+landlocked: false
+area: 374
+region: Africa
+subregion: Eastern Africa
+currencies:
+- EUR
+countrycode: "262"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 45 10 E
+latitude: 12 50 S
+coordinates:
+  minlongitude: 45.024445
+  minlatitude: -12.993889
+  maxlongitude: 45.288612
+  maxlatitude: -12.641389
+  latitudef: -12.79636
+  longitudef: 45.142273

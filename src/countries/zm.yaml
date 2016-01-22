@@ -1,0 +1,78 @@
+name:
+  common: Zambia
+  official: Republic of Zambia
+  native:
+    eng:
+      common: Zambia
+      official: Republic of Zambia
+nationality: Zambian
+code: ""
+callingcodes:
+- "260"
+tlds:
+- .zm
+languages:
+  eng: English
+translations:
+  deu:
+    common: Sambia
+    official: Republik Sambia
+  fin:
+    common: Sambia
+    official: Sambian tasavalta
+  fra:
+    common: Zambie
+    official: République de Zambie
+  hrv:
+    common: Zambija
+    official: Republika Zambija
+  ita:
+    common: Zambia
+    official: Repubblica di Zambia
+  jpn:
+    common: ザンビア
+    official: ザンビア共和国
+  nld:
+    common: Zambia
+    official: Republiek Zambia
+  por:
+    common: Zâmbia
+    official: República da Zâmbia
+  rus:
+    common: Замбия
+    official: Республика Замбия
+  spa:
+    common: Zambia
+    official: República de Zambia
+alpha2: ZM
+alpha3: ZMB
+cioc: ZAM
+capital: Lusaka
+borders:
+- AGO
+- BWA
+- COD
+- MWI
+- MOZ
+- NAM
+- TZA
+- ZWE
+landlocked: true
+area: 752612
+region: Africa
+subregion: Eastern Africa
+currencies:
+- ZMW
+countrycode: "260"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 30 00 E
+latitude: 15 00 S
+coordinates:
+  minlongitude: 22
+  minlatitude: -18.05
+  maxlongitude: 39.283333
+  maxlatitude: 5
+  latitudef: -13.458845
+  longitudef: 27.788097

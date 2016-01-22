@@ -1,0 +1,77 @@
+name:
+  common: Poland
+  official: Republic of Poland
+  native:
+    pol:
+      common: Polska
+      official: Rzeczpospolita Polska
+nationality: Polish
+code: ""
+callingcodes:
+- "48"
+tlds:
+- .pl
+languages:
+  pol: Polish
+translations:
+  deu:
+    common: Polen
+    official: Republik Polen
+  fin:
+    common: Puola
+    official: Puolan tasavalta
+  fra:
+    common: Pologne
+    official: République de Pologne
+  hrv:
+    common: Poljska
+    official: Republika Poljska
+  ita:
+    common: Polonia
+    official: Repubblica di Polonia
+  jpn:
+    common: ポーランド
+    official: ポーランド共和国
+  nld:
+    common: Polen
+    official: Republiek Polen
+  por:
+    common: Polónia
+    official: República da Polónia
+  rus:
+    common: Польша
+    official: Республика Польша
+  spa:
+    common: Polonia
+    official: República de Polonia
+alpha2: PL
+alpha3: POL
+cioc: POL
+capital: Warsaw
+borders:
+- BLR
+- CZE
+- DEU
+- LTU
+- RUS
+- SVK
+- UKR
+landlocked: false
+area: 312679
+region: Europe
+subregion: Eastern Europe
+currencies:
+- PLN
+countrycode: "48"
+internationalprefix: "00"
+continent: Europe
+eumember: true
+longitude: 20 00 E
+latitude: 52 00 N
+coordinates:
+  minlongitude: 14
+  minlatitude: 45.5
+  maxlongitude: 26.5
+  maxlatitude: 54.833332
+  latitudef: 52.14785
+  longitudef: 19.37776

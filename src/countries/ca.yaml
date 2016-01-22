@@ -1,0 +1,78 @@
+name:
+  common: Canada
+  official: Canada
+  native:
+    eng:
+      common: Canada
+      official: Canada
+    fra:
+      common: Canada
+      official: Canada
+nationality: Canadian
+code: ""
+callingcodes:
+- "1"
+tlds:
+- .ca
+languages:
+  eng: English
+  fra: French
+translations:
+  cym:
+    common: Canada
+    official: Canada
+  deu:
+    common: Kanada
+    official: Kanada
+  fin:
+    common: Kanada
+    official: Kanada
+  fra:
+    common: Canada
+    official: Canada
+  hrv:
+    common: Kanada
+    official: Kanada
+  ita:
+    common: Canada
+    official: Canada
+  jpn:
+    common: カナダ
+    official: カナダ
+  nld:
+    common: Canada
+    official: Canada
+  por:
+    common: Canadá
+    official: Canadá
+  rus:
+    common: Канада
+    official: Канада
+  spa:
+    common: Canadá
+    official: Canadá
+alpha2: CA
+alpha3: CAN
+cioc: CAN
+capital: Ottawa
+borders:
+- USA
+landlocked: false
+area: 9.98467e+06
+region: Americas
+subregion: Northern America
+currencies:
+- CAD
+countrycode: "1"
+internationalprefix: "011"
+continent: North America
+eumember: false
+longitude: 95 00 W
+latitude: 60 00 N
+coordinates:
+  minlongitude: -141.66667
+  minlatitude: 40
+  maxlongitude: -52.666668
+  maxlatitude: 83.11667
+  latitudef: 62.83291
+  longitudef: -95.91332

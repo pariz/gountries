@@ -1,0 +1,76 @@
+name:
+  common: Swaziland
+  official: Kingdom of Swaziland
+  native:
+    eng:
+      common: Swaziland
+      official: Kingdom of Swaziland
+    ssw:
+      common: Swaziland
+      official: Kingdom of Swaziland
+nationality: Swazi
+code: ""
+callingcodes:
+- "268"
+tlds:
+- .sz
+languages:
+  eng: English
+  ssw: Swazi
+translations:
+  deu:
+    common: Swasiland
+    official: Königreich Swasiland
+  fin:
+    common: Swazimaa
+    official: Swazimaan kuningaskunta
+  fra:
+    common: Swaziland
+    official: Royaume du Swaziland
+  hrv:
+    common: Svazi
+    official: Kraljevina Svazi
+  ita:
+    common: Swaziland
+    official: Regno dello Swaziland
+  jpn:
+    common: スワジランド
+    official: スワジランド王国
+  nld:
+    common: Swaziland
+    official: Koninkrijk Swaziland
+  por:
+    common: Suazilândia
+    official: Reino da Suazilândia
+  rus:
+    common: Свазиленд
+    official: Королевство Свазиленд
+  spa:
+    common: Suazilandia
+    official: Reino de Swazilandia
+alpha2: SZ
+alpha3: SWZ
+cioc: SWZ
+capital: Lobamba
+borders:
+- MOZ
+- ZAF
+landlocked: true
+area: 17364
+region: Africa
+subregion: Southern Africa
+currencies:
+- SZL
+countrycode: "268"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 31 30 E
+latitude: 26 30 S
+coordinates:
+  minlongitude: 30.783333
+  minlatitude: -27.316668
+  maxlongitude: 32.13333
+  maxlatitude: -25.783333
+  latitudef: -26.565134
+  longitudef: 31.498114

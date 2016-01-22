@@ -11,7 +11,6 @@ import (
 
 func TestMain(m *testing.M) {
 	var err error
-	query, err = New()
 
 	if err != nil {
 		panic(err)
@@ -29,7 +28,7 @@ func TestFindCountryByName(t *testing.T) {
 	// Test for lowercase
 	//
 
-	result, err = query.FindCountryByName("sweden")
+	result, err = Query.FindCountryByName("sweden")
 
 	if err != nil {
 		t.Fail()
@@ -40,7 +39,7 @@ func TestFindCountryByName(t *testing.T) {
 	// Test for uppercase
 	//
 
-	result, err = query.FindCountryByName("SWEDEN")
+	result, err = Query.FindCountryByName("SWEDEN")
 
 	if err != nil {
 		t.Fail()
@@ -55,7 +54,7 @@ func TestFindCountryByName(t *testing.T) {
 
 	for _, invariant := range invariants {
 
-		result, err = query.FindCountryByName(invariant)
+		result, err = Query.FindCountryByName(invariant)
 
 		if err != nil {
 			t.Fail()
@@ -75,7 +74,7 @@ func TestFindCountryByCode(t *testing.T) {
 	// Test for lowercase
 	//
 
-	result, err = query.FindCountryByCode("se")
+	result, err = Query.FindCountryByCode("se")
 
 	if err != nil {
 		t.Fail()
@@ -86,7 +85,7 @@ func TestFindCountryByCode(t *testing.T) {
 	// Test for uppercase
 	//
 
-	result, err = query.FindCountryByCode("SE")
+	result, err = Query.FindCountryByCode("SE")
 
 	if err != nil {
 		t.Fail()
@@ -97,7 +96,7 @@ func TestFindCountryByCode(t *testing.T) {
 	// Test for invariants
 	//
 
-	result, err = query.FindCountryByCode("Se")
+	result, err = Query.FindCountryByCode("Se")
 
 	if err != nil {
 		t.Fail()
@@ -108,7 +107,7 @@ func TestFindCountryByCode(t *testing.T) {
 	// Test for wrong code types (wrong length)
 	//
 
-	result, err = query.FindCountryByCode("SEE")
+	result, err = Query.FindCountryByCode("SEE")
 
 	if err != nil {
 		assert.EqualError(t, err, "Could not find country with code SEE")
@@ -120,7 +119,7 @@ func TestFindCountryByCode(t *testing.T) {
 	// Test for wrong code types: too long
 	//
 
-	result, err = query.FindCountryByCode("SEEE")
+	result, err = Query.FindCountryByCode("SEEE")
 
 	if err != nil {
 		assert.EqualError(t, err, "SEEE is an invalid code format")
@@ -132,7 +131,7 @@ func TestFindCountryByCode(t *testing.T) {
 	// Test for wrong code types: too short
 	//
 
-	result, err = query.FindCountryByCode("S")
+	result, err = Query.FindCountryByCode("S")
 
 	if err != nil {
 		assert.EqualError(t, err, "S is an invalid code format")
@@ -145,7 +144,7 @@ func TestFindCountryByCode(t *testing.T) {
 
 func ExampleBorderCountries() {
 
-	se, _ := query.FindCountryByCode("SWE")
+	se, _ := Query.FindCountryByCode("SWE")
 	for _, country := range se.BorderingCountries() {
 		fmt.Println(country.Name.Common)
 	}

@@ -1,0 +1,79 @@
+name:
+  common: Kenya
+  official: Republic of Kenya
+  native:
+    eng:
+      common: Kenya
+      official: Republic of Kenya
+    swa:
+      common: Kenya
+      official: Republic of Kenya
+nationality: Kenyan
+code: ""
+callingcodes:
+- "254"
+tlds:
+- .ke
+languages:
+  eng: English
+  swa: Swahili
+translations:
+  deu:
+    common: Kenia
+    official: Republik Kenia
+  fin:
+    common: Kenia
+    official: Kenian tasavalta
+  fra:
+    common: Kenya
+    official: République du Kenya
+  hrv:
+    common: Kenija
+    official: Republika Kenija
+  ita:
+    common: Kenya
+    official: Repubblica del Kenya
+  jpn:
+    common: ケニア
+    official: ケニア共和国
+  nld:
+    common: Kenia
+    official: Republiek Kenia
+  por:
+    common: Quénia
+    official: República do Quénia
+  rus:
+    common: Кения
+    official: Республика Кения
+  spa:
+    common: Kenia
+    official: República de Kenya
+alpha2: KE
+alpha3: KEN
+cioc: KEN
+capital: Nairobi
+borders:
+- ETH
+- SOM
+- SSD
+- TZA
+- UGA
+landlocked: false
+area: 580367
+region: Africa
+subregion: Eastern Africa
+currencies:
+- KES
+countrycode: "254"
+internationalprefix: "000"
+continent: Africa
+eumember: false
+longitude: 38 00 E
+latitude: 1 00 N
+coordinates:
+  minlongitude: 27.433332
+  minlatitude: -4.716667
+  maxlongitude: 41.858383
+  maxlatitude: 4.883333
+  latitudef: 0.57650316
+  longitudef: 37.83989

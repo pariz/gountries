@@ -1,0 +1,76 @@
+name:
+  common: Sint Maarten
+  official: Sint Maarten
+  native:
+    eng:
+      common: Sint Maarten
+      official: Sint Maarten
+    fra:
+      common: Saint-Martin
+      official: Saint-Martin
+    nld:
+      common: Sint Maarten
+      official: Sint Maarten
+nationality: St. Maartener
+code: ""
+callingcodes:
+- "1721"
+tlds:
+- .sx
+languages:
+  eng: English
+  fra: French
+  nld: Dutch
+translations:
+  deu:
+    common: Sint Maarten
+    official: Sint Maarten
+  fin:
+    common: Sint Maarten
+    official: Sint Maarten
+  fra:
+    common: Saint-Martin
+    official: Sint Maarten
+  ita:
+    common: Sint Maarten
+    official: Sint Maarten
+  jpn:
+    common: シント・マールテン
+    official: シントマールテン島
+  nld:
+    common: Sint Maarten
+    official: Sint Maarten
+  por:
+    common: São Martinho
+    official: Sint Maarten
+  rus:
+    common: Синт-Мартен
+    official: Синт-Маартен
+  spa:
+    common: Sint Maarten
+    official: Sint Maarten
+alpha2: SX
+alpha3: SXM
+cioc: ""
+capital: Philipsburg
+borders:
+- MAF
+landlocked: false
+area: 34
+region: Americas
+subregion: Caribbean
+currencies:
+- ANG
+countrycode: "1"
+internationalprefix: "011"
+continent: North America
+eumember: false
+longitude: ""
+latitude: ""
+coordinates:
+  minlongitude: -63.137978
+  minlatitude: 18.005266
+  maxlongitude: -62.998245
+  maxlatitude: 18.06417
+  latitudef: 18.042225
+  longitudef: -63.066235

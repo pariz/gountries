@@ -1,0 +1,70 @@
+name:
+  common: Saint Lucia
+  official: Saint Lucia
+  native:
+    eng:
+      common: Saint Lucia
+      official: Saint Lucia
+nationality: Saint Lucian
+code: ""
+callingcodes:
+- "1758"
+tlds:
+- .lc
+languages:
+  eng: English
+translations:
+  deu:
+    common: Saint Lucia
+    official: St. Lucia
+  fin:
+    common: Saint Lucia
+    official: Saint Lucia
+  fra:
+    common: Sainte-Lucie
+    official: Sainte-Lucie
+  hrv:
+    common: Sveta Lucija
+    official: Sveta Lucija
+  ita:
+    common: Santa Lucia
+    official: Santa Lucia
+  jpn:
+    common: セントルシア
+    official: セントルシア
+  nld:
+    common: Saint Lucia
+    official: Saint Lucia
+  por:
+    common: Santa Lúcia
+    official: Santa Lúcia
+  rus:
+    common: Сент-Люсия
+    official: Сент-Люсия
+  spa:
+    common: Santa Lucía
+    official: Santa Lucía
+alpha2: LC
+alpha3: LCA
+cioc: LCA
+capital: Castries
+borders: []
+landlocked: false
+area: 616
+region: Americas
+subregion: Caribbean
+currencies:
+- XCD
+countrycode: "1"
+internationalprefix: "011"
+continent: North America
+eumember: false
+longitude: 60 58 W
+latitude: 13 53 N
+coordinates:
+  minlongitude: -61.066666
+  minlatitude: 13.7
+  maxlongitude: -60.86667
+  maxlatitude: 14.1
+  latitudef: 13.863305
+  longitudef: -60.966564

@@ -1,0 +1,75 @@
+name:
+  common: Andorra
+  official: Principality of Andorra
+  native:
+    cat:
+      common: Andorra
+      official: Principat d'Andorra
+nationality: Andorran
+code: ""
+callingcodes:
+- "376"
+tlds:
+- .ad
+languages:
+  cat: Catalan
+translations:
+  cym:
+    common: Andorra
+    official: Principality of Andorra
+  deu:
+    common: Andorra
+    official: Fürstentum Andorra
+  fin:
+    common: Andorra
+    official: Andorran ruhtinaskunta
+  fra:
+    common: Andorre
+    official: Principauté d'Andorre
+  hrv:
+    common: Andora
+    official: Kneževina Andora
+  ita:
+    common: Andorra
+    official: Principato di Andorra
+  jpn:
+    common: アンドラ
+    official: アンドラ公国
+  nld:
+    common: Andorra
+    official: Prinsdom Andorra
+  por:
+    common: Andorra
+    official: Principado de Andorra
+  rus:
+    common: Андорра
+    official: Княжество Андорра
+  spa:
+    common: Andorra
+    official: Principado de Andorra
+alpha2: AD
+alpha3: AND
+cioc: AND
+capital: Andorra la Vella
+borders:
+- FRA
+- ESP
+landlocked: true
+area: 468
+region: Europe
+subregion: Southern Europe
+currencies:
+- EUR
+countrycode: "376"
+internationalprefix: "00"
+continent: Europe
+eumember: false
+longitude: 1 30 E
+latitude: 42 30 N
+coordinates:
+  minlongitude: 1.416667
+  minlatitude: 42.433334
+  maxlongitude: 1.783333
+  maxlatitude: 42.65
+  latitudef: 42.55066
+  longitudef: 1.5762333

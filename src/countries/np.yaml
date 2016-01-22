@@ -1,0 +1,72 @@
+name:
+  common: Nepal
+  official: Federal Democratic Republic of Nepal
+  native:
+    nep:
+      common: नपल
+      official: नेपाल संघीय लोकतान्त्रिक गणतन्त्र
+nationality: Nepalese
+code: ""
+callingcodes:
+- "977"
+tlds:
+- .np
+languages:
+  nep: Nepali
+translations:
+  deu:
+    common: Népal
+    official: Demokratischen Bundesrepublik Nepal
+  fin:
+    common: Nepal
+    official: Nepalin demokraattinen liittotasavalta
+  fra:
+    common: Népal
+    official: République du Népal
+  hrv:
+    common: Nepal
+    official: Savezna Demokratska Republika Nepal
+  ita:
+    common: Nepal
+    official: Repubblica federale democratica del Nepal
+  jpn:
+    common: ネパール
+    official: ネパール連邦民主共和国
+  nld:
+    common: Nepal
+    official: Federale Democratische Republiek Nepal
+  por:
+    common: Nepal
+    official: República Democrática Federal do Nepal
+  rus:
+    common: Непал
+    official: Федеративная Демократическая Республика Непал
+  spa:
+    common: Nepal
+    official: República Democrática Federal de Nepal
+alpha2: NP
+alpha3: NPL
+cioc: NEP
+capital: Kathmandu
+borders:
+- CHN
+- IND
+landlocked: true
+area: 147181
+region: Asia
+subregion: Southern Asia
+currencies:
+- NPR
+countrycode: "977"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 84 00 E
+latitude: 28 00 N
+coordinates:
+  minlongitude: 80
+  minlatitude: 26.45
+  maxlongitude: 88.183334
+  maxlatitude: 30.45
+  latitudef: 28.259138
+  longitudef: 83.94416

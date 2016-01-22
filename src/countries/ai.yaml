@@ -1,0 +1,70 @@
+name:
+  common: Anguilla
+  official: Anguilla
+  native:
+    eng:
+      common: Anguilla
+      official: Anguilla
+nationality: Anguillian
+code: ""
+callingcodes:
+- "1264"
+tlds:
+- .ai
+languages:
+  eng: English
+translations:
+  deu:
+    common: Anguilla
+    official: Anguilla
+  fin:
+    common: Anguilla
+    official: Anguilla
+  fra:
+    common: Anguilla
+    official: Anguilla
+  hrv:
+    common: Angvila
+    official: Anguilla
+  ita:
+    common: Anguilla
+    official: Anguilla
+  jpn:
+    common: アンギラ
+    official: アングィラ
+  nld:
+    common: Anguilla
+    official: Anguilla
+  por:
+    common: Anguilla
+    official: Anguilla
+  rus:
+    common: Ангилья
+    official: Ангилья
+  spa:
+    common: Anguilla
+    official: Anguila
+alpha2: AI
+alpha3: AIA
+cioc: ""
+capital: The Valley
+borders: []
+landlocked: false
+area: 91
+region: Americas
+subregion: Caribbean
+currencies:
+- XCD
+countrycode: "1"
+internationalprefix: "011"
+continent: North America
+eumember: false
+longitude: 63 10 W
+latitude: 18 15 N
+coordinates:
+  minlongitude: -63.433334
+  minlatitude: 18.15
+  maxlongitude: -62.916668
+  maxlatitude: 18.6
+  latitudef: 18.226467
+  longitudef: -63.04735

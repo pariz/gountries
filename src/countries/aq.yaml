@@ -1,0 +1,67 @@
+name:
+  common: Antarctica
+  official: Antarctica
+  native: {}
+nationality: Antarctican
+code: ""
+callingcodes: []
+tlds:
+- .aq
+languages: {}
+translations:
+  cym:
+    common: Antarctica
+    official: Antarctica
+  deu:
+    common: Antarktis
+    official: Antarktika
+  fin:
+    common: Etelämanner
+    official: Etelämanner
+  fra:
+    common: Antarctique
+    official: Antarctique
+  hrv:
+    common: Antarktika
+    official: Antarktika
+  ita:
+    common: Antartide
+    official: Antartide
+  jpn:
+    common: 南極
+    official: 南極大陸
+  nld:
+    common: Antarctica
+    official: Antarctica
+  por:
+    common: Antártida
+    official: Antártica
+  rus:
+    common: Антарктида
+    official: Антарктида
+  spa:
+    common: Antártida
+    official: Antártida
+alpha2: AQ
+alpha3: ATA
+cioc: ""
+capital: ""
+borders: []
+landlocked: false
+area: 1.4e+07
+region: ""
+subregion: ""
+currencies: []
+countrycode: "672"
+internationalprefix: ""
+continent: Antarctica
+eumember: false
+longitude: 0 00 E
+latitude: 90 00 S
+coordinates:
+  minlongitude: -180
+  minlatitude: -90
+  maxlongitude: 180
+  maxlatitude: -60
+  latitudef: -82.862755
+  longitudef: -135

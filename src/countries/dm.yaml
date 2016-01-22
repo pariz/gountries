@@ -1,0 +1,73 @@
+name:
+  common: Dominica
+  official: Commonwealth of Dominica
+  native:
+    eng:
+      common: Dominica
+      official: Commonwealth of Dominica
+nationality: Dominican
+code: ""
+callingcodes:
+- "1767"
+tlds:
+- .dm
+languages:
+  eng: English
+translations:
+  cym:
+    common: Dominica
+    official: Commonwealth of Dominica
+  deu:
+    common: Dominica
+    official: Commonwealth von Dominica
+  fin:
+    common: Dominica
+    official: Dominican liittovaltio
+  fra:
+    common: Dominique
+    official: Commonwealth de la Dominique
+  hrv:
+    common: Dominika
+    official: Zajednica Dominika
+  ita:
+    common: Dominica
+    official: Commonwealth di Dominica
+  jpn:
+    common: ドミニカ国
+    official: ドミニカ国
+  nld:
+    common: Dominica
+    official: Gemenebest Dominica
+  por:
+    common: Dominica
+    official: Comunidade da Dominica
+  rus:
+    common: Доминика
+    official: Содружество Доминики
+  spa:
+    common: Dominica
+    official: Mancomunidad de Dominica
+alpha2: DM
+alpha3: DMA
+cioc: DMA
+capital: Roseau
+borders: []
+landlocked: false
+area: 751
+region: Americas
+subregion: Caribbean
+currencies:
+- XCD
+countrycode: "1"
+internationalprefix: "011"
+continent: North America
+eumember: false
+longitude: 61 20 W
+latitude: 15 25 N
+coordinates:
+  minlongitude: -61.483334
+  minlatitude: 15.2
+  maxlongitude: -61.25
+  maxlatitude: 15.633333
+  latitudef: 15.399106
+  longitudef: -61.33946

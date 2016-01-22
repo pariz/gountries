@@ -1,0 +1,70 @@
+name:
+  common: Saint Barthélemy
+  official: Collectivity of Saint Barthélemy
+  native:
+    fra:
+      common: Saint-Barthélemy
+      official: Collectivité de Saint-Barthélemy
+nationality: Saint Barthélemy Islander
+code: ""
+callingcodes:
+- "590"
+tlds:
+- .bl
+languages:
+  fra: French
+translations:
+  deu:
+    common: Saint-Barthélemy
+    official: Gebietskörperschaft Saint -Barthélemy
+  fin:
+    common: Saint-Barthélemy
+    official: Saint-Barthélemyn yhteisö
+  fra:
+    common: Saint-Barthélemy
+    official: Collectivité de Saint-Barthélemy
+  hrv:
+    common: Saint Barthélemy
+    official: Kolektivnost sv Barthélemy
+  ita:
+    common: Antille Francesi
+    official: Collettività di Saint Barthélemy
+  jpn:
+    common: サン・バルテルミー
+    official: サン·バルテルミー島の集合体
+  nld:
+    common: Saint Barthélemy
+    official: Gemeenschap Saint Barthélemy
+  por:
+    common: São Bartolomeu
+    official: Coletividade de Saint Barthélemy
+  rus:
+    common: Сен-Бартелеми
+    official: Коллективность Санкт -Бартельми
+  spa:
+    common: San Bartolomé
+    official: Colectividad de San Barthélemy
+alpha2: BL
+alpha3: BLM
+cioc: ""
+capital: Gustavia
+borders: []
+landlocked: false
+area: 21
+region: Americas
+subregion: Caribbean
+currencies:
+- EUR
+countrycode: "590"
+internationalprefix: ""
+continent: North America
+eumember: false
+longitude: 62 85 W
+latitude: 17 90 N
+coordinates:
+  minlongitude: -62.911846
+  minlatitude: 17.870829
+  maxlongitude: -62.789215
+  maxlatitude: 17.960854
+  latitudef: 17.896261
+  longitudef: -62.830612

@@ -1,0 +1,73 @@
+name:
+  common: Gabon
+  official: Gabonese Republic
+  native:
+    fra:
+      common: Gabon
+      official: République gabonaise
+nationality: Gabonese
+code: ""
+callingcodes:
+- "241"
+tlds:
+- .ga
+languages:
+  fra: French
+translations:
+  deu:
+    common: Gabun
+    official: Gabunische Republik
+  fin:
+    common: Gabon
+    official: Gabonin tasavalta
+  fra:
+    common: Gabon
+    official: République gabonaise
+  hrv:
+    common: Gabon
+    official: Gabon Republika
+  ita:
+    common: Gabon
+    official: Repubblica gabonese
+  jpn:
+    common: ガボン
+    official: ガボン共和国
+  nld:
+    common: Gabon
+    official: Republiek Gabon
+  por:
+    common: Gabão
+    official: República do Gabão
+  rus:
+    common: Габон
+    official: Габона Республика
+  spa:
+    common: Gabón
+    official: República de Gabón
+alpha2: GA
+alpha3: GAB
+cioc: GAB
+capital: Libreville
+borders:
+- CMR
+- COG
+- GNQ
+landlocked: false
+area: 267668
+region: Africa
+subregion: Middle Africa
+currencies:
+- XAF
+countrycode: "241"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 11 45 E
+latitude: 1 00 S
+coordinates:
+  minlongitude: 8.7
+  minlatitude: -3.9
+  maxlongitude: 14.483333
+  maxlatitude: 2.283333
+  latitudef: -0.6345401
+  longitudef: 11.738608

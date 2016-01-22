@@ -1,0 +1,70 @@
+name:
+  common: Maldives
+  official: Republic of the Maldives
+  native:
+    div:
+      common: ދިވެހިރާއްޖޭގެ
+      official: ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ
+nationality: Maldivan
+code: ""
+callingcodes:
+- "960"
+tlds:
+- .mv
+languages:
+  div: Maldivian
+translations:
+  deu:
+    common: Malediven
+    official: Republik Malediven
+  fin:
+    common: Malediivit
+    official: Malediivien tasavalta
+  fra:
+    common: Maldives
+    official: République des Maldives
+  hrv:
+    common: Maldivi
+    official: Republika Maldivi
+  ita:
+    common: Maldive
+    official: Repubblica delle Maldive
+  jpn:
+    common: モルディブ
+    official: モルディブ共和国
+  nld:
+    common: Maldiven
+    official: Republiek van de Malediven
+  por:
+    common: Maldivas
+    official: República das Maldivas
+  rus:
+    common: Мальдивы
+    official: Республика Мальдивы
+  spa:
+    common: Maldivas
+    official: República de las Maldivas
+alpha2: MV
+alpha3: MDV
+cioc: MDV
+capital: Malé
+borders: []
+landlocked: false
+area: 300
+region: Asia
+subregion: Southern Asia
+currencies:
+- MVR
+countrycode: "960"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 73 00 E
+latitude: 3 15 N
+coordinates:
+  minlongitude: 72.583336
+  minlatitude: -0.7
+  maxlongitude: 73.7
+  maxlatitude: 7.1
+  latitudef: 4.185885
+  longitudef: 73.530716

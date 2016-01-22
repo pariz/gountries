@@ -1,0 +1,130 @@
+name:
+  common: Zimbabwe
+  official: Republic of Zimbabwe
+  native:
+    bwg:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    eng:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    kck:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    khi:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    ndc:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    nde:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    nya:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    sna:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    sot:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    toi:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    tsn:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    tso:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    ven:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    xho:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+    zib:
+      common: Zimbabwe
+      official: Republic of Zimbabwe
+nationality: Zimbabwean
+code: ""
+callingcodes:
+- "263"
+tlds:
+- .zw
+languages:
+  bwg: Chibarwe
+  eng: English
+  kck: Kalanga
+  khi: Khoisan
+  ndc: Ndau
+  nde: Northern Ndebele
+  nya: Chewa
+  sna: Shona
+  sot: Sotho
+  toi: Tonga
+  tsn: Tswana
+  tso: Tsonga
+  ven: Venda
+  xho: Xhosa
+  zib: Zimbabwean Sign Language
+translations:
+  deu:
+    common: Simbabwe
+    official: Republik Simbabwe
+  fin:
+    common: Zimbabwe
+    official: Zimbabwen tasavalta
+  fra:
+    common: Zimbabwe
+    official: République du Zimbabwe
+  hrv:
+    common: Zimbabve
+    official: Republika Zimbabve
+  ita:
+    common: Zimbabwe
+    official: Repubblica dello Zimbabwe
+  jpn:
+    common: ジンバブエ
+    official: ジンバブエ共和国
+  nld:
+    common: Zimbabwe
+    official: Republiek Zimbabwe
+  por:
+    common: Zimbabwe
+    official: República do Zimbabwe
+  rus:
+    common: Зимбабве
+    official: Республика Зимбабве
+  spa:
+    common: Zimbabue
+    official: República de Zimbabue
+alpha2: ZW
+alpha3: ZWE
+cioc: ZIM
+capital: Harare
+borders:
+- BWA
+- MOZ
+- ZAF
+- ZMB
+landlocked: true
+area: 390757
+region: Africa
+subregion: Eastern Africa
+currencies:
+- ZWL
+countrycode: "263"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 30 00 E
+latitude: 20 00 S
+coordinates:
+  minlongitude: 25.333332
+  minlatitude: -22.316668
+  maxlongitude: 33.05
+  maxlatitude: -15.6
+  latitudef: -19.00028
+  longitudef: 29.868761

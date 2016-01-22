@@ -1,0 +1,73 @@
+name:
+  common: Togo
+  official: Togolese Republic
+  native:
+    fra:
+      common: Togo
+      official: République togolaise
+nationality: Togolese
+code: ""
+callingcodes:
+- "228"
+tlds:
+- .tg
+languages:
+  fra: French
+translations:
+  deu:
+    common: Togo
+    official: Republik Togo
+  fin:
+    common: Togo
+    official: Togon tasavalta
+  fra:
+    common: Togo
+    official: République togolaise
+  hrv:
+    common: Togo
+    official: Togolese Republika
+  ita:
+    common: Togo
+    official: Repubblica del Togo
+  jpn:
+    common: トーゴ
+    official: トーゴ共和国
+  nld:
+    common: Togo
+    official: Republiek Togo
+  por:
+    common: Togo
+    official: República do Togo
+  rus:
+    common: Того
+    official: Того Республика
+  spa:
+    common: Togo
+    official: República de Togo
+alpha2: TG
+alpha3: TGO
+cioc: TOG
+capital: Lomé
+borders:
+- BEN
+- BFA
+- GHA
+landlocked: false
+area: 56785
+region: Africa
+subregion: Western Africa
+currencies:
+- XOF
+countrycode: "228"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 1 10 E
+latitude: 8 00 N
+coordinates:
+  minlongitude: -4
+  minlatitude: 6.131944
+  maxlongitude: 1.816667
+  maxlatitude: 11.103889
+  latitudef: 8.5132265
+  longitudef: 0.98009753

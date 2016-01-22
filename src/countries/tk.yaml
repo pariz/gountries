@@ -1,0 +1,78 @@
+name:
+  common: Tokelau
+  official: Tokelau
+  native:
+    eng:
+      common: Tokelau
+      official: Tokelau
+    smo:
+      common: Tokelau
+      official: Tokelau
+    tkl:
+      common: Tokelau
+      official: Tokelau
+nationality: Tokelauan
+code: ""
+callingcodes:
+- "690"
+tlds:
+- .tk
+languages:
+  eng: English
+  smo: Samoan
+  tkl: Tokelauan
+translations:
+  deu:
+    common: Tokelau
+    official: Tokelau
+  fin:
+    common: Tokelau
+    official: Tokelau
+  fra:
+    common: Tokelau
+    official: Îles Tokelau
+  hrv:
+    common: Tokelau
+    official: Tokelau
+  ita:
+    common: Isole Tokelau
+    official: Tokelau
+  jpn:
+    common: トケラウ
+    official: トケラウ諸島
+  nld:
+    common: Tokelau
+    official: Tokelau
+  por:
+    common: Tokelau
+    official: Tokelau
+  rus:
+    common: Токелау
+    official: Токелау
+  spa:
+    common: Islas Tokelau
+    official: Tokelau
+alpha2: TK
+alpha3: TKL
+cioc: ""
+capital: Fakaofo
+borders: []
+landlocked: false
+area: 12
+region: Oceania
+subregion: Polynesia
+currencies:
+- NZD
+countrycode: "690"
+internationalprefix: "00"
+continent: Australia
+eumember: false
+longitude: 172 00 W
+latitude: 9 00 S
+coordinates:
+  minlongitude: -172.51666
+  minlatitude: -9.433333
+  maxlongitude: -171.18333
+  maxlatitude: -8.533333
+  latitudef: -8.979208
+  longitudef: -172.2017

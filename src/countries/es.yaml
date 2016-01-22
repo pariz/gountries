@@ -1,0 +1,91 @@
+name:
+  common: Spain
+  official: Kingdom of Spain
+  native:
+    cat:
+      common: Espanya
+      official: Regne d'Espanya
+    eus:
+      common: Espainia
+      official: Espainiako Erresuma
+    glg:
+      common: ""
+      official: Reino de España
+    oci:
+      common: Espanha
+      official: Reialme d'Espanha
+    spa:
+      common: España
+      official: Reino de España
+nationality: Spanish
+code: ""
+callingcodes:
+- "34"
+tlds:
+- .es
+languages:
+  cat: Catalan
+  eus: Basque
+  glg: Galician
+  oci: Occitan
+  spa: Spanish
+translations:
+  deu:
+    common: Spanien
+    official: Königreich Spanien
+  fin:
+    common: Espanja
+    official: Espanjan kuningaskunta
+  fra:
+    common: Espagne
+    official: Royaume d'Espagne
+  hrv:
+    common: Španjolska
+    official: Kraljevina Španjolska
+  ita:
+    common: Spagna
+    official: Regno di Spagna
+  jpn:
+    common: スペイン
+    official: スペイン王国
+  nld:
+    common: Spanje
+    official: Koninkrijk Spanje
+  por:
+    common: Espanha
+    official: Reino de Espanha
+  rus:
+    common: Испания
+    official: Королевство Испания
+  spa:
+    common: España
+    official: Reino de España
+alpha2: ES
+alpha3: ESP
+cioc: ESP
+capital: Madrid
+borders:
+- AND
+- FRA
+- GIB
+- PRT
+- MAR
+landlocked: false
+area: 505992
+region: Europe
+subregion: Southern Europe
+currencies:
+- EUR
+countrycode: "34"
+internationalprefix: "00"
+continent: Europe
+eumember: true
+longitude: 4 00 W
+latitude: 40 00 N
+coordinates:
+  minlongitude: -18.166668
+  minlatitude: 27.633333
+  maxlongitude: 4.333333
+  maxlatitude: 43.916668
+  latitudef: 40.396027
+  longitudef: -3.5506926

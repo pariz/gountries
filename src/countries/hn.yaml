@@ -1,0 +1,73 @@
+name:
+  common: Honduras
+  official: Republic of Honduras
+  native:
+    spa:
+      common: Honduras
+      official: República de Honduras
+nationality: Honduran
+code: ""
+callingcodes:
+- "504"
+tlds:
+- .hn
+languages:
+  spa: Spanish
+translations:
+  deu:
+    common: Honduras
+    official: Republik Honduras
+  fin:
+    common: Honduras
+    official: Hondurasin tasavalta
+  fra:
+    common: Honduras
+    official: République du Honduras
+  hrv:
+    common: Honduras
+    official: Republika Honduras
+  ita:
+    common: Honduras
+    official: Repubblica di Honduras
+  jpn:
+    common: ホンジュラス
+    official: ホンジュラス共和国
+  nld:
+    common: Honduras
+    official: Republiek Honduras
+  por:
+    common: Honduras
+    official: República de Honduras
+  rus:
+    common: Гондурас
+    official: Республика Гондурас
+  spa:
+    common: Honduras
+    official: República de Honduras
+alpha2: HN
+alpha3: HND
+cioc: HON
+capital: Tegucigalpa
+borders:
+- GTM
+- SLV
+- NIC
+landlocked: false
+area: 112492
+region: Americas
+subregion: Central America
+currencies:
+- HNL
+countrycode: "504"
+internationalprefix: "00"
+continent: North America
+eumember: false
+longitude: 86 30 W
+latitude: 15 00 N
+coordinates:
+  minlongitude: -89.333336
+  minlatitude: 13.016667
+  maxlongitude: -82.5
+  maxlatitude: 17.45
+  latitudef: 14.975033
+  longitudef: -86.26477

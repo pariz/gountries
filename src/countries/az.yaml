@@ -1,0 +1,82 @@
+name:
+  common: Azerbaijan
+  official: Republic of Azerbaijan
+  native:
+    aze:
+      common: Azərbaycan
+      official: Azərbaycan Respublikası
+    rus:
+      common: Азербайджан
+      official: Азербайджанская Республика
+nationality: Azerbaijani
+code: ""
+callingcodes:
+- "994"
+tlds:
+- .az
+languages:
+  aze: Azerbaijani
+  rus: Russian
+translations:
+  cym:
+    common: Aserbaijan
+    official: Republic of Azerbaijan
+  deu:
+    common: Aserbaidschan
+    official: Republik Aserbaidschan
+  fin:
+    common: Azerbaidzan
+    official: Azerbaidzanin tasavalta
+  fra:
+    common: Azerbaïdjan
+    official: République d'Azerbaïdjan
+  hrv:
+    common: Azerbajdžan
+    official: Republika Azerbajdžan
+  ita:
+    common: Azerbaijan
+    official: Repubblica dell'Azerbaigian
+  jpn:
+    common: アゼルバイジャン
+    official: アゼルバイジャン共和国
+  nld:
+    common: Azerbeidzjan
+    official: Republiek Azerbeidzjan
+  por:
+    common: Azerbeijão
+    official: República do Azerbaijão
+  rus:
+    common: Азербайджан
+    official: Азербайджанская Республика
+  spa:
+    common: Azerbaiyán
+    official: República de Azerbaiyán
+alpha2: AZ
+alpha3: AZE
+cioc: AZE
+capital: Baku
+borders:
+- ARM
+- GEO
+- IRN
+- RUS
+- TUR
+landlocked: true
+area: 86600
+region: Asia
+subregion: Western Asia
+currencies:
+- AZN
+countrycode: "994"
+internationalprefix: "810"
+continent: Asia
+eumember: false
+longitude: 47 30 E
+latitude: 40 30 N
+coordinates:
+  minlongitude: 44.87639
+  minlatitude: 38.416668
+  maxlongitude: 50.858334
+  maxlatitude: 41.910557
+  latitudef: 40.331005
+  longitudef: 47.8082

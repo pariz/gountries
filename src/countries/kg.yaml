@@ -1,0 +1,78 @@
+name:
+  common: Kyrgyzstan
+  official: Kyrgyz Republic
+  native:
+    kir:
+      common: Кыргызстан
+      official: Кыргыз Республикасы
+    rus:
+      common: Киргизия
+      official: Кыргызская Республика
+nationality: Kirghiz
+code: ""
+callingcodes:
+- "996"
+tlds:
+- .kg
+languages:
+  kir: Kyrgyz
+  rus: Russian
+translations:
+  deu:
+    common: Kirgisistan
+    official: Kirgisische Republik
+  fin:
+    common: Kirgisia
+    official: Kirgisian tasavalta
+  fra:
+    common: Kirghizistan
+    official: République kirghize
+  hrv:
+    common: Kirgistan
+    official: Kirgistanu
+  ita:
+    common: Kirghizistan
+    official: Kirghizistan
+  jpn:
+    common: キルギス
+    official: キルギス共和国
+  nld:
+    common: Kirgizië
+    official: Kirgizische Republiek
+  por:
+    common: Quirguistão
+    official: República do Quirguistão
+  rus:
+    common: Киргизия
+    official: Кыргызская Республика
+  spa:
+    common: Kirguizistán
+    official: República Kirguisa
+alpha2: KG
+alpha3: KGZ
+cioc: KGZ
+capital: Bishkek
+borders:
+- CHN
+- KAZ
+- TJK
+- UZB
+landlocked: true
+area: 199951
+region: Asia
+subregion: Central Asia
+currencies:
+- KGS
+countrycode: "996"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 75 00 E
+latitude: 41 00 N
+coordinates:
+  minlongitude: 69.333336
+  minlatitude: 39.25
+  maxlongitude: 80.11583
+  maxlatitude: 43.016666
+  latitudef: 41.464355
+  longitudef: 74.55522

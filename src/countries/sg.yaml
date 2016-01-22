@@ -1,0 +1,84 @@
+name:
+  common: Singapore
+  official: Republic of Singapore
+  native:
+    cmn:
+      common: 新加坡
+      official: 新加坡共和国
+    eng:
+      common: Singapore
+      official: Republic of Singapore
+    msa:
+      common: Singapura
+      official: Republik Singapura
+    tam:
+      common: சிங்கப்பூர்
+      official: சிங்கப்பூர் குடியரசு
+nationality: Singaporean
+code: ""
+callingcodes:
+- "65"
+tlds:
+- .sg
+- .新加坡
+- .சிங்கப்பூர்
+languages:
+  cmn: Mandarin
+  eng: English
+  msa: Malay
+  tam: Tamil
+translations:
+  deu:
+    common: Singapur
+    official: Republik Singapur
+  fin:
+    common: Singapore
+    official: Singaporen tasavalta
+  fra:
+    common: Singapour
+    official: République de Singapour
+  hrv:
+    common: Singapur
+    official: Republika Singapur
+  ita:
+    common: Singapore
+    official: Repubblica di Singapore
+  jpn:
+    common: シンガポール
+    official: シンガポール共和国
+  nld:
+    common: Singapore
+    official: Republiek Singapore
+  por:
+    common: Singapura
+    official: República de Singapura
+  rus:
+    common: Сингапур
+    official: Республика Сингапур
+  spa:
+    common: Singapur
+    official: República de Singapur
+alpha2: SG
+alpha3: SGP
+cioc: SIN
+capital: Singapore
+borders: []
+landlocked: false
+area: 710
+region: Asia
+subregion: South-Eastern Asia
+currencies:
+- SGD
+countrycode: "65"
+internationalprefix: "001"
+continent: Asia
+eumember: false
+longitude: 103 48 E
+latitude: 1 22 N
+coordinates:
+  minlongitude: 102
+  minlatitude: 1.159444
+  maxlongitude: 104.4075
+  maxlatitude: 4
+  latitudef: 1.3219959
+  longitudef: 103.82053

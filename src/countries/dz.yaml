@@ -1,0 +1,81 @@
+name:
+  common: Algeria
+  official: People's Democratic Republic of Algeria
+  native:
+    ara:
+      common: الجزائر
+      official: الجمهورية الديمقراطية الشعبية الجزائرية
+nationality: Algerian
+code: ""
+callingcodes:
+- "213"
+tlds:
+- .dz
+- الجزائر.
+languages:
+  ara: Arabic
+translations:
+  cym:
+    common: Algeria
+    official: People's Democratic Republic of Algeria
+  deu:
+    common: Algerien
+    official: Demokratische Volksrepublik Algerien
+  fin:
+    common: Algeria
+    official: Algerian demokraattinen kansantasavalta
+  fra:
+    common: Algérie
+    official: République démocratique et populaire d'Algérie
+  hrv:
+    common: Alžir
+    official: Narodna Demokratska Republika Alžir
+  ita:
+    common: Algeria
+    official: Repubblica popolare democratica di Algeria
+  jpn:
+    common: アルジェリア
+    official: アルジェリア人民民主共和国
+  nld:
+    common: Algerije
+    official: Democratische Volksrepubliek Algerije
+  por:
+    common: Argélia
+    official: República Argelina Democrática e Popular
+  rus:
+    common: Алжир
+    official: Народно-Демократическая Республика Алжир
+  spa:
+    common: Argelia
+    official: República Argelina Democrática y Popular
+alpha2: DZ
+alpha3: DZA
+cioc: ALG
+capital: Algiers
+borders:
+- TUN
+- LBY
+- NER
+- ESH
+- MRT
+- MLI
+- MAR
+landlocked: false
+area: 2.381741e+06
+region: Africa
+subregion: Northern Africa
+currencies:
+- DZD
+countrycode: "213"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 3 00 E
+latitude: 28 00 N
+coordinates:
+  minlongitude: -8.666667
+  minlatitude: 19
+  maxlongitude: 13
+  maxlatitude: 37.11667
+  latitudef: 28.213646
+  longitudef: 2.6547282

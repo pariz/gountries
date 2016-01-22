@@ -1,0 +1,74 @@
+name:
+  common: Aruba
+  official: Aruba
+  native:
+    nld:
+      common: Aruba
+      official: Aruba
+    pap:
+      common: Aruba
+      official: Aruba
+nationality: Aruban
+code: ""
+callingcodes:
+- "297"
+tlds:
+- .aw
+languages:
+  nld: Dutch
+  pap: Papiamento
+translations:
+  deu:
+    common: Aruba
+    official: Aruba
+  fin:
+    common: Aruba
+    official: Aruba
+  fra:
+    common: Aruba
+    official: Aruba
+  hrv:
+    common: Aruba
+    official: Aruba
+  ita:
+    common: Aruba
+    official: Aruba
+  jpn:
+    common: アルバ
+    official: アルバ
+  nld:
+    common: Aruba
+    official: Aruba
+  por:
+    common: Aruba
+    official: Aruba
+  rus:
+    common: Аруба
+    official: Аруба
+  spa:
+    common: Aruba
+    official: Aruba
+alpha2: AW
+alpha3: ABW
+cioc: ARU
+capital: Oranjestad
+borders: []
+landlocked: false
+area: 180
+region: Americas
+subregion: Caribbean
+currencies:
+- AWG
+countrycode: "297"
+internationalprefix: "00"
+continent: North America
+eumember: false
+longitude: 69 58 W
+latitude: 12 30 N
+coordinates:
+  minlongitude: -70.066666
+  minlatitude: 12.416667
+  maxlongitude: -69.85
+  maxlatitude: 12.616667
+  latitudef: 12.506523
+  longitudef: -69.969315

@@ -1,0 +1,73 @@
+name:
+  common: Suriname
+  official: Republic of Suriname
+  native:
+    nld:
+      common: Suriname
+      official: Republiek Suriname
+nationality: Surinamer
+code: ""
+callingcodes:
+- "597"
+tlds:
+- .sr
+languages:
+  nld: Dutch
+translations:
+  deu:
+    common: Suriname
+    official: Republik Suriname
+  fin:
+    common: Suriname
+    official: Surinamen tasavalta
+  fra:
+    common: Surinam
+    official: République du Suriname
+  hrv:
+    common: Surinam
+    official: Republika Surinam
+  ita:
+    common: Suriname
+    official: Repubblica del Suriname
+  jpn:
+    common: スリナム
+    official: スリナム共和国
+  nld:
+    common: Suriname
+    official: Republiek Suriname
+  por:
+    common: Suriname
+    official: República do Suriname
+  rus:
+    common: Суринам
+    official: Республика Суринам
+  spa:
+    common: Surinam
+    official: República de Suriname
+alpha2: SR
+alpha3: SUR
+cioc: SUR
+capital: Paramaribo
+borders:
+- BRA
+- GUF
+- GUY
+landlocked: false
+area: 163820
+region: Americas
+subregion: South America
+currencies:
+- SRD
+countrycode: "597"
+internationalprefix: "00"
+continent: South America
+eumember: false
+longitude: 56 00 W
+latitude: 4 00 N
+coordinates:
+  minlongitude: -60
+  minlatitude: 2.1
+  maxlongitude: -53.983334
+  maxlatitude: 6
+  latitudef: 4.216929
+  longitudef: -55.889217

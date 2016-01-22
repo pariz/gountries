@@ -6,7 +6,7 @@ import (
 )
 
 // FindCountryByName fincs a country by given name
-func (q *QueryHolder) FindCountryByName(name string) (result Country, err error) {
+func (q *query) FindCountryByName(name string) (result Country, err error) {
 
 	for _, country := range q.Countries {
 
@@ -20,7 +20,7 @@ func (q *QueryHolder) FindCountryByName(name string) (result Country, err error)
 }
 
 // FindCountryByCode fincs a country by given code
-func (q *QueryHolder) FindCountryByCode(code string) (result Country, err error) {
+func (q *query) FindCountryByCode(code string) (result Country, err error) {
 
 	for _, country := range q.Countries {
 		var countryCode = country.Alpha2
@@ -45,47 +45,30 @@ func (q *QueryHolder) FindCountryByCode(code string) (result Country, err error)
 
 // Country contains all countries and their country codes
 type Country struct {
-	Name    CountryName
-	Demonym string
+	Name struct {
+		BaseLang `yaml:",inline"`
+		Native   map[string]BaseLang
+	}
 
-	Code string
-	TLDs []string
+	EuMember    bool
+	LandLocked  bool
+	Nationality string `json:"demonym"`
+
+	//Code         string
+
+	TLDs []string `json:"tld"`
 
 	Languages    map[string]string
 	Translations map[string]BaseLang
 
-	Alpha2 string `json:"cca2"`
-	Alpha3 string `json:"cca3"`
-	CIOC   string
-
-	Capital string
+	Currencies []string `json:"currency"`
 
 	Borders []string
 
-	LandLocked bool
-
-	Area int64
-
-	// Yaml
-	//
-
-	Currency            string `yaml:"currency"`
-	CountryCode         int    `yaml:"country_code"`
-	InternationalPrefix string `yaml:"international_prefix"`
-	Continent           string `yaml:"continent"`
-	EuMember            bool   `yaml:"eu_member"`
-	Region              string `yaml:"region"`
-	SubRegion           string `yaml:"subregion"`
-
-	Longitude string `yaml:"longitude"`
-	Latitude  string `yaml:"latitude"`
-
-	MinLongitude float64 `yaml:"min_longitude"`
-	MinLatitude  float64 `yaml:"min_latitude"`
-	MaxLongitude float64 `yaml:"max_longitude"`
-	MaxLatitude  float64 `yaml:"max_latitude"`
-	LatitudeF    float64 `yaml:"latitude_dec"`
-	LongitudeF   float64 `yaml:"longitude_dec"`
+	// Grouped meta
+	Codes
+	Geo
+	Coordinates
 }
 
 // BorderingCountries gets the bordering countries for this country
@@ -93,7 +76,7 @@ func (c *Country) BorderingCountries() (countries []Country) {
 
 	for _, cca3 := range c.Borders {
 
-		if country, err := query.FindCountryByCode(cca3); err == nil {
+		if country, err := Query.FindCountryByCode(cca3); err == nil {
 			countries = append(countries, country)
 		}
 
@@ -103,14 +86,51 @@ func (c *Country) BorderingCountries() (countries []Country) {
 
 }
 
-// CountryName contains the common, official and native intepretations of the country name
-type CountryName struct {
-	BaseLang
-	Native map[string]BaseLang
-}
-
 // BaseLang is a basic structure for common language formatting in the JSON file
 type BaseLang struct {
-	Common   string
-	Official string
+	Common   string `json:"common"`
+	Official string `json:"official"`
+}
+
+type SubDivision struct {
+	Name  string
+	Names []string
+	Code  string
+
+	CountryAlpha2 string
+
+	Coordinates
+}
+
+type Geo struct {
+	Region    string `json:"region"`
+	SubRegion string `json:"subregion"`
+	Continent string // Yaml
+	Capital   string `json:"capital"`
+
+	Area float64
+}
+
+type Codes struct {
+	Alpha2 string `json:"cca2"`
+	Alpha3 string `json:"cca3"`
+	CIOC   string
+	CCN3   string
+
+	//CountryCode         string // Taml
+	CallingCodes []string `json:"callingCode"`
+
+	InternationalPrefix string // Yaml
+}
+
+type Coordinates struct {
+	LongitudeString string `json:longitude`
+	LatitudeString  string `json:latitude`
+
+	MinLongitude float64
+	MinLatitude  float64
+	MaxLongitude float64
+	MaxLatitude  float64
+	Latitude     float64
+	Longitude    float64
 }

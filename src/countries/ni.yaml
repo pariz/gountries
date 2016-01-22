@@ -1,0 +1,72 @@
+name:
+  common: Nicaragua
+  official: Republic of Nicaragua
+  native:
+    spa:
+      common: Nicaragua
+      official: República de Nicaragua
+nationality: Nicaraguan
+code: ""
+callingcodes:
+- "505"
+tlds:
+- .ni
+languages:
+  spa: Spanish
+translations:
+  deu:
+    common: Nicaragua
+    official: Republik Nicaragua
+  fin:
+    common: Nicaragua
+    official: Nicaraguan tasavalta
+  fra:
+    common: Nicaragua
+    official: République du Nicaragua
+  hrv:
+    common: Nikaragva
+    official: Republika Nikaragva
+  ita:
+    common: Nicaragua
+    official: Repubblica del Nicaragua
+  jpn:
+    common: ニカラグア
+    official: ニカラグア共和国
+  nld:
+    common: Nicaragua
+    official: Republiek Nicaragua
+  por:
+    common: Nicarágua
+    official: República da Nicarágua
+  rus:
+    common: Никарагуа
+    official: Республика Никарагуа
+  spa:
+    common: Nicaragua
+    official: República de Nicaragua
+alpha2: NI
+alpha3: NIC
+cioc: NCA
+capital: Managua
+borders:
+- CRI
+- HND
+landlocked: false
+area: 130373
+region: Americas
+subregion: Central America
+currencies:
+- NIO
+countrycode: "505"
+internationalprefix: "00"
+continent: North America
+eumember: false
+longitude: 85 00 W
+latitude: 13 00 N
+coordinates:
+  minlongitude: -87.684166
+  minlatitude: 10.716667
+  maxlongitude: -82.566666
+  maxlatitude: 15
+  latitudef: 12.903773
+  longitudef: -84.92182

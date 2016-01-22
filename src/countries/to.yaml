@@ -1,0 +1,74 @@
+name:
+  common: Tonga
+  official: Kingdom of Tonga
+  native:
+    eng:
+      common: Tonga
+      official: Kingdom of Tonga
+    ton:
+      common: Tonga
+      official: Kingdom of Tonga
+nationality: Tongan
+code: ""
+callingcodes:
+- "676"
+tlds:
+- .to
+languages:
+  eng: English
+  ton: Tongan
+translations:
+  deu:
+    common: Tonga
+    official: Königreich Tonga
+  fin:
+    common: Tonga
+    official: Tongan kuningaskunta
+  fra:
+    common: Tonga
+    official: Royaume des Tonga
+  hrv:
+    common: Tonga
+    official: Kraljevina Tonga
+  ita:
+    common: Tonga
+    official: Regno di Tonga
+  jpn:
+    common: トンガ
+    official: トンガ王国
+  nld:
+    common: Tonga
+    official: Koninkrijk Tonga
+  por:
+    common: Tonga
+    official: Reino de Tonga
+  rus:
+    common: Тонга
+    official: Королевство Тонга
+  spa:
+    common: Tonga
+    official: Reino de Tonga
+alpha2: TO
+alpha3: TON
+cioc: TGA
+capital: Nuku'alofa
+borders: []
+landlocked: false
+area: 747
+region: Oceania
+subregion: Polynesia
+currencies:
+- TOP
+countrycode: "676"
+internationalprefix: "00"
+continent: Australia
+eumember: false
+longitude: 175 00 W
+latitude: 20 00 S
+coordinates:
+  minlongitude: -176.2
+  minlatitude: -22.333332
+  maxlongitude: -150
+  maxlatitude: -15.566667
+  latitudef: -21.147612
+  longitudef: -175.25067

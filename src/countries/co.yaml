@@ -1,0 +1,78 @@
+name:
+  common: Colombia
+  official: Republic of Colombia
+  native:
+    spa:
+      common: Colombia
+      official: República de Colombia
+nationality: Colombian
+code: ""
+callingcodes:
+- "57"
+tlds:
+- .co
+languages:
+  spa: Spanish
+translations:
+  cym:
+    common: Colombia
+    official: Republic of Colombia
+  deu:
+    common: Kolumbien
+    official: Republik Kolumbien
+  fin:
+    common: Kolumbia
+    official: Kolumbian tasavalta
+  fra:
+    common: Colombie
+    official: République de Colombie
+  hrv:
+    common: Kolumbija
+    official: Republika Kolumbija
+  ita:
+    common: Colombia
+    official: Repubblica di Colombia
+  jpn:
+    common: コロンビア
+    official: コロンビア共和国
+  nld:
+    common: Colombia
+    official: Republiek Colombia
+  por:
+    common: Colômbia
+    official: República da Colômbia
+  rus:
+    common: Колумбия
+    official: Республика Колумбия
+  spa:
+    common: Colombia
+    official: República de Colombia
+alpha2: CO
+alpha3: COL
+cioc: COL
+capital: Bogotá
+borders:
+- BRA
+- ECU
+- PAN
+- PER
+- VEN
+landlocked: false
+area: 1.141748e+06
+region: Americas
+subregion: South America
+currencies:
+- COP
+countrycode: "57"
+internationalprefix: "005"
+continent: South America
+eumember: false
+longitude: 72 00 W
+latitude: 4 00 N
+coordinates:
+  minlongitude: -81.85
+  minlatitude: -4.214722
+  maxlongitude: -66.85472
+  maxlatitude: 13.383333
+  latitudef: 3.9976072
+  longitudef: -73.27797

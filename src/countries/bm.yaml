@@ -1,0 +1,73 @@
+name:
+  common: Bermuda
+  official: Bermuda
+  native:
+    eng:
+      common: Bermuda
+      official: Bermuda
+nationality: Bermudian
+code: ""
+callingcodes:
+- "1441"
+tlds:
+- .bm
+languages:
+  eng: English
+translations:
+  cym:
+    common: Bermiwda
+    official: Bermuda
+  deu:
+    common: Bermuda
+    official: Bermuda
+  fin:
+    common: Bermuda
+    official: Bermuda
+  fra:
+    common: Bermudes
+    official: Bermudes
+  hrv:
+    common: Bermudi
+    official: Bermuda
+  ita:
+    common: Bermuda
+    official: Bermuda
+  jpn:
+    common: バミューダ
+    official: バミューダ
+  nld:
+    common: Bermuda
+    official: Bermuda
+  por:
+    common: Bermudas
+    official: Bermudas
+  rus:
+    common: Бермудские Острова
+    official: Бермудские острова
+  spa:
+    common: Bermudas
+    official: Bermuda
+alpha2: BM
+alpha3: BMU
+cioc: BER
+capital: Hamilton
+borders: []
+landlocked: false
+area: 54
+region: Americas
+subregion: Northern America
+currencies:
+- BMD
+countrycode: "1"
+internationalprefix: "011"
+continent: North America
+eumember: false
+longitude: 64 45 W
+latitude: 32 20 N
+coordinates:
+  minlongitude: -64.882774
+  minlatitude: 32.246944
+  maxlongitude: -64.63333
+  maxlatitude: 32.390556
+  latitudef: 32.30267
+  longitudef: -64.751686

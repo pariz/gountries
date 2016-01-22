@@ -1,0 +1,76 @@
+name:
+  common: Vatican City
+  official: Vatican City State
+  native:
+    ita:
+      common: Vaticano
+      official: Stato della Città del Vaticano
+    lat:
+      common: Vaticanæ
+      official: Status Civitatis Vaticanæ
+nationality: Italian
+code: ""
+callingcodes:
+- "3906698"
+- "379"
+tlds:
+- .va
+languages:
+  ita: Italian
+  lat: Latin
+translations:
+  deu:
+    common: Vatikanstadt
+    official: Staat Vatikanstadt
+  fin:
+    common: Vatikaani
+    official: Vatikaanin kaupunkivaltio
+  fra:
+    common: Cité du Vatican
+    official: Cité du Vatican
+  hrv:
+    common: Vatikan
+    official: Vatikan
+  ita:
+    common: Città del Vaticano
+    official: Città del Vaticano
+  jpn:
+    common: バチカン市国
+    official: バチカン市国の状態
+  nld:
+    common: Vaticaanstad
+    official: Vaticaanstad
+  por:
+    common: Cidade do Vaticano
+    official: Cidade do Vaticano
+  rus:
+    common: Ватикан
+    official: Город-государство Ватикан
+  spa:
+    common: Ciudad del Vaticano
+    official: Ciudad del Vaticano
+alpha2: VA
+alpha3: VAT
+cioc: ""
+capital: Vatican City
+borders:
+- ITA
+landlocked: true
+area: 0.44
+region: Europe
+subregion: Southern Europe
+currencies:
+- EUR
+countrycode: "39"
+internationalprefix: "00"
+continent: Europe
+eumember: false
+longitude: 12 27 E
+latitude: 41 54 N
+coordinates:
+  minlongitude: 12.45
+  minlatitude: 41.9
+  maxlongitude: 12.45
+  maxlatitude: 41.9
+  latitudef: 41.903084
+  longitudef: 12.452852

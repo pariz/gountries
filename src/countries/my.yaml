@@ -1,0 +1,77 @@
+name:
+  common: Malaysia
+  official: Malaysia
+  native:
+    eng:
+      common: Malaysia
+      official: Malaysia
+    msa:
+      common: مليسيا
+      official: مليسيا
+nationality: Malaysian
+code: ""
+callingcodes:
+- "60"
+tlds:
+- .my
+languages:
+  eng: English
+  msa: Malay
+translations:
+  deu:
+    common: Malaysia
+    official: Malaysia
+  fin:
+    common: Malesia
+    official: Malesia
+  fra:
+    common: Malaisie
+    official: Fédération de Malaisie
+  hrv:
+    common: Malezija
+    official: Malezija
+  ita:
+    common: Malesia
+    official: Malaysia
+  jpn:
+    common: マレーシア
+    official: マレーシア
+  nld:
+    common: Maleisië
+    official: Maleisië
+  por:
+    common: Malásia
+    official: Malásia
+  rus:
+    common: Малайзия
+    official: Малайзия
+  spa:
+    common: Malasia
+    official: Malasia
+alpha2: MY
+alpha3: MYS
+cioc: MAS
+capital: Kuala Lumpur
+borders:
+- BRN
+- IDN
+- THA
+landlocked: false
+area: 330803
+region: Asia
+subregion: South-Eastern Asia
+currencies:
+- MYR
+countrycode: "60"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 112 30 E
+latitude: 2 30 N
+coordinates:
+  minlongitude: 99.64127
+  minlatitude: 0.85
+  maxlongitude: 120
+  maxlatitude: 7.383333
+  latitudef: 2.5490005
+  longitudef: 102.962616

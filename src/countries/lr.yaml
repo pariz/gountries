@@ -1,0 +1,73 @@
+name:
+  common: Liberia
+  official: Republic of Liberia
+  native:
+    eng:
+      common: Liberia
+      official: Republic of Liberia
+nationality: Liberian
+code: ""
+callingcodes:
+- "231"
+tlds:
+- .lr
+languages:
+  eng: English
+translations:
+  deu:
+    common: Liberia
+    official: Republik Liberia
+  fin:
+    common: Liberia
+    official: Liberian tasavalta
+  fra:
+    common: Liberia
+    official: République du Libéria
+  hrv:
+    common: Liberija
+    official: Republika Liberija
+  ita:
+    common: Liberia
+    official: Repubblica di Liberia
+  jpn:
+    common: リベリア
+    official: リベリア共和国
+  nld:
+    common: Liberia
+    official: Republiek Liberia
+  por:
+    common: Libéria
+    official: República da Libéria
+  rus:
+    common: Либерия
+    official: Республика Либерия
+  spa:
+    common: Liberia
+    official: República de Liberia
+alpha2: LR
+alpha3: LBR
+cioc: LBR
+capital: Monrovia
+borders:
+- GIN
+- CIV
+- SLE
+landlocked: false
+area: 111369
+region: Africa
+subregion: Western Africa
+currencies:
+- LRD
+countrycode: "231"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 9 30 W
+latitude: 6 30 N
+coordinates:
+  minlongitude: -11.472222
+  minlatitude: 4.328333
+  maxlongitude: -4
+  maxlatitude: 9.5
+  latitudef: 6.411513
+  longitudef: -9.323492

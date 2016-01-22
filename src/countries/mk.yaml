@@ -1,0 +1,75 @@
+name:
+  common: Macedonia
+  official: Republic of Macedonia
+  native:
+    mkd:
+      common: Македонија
+      official: Република Македонија
+nationality: Macedonian
+code: ""
+callingcodes:
+- "389"
+tlds:
+- .mk
+languages:
+  mkd: Macedonian
+translations:
+  deu:
+    common: Mazedonien
+    official: Republik Mazedonien
+  fin:
+    common: Makedonia
+    official: Makedonian tasavalta
+  fra:
+    common: Macédoine
+    official: République de Macédoine
+  hrv:
+    common: Makedonija
+    official: Republika Makedonija
+  ita:
+    common: Macedonia
+    official: Repubblica di Macedonia
+  jpn:
+    common: マケドニア旧ユーゴスラビア共和国
+    official: マケドニア共和国
+  nld:
+    common: Macedonië
+    official: Republic of Macedonia
+  por:
+    common: Macedónia
+    official: República da Macedónia
+  rus:
+    common: Республика Македония
+    official: Республика Македония
+  spa:
+    common: Macedonia
+    official: República de Macedonia
+alpha2: MK
+alpha3: MKD
+cioc: MKD
+capital: Skopje
+borders:
+- ALB
+- BGR
+- GRC
+- KOS
+- SRB
+landlocked: true
+area: 25713
+region: Europe
+subregion: Southern Europe
+currencies:
+- MKD
+countrycode: "389"
+internationalprefix: "00"
+continent: Europe
+eumember: false
+longitude: 22 00 E
+latitude: 41 50 N
+coordinates:
+  minlongitude: 20.459167
+  minlatitude: 40.86667
+  maxlongitude: 23.033333
+  maxlatitude: 42.373055
+  latitudef: 41.600456
+  longitudef: 21.700895

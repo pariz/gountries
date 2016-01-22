@@ -1,0 +1,73 @@
+name:
+  common: Vietnam
+  official: Socialist Republic of Vietnam
+  native:
+    vie:
+      common: Việt Nam
+      official: Cộng hòa xã hội chủ nghĩa Việt Nam
+nationality: Vietnamese
+code: ""
+callingcodes:
+- "84"
+tlds:
+- .vn
+languages:
+  vie: Vietnamese
+translations:
+  deu:
+    common: Vietnam
+    official: Sozialistische Republik Vietnam
+  fin:
+    common: Vietnam
+    official: Vietnamin sosialistinen tasavalta
+  fra:
+    common: Viêt Nam
+    official: République socialiste du Viêt Nam
+  hrv:
+    common: Vijetnam
+    official: Socijalistička Republika Vijetnam
+  ita:
+    common: Vietnam
+    official: Repubblica socialista del Vietnam
+  jpn:
+    common: ベトナム
+    official: ベトナム社会主義共和国
+  nld:
+    common: Vietnam
+    official: Socialistische Republiek Vietnam
+  por:
+    common: Vietname
+    official: República Socialista do Vietname
+  rus:
+    common: Вьетнам
+    official: Социалистическая Республика Вьетнам
+  spa:
+    common: Vietnam
+    official: República Socialista de Vietnam
+alpha2: VN
+alpha3: VNM
+cioc: VIE
+capital: Hanoi
+borders:
+- KHM
+- CHN
+- LAO
+landlocked: false
+area: 331212
+region: Asia
+subregion: South-Eastern Asia
+currencies:
+- VND
+countrycode: "84"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 107 50 E
+latitude: 16 10 N
+coordinates:
+  minlongitude: 102.21667
+  minlatitude: 8.383333
+  maxlongitude: 109.46667
+  maxlatitude: 23.666668
+  latitudef: 16.94043
+  longitudef: 106.81643

@@ -1,0 +1,83 @@
+name:
+  common: Cameroon
+  official: Republic of Cameroon
+  native:
+    eng:
+      common: Cameroon
+      official: Republic of Cameroon
+    fra:
+      common: Cameroun
+      official: République du Cameroun
+nationality: Cameroonian
+code: ""
+callingcodes:
+- "237"
+tlds:
+- .cm
+languages:
+  eng: English
+  fra: French
+translations:
+  cym:
+    common: Camerŵn
+    official: Republic of Cameroon
+  deu:
+    common: Kamerun
+    official: Republik Kamerun
+  fin:
+    common: Kamerun
+    official: Kamerunin tasavalta
+  fra:
+    common: Cameroun
+    official: République du Cameroun
+  hrv:
+    common: Kamerun
+    official: Republika Kamerun
+  ita:
+    common: Camerun
+    official: Repubblica del Camerun
+  jpn:
+    common: カメルーン
+    official: カメルーン共和国
+  nld:
+    common: Kameroen
+    official: Republiek Kameroen
+  por:
+    common: Camarões
+    official: República dos Camarões
+  rus:
+    common: Камерун
+    official: Республика Камерун
+  spa:
+    common: Camerún
+    official: República de Camerún
+alpha2: CM
+alpha3: CMR
+cioc: CMR
+capital: Yaoundé
+borders:
+- CAF
+- TCD
+- COG
+- GNQ
+- GAB
+- NGA
+landlocked: false
+area: 475442
+region: Africa
+subregion: Middle Africa
+currencies:
+- XAF
+countrycode: "237"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 12 00 E
+latitude: 6 00 N
+coordinates:
+  minlongitude: 8.483333
+  minlatitude: 2.016667
+  maxlongitude: 16
+  maxlatitude: 16
+  latitudef: 5.685477
+  longitudef: 12.7228775

@@ -1,0 +1,73 @@
+name:
+  common: Bahrain
+  official: Kingdom of Bahrain
+  native:
+    ara:
+      common: ‏البحرين
+      official: مملكة البحرين
+nationality: Bahraini
+code: ""
+callingcodes:
+- "973"
+tlds:
+- .bh
+languages:
+  ara: Arabic
+translations:
+  cym:
+    common: Bahrain
+    official: Kingdom of Bahrain
+  deu:
+    common: Bahrain
+    official: Königreich Bahrain
+  fin:
+    common: Bahrain
+    official: Bahrainin kuningaskunta
+  fra:
+    common: Bahreïn
+    official: Royaume de Bahreïn
+  hrv:
+    common: Bahrein
+    official: Kraljevina Bahrein
+  ita:
+    common: Bahrein
+    official: Regno del Bahrain
+  jpn:
+    common: バーレーン
+    official: バーレーン王国
+  nld:
+    common: Bahrein
+    official: Koninkrijk Bahrein
+  por:
+    common: Bahrein
+    official: Reino do Bahrein
+  rus:
+    common: Бахрейн
+    official: Королевство Бахрейн
+  spa:
+    common: Bahrein
+    official: Reino de Bahrein
+alpha2: BH
+alpha3: BHR
+cioc: BRN
+capital: Manama
+borders: []
+landlocked: false
+area: 765
+region: Asia
+subregion: Western Asia
+currencies:
+- BHD
+countrycode: "973"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 50 33 E
+latitude: 26 00 N
+coordinates:
+  minlongitude: 45
+  minlatitude: 25
+  maxlongitude: 50.823334
+  maxlatitude: 26.416668
+  latitudef: 26.09424
+  longitudef: 50.542995

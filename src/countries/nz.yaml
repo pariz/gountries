@@ -1,0 +1,78 @@
+name:
+  common: New Zealand
+  official: New Zealand
+  native:
+    eng:
+      common: New Zealand
+      official: New Zealand
+    mri:
+      common: Aotearoa
+      official: Aotearoa
+    nzs:
+      common: New Zealand
+      official: New Zealand
+nationality: New Zealander
+code: ""
+callingcodes:
+- "64"
+tlds:
+- .nz
+languages:
+  eng: English
+  mri: Māori
+  nzs: New Zealand Sign Language
+translations:
+  deu:
+    common: Neuseeland
+    official: Neuseeland
+  fin:
+    common: Uusi-Seelanti
+    official: Uusi-Seelanti
+  fra:
+    common: Nouvelle-Zélande
+    official: Nouvelle-Zélande
+  hrv:
+    common: Novi Zeland
+    official: Novi Zeland
+  ita:
+    common: Nuova Zelanda
+    official: Nuova Zelanda
+  jpn:
+    common: ニュージーランド
+    official: ニュージーランド
+  nld:
+    common: Nieuw-Zeeland
+    official: Nieuw Zeeland
+  por:
+    common: Nova Zelândia
+    official: nova Zelândia
+  rus:
+    common: Новая Зеландия
+    official: Новая Зеландия
+  spa:
+    common: Nueva Zelanda
+    official: nueva Zelanda
+alpha2: NZ
+alpha3: NZL
+cioc: NZL
+capital: Wellington
+borders: []
+landlocked: false
+area: 270467
+region: Oceania
+subregion: Australia and New Zealand
+currencies:
+- NZD
+countrycode: "64"
+internationalprefix: "00"
+continent: Australia
+eumember: false
+longitude: 174 00 E
+latitude: 41 00 S
+coordinates:
+  minlongitude: 179.06667
+  minlatitude: -52.61667
+  maxlongitude: -178.9
+  maxlatitude: -29.216667
+  latitudef: -44.056293
+  longitudef: 170.35416

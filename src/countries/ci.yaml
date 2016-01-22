@@ -1,0 +1,75 @@
+name:
+  common: Ivory Coast
+  official: Republic of Côte d'Ivoire
+  native:
+    fra:
+      common: Côte d'Ivoire
+      official: République de Côte d'Ivoire
+nationality: Ivorian
+code: ""
+callingcodes:
+- "225"
+tlds:
+- .ci
+languages:
+  fra: French
+translations:
+  deu:
+    common: Elfenbeinküste
+    official: Republik Côte d'Ivoire
+  fin:
+    common: Norsunluurannikko
+    official: Norsunluurannikon tasavalta
+  fra:
+    common: Côte d'Ivoire
+    official: République de Côte d' Ivoire
+  hrv:
+    common: Obala Bjelokosti
+    official: Republika Côte d'Ivoire
+  ita:
+    common: Costa d'Avorio
+    official: Repubblica della Costa d'Avorio
+  jpn:
+    common: コートジボワール
+    official: コートジボワール共和国
+  nld:
+    common: Ivoorkust
+    official: Republiek Ivoorkust
+  por:
+    common: Costa do Marfim
+    official: República da Côte d'Ivoire
+  rus:
+    common: Кот-д’Ивуар
+    official: Республика Кот-д'Ивуаре
+  spa:
+    common: Costa de Marfil
+    official: República de Côte d'Ivoire
+alpha2: CI
+alpha3: CIV
+cioc: CIV
+capital: Yamoussoukro
+borders:
+- BFA
+- GHA
+- GIN
+- LBR
+- MLI
+landlocked: false
+area: 322463
+region: Africa
+subregion: Western Africa
+currencies:
+- XOF
+countrycode: "225"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 5 00 W
+latitude: 8 00 N
+coordinates:
+  minlongitude: -8.538889
+  minlatitude: 4.35
+  maxlongitude: -2.566667
+  maxlatitude: 10.652222
+  latitudef: 7.5987554
+  longitudef: -5.5525746

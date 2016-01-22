@@ -1,0 +1,73 @@
+name:
+  common: Panama
+  official: Republic of Panama
+  native:
+    spa:
+      common: Panamá
+      official: República de Panamá
+nationality: Panamanian
+code: ""
+callingcodes:
+- "507"
+tlds:
+- .pa
+languages:
+  spa: Spanish
+translations:
+  deu:
+    common: Panama
+    official: Republik Panama
+  fin:
+    common: Panama
+    official: Panaman tasavalta
+  fra:
+    common: Panama
+    official: République du Panama
+  hrv:
+    common: Panama
+    official: Republika Panama
+  ita:
+    common: Panama
+    official: Repubblica di Panama
+  jpn:
+    common: パナマ
+    official: パナマ共和国
+  nld:
+    common: Panama
+    official: Republiek Panama
+  por:
+    common: Panamá
+    official: República do Panamá
+  rus:
+    common: Панама
+    official: Республика Панама
+  spa:
+    common: Panamá
+    official: República de Panamá
+alpha2: PA
+alpha3: PAN
+cioc: PAN
+capital: Panama City
+borders:
+- COL
+- CRI
+landlocked: false
+area: 75417
+region: Americas
+subregion: Central America
+currencies:
+- PAB
+- USD
+countrycode: "507"
+internationalprefix: "00"
+continent: North America
+eumember: false
+longitude: 80 00 W
+latitude: 9 00 N
+coordinates:
+  minlongitude: -82.95
+  minlatitude: 7.213333
+  maxlongitude: -77.28333
+  maxlatitude: 9.65
+  latitudef: 8.646248
+  longitudef: -80.50607

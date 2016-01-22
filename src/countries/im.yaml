@@ -1,0 +1,74 @@
+name:
+  common: Isle of Man
+  official: Isle of Man
+  native:
+    eng:
+      common: Isle of Man
+      official: Isle of Man
+    glv:
+      common: Mannin
+      official: Ellan Vannin or Mannin
+nationality: Manx
+code: ""
+callingcodes:
+- "44"
+tlds:
+- .im
+languages:
+  eng: English
+  glv: Manx
+translations:
+  deu:
+    common: Insel Man
+    official: Isle of Man
+  fin:
+    common: Mansaari
+    official: Mansaari
+  fra:
+    common: Île de Man
+    official: Isle of Man
+  hrv:
+    common: Otok Man
+    official: Mana ostrvo
+  ita:
+    common: Isola di Man
+    official: Isola di Man
+  jpn:
+    common: マン島
+    official: マン島
+  nld:
+    common: Isle of Man
+    official: Isle of Man
+  por:
+    common: Ilha de Man
+    official: Isle of Man
+  rus:
+    common: Остров Мэн
+    official: Остров Мэн
+  spa:
+    common: Isla de Man
+    official: Isla de Man
+alpha2: IM
+alpha3: IMN
+cioc: ""
+capital: Douglas
+borders: []
+landlocked: false
+area: 572
+region: Europe
+subregion: Northern Europe
+currencies:
+- GBP
+countrycode: "44"
+internationalprefix: ""
+continent: Europe
+eumember: false
+longitude: 4 30 W
+latitude: 54 15 N
+coordinates:
+  minlongitude: -4.833333
+  minlatitude: 54.033333
+  maxlongitude: -4.316667
+  maxlatitude: 54.4
+  latitudef: 54.224514
+  longitudef: -4.5621333

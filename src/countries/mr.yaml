@@ -1,0 +1,74 @@
+name:
+  common: Mauritania
+  official: Islamic Republic of Mauritania
+  native:
+    ara:
+      common: موريتانيا
+      official: الجمهورية الإسلامية الموريتانية
+nationality: Mauritanian
+code: ""
+callingcodes:
+- "222"
+tlds:
+- .mr
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Mauretanien
+    official: Islamische Republik Mauretanien
+  fin:
+    common: Mauritania
+    official: Mauritanian islamilainen tasavalta
+  fra:
+    common: Mauritanie
+    official: République islamique de Mauritanie
+  hrv:
+    common: Mauritanija
+    official: Islamska Republika Mauritanija
+  ita:
+    common: Mauritania
+    official: Repubblica islamica di Mauritania
+  jpn:
+    common: モーリタニア
+    official: モーリタニア·イスラム共和国
+  nld:
+    common: Mauritanië
+    official: Islamitische Republiek Mauritanië
+  por:
+    common: Mauritânia
+    official: República Islâmica da Mauritânia
+  rus:
+    common: Мавритания
+    official: Исламская Республика Мавритания
+  spa:
+    common: Mauritania
+    official: República Islámica de Mauritania
+alpha2: MR
+alpha3: MRT
+cioc: MTN
+capital: Nouakchott
+borders:
+- DZA
+- MLI
+- SEN
+- ESH
+landlocked: false
+area: 1.0307e+06
+region: Africa
+subregion: Western Africa
+currencies:
+- MRO
+countrycode: "222"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 12 00 W
+latitude: 20 00 N
+coordinates:
+  minlongitude: -17.079445
+  minlatitude: 14.738274
+  maxlongitude: 13
+  maxlatitude: 26.9
+  latitudef: 20.258995
+  longitudef: -10.364437

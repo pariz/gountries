@@ -1,0 +1,81 @@
+name:
+  common: Norway
+  official: Kingdom of Norway
+  native:
+    nno:
+      common: Noreg
+      official: Kongeriket Noreg
+    nob:
+      common: Norge
+      official: Kongeriket Norge
+    smi:
+      common: Norgga
+      official: Norgga gonagasriika
+nationality: Norwegian
+code: ""
+callingcodes:
+- "47"
+tlds:
+- .no
+languages:
+  nno: Norwegian Nynorsk
+  nob: Norwegian Bokmål
+  smi: Sami
+translations:
+  deu:
+    common: Norwegen
+    official: Königreich Norwegen
+  fin:
+    common: Norja
+    official: Norjan kuningaskunta
+  fra:
+    common: Norvège
+    official: Royaume de Norvège
+  hrv:
+    common: Norveška
+    official: Kraljevina Norveška
+  ita:
+    common: Norvegia
+    official: Regno di Norvegia
+  jpn:
+    common: ノルウェー
+    official: ノルウェー王国
+  nld:
+    common: Noorwegen
+    official: Koninkrijk Noorwegen
+  por:
+    common: Noruega
+    official: Reino da Noruega
+  rus:
+    common: Норвегия
+    official: Королевство Норвегия
+  spa:
+    common: Noruega
+    official: Reino de Noruega
+alpha2: "NO"
+alpha3: NOR
+cioc: NOR
+capital: Oslo
+borders:
+- FIN
+- SWE
+- RUS
+landlocked: false
+area: 323802
+region: Europe
+subregion: Northern Europe
+currencies:
+- NOK
+countrycode: "47"
+internationalprefix: "00"
+continent: Europe
+eumember: false
+longitude: 10 00 E
+latitude: 62 00 N
+coordinates:
+  minlongitude: 3.033333
+  minlatitude: 56.15
+  maxlongitude: 31.166668
+  maxlatitude: 71.181946
+  latitudef: 66.76667
+  longitudef: 14.899925

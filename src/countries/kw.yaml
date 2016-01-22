@@ -1,0 +1,72 @@
+name:
+  common: Kuwait
+  official: State of Kuwait
+  native:
+    ara:
+      common: الكويت
+      official: دولة الكويت
+nationality: Kuwaiti
+code: ""
+callingcodes:
+- "965"
+tlds:
+- .kw
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Kuwait
+    official: Staat Kuwait
+  fin:
+    common: Kuwait
+    official: Kuwaitin valtio
+  fra:
+    common: Koweït
+    official: État du Koweït
+  hrv:
+    common: Kuvajt
+    official: Država Kuvajt
+  ita:
+    common: Kuwait
+    official: Stato del Kuwait
+  jpn:
+    common: クウェート
+    official: クウェート国
+  nld:
+    common: Koeweit
+    official: Staat Koeweit
+  por:
+    common: Kuwait
+    official: Estado do Kuwait
+  rus:
+    common: Кувейт
+    official: Государство Кувейт
+  spa:
+    common: Kuwait
+    official: Estado de Kuwait
+alpha2: KW
+alpha3: KWT
+cioc: KUW
+capital: Kuwait City
+borders:
+- IRQ
+- SAU
+landlocked: false
+area: 17818
+region: Asia
+subregion: Western Asia
+currencies:
+- KWD
+countrycode: "965"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 45 45 E
+latitude: 29 30 N
+coordinates:
+  minlongitude: 45
+  minlatitude: 25
+  maxlongitude: 49.410557
+  maxlatitude: 30.069445
+  latitudef: 29.321941
+  longitudef: 47.602467

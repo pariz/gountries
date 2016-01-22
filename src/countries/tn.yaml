@@ -1,0 +1,72 @@
+name:
+  common: Tunisia
+  official: Tunisian Republic
+  native:
+    ara:
+      common: تونس
+      official: الجمهورية التونسية
+nationality: Tunisian
+code: ""
+callingcodes:
+- "216"
+tlds:
+- .tn
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Tunesien
+    official: Tunesische Republik
+  fin:
+    common: Tunisia
+    official: Tunisian tasavalta
+  fra:
+    common: Tunisie
+    official: République tunisienne
+  hrv:
+    common: Tunis
+    official: Tuniski Republika
+  ita:
+    common: Tunisia
+    official: Repubblica tunisina
+  jpn:
+    common: チュニジア
+    official: チュニジア共和国
+  nld:
+    common: Tunesië
+    official: Republiek Tunesië
+  por:
+    common: Tunísia
+    official: República da Tunísia
+  rus:
+    common: Тунис
+    official: Тунисской Республики
+  spa:
+    common: Túnez
+    official: República de Túnez
+alpha2: TN
+alpha3: TUN
+cioc: TUN
+capital: Tunis
+borders:
+- DZA
+- LBY
+landlocked: false
+area: 163610
+region: Africa
+subregion: Northern Africa
+currencies:
+- TND
+countrycode: "216"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 9 00 E
+latitude: 34 00 N
+coordinates:
+  minlongitude: 7
+  minlatitude: 26
+  maxlongitude: 13
+  maxlatitude: 37.566666
+  latitudef: 34.335285
+  longitudef: 9.245259

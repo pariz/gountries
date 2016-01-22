@@ -1,0 +1,63 @@
+name:
+  common: Curaçao
+  official: Country of Curaçao
+  native:
+    eng:
+      common: Curaçao
+      official: Country of Curaçao
+    nld:
+      common: Curaçao
+      official: Land Curaçao
+    pap:
+      common: Pais Kòrsou
+      official: Pais Kòrsou
+nationality: Dutch
+code: ""
+callingcodes:
+- "5999"
+tlds:
+- .cw
+languages:
+  eng: English
+  nld: Dutch
+  pap: Papiamento
+translations:
+  fin:
+    common: Curaçao
+    official: Curaçao
+  nld:
+    common: Curaçao
+    official: Land Curaçao
+  por:
+    common: ilha da Curação
+    official: País de Curaçao
+  rus:
+    common: Кюрасао
+    official: Страна Кюрасао
+  spa:
+    common: Curazao
+    official: País de Curazao
+alpha2: CW
+alpha3: CUW
+cioc: ""
+capital: Willemstad
+borders: []
+landlocked: false
+area: 444
+region: Americas
+subregion: Caribbean
+currencies:
+- ANG
+countrycode: "599"
+internationalprefix: "00"
+continent: North America
+eumember: false
+longitude: 69 0 W
+latitude: 12 11 N
+coordinates:
+  minlongitude: -69.1572
+  minlatitude: 11.97319
+  maxlongitude: -68.63933
+  maxlatitude: 12.38567
+  latitudef: 12.16322
+  longitudef: -68.94505

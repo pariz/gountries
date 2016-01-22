@@ -1,0 +1,74 @@
+name:
+  common: Lithuania
+  official: Republic of Lithuania
+  native:
+    lit:
+      common: Lietuva
+      official: Lietuvos Respublikos
+nationality: Lithuanian
+code: ""
+callingcodes:
+- "370"
+tlds:
+- .lt
+languages:
+  lit: Lithuanian
+translations:
+  deu:
+    common: Litauen
+    official: Republik Litauen
+  fin:
+    common: Liettua
+    official: Liettuan tasavalta
+  fra:
+    common: Lituanie
+    official: République de Lituanie
+  hrv:
+    common: Litva
+    official: Republika Litva
+  ita:
+    common: Lituania
+    official: Repubblica di Lituania
+  jpn:
+    common: リトアニア
+    official: リトアニア共和国
+  nld:
+    common: Litouwen
+    official: Republiek Litouwen
+  por:
+    common: Lituânia
+    official: República da Lituânia
+  rus:
+    common: Литва
+    official: Литовская Республика
+  spa:
+    common: Lituania
+    official: República de Lituania
+alpha2: LT
+alpha3: LTU
+cioc: LTU
+capital: Vilnius
+borders:
+- BLR
+- LVA
+- POL
+- RUS
+landlocked: false
+area: 65300
+region: Europe
+subregion: Northern Europe
+currencies:
+- EUR
+countrycode: "370"
+internationalprefix: "00"
+continent: Europe
+eumember: true
+longitude: 24 00 E
+latitude: 56 00 N
+coordinates:
+  minlongitude: 21
+  minlatitude: 53
+  maxlongitude: 27
+  maxlatitude: 56.441666
+  latitudef: 55.33872
+  longitudef: 23.870924

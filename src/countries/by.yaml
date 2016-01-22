@@ -1,0 +1,82 @@
+name:
+  common: Belarus
+  official: Republic of Belarus
+  native:
+    bel:
+      common: Белару́сь
+      official: Рэспубліка Беларусь
+    rus:
+      common: Белоруссия
+      official: Республика Беларусь
+nationality: Belarusian
+code: ""
+callingcodes:
+- "375"
+tlds:
+- .by
+languages:
+  bel: Belarusian
+  rus: Russian
+translations:
+  cym:
+    common: Belarws
+    official: Republic of Belarus
+  deu:
+    common: Weißrussland
+    official: Republik Belarus
+  fin:
+    common: Valko-Venäjä
+    official: Valko-Venäjän tasavalta
+  fra:
+    common: Biélorussie
+    official: République de Biélorussie
+  hrv:
+    common: Bjelorusija
+    official: Republika Bjelorusija
+  ita:
+    common: Bielorussia
+    official: Repubblica di Belarus
+  jpn:
+    common: ベラルーシ
+    official: ベラルーシ共和国
+  nld:
+    common: Wit-Rusland
+    official: Republiek Belarus
+  por:
+    common: Bielorússia
+    official: República da Bielorrússia
+  rus:
+    common: Белоруссия
+    official: Республика Беларусь
+  spa:
+    common: Bielorrusia
+    official: República de Belarús
+alpha2: BY
+alpha3: BLR
+cioc: BLR
+capital: Minsk
+borders:
+- LVA
+- LTU
+- POL
+- RUS
+- UKR
+landlocked: true
+area: 207600
+region: Europe
+subregion: Eastern Europe
+currencies:
+- BYR
+countrycode: "375"
+internationalprefix: "810"
+continent: Europe
+eumember: false
+longitude: 28 00 E
+latitude: 53 00 N
+coordinates:
+  minlongitude: 22.55
+  minlatitude: 50.716667
+  maxlongitude: 32.708057
+  maxlatitude: 56.066666
+  latitudef: 53.543472
+  longitudef: 28.054094

@@ -1,0 +1,78 @@
+name:
+  common: Israel
+  official: State of Israel
+  native:
+    ara:
+      common: إسرائيل
+      official: دولة إسرائيل
+    heb:
+      common: ישראל
+      official: מדינת ישראל
+nationality: Israeli
+code: ""
+callingcodes:
+- "972"
+tlds:
+- .il
+languages:
+  ara: Arabic
+  heb: Hebrew
+translations:
+  deu:
+    common: Israel
+    official: Staat Israel
+  fin:
+    common: Israel
+    official: Israelin valtio
+  fra:
+    common: Israël
+    official: État d'Israël
+  hrv:
+    common: Izrael
+    official: Država Izrael
+  ita:
+    common: Israele
+    official: Stato di Israele
+  jpn:
+    common: イスラエル
+    official: イスラエル国
+  nld:
+    common: Israël
+    official: Staat Israël
+  por:
+    common: Israel
+    official: Estado de Israel
+  rus:
+    common: Израиль
+    official: Государство Израиль
+  spa:
+    common: Israel
+    official: Estado de Israel
+alpha2: IL
+alpha3: ISR
+cioc: ISR
+capital: Jerusalem
+borders:
+- EGY
+- JOR
+- LBN
+- SYR
+landlocked: false
+area: 20770
+region: Asia
+subregion: Western Asia
+currencies:
+- ILS
+countrycode: "972"
+internationalprefix: "00"
+continent: Asia
+eumember: false
+longitude: 34 45 E
+latitude: 31 30 N
+coordinates:
+  minlongitude: 34.283333
+  minlatitude: 29.516666
+  maxlongitude: 35.666668
+  maxlatitude: 33.28611
+  latitudef: 31.814194
+  longitudef: 34.753372

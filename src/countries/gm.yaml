@@ -1,0 +1,71 @@
+name:
+  common: Gambia
+  official: Republic of the Gambia
+  native:
+    eng:
+      common: Gambia
+      official: Republic of the Gambia
+nationality: Gambian
+code: ""
+callingcodes:
+- "220"
+tlds:
+- .gm
+languages:
+  eng: English
+translations:
+  deu:
+    common: Gambia
+    official: Republik Gambia
+  fin:
+    common: Gambia
+    official: Gambian tasavalta
+  fra:
+    common: Gambie
+    official: République de Gambie
+  hrv:
+    common: Gambija
+    official: Republika Gambija
+  ita:
+    common: Gambia
+    official: Repubblica del Gambia
+  jpn:
+    common: ガンビア
+    official: ガンビア共和国
+  nld:
+    common: Gambia
+    official: Republiek Gambia
+  por:
+    common: Gâmbia
+    official: República da Gâmbia
+  rus:
+    common: Гамбия
+    official: Республика Гамбия
+  spa:
+    common: Gambia
+    official: República de Gambia
+alpha2: GM
+alpha3: GMB
+cioc: GAM
+capital: Banjul
+borders:
+- SEN
+landlocked: false
+area: 10689
+region: Africa
+subregion: Western Africa
+currencies:
+- GMD
+countrycode: "220"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 16 34 W
+latitude: 13 28 N
+coordinates:
+  minlongitude: -16.816944
+  minlatitude: 7
+  maxlongitude: -4
+  maxlatitude: 13.816667
+  latitudef: 13.440266
+  longitudef: -15.490885

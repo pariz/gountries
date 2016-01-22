@@ -1,9 +1,9 @@
 package gountries
 
 // Query holds a reference to the QueryHolder struct
-var query *QueryHolder
+var Query = &query{}
 
 // QueryHolder contains queries for countries, cities, etc.
-type QueryHolder struct {
+type query struct {
 	Countries []Country
 }

@@ -1,0 +1,98 @@
+name:
+  common: DR Congo
+  official: Democratic Republic of the Congo
+  native:
+    fra:
+      common: RD Congo
+      official: République démocratique du Congo
+    kon:
+      common: Repubilika ya Kongo Demokratiki
+      official: Repubilika ya Kongo Demokratiki
+    lin:
+      common: Republiki ya Kongó Demokratiki
+      official: Republiki ya Kongó Demokratiki
+    lua:
+      common: Ditunga dia Kongu wa Mungalaata
+      official: Ditunga dia Kongu wa Mungalaata
+    swa:
+      common: Jamhuri ya Kidemokrasia ya Kongo
+      official: Jamhuri ya Kidemokrasia ya Kongo
+nationality: Congolese
+code: ""
+callingcodes:
+- "243"
+tlds:
+- .cd
+languages:
+  fra: French
+  kon: Kikongo
+  lin: Lingala
+  lua: Tshiluba
+  swa: Swahili
+translations:
+  cym:
+    common: Gweriniaeth Ddemocrataidd Congo
+    official: Democratic Republic of the Congo
+  deu:
+    common: Kongo (Dem. Rep.)
+    official: Demokratische Republik Kongo
+  fin:
+    common: Kongon demokraattinen tasavalta
+    official: Kongon demokraattinen tasavalta
+  fra:
+    common: Congo (Rép. dém.)
+    official: République démocratique du Congo
+  hrv:
+    common: Kongo, Demokratska Republika
+    official: Demokratska Republika Kongo
+  ita:
+    common: Congo (Rep. Dem.)
+    official: Repubblica Democratica del Congo
+  jpn:
+    common: コンゴ民主共和国
+    official: コンゴ民主共和国
+  nld:
+    common: Congo (DRC)
+    official: Democratische Republiek Congo
+  por:
+    common: República Democrática do Congo
+    official: República Democrática do Congo
+  rus:
+    common: Демократическая Республика Конго
+    official: Демократическая Республика Конго
+  spa:
+    common: Congo (Rep. Dem.)
+    official: República Democrática del Congo
+alpha2: CD
+alpha3: COD
+cioc: COD
+capital: Kinshasa
+borders:
+- AGO
+- BDI
+- CAF
+- COG
+- RWA
+- SSD
+- TZA
+- UGA
+- ZMB
+landlocked: false
+area: 2.344858e+06
+region: Africa
+subregion: Middle Africa
+currencies:
+- CDF
+countrycode: "243"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 25 00 E
+latitude: 0 00 N
+coordinates:
+  minlongitude: 12.266667
+  minlatitude: -13.466667
+  maxlongitude: 31.233334
+  maxlatitude: 5.133333
+  latitudef: -2.8798661
+  longitudef: 23.656378

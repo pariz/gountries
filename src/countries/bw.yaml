@@ -1,0 +1,78 @@
+name:
+  common: Botswana
+  official: Republic of Botswana
+  native:
+    eng:
+      common: Botswana
+      official: Republic of Botswana
+    tsn:
+      common: Botswana
+      official: Lefatshe la Botswana
+nationality: Motswana
+code: ""
+callingcodes:
+- "267"
+tlds:
+- .bw
+languages:
+  eng: English
+  tsn: Tswana
+translations:
+  deu:
+    common: Botswana
+    official: Republik Botsuana
+  fin:
+    common: Botswana
+    official: Botswanan tasavalta
+  fra:
+    common: Botswana
+    official: République du Botswana
+  hrv:
+    common: Bocvana
+    official: Republika Bocvana
+  ita:
+    common: Botswana
+    official: Repubblica del Botswana
+  jpn:
+    common: ボツワナ
+    official: ボツワナ共和国
+  nld:
+    common: Botswana
+    official: Republiek Botswana
+  por:
+    common: Botswana
+    official: República do Botswana
+  rus:
+    common: Ботсвана
+    official: Республика Ботсвана
+  spa:
+    common: Botswana
+    official: República de Botswana
+alpha2: BW
+alpha3: BWA
+cioc: BOT
+capital: Gaborone
+borders:
+- NAM
+- ZAF
+- ZMB
+- ZWE
+landlocked: true
+area: 582000
+region: Africa
+subregion: Southern Africa
+currencies:
+- BWP
+countrycode: "267"
+internationalprefix: "00"
+continent: Africa
+eumember: false
+longitude: 24 00 E
+latitude: 22 00 S
+coordinates:
+  minlongitude: 20
+  minlatitude: -26.833332
+  maxlongitude: 29.016666
+  maxlatitude: -17.833332
+  latitudef: -22.186752
+  longitudef: 23.814941
