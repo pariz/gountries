@@ -67,6 +67,10 @@ type Country struct {
 
 ```
 
+# Data source
+
+All data is derived from the [Countries](https://github.com/pariz/countries) repo.
+
 # Testing
 
 Has pretty much full test coverage.
