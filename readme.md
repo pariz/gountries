@@ -12,6 +12,7 @@ This go package provides country information via a simple API.
 ```go
 
   import (
+
     "github.com/pariz/gountries"
   )
 
@@ -32,11 +33,16 @@ This go package provides country information via a simple API.
 
 ```
 
+# Data source
+
+All data is derived from the [Countries](https://github.com/pariz/countries) repo.
+
 # Testing
 
 Has pretty much full test coverage.
 
 # Todo
+
 
 * (in progress) Province/County selection
 * GeoJSON information

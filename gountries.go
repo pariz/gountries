@@ -1,5 +1,1 @@
 package gountries
-
-func main() {
-
-}
