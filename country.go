@@ -6,7 +6,7 @@ import (
 )
 
 // FindCountryByName fincs a country by given name
-func (q *query) FindCountryByName(name string) (result Country, err error) {
+func (q *Query) FindCountryByName(name string) (result Country, err error) {
 
 	for _, country := range q.Countries {
 
@@ -20,7 +20,7 @@ func (q *query) FindCountryByName(name string) (result Country, err error) {
 }
 
 // FindCountryByCode fincs a country by given code
-func (q *query) FindCountryByCode(code string) (result Country, err error) {
+func (q *Query) FindCountryByCode(code string) (result Country, err error) {
 
 	for _, country := range q.Countries {
 		var countryCode = country.Alpha2
@@ -48,11 +48,11 @@ type Country struct {
 	Name struct {
 		BaseLang `yaml:",inline"`
 		Native   map[string]BaseLang
-	}
+	} `json:"name"`
 
 	EuMember    bool
 	LandLocked  bool
-	Nationality string `json:"demonym"`
+	Nationality string
 
 	//Code         string
 
@@ -74,9 +74,11 @@ type Country struct {
 // BorderingCountries gets the bordering countries for this country
 func (c *Country) BorderingCountries() (countries []Country) {
 
+	query := New()
+
 	for _, cca3 := range c.Borders {
 
-		if country, err := Query.FindCountryByCode(cca3); err == nil {
+		if country, err := query.FindCountryByCode(cca3); err == nil {
 			countries = append(countries, country)
 		}
 
