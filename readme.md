@@ -29,6 +29,10 @@ go get github.com/pariz/countries
 
   query := gountries.New()
 
+  /////////////////
+  // Find sweden //
+  /////////////////
+
   sweden, _ := query.FindCountryByName("sweden")
   // sweden, _ := query.FindCountryByAlpha("SE")
   // sweden, _ := query.FindCountryByAlpha("SWE")
@@ -49,11 +53,13 @@ go get github.com/pariz/countries
     "..."
   )
 
-
   query := gountries.New()
 
-  // Find sweden
-  sweden, _ := query.FindCountryByName("sweden")
+  ////////////////////////////////////////////
+  // Find the bordering countries of Sweden //
+  ////////////////////////////////////////////
+
+  sweden, _ := query.FindCountryByAlpha("swe")
 
   // Get the bordering countries of sweden
   for _, country := range sweden.BorderingCountries() {
@@ -64,8 +70,9 @@ go get github.com/pariz/countries
   // Finland
   // Norway
 
-  // Find all subdivions for sweden
-  //
+  ////////////////////////////////////
+  // Find all subdivions for Sweden //
+  ////////////////////////////////////
 
   subdivisions := sweden.SubDivisions()
 
@@ -75,15 +82,15 @@ go get github.com/pariz/countries
 
   // Output:
   // Västerbottens län
-	// Uppsala län
-	// Södermanlands län
-	// Gotlands län
-	// Dalarnas län
-	//...
+  // Uppsala län
+  // Södermanlands län
+  // Gotlands län
+  // Dalarnas län
+  // ...
 
-
-  // Find all countries bordering Germany and Switzerland
-  //
+  //////////////////////////////////////////////////////////
+  // Find all countries bordering Germany and Switzerland //
+  //////////////////////////////////////////////////////////
 
   countryQuery := Country{
 		Borders: []string{
