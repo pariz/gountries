@@ -3,6 +3,7 @@ package gountries
 import (
 	"io/ioutil"
 	"path/filepath"
+	"strings"
 
 	"gopkg.in/yaml.v2"
 )
@@ -33,7 +34,6 @@ func populateCountries() (countries []Country) {
 	if info, err := ioutil.ReadDir(countriesPath); err == nil {
 
 		for _, v := range info {
-			//fmt.Println(v.IsDir())
 
 			if !v.IsDir() {
 
@@ -59,30 +59,32 @@ func populateCountries() (countries []Country) {
 	return
 }
 
-func populateSubdivisions() (subdivisions []SubDivision) {
+func populateSubdivisions() (list map[string][]SubDivision) {
 
 	// Load countries into memory
 	//
 
-	subdivisions = []SubDivision{}
+	list = map[string][]SubDivision{}
 
-	countriesPath := filepath.Join("data", "yaml", "subdivisions")
+	subdivisionsPath := filepath.Join("data", "yaml", "subdivisions")
 
-	if info, err := ioutil.ReadDir(countriesPath); err == nil {
+	if info, err := ioutil.ReadDir(subdivisionsPath); err == nil {
 
 		for _, v := range info {
 			//fmt.Println(v.IsDir())
 
 			if !v.IsDir() {
 
-				if file, err := ioutil.ReadFile(filepath.Join(countriesPath, v.Name())); err == nil {
+				if file, err := ioutil.ReadFile(filepath.Join(subdivisionsPath, v.Name())); err == nil {
 
-					subdivision := SubDivision{}
-					if err := yaml.Unmarshal(file, &subdivision); err == nil {
+					subdivisions := []SubDivision{}
+
+					if err := yaml.Unmarshal(file, &subdivisions); err == nil {
 
 						// Save
-						subdivisions = append(subdivisions, subdivision)
+						//subdivisions = append(subdivisions, subdivision...)
 
+						list[strings.Split(v.Name(), ".")[0]] = subdivisions
 					}
 
 				}
