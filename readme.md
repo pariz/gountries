@@ -23,7 +23,7 @@ go get github.com/pariz/countries
 
   import (
     "github.com/pariz/gountries"
-    "..."
+    "fmt"
   )
 
 
@@ -50,7 +50,7 @@ go get github.com/pariz/countries
 
   import (
     "github.com/pariz/gountries"
-    "..."
+    "fmt"
   )
 
   query := gountries.New()
