@@ -1,0 +1,71 @@
+name:
+  common: Montserrat
+  official: Montserrat
+  native:
+    eng:
+      common: Montserrat
+      official: Montserrat
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ms
+languages:
+  eng: English
+translations:
+  deu:
+    common: Montserrat
+    official: Montserrat
+  fin:
+    common: Montserrat
+    official: Montserrat
+  fra:
+    common: Montserrat
+    official: Montserrat
+  hrv:
+    common: Montserrat
+    official: Montserrat
+  ita:
+    common: Montserrat
+    official: Montserrat
+  jpn:
+    common: モントセラト
+    official: モントセラト
+  nld:
+    common: Montserrat
+    official: Montserrat
+  por:
+    common: Montserrat
+    official: Montserrat
+  rus:
+    common: Монтсеррат
+    official: Монтсеррат
+  spa:
+    common: Montserrat
+    official: Montserrat
+currencies:
+- XCD
+borders: []
+codes:
+  alpha2: MS
+  alpha3: MSR
+  cioc: ""
+  ccn3: "500"
+  callingcodes:
+  - "1664"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Plymouth
+  area: 102
+coordinates:
+  longitudestring: 62 12 W
+  latitudestring: 16 45 N
+  minlongitude: -62.233334
+  minlatitude: 16.666668
+  maxlongitude: -62.15
+  maxlatitude: 16.816668
+  latitude: 16.735998
+  longitude: -62.18882

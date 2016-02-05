@@ -1,0 +1,76 @@
+name:
+  common: Thailand
+  official: Kingdom of Thailand
+  native:
+    tha:
+      common: ประเทศไทย
+      official: ราชอาณาจักรไทย
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .th
+- .ไทย
+languages:
+  tha: Thai
+translations:
+  deu:
+    common: Thailand
+    official: Königreich Thailand
+  fin:
+    common: Thaimaa
+    official: Thaimaan kuningaskunta
+  fra:
+    common: Thaïlande
+    official: Royaume de Thaïlande
+  hrv:
+    common: Tajland
+    official: Kraljevina Tajland
+  ita:
+    common: Tailandia
+    official: Regno di Thailandia
+  jpn:
+    common: タイ
+    official: タイ王国
+  nld:
+    common: Thailand
+    official: Koninkrijk Thailand
+  por:
+    common: Tailândia
+    official: Reino da Tailândia
+  rus:
+    common: Таиланд
+    official: Королевство Таиланд
+  spa:
+    common: Tailandia
+    official: Reino de Tailandia
+currencies:
+- THB
+borders:
+- MMR
+- KHM
+- LAO
+- MYS
+codes:
+  alpha2: TH
+  alpha3: THA
+  cioc: THA
+  ccn3: "764"
+  callingcodes:
+  - "66"
+  internationalprefix: "001"
+geo:
+  region: Asia
+  subregion: South-Eastern Asia
+  continent: Asia
+  capital: Bangkok
+  area: 513120
+coordinates:
+  longitudestring: 100 00 E
+  latitudestring: 15 00 N
+  minlongitude: 97.36667
+  minlatitude: 5.616667
+  maxlongitude: 105.76667
+  maxlatitude: 20.442778
+  latitude: 14.484582
+  longitude: 100.85191

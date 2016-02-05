@@ -1,0 +1,76 @@
+name:
+  common: Senegal
+  official: Republic of Senegal
+  native:
+    fra:
+      common: Sénégal
+      official: République du Sénégal
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .sn
+languages:
+  fra: French
+translations:
+  deu:
+    common: Senegal
+    official: Republik Senegal
+  fin:
+    common: Senegal
+    official: Senegalin tasavalta
+  fra:
+    common: Sénégal
+    official: République du Sénégal
+  hrv:
+    common: Senegal
+    official: Republika Senegal
+  ita:
+    common: Senegal
+    official: Repubblica del Senegal
+  jpn:
+    common: セネガル
+    official: セネガル共和国
+  nld:
+    common: Senegal
+    official: Republiek Senegal
+  por:
+    common: Senegal
+    official: República do Senegal
+  rus:
+    common: Сенегал
+    official: Республика Сенегал
+  spa:
+    common: Senegal
+    official: República de Senegal
+currencies:
+- XOF
+borders:
+- GMB
+- GIN
+- GNB
+- MLI
+- MRT
+codes:
+  alpha2: SN
+  alpha3: SEN
+  cioc: SEN
+  ccn3: "686"
+  callingcodes:
+  - "221"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Dakar
+  area: 196722
+coordinates:
+  longitudestring: 14 00 W
+  latitudestring: 14 00 N
+  minlongitude: -17.682777
+  minlatitude: 12.336667
+  maxlongitude: -11.378021
+  maxlatitude: 16.666668
+  latitude: 14.362512
+  longitude: -14.531644

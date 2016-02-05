@@ -1,0 +1,112 @@
+- name: Tillabéri
+  names:
+  - Tillaberi
+  code: "6"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.16625
+    minlatitude: 11.901612
+    maxlongitude: 4.254565
+    maxlatitude: 15.70445
+    latitude: 14.6489525
+    longitude: 2.1450245
+- name: Zinder
+  names:
+  - Zinder
+  code: "7"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.960231
+    minlatitude: 13.775256
+    maxlongitude: 9.0148115
+    maxlatitude: 13.834538
+    latitude: 13.805278
+    longitude: 8.988333
+- name: Niamey
+  names:
+  - Niamey
+  code: "8"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.0319588
+    minlatitude: 13.446198
+    maxlongitude: 2.2061067
+    maxlatitude: 13.579339
+    latitude: 13.521389
+    longitude: 2.105278
+- name: Agadez
+  names:
+  - Agadez
+  code: "1"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.9526987
+    minlatitude: 16.948515
+    maxlongitude: 8.02101
+    maxlatitude: 16.98941
+    latitude: 16.966667
+    longitude: 7.983333
+- name: Diffa
+  names:
+  - Diffa
+  code: "2"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.602434
+    minlatitude: 13.302767
+    maxlongitude: 12.63196
+    maxlatitude: 13.331414
+    latitude: 13.316667
+    longitude: 12.616667
+- name: Dosso
+  names:
+  - Dosso
+  code: "3"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.178269
+    minlatitude: 13.0239105
+    maxlongitude: 3.2271886
+    maxlatitude: 13.0693245
+    latitude: 13.05
+    longitude: 3.2
+- name: Maradi
+  names:
+  - Maradi
+  code: "4"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.07729
+    minlatitude: 13.46399
+    maxlongitude: 7.128497
+    maxlatitude: 13.531919
+    latitude: 13.483333
+    longitude: 7.1
+- name: Tahoua
+  names:
+  - Tahoua
+  code: "5"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.24168
+    minlatitude: 14.868022
+    maxlongitude: 5.296693
+    maxlatitude: 14.9285555
+    latitude: 14.883333
+    longitude: 5.266667

@@ -1,0 +1,77 @@
+name:
+  common: Haiti
+  official: Republic of Haiti
+  native:
+    fra:
+      common: Haïti
+      official: République d'Haïti
+    hat:
+      common: Ayiti
+      official: Repiblik Ayiti
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ht
+languages:
+  fra: French
+  hat: Haitian Creole
+translations:
+  deu:
+    common: Haiti
+    official: Republik Haiti
+  fin:
+    common: Haiti
+    official: Haitin tasavalta
+  fra:
+    common: Haïti
+    official: République d'Haïti
+  hrv:
+    common: Haiti
+    official: Republika Haiti
+  ita:
+    common: Haiti
+    official: Repubblica di Haiti
+  jpn:
+    common: ハイチ
+    official: ハイチ共和国
+  nld:
+    common: Haïti
+    official: Republiek Haïti
+  por:
+    common: Haiti
+    official: República do Haiti
+  rus:
+    common: Гаити
+    official: Республика Гаити
+  spa:
+    common: Haiti
+    official: República de Haití
+currencies:
+- HTG
+- USD
+borders:
+- DOM
+codes:
+  alpha2: HT
+  alpha3: HTI
+  cioc: HAI
+  ccn3: "332"
+  callingcodes:
+  - "509"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Port-au-Prince
+  area: 27750
+coordinates:
+  longitudestring: 72 25 W
+  latitudestring: 19 00 N
+  minlongitude: -74.48333
+  minlatitude: 18.016666
+  maxlongitude: -71.63333
+  maxlatitude: 20.083332
+  latitude: 19.073242
+  longitude: -72.24128

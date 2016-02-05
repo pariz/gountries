@@ -1,0 +1,78 @@
+name:
+  common: Malawi
+  official: Republic of Malawi
+  native:
+    eng:
+      common: Malawi
+      official: Republic of Malawi
+    nya:
+      common: Malaŵi
+      official: Chalo cha Malawi, Dziko la Malaŵi
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .mw
+languages:
+  eng: English
+  nya: Chewa
+translations:
+  deu:
+    common: Malawi
+    official: Republik Malawi
+  fin:
+    common: Malawi
+    official: Malawin tasavalta
+  fra:
+    common: Malawi
+    official: République du Malawi
+  hrv:
+    common: Malavi
+    official: Republika Malavi
+  ita:
+    common: Malawi
+    official: Repubblica del Malawi
+  jpn:
+    common: マラウイ
+    official: マラウイ共和国
+  nld:
+    common: Malawi
+    official: Republiek Malawi
+  por:
+    common: Malawi
+    official: República do Malawi
+  rus:
+    common: Малави
+    official: Республика Малави
+  spa:
+    common: Malawi
+    official: República de Malawi
+currencies:
+- MWK
+borders:
+- MOZ
+- TZA
+- ZMB
+codes:
+  alpha2: MW
+  alpha3: MWI
+  cioc: MAW
+  ccn3: "454"
+  callingcodes:
+  - "265"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Lilongwe
+  area: 118484
+coordinates:
+  longitudestring: 34 00 E
+  latitudestring: 13 30 S
+  minlongitude: 32.716667
+  minlatitude: -17.15
+  maxlongitude: 37
+  maxlatitude: -5
+  latitude: -13.523578
+  longitude: 33.835464

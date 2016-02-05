@@ -1,0 +1,54 @@
+- name: Gilbert Islands
+  names:
+  - Gilbert Islands
+  code: G
+  countryalpha2: KI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 169.52338
+    minlatitude: -2.6717827
+    maxlongitude: 176.84776
+    maxlatitude: 3.39172
+    latitude: -1.3611379
+    longitude: 176.45218
+- name: Line Islands
+  names:
+  - Line Islands
+  code: L
+  countryalpha2: KI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Phoenix Islands
+  names:
+  - Abariringa
+  - Canton
+  - Gardner
+  - Hull
+  - Kanton
+  - Kemins
+  - Manra
+  - Mary Island
+  - Nikumaroro
+  - Orona
+  - Phoenix
+  - Rawaki
+  - Sydney
+  code: P
+  countryalpha2: KI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -174.54642
+    minlatitude: -4.695787
+    maxlongitude: -170.70842
+    maxlatitude: -2.7657678
+    latitude: -4.453148
+    longitude: -171.24496

@@ -1,0 +1,82 @@
+name:
+  common: Czech Republic
+  official: Czech Republic
+  native:
+    ces:
+      common: Česká republika
+      official: česká republika
+    slk:
+      common: Česká republika
+      official: Česká republika
+eumember: true
+landlocked: true
+nationality: ""
+tlds:
+- .cz
+languages:
+  ces: Czech
+  slk: Slovak
+translations:
+  cym:
+    common: Y Weriniaeth Tsiec
+    official: Czech Republic
+  deu:
+    common: Tschechische Republik
+    official: Tschechische Republik
+  fin:
+    common: Tšekki
+    official: Tšekin tasavalta
+  fra:
+    common: République tchèque
+    official: République tchèque
+  hrv:
+    common: Češka
+    official: Češka
+  ita:
+    common: Repubblica Ceca
+    official: Repubblica Ceca
+  jpn:
+    common: チェコ
+    official: チェコ共和国
+  nld:
+    common: Tsjechië
+    official: Tsjechische Republiek
+  por:
+    common: República Checa
+    official: República Checa
+  rus:
+    common: Чехия
+    official: Чешская Республика
+  spa:
+    common: República Checa
+    official: República Checa
+currencies:
+- CZK
+borders:
+- AUT
+- DEU
+- POL
+- SVK
+codes:
+  alpha2: CZ
+  alpha3: CZE
+  cioc: CZE
+  ccn3: "203"
+  callingcodes:
+  - "420"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Europe
+  capital: Prague
+  area: 78865
+coordinates:
+  longitudestring: 15 30 E
+  latitudestring: 49 45 N
+  minlongitude: 12.116667
+  minlatitude: 40.65
+  maxlongitude: 25.5
+  maxlatitude: 59.65
+  latitude: 49.739105
+  longitude: 15.331501

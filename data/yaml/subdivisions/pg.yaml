@@ -1,0 +1,285 @@
+- name: Central
+  names:
+  - Papua Central
+  code: CPM
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 146.38135
+    minlatitude: -10.394863
+    maxlongitude: 149.66846
+    maxlatitude: -7.773521
+    latitude: -9.136019
+    longitude: 147.46272
+- name: Eastern Highlands
+  names:
+  - Highlands East
+  code: EHG
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 144.98547
+    minlatitude: -7.157268
+    maxlongitude: 146.14978
+    maxlatitude: -5.853335
+    latitude: -6.5861673
+    longitude: 145.66896
+- name: East Sepik
+  names:
+  - Sepik East
+  code: ESW
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 141.31485
+    minlatitude: -5.151646
+    maxlongitude: 144.83182
+    maxlatitude: -3.1911645
+    latitude: -4.315006
+    longitude: 143.0459
+- name: Manus
+  names:
+  - Great Admiralty Island
+  - Mwanus
+  code: MRL
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 142.82571
+    minlatitude: -2.5770972
+    maxlongitude: 148.20651
+    maxlatitude: -0.8726387
+    latitude: -2.094117
+    longitude: 146.8761
+- name: Northern
+  names:
+  - Northern
+  code: NPP
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 147.00304
+    minlatitude: -9.977337
+    maxlongitude: 149.43964
+    maxlatitude: -8.002543
+    latitude: -8.898807
+    longitude: 148.18929
+- name: Enga
+  names:
+  - Enga
+  code: EPW
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 142.73933
+    minlatitude: -5.966179
+    maxlongitude: 144.2542
+    maxlatitude: -5.007709
+    latitude: -5.300585
+    longitude: 143.56357
+- name: National Capital District (Port Moresby)
+  names:
+  - National Capital District (Port Moresby)
+  code: NCD
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 147.13666
+    minlatitude: -9.504579
+    maxlongitude: 147.24387
+    maxlatitude: -9.370321
+    latitude: -9.4438
+    longitude: 147.18027
+- name: New Ireland
+  names:
+  - Niu Ailan
+  code: NIK
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 149.51088
+    minlatitude: -4.8519635
+    maxlongitude: 153.74216
+    maxlatitude: -1.315154
+    latitude: -4.2853255
+    longitude: 152.9206
+- name: Sandaun [West Sepik]
+  names:
+  - West Sepik
+  code: SAN
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.9988
+    minlatitude: -5.370609
+    maxlongitude: 143.10487
+    maxlatitude: -2.6086512
+    latitude: -3.7126179
+    longitude: 141.68343
+- name: Western Highlands
+  names:
+  - Highlands West
+  code: WHM
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 143.77127
+    minlatitude: -6.3646216
+    maxlongitude: 144.5993
+    maxlatitude: -5.21286
+    latitude: -5.626813
+    longitude: 144.25931
+- name: East New Britain
+  names:
+  - New Britain East
+  code: EBR
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 150.59761
+    minlatitude: -6.068318
+    maxlongitude: 152.4967
+    maxlatitude: -4.088504
+    latitude: -4.6128945
+    longitude: 151.88773
+- name: Milne Bay
+  names:
+  - Milne Bay
+  code: MBA
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 150.34653
+    minlatitude: -10.528995
+    maxlongitude: 150.89653
+    maxlatitude: -10.262222
+    latitude: -10.446084
+    longitude: 150.72144
+- name: Madang
+  names:
+  - Madang
+  code: MPM
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 145.7496
+    minlatitude: -5.255416
+    maxlongitude: 145.8166
+    maxlatitude: -5.2036858
+    latitude: -5.216667
+    longitude: 145.8
+- name: North Solomons
+  names:
+  - Bougainville
+  - Mekamui
+  - North Solomons
+  code: NSA
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 154.11778
+    minlatitude: -6.879626
+    maxlongitude: 159.4924
+    maxlatitude: -3.1095147
+    latitude: -6.053602
+    longitude: 155.19073
+- name: Western
+  names:
+  - Papua West
+  - Western
+  code: WPD
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.84286
+    minlatitude: -9.33375
+    maxlongitude: 143.92404
+    maxlatitude: -5
+    latitude: -7.584644
+    longitude: 142.36134
+- name: Chimbu
+  names:
+  - Chimbu
+  - Simbúa
+  code: CPK
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 144.42854
+    minlatitude: -6.895471
+    maxlongitude: 145.33975
+    maxlatitude: -5.775725
+    latitude: -6.3087683
+    longitude: 144.87312
+- name: Gulf
+  names:
+  - Papua Gulf
+  code: GPK
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 143.00871
+    minlatitude: -8.587778
+    maxlongitude: 146.64711
+    maxlatitude: -6.700166
+    latitude: -7.269182
+    longitude: 145.13759
+- name: Morobe
+  names:
+  - Morobe
+  code: MPL
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 145.74283
+    minlatitude: -8.031377
+    maxlongitude: 148.11502
+    maxlatitude: -5.2815223
+    latitude: -6.8013735
+    longitude: 146.56165
+- name: Southern Highlands
+  names:
+  - Highlands South
+  code: SHM
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 142.06647
+    minlatitude: -6.863055
+    maxlongitude: 144.68379
+    maxlatitude: -4.971732
+    latitude: -6.5156913
+    longitude: 143.0459
+- name: West New Britain
+  names:
+  - New Britain West
+  code: WBK
+  countryalpha2: PG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 148.30992
+    minlatitude: -6.3108954
+    maxlongitude: 151.68391
+    maxlatitude: -4.542134
+    latitude: -5.7047434
+    longitude: 150.02594

@@ -1,0 +1,1120 @@
+- name: Sembabule
+  names:
+  - Sembabule
+  code: "111"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.455832
+    minlatitude: -0.0872039
+    maxlongitude: 31.466818
+    maxlatitude: -0.076561
+    latitude: -0.08
+    longitude: 31.46
+- name: Kaliro
+  names:
+  - Kaliro
+  code: "220"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.499268
+    minlatitude: 0.8857374
+    maxlongitude: 33.510403
+    maxlatitude: 0.9000694
+    latitude: 0.8927499
+    longitude: 33.5028
+- name: Manafwa
+  names:
+  - Manafwa
+  code: "221"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.16552
+    minlatitude: 0.746111
+    maxlongitude: 34.484844
+    maxlatitude: 1.0062541
+    latitude: 0.9063599
+    longitude: 34.28661
+- name: Rukungiri
+  names:
+  - Rukungiri
+  code: "412"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.917746
+    minlatitude: -0.7959682
+    maxlongitude: 29.932337
+    maxlatitude: -0.7836099
+    latitude: -0.79
+    longitude: 29.925
+- name: Kamuli
+  names:
+  - Kamuli
+  code: "205"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.116077
+    minlatitude: 0.9370791
+    maxlongitude: 33.13161
+    maxlatitude: 0.9535993
+    latitude: 0.945
+    longitude: 33.125
+- name: Gulu
+  names:
+  - Gulu
+  code: "304"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.24427
+    minlatitude: 2.7299273
+    maxlongitude: 32.33165
+    maxlatitude: 2.8207154
+    latitude: 2.78
+    longitude: 32.3
+- name: Ntungamo
+  names:
+  - Ntungamo
+  code: "411"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.259438
+    minlatitude: -0.8855658
+    maxlongitude: 30.27317
+    maxlatitude: -0.8652263
+    latitude: -0.881944
+    longitude: 30.265278
+- name: Kanungu
+  names:
+  - Kanungu
+  code: "414"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.763206
+    minlatitude: -0.9059052
+    maxlongitude: 29.7993
+    maxlatitude: -0.8688307
+    latitude: -0.896944
+    longitude: 29.775557
+- name: Mubende
+  names:
+  - Mubende
+  code: "107"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.363821
+    minlatitude: 0.5415836
+    maxlongitude: 31.411114
+    maxlatitude: 0.5817504
+    latitude: 0.5575
+    longitude: 31.395
+- name: Iganga
+  names:
+  - Iganga
+  code: "203"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.448563
+    minlatitude: 0.5867283
+    maxlongitude: 33.497143
+    maxlatitude: 0.633675
+    latitude: 0.615
+    longitude: 33.485
+- name: Kotido
+  names:
+  - Kotido
+  code: "306"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.101025
+    minlatitude: 2.9930987
+    maxlongitude: 34.123375
+    maxlatitude: 3.0211804
+    latitude: 3.006111
+    longitude: 34.1125
+- name: Dokolo
+  names:
+  - Dokolo
+  code: "318"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.164936
+    minlatitude: 1.9062268
+    maxlongitude: 33.177616
+    maxlatitude: 1.9208744
+    latitude: 1.916667
+    longitude: 33.166668
+- name: Oyam
+  names:
+  - Oyam
+  code: "321"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.228043
+    minlatitude: 2.0733883
+    maxlongitude: 32.82453
+    maxlatitude: 2.622433
+    latitude: 2.2776282
+    longitude: 32.446724
+- name: Kyenjojo
+  names:
+  - Kyenjojo
+  code: "415"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.6322
+    minlatitude: 0.5959977
+    maxlongitude: 30.650654
+    maxlatitude: 0.6239767
+    latitude: 0.61
+    longitude: 30.644167
+- name: Butaleja
+  names:
+  - Butaleja
+  code: "219"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0.925201
+    longitude: 33.9457
+- name: Pader
+  names:
+  - Pader
+  code: "312"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.079662
+    minlatitude: 2.8723218
+    maxlongitude: 33.092106
+    maxlatitude: 2.8881805
+    latitude: 2.881111
+    longitude: 33.086388
+- name: Maracha
+  names:
+  - Maracha
+  code: "320"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.93468
+    minlatitude: 3.28317
+    maxlongitude: 30.947384
+    maxlatitude: 3.2919097
+    latitude: 3.2873127
+    longitude: 30.940302
+- name: Bundibugyo
+  names:
+  - Bundibugyo
+  code: "401"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.058422
+    minlatitude: 0.7008759
+    maxlongitude: 30.067263
+    maxlatitude: 0.7167534
+    latitude: 0.7125
+    longitude: 30.06
+- name: Kamwenge
+  names:
+  - Kamwenge
+  code: "413"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.447407
+    minlatitude: 0.1808451
+    maxlongitude: 30.45908
+    maxlatitude: 0.1904579
+    latitude: 0.186066
+    longitude: 30.451208
+- name: Apac
+  names:
+  - Apac
+  code: "302"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.527428
+    minlatitude: 1.9798057
+    maxlongitude: 32.5391
+    maxlatitude: 1.9909571
+    latitude: 1.983333
+    longitude: 32.533333
+- name: Moroto
+  names:
+  - Moroto
+  code: "308"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.650192
+    minlatitude: 2.518148
+    maxlongitude: 34.67371
+    maxlatitude: 2.5395846
+    latitude: 2.53
+    longitude: 34.67
+- name: Mpigi
+  names:
+  - Mpigi
+  code: "106"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.31491
+    minlatitude: 0.212645
+    maxlongitude: 32.341347
+    maxlatitude: 0.2413123
+    latitude: 0.233333
+    longitude: 32.333332
+- name: Mukono
+  names:
+  - Mukono
+  code: "108"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.730194
+    minlatitude: 0.3381098
+    maxlongitude: 32.77977
+    maxlatitude: 0.3836455
+    latitude: 0.353333
+    longitude: 32.75528
+- name: Wakiso
+  names:
+  - Wakiso
+  code: "113"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.474262
+    minlatitude: 0.3950514
+    maxlongitude: 32.486378
+    maxlatitude: 0.4039581
+    latitude: 0.398056
+    longitude: 32.478058
+- name: Bugiri
+  names:
+  - Bugiri
+  code: "201"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.735752
+    minlatitude: 0.5541143
+    maxlongitude: 33.76648
+    maxlatitude: 0.5827803
+    latitude: 0.569444
+    longitude: 33.74861
+- name: Namutumba
+  names:
+  - Namutumba
+  code: "222"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.68108
+    minlatitude: 0.8321851
+    maxlongitude: 33.688286
+    maxlatitude: 0.8400807
+    latitude: 0.8360898
+    longitude: 33.686096
+- name: Adjumani
+  names:
+  - Adjumani
+  code: "301"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.763836
+    minlatitude: 3.3578541
+    maxlongitude: 31.808596
+    maxlatitude: 3.3905632
+    latitude: 3.384444
+    longitude: 31.781944
+- name: Moyo
+  names:
+  - Moyo
+  code: "309"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.710793
+    minlatitude: 3.6419375
+    maxlongitude: 31.7377
+    maxlatitude: 3.6649148
+    latitude: 3.655
+    longitude: 31.72
+- name: Kaabong
+  names:
+  - Kaabong
+  code: "315"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.127987
+    minlatitude: 3.5059357
+    maxlongitude: 34.140625
+    maxlatitude: 3.5195677
+    latitude: 3.5124435
+    longitude: 34.13372
+- name: Kibaale
+  names:
+  - Kibaale
+  code: "407"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.070023
+    minlatitude: 0.7634414
+    maxlongitude: 31.084785
+    maxlatitude: 0.7959682
+    latitude: 0.7682547
+    longitude: 31.07766
+- name: Kayunga
+  names:
+  - Kayunga
+  code: "112"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.898045
+    minlatitude: 0.6945249
+    maxlongitude: 32.909546
+    maxlatitude: 0.7074843
+    latitude: 0.7013707
+    longitude: 32.90291
+- name: Kapchorwa
+  names:
+  - Kapchorwa
+  code: "206"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.439198
+    minlatitude: 1.3889478
+    maxlongitude: 34.45497
+    maxlatitude: 1.4056369
+    latitude: 1.4
+    longitude: 34.45
+- name: Katakwi
+  names:
+  - Katakwi
+  code: "207"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.94664
+    minlatitude: 1.9058622
+    maxlongitude: 33.967922
+    maxlatitude: 1.9234477
+    latitude: 1.915
+    longitude: 33.955
+- name: Bukwa
+  names:
+  - Bukwa
+  code: "218"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 1.2938
+    longitude: 34.73967
+- name: Yumbe
+  names:
+  - Yumbe
+  code: "313"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.238594
+    minlatitude: 3.460733
+    maxlongitude: 31.255846
+    maxlatitude: 3.4764326
+    latitude: 3.466667
+    longitude: 31.25
+- name: Amuru
+  names:
+  - Amuru
+  code: "319"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.344368
+    minlatitude: 2.529905
+    maxlongitude: 32.38859
+    maxlatitude: 3.584319
+    latitude: 2.9667878
+    longitude: 32.083744
+- name: Mbale
+  names:
+  - Mbale
+  code: "209"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.14362
+    minlatitude: 1.0560868
+    maxlongitude: 34.20842
+    maxlatitude: 1.1036286
+    latitude: 1.080556
+    longitude: 34.175
+- name: Arua
+  names:
+  - Arua
+  code: "303"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.882786
+    minlatitude: 2.980156
+    maxlongitude: 30.938156
+    maxlatitude: 3.059795
+    latitude: 3.038333
+    longitude: 30.910833
+- name: Lira
+  names:
+  - Lira
+  code: "307"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.862965
+    minlatitude: 2.2199914
+    maxlongitude: 32.919777
+    maxlatitude: 2.2770474
+    latitude: 2.247222
+    longitude: 32.9
+- name: Bushenyi
+  names:
+  - Bushenyi
+  code: "402"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.181536
+    minlatitude: -0.5504345
+    maxlongitude: 30.208282
+    maxlatitude: -0.5361228
+    latitude: -0.541667
+    longitude: 30.185
+- name: Hoima
+  names:
+  - Hoima
+  code: "403"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.327257
+    minlatitude: 1.4163196
+    maxlongitude: 31.375494
+    maxlatitude: 1.4481528
+    latitude: 1.431944
+    longitude: 31.3525
+- name: Mityana
+  names:
+  - Mityana
+  code: "114"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.019817
+    minlatitude: 0.3833989
+    maxlongitude: 32.071037
+    maxlatitude: 0.4203956
+    latitude: 0.4016398
+    longitude: 32.04397
+- name: Amuria
+  names:
+  - Amuria
+  code: "216"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.636875
+    minlatitude: 2.0231452
+    maxlongitude: 33.648205
+    maxlatitude: 2.0345964
+    latitude: 2.03017
+    longitude: 33.642754
+- name: Nakasongola
+  names:
+  - Nakasongola
+  code: "109"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.44606
+    minlatitude: 1.304857
+    maxlongitude: 32.47327
+    maxlatitude: 1.3266522
+    latitude: 1.315
+    longitude: 32.465
+- name: Pallisa
+  names:
+  - Pallisa
+  code: "210"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.70335
+    minlatitude: 1.1583564
+    maxlongitude: 33.71691
+    maxlatitude: 1.179402
+    latitude: 1.1675
+    longitude: 33.71
+- name: Tororo
+  names:
+  - Tororo
+  code: "212"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.152977
+    minlatitude: 0.6541015
+    maxlongitude: 34.20791
+    maxlatitude: 0.7098016
+    latitude: 0.692778
+    longitude: 34.18111
+- name: Masindi
+  names:
+  - Masindi
+  code: "409"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.697016
+    minlatitude: 1.6642805
+    maxlongitude: 31.74242
+    maxlatitude: 1.7076062
+    latitude: 1.683333
+    longitude: 31.733334
+- name: Jinja
+  names:
+  - Jinja
+  code: "204"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.17575
+    minlatitude: 0.4114044
+    maxlongitude: 33.253586
+    maxlatitude: 0.4795304
+    latitude: 0.424444
+    longitude: 33.204166
+- name: Budaka
+  names:
+  - Budaka
+  code: "217"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.93913
+    minlatitude: 1.0106683
+    maxlongitude: 33.95906
+    maxlatitude: 1.02043
+    latitude: 1.016667
+    longitude: 33.945
+- name: Bukedea
+  names:
+  - Bukedea
+  code: "224"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.040108
+    minlatitude: 1.344586
+    maxlongitude: 34.046974
+    maxlatitude: 1.3518796
+    latitude: 1.3475
+    longitude: 34.044445
+- name: Nebbi
+  names:
+  - Nebbi
+  code: "310"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.07337
+    minlatitude: 2.4683704
+    maxlongitude: 31.102594
+    maxlatitude: 2.4935381
+    latitude: 2.479167
+    longitude: 31.09
+- name: Kiruhura
+  names:
+  - Kiruhura
+  code: "418"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -0.196398
+    longitude: 30.84425
+- name: Buliisa
+  names:
+  - Buliisa
+  code: "419"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.319818
+    minlatitude: 1.666287
+    maxlongitude: 31.763885
+    maxlatitude: 2.323078
+    latitude: 2.0299606
+    longitude: 31.537
+- name: Kalangala
+  names:
+  - Kalangala
+  code: "101"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.280235
+    minlatitude: -0.3332787
+    maxlongitude: 32.3186
+    maxlatitude: -0.3073312
+    latitude: -0.3208374
+    longitude: 32.293743
+- name: Kampala
+  names:
+  - Kampala
+  code: "102"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.508972
+    minlatitude: 0.2144788
+    maxlongitude: 32.68928
+    maxlatitude: 0.413199
+    latitude: 0.313611
+    longitude: 32.581112
+- name: Rakai
+  names:
+  - Rakai
+  code: "110"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -0.70294
+    longitude: 31.40991
+- name: Nakaseke
+  names:
+  - Nakaseke
+  code: "115"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.8219
+    minlatitude: 0.5353182
+    maxlongitude: 32.501335
+    maxlatitude: 1.4669437
+    latitude: 1.0922742
+    longitude: 32.083744
+- name: Busia
+  names:
+  - Busia
+  code: "202"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.07315
+    minlatitude: 0.4560136
+    maxlongitude: 34.10079
+    maxlatitude: 0.4804746
+    latitude: 0.4706692
+    longitude: 34.09198
+- name: Bududa
+  names:
+  - Bududa
+  code: "223"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.32599
+    minlatitude: 0.9976026
+    maxlongitude: 34.33809
+    maxlatitude: 1.011033
+    latitude: 1.0029693
+    longitude: 34.333813
+- name: Lyantonde
+  names:
+  - Lyantonde
+  code: "116"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.14741
+    minlatitude: -0.4140758
+    maxlongitude: 31.162344
+    maxlatitude: -0.4017166
+    latitude: -0.406944
+    longitude: 31.1575
+- name: Koboko
+  names:
+  - Koboko
+  code: "316"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.938208
+    minlatitude: 3.3891923
+    maxlongitude: 30.983742
+    maxlatitude: 3.4341307
+    latitude: 3.41
+    longitude: 30.96
+- name: Isingiro
+  names:
+  - Isingiro
+  code: "417"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.478306
+    minlatitude: -1.0761676
+    maxlongitude: 30.917072
+    maxlatitude: -0.6023487
+    latitude: -0.7454997
+    longitude: 30.757984
+- name: Kumi
+  names:
+  - Kumi
+  code: "208"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.919987
+    minlatitude: 1.4751163
+    maxlongitude: 33.947624
+    maxlatitude: 1.4952798
+    latitude: 1.49
+    longitude: 33.935
+- name: Kabale
+  names:
+  - Kabale
+  code: "404"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.964653
+    minlatitude: -1.2719921
+    maxlongitude: 30.014992
+    maxlatitude: -1.2280573
+    latitude: -1.25
+    longitude: 29.99
+- name: Kabarole
+  names:
+  - Kabarole
+  code: "405"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.252771
+    minlatitude: 0.5870078
+    maxlongitude: 30.257727
+    maxlatitude: 0.5914896
+    latitude: 0.5896682
+    longitude: 30.254879
+- name: Kiboga
+  names:
+  - Kiboga
+  code: "103"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.749544
+    minlatitude: 0.8917448
+    maxlongitude: 31.791258
+    maxlatitude: 0.9379159
+    latitude: 0.92
+    longitude: 31.76
+- name: Masaka
+  names:
+  - Masaka
+  code: "105"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.714622
+    minlatitude: -0.3747893
+    maxlongitude: 31.791172
+    maxlatitude: -0.3013382
+    latitude: -0.34
+    longitude: 31.74
+- name: Mayuge
+  names:
+  - Mayuge
+  code: "214"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.40113
+    minlatitude: -0.046986
+    maxlongitude: 33.700603
+    maxlatitude: 0.46483
+    latitude: 0.2532134
+    longitude: 33.550865
+- name: Amolatar
+  names:
+  - Amolatar
+  code: "314"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.812645
+    minlatitude: 1.6298765
+    maxlongitude: 32.82526
+    maxlatitude: 1.6377698
+    latitude: 1.6329923
+    longitude: 32.81832
+- name: Ibanda
+  names:
+  - Ibanda
+  code: "416"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.48294
+    minlatitude: -0.1435945
+    maxlongitude: 30.51487
+    maxlatitude: -0.0857448
+    latitude: -0.12
+    longitude: 30.5
+- name: Luwero
+  names:
+  - Luwero
+  code: "104"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.471638
+    minlatitude: 0.8201451
+    maxlongitude: 32.516895
+    maxlatitude: 0.8670285
+    latitude: 0.833056
+    longitude: 32.499443
+- name: Soroti
+  names:
+  - Soroti
+  code: "211"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.590443
+    minlatitude: 1.6942225
+    maxlongitude: 33.642624
+    maxlatitude: 1.7504162
+    latitude: 1.715
+    longitude: 33.61111
+- name: Kaberamaido
+  names:
+  - Kaberamaido
+  code: "213"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.146652
+    minlatitude: 1.7596816
+    maxlongitude: 33.156567
+    maxlatitude: 1.7682606
+    latitude: 1.766667
+    longitude: 33.15222
+- name: Sironko
+  names:
+  - Sironko
+  code: "215"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.244663
+    minlatitude: 1.2243245
+    maxlongitude: 34.25284
+    maxlatitude: 1.2361664
+    latitude: 1.233333
+    longitude: 34.25
+- name: Kasese
+  names:
+  - Kasese
+  code: "406"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.061588
+    minlatitude: 0.1502894
+    maxlongitude: 30.107088
+    maxlatitude: 0.1932903
+    latitude: 0.186667
+    longitude: 30.088057
+- name: Mbarara
+  names:
+  - Mbarara
+  code: "410"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.603832
+    minlatitude: -0.659326
+    maxlongitude: 30.70477
+    maxlatitude: -0.563716
+    latitude: -0.613333
+    longitude: 30.658333
+- name: Kitgum
+  names:
+  - Kitgum
+  code: "305"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.86659
+    minlatitude: 3.271503
+    maxlongitude: 32.898987
+    maxlatitude: 3.311252
+    latitude: 3.2884848
+    longitude: 32.87895
+- name: Nakapiripirit
+  names:
+  - Nakapiripirit
+  code: "311"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.71714
+    minlatitude: 1.8424673
+    maxlongitude: 34.7301
+    maxlatitude: 1.8577372
+    latitude: 1.8502516
+    longitude: 34.721584
+- name: Abim
+  names:
+  - Abim
+  code: "317"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.653442
+    minlatitude: 2.6962337
+    maxlongitude: 33.667946
+    maxlatitude: 2.7221258
+    latitude: 2.706698
+    longitude: 33.659534
+- name: Kisoro
+  names:
+  - Kisoro
+  code: "408"
+  countryalpha2: UG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.677935
+    minlatitude: -1.2916639
+    maxlongitude: 29.703276
+    maxlatitude: -1.2734509
+    latitude: -1.285
+    longitude: 29.685

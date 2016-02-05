@@ -1,0 +1,75 @@
+name:
+  common: Jamaica
+  official: Jamaica
+  native:
+    eng:
+      common: Jamaica
+      official: Jamaica
+    jam:
+      common: Jamaica
+      official: Jamaica
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .jm
+languages:
+  eng: English
+  jam: Jamaican Patois
+translations:
+  deu:
+    common: Jamaika
+    official: Jamaika
+  fin:
+    common: Jamaika
+    official: Jamaika
+  fra:
+    common: Jamaïque
+    official: Jamaïque
+  hrv:
+    common: Jamajka
+    official: Jamajka
+  ita:
+    common: Giamaica
+    official: Giamaica
+  jpn:
+    common: ジャマイカ
+    official: ジャマイカ
+  nld:
+    common: Jamaica
+    official: Jamaica
+  por:
+    common: Jamaica
+    official: Jamaica
+  rus:
+    common: Ямайка
+    official: Ямайка
+  spa:
+    common: Jamaica
+    official: Jamaica
+currencies:
+- JMD
+borders: []
+codes:
+  alpha2: JM
+  alpha3: JAM
+  cioc: JAM
+  ccn3: "388"
+  callingcodes:
+  - "1876"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Kingston
+  area: 10991
+coordinates:
+  longitudestring: 77 30 W
+  latitudestring: 18 15 N
+  minlongitude: -78.36667
+  minlatitude: 17
+  maxlongitude: -70
+  maxlatitude: 18.533333
+  latitude: 18.143444
+  longitude: -77.34655

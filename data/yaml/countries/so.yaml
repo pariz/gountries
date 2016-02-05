@@ -1,0 +1,78 @@
+name:
+  common: Somalia
+  official: Federal Republic of Somalia
+  native:
+    ara:
+      common: الصومال‎‎
+      official: جمهورية الصومال‎‎
+    som:
+      common: Soomaaliya
+      official: Jamhuuriyadda Federaalka Soomaaliya
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .so
+languages:
+  ara: Arabic
+  som: Somali
+translations:
+  deu:
+    common: Somalia
+    official: Bundesrepublik Somalia
+  fin:
+    common: Somalia
+    official: Somalian liittotasavalta
+  fra:
+    common: Somalie
+    official: République fédérale de Somalie
+  hrv:
+    common: Somalija
+    official: Savezna Republika Somaliji
+  ita:
+    common: Somalia
+    official: Repubblica federale di Somalia
+  jpn:
+    common: ソマリア
+    official: ソマリア連邦共和国
+  nld:
+    common: Somalië
+    official: Federale Republiek Somalië
+  por:
+    common: Somália
+    official: República Federal da Somália
+  rus:
+    common: Сомали
+    official: Федеративная Республика Сомали
+  spa:
+    common: Somalia
+    official: República Federal de Somalia
+currencies:
+- SOS
+borders:
+- DJI
+- ETH
+- KEN
+codes:
+  alpha2: SO
+  alpha3: SOM
+  cioc: SOM
+  ccn3: "706"
+  callingcodes:
+  - "252"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Mogadishu
+  area: 637657
+coordinates:
+  longitudestring: 49 00 E
+  latitudestring: 10 00 N
+  minlongitude: 41
+  minlatitude: -1.6594297
+  maxlongitude: 51.4
+  maxlatitude: 11.983333
+  latitude: 5.9482675
+  longitude: 47.473606

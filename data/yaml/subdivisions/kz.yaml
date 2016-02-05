@@ -1,0 +1,287 @@
+- name: Aqmola oblysy
+  names:
+  - Akmola
+  - Akmolinsk
+  - Aķmola
+  - Celinograd
+  - Tselinograd
+  code: AKM
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 65.25715
+    minlatitude: 50.111385
+    maxlongitude: 74.197556
+    maxlatitude: 53.708546
+    latitude: 51.91653
+    longitude: 69.41105
+- name: Qostanay oblysy
+  names:
+  - Kostanay
+  - Kustanai
+  - Kustanaj
+  - Kustanay
+  - Ķostanay
+  code: KUS
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 60.05291
+    minlatitude: 48.19731
+    maxlongitude: 68.02896
+    maxlatitude: 54.71258
+    latitude: 51.50771
+    longitude: 64.047905
+- name: Mangghystau oblysy
+  names:
+  - Mangghystau
+  - Mangistau
+  - Mangkistau
+  - Mangqystau
+  code: MAN
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.004833
+    minlatitude: 41.240135
+    maxlongitude: 56.696327
+    maxlatitude: 46.46171
+    latitude: 44.5908
+    longitude: 53.849953
+- name: Zhambyl oblysy
+  names:
+  - Aulie-Ata
+  - Auliye-Ata
+  - Cambil
+  - Cambıl
+  - Djambul
+  - Dzhambul
+  - Zhambul
+  - Zhambyl
+  - Zhambül
+  code: ZHA
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.99391
+    minlatitude: 42.22123
+    maxlongitude: 75.77343
+    maxlatitude: 46.03662
+    latitude: 44.22203
+    longitude: 72.3658
+- name: Shyghys Qazaqstan oblysy
+  names:
+  - Eastern Kazakhstan
+  - Shyghys Qazaqstan
+  - Sigis Kazakstan
+  code: VOS
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 76.76924
+    minlatitude: 45.57064
+    maxlongitude: 87.31266
+    maxlatitude: 51.400814
+    latitude: 48.488487
+    longitude: 82.71032
+- name: Ongtüstik Qazaqstan oblysy
+  names:
+  - Ongtüstik Qazaqstan
+  - Ongtüstük Kazakstan
+  - Southern Kazakhstan
+  code: YUZ
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.491856
+    minlatitude: 48.0025
+    maxlongitude: 54.557465
+    maxlatitude: 51.766598
+    latitude: 49.567974
+    longitude: 50.806664
+- name: Aqtöbe oblysy
+  names:
+  - Aktjubinsk
+  - Aktyubinsk
+  - Aktöbe
+  - Aktʿubinsk
+  code: AKT
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 53.52612
+    minlatitude: 45.162697
+    maxlongitude: 64.18076
+    maxlatitude: 51.339558
+    latitude: 48.77971
+    longitude: 57.997437
+- name: Almaty oblysy
+  names:
+  - Almaty oblysy
+  code: ALM
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.04472
+    minlatitude: 42.20205
+    maxlongitude: 82.63086
+    maxlatitude: 47.329845
+    latitude: 45.01192
+    longitude: 78.422935
+- name: Atyrau oblysy
+  names:
+  - Ateransk
+  - Aterau
+  - Atirau
+  - Atırau
+  - Gurjev
+  - Guryev
+  code: ATY
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.994003
+    minlatitude: 46.16998
+    maxlongitude: 56.370937
+    maxlatitude: 49.270702
+    latitude: 47.905315
+    longitude: 51.37808
+- name: Pavlodar oblysy
+  names:
+  - Pavlodar oblysy
+  code: PAV
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.28296
+    minlatitude: 50.023727
+    maxlongitude: 79.59062
+    maxlatitude: 54.457916
+    latitude: 52.650856
+    longitude: 76.77732
+- name: Soltüstik Qazaqstan oblysy
+  names:
+  - Northern Kazakhstan
+  - Soltüstik Kazakstan
+  - Soltüstik Qazaqstan
+  code: SEV
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.35712
+    minlatitude: 53.253384
+    maxlongitude: 69.463806
+    maxlatitude: 53.344402
+    latitude: 53.294823
+    longitude: 69.404785
+- name: Batys Qazaqstan oblysy
+  names:
+  - Batis Kazakstan
+  - Batys Qazaqstan
+  - Uralsk
+  - Uralskaya Oblast
+  - Western Kazakhstan
+  code: ZAP
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.491856
+    minlatitude: 48.0025
+    maxlongitude: 54.557465
+    maxlatitude: 51.766598
+    latitude: 49.567974
+    longitude: 50.806664
+- name: Almaty
+  names:
+  - Almati Oblasti
+  - Almaty Oblasty
+  - Almatı
+  code: ALA
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 76.74156
+    minlatitude: 43.028744
+    maxlongitude: 77.14677
+    maxlatitude: 43.4057
+    latitude: 43.222015
+    longitude: 76.85125
+- name: Astana
+  names:
+  - Astana
+  code: AST
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 71.21604
+    minlatitude: 51.005547
+    maxlongitude: 71.74274
+    maxlatitude: 51.290344
+    latitude: 51.160522
+    longitude: 71.47035
+- name: Bayqongyr
+  names:
+  - Bayqongyr
+  code: BAY
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 63.27857
+    minlatitude: 45.603603
+    maxlongitude: 63.336826
+    maxlatitude: 45.64372
+    latitude: 45.623226
+    longitude: 63.313984
+- name: Qaraghandy oblysy
+  names:
+  - Karaganda
+  - Karagandi
+  - Karagandy
+  - Qaraghandy
+  - Ķaragandı
+  code: KAR
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 62.600536
+    minlatitude: 46.001396
+    maxlongitude: 77.621185
+    maxlatitude: 51.389282
+    latitude: 47.902218
+    longitude: 71.77068
+- name: Qyzylorda oblysy
+  names:
+  - Ak-Mechet
+  - Kizilorda
+  - Kyzyl-Orda
+  - Kyzylorda
+  - Kzyl-Orda
+  - Qyzylorda
+  - Ķızılorda
+  code: KZY
+  countryalpha2: KZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 58.788292
+    minlatitude: 42.42103
+    maxlongitude: 68.013565
+    maxlatitude: 47.854687
+    latitude: 44.69226
+    longitude: 62.65719

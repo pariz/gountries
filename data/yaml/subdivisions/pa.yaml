@@ -1,0 +1,140 @@
+- name: Comarca de San Blas
+  names:
+  - Comarca de San Blas
+  code: "0"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -83.05224
+    minlatitude: 7.2035565
+    maxlongitude: -77.158485
+    maxlatitude: 9.647779
+    latitude: 8.537981
+    longitude: -80.78213
+- name: Chiriquí
+  names:
+  - Chiriquí
+  code: "4"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -82.39673
+    minlatitude: 8.290486
+    maxlongitude: -82.20747
+    maxlatitude: 8.4415655
+    latitude: 8.386697
+    longitude: -82.28005
+- name: Darién
+  names:
+  - Darién
+  code: "5"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.51164
+    minlatitude: 7.2218657
+    maxlongitude: -77.17411
+    maxlatitude: 8.934891
+    latitude: 7.868171
+    longitude: -77.83673
+- name: Panamá
+  names:
+  - Panamá
+  code: "8"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.59786
+    minlatitude: 8.906754
+    maxlongitude: -79.30689
+    maxlatitude: 9.259697
+    latitude: 8.983333
+    longitude: -79.51667
+- name: Veraguas
+  names:
+  - Veraguas
+  code: "9"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 8.866667
+    longitude: -80.9
+- name: Bocas del Toro
+  names:
+  - Bocas del Toro
+  code: "1"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -82.33236
+    minlatitude: 9.329281
+    maxlongitude: -82.22743
+    maxlatitude: 9.453332
+    latitude: 9.340556
+    longitude: -82.240555
+- name: Coclé
+  names:
+  - Coclé
+  code: "2"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.48219
+    minlatitude: 8.328111
+    maxlongitude: -80.35508
+    maxlatitude: 8.487865
+    latitude: 8.400145
+    longitude: -80.421524
+- name: Colón
+  names:
+  - Colón
+  code: "3"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.04467
+    minlatitude: 9.242331
+    maxlongitude: -79.831024
+    maxlatitude: 9.404694
+    latitude: 9.333333
+    longitude: -79.9
+- name: Herrera
+  names:
+  - Herrera
+  code: "6"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.96242
+    minlatitude: 7.513487
+    maxlongitude: -80.39655
+    maxlatitude: 8.131537
+    latitude: 7.770428
+    longitude: -80.72144
+- name: Los Santos
+  names:
+  - Los Santos
+  code: "7"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.734344
+    minlatitude: 7.22972
+    maxlongitude: -79.99445
+    maxlatitude: 8.000313
+    latitude: 7.59093
+    longitude: -80.36587

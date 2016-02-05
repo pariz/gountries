@@ -1,0 +1,74 @@
+name:
+  common: Venezuela
+  official: Bolivarian Republic of Venezuela
+  native:
+    spa:
+      common: Venezuela
+      official: República Bolivariana de Venezuela
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ve
+languages:
+  spa: Spanish
+translations:
+  deu:
+    common: Venezuela
+    official: Bolivarische Republik Venezuela
+  fin:
+    common: Venezuela
+    official: Venezuelan bolivariaainen tasavalta
+  fra:
+    common: Venezuela
+    official: République bolivarienne du Venezuela
+  hrv:
+    common: Venezuela
+    official: BOLIVARIJANSKA Republika Venezuela
+  ita:
+    common: Venezuela
+    official: Repubblica Bolivariana del Venezuela
+  jpn:
+    common: ベネズエラ・ボリバル共和国
+    official: ベネズエラ·ボリバル共和国
+  nld:
+    common: Venezuela
+    official: Bolivariaanse Republiek Venezuela
+  por:
+    common: Venezuela
+    official: República Bolivariana da Venezuela
+  rus:
+    common: Венесуэла
+    official: Боливарианская Республика Венесуэла
+  spa:
+    common: Venezuela
+    official: República Bolivariana de Venezuela
+currencies:
+- VEF
+borders:
+- BRA
+- COL
+- GUY
+codes:
+  alpha2: VE
+  alpha3: VEN
+  cioc: VEN
+  ccn3: "862"
+  callingcodes:
+  - "58"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Caracas
+  area: 916445
+coordinates:
+  longitudestring: 66 00 W
+  latitudestring: 8 00 N
+  minlongitude: -73.16
+  minlatitude: 0.766667
+  maxlongitude: -59.966667
+  maxlatitude: 15.7
+  latitude: 7.6653886
+  longitude: -66.14542

@@ -1,0 +1,74 @@
+name:
+  common: Oman
+  official: Sultanate of Oman
+  native:
+    ara:
+      common: عمان
+      official: سلطنة عمان
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .om
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Oman
+    official: Sultanat Oman
+  fin:
+    common: Oman
+    official: Omanin sulttaanikunta
+  fra:
+    common: Oman
+    official: Sultanat d'Oman
+  hrv:
+    common: Oman
+    official: Sultanat Oman
+  ita:
+    common: oman
+    official: Sultanato dell'Oman
+  jpn:
+    common: オマーン
+    official: オマーン·スルタン国
+  nld:
+    common: Oman
+    official: Sultanaat van Oman
+  por:
+    common: Omã
+    official: Sultanato de Omã
+  rus:
+    common: Оман
+    official: Султанат Оман
+  spa:
+    common: Omán
+    official: Sultanato de Omán
+currencies:
+- OMR
+borders:
+- SAU
+- ARE
+- YEM
+codes:
+  alpha2: OM
+  alpha3: OMN
+  cioc: OMA
+  ccn3: "512"
+  callingcodes:
+  - "968"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Western Asia
+  continent: Asia
+  capital: Muscat
+  area: 309500
+coordinates:
+  longitudestring: 57 00 E
+  latitudestring: 21 00 N
+  minlongitude: 45
+  minlatitude: 16.633333
+  maxlongitude: 59.838055
+  maxlatitude: 26.505
+  latitude: 20.566622
+  longitude: 56.157963

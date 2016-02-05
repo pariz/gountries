@@ -1,0 +1,94 @@
+- name: Dasoguz
+  names:
+  - Dashhovuz
+  - Dashhowuz
+  - Dashkhovuz
+  - Dashogus
+  - Dashoguz
+  - Daşhovuz
+  - Dašhovuz
+  - Tashauz
+  - Tašauz
+  code: D
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 59.8845
+    minlatitude: 41.788273
+    maxlongitude: 60.038307
+    maxlatitude: 41.880745
+    latitude: 41.833332
+    longitude: 59.966667
+- name: Lebap
+  names:
+  - Lebap
+  code: L
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 60.189873
+    minlatitude: 36.85088
+    maxlongitude: 66.6843
+    maxlatitude: 41.29154
+    latitude: 38.127247
+    longitude: 64.71624
+- name: Mary
+  names:
+  - Mary
+  - Merv
+  code: M
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 60.395035
+    minlatitude: 35.14115
+    maxlongitude: 64.73784
+    maxlatitude: 39.513603
+    latitude: 36.948162
+    longitude: 62.450417
+- name: ""
+  names:
+  - Ashgabat
+  - Aşkabat
+  code: X~
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 52.447845
+    minlatitude: 35.12876
+    maxlongitude: 66.70735
+    maxlatitude: 42.798843
+    latitude: 38.96972
+    longitude: 59.55628
+- name: Ahal
+  names:
+  - Akhal
+  code: A
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 56.723392
+    minlatitude: 35.58967
+    maxlongitude: 61.511456
+    maxlatitude: 40.197323
+    latitude: 38.63994
+    longitude: 59.47209
+- name: Balkan
+  names:
+  - Balkan
+  code: B
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 52.444603
+    minlatitude: 37.30918
+    maxlongitude: 57.199726
+    maxlatitude: 42.3435
+    latitude: 40.946888
+    longitude: 54.495243

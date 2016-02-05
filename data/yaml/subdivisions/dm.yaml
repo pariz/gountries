@@ -1,0 +1,140 @@
+- name: Saint Andrew
+  names:
+  - Saint Andrew
+  code: "02"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.442722
+    minlatitude: 15.453767
+    maxlongitude: -61.272358
+    maxlatitude: 15.639894
+    latitude: 15.554244
+    longitude: -61.350185
+- name: Saint George
+  names:
+  - Saint George
+  code: "04"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.39267
+    minlatitude: 15.263895
+    maxlongitude: -61.29876
+    maxlatitude: 15.354619
+    latitude: 15.3087845
+    longitude: -61.33852
+- name: Saint Mark
+  names:
+  - Saint Mark
+  code: "08"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.373917
+    minlatitude: 15.207682
+    maxlongitude: -61.329853
+    maxlatitude: 15.254047
+    latitude: 15.219592
+    longitude: -61.344353
+- name: Saint David
+  names:
+  - Saint David
+  code: "03"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.329124
+    minlatitude: 15.327894
+    maxlongitude: -61.241314
+    maxlatitude: 15.520501
+    latitude: 15.4082
+    longitude: -61.291862
+- name: Saint John
+  names:
+  - Saint John
+  code: "05"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.47966
+    minlatitude: 15.512308
+    maxlongitude: -61.401512
+    maxlatitude: 15.639194
+    latitude: 15.576376
+    longitude: -61.431873
+- name: Saint Joseph
+  names:
+  - Saint Joseph
+  code: "06"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.454243
+    minlatitude: 15.39094
+    maxlongitude: -61.315628
+    maxlatitude: 15.504269
+    latitude: 15.433508
+    longitude: -61.39686
+- name: Saint Luke
+  names:
+  - Saint Luke
+  code: "07"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.377377
+    minlatitude: 15.237325
+    maxlongitude: -61.34495
+    maxlatitude: 15.272726
+    latitude: 15.254587
+    longitude: -61.367687
+- name: Saint Patrick
+  names:
+  - Saint Patrick
+  code: "09"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.345493
+    minlatitude: 15.21715
+    maxlongitude: -61.24183
+    maxlatitude: 15.345993
+    latitude: 15.281112
+    longitude: -61.291862
+- name: Saint Paul
+  names:
+  - Saint Paul
+  code: "10"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.421955
+    minlatitude: 15.319361
+    maxlongitude: -61.31986
+    maxlatitude: 15.415029
+    latitude: 15.3756075
+    longitude: -61.361855
+- name: Saint Peter
+  names:
+  - Saint Peter
+  code: "11"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.478264
+    minlatitude: 15.46307
+    maxlongitude: -61.39977
+    maxlatitude: 15.541238
+    latitude: 15.509829
+    longitude: -61.449383

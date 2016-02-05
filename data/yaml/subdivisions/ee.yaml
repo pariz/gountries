@@ -1,0 +1,212 @@
+- name: Pärnumaa
+  names:
+  - Pärnumaa
+  code: "67"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.609013
+    minlatitude: 57.864544
+    maxlongitude: 25.30718
+    maxlatitude: 58.75698
+    latitude: 58.466343
+    longitude: 24.69612
+- name: Raplamaa
+  names:
+  - Raplamaa
+  code: "70"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.070631
+    minlatitude: 58.65556
+    maxlongitude: 25.333944
+    maxlatitude: 59.227985
+    latitude: 58.849262
+    longitude: 24.734657
+- name: Tartumaa
+  names:
+  - Tartumaa
+  code: "78"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.078548
+    minlatitude: 58.11304
+    maxlongitude: 27.532303
+    maxlatitude: 58.682793
+    latitude: 58.405712
+    longitude: 26.801577
+- name: Järvamaa
+  names:
+  - Järvamaa
+  code: "51"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.195017
+    minlatitude: 58.60611
+    maxlongitude: 26.1688
+    maxlatitude: 59.269653
+    latitude: 58.886673
+    longitude: 25.500063
+- name: Läänemaa
+  names:
+  - Läänemaa
+  code: "57"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.077835
+    minlatitude: 58.534504
+    maxlongitude: 24.192596
+    maxlatitude: 59.304363
+    latitude: 58.89072
+    longitude: 23.79258
+- name: Lääne-Virumaa
+  names:
+  - Lääne-Virumaa
+  code: "59"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.536398
+    minlatitude: 58.87693
+    maxlongitude: 26.952736
+    maxlatitude: 59.822018
+    latitude: 59.30188
+    longitude: 26.328032
+- name: Saaremaa
+  names:
+  - Saare
+  - Ösel
+  code: "74"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.8281
+    minlatitude: 57.9044
+    maxlongitude: 23.328579
+    maxlatitude: 58.642124
+    latitude: 58.484974
+    longitude: 22.61364
+- name: Hiiumaa
+  names:
+  - Dagden
+  - Dagö
+  code: "39"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.038816
+    minlatitude: 58.68709
+    maxlongitude: 23.180132
+    maxlatitude: 59.09294
+    latitude: 58.923954
+    longitude: 22.591948
+- name: Jõgevamaa
+  names:
+  - Jogevamaa
+  code: "49"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.750229
+    minlatitude: 58.470867
+    maxlongitude: 27.163391
+    maxlatitude: 58.96892
+    latitude: 58.69472
+    longitude: 26.39023
+- name: Valgamaa
+  names:
+  - Valgamaa
+  code: "82"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.580517
+    minlatitude: 57.572235
+    maxlongitude: 26.625082
+    maxlatitude: 58.184322
+    latitude: 57.910343
+    longitude: 26.160181
+- name: Ida-Virumaa
+  names:
+  - Ida-Virumaa
+  code: "44"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.702332
+    minlatitude: 58.86564
+    maxlongitude: 28.209005
+    maxlatitude: 59.500565
+    latitude: 59.259266
+    longitude: 27.413654
+- name: Põlvamaa
+  names:
+  - Polvamaa
+  code: "65"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.566257
+    minlatitude: 57.81741
+    maxlongitude: 27.818998
+    maxlatitude: 58.268238
+    latitude: 58.116062
+    longitude: 27.20664
+- name: Viljandimaa
+  names:
+  - Viljandimaa
+  code: "84"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.97194
+    minlatitude: 57.95594
+    maxlongitude: 26.190842
+    maxlatitude: 58.690117
+    latitude: 58.282173
+    longitude: 25.575224
+- name: Võrumaa
+  names:
+  - Vorumaa
+  code: "86"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.370878
+    minlatitude: 57.509315
+    maxlongitude: 27.554922
+    maxlatitude: 57.957188
+    latitude: 57.80381
+    longitude: 26.852402
+- name: Harjumaa
+  names:
+  - Harjumaa
+  code: "37"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.73013
+    minlatitude: 58.989357
+    maxlongitude: 25.955103
+    maxlatitude: 59.685703
+    latitude: 59.333424
+    longitude: 25.246696

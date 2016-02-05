@@ -1,0 +1,72 @@
+name:
+  common: United Kingdom
+  official: United Kingdom of Great Britain and Northern Ireland
+  native:
+    eng:
+      common: United Kingdom
+      official: United Kingdom of Great Britain and Northern Ireland
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .uk
+languages:
+  eng: English
+translations:
+  deu:
+    common: Vereinigtes Königreich
+    official: Vereinigtes Königreich Großbritannien und Nordirland
+  fin:
+    common: Yhdistynyt kuningaskunta
+    official: Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta
+  fra:
+    common: Royaume-Uni
+    official: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+  hrv:
+    common: Ujedinjeno Kraljevstvo
+    official: Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske
+  ita:
+    common: Regno Unito
+    official: Regno Unito di Gran Bretagna e Irlanda del Nord
+  jpn:
+    common: イギリス
+    official: グレート·ブリテンおよび北アイルランド連合王国
+  nld:
+    common: Verenigd Koninkrijk
+    official: Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+  por:
+    common: Reino Unido
+    official: Reino Unido da Grã-Bretanha e Irlanda do Norte
+  rus:
+    common: Великобритания
+    official: Соединенное Королевство Великобритании и Северной Ирландии
+  spa:
+    common: Reino Unido
+    official: Reino Unido de Gran Bretaña e Irlanda del Norte
+currencies:
+- GBP
+borders:
+- IRL
+codes:
+  alpha2: GB
+  alpha3: GBR
+  cioc: GBR
+  ccn3: "826"
+  callingcodes:
+  - "44"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: London
+  area: 242900
+coordinates:
+  longitudestring: 2 00 W
+  latitudestring: 54 00 N
+  minlongitude: -13.65
+  minlatitude: 49.86667
+  maxlongitude: 2.866667
+  maxlatitude: 61.5
+  latitude: 54.560886
+  longitude: -2.2125118

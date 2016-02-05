@@ -1,0 +1,480 @@
+- name: Xizang
+  names:
+  - Tibet
+  code: "54"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 78.395546
+    minlatitude: 26.854816
+    maxlongitude: 99.11624
+    maxlatitude: 36.483334
+    latitude: 29.646923
+    longitude: 91.11721
+- name: Ningxia
+  names:
+  - Ningxia Hui
+  code: "64"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.28704
+    minlatitude: 35.238304
+    maxlongitude: 107.65927
+    maxlatitude: 39.38157
+    latitude: 38.471317
+    longitude: 106.25875
+- name: Shanghai
+  names:
+  - Schanghai
+  code: "31"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.858215
+    minlatitude: 30.68027
+    maxlongitude: 122.24706
+    maxlatitude: 31.868217
+    latitude: 31.230415
+    longitude: 121.4737
+- name: Anhui
+  names:
+  - Anhui
+  code: "34"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 114.88275
+    minlatitude: 29.393038
+    maxlongitude: 119.64915
+    maxlatitude: 34.654232
+    latitude: 31.861183
+    longitude: 117.28492
+- name: Hubei
+  names:
+  - Hubei
+  code: "42"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 108.36697
+    minlatitude: 29.029488
+    maxlongitude: 116.134575
+    maxlatitude: 33.275616
+    latitude: 30.546497
+    longitude: 114.341866
+- name: Guizhou
+  names:
+  - Guizhou
+  code: "52"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.60144
+    minlatitude: 24.619919
+    maxlongitude: 109.597755
+    maxlatitude: 29.221275
+    latitude: 26.598194
+    longitude: 106.70741
+- name: Shaanxi
+  names:
+  - Shaanxi
+  code: "61"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.49195
+    minlatitude: 31.70506
+    maxlongitude: 111.248055
+    maxlatitude: 39.58701
+    latitude: 34.265472
+    longitude: 108.95424
+- name: Tianjin
+  names:
+  - Tianjin
+  code: "12"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.70803
+    minlatitude: 38.555576
+    maxlongitude: 118.06561
+    maxlatitude: 40.253216
+    latitude: 39.08416
+    longitude: 117.20098
+- name: Liaoning
+  names:
+  - Liaoning
+  code: "21"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 118.84547
+    minlatitude: 38.72243
+    maxlongitude: 125.79146
+    maxlatitude: 43.490986
+    latitude: 41.836174
+    longitude: 123.43138
+- name: Heilongjiang
+  names:
+  - Heilongjiang
+  code: "23"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.181755
+    minlatitude: 43.4258
+    maxlongitude: 135.09567
+    maxlatitude: 53.563625
+    latitude: 45.742367
+    longitude: 126.66167
+- name: Qinghai
+  names:
+  - Qinghai
+  code: "63"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.40443
+    minlatitude: 31.598661
+    maxlongitude: 103.07097
+    maxlatitude: 39.208344
+    latitude: 36.620937
+    longitude: 101.78025
+- name: Sichuan
+  names:
+  - Sichuan
+  code: "51"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.34808
+    minlatitude: 26.045866
+    maxlongitude: 108.546715
+    maxlatitude: 34.313
+    latitude: 30.651651
+    longitude: 104.07593
+- name: Jiangsu
+  names:
+  - Jiangsu
+  code: "32"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.36196
+    minlatitude: 30.757841
+    maxlongitude: 121.962776
+    maxlatitude: 35.12451
+    latitude: 32.061707
+    longitude: 118.76323
+- name: Shandong
+  names:
+  - Shandong
+  code: "37"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 114.82463
+    minlatitude: 34.377354
+    maxlongitude: 122.71004
+    maxlatitude: 38.401146
+    latitude: 36.66853
+    longitude: 117.020355
+- name: Guangxi
+  names:
+  - Guangxi Zhuang
+  code: "45"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.450134
+    minlatitude: 20.899836
+    maxlongitude: 112.06185
+    maxlatitude: 26.385567
+    latitude: 22.815477
+    longitude: 108.327545
+- name: Hunan
+  names:
+  - Hunan
+  code: "43"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 108.79084
+    minlatitude: 24.636324
+    maxlongitude: 114.26126
+    maxlatitude: 30.126364
+    latitude: 28.11245
+    longitude: 112.98381
+- name: Guangdong
+  names:
+  - Guangdong
+  code: "44"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 109.66899
+    minlatitude: 20.220974
+    maxlongitude: 117.318504
+    maxlatitude: 25.516771
+    latitude: 23.13219
+    longitude: 113.26653
+- name: Chongqing
+  names:
+  - Chongqing
+  code: "50"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.289764
+    minlatitude: 28.160225
+    maxlongitude: 110.19986
+    maxlatitude: 32.201187
+    latitude: 29.56301
+    longitude: 106.55156
+- name: Taiwan *
+  names:
+  - Taiwan *
+  code: "71"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.71186
+    minlatitude: 20.58622
+    maxlongitude: 123.49343
+    maxlatitude: 26.383688
+    latitude: 23.69781
+    longitude: 120.96052
+- name: Nei Mongol (mn)
+  names:
+  - Inner Mongolia
+  - Nei Monggol
+  code: "15"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.17276
+    minlatitude: 37.40678
+    maxlongitude: 126.075584
+    maxlatitude: 53.337177
+    latitude: 40.81739
+    longitude: 111.76629
+- name: Jilin
+  names:
+  - Jilin
+  code: "22"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.64574
+    minlatitude: 42.561478
+    maxlongitude: 127.92473
+    maxlatitude: 44.64816
+    latitude: 43.837883
+    longitude: 126.549576
+- name: Henan
+  names:
+  - Henan
+  code: "41"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 110.36047
+    minlatitude: 31.382372
+    maxlongitude: 116.65223
+    maxlatitude: 36.36656
+    latitude: 34.765514
+    longitude: 113.7536
+- name: Beijing
+  names:
+  - Beijing
+  - Pekín
+  code: "11"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 115.42341
+    minlatitude: 39.442757
+    maxlongitude: 117.514626
+    maxlatitude: 41.060814
+    latitude: 39.90421
+    longitude: 116.407394
+- name: Hainan
+  names:
+  - Hainan
+  code: "46"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 108.61647
+    minlatitude: 18.157616
+    maxlongitude: 111.27857
+    maxlatitude: 20.158936
+    latitude: 20.017378
+    longitude: 110.34923
+- name: Shanxi
+  names:
+  - Shanxi
+  code: "14"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 110.23025
+    minlatitude: 34.581936
+    maxlongitude: 114.568924
+    maxlatitude: 40.73735
+    latitude: 37.87353
+    longitude: 112.5624
+- name: Fujian
+  names:
+  - Fujian
+  code: "35"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 115.85229
+    minlatitude: 23.528784
+    maxlongitude: 120.7271
+    maxlatitude: 28.3129
+    latitude: 26.10078
+    longitude: 119.29514
+- name: Gansu
+  names:
+  - Gansu
+  code: "62"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.33915
+    minlatitude: 32.594112
+    maxlongitude: 108.71233
+    maxlatitude: 42.795162
+    latitude: 36.059563
+    longitude: 103.82645
+- name: Xianggang (zh) **
+  names:
+  - Xianggang
+  - Hongkong
+  code: "91"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Aomen (zh) ***
+  names:
+  - Aomen (zh) ***
+  code: "92"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.3130355
+    minlatitude: 52.07663
+    maxlongitude: 4.3130684
+    maxlatitude: 52.07664
+    latitude: 52.076633
+    longitude: 4.313052
+- name: Zhejiang
+  names:
+  - Zhejiang
+  code: "33"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 118.02828
+    minlatitude: 27.041517
+    maxlongitude: 122.94944
+    maxlatitude: 31.178782
+    latitude: 30.267443
+    longitude: 120.152794
+- name: Jiangxi
+  names:
+  - Jiangxi
+  code: "36"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 113.578186
+    minlatitude: 24.486252
+    maxlongitude: 118.48711
+    maxlatitude: 30.074945
+    latitude: 28.675697
+    longitude: 115.909225
+- name: Yunnan
+  names:
+  - Yunnan
+  code: "53"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.52798
+    minlatitude: 21.14177
+    maxlongitude: 106.19772
+    maxlatitude: 29.223328
+    latitude: 25.045807
+    longitude: 102.71
+- name: Hebei
+  names:
+  - Hebei
+  code: "13"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 113.46537
+    minlatitude: 36.048206
+    maxlongitude: 119.87108
+    maxlatitude: 42.619717
+    latitude: 38.037056
+    longitude: 114.468666
+- name: Xinjiang
+  names:
+  - Uighur
+  - Uygur
+  code: "65"
+  countryalpha2: CN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.50236
+    minlatitude: 34.334503
+    maxlongitude: 96.38619
+    maxlatitude: 49.182343
+    latitude: 43.793026
+    longitude: 87.6277

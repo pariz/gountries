@@ -1,0 +1,42 @@
+- name: Diekirch
+  names:
+  - Diekirch
+  code: D
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.1175203
+    minlatitude: 49.83493
+    maxlongitude: 6.18069
+    maxlatitude: 49.8987
+    latitude: 49.86718
+    longitude: 6.159563
+- name: Grevenmacher
+  names:
+  - Grevenmacher
+  code: G
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.3601103
+    minlatitude: 49.65408
+    maxlongitude: 6.46106
+    maxlatitude: 49.6997
+    latitude: 49.68084
+    longitude: 6.440759
+- name: Luxembourg (fr)
+  names:
+  - Luxemburg
+  code: L
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 48.845577
+    longitude: 2.339852

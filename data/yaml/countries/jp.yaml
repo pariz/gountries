@@ -1,0 +1,72 @@
+name:
+  common: Japan
+  official: Japan
+  native:
+    jpn:
+      common: 日本
+      official: 日本
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .jp
+- .みんな
+languages:
+  jpn: Japanese
+translations:
+  deu:
+    common: Japan
+    official: Japan
+  fin:
+    common: Japani
+    official: Japani
+  fra:
+    common: Japon
+    official: Japon
+  hrv:
+    common: Japan
+    official: Japan
+  ita:
+    common: Giappone
+    official: Giappone
+  jpn:
+    common: 日本
+    official: 日本
+  nld:
+    common: Japan
+    official: Japan
+  por:
+    common: Japão
+    official: Japão
+  rus:
+    common: Япония
+    official: Япония
+  spa:
+    common: Japón
+    official: Japón
+currencies:
+- JPY
+borders: []
+codes:
+  alpha2: JP
+  alpha3: JPN
+  cioc: JPN
+  ccn3: "392"
+  callingcodes:
+  - "81"
+  internationalprefix: "010"
+geo:
+  region: Asia
+  subregion: Eastern Asia
+  continent: Asia
+  capital: Tokyo
+  area: 377930
+coordinates:
+  longitudestring: 138 00 E
+  latitudestring: 36 00 N
+  minlongitude: 122.933334
+  minlatitude: 20.416668
+  maxlongitude: 154
+  maxlatitude: 45.520832
+  latitude: 36.281647
+  longitude: 139.07727

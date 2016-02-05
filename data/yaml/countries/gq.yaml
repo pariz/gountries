@@ -1,0 +1,84 @@
+name:
+  common: Equatorial Guinea
+  official: Republic of Equatorial Guinea
+  native:
+    fra:
+      common: Guinée équatoriale
+      official: République de la Guinée Équatoriale
+    por:
+      common: Guiné Equatorial
+      official: República da Guiné Equatorial
+    spa:
+      common: Guinea Ecuatorial
+      official: República de Guinea Ecuatorial
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gq
+languages:
+  fra: French
+  por: Portuguese
+  spa: Spanish
+translations:
+  cym:
+    common: Gini Gyhydeddol
+    official: Republic of Equatorial Guinea
+  deu:
+    common: Äquatorialguinea
+    official: Republik Äquatorialguinea
+  fin:
+    common: Päiväntasaajan Guinea
+    official: Päiväntasaajan Guinean tasavalta
+  fra:
+    common: Guinée équatoriale
+    official: République de Guinée équatoriale
+  hrv:
+    common: Ekvatorijalna Gvineja
+    official: Republika Ekvatorska Gvineja
+  ita:
+    common: Guinea Equatoriale
+    official: Repubblica della Guinea Equatoriale
+  jpn:
+    common: 赤道ギニア
+    official: 赤道ギニア共和国
+  nld:
+    common: Equatoriaal-Guinea
+    official: Republiek Equatoriaal-Guinea
+  por:
+    common: Guiné Equatorial
+    official: República da Guiné Equatorial
+  rus:
+    common: Экваториальная Гвинея
+    official: Республика Экваториальная Гвинея
+  spa:
+    common: Guinea Ecuatorial
+    official: República de Guinea Ecuatorial
+currencies:
+- XAF
+borders:
+- CMR
+- GAB
+codes:
+  alpha2: GQ
+  alpha3: GNQ
+  cioc: GEQ
+  ccn3: "226"
+  callingcodes:
+  - "240"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Middle Africa
+  continent: Africa
+  capital: Malabo
+  area: 28051
+coordinates:
+  longitudestring: 10 00 E
+  latitudestring: 2 00 N
+  minlongitude: 5.05
+  minlatitude: -1.483333
+  maxlongitude: 11.4
+  maxlatitude: 3.783333
+  latitude: 1.533126
+  longitude: 10.3725815

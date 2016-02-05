@@ -1,0 +1,84 @@
+name:
+  common: Peru
+  official: Republic of Peru
+  native:
+    aym:
+      common: Piruw
+      official: Piruw Suyu
+    que:
+      common: Piruw
+      official: Piruw Ripuwlika
+    spa:
+      common: Perú
+      official: República del Perú
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .pe
+languages:
+  aym: Aymara
+  que: Quechua
+  spa: Spanish
+translations:
+  deu:
+    common: Peru
+    official: Republik Peru
+  fin:
+    common: Peru
+    official: Perun tasavalta
+  fra:
+    common: Pérou
+    official: République du Pérou
+  hrv:
+    common: Peru
+    official: Republika Peru
+  ita:
+    common: Perù
+    official: Repubblica del Perù
+  jpn:
+    common: ペルー
+    official: ペルー共和国
+  nld:
+    common: Peru
+    official: Republiek Peru
+  por:
+    common: Perú
+    official: República do Peru
+  rus:
+    common: Перу
+    official: Республика Перу
+  spa:
+    common: Perú
+    official: República de Perú
+currencies:
+- PEN
+borders:
+- BOL
+- BRA
+- CHL
+- COL
+- ECU
+codes:
+  alpha2: PE
+  alpha3: PER
+  cioc: PER
+  ccn3: "604"
+  callingcodes:
+  - "51"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Lima
+  area: 1.285216e+06
+coordinates:
+  longitudestring: 76 00 W
+  latitudestring: 10 00 S
+  minlongitude: -81.35833
+  minlatitude: -18.333332
+  maxlongitude: -68.833336
+  maxlatitude: 4.626667
+  latitude: -9.212533
+  longitude: -74.42212

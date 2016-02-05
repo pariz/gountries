@@ -1,0 +1,76 @@
+name:
+  common: Romania
+  official: Romania
+  native:
+    ron:
+      common: România
+      official: România
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .ro
+languages:
+  ron: Romanian
+translations:
+  deu:
+    common: Rumänien
+    official: Rumänien
+  fin:
+    common: Romania
+    official: Romania
+  fra:
+    common: Roumanie
+    official: Roumanie
+  hrv:
+    common: Rumunjska
+    official: Rumunija
+  ita:
+    common: Romania
+    official: Romania
+  jpn:
+    common: ルーマニア
+    official: ルーマニア
+  nld:
+    common: Roemenië
+    official: Roemenië
+  por:
+    common: Roménia
+    official: Romênia
+  rus:
+    common: Румыния
+    official: Румыния
+  spa:
+    common: Rumania
+    official: Rumania
+currencies:
+- RON
+borders:
+- BGR
+- HUN
+- MDA
+- SRB
+- UKR
+codes:
+  alpha2: RO
+  alpha3: ROU
+  cioc: ROU
+  ccn3: "642"
+  callingcodes:
+  - "40"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Europe
+  capital: Bucharest
+  area: 238391
+coordinates:
+  longitudestring: 25 00 E
+  latitudestring: 46 00 N
+  minlongitude: 19
+  minlatitude: 43.666668
+  maxlongitude: 29.65
+  maxlatitude: 48.25
+  latitude: 45.83774
+  longitude: 25.005936

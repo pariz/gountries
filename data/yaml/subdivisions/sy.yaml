@@ -1,0 +1,223 @@
+- name: Dar?a
+  names:
+  - Dara
+  - Darā
+  - Darʿa
+  - Deraa
+  - Dārayyā
+  code: DR
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.07215
+    minlatitude: 32.59636
+    maxlongitude: 36.12777
+    maxlatitude: 32.646675
+    latitude: 32.62528
+    longitude: 36.10611
+- name: Idlib
+  names:
+  - Idlib
+  code: ID
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.60368
+    minlatitude: 35.906063
+    maxlongitude: 36.667454
+    maxlatitude: 35.94718
+    latitude: 35.933334
+    longitude: 36.63333
+- name: Al Ladhiqiyah
+  names:
+  - Latakia
+  - Lattakia
+  - Lattaquié
+  - Lādhiqīyah
+  - al-Ladhiqiyah
+  code: LA
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.727234
+    minlatitude: 35.194527
+    maxlongitude: 36.284813
+    maxlatitude: 35.94089
+    latitude: 35.61298
+    longitude: 36.002323
+- name: As Suwayda'
+  names:
+  - as-Suwayda
+  code: SU
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.54499
+    minlatitude: 32.668896
+    maxlongitude: 36.60769
+    maxlatitude: 32.734875
+    latitude: 32.7
+    longitude: 36.566666
+- name: Tartus
+  names:
+  - Tartoûs
+  - Tartus
+  code: TA
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.85429
+    minlatitude: 34.848103
+    maxlongitude: 35.913647
+    maxlatitude: 34.92355
+    latitude: 34.88333
+    longitude: 35.88333
+- name: Dimashq
+  names:
+  - Dimashq
+  - Madīnat Dimašq
+  - Damaskus
+  - Damas
+  code: DI
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.19789
+    minlatitude: 33.449814
+    maxlongitude: 36.3679
+    maxlatitude: 33.56514
+    latitude: 33.513
+    longitude: 36.292
+- name: Al ?asakah
+  names:
+  - El Haseke
+  - Hassetche
+  - H̨asakah
+  - al-Hasakah
+  code: HA
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.4526
+    minlatitude: 35.52984
+    maxlongitude: 42.38504
+    maxlatitude: 37.319145
+    latitude: 36.405514
+    longitude: 40.796913
+- name: ?alab
+  names:
+  - Halab
+  - Haleb
+  - H̨alab
+  - Alep
+  code: HL
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 33.916668
+    longitude: 38.3
+- name: Al Qunaytirah
+  names:
+  - Quneitra
+  - al-Qunaytirah
+  code: QU
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.847878
+    minlatitude: 32.836052
+    maxlongitude: 36.00336
+    maxlatitude: 33.2473
+    latitude: 33.077633
+    longitude: 35.893414
+- name: Rif Dimashq
+  names:
+  - Dimashq
+  - Dimašq
+  - Damaskus
+  - Damas
+  - Damascus
+  code: RD
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.834705
+    minlatitude: 32.68313
+    maxlongitude: 38.31367
+    maxlatitude: 34.212055
+    latitude: 33.516727
+    longitude: 36.954105
+- name: Dayr az Zawr
+  names:
+  - Deir El-Zor
+  - Deir-ez-Zor
+  code: DY
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.0813
+    minlatitude: 35.296818
+    maxlongitude: 40.194653
+    maxlatitude: 35.37343
+    latitude: 35.336
+    longitude: 40.145
+- name: ?ims
+  names:
+  - Hims
+  - Homs
+  code: HI
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 33.73481
+    longitude: -117.99478
+- name: ?amah
+  names:
+  - Hama
+  - Hamah
+  code: HM
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.894722
+    longitude: 37.12528
+- name: Ar Raqqah
+  names:
+  - Raqqah
+  - al-Rakka
+  code: RA
+  countryalpha2: SY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.925934
+    minlatitude: 35.927284
+    maxlongitude: 39.06824
+    maxlatitude: 35.982174
+    latitude: 35.95941
+    longitude: 38.998104

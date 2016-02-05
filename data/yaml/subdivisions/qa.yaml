@@ -1,0 +1,151 @@
+- name: Al Wakrah
+  names:
+  - Wakra
+  - Wakrah
+  code: WA
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.110825
+    minlatitude: 24.473726
+    maxlongitude: 51.628456
+    maxlatitude: 25.233427
+    latitude: 25.176815
+    longitude: 51.604843
+- name: Umm Sa'id
+  names:
+  - Mesaieed
+  code: X1~
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.52582
+    minlatitude: 24.886986
+    maxlongitude: 51.60184
+    maxlatitude: 25.02025
+    latitude: 24.990925
+    longitude: 51.549347
+- name: Ad Dawhah
+  names:
+  - Dawhah
+  - Doha
+  - ad-Dawhah
+  - ad-Dawh̨ah
+  - Doha
+  - Doha
+  - Doha
+  code: DA
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.430798
+    minlatitude: 25.195429
+    maxlongitude: 51.62812
+    maxlatitude: 25.412579
+    latitude: 25.291609
+    longitude: 51.530437
+- name: Al Ghuwayriyah
+  names:
+  - al-Ghuwayriyah
+  code: GH
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.238518
+    minlatitude: 25.82199
+    maxlongitude: 51.254826
+    maxlatitude: 25.851963
+    latitude: 25.844793
+    longitude: 51.245373
+- name: Al Jumayliyah
+  names:
+  - al-Jumayliyah
+  code: JU
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.07432
+    minlatitude: 25.607166
+    maxlongitude: 51.10428
+    maxlatitude: 25.641758
+    latitude: 25.621851
+    longitude: 51.08358
+- name: Al Khawr
+  names:
+  - H̱ūr
+  - al-Khawr
+  - al-Khour
+  - al-H̱awr
+  code: KH
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.47618
+    minlatitude: 25.620323
+    maxlongitude: 51.528797
+    maxlatitude: 25.695988
+    latitude: 25.680408
+    longitude: 51.49685
+- name: Madinat ash Shamal
+  names:
+  - ash-Shamal
+  code: MS
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.205647
+    minlatitude: 26.103886
+    maxlongitude: 51.238262
+    maxlatitude: 26.123154
+    latitude: 26.115608
+    longitude: 51.221844
+- name: Ar Rayyan
+  names:
+  - Rayyan
+  - ar-Rayyan
+  code: RA
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.750053
+    minlatitude: 24.471186
+    maxlongitude: 51.537003
+    maxlatitude: 25.808777
+    latitude: 25.208979
+    longitude: 51.095837
+- name: Jariyan al Batnah
+  names:
+  - Jariyan al Batnah
+  code: JB
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Umm Salal
+  names:
+  - Umm Shalal
+  code: US
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.391396
+    minlatitude: 25.371033
+    maxlongitude: 51.466793
+    maxlatitude: 25.438757
+    latitude: 25.398111
+    longitude: 51.425083

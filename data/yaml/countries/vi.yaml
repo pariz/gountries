@@ -1,0 +1,71 @@
+name:
+  common: United States Virgin Islands
+  official: Virgin Islands of the United States
+  native:
+    eng:
+      common: United States Virgin Islands
+      official: Virgin Islands of the United States
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .vi
+languages:
+  eng: English
+translations:
+  deu:
+    common: Amerikanische Jungferninseln
+    official: Jungferninseln der Vereinigten Staaten
+  fin:
+    common: Neitsytsaaret
+    official: Yhdysvaltain Neitsytsaaret
+  fra:
+    common: Îles Vierges des États-Unis
+    official: Îles Vierges des États-Unis
+  hrv:
+    common: Američki Djevičanski Otoci
+    official: Djevičanski Otoci SAD
+  ita:
+    common: Isole Vergini americane
+    official: Isole Vergini degli Stati Uniti
+  jpn:
+    common: アメリカ領ヴァージン諸島
+    official: 米国のバージン諸島
+  nld:
+    common: Amerikaanse Maagdeneilanden
+    official: Maagdeneilanden van de Verenigde Staten
+  por:
+    common: Ilhas Virgens dos Estados Unidos
+    official: Ilhas Virgens dos Estados Unidos
+  rus:
+    common: Виргинские Острова
+    official: Виргинские острова Соединенных Штатов
+  spa:
+    common: Islas Vírgenes de los Estados Unidos
+    official: Islas Vírgenes de los Estados Unidos
+currencies:
+- USD
+borders: []
+codes:
+  alpha2: VI
+  alpha3: VIR
+  cioc: ISV
+  ccn3: "850"
+  callingcodes:
+  - "1340"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Charlotte Amalie
+  area: 347
+coordinates:
+  longitudestring: ""
+  latitudestring: ""
+  minlongitude: -65.08628
+  minlatitude: 17.68172
+  maxlongitude: -64.56517
+  maxlatitude: 18.45814
+  latitude: 17.752625
+  longitude: -64.73542

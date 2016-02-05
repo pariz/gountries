@@ -1,0 +1,71 @@
+name:
+  common: Saint Kitts and Nevis
+  official: Federation of Saint Christopher and Nevisa
+  native:
+    eng:
+      common: Saint Kitts and Nevis
+      official: Federation of Saint Christopher and Nevisa
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .kn
+languages:
+  eng: English
+translations:
+  deu:
+    common: Saint Christopher und Nevis
+    official: Föderation von Saint Kitts und Nevisa
+  fin:
+    common: Saint Kitts ja Nevis
+    official: Saint Christopherin ja Nevisin federaatio
+  fra:
+    common: Saint-Christophe-et-Niévès
+    official: Fédération de Saint -Christophe-et Nevisa
+  hrv:
+    common: Sveti Kristof i Nevis
+    official: Federacija Sv.Kristofora i Nevisa
+  ita:
+    common: Saint Kitts e Nevis
+    official: Federazione di Saint Christopher e Nevisa
+  jpn:
+    common: セントクリストファー・ネイビス
+    official: セントクリストファーNevisa連盟
+  nld:
+    common: Saint Kitts en Nevis
+    official: Federatie van Saint Kitts en Nevisa
+  por:
+    common: São Cristóvão e Nevis
+    official: Federação de São Cristóvão e Nevisa
+  rus:
+    common: Сент-Китс и Невис
+    official: Федерация Сент-Кристофер и Nevisa
+  spa:
+    common: San Cristóbal y Nieves
+    official: Federación de San Cristóbal y Nevisa
+currencies:
+- XCD
+borders: []
+codes:
+  alpha2: KN
+  alpha3: KNA
+  cioc: SKN
+  ccn3: "659"
+  callingcodes:
+  - "1869"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Basseterre
+  area: 261
+coordinates:
+  longitudestring: 62 45 W
+  latitudestring: 17 20 N
+  minlongitude: -62.85
+  minlatitude: 17.1
+  maxlongitude: -62.516666
+  maxlatitude: 17.416668
+  latitude: 17.244473
+  longitude: -62.643185

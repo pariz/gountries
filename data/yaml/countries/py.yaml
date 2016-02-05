@@ -1,0 +1,78 @@
+name:
+  common: Paraguay
+  official: Republic of Paraguay
+  native:
+    grn:
+      common: Paraguái
+      official: Tetã Paraguái
+    spa:
+      common: Paraguay
+      official: República de Paraguay
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .py
+languages:
+  grn: Guaraní
+  spa: Spanish
+translations:
+  deu:
+    common: Paraguay
+    official: Republik Paraguay
+  fin:
+    common: Paraguay
+    official: Paraguayn tasavalta
+  fra:
+    common: Paraguay
+    official: République du Paraguay
+  hrv:
+    common: Paragvaj
+    official: Republika Paragvaj
+  ita:
+    common: Paraguay
+    official: Repubblica del Paraguay
+  jpn:
+    common: パラグアイ
+    official: パラグアイ共和国
+  nld:
+    common: Paraguay
+    official: Republiek Paraguay
+  por:
+    common: Paraguai
+    official: República do Paraguai
+  rus:
+    common: Парагвай
+    official: Республика Парагвай
+  spa:
+    common: Paraguay
+    official: República de Paraguay
+currencies:
+- PYG
+borders:
+- ARG
+- BOL
+- BRA
+codes:
+  alpha2: PY
+  alpha3: PRY
+  cioc: PAR
+  ccn3: "600"
+  callingcodes:
+  - "595"
+  internationalprefix: "002"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Asunción
+  area: 406752
+coordinates:
+  longitudestring: 58 00 W
+  latitudestring: 23 00 S
+  minlongitude: -62.63333
+  minlatitude: -27.533333
+  maxlongitude: -54.35
+  maxlatitude: -19.333332
+  latitude: -23.24029
+  longitude: -58.395172

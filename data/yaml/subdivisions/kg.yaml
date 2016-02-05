@@ -1,0 +1,119 @@
+- name: Jalal-Abad
+  names:
+  - Jalal-Abad
+  code: J
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.93935
+    minlatitude: 40.90378
+    maxlongitude: 73.0214
+    maxlatitude: 40.972057
+    latitude: 40.933334
+    longitude: 0
+- name: Naryn
+  names:
+  - Naryn
+  code: "N"
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 75.899216
+    minlatitude: 41.41428
+    maxlongitude: 76.06307
+    maxlatitude: 41.436905
+    latitude: 41.433334
+    longitude: 0
+- name: Osh
+  names:
+  - Osh
+  code: O
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.75576
+    minlatitude: 40.475483
+    maxlongitude: 72.86133
+    maxlatitude: 40.564938
+    latitude: 40.53
+    longitude: 72.8
+- name: Talas
+  names:
+  - Talas
+  code: T
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.16061
+    minlatitude: 42.5045
+    maxlongitude: 72.28523
+    maxlatitude: 42.55548
+    latitude: 42.516666
+    longitude: 72.23333
+- name: Ysyk-Köl
+  names:
+  - Balikchi
+  - Balykchy
+  - Balıkçı
+  - Issyk-Kul
+  code: "Y"
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 75.583565
+    minlatitude: 41.138474
+    maxlongitude: 80.28318
+    maxlatitude: 42.951714
+    latitude: 42.185944
+    longitude: 77.56194
+- name: Batken
+  names:
+  - Batken
+  code: B
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 70.79745
+    minlatitude: 40.03169
+    maxlongitude: 70.8492
+    maxlatitude: 40.08343
+    latitude: 40.066666
+    longitude: 70.833336
+- name: Chü
+  names:
+  - Chu
+  - Chui
+  - Chuy
+  - Çüy
+  code: C
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 75.82733
+    minlatitude: 42.505947
+    maxlongitude: 75.83318
+    maxlatitude: 42.509914
+    latitude: 42.50793
+    longitude: 75.83025
+- name: Bishkek
+  names:
+  - Bishkek
+  - Kenesh Bishkek
+  code: GB
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.464905
+    minlatitude: 42.803146
+    maxlongitude: 74.717674
+    maxlatitude: 42.948986
+    latitude: 42.87472
+    longitude: 74.61222

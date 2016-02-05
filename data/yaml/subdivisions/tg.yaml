@@ -1,0 +1,70 @@
+- name: Plateaux
+  names:
+  - Plateaux
+  code: P
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.501813
+    minlatitude: 6.542187
+    maxlongitude: 1.677525
+    maxlatitude: 8.368131
+    latitude: 7.610138
+    longitude: 1.0586135
+- name: Savannes
+  names:
+  - Savannes
+  code: S
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.1473239
+    minlatitude: 9.879532
+    maxlongitude: 0.9969091
+    maxlatitude: 11.138977
+    latitude: 10.529178
+    longitude: 0.5257823
+- name: Centre
+  names:
+  - Centre
+  code: C
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.3816739
+    minlatitude: 7.902314
+    maxlongitude: 1.650187
+    maxlatitude: 9.296292
+    latitude: 8.658603
+    longitude: 1.0586135
+- name: Kara
+  names:
+  - Kara
+  code: K
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.1657524
+    minlatitude: 9.53431
+    maxlongitude: 1.2201691
+    maxlatitude: 9.566135
+    latitude: 9.548889
+    longitude: 1.190556
+- name: Maritime (Région)
+  names:
+  - Maritime (Région)
+  code: M
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.717368
+    minlatitude: 6.1091533
+    maxlongitude: 1.806693
+    maxlatitude: 6.918175
+    latitude: 6.49135
+    longitude: 1.2891036

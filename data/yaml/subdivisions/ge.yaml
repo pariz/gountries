@@ -1,0 +1,171 @@
+- name: Imereti
+  names:
+  - Imereti
+  code: IM
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.212006
+    minlatitude: 41.808212
+    maxlongitude: 43.788536
+    maxlatitude: 42.565434
+    latitude: 42.230106
+    longitude: 42.900867
+- name: Kvemo Kartli
+  names:
+  - Kvemo Kartli
+  code: KK
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.669064
+    minlatitude: 41.15626
+    maxlongitude: 45.31024
+    maxlatitude: 41.858704
+    latitude: 41.479183
+    longitude: 44.656044
+- name: Shida Kartli
+  names:
+  - Šida Kartli
+  code: SK
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.41991
+    minlatitude: 41.73308
+    maxlongitude: 44.56905
+    maxlatitude: 42.633717
+    latitude: 42.075695
+    longitude: 43.954044
+- name: Samegrelo-Zemo Svaneti
+  names:
+  - Samegrelo-Zemo Svaneti
+  code: SZ
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.559906
+    minlatitude: 42.068348
+    maxlongitude: 43.1523
+    maxlatitude: 43.254234
+    latitude: 42.735226
+    longitude: 42.168938
+- name: Tbilisi
+  names:
+  - Tiflis
+  code: TB
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.59651
+    minlatitude: 41.621025
+    maxlongitude: 45.01768
+    maxlatitude: 41.843895
+    latitude: 41.716667
+    longitude: 44.783333
+- name: Racha-Lechkhumi [and] Kvemo Svaneti
+  names:
+  - Racha
+  - Racha-Lechkumi and Kverno Svaneti
+  code: RL
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.357887
+    minlatitude: 42.366173
+    maxlongitude: 43.94808
+    maxlatitude: 42.96663
+    latitude: 42.671886
+    longitude: 43.056282
+- name: Samtskhe-Javakheti
+  names:
+  - Samche-Žavaheti
+  code: SJ
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.492233
+    minlatitude: 41.11159
+    maxlongitude: 43.964252
+    maxlatitude: 41.94142
+    latitude: 41.547928
+    longitude: 43.27764
+- name: Abkhazia
+  names:
+  - Abhasia
+  code: AB
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.007584
+    minlatitude: 42.412457
+    maxlongitude: 42.149975
+    maxlatitude: 43.586628
+    latitude: 43.001553
+    longitude: 41.023407
+- name: Ajaria
+  names:
+  - Achara
+  - Adzharia
+  - Adžaria
+  code: AJ
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.548393
+    minlatitude: 41.43443
+    maxlongitude: 42.60232
+    maxlatitude: 41.911045
+    latitude: 41.600563
+    longitude: 42.06884
+- name: Guria
+  names:
+  - Guria
+  code: GU
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.71363
+    minlatitude: 41.78135
+    maxlongitude: 42.66712
+    maxlatitude: 42.168255
+    latitude: 41.944275
+    longitude: 42.04581
+- name: Kakheti
+  names:
+  - Kaheti
+  code: KA
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.01475
+    minlatitude: 41.038513
+    maxlongitude: 46.72136
+    maxlatitude: 42.564198
+    latitude: 41.64816
+    longitude: 45.690556
+- name: Mtskheta-Mtianeti
+  names:
+  - Mcheta-Mtianeti
+  code: MM
+  countryalpha2: GE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.217987
+    minlatitude: 41.68723
+    maxlongitude: 45.301563
+    maxlatitude: 42.75269
+    latitude: 42.168217
+    longitude: 44.650604

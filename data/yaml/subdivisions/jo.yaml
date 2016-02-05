@@ -1,0 +1,181 @@
+- name: Al Mafraq
+  names:
+  - Mafraq
+  code: MA
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.361683
+    longitude: 36.219337
+- name: Madaba
+  names:
+  - Madaba
+  - Maʿdaba
+  - Maʿdabâ
+  code: MD
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 31.71954
+    longitude: 35.79411
+- name: Ma`an
+  names:
+  - Maan
+  - Maʿan
+  code: MN
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 30.194958
+    longitude: 35.73424
+- name: Az Zarqa'
+  names:
+  - Zarka
+  - Zarqa
+  - Zerka
+  code: AZ
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.888992
+    minlatitude: 31.493649
+    maxlongitude: 37.780865
+    maxlatitude: 32.196323
+    latitude: 31.751513
+    longitude: 36.86808
+- name: Al Balqa'
+  names:
+  - Al Balqa'
+  code: BA
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.519306
+    minlatitude: 31.673563
+    maxlongitude: 35.934166
+    maxlatitude: 32.18398
+    latitude: 31.967604
+    longitude: 35.609547
+- name: Irbid
+  names:
+  - Irbit
+  code: IR
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.54544
+    longitude: 35.857155
+- name: Jarash
+  names:
+  - Jarash
+  - Jerash
+  code: JA
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.2769
+    longitude: 35.905552
+- name: Ajlun
+  names:
+  - Ajloan
+  - Ajlun
+  code: AJ
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.6067
+    minlatitude: 32.158035
+    maxlongitude: 35.904964
+    maxlatitude: 32.40349
+    latitude: 32.25619
+    longitude: 35.697
+- name: Amman
+  names:
+  - Amman
+  code: AM
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 31.95658
+    longitude: 35.945694
+- name: Aqaba
+  names:
+  - Akaba
+  - Aqaba
+  - Aqqaba
+  - al-Aqaba
+  code: AQ
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 29.53192
+    longitude: 35.006084
+- name: At Tafilah
+  names:
+  - Tafiela
+  - Tafileh
+  - at-Tafilah
+  code: AT
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 30.835833
+    longitude: 35.61222
+- name: Al Karak
+  names:
+  - Karak
+  - Kerak
+  code: KA
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 31.164806
+    longitude: 35.761883

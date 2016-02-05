@@ -1,0 +1,75 @@
+name:
+  common: Slovenia
+  official: Republic of Slovenia
+  native:
+    slv:
+      common: Slovenija
+      official: Republika Slovenija
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .si
+languages:
+  slv: Slovene
+translations:
+  deu:
+    common: Slowenien
+    official: Republik Slowenien
+  fin:
+    common: Slovenia
+    official: Slovenian tasavalta
+  fra:
+    common: Slovénie
+    official: République de Slovénie
+  hrv:
+    common: Slovenija
+    official: Republika Slovenija
+  ita:
+    common: Slovenia
+    official: Repubblica di Slovenia
+  jpn:
+    common: スロベニア
+    official: スロベニア共和国
+  nld:
+    common: Slovenië
+    official: Republiek Slovenië
+  por:
+    common: Eslovénia
+    official: República da Eslovénia
+  rus:
+    common: Словения
+    official: Республика Словения
+  spa:
+    common: Eslovenia
+    official: República de Eslovenia
+currencies:
+- EUR
+borders:
+- AUT
+- HRV
+- ITA
+- HUN
+codes:
+  alpha2: SI
+  alpha3: SVN
+  cioc: SLO
+  ccn3: "705"
+  callingcodes:
+  - "386"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Ljubljana
+  area: 20273
+coordinates:
+  longitudestring: 14 49 E
+  latitudestring: 46 07 N
+  minlongitude: 13.426667
+  minlatitude: 45.083332
+  maxlongitude: 17.466667
+  maxlatitude: 46.86667
+  latitude: 46.12024
+  longitude: 14.820664

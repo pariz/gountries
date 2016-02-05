@@ -1,0 +1,71 @@
+name:
+  common: Guadeloupe
+  official: Guadeloupe
+  native:
+    fra:
+      common: Guadeloupe
+      official: Guadeloupe
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gp
+languages:
+  fra: French
+translations:
+  deu:
+    common: Guadeloupe
+    official: Guadeloupe
+  fin:
+    common: Guadeloupe
+    official: Guadeloupen departmentti
+  fra:
+    common: Guadeloupe
+    official: Guadeloupe
+  hrv:
+    common: Gvadalupa
+    official: Gvadalupa
+  ita:
+    common: Guadeloupa
+    official: Guadeloupe
+  jpn:
+    common: グアドループ
+    official: グアドループ島
+  nld:
+    common: Guadeloupe
+    official: Guadeloupe
+  por:
+    common: Guadalupe
+    official: Guadalupe
+  rus:
+    common: Гваделупа
+    official: Гваделупа
+  spa:
+    common: Guadalupe
+    official: Guadalupe
+currencies:
+- EUR
+borders: []
+codes:
+  alpha2: GP
+  alpha3: GLP
+  cioc: ""
+  ccn3: "312"
+  callingcodes:
+  - "590"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Basse-Terre
+  area: 1628
+coordinates:
+  longitudestring: 61 35 W
+  latitudestring: 16 15 N
+  minlongitude: -63.15
+  minlatitude: 15
+  maxlongitude: -61
+  maxlatitude: 18.116667
+  latitude: 16.256731
+  longitude: -61.567417

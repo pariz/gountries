@@ -1,0 +1,734 @@
+- name: Córdoba
+  names:
+  - Córdoba
+  code: CO
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.8227935
+    minlatitude: 37.855892
+    maxlongitude: -4.7461767
+    maxlatitude: 37.92728
+    latitude: 37.888176
+    longitude: -4.7793837
+- name: Granada
+  names:
+  - Granada
+  code: GR
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.633835
+    minlatitude: 37.14943
+    maxlongitude: -3.5505714
+    maxlatitude: 37.212463
+    latitude: 37.177338
+    longitude: -3.598557
+- name: Lugo
+  names:
+  - Lugo
+  code: LU
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.576188
+    minlatitude: 42.98977
+    maxlongitude: -7.5368123
+    maxlatitude: 43.034798
+    latitude: 43.00974
+    longitude: -7.5567584
+- name: Melilla
+  names:
+  - Melilla
+  code: ML
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.9657936
+    minlatitude: 35.26945
+    maxlongitude: -2.9232595
+    maxlatitude: 35.303093
+    latitude: 35.29228
+    longitude: -2.9380972
+- name: Baleares
+  names:
+  - Baleares
+  - Illes Balears
+  - Islas Baleares
+  - Balearic Islands
+  code: PM
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.1572495
+    minlatitude: 38.64039
+    maxlongitude: 4.327784
+    maxlatitude: 40.094574
+    latitude: 39.53418
+    longitude: 2.8577106
+- name: Valladolid
+  names:
+  - Valladolid
+  code: VA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.92818
+    minlatitude: 41.604286
+    maxlongitude: -4.689444
+    maxlatitude: 41.81551
+    latitude: 41.652252
+    longitude: -4.724532
+- name: Badajoz
+  names:
+  - Badajoz
+  code: BA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.0346627
+    minlatitude: 38.85177
+    maxlongitude: -6.940696
+    maxlatitude: 38.906994
+    latitude: 38.879448
+    longitude: -6.9706535
+- name: Ceuta
+  names:
+  - Sebta
+  code: CE
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.358712
+    minlatitude: 35.87106
+    maxlongitude: -5.27836
+    maxlatitude: 35.906864
+    latitude: 35.88939
+    longitude: -5.3213453
+- name: Ciudad Real
+  names:
+  - Ciudad Real
+  code: CR
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.9533808
+    minlatitude: 38.96587
+    maxlongitude: -3.9005952
+    maxlatitude: 39.006218
+    latitude: 38.98483
+    longitude: -3.9273777
+- name: Castellón
+  names:
+  - Castellón
+  code: CS
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0797563
+    minlatitude: 39.970745
+    maxlongitude: -0.0163697
+    maxlatitude: 40.004173
+    latitude: 39.986355
+    longitude: -0.0513246
+- name: Toledo
+  names:
+  - Toledo
+  code: TO
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.062926
+    minlatitude: 39.838367
+    maxlongitude: -3.9192424
+    maxlatitude: 39.88605
+    latitude: 39.86283
+    longitude: -4.0273232
+- name: Valencia
+  names:
+  - Valencia
+  code: V
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4315448
+    minlatitude: 39.308247
+    maxlongitude: -0.2914778
+    maxlatitude: 39.507324
+    latitude: 39.469906
+    longitude: -0.3762881
+- name: Burgos
+  names:
+  - Burgos
+  code: BU
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.7526357
+    minlatitude: 42.316116
+    maxlongitude: -3.6367505
+    maxlatitude: 42.372135
+    latitude: 42.343994
+    longitude: -3.696906
+- name: Cádiz
+  names:
+  - Cádiz
+  code: CA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.309558
+    minlatitude: 36.489567
+    maxlongitude: -6.2553344
+    maxlatitude: 36.543186
+    latitude: 36.52706
+    longitude: -6.288596
+- name: Murcia
+  names:
+  - Murcia
+  code: MU
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1533806
+    minlatitude: 37.964977
+    maxlongitude: -1.1066993
+    maxlatitude: 38.01226
+    latitude: 37.99224
+    longitude: -1.1306545
+- name: Soria
+  names:
+  - Soria
+  code: SO
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.4938061
+    minlatitude: 41.75196
+    maxlongitude: -2.455352
+    maxlatitude: 41.782284
+    latitude: 41.766598
+    longitude: -2.4790306
+- name: Las Palmas
+  names:
+  - Las Palmas
+  - Las Palmas de Gran Canaria
+  code: GC
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.467486
+    minlatitude: 28.07838
+    maxlongitude: -15.411748
+    maxlatitude: 28.15634
+    latitude: 28.123547
+    longitude: -15.436257
+- name: Huelva
+  names:
+  - Huelva
+  code: H
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.9625916
+    minlatitude: 37.250416
+    maxlongitude: -6.916789
+    maxlatitude: 37.29132
+    latitude: 37.26142
+    longitude: -6.944722
+- name: La Rioja
+  names:
+  - Logroño
+  code: LO
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.1342714
+    minlatitude: 41.919033
+    maxlongitude: -1.6787014
+    maxlatitude: 42.644264
+    latitude: 42.287075
+    longitude: -2.539603
+- name: Madrid
+  names:
+  - Madrid
+  code: M
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8341618
+    minlatitude: 40.312065
+    maxlongitude: -3.5249114
+    maxlatitude: 40.56359
+    latitude: 40.416775
+    longitude: -3.7037902
+- name: Asturias
+  names:
+  - Oviedo
+  code: O
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.182489
+    minlatitude: 42.88254
+    maxlongitude: -4.5105944
+    maxlatitude: 43.66653
+    latitude: 43.361397
+    longitude: -5.859327
+- name: Palencia
+  names:
+  - Palencia
+  code: P
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.548122
+    minlatitude: 41.988712
+    maxlongitude: -4.5057855
+    maxlatitude: 42.02892
+    latitude: 42.009686
+    longitude: -4.5288014
+- name: Cantabria
+  names:
+  - Santander
+  code: S
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.851778
+    minlatitude: 42.75805
+    maxlongitude: -3.149652
+    maxlatitude: 43.513695
+    latitude: 43.18284
+    longitude: -3.9878428
+- name: Almería
+  names:
+  - Almería
+  code: AL
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.4855447
+    minlatitude: 36.817204
+    maxlongitude: -2.4286885
+    maxlatitude: 36.865852
+    latitude: 36.834045
+    longitude: -2.4637136
+- name: Vizcaya
+  names:
+  - Vizcaya
+  code: BI
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.4492757
+    minlatitude: 42.981876
+    maxlongitude: -2.4127154
+    maxlatitude: 43.457245
+    latitude: 43.22043
+    longitude: -2.698387
+- name: Navarra
+  names:
+  - Navarre
+  code: NA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.5000827
+    minlatitude: 41.909893
+    maxlongitude: -0.7239504
+    maxlatitude: 43.314793
+    latitude: 42.695393
+    longitude: -1.6760691
+- name: Salamanca
+  names:
+  - Salamanca
+  code: SA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.70722
+    minlatitude: 40.94178
+    maxlongitude: -5.631204
+    maxlatitude: 40.985096
+    latitude: 40.970104
+    longitude: -5.66354
+- name: Segovia
+  names:
+  - Segovia
+  code: SG
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.133587
+    minlatitude: 40.92
+    maxlongitude: -4.090817
+    maxlatitude: 40.9625
+    latitude: 40.9429
+    longitude: -4.108807
+- name: Guipúzcoa
+  names:
+  - Gipuzkoa
+  code: SS
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.6026838
+    minlatitude: 42.895245
+    maxlongitude: -1.7293434
+    maxlatitude: 43.39568
+    latitude: 43.07563
+    longitude: -2.2236667
+- name: Teruel
+  names:
+  - Teruel
+  code: TE
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1209925
+    minlatitude: 40.325726
+    maxlongitude: -1.0809371
+    maxlatitude: 40.364296
+    latitude: 40.345688
+    longitude: -1.1064345
+- name: Santa Cruz de Tenerife
+  names:
+  - Santa Cruz de Tenerife
+  - Tenerife
+  code: TF
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.337004
+    minlatitude: 28.428024
+    maxlongitude: -16.235664
+    maxlatitude: 28.487616
+    latitude: 28.463629
+    longitude: -16.251846
+- name: Alicante
+  names:
+  - Alicante
+  code: A
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.5416292
+    minlatitude: 38.32475
+    maxlongitude: -0.4034191
+    maxlatitude: 38.390934
+    latitude: 38.345997
+    longitude: -0.4906855
+- name: León
+  names:
+  - León
+  code: LE
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.60001
+    minlatitude: 42.58396
+    maxlongitude: -5.5547724
+    maxlatitude: 42.62325
+    latitude: 42.59873
+    longitude: -5.5670958
+- name: Guadalajara
+  names:
+  - Guadalajara
+  code: GU
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.203408
+    minlatitude: 40.61848
+    maxlongitude: -3.142937
+    maxlatitude: 40.6459
+    latitude: 40.63249
+    longitude: -3.16017
+- name: Tarragona
+  names:
+  - Tarragona
+  code: T
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.1873165
+    minlatitude: 41.10966
+    maxlongitude: 1.2898504
+    maxlatitude: 41.14195
+    latitude: 41.11888
+    longitude: 1.2444909
+- name: Barcelona
+  names:
+  - Barcelona
+  code: B
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.0695257
+    minlatitude: 41.320004
+    maxlongitude: 2.22801
+    maxlatitude: 41.469578
+    latitude: 41.385063
+    longitude: 2.1734035
+- name: Girona
+  names:
+  - Gerona
+  code: GI
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.7983782
+    minlatitude: 41.946297
+    maxlongitude: 2.838956
+    maxlatitude: 42.01421
+    latitude: 41.9794
+    longitude: 2.8214264
+- name: Ourense
+  names:
+  - Orense
+  code: OR
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.880299
+    minlatitude: 42.31843
+    maxlongitude: -7.847072
+    maxlatitude: 42.358295
+    latitude: 42.33579
+    longitude: -7.863881
+- name: Álava
+  names:
+  - Araba
+  code: VI
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.286767
+    minlatitude: 42.472256
+    maxlongitude: -2.232687
+    maxlatitude: 43.21697
+    latitude: 42.91
+    longitude: -2.698387
+- name: Zamora
+  names:
+  - Zamora
+  code: ZA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.768416
+    minlatitude: 41.48502
+    maxlongitude: -5.7206564
+    maxlatitude: 41.522602
+    latitude: 41.50347
+    longitude: -5.746788
+- name: Albacete
+  names:
+  - Albacete
+  code: AB
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.8862798
+    minlatitude: 38.97148
+    maxlongitude: -1.834899
+    maxlatitude: 39.012917
+    latitude: 38.99435
+    longitude: -1.8585424
+- name: Huesca
+  names:
+  - Huesca
+  code: HU
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4231033
+    minlatitude: 42.12498
+    maxlongitude: -0.3885935
+    maxlatitude: 42.14683
+    latitude: 42.131844
+    longitude: -0.4078058
+- name: Cáceres
+  names:
+  - Cáceres
+  code: CC
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.4270487
+    minlatitude: 39.44317
+    maxlongitude: -6.3543897
+    maxlatitude: 39.500103
+    latitude: 39.475277
+    longitude: -6.3724246
+- name: Cuenca
+  names:
+  - Cuenca
+  code: CU
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.1802044
+    minlatitude: 40.04013
+    maxlongitude: -2.1158454
+    maxlatitude: 40.083813
+    latitude: 40.070393
+    longitude: -2.1374161
+- name: Jaén
+  names:
+  - Jaén
+  code: J
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.820125
+    minlatitude: 37.7561
+    maxlongitude: -3.7736049
+    maxlatitude: 37.80409
+    latitude: 37.779594
+    longitude: -3.7849057
+- name: Lleida
+  names:
+  - Lérida
+  code: L
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.5901125
+    minlatitude: 41.59704
+    maxlongitude: 0.6497572
+    maxlatitude: 41.63965
+    latitude: 41.617588
+    longitude: 0.6200146
+- name: Málaga
+  names:
+  - Málaga
+  code: MA
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.559037
+    minlatitude: 36.67889
+    maxlongitude: -4.3394966
+    maxlatitude: 36.757553
+    latitude: 36.72126
+    longitude: -4.4212656
+- name: Pontevedra
+  names:
+  - Pontevedra
+  code: PO
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.664858
+    minlatitude: 42.415955
+    maxlongitude: -8.613833
+    maxlatitude: 42.451767
+    latitude: 42.429886
+    longitude: -8.64462
+- name: Ávila
+  names:
+  - Ávila
+  code: AV
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.70772
+    minlatitude: 40.63782
+    maxlongitude: -4.656667
+    maxlatitude: 40.67595
+    latitude: 40.656685
+    longitude: -4.6812086
+- name: A Coruña
+  names:
+  - Corunna
+  - La Coruña
+  code: C
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.438259
+    minlatitude: 43.33734
+    maxlongitude: -8.387108
+    maxlatitude: 43.386406
+    latitude: 43.362343
+    longitude: -8.41154
+- name: Sevilla
+  names:
+  - Sevilla
+  code: SE
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.021658
+    minlatitude: 37.31522
+    maxlongitude: -5.8884587
+    maxlatitude: 37.43552
+    latitude: 37.38909
+    longitude: -5.984459
+- name: Zaragoza
+  names:
+  - Zaragoza
+  code: Z
+  countryalpha2: ES
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.9472301
+    minlatitude: 41.613976
+    maxlongitude: -0.8427317
+    maxlatitude: 41.689407
+    latitude: 41.648823
+    longitude: -0.8890853

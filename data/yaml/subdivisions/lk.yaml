@@ -1,0 +1,360 @@
+- name: Kalutara
+  names:
+  - Kalutara
+  code: "13"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.95788
+    minlatitude: 6.5570946
+    maxlongitude: 79.99562
+    maxlatitude: 6.6178026
+    latitude: 6.589416
+    longitude: 79.98081
+- name: Kandy
+  names:
+  - Mahe Nuwara
+  - Maha Nuwara
+  code: "21"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.591896
+    minlatitude: 7.2585034
+    maxlongitude: 80.65967
+    maxlatitude: 7.330587
+    latitude: 7.2905717
+    longitude: 80.63373
+- name: Matale
+  names:
+  - Matale
+  code: "22"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.60574
+    minlatitude: 7.4352837
+    maxlongitude: 80.651665
+    maxlatitude: 7.481389
+    latitude: 7.467465
+    longitude: 80.62341
+- name: Galle
+  names:
+  - Gālla
+  code: "31"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.17213
+    minlatitude: 6.023682
+    maxlongitude: 80.25187
+    maxlatitude: 6.0881333
+    latitude: 6.0535183
+    longitude: 80.22098
+- name: Hambantota
+  names:
+  - Hambantota
+  code: "33"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.06772
+    minlatitude: 6.1097054
+    maxlongitude: 81.16557
+    maxlatitude: 6.172769
+    latitude: 6.131742
+    longitude: 81.108574
+- name: Mannar
+  names:
+  - Manar
+  - Mannar
+  - Mannerama
+  code: "43"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.84383
+    minlatitude: 8.962578
+    maxlongitude: 79.92743
+    maxlatitude: 9.029035
+    latitude: 8.989323
+    longitude: 79.88008
+- name: Vavuniya
+  names:
+  - Vavuniyāwa
+  code: "44"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.42718
+    minlatitude: 8.68353
+    maxlongitude: 80.54781
+    maxlatitude: 8.820406
+    latitude: 8.738157
+    longitude: 80.47715
+- name: Mullaittivu
+  names:
+  - Mulativu
+  code: "45"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.80706
+    minlatitude: 9.258892
+    maxlongitude: 80.82275
+    maxlatitude: 9.276446
+    latitude: 9.267091
+    longitude: 80.81425
+- name: Polonnaruwa
+  names:
+  - Polonaruwa
+  - Polunnaruwa
+  code: "72"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.96701
+    minlatitude: 7.8920336
+    maxlongitude: 81.04477
+    maxlatitude: 7.976193
+    latitude: 7.932636
+    longitude: 81.003685
+- name: Ratnapura
+  names:
+  - Ratnapūraya
+  code: "91"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.31143
+    minlatitude: 6.6663127
+    maxlongitude: 80.42885
+    maxlatitude: 6.7672386
+    latitude: 6.708103
+    longitude: 80.377
+- name: Colombo
+  names:
+  - Kolamba
+  - Colombo
+  - Colombo
+  code: "11"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.82252
+    minlatitude: 6.862511
+    maxlongitude: 79.89008
+    maxlatitude: 6.9805846
+    latitude: 6.9270787
+    longitude: 79.861244
+- name: Batticaloa
+  names:
+  - Mad̨akalpūwa
+  code: "51"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.650856
+    minlatitude: 7.6971703
+    maxlongitude: 81.7061
+    maxlatitude: 7.77083
+    latitude: 7.730997
+    longitude: 81.67473
+- name: Puttalam
+  names:
+  - Puttalam
+  code: "62"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.80812
+    minlatitude: 7.9910674
+    maxlongitude: 79.85736
+    maxlatitude: 8.069725
+    latitude: 8.040283
+    longitude: 79.84088
+- name: Badulla
+  names:
+  - Badulla
+  code: "81"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.03842
+    minlatitude: 6.962978
+    maxlongitude: 81.07962
+    maxlatitude: 7.014605
+    latitude: 6.993401
+    longitude: 81.054985
+- name: Monaragala
+  names:
+  - Monaragalla
+  - Moneragala
+  code: "82"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.3208
+    minlatitude: 6.85894
+    maxlongitude: 81.36715
+    maxlatitude: 6.9151797
+    latitude: 6.8906455
+    longitude: 81.34544
+- name: Nuwara Eliya
+  names:
+  - Nuwara Eliya
+  code: "23"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.7402
+    minlatitude: 6.912879
+    maxlongitude: 80.82169
+    maxlatitude: 6.9898534
+    latitude: 6.954399
+    longitude: 80.7824
+- name: Matara
+  names:
+  - Matara
+  code: "32"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.50425
+    minlatitude: 5.9346604
+    maxlongitude: 80.597244
+    maxlatitude: 5.969324
+    latitude: 5.95492
+    longitude: 80.554955
+- name: Anuradhapura
+  names:
+  - Anuradhapur
+  - Anurādhapūraya
+  code: "71"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.33787
+    minlatitude: 8.259569
+    maxlongitude: 80.468185
+    maxlatitude: 8.410734
+    latitude: 8.345185
+    longitude: 80.38813
+- name: Kegalla
+  names:
+  - Kegalle
+  code: "92"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.33186
+    minlatitude: 7.24247
+    maxlongitude: 80.35958
+    maxlatitude: 7.2644796
+    latitude: 7.251332
+    longitude: 80.346375
+- name: Gampaha
+  names:
+  - Gampaha
+  code: "12"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.97386
+    minlatitude: 7.0560045
+    maxlongitude: 80.050766
+    maxlatitude: 7.1068406
+    latitude: 7.0873103
+    longitude: 80.014366
+- name: Jaffna
+  names:
+  - Yapnaya
+  - Yāpanaya
+  code: "41"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.99902
+    minlatitude: 9.646103
+    maxlongitude: 80.057846
+    maxlatitude: 9.693871
+    latitude: 9.661498
+    longitude: 80.02554
+- name: Kilinochchi
+  names:
+  - Kilinochchi
+  code: "42"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.31809
+    minlatitude: 9.336519
+    maxlongitude: 80.43511
+    maxlatitude: 9.417353
+    latitude: 9.380288
+    longitude: 80.377
+- name: Ampara
+  names:
+  - Ampara
+  code: "52"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.645004
+    minlatitude: 7.2753243
+    maxlongitude: 81.70905
+    maxlatitude: 7.3171363
+    latitude: 7.3017564
+    longitude: 81.67473
+- name: Trincomalee
+  names:
+  - Trinkomali
+  - Tirikunāmalaya
+  code: "53"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.18032
+    minlatitude: 8.543304
+    maxlongitude: 81.24611
+    maxlatitude: 8.623115
+    latitude: 8.5922
+    longitude: 81.19679
+- name: Kurunegala
+  names:
+  - Kurunegala
+  code: "61"
+  countryalpha2: LK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.29916
+    minlatitude: 7.4320917
+    maxlongitude: 80.416405
+    maxlatitude: 7.5291486
+    latitude: 7.4729815
+    longitude: 80.35473

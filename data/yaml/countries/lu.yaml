@@ -1,0 +1,82 @@
+name:
+  common: Luxembourg
+  official: Grand Duchy of Luxembourg
+  native:
+    deu:
+      common: Luxemburg
+      official: Großherzogtum Luxemburg
+    fra:
+      common: Luxembourg
+      official: Grand-Duché de Luxembourg
+    ltz:
+      common: Lëtzebuerg
+      official: Groussherzogtum Lëtzebuerg
+eumember: true
+landlocked: true
+nationality: ""
+tlds:
+- .lu
+languages:
+  deu: German
+  fra: French
+  ltz: Luxembourgish
+translations:
+  deu:
+    common: Luxemburg
+    official: Großherzogtum Luxemburg,
+  fin:
+    common: Luxemburg
+    official: Luxemburgin suurherttuakunta
+  fra:
+    common: Luxembourg
+    official: Grand-Duché de Luxembourg
+  hrv:
+    common: Luksemburg
+    official: Veliko Vojvodstvo Luksemburg
+  ita:
+    common: Lussemburgo
+    official: Granducato di Lussemburgo
+  jpn:
+    common: ルクセンブルク
+    official: ルクセンブルク大公国
+  nld:
+    common: Luxemburg
+    official: Groothertogdom Luxemburg
+  por:
+    common: Luxemburgo
+    official: Grão-Ducado do Luxemburgo
+  rus:
+    common: Люксембург
+    official: Великое Герцогство Люксембург
+  spa:
+    common: Luxemburgo
+    official: Gran Ducado de Luxemburgo
+currencies:
+- EUR
+borders:
+- BEL
+- FRA
+- DEU
+codes:
+  alpha2: LU
+  alpha3: LUX
+  cioc: LUX
+  ccn3: "442"
+  callingcodes:
+  - "352"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Western Europe
+  continent: Europe
+  capital: Luxembourg
+  area: 2586
+coordinates:
+  longitudestring: 6 10 E
+  latitudestring: 49 45 N
+  minlongitude: 5.742778
+  minlatitude: 49.460835
+  maxlongitude: 6.505833
+  maxlatitude: 50.181667
+  latitude: 49.77788
+  longitude: 6.094746

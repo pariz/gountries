@@ -1,0 +1,77 @@
+name:
+  common: Libya
+  official: State of Libya
+  native:
+    ara:
+      common: ‏ليبيا
+      official: الدولة ليبيا
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ly
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Libyen
+    official: Staat Libyen
+  fin:
+    common: Libya
+    official: Libyan valtio
+  fra:
+    common: Libye
+    official: Grande République arabe libyenne populaire et socialiste
+  hrv:
+    common: Libija
+    official: Država Libiji
+  ita:
+    common: Libia
+    official: Stato della Libia
+  jpn:
+    common: リビア
+    official: リビアの国家
+  nld:
+    common: Libië
+    official: Staat van Libië
+  por:
+    common: Líbia
+    official: Estado da Líbia
+  rus:
+    common: Ливия
+    official: Государство Ливии
+  spa:
+    common: Libia
+    official: Estado de Libia
+currencies:
+- LYD
+borders:
+- DZA
+- TCD
+- EGY
+- NER
+- SDN
+- TUN
+codes:
+  alpha2: LY
+  alpha3: LBY
+  cioc: LBA
+  ccn3: "434"
+  callingcodes:
+  - "218"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Northern Africa
+  continent: Africa
+  capital: Tripoli
+  area: 1.75954e+06
+coordinates:
+  longitudestring: 17 00 E
+  latitudestring: 25 00 N
+  minlongitude: 5
+  minlatitude: 20.8
+  maxlongitude: 25.5
+  maxlatitude: 33.15
+  latitude: 27.236097
+  longitude: 18.043556

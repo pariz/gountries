@@ -1,0 +1,86 @@
+- name: Toliara
+  names:
+  - Toliara
+  - Tuléar
+  code: U
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.639328
+    minlatitude: -23.397015
+    maxlongitude: 43.736015
+    maxlatitude: -23.314592
+    latitude: -23.35
+    longitude: 43.666668
+- name: Toamasina
+  names:
+  - Tamatave
+  code: A
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.353607
+    minlatitude: -18.190224
+    maxlongitude: 49.430557
+    maxlatitude: -18.070843
+    latitude: -18.15
+    longitude: 49.416668
+- name: Antsiranana
+  names:
+  - Antseranana
+  - Diégo Suarez
+  code: D
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.273422
+    minlatitude: -12.365826
+    maxlongitude: 49.314217
+    maxlatitude: -12.266897
+    latitude: -12.323135
+    longitude: 49.294285
+- name: Fianarantsoa
+  names:
+  - Fianar
+  code: F
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.041225
+    minlatitude: -21.488852
+    maxlongitude: 47.130318
+    maxlatitude: -21.40652
+    latitude: -21.453611
+    longitude: 47.085835
+- name: Mahajanga
+  names:
+  - Majunga
+  code: M
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.294655
+    minlatitude: -15.728406
+    maxlongitude: 46.381958
+    maxlatitude: -15.646387
+    latitude: -15.716667
+    longitude: 46.316666
+- name: Antananarivo
+  names:
+  - Tananarive
+  code: T
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.419136
+    minlatitude: -19.027872
+    maxlongitude: 47.60608
+    maxlatitude: -18.747587
+    latitude: -18.933332
+    longitude: 47.516666

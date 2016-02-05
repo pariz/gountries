@@ -1,0 +1,1136 @@
+- name: Amasya
+  names:
+  - Amasya
+  code: "05"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.788517
+    minlatitude: 40.64035
+    maxlongitude: 35.85566
+    maxlatitude: 40.672108
+    latitude: 40.64991
+    longitude: 35.83532
+- name: Hatay
+  names:
+  - Hatay
+  code: "31"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.100204
+    minlatitude: 36.16479
+    maxlongitude: 36.231052
+    maxlatitude: 36.27726
+    latitude: 36.2
+    longitude: 36.166668
+- name: Malatya
+  names:
+  - Malatya
+  code: "44"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.17169
+    minlatitude: 38.312897
+    maxlongitude: 38.380222
+    maxlatitude: 38.39292
+    latitude: 38.35
+    longitude: 38.3
+- name: Sakarya
+  names:
+  - Sakarya
+  code: "54"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.324757
+    minlatitude: 40.68175
+    maxlongitude: 30.439833
+    maxlatitude: 40.8163
+    latitude: 40.783333
+    longitude: 30.4
+- name: Adana
+  names:
+  - Seyhan
+  code: "01"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.104076
+    minlatitude: 36.92914
+    maxlongitude: 35.472057
+    maxlatitude: 37.065693
+    latitude: 0
+    longitude: 35.321335
+- name: Aydin
+  names:
+  - Aydin
+  code: "09"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.794327
+    minlatitude: 37.803986
+    maxlongitude: 27.900507
+    maxlatitude: 37.86757
+    latitude: 37.848057
+    longitude: 27.845278
+- name: Içel
+  names:
+  - Ichili
+  code: "33"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.53618
+    minlatitude: 36.01681
+    maxlongitude: 35.14063
+    maxlatitude: 37.435226
+    latitude: 36.63217
+    longitude: 33.617577
+- name: Bartin
+  names:
+  - Bartin
+  code: "74"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.30464
+    minlatitude: 41.604935
+    maxlongitude: 32.371593
+    maxlatitude: 41.654625
+    latitude: 41.64152
+    longitude: 32.34558
+- name: Kocaeli
+  names:
+  - Kocaeli
+  code: "41"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.333126
+    minlatitude: 40.521065
+    maxlongitude: 30.367743
+    maxlatitude: 41.20976
+    latitude: 40.85327
+    longitude: 29.881521
+- name: Rize
+  names:
+  - Rize
+  code: "53"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.478577
+    minlatitude: 41.01078
+    maxlongitude: 40.61464
+    maxlatitude: 41.052147
+    latitude: 41.02005
+    longitude: 40.52345
+- name: Bingöl
+  names:
+  - Bingöl
+  code: "12"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.480087
+    minlatitude: 38.87468
+    maxlongitude: 40.521606
+    maxlatitude: 38.89169
+    latitude: 38.88535
+    longitude: 40.49829
+- name: Çankiri
+  names:
+  - Çankiri
+  code: "18"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.593346
+    minlatitude: 40.567177
+    maxlongitude: 33.63583
+    maxlatitude: 40.647552
+    latitude: 40.60134
+    longitude: 33.613422
+- name: Izmir
+  names:
+  - Izmir
+  code: "35"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.85495
+    minlatitude: 38.29011
+    maxlongitude: 27.304485
+    maxlatitude: 38.54524
+    latitude: 38.41885
+    longitude: 27.12872
+- name: Kars
+  names:
+  - Kars
+  code: "36"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.071053
+    minlatitude: 40.570057
+    maxlongitude: 43.132523
+    maxlatitude: 40.623337
+    latitude: 40.61667
+    longitude: 43.1
+- name: Kayseri
+  names:
+  - Kayseri
+  code: "38"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.3127
+    minlatitude: 38.622
+    maxlongitude: 35.627674
+    maxlatitude: 38.8248
+    latitude: 38.73122
+    longitude: 35.47873
+- name: Tokat
+  names:
+  - Tokat
+  code: "60"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.46966
+    minlatitude: 40.267868
+    maxlongitude: 36.59322
+    maxlatitude: 40.358932
+    latitude: 40.31389
+    longitude: 36.55417
+- name: Karaman
+  names:
+  - Karaman
+  code: "70"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.1791
+    minlatitude: 37.146255
+    maxlongitude: 33.271027
+    maxlatitude: 37.212326
+    latitude: 37.17593
+    longitude: 33.22875
+- name: Afyon
+  names:
+  - Afyon
+  code: "03"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.512117
+    minlatitude: 38.716576
+    maxlongitude: 30.59795
+    maxlatitude: 38.7965
+    latitude: 38.754166
+    longitude: 30.540277
+- name: Eskisehir
+  names:
+  - Eskisehir
+  code: "26"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.409056
+    minlatitude: 39.702564
+    maxlongitude: 30.680574
+    maxlatitude: 39.82812
+    latitude: 39.77667
+    longitude: 30.520555
+- name: Kirklareli
+  names:
+  - Kirklareli
+  code: "39"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.191652
+    minlatitude: 41.712185
+    maxlongitude: 27.244106
+    maxlatitude: 41.760376
+    latitude: 41.74291
+    longitude: 27.22609
+- name: Samsun
+  names:
+  - Samsun
+  code: "55"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.24287
+    minlatitude: 41.23935
+    maxlongitude: 36.38193
+    maxlatitude: 41.343597
+    latitude: 41.29278
+    longitude: 36.33128
+- name: Aksaray
+  names:
+  - Aksaray
+  code: "68"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.926823
+    minlatitude: 38.292835
+    maxlongitude: 34.07441
+    maxlatitude: 38.428764
+    latitude: 38.36869
+    longitude: 34.03698
+- name: Burdur
+  names:
+  - Burdur
+  code: "15"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.228626
+    minlatitude: 37.704594
+    maxlongitude: 30.336212
+    maxlatitude: 37.76056
+    latitude: 37.72691
+    longitude: 30.288876
+- name: Gaziantep
+  names:
+  - Gaziantep
+  code: "27"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.303497
+    minlatitude: 37.00925
+    maxlongitude: 37.456776
+    maxlatitude: 37.10829
+    latitude: 37.06622
+    longitude: 37.38332
+- name: Kirsehir
+  names:
+  - Kirsehir
+  code: "40"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.119774
+    minlatitude: 39.083828
+    maxlongitude: 34.21962
+    maxlatitude: 39.19971
+    latitude: 39.146
+    longitude: 34.1607
+- name: Konya
+  names:
+  - Konya
+  code: "42"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.365005
+    minlatitude: 37.722702
+    maxlongitude: 32.64796
+    maxlatitude: 38.03431
+    latitude: 37.86667
+    longitude: 32.483334
+- name: Sivas
+  names:
+  - Sivas
+  code: "58"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.92708
+    minlatitude: 39.715305
+    maxlongitude: 37.06474
+    maxlatitude: 39.781487
+    latitude: 39.74766
+    longitude: 37.01788
+- name: Zonguldak
+  names:
+  - Zonguldak
+  code: "67"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.72608
+    minlatitude: 41.42287
+    maxlongitude: 31.87424
+    maxlatitude: 41.49518
+    latitude: 41.45641
+    longitude: 31.79873
+- name: Yalova
+  names:
+  - Yalova
+  code: "77"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.210123
+    minlatitude: 40.619457
+    maxlongitude: 29.31501
+    maxlatitude: 40.66593
+    latitude: 40.65
+    longitude: 29.266666
+- name: Erzurum
+  names:
+  - Erzurum
+  code: "25"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.216457
+    minlatitude: 39.867874
+    maxlongitude: 41.310577
+    maxlatitude: 39.955925
+    latitude: 39.90861
+    longitude: 41.276943
+- name: Nevsehir
+  names:
+  - Nevsehir
+  code: "50"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.66975
+    minlatitude: 38.589046
+    maxlongitude: 34.74778
+    maxlatitude: 38.676487
+    latitude: 38.62442
+    longitude: 34.72397
+- name: Sinop
+  names:
+  - Sinop
+  code: "57"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.067528
+    minlatitude: 41.99384
+    maxlongitude: 35.192284
+    maxlatitude: 42.03443
+    latitude: 42.02314
+    longitude: 35.15307
+- name: Batman
+  names:
+  - Batman
+  code: "72"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.08907
+    minlatitude: 37.85689
+    maxlongitude: 41.174404
+    maxlatitude: 37.934147
+    latitude: 37.88117
+    longitude: 41.13509
+- name: Igdir
+  names:
+  - Igdir
+  code: "76"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.98073
+    minlatitude: 39.88411
+    maxlongitude: 44.092823
+    maxlatitude: 39.950165
+    latitude: 39.9193
+    longitude: 44.0655
+- name: Kilis
+  names:
+  - Kilis
+  code: "79"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.091618
+    minlatitude: 36.70222
+    maxlongitude: 37.16014
+    maxlatitude: 36.736897
+    latitude: 36.7184
+    longitude: 37.12122
+- name: Bitlis
+  names:
+  - Bitlis
+  code: "13"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.08753
+    minlatitude: 38.37997
+    maxlongitude: 42.138313
+    maxlatitude: 38.429028
+    latitude: 38.3938
+    longitude: 42.12318
+- name: Bursa
+  names:
+  - Bursa
+  code: "16"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.049068
+    minlatitude: 40.254333
+    maxlongitude: 29.114447
+    maxlatitude: 40.318954
+    latitude: 40.266865
+    longitude: 29.063448
+- name: Mugla
+  names:
+  - Mugla
+  code: "48"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.342407
+    minlatitude: 37.195114
+    maxlongitude: 28.386187
+    maxlatitude: 37.225166
+    latitude: 37.216667
+    longitude: 28.366667
+- name: Mus
+  names:
+  - Mus
+  code: "49"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.472305
+    minlatitude: 38.718224
+    maxlongitude: 41.540627
+    maxlatitude: 38.783504
+    latitude: 38.733334
+    longitude: 41.49111
+- name: Ordu
+  names:
+  - Ordu
+  code: "52"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.791737
+    minlatitude: 40.94854
+    maxlongitude: 38.02062
+    maxlatitude: 41.03852
+    latitude: 40.98388
+    longitude: 37.87641
+- name: Osmaniye
+  names:
+  - Osmaniye
+  code: "80"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.208035
+    minlatitude: 37.04694
+    maxlongitude: 36.29024
+    maxlatitude: 37.10406
+    latitude: 37.06805
+    longitude: 36.26159
+- name: Düzce
+  names:
+  - Düzce
+  code: "81"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.116829
+    minlatitude: 40.820133
+    maxlongitude: 31.188368
+    maxlatitude: 40.886112
+    latitude: 40.84385
+    longitude: 31.15654
+- name: Diyarbakir
+  names:
+  - Diyarbakir
+  code: "21"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.078438
+    minlatitude: 37.86583
+    maxlongitude: 40.24692
+    maxlatitude: 37.979755
+    latitude: 37.91441
+    longitude: 40.23063
+- name: Elazig
+  names:
+  - Elazig
+  code: "23"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.120564
+    minlatitude: 38.631943
+    maxlongitude: 39.27574
+    maxlatitude: 38.697376
+    latitude: 38.68097
+    longitude: 39.2264
+- name: Tekirdag
+  names:
+  - Tekirdag
+  code: "59"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.469809
+    minlatitude: 40.92007
+    maxlongitude: 27.646252
+    maxlatitude: 40.999542
+    latitude: 40.97778
+    longitude: 27.515278
+- name: Yozgat
+  names:
+  - Yozgat
+  code: "66"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.774784
+    minlatitude: 39.79258
+    maxlongitude: 34.849533
+    maxlatitude: 39.83786
+    latitude: 39.81808
+    longitude: 34.81469
+- name: Ardahan
+  names:
+  - Ardahan
+  code: "75"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.68013
+    minlatitude: 41.09981
+    maxlongitude: 42.728138
+    maxlatitude: 41.12595
+    latitude: 41.11048
+    longitude: 42.70217
+- name: Ankara
+  names:
+  - Ankara
+  code: "06"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.52869
+    minlatitude: 39.73042
+    maxlongitude: 33.007057
+    maxlatitude: 40.076332
+    latitude: 39.92077
+    longitude: 32.85411
+- name: Denizli
+  names:
+  - Denizli
+  code: "20"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.99314
+    minlatitude: 37.72234
+    maxlongitude: 29.170155
+    maxlatitude: 37.843464
+    latitude: 37.77652
+    longitude: 29.08639
+- name: Nigde
+  names:
+  - Nigde
+  code: "51"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.633797
+    minlatitude: 37.93935
+    maxlongitude: 34.728916
+    maxlatitude: 38.005886
+    latitude: 37.97646
+    longitude: 34.69376
+- name: Bolu
+  names:
+  - Bolu
+  code: "14"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.56441
+    minlatitude: 40.70634
+    maxlongitude: 31.658419
+    maxlatitude: 40.765095
+    latitude: 40.73948
+    longitude: 31.61156
+- name: Kastamonu
+  names:
+  - Kastamonu
+  code: "37"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.758488
+    minlatitude: 41.358147
+    maxlongitude: 33.81785
+    maxlatitude: 41.437134
+    latitude: 41.38871
+    longitude: 33.78273
+- name: Trabzon
+  names:
+  - Trabzon
+  code: "61"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.65241
+    minlatitude: 40.973515
+    maxlongitude: 39.808464
+    maxlatitude: 41.01237
+    latitude: 41.00145
+    longitude: 39.7178
+- name: Tunceli
+  names:
+  - Tunceli
+  code: "62"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.51225
+    minlatitude: 39.067997
+    maxlongitude: 39.557163
+    maxlatitude: 39.11865
+    latitude: 39.105824
+    longitude: 39.545517
+- name: Sanliurfa
+  names:
+  - Sanliurfa
+  code: "63"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.75993
+    minlatitude: 37.100903
+    maxlongitude: 38.891956
+    maxlatitude: 37.23337
+    latitude: 37.15915
+    longitude: 38.79691
+- name: Bayburt
+  names:
+  - Bayburt
+  code: "69"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.192894
+    minlatitude: 40.235428
+    maxlongitude: 40.25981
+    maxlatitude: 40.282803
+    latitude: 40.25517
+    longitude: 40.22488
+- name: Balikesir
+  names:
+  - Balikesir
+  code: "10"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.838312
+    minlatitude: 39.61241
+    maxlongitude: 27.941193
+    maxlatitude: 39.683235
+    latitude: 39.64837
+    longitude: 27.88261
+- name: Çanakkale
+  names:
+  - Çanakkale
+  code: "17"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.385738
+    minlatitude: 40.08992
+    maxlongitude: 26.468447
+    maxlatitude: 40.171196
+    latitude: 40.147778
+    longitude: 26.405556
+- name: Edirne
+  names:
+  - Edirne
+  code: "22"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.542961
+    minlatitude: 41.6419
+    maxlongitude: 26.603687
+    maxlatitude: 41.69585
+    latitude: 41.674442
+    longitude: 26.560833
+- name: Van
+  names:
+  - Van
+  code: "65"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.269524
+    minlatitude: 38.42549
+    maxlongitude: 43.447586
+    maxlatitude: 38.580315
+    latitude: 38.494167
+    longitude: 43.38
+- name: Agri
+  names:
+  - Agri
+  code: "04"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.990356
+    minlatitude: 39.692783
+    maxlongitude: 43.07993
+    maxlatitude: 39.751163
+    latitude: 39.71883
+    longitude: 43.048428
+- name: Çorum
+  names:
+  - Çorum
+  code: "19"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.887547
+    minlatitude: 40.48687
+    maxlongitude: 34.99626
+    maxlatitude: 40.583576
+    latitude: 40.55437
+    longitude: 34.96372
+- name: Manisa
+  names:
+  - Manisa
+  code: "45"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.308537
+    minlatitude: 38.60244
+    maxlongitude: 27.478775
+    maxlatitude: 38.645073
+    latitude: 38.6191
+    longitude: 27.42892
+- name: Mardin
+  names:
+  - Mardin
+  code: "47"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.691067
+    minlatitude: 37.300655
+    maxlongitude: 40.766384
+    maxlatitude: 37.34045
+    latitude: 37.321163
+    longitude: 40.724476
+- name: Adiyaman
+  names:
+  - Adiyaman
+  code: "02"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.231205
+    minlatitude: 37.74144
+    maxlongitude: 38.32062
+    maxlatitude: 37.793365
+    latitude: 37.76475
+    longitude: 38.27856
+- name: Artvin
+  names:
+  - Artvin
+  code: "08"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.79922
+    minlatitude: 41.168137
+    maxlongitude: 41.836685
+    maxlatitude: 41.19118
+    latitude: 41.18277
+    longitude: 41.81829
+- name: Isparta
+  names:
+  - Isparta
+  code: "32"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.507727
+    minlatitude: 37.746193
+    maxlongitude: 30.591946
+    maxlatitude: 37.83409
+    latitude: 37.76477
+    longitude: 30.55656
+- name: Kahramanmaras
+  names:
+  - Kahramanmaras
+  - Maras
+  - Marash
+  code: "46"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.81449
+    minlatitude: 37.5007
+    maxlongitude: 37.008694
+    maxlatitude: 37.610065
+    latitude: 37.583332
+    longitude: 36.933334
+- name: Siirt
+  names:
+  - Siirt
+  code: "56"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.90291
+    minlatitude: 37.91138
+    maxlongitude: 41.963863
+    maxlatitude: 37.949368
+    latitude: 37.935547
+    longitude: 41.93683
+- name: Usak
+  names:
+  - Usak
+  code: "64"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.355936
+    minlatitude: 38.63335
+    maxlongitude: 29.456465
+    maxlatitude: 38.705017
+    latitude: 38.6823
+    longitude: 29.40819
+- name: Sirnak
+  names:
+  - Sirnak
+  code: "73"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.440617
+    minlatitude: 37.508778
+    maxlongitude: 42.472157
+    maxlatitude: 37.53534
+    latitude: 37.516388
+    longitude: 42.46111
+- name: Karabük
+  names:
+  - Karabük
+  code: "78"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.589157
+    minlatitude: 41.172523
+    maxlongitude: 32.712166
+    maxlatitude: 41.23992
+    latitude: 41.2061
+    longitude: 32.62035
+- name: Antalya
+  names:
+  - Antalya
+  code: "07"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.58096
+    minlatitude: 36.82029
+    maxlongitude: 30.855251
+    maxlatitude: 36.975586
+    latitude: 36.88414
+    longitude: 30.70563
+- name: Bilecik
+  names:
+  - Bilecik
+  code: "11"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.957952
+    minlatitude: 40.12762
+    maxlongitude: 29.991398
+    maxlatitude: 40.2001
+    latitude: 40.15013
+    longitude: 29.98306
+- name: Gümüshane
+  names:
+  - Gümüshane
+  code: "29"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.45865
+    minlatitude: 40.428238
+    maxlongitude: 39.52073
+    maxlatitude: 40.46848
+    latitude: 40.438587
+    longitude: 39.508556
+- name: Hakkâri
+  names:
+  - Hakkâri
+  code: "30"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.71499
+    minlatitude: 37.556175
+    maxlongitude: 43.754593
+    maxlatitude: 37.59238
+    latitude: 37.57639
+    longitude: 43.736668
+- name: Erzincan
+  names:
+  - Erzincan
+  code: "24"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.460308
+    minlatitude: 39.712936
+    maxlongitude: 39.54751
+    maxlatitude: 39.78121
+    latitude: 39.73993
+    longitude: 39.5045
+- name: Giresun
+  names:
+  - Giresun
+  code: "28"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.310837
+    minlatitude: 40.88076
+    maxlongitude: 38.44763
+    maxlatitude: 40.92777
+    latitude: 40.91281
+    longitude: 38.38953
+- name: Istanbul
+  names:
+  - Istanbul
+  code: "34"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.595554
+    minlatitude: 40.811405
+    maxlongitude: 29.428804
+    maxlatitude: 41.199238
+    latitude: 41.00527
+    longitude: 28.97696
+- name: Kütahya
+  names:
+  - Kütahya
+  code: "43"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.920969
+    minlatitude: 39.383705
+    maxlongitude: 30.053083
+    maxlatitude: 39.448666
+    latitude: 39.4167
+    longitude: 29.9833
+- name: Kirikkale
+  names:
+  - Kirrikkale
+  code: "71"
+  countryalpha2: TR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.46989
+    minlatitude: 39.814632
+    maxlongitude: 33.576122
+    maxlatitude: 39.8692
+    latitude: 39.84682
+    longitude: 33.51525

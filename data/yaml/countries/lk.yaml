@@ -1,0 +1,78 @@
+name:
+  common: Sri Lanka
+  official: Democratic Socialist Republic of Sri Lanka
+  native:
+    sin:
+      common: ශ්‍රී ලංකාව
+      official: ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය
+    tam:
+      common: இலங்கை
+      official: இலங்கை சனநாயக சோசலிசக் குடியரசு
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .lk
+- .இலங்கை
+- .ලංකා
+languages:
+  sin: Sinhala
+  tam: Tamil
+translations:
+  deu:
+    common: Sri Lanka
+    official: Demokratische Sozialistische Republik Sri Lanka
+  fin:
+    common: Sri Lanka
+    official: Sri Lankan demokraattinen sosialistinen tasavalta
+  fra:
+    common: Sri Lanka
+    official: République démocratique socialiste du Sri Lanka
+  hrv:
+    common: Šri Lanka
+    official: Demokratska Socijalističke Republike Šri Lanke
+  ita:
+    common: Sri Lanka
+    official: Repubblica democratica socialista dello Sri Lanka
+  jpn:
+    common: スリランカ
+    official: スリランカ民主社会主義共和国
+  nld:
+    common: Sri Lanka
+    official: Democratische Socialistische Republiek Sri Lanka
+  por:
+    common: Sri Lanka
+    official: República Democrática Socialista do Sri Lanka
+  rus:
+    common: Шри-Ланка
+    official: Демократическая Социалистическая Республика Шри-Ланка
+  spa:
+    common: Sri Lanka
+    official: República Democrática Socialista de Sri Lanka
+currencies:
+- LKR
+borders:
+- IND
+codes:
+  alpha2: LK
+  alpha3: LKA
+  cioc: SRI
+  ccn3: "144"
+  callingcodes:
+  - "94"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Southern Asia
+  continent: Asia
+  capital: Colombo
+  area: 65610
+coordinates:
+  longitudestring: 81 00 E
+  latitudestring: 7 00 N
+  minlongitude: 79.51667
+  minlatitude: 5.916667
+  maxlongitude: 81.86667
+  maxlatitude: 9.833333
+  latitude: 7.7891335
+  longitude: 80.680725

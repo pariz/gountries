@@ -1,0 +1,168 @@
+- name: Plateau
+  names:
+  - Plateau
+  code: PL
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.406592
+    minlatitude: 6.545428
+    maxlongitude: 2.799681
+    maxlatitude: 7.657946
+    latitude: 7.344514
+    longitude: 2.539603
+- name: Atakora
+  names:
+  - Atakora
+  code: AK
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.774575
+    minlatitude: 9.994575
+    maxlongitude: 2.357681
+    maxlatitude: 11.473834
+    latitude: 10.795493
+    longitude: 1.6760691
+- name: Atlantique
+  names:
+  - Atlantique
+  code: AQ
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.953851
+    minlatitude: 6.30274
+    maxlongitude: 2.483183
+    maxlatitude: 7.013629
+    latitude: 6.658839
+    longitude: 2.2236667
+- name: Borgou
+  names:
+  - Borgou
+  code: BO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.972203
+    minlatitude: 8.772683
+    maxlongitude: 3.851701
+    maxlatitude: 10.6676445
+    latitude: 9.534086
+    longitude: 2.7779813
+- name: Collines
+  names:
+  - Collines
+  code: CO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.619739
+    minlatitude: 7.458557
+    maxlongitude: 2.761885
+    maxlatitude: 8.777361
+    latitude: 8.30223
+    longitude: 2.302446
+- name: Donga
+  names:
+  - Donga
+  code: DO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.3415889
+    minlatitude: 8.477539
+    maxlongitude: 2.2243772
+    maxlatitude: 10.116575
+    latitude: 9.719187
+    longitude: 1.6760691
+- name: Kouffo
+  names:
+  - Kouffo
+  code: KO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.557832
+    minlatitude: 6.664443
+    maxlongitude: 2.086982
+    maxlatitude: 7.49791
+    latitude: 7.0035896
+    longitude: 1.7538817
+- name: Littoral
+  names:
+  - Littoral
+  code: LI
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.3329544
+    minlatitude: 6.340341
+    maxlongitude: 2.5401967
+    maxlatitude: 6.407818
+    latitude: 6.3806973
+    longitude: 2.4406388
+- name: Mono
+  names:
+  - Mono
+  code: MO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.5739199
+    minlatitude: 6.23406
+    maxlongitude: 2.019586
+    maxlatitude: 6.797614
+    latitude: 6.660718
+    longitude: 1.7538817
+- name: Alibori
+  names:
+  - Alibori
+  code: AL
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.019249
+    minlatitude: 10.50447
+    maxlongitude: 3.848022
+    maxlatitude: 12.418346
+    latitude: 10.968109
+    longitude: 2.7779813
+- name: Zou
+  names:
+  - Zou
+  code: ZO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.634848
+    minlatitude: 6.908327
+    maxlongitude: 2.555015
+    maxlatitude: 7.649319
+    latitude: 7.3469267
+    longitude: 2.0665197
+- name: Ouémé
+  names:
+  - Ouémé
+  code: OU
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.360852
+    minlatitude: 6.3598056
+    maxlongitude: 2.742933
+    maxlatitude: 6.99444
+    latitude: 6.614815
+    longitude: 2.499992

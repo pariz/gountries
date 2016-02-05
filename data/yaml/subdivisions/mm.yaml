@@ -1,0 +1,199 @@
+- name: Sagaing
+  names:
+  - Sagaing
+  code: "01"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 95.87914
+    minlatitude: 21.869663
+    maxlongitude: 96.008835
+    maxlatitude: 21.965942
+    latitude: 21.91597
+    longitude: 95.96211
+- name: Tanintharyi
+  names:
+  - Tenasserim
+  code: "05"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.00641
+    minlatitude: 12.0778055
+    maxlongitude: 99.02051
+    maxlatitude: 12.092619
+    latitude: 12.089633
+    longitude: 99.01151
+- name: Yangon
+  names:
+  - Yangon
+  - Rangun
+  - Rangoun
+  - Rangún
+  code: "06"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 95.99579
+    minlatitude: 16.728827
+    maxlongitude: 96.34323
+    maxlatitude: 17.078815
+    latitude: 16.780832
+    longitude: 96.14972
+- name: Bago
+  names:
+  - Pegu
+  code: "02"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 96.429924
+    minlatitude: 17.229963
+    maxlongitude: 96.51616
+    maxlatitude: 17.362476
+    latitude: 17.333332
+    longitude: 96.48333
+- name: Magway
+  names:
+  - Magwe
+  code: "03"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 94.91614
+    minlatitude: 20.110073
+    maxlongitude: 94.99182
+    maxlatitude: 20.178253
+    latitude: 20.15
+    longitude: 94.95
+- name: Kayin
+  names:
+  - Karen
+  code: "13"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 96.39982
+    minlatitude: 15.219563
+    maxlongitude: 98.9175
+    maxlatitude: 19.495302
+    latitude: 16.945934
+    longitude: 97.95929
+- name: Rakhine
+  names:
+  - Arakan
+  code: "16"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.18928
+    minlatitude: 17.363218
+    maxlongitude: 94.90911
+    maxlatitude: 21.473574
+    latitude: 19.810093
+    longitude: 93.98785
+- name: Ayeyarwady
+  names:
+  - Irrawaddy
+  code: "07"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 93.22603
+    minlatitude: 13.974669
+    maxlongitude: 95.96656
+    maxlatitude: 18.469063
+    latitude: 17.034212
+    longitude: 95.22667
+- name: Kachin
+  names:
+  - Kachin
+  code: "11"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 95.83606
+    minlatitude: 23.64157
+    maxlongitude: 98.78279
+    maxlatitude: 28.543259
+    latitude: 25.850904
+    longitude: 97.43813
+- name: Kayah
+  names:
+  - Kayah
+  code: "12"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 96.833954
+    minlatitude: 18.491735
+    maxlongitude: 97.88789
+    maxlatitude: 19.993935
+    latitude: 19.234205
+    longitude: 97.26529
+- name: Mon
+  names:
+  - Mon
+  code: "15"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 96.87555
+    minlatitude: 14.884192
+    maxlongitude: 98.23784
+    maxlatitude: 17.705263
+    latitude: 17.062603
+    longitude: 97.351654
+- name: Mandalay
+  names:
+  - Mandalay
+  code: "04"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 96.01124
+    minlatitude: 21.85458
+    maxlongitude: 96.14041
+    maxlatitude: 22.02614
+    latitude: 21.975
+    longitude: 96.083336
+- name: Chin
+  names:
+  - Chin
+  code: "14"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.60376
+    minlatitude: 20.663546
+    maxlongitude: 94.18579
+    maxlatitude: 24.091528
+    latitude: 22.389675
+    longitude: 93.58127
+- name: Shan
+  names:
+  - Shan
+  code: "17"
+  countryalpha2: MM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.55396
+    minlatitude: 21.1287
+    maxlongitude: 97.59275
+    maxlatitude: 21.183931
+    latitude: 21.156717
+    longitude: 97.57348

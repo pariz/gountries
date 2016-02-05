@@ -1,0 +1,70 @@
+- name: South West
+  names:
+  - South West
+  code: SG-05
+  countryalpha2: SG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.605545
+    minlatitude: 1.1587023
+    maxlongitude: 104.08848
+    maxlatitude: 1.4707592
+    latitude: 1.352083
+    longitude: 103.81984
+- name: Central Singapore
+  names:
+  - Central Singapore
+  code: SG-01
+  countryalpha2: SG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.82301
+    minlatitude: 1.2774146
+    maxlongitude: 103.86428
+    maxlatitude: 1.3948174
+    latitude: 1.3418329
+    longitude: 103.86088
+- name: North East
+  names:
+  - North East
+  code: SG-02
+  countryalpha2: SG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.605545
+    minlatitude: 1.1587023
+    maxlongitude: 104.08848
+    maxlatitude: 1.4707592
+    latitude: 1.352083
+    longitude: 103.81984
+- name: North West
+  names:
+  - North West
+  code: SG-03
+  countryalpha2: SG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 1.3537604
+    longitude: 103.71076
+- name: South East
+  names:
+  - South East
+  code: SG-04
+  countryalpha2: SG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.605545
+    minlatitude: 1.1587023
+    maxlongitude: 104.08848
+    maxlatitude: 1.4707592
+    latitude: 1.352083
+    longitude: 103.81984

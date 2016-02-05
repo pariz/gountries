@@ -1,0 +1,294 @@
+- name: San Salvador and Rum Cay
+  names:
+  - San Salvador and Rum Cay
+  code: SR
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.13009
+    minlatitude: 23.63513
+    maxlongitude: -74.792175
+    maxlatitude: 23.855938
+    latitude: 23.685467
+    longitude: -74.83902
+- name: Acklins and Crooked Islands
+  names:
+  - Acklins and Crooked Islands
+  code: AC
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.39255
+    minlatitude: 22.164164
+    maxlongitude: -73.83293
+    maxlatitude: 22.85052
+    latitude: 22.6391
+    longitude: -74.00651
+- name: Inagua
+  names:
+  - Inagua
+  code: IN
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.85548
+    minlatitude: 20.91213
+    maxlongitude: -72.9135
+    maxlatitude: 21.702244
+    latitude: 21.065607
+    longitude: -73.32371
+- name: Mayaguana
+  names:
+  - Mayaguana
+  code: MG
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.17063
+    minlatitude: 22.28255
+    maxlongitude: -72.71227
+    maxlatitude: 22.456406
+    latitude: 22.401772
+    longitude: -73.06414
+- name: New Providence
+  names:
+  - New Providence
+  code: NP
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.55587
+    minlatitude: 24.978968
+    maxlongitude: -77.08672
+    maxlatitude: 25.125502
+    latitude: 25.047983
+    longitude: -77.355415
+- name: Bimini
+  names:
+  - Bimini Islands
+  code: BI
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.62301
+    minlatitude: 23.500849
+    maxlongitude: -79.24074
+    maxlatitude: 25.779354
+    latitude: 25.733583
+    longitude: -79.27307
+- name: Freeport
+  names:
+  - Freeport
+  code: FP
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.73202
+    minlatitude: 26.490017
+    maxlongitude: -78.5566
+    maxlatitude: 26.580084
+    latitude: 26.528473
+    longitude: -78.69659
+- name: High Rock
+  names:
+  - High Rock
+  code: HR
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.28823
+    minlatitude: 26.621181
+    maxlongitude: -78.275055
+    maxlatitude: 26.628431
+    latitude: 26.623934
+    longitude: -78.2832
+- name: Sandy Point
+  names:
+  - Sandy Point
+  code: SP
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.40337
+    minlatitude: 25.989836
+    maxlongitude: -77.36177
+    maxlatitude: 26.027315
+    latitude: 26.016666
+    longitude: -77.4
+- name: Green Turtle Cay
+  names:
+  - Green Turtle Cay
+  code: GT
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.34306
+    minlatitude: 26.74986
+    maxlongitude: -77.3089
+    maxlatitude: 26.798595
+    latitude: 26.774712
+    longitude: -77.329575
+- name: Long Island
+  names:
+  - Long Island
+  code: LI
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.34653
+    minlatitude: 22.851204
+    maxlongitude: -74.82844
+    maxlatitude: 23.685953
+    latitude: 23.176424
+    longitude: -75.09615
+- name: Ragged Island
+  names:
+  - Ragged Island
+  code: RI
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.75361
+    minlatitude: 22.169659
+    maxlongitude: -75.710075
+    maxlatitude: 22.231377
+    latitude: 22.190807
+    longitude: -75.734245
+- name: Cat Island
+  names:
+  - Cat Island
+  code: CI
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.972466
+    minlatitude: 24.11437
+    maxlongitude: -75.294685
+    maxlatitude: 24.69627
+    latitude: 24.213308
+    longitude: -75.36454
+- name: Exuma
+  names:
+  - Exuma
+  code: EX
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 23.533333
+    longitude: -75.833336
+- name: Fresh Creek
+  names:
+  - Fresh Creek
+  code: FC
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.80329
+    minlatitude: 24.695179
+    maxlongitude: -77.78666
+    maxlatitude: 24.700502
+    latitude: 24.698364
+    longitude: -77.795265
+- name: Governor's Harbour
+  names:
+  - Governor's Harbour
+  code: GH
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.252174
+    minlatitude: 25.191854
+    maxlongitude: -76.23477
+    maxlatitude: 25.202261
+    latitude: 25.196203
+    longitude: -76.24067
+- name: Rock Sound
+  names:
+  - Rock Sound
+  code: RS
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.16486
+    minlatitude: 24.861908
+    maxlongitude: -76.147095
+    maxlatitude: 24.898272
+    latitude: 24.879051
+    longitude: -76.15809
+- name: Harbour Island
+  names:
+  - Harbour Island
+  code: HI
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.63703
+    minlatitude: 25.52549
+    maxlongitude: -76.634254
+    maxlatitude: 25.531096
+    latitude: 25.528233
+    longitude: -76.63586
+- name: Kemps Bay
+  names:
+  - Kemps Bay
+  code: KB
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.376564
+    minlatitude: 24.023888
+    maxlongitude: -76.35799
+    maxlatitude: 24.037645
+    latitude: 24.029814
+    longitude: -76.36807
+- name: Marsh Harbour
+  names:
+  - Marsh Harbour
+  code: MH
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.13041
+    minlatitude: 26.504456
+    maxlongitude: -77.03862
+    maxlatitude: 26.568066
+    latitude: 26.524166
+    longitude: -77.09098
+- name: Nicholls Town and Berry Islands
+  names:
+  - Nicholls Town and Berry Islands
+  code: NB
+  countryalpha2: BS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.920204
+    minlatitude: 25.39422
+    maxlongitude: -77.71318
+    maxlatitude: 25.827454
+    latitude: 25.723623
+    longitude: -77.83101

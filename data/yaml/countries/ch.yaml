@@ -1,0 +1,90 @@
+name:
+  common: Switzerland
+  official: Swiss Confederation
+  native:
+    fra:
+      common: Suisse
+      official: Confédération suisse
+    gsw:
+      common: Schweiz
+      official: Schweizerische Eidgenossenschaft
+    ita:
+      common: Svizzera
+      official: Confederazione Svizzera
+    roh:
+      common: Svizra
+      official: Confederaziun svizra
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .ch
+languages:
+  fra: French
+  gsw: Swiss German
+  ita: Italian
+  roh: Romansh
+translations:
+  deu:
+    common: Schweiz
+    official: Schweizerische Eidgenossenschaft
+  fin:
+    common: Sveitsi
+    official: Sveitsin valaliitto
+  fra:
+    common: Suisse
+    official: Confédération suisse
+  hrv:
+    common: Švicarska
+    official: švicarska Konfederacija
+  ita:
+    common: Svizzera
+    official: Confederazione svizzera
+  jpn:
+    common: スイス
+    official: スイス連邦
+  nld:
+    common: Zwitserland
+    official: Zwitserse Confederatie
+  por:
+    common: Suíça
+    official: Confederação Suíça
+  rus:
+    common: Швейцария
+    official: Швейцарская Конфедерация
+  spa:
+    common: Suiza
+    official: Confederación Suiza
+currencies:
+- CHE
+- CHF
+- CHW
+borders:
+- AUT
+- FRA
+- ITA
+- LIE
+- DEU
+codes:
+  alpha2: CH
+  alpha3: CHE
+  cioc: SUI
+  ccn3: "756"
+  callingcodes:
+  - "41"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Western Europe
+  continent: Europe
+  capital: Bern
+  area: 41284
+coordinates:
+  longitudestring: 8 00 E
+  latitudestring: 47 00 N
+  minlongitude: 6
+  minlatitude: 45.36667
+  maxlongitude: 10.5
+  maxlatitude: 47.8085
+  latitude: 46.8038
+  longitude: 8.222855

@@ -1,0 +1,79 @@
+name:
+  common: Cyprus
+  official: Republic of Cyprus
+  native:
+    ell:
+      common: Κύπρος
+      official: Δημοκρατία της Κύπρος
+    tur:
+      common: Kıbrıs
+      official: Kıbrıs Cumhuriyeti
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .cy
+languages:
+  ell: Greek
+  tur: Turkish
+translations:
+  cym:
+    common: Cyprus
+    official: Republic of Cyprus
+  deu:
+    common: Zypern
+    official: Republik Zypern
+  fin:
+    common: Kypros
+    official: Kyproksen tasavalta
+  fra:
+    common: Chypre
+    official: République de Chypre
+  hrv:
+    common: Cipar
+    official: Republika Cipar
+  ita:
+    common: Cipro
+    official: Repubblica di Cipro
+  jpn:
+    common: キプロス
+    official: キプロス共和国
+  nld:
+    common: Cyprus
+    official: Republiek Cyprus
+  por:
+    common: Chipre
+    official: República de Chipre
+  rus:
+    common: Кипр
+    official: Республика Кипр
+  spa:
+    common: Chipre
+    official: República de Chipre
+currencies:
+- EUR
+borders:
+- GBR
+codes:
+  alpha2: CY
+  alpha3: CYP
+  cioc: CYP
+  ccn3: "196"
+  callingcodes:
+  - "357"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Asia
+  capital: Nicosia
+  area: 9251
+coordinates:
+  longitudestring: 33 00 E
+  latitudestring: 35 00 N
+  minlongitude: 32.270832
+  minlatitude: 34.566666
+  maxlongitude: 34.6
+  maxlatitude: 35.7
+  latitude: 35.11474
+  longitude: 33.486717

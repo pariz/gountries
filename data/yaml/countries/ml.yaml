@@ -1,0 +1,78 @@
+name:
+  common: Mali
+  official: Republic of Mali
+  native:
+    fra:
+      common: Mali
+      official: République du Mali
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .ml
+languages:
+  fra: French
+translations:
+  deu:
+    common: Mali
+    official: Republik Mali
+  fin:
+    common: Mali
+    official: Malin tasavalta
+  fra:
+    common: Mali
+    official: République du Mali
+  hrv:
+    common: Mali
+    official: Republika Mali
+  ita:
+    common: Mali
+    official: Repubblica del Mali
+  jpn:
+    common: マリ
+    official: マリ共和国
+  nld:
+    common: Mali
+    official: Republiek Mali
+  por:
+    common: Mali
+    official: República do Mali
+  rus:
+    common: Мали
+    official: Республика Мали
+  spa:
+    common: Mali
+    official: República de Malí
+currencies:
+- XOF
+borders:
+- DZA
+- BFA
+- GIN
+- CIV
+- MRT
+- NER
+- SEN
+codes:
+  alpha2: ML
+  alpha3: MLI
+  cioc: MLI
+  ccn3: "466"
+  callingcodes:
+  - "223"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Bamako
+  area: 1.240192e+06
+coordinates:
+  longitudestring: 4 00 W
+  latitudestring: 17 00 N
+  minlongitude: -12.55
+  minlatitude: 10.15
+  maxlongitude: 13
+  maxlatitude: 26
+  latitude: 17.357767
+  longitude: -3.527382

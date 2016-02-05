@@ -1,0 +1,308 @@
+- name: Sololá
+  names:
+  - Sololá
+  code: SO
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.19369
+    minlatitude: 14.747369
+    maxlongitude: -91.16575
+    maxlatitude: 14.78758
+    latitude: 14.773889
+    longitude: -91.1875
+- name: Santa Rosa
+  names:
+  - Santa Rosa
+  code: SR
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.60646
+    minlatitude: 13.779554
+    maxlongitude: -90.01662
+    maxlatitude: 14.501664
+    latitude: 14.1928005
+    longitude: -90.37483
+- name: Jalapa
+  names:
+  - Jalapa
+  code: JA
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.26168
+    minlatitude: 14.421895
+    maxlongitude: -89.62486
+    maxlatitude: 14.863962
+    latitude: 14.5655155
+    longitude: -89.92532
+- name: Petén
+  names:
+  - Petén
+  code: PE
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.437546
+    minlatitude: 15.833072
+    maxlongitude: -89.14571
+    maxlatitude: 17.81522
+    latitude: 16.912033
+    longitude: -90.299576
+- name: Quiché
+  names:
+  - Quiché
+  code: QC
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.323875
+    minlatitude: 14.798901
+    maxlongitude: -90.41242
+    maxlatitude: 16.073006
+    latitude: 15.498381
+    longitude: -90.98206
+- name: Suchitepéquez
+  names:
+  - Suchitepéquez
+  code: SU
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.66212
+    minlatitude: 14.044629
+    maxlongitude: -91.07959
+    maxlatitude: 14.733114
+    latitude: 14.421598
+    longitude: -91.40482
+- name: Chimaltenango
+  names:
+  - Chimaltenango
+  code: CM
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.85414
+    minlatitude: 14.639106
+    maxlongitude: -90.79754
+    maxlatitude: 14.677302
+    latitude: 14.662222
+    longitude: -90.82083
+- name: Chiquimula
+  names:
+  - Chiquimula
+  code: CQ
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.56295
+    minlatitude: 14.746347
+    maxlongitude: -89.51448
+    maxlatitude: 14.817619
+    latitude: 14.783333
+    longitude: -89.53333
+- name: Jutiapa
+  names:
+  - Jutiapa
+  code: JU
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.9116
+    minlatitude: 14.233187
+    maxlongitude: -89.83949
+    maxlatitude: 14.3246
+    latitude: 14.282778
+    longitude: -89.8925
+- name: Guatemala
+  names:
+  - Guatemala
+  code: GU
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.58867
+    minlatitude: 14.551186
+    maxlongitude: -90.396454
+    maxlatitude: 14.701255
+    latitude: 14.613333
+    longitude: -90.53528
+- name: Retalhuleu
+  names:
+  - Retalhuleu
+  code: RE
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.70442
+    minlatitude: 14.508646
+    maxlongitude: -91.661766
+    maxlatitude: 14.555921
+    latitude: 14.533333
+    longitude: -91.683334
+- name: Sacatepéquez
+  names:
+  - Sacatepéquez
+  code: SA
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.87625
+    minlatitude: 14.39432
+    maxlongitude: -90.597466
+    maxlatitude: 14.771409
+    latitude: 14.611057
+    longitude: -90.71528
+- name: San Marcos
+  names:
+  - San Marcos
+  code: SM
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -92.24149
+    minlatitude: 14.48661
+    maxlongitude: -91.584206
+    maxlatitude: 15.432205
+    latitude: 14.930957
+    longitude: -91.90993
+- name: Alta Verapaz
+  names:
+  - Alta Verapaz
+  code: AV
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.79805
+    minlatitude: 15.137356
+    maxlongitude: -89.37264
+    maxlatitude: 16.071905
+    latitude: 15.594288
+    longitude: -90.1495
+- name: Baja Verapaz
+  names:
+  - Baja Verapaz
+  code: BV
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.85995
+    minlatitude: 14.865581
+    maxlongitude: -89.89431
+    maxlatitude: 15.282989
+    latitude: 15.07875
+    longitude: -90.41252
+- name: Escuintla
+  names:
+  - Escuintla
+  code: ES
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.538
+    minlatitude: 13.912029
+    maxlongitude: -90.49225
+    maxlatitude: 14.474574
+    latitude: 14.300939
+    longitude: -90.788216
+- name: Quetzaltenango
+  names:
+  - Quetzaltenango
+  code: QZ
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.58203
+    minlatitude: 14.778783
+    maxlongitude: -91.464874
+    maxlatitude: 14.896184
+    latitude: 14.833333
+    longitude: -91.51667
+- name: Totonicapán
+  names:
+  - Totonicapán
+  code: TO
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.373116
+    minlatitude: 14.901078
+    maxlongitude: -91.34797
+    maxlatitude: 14.925711
+    latitude: 14.910833
+    longitude: -91.36056
+- name: Zacapa
+  names:
+  - Zacapa
+  code: ZA
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.84937
+    minlatitude: 14.773436
+    maxlongitude: -89.129654
+    maxlatitude: 15.296872
+    latitude: 15.078426
+    longitude: -89.43639
+- name: Huehuetenango
+  names:
+  - Huehuetenango
+  code: HU
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.536545
+    minlatitude: 15.288117
+    maxlongitude: -91.4465
+    maxlatitude: 15.347265
+    latitude: 15.314722
+    longitude: -91.47611
+- name: Izabal
+  names:
+  - Izabal
+  code: IZ
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.14298
+    minlatitude: 15.400645
+    maxlongitude: -89.13182
+    maxlatitude: 15.4070215
+    latitude: 15.403685
+    longitude: -89.13844
+- name: El Progreso
+  names:
+  - El Progreso
+  code: PR
+  countryalpha2: GT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 14.86527
+    longitude: -90.02032

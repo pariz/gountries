@@ -1,0 +1,79 @@
+name:
+  common: Turkmenistan
+  official: Turkmenistan
+  native:
+    rus:
+      common: Туркмения
+      official: Туркменистан
+    tuk:
+      common: Türkmenistan
+      official: Türkmenistan
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .tm
+languages:
+  rus: Russian
+  tuk: Turkmen
+translations:
+  deu:
+    common: Turkmenistan
+    official: Turkmenistan
+  fin:
+    common: Turkmenistan
+    official: Turkmenistan
+  fra:
+    common: Turkménistan
+    official: Turkménistan
+  hrv:
+    common: Turkmenistan
+    official: Turkmenistan
+  ita:
+    common: Turkmenistan
+    official: Turkmenistan
+  jpn:
+    common: トルクメニスタン
+    official: トルクメニスタン
+  nld:
+    common: Turkmenistan
+    official: Turkmenistan
+  por:
+    common: Turquemenistão
+    official: Turcomenistão
+  rus:
+    common: Туркмения
+    official: Туркменистан
+  spa:
+    common: Turkmenistán
+    official: Turkmenistán
+currencies:
+- TMT
+borders:
+- AFG
+- IRN
+- KAZ
+- UZB
+codes:
+  alpha2: TM
+  alpha3: TKM
+  cioc: TKM
+  ccn3: "795"
+  callingcodes:
+  - "993"
+  internationalprefix: "810"
+geo:
+  region: Asia
+  subregion: Central Asia
+  continent: Asia
+  capital: Ashgabat
+  area: 488100
+coordinates:
+  longitudestring: 60 00 E
+  latitudestring: 40 00 N
+  minlongitude: 52.5
+  minlatitude: 35.216667
+  maxlongitude: 66.65
+  maxlatitude: 42.566666
+  latitude: 39.201283
+  longitude: 59.082253

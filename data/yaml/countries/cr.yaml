@@ -1,0 +1,76 @@
+name:
+  common: Costa Rica
+  official: Republic of Costa Rica
+  native:
+    spa:
+      common: Costa Rica
+      official: República de Costa Rica
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .cr
+languages:
+  spa: Spanish
+translations:
+  cym:
+    common: Costa Rica
+    official: Republic of Costa Rica
+  deu:
+    common: Costa Rica
+    official: Republik Costa Rica
+  fin:
+    common: Costa Rica
+    official: Costa Rican tasavalta
+  fra:
+    common: Costa Rica
+    official: République du Costa Rica
+  hrv:
+    common: Kostarika
+    official: Republika Kostarika
+  ita:
+    common: Costa Rica
+    official: Repubblica di Costa Rica
+  jpn:
+    common: コスタリカ
+    official: コスタリカ共和国
+  nld:
+    common: Costa Rica
+    official: Republiek Costa Rica
+  por:
+    common: Costa Rica
+    official: República da Costa Rica
+  rus:
+    common: Коста-Рика
+    official: Республика Коста-Рика
+  spa:
+    common: Costa Rica
+    official: República de Costa Rica
+currencies:
+- CRC
+borders:
+- NIC
+- PAN
+codes:
+  alpha2: CR
+  alpha3: CRI
+  cioc: CRC
+  ccn3: "188"
+  callingcodes:
+  - "506"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: Central America
+  continent: North America
+  capital: San José
+  area: 51100
+coordinates:
+  longitudestring: 84 00 W
+  latitudestring: 10 00 N
+  minlongitude: -87.1
+  minlatitude: 5.5
+  maxlongitude: -82.05
+  maxlatitude: 11.216667
+  latitude: 9.884992
+  longitude: -84.227234

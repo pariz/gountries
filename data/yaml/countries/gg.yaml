@@ -1,0 +1,79 @@
+name:
+  common: Guernsey
+  official: Bailiwick of Guernsey
+  native:
+    eng:
+      common: Guernsey
+      official: Bailiwick of Guernsey
+    fra:
+      common: Guernesey
+      official: Bailliage de Guernesey
+    nfr:
+      common: Dgèrnésiais
+      official: Dgèrnésiais
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gg
+languages:
+  eng: English
+  fra: French
+  nfr: Guernésiais
+translations:
+  deu:
+    common: Guernsey
+    official: Guernsey
+  fin:
+    common: Guernsey
+    official: Guernsey
+  fra:
+    common: Guernesey
+    official: Bailliage de Guernesey
+  hrv:
+    common: Guernsey
+    official: Struka Guernsey
+  ita:
+    common: Guernsey
+    official: Baliato di Guernsey
+  jpn:
+    common: ガーンジー
+    official: ガーンジーの得意分野
+  nld:
+    common: Guernsey
+    official: Baljuwschap Guernsey
+  por:
+    common: Guernsey
+    official: Bailiado de Guernsey
+  rus:
+    common: Гернси
+    official: Коронное владение Гернси
+  spa:
+    common: Guernsey
+    official: Bailía de Guernsey
+currencies:
+- GBP
+borders: []
+codes:
+  alpha2: GG
+  alpha3: GGY
+  cioc: ""
+  ccn3: "831"
+  callingcodes:
+  - "44"
+  internationalprefix: ""
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: St. Peter Port
+  area: 78
+coordinates:
+  longitudestring: 2 35 W
+  latitudestring: 49 28 N
+  minlongitude: -2.7
+  minlatitude: 49.40111
+  maxlongitude: -2.158056
+  maxlatitude: 49.733334
+  latitude: 49.720085
+  longitude: -2.1999686

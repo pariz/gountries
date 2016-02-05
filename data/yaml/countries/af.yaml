@@ -1,0 +1,88 @@
+name:
+  common: Afghanistan
+  official: Islamic Republic of Afghanistan
+  native:
+    prs:
+      common: افغانستان
+      official: جمهوری اسلامی افغانستان
+    pus:
+      common: افغانستان
+      official: د افغانستان اسلامي جمهوریت
+    tuk:
+      common: Owganystan
+      official: Owganystan Yslam Respublikasy
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .af
+languages:
+  prs: Dari
+  pus: Pashto
+  tuk: Turkmen
+translations:
+  cym:
+    common: Affganistan
+    official: Islamic Republic of Afghanistan
+  deu:
+    common: Afghanistan
+    official: Islamische Republik Afghanistan
+  fin:
+    common: Afganistan
+    official: Afganistanin islamilainen tasavalta
+  fra:
+    common: Afghanistan
+    official: République islamique d'Afghanistan
+  hrv:
+    common: Afganistan
+    official: Islamska Republika Afganistan
+  ita:
+    common: Afghanistan
+    official: Repubblica islamica dell'Afghanistan
+  jpn:
+    common: アフガニスタン
+    official: アフガニスタン·イスラム共和国
+  nld:
+    common: Afghanistan
+    official: Islamitische Republiek Afghanistan
+  por:
+    common: Afeganistão
+    official: República Islâmica do Afeganistão
+  rus:
+    common: Афганистан
+    official: Исламская Республика Афганистан
+  spa:
+    common: Afganistán
+    official: República Islámica de Afganistán
+currencies:
+- AFN
+borders:
+- IRN
+- PAK
+- TKM
+- UZB
+- TJK
+- CHN
+codes:
+  alpha2: AF
+  alpha3: AFG
+  cioc: AFG
+  ccn3: "004"
+  callingcodes:
+  - "93"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Southern Asia
+  continent: Asia
+  capital: Kabul
+  area: 652230
+coordinates:
+  longitudestring: 65 00 E
+  latitudestring: 33 00 N
+  minlongitude: 60.566666
+  minlatitude: 29.383333
+  maxlongitude: 74.88687
+  maxlatitude: 38.483612
+  latitude: 33.83325
+  longitude: 66.02528

@@ -1,0 +1,82 @@
+- name: Al Wustá
+  names:
+  - Central
+  - al-Mintaqah al-Wusta
+  code: "16"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.509594
+    minlatitude: 26.096567
+    maxlongitude: 50.671665
+    maxlatitude: 26.193289
+    latitude: 26.142609
+    longitude: 50.56533
+- name: Ash Shamaliyah
+  names:
+  - Northern
+  - al-Mintaqa ash Shamaliyah
+  - ash Shamaliyah
+  code: "17"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.378826
+    minlatitude: 26.04768
+    maxlongitude: 50.566463
+    maxlatitude: 26.235592
+    latitude: 26.155191
+    longitude: 50.482517
+- name: Al Manamah (Al ‘Asimah)
+  names:
+  - Manāmah
+  - al-Manāmah
+  - Manama
+  - Manama
+  - Manama
+  code: "13"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.513706
+    minlatitude: 26.194508
+    maxlongitude: 50.625904
+    maxlatitude: 26.247324
+    latitude: 26.228516
+    longitude: 50.58605
+- name: Al Janubiyah
+  names:
+  - Eastern
+  - Hawa
+  - Juzur H̨awār
+  - Southern
+  - ash Sharqiyah
+  - aš-Šarqīyah
+  code: "14"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.454597
+    minlatitude: 25.57984
+    maxlongitude: 50.82231
+    maxlatitude: 26.138159
+    latitude: 25.938103
+    longitude: 50.575687
+- name: Al Muharraq
+  names:
+  - Al Muharraq
+  code: "15"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 26.266941
+    longitude: 50.63839

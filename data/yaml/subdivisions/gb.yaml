@@ -1,0 +1,3220 @@
+- name: Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]
+  names:
+  - Rhondda Cynon TÃ¢f
+  code: RCT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 51.603577
+    longitude: -3.3411765
+- name: Rutland
+  names:
+  - Rutland
+  code: RUT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.8217616
+    minlatitude: 52.524788
+    maxlongitude: -0.4283766
+    maxlatitude: 52.7598
+    latitude: 52.658302
+    longitude: -0.639643
+- name: South Gloucestershire
+  names:
+  - South Gloucestershire
+  code: SGC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.6956995
+    minlatitude: 51.415905
+    maxlongitude: -2.2521124
+    maxlatitude: 51.6773
+    latitude: 51.531456
+    longitude: -2.4547157
+- name: Coventry
+  names:
+  - Coventry
+  code: COV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.6058853
+    minlatitude: 52.36391
+    maxlongitude: -1.4239508
+    maxlatitude: 52.46347
+    latitude: 52.406822
+    longitude: -1.519693
+- name: Limavady
+  names:
+  - Limavady
+  code: LMV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.05222
+    longitude: -6.94035
+- name: North Lanarkshire
+  names:
+  - North Lanarkshire
+  code: NLK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.194503
+    minlatitude: 55.73476
+    maxlongitude: -3.711135
+    maxlatitude: 56.03137
+    latitude: 55.828915
+    longitude: -3.922196
+- name: Richmond upon Thames
+  names:
+  - Richmond upon Thames
+  code: RIC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3303392
+    minlatitude: 51.421303
+    maxlongitude: -0.2523359
+    maxlatitude: 51.4872
+    latitude: 51.46131
+    longitude: -0.303742
+- name: Tameside
+  names:
+  - Tameside
+  code: TAM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.1696498
+    minlatitude: 53.42592
+    maxlongitude: -1.9633883
+    maxlatitude: 53.531345
+    latitude: 53.480583
+    longitude: -2.0809891
+- name: Shetland Islands
+  names:
+  - Shetland Islands
+  code: ZET
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.1174405
+    minlatitude: 59.506824
+    maxlongitude: -0.7245409
+    maxlatitude: 60.86076
+    latitude: 60.52965
+    longitude: -1.2659408
+- name: Brent
+  names:
+  - Brent
+  code: BEN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3355844
+    minlatitude: 51.527653
+    maxlongitude: -0.1914835
+    maxlatitude: 51.60037
+    latitude: 51.56728
+    longitude: -0.2710568
+- name: Bexley
+  names:
+  - Bexley
+  code: BEX
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.1139954
+    minlatitude: 51.42332
+    maxlongitude: 0.1774081
+    maxlatitude: 51.449383
+    latitude: 51.439934
+    longitude: 0.154327
+- name: Craigavon
+  names:
+  - Craigavon
+  code: CGV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.45086
+    longitude: -6.39383
+- name: Kirklees
+  names:
+  - Kirklees
+  code: KIR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.278804
+    minlatitude: 52.60152
+    maxlongitude: 1.2817808
+    maxlatitude: 52.60236
+    latitude: 52.602055
+    longitude: 1.2803262
+- name: Northumberland
+  names:
+  - Northumberland
+  code: NBL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.689785
+    minlatitude: 54.78237
+    maxlongitude: -1.4603163
+    maxlatitude: 55.811085
+    latitude: 55.208256
+    longitude: -2.0784137
+- name: Fermanagh
+  names:
+  - Fermanagh
+  code: FER
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.17754
+    minlatitude: 54.1131
+    maxlongitude: -7.14228
+    maxlatitude: 54.61035
+    latitude: 54.45135
+    longitude: -7.712502
+- name: Southampton
+  names:
+  - Southampton
+  code: STH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.478998
+    minlatitude: 50.877373
+    maxlongitude: -1.3219877
+    maxlatitude: 50.956135
+    latitude: 50.909702
+    longitude: -1.4043509
+- name: Darlington
+  names:
+  - Darlington
+  code: DAL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.6095912
+    minlatitude: 54.503605
+    maxlongitude: -1.4971054
+    maxlatitude: 54.558784
+    latitude: 54.52361
+    longitude: -1.559458
+- name: Islington
+  names:
+  - Islington
+  code: ISL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.1425364
+    minlatitude: 51.51854
+    maxlongitude: -0.0763576
+    maxlatitude: 51.57551
+    latitude: 51.546505
+    longitude: -0.1058058
+- name: Kingston upon Thames
+  names:
+  - Kingston upon Thames
+  code: KTT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3168545
+    minlatitude: 51.39772
+    maxlongitude: -0.2495432
+    maxlatitude: 51.43729
+    latitude: 51.41233
+    longitude: -0.300689
+- name: Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]
+  names:
+  - Castell-nedd Porth Talbot
+  code: NTL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8580651
+    minlatitude: 51.61826
+    maxlongitude: -3.7612877
+    maxlatitude: 51.69826
+    latitude: 51.65699
+    longitude: -3.805476
+- name: Salford
+  names:
+  - Salford
+  code: SLF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.3310828
+    minlatitude: 53.46486
+    maxlongitude: -2.2451382
+    maxlatitude: 53.51843
+    latitude: 53.487522
+    longitude: -2.2901263
+- name: Caerphilly [Caerffili GB-CAF]
+  names:
+  - Caerffili
+  code: CAY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2555854
+    minlatitude: 51.549683
+    maxlongitude: -3.1765609
+    maxlatitude: 51.604065
+    latitude: 51.57883
+    longitude: -3.218134
+- name: Cumbria
+  names:
+  - Cumbria
+  code: CMA
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.6402004
+    minlatitude: 54.041893
+    maxlongitude: -2.1590188
+    maxlatitude: 55.18898
+    latitude: 54.577232
+    longitude: -2.7974834
+- name: Essex
+  names:
+  - Essex
+  code: ESS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0197695
+    minlatitude: 51.451004
+    maxlongitude: 1.2965922
+    maxlatitude: 52.092663
+    latitude: 51.766838
+    longitude: 0.4757762
+- name: Merton
+  names:
+  - Merton
+  code: MRT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 50.891853
+    longitude: -4.095316
+- name: North Down
+  names:
+  - North Down
+  code: NDN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.86138
+    minlatitude: 54.61095
+    maxlongitude: -5.51192
+    maxlatitude: 54.6994
+    latitude: 54.639744
+    longitude: -5.7105255
+- name: York
+  names:
+  - York
+  code: YOR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1472695
+    minlatitude: 53.925934
+    maxlongitude: -1.0139138
+    maxlatitude: 53.991257
+    latitude: 53.959965
+    longitude: -1.0872979
+- name: Bedfordshire
+  names:
+  - Bedfordshire
+  code: BDF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.6687744
+    minlatitude: 52.05453
+    maxlongitude: -0.2407452
+    maxlatitude: 52.322937
+    latitude: 52.135975
+    longitude: -0.4666565
+- name: London, City of
+  names:
+  - London, City of
+  code: LND
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3514683
+    minlatitude: 51.38494
+    maxlongitude: 0.148271
+    maxlatitude: 51.672344
+    latitude: 51.50735
+    longitude: -0.1277583
+- name: Pembrokeshire [Sir Benfro GB-BNF]
+  names:
+  - Sir Benfro
+  code: PEM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.670227
+    minlatitude: 51.596077
+    maxlongitude: -4.4855175
+    maxlatitude: 52.117607
+    latitude: 51.87571
+    longitude: -4.9391932
+- name: Renfrewshire
+  names:
+  - Renfrewshire
+  code: RFW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.7840114
+    minlatitude: 55.759533
+    maxlongitude: -4.3531065
+    maxlatitude: 55.9363
+    latitude: 55.829857
+    longitude: -4.5428386
+- name: Wandsworth
+  names:
+  - Wandsworth
+  code: WND
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.259113
+    minlatitude: 51.41775
+    maxlongitude: -0.1263636
+    maxlatitude: 51.485893
+    latitude: 51.457073
+    longitude: -0.1817824
+- name: Falkirk
+  names:
+  - Falkirk
+  code: FAL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8476074
+    minlatitude: 55.983006
+    maxlongitude: -3.750436
+    maxlatitude: 56.02676
+    latitude: 56.001877
+    longitude: -3.7839131
+- name: Knowsley
+  names:
+  - Knowsley
+  code: KWL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.8915896
+    minlatitude: 53.429684
+    maxlongitude: -2.7951112
+    maxlatitude: 53.46719
+    latitude: 53.454594
+    longitude: -2.852907
+- name: Omagh
+  names:
+  - Omagh
+  code: OMH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.3364544
+    minlatitude: 54.583046
+    maxlongitude: -7.2884817
+    maxlatitude: 54.620914
+    latitude: 54.597713
+    longitude: -7.3099594
+- name: Wakefield
+  names:
+  - Wakefield
+  code: WKF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5566213
+    minlatitude: 53.636013
+    maxlongitude: -1.4638399
+    maxlatitude: 53.715546
+    latitude: 53.683296
+    longitude: -1.505924
+- name: Windsor and Maidenhead
+  names:
+  - Windsor and Maidenhead
+  code: WNM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.8539262
+    minlatitude: 51.382874
+    maxlongitude: -0.5227844
+    maxlatitude: 51.577824
+    latitude: 51.491707
+    longitude: -0.7321755
+- name: Wolverhampton
+  names:
+  - Wolverhampton
+  code: WLV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.2121954
+    minlatitude: 52.543167
+    maxlongitude: -2.0505977
+    maxlatitude: 52.647697
+    latitude: 52.58697
+    longitude: -2.12882
+- name: Angus
+  names:
+  - Angus
+  code: ANS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.407022
+    minlatitude: 56.463963
+    maxlongitude: -2.4265296
+    maxlatitude: 56.986816
+    latitude: 56.796997
+    longitude: -2.9206817
+- name: Gwynedd
+  names:
+  - Gwynedd
+  code: GWN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.8043203
+    minlatitude: 52.534637
+    maxlongitude: -3.436765
+    maxlatitude: 53.24834
+    latitude: 52.892895
+    longitude: -3.9958465
+- name: Lincolnshire
+  names:
+  - Lincolnshire
+  code: LIN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.8206514
+    minlatitude: 52.640217
+    maxlongitude: 0.3562637
+    maxlatitude: 53.616367
+    latitude: 53.21788
+    longitude: -0.1999702
+- name: North Yorkshire
+  names:
+  - North Yorkshire
+  code: NYK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.564739
+    minlatitude: 53.621094
+    maxlongitude: -0.2124959
+    maxlatitude: 54.560123
+    latitude: 54.25036
+    longitude: -1.4708554
+- name: Stockport
+  names:
+  - Stockport
+  code: SKP
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.215528
+    minlatitude: 53.38015
+    maxlongitude: -2.0825958
+    maxlatitude: 53.45488
+    latitude: 53.410633
+    longitude: -2.1575332
+- name: North Lincolnshire
+  names:
+  - North Lincolnshire
+  code: NLN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.9500055
+    minlatitude: 53.455044
+    maxlongitude: -0.2007016
+    maxlatitude: 53.71463
+    latitude: 53.60556
+    longitude: -0.5596582
+- name: Poole
+  names:
+  - Poole
+  code: POL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.0549557
+    minlatitude: 50.68166
+    maxlongitude: -1.8911471
+    maxlatitude: 50.76446
+    latitude: 50.71505
+    longitude: -1.987248
+- name: Newport [Casnewydd GB-CNW]
+  names:
+  - Casnewydd
+  code: NWP
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.0381005
+    minlatitude: 51.535336
+    maxlongitude: -2.9204638
+    maxlatitude: 51.62139
+    latitude: 51.584152
+    longitude: -2.997664
+- name: Blackpool
+  names:
+  - Blackpool
+  code: BPL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.0624611
+    minlatitude: 53.77258
+    maxlongitude: -2.98588
+    maxlatitude: 53.87824
+    latitude: 53.817505
+    longitude: -3.0356748
+- name: Westminster
+  names:
+  - Westminster
+  code: WSM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2160886
+    minlatitude: 51.483818
+    maxlongitude: -0.1111016
+    maxlatitude: 51.539795
+    latitude: 51.500175
+    longitude: -0.1332326
+- name: West Sussex
+  names:
+  - West Sussex
+  code: WSX
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.9575972
+    minlatitude: 50.72247
+    maxlongitude: 0.0445255
+    maxlatitude: 51.1673
+    latitude: 50.928013
+    longitude: -0.4617075
+- name: Bracknell Forest
+  names:
+  - Bracknell Forest
+  code: BRC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.8373663
+    minlatitude: 51.331936
+    maxlongitude: -0.6306976
+    maxlatitude: 51.46873
+    latitude: 51.407696
+    longitude: -0.729976
+- name: Derbyshire
+  names:
+  - Derbyshire
+  code: DBY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.034098
+    minlatitude: 52.69652
+    maxlongitude: -1.1664888
+    maxlatitude: 53.540413
+    latitude: 53.122322
+    longitude: -1.5136821
+- name: Larne
+  names:
+  - Larne
+  code: LRN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.8575
+    longitude: -5.80986
+- name: Reading
+  names:
+  - Reading
+  code: RDG
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.0636011
+    minlatitude: 51.40978
+    maxlongitude: -0.9284944
+    maxlatitude: 51.493134
+    latitude: 51.454266
+    longitude: -0.9781303
+- name: Warwickshire
+  names:
+  - Warwickshire
+  code: WAR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.9620066
+    minlatitude: 51.955395
+    maxlongitude: -1.1721404
+    maxlatitude: 52.687244
+    latitude: 52.267136
+    longitude: -1.4675215
+- name: Isle of Wight
+  names:
+  - Isle of Wight
+  code: IOW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5917317
+    minlatitude: 50.574833
+    maxlongitude: -1.0697787
+    maxlatitude: 50.767357
+    latitude: 50.69272
+    longitude: -1.3167104
+- name: Plymouth
+  names:
+  - Plymouth
+  code: PLY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.2055326
+    minlatitude: 50.333317
+    maxlongitude: -4.0196075
+    maxlatitude: 50.444168
+    latitude: 50.375458
+    longitude: -4.1426563
+- name: Stockton-on-Tees
+  names:
+  - Stockton-on-Tees
+  code: STT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.4363118
+    minlatitude: 54.476974
+    maxlongitude: -1.1535482
+    maxlatitude: 54.645275
+    latitude: 54.570454
+    longitude: -1.3289821
+- name: Aberdeen City
+  names:
+  - Aberdeen City
+  code: ABE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.2058926
+    minlatitude: 57.104153
+    maxlongitude: -2.0461812
+    maxlatitude: 57.195652
+    latitude: 57.149715
+    longitude: -2.094278
+- name: Conwy
+  names:
+  - Aberconwy and Colwyn
+  code: CWY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8612347
+    minlatitude: 53.254944
+    maxlongitude: -3.8198164
+    maxlatitude: 53.29333
+    latitude: 53.28287
+    longitude: -3.82948
+- name: Doncaster
+  names:
+  - Doncaster
+  code: DNC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1927515
+    minlatitude: 53.47054
+    maxlongitude: -1.0472957
+    maxlatitude: 53.567154
+    latitude: 53.52282
+    longitude: -1.128462
+- name: Merthyr Tydfil [Merthyr Tudful GB-MTU]
+  names:
+  - Merthyr Tudful
+  code: MTY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.400272
+    minlatitude: 51.732174
+    maxlongitude: -3.3561397
+    maxlatitude: 51.769604
+    latitude: 51.74873
+    longitude: -3.381646
+- name: Rotherham
+  names:
+  - Rotherham
+  code: ROT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.434339
+    minlatitude: 53.40248
+    maxlongitude: -1.300166
+    maxlatitude: 53.464485
+    latitude: 53.432602
+    longitude: -1.363501
+- name: Birmingham
+  names:
+  - Birmingham
+  code: BIR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.0174336
+    minlatitude: 52.385998
+    maxlongitude: -1.7098294
+    maxlatitude: 52.568874
+    latitude: 52.486244
+    longitude: -1.890401
+- name: Bromley
+  names:
+  - Bromley
+  code: BRY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0149361
+    minlatitude: 51.354004
+    maxlongitude: 0.0690479
+    maxlatitude: 51.435665
+    latitude: 51.406025
+    longitude: 0.013156
+- name: Newtownabbey
+  names:
+  - Newtownabbey
+  code: NTA
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.68528
+    longitude: -5.9645
+- name: Durham
+  names:
+  - Durham
+  code: DUR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.6070484
+    minlatitude: 54.735897
+    maxlongitude: -1.4974256
+    maxlatitude: 54.82761
+    latitude: 54.77525
+    longitude: -1.584852
+- name: Hounslow
+  names:
+  - Hounslow
+  code: HNS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4168672
+    minlatitude: 51.445736
+    maxlongitude: -0.3458572
+    maxlatitude: 51.500317
+    latitude: 51.460922
+    longitude: -0.373149
+- name: Dumfries and Galloway
+  names:
+  - Dumfries and Galloway
+  code: DGY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.187639
+    minlatitude: 54.63324
+    maxlongitude: -2.8573637
+    maxlatitude: 55.46405
+    latitude: 54.988285
+    longitude: -3.8577838
+- name: Monmouthshire [Sir Fynwy GB-FYN]
+  names:
+  - Sir Fynwy
+  code: MON
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.0161242
+    minlatitude: 51.81021
+    maxlongitude: -3.00958
+    maxlatitude: 51.820076
+    latitude: 51.815773
+    longitude: -3.0123792
+- name: Oxfordshire
+  names:
+  - Oxfordshire
+  code: OXF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.7195008
+    minlatitude: 51.45941
+    maxlongitude: -0.8700833
+    maxlatitude: 52.168472
+    latitude: 51.761204
+    longitude: -1.2464674
+- name: Perth and Kinross
+  names:
+  - Perth and Kinross
+  code: PKN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.7204447
+    minlatitude: 56.132435
+    maxlongitude: -3.044693
+    maxlatitude: 56.948635
+    latitude: 56.591736
+    longitude: -3.8557348
+- name: East Lothian
+  names:
+  - East Lothian
+  code: ELN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.0892804
+    minlatitude: 55.81732
+    maxlongitude: -2.3642352
+    maxlatitude: 56.07929
+    latitude: 55.949337
+    longitude: -2.7704463
+- name: Inverclyde
+  names:
+  - Inverclyde
+  code: IVC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.898774
+    minlatitude: 55.837975
+    maxlongitude: -4.597316
+    maxlatitude: 55.963783
+    latitude: 55.911808
+    longitude: -4.735906
+- name: North Tyneside
+  names:
+  - North Tyneside
+  code: NTY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.008
+    longitude: -1.546
+- name: Sheffield
+  names:
+  - Sheffield
+  code: SHF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.6639593
+    minlatitude: 53.30455
+    maxlongitude: -1.334953
+    maxlatitude: 53.48688
+    latitude: 53.38113
+    longitude: -1.470085
+- name: Cookstown
+  names:
+  - Cookstown
+  code: CKT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.762776
+    minlatitude: 54.62426
+    maxlongitude: -6.727683
+    maxlatitude: 54.66077
+    latitude: 54.641815
+    longitude: -6.7443895
+- name: West Berkshire
+  names:
+  - West Berkshire
+  code: WBK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5880882
+    minlatitude: 51.32898
+    maxlongitude: -0.9817455
+    maxlatitude: 51.56371
+    latitude: 51.46599
+    longitude: -1.2814014
+- name: Ballymena
+  names:
+  - Ballymena
+  code: BLA
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.86538
+    longitude: -6.28038
+- name: Wirral
+  names:
+  - Wirral
+  code: WRL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 53.333332
+    longitude: -3.0833333
+- name: Antrim
+  names:
+  - Antrim
+  code: ANT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.249231
+    minlatitude: 54.695007
+    maxlongitude: -6.167606
+    maxlatitude: 54.744747
+    latitude: 54.719532
+    longitude: -6.2072496
+- name: Hillingdon
+  names:
+  - Hillingdon
+  code: HIL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.5103751
+    minlatitude: 51.453266
+    maxlongitude: -0.3759291
+    maxlatitude: 51.631756
+    latitude: 51.535183
+    longitude: -0.4481378
+- name: Surrey
+  names:
+  - Surrey
+  code: SRY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.8489291
+    minlatitude: 51.071495
+    maxlongitude: 0.0582163
+    maxlatitude: 51.47153
+    latitude: 51.31476
+    longitude: -0.5599501
+- name: Worcestershire
+  names:
+  - Worcestershire
+  code: WOR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.6632102
+    minlatitude: 51.966557
+    maxlongitude: -1.7574089
+    maxlatitude: 52.455303
+    latitude: 52.254524
+    longitude: -2.2668383
+- name: North Somerset
+  names:
+  - North Somerset
+  code: NSM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.1153295
+    minlatitude: 51.29062
+    maxlongitude: -2.5872009
+    maxlatitude: 51.50268
+    latitude: 51.440968
+    longitude: -2.742653
+- name: Powys
+  names:
+  - Powys
+  code: POW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.9293532
+    minlatitude: 51.752747
+    maxlongitude: -2.9496346
+    maxlatitude: 52.90156
+    latitude: 52.143085
+    longitude: -3.373682
+- name: Redbridge
+  names:
+  - Redbridge
+  code: RDB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.0086784
+    minlatitude: 51.543568
+    maxlongitude: 0.149485
+    maxlatitude: 51.62902
+    latitude: 51.58861
+    longitude: 0.0823976
+- name: Isle of Anglesey [Sir Ynys Môn GB-YNM]
+  names:
+  - Ynys MÃ´n
+  code: AGY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.5885415
+    minlatitude: 53.126602
+    maxlongitude: -4.0401793
+    maxlatitude: 53.430096
+    latitude: 53.265324
+    longitude: -4.42914
+- name: Cornwall
+  names:
+  - Cornwall and Isles of Scilly
+  code: CON
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.722622
+    minlatitude: 49.955414
+    maxlongitude: -4.1661754
+    maxlatitude: 50.93127
+    latitude: 50.50363
+    longitude: -4.6524982
+- name: Kingston upon Hull, City of
+  names:
+  - City of Kingston upon Hull
+  code: KHL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4225751
+    minlatitude: 53.719517
+    maxlongitude: -0.2413964
+    maxlatitude: 53.81325
+    latitude: 53.74567
+    longitude: -0.3367413
+- name: Staffordshire
+  names:
+  - Staffordshire
+  code: STS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.470842
+    minlatitude: 52.423244
+    maxlongitude: -1.585467
+    maxlatitude: 53.226223
+    latitude: 52.769794
+    longitude: -2.1045244
+- name: Barnet
+  names:
+  - Barnet
+  code: BNE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2562643
+    minlatitude: 51.635704
+    maxlongitude: -0.1198855
+    maxlatitude: 51.679974
+    latitude: 51.65692
+    longitude: -0.1949252
+- name: St. Helens
+  names:
+  - St. Helens
+  code: SHN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.780963
+    minlatitude: 53.416115
+    maxlongitude: -2.677342
+    maxlatitude: 53.486027
+    latitude: 53.456306
+    longitude: -2.737095
+- name: Wrexham [Wrecsam GB-WRC]
+  names:
+  - Wrecsam
+  code: WRX
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.0308428
+    minlatitude: 53.02911
+    maxlongitude: -2.945493
+    maxlatitude: 53.07306
+    latitude: 53.04304
+    longitude: -2.992494
+- name: Nottingham
+  names:
+  - Nottingham
+  code: NGM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.24829
+    minlatitude: 52.889
+    maxlongitude: -1.0918336
+    maxlatitude: 53.019047
+    latitude: 52.954784
+    longitude: -1.1581086
+- name: South Ayrshire
+  names:
+  - South Ayrshire
+  code: SAY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.1242332
+    minlatitude: 54.997654
+    maxlongitude: -4.3988595
+    maxlatitude: 55.60187
+    latitude: 55.27011
+    longitude: -4.652418
+- name: East Ayrshire
+  names:
+  - East Ayrshire
+  code: EAY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.638612
+    minlatitude: 55.13805
+    maxlongitude: -3.957057
+    maxlatitude: 55.763786
+    latitude: 55.459232
+    longitude: -4.333803
+- name: Isles of Scilly
+  names:
+  - Isles of Scilly
+  code: IOS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.4179373
+    minlatitude: 49.864666
+    maxlongitude: -6.2441587
+    maxlatitude: 49.981358
+    latitude: 49.925003
+    longitude: -6.298672
+- name: Leicester
+  names:
+  - Leicester
+  code: LCE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.2159877
+    minlatitude: 52.58065
+    maxlongitude: -1.0462128
+    maxlatitude: 52.691505
+    latitude: 52.63688
+    longitude: -1.1397592
+- name: Devon
+  names:
+  - Devon
+  code: DEV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.6806564
+    minlatitude: 50.201897
+    maxlongitude: -2.8866405
+    maxlatitude: 51.246197
+    latitude: 50.777214
+    longitude: -3.999461
+- name: Fife
+  names:
+  - Fife
+  code: FIF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.7399185
+    minlatitude: 56.005882
+    maxlongitude: -2.5443316
+    maxlatitude: 56.453316
+    latitude: 56.208206
+    longitude: -3.1495175
+- name: Liverpool
+  names:
+  - Liverpool
+  code: LIV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.008754
+    minlatitude: 53.335903
+    maxlongitude: -2.8129382
+    maxlatitude: 53.503906
+    latitude: 53.40837
+    longitude: -2.9915726
+- name: Newcastle upon Tyne
+  names:
+  - Newcastle upon Tyne
+  code: NET
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.7810817
+    minlatitude: 54.95944
+    maxlongitude: -1.532605
+    maxlatitude: 55.045303
+    latitude: 54.978252
+    longitude: -1.61778
+- name: Wokingham
+  names:
+  - Wokingham
+  code: WOK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.8765881
+    minlatitude: 51.38666
+    maxlongitude: -0.7925223
+    maxlatitude: 51.429806
+    latitude: 51.410458
+    longitude: -0.833861
+- name: Hartlepool
+  names:
+  - Hartlepool
+  code: HPL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.2679251
+    minlatitude: 54.62166
+    maxlongitude: -1.1577291
+    maxlatitude: 54.72333
+    latitude: 54.691746
+    longitude: -1.212926
+- name: Milton Keynes
+  names:
+  - Milton Keynes
+  code: MIK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.7807044
+    minlatitude: 52.02358
+    maxlongitude: -0.7345839
+    maxlatitude: 52.052696
+    latitude: 52.040623
+    longitude: -0.7594171
+- name: Oldham
+  names:
+  - Oldham
+  code: OLD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.1437647
+    minlatitude: 53.498962
+    maxlongitude: -2.04359
+    maxlatitude: 53.573326
+    latitude: 53.54093
+    longitude: -2.1113658
+- name: Torbay
+  names:
+  - Torbay
+  code: TOB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.5827901
+    minlatitude: 50.45102
+    maxlongitude: -3.4804955
+    maxlatitude: 50.50246
+    latitude: 50.46192
+    longitude: -3.525315
+- name: Wigan
+  names:
+  - Wigan
+  code: WGN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.70243
+    minlatitude: 53.501484
+    maxlongitude: -2.6003478
+    maxlatitude: 53.573044
+    latitude: 53.545063
+    longitude: -2.6325073
+- name: Cambridgeshire
+  names:
+  - Cambridgeshire
+  code: CAM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4999075
+    minlatitude: 52.00578
+    maxlongitude: 0.5144548
+    maxlatitude: 52.739983
+    latitude: 52.205296
+    longitude: 0.1218195
+- name: Kensington and Chelsea
+  names:
+  - Kensington and Chelsea
+  code: KEC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2287276
+    minlatitude: 51.477222
+    maxlongitude: -0.1498439
+    maxlatitude: 51.530354
+    latitude: 51.49908
+    longitude: -0.1938253
+- name: Swansea [Abertawe GB-ATA]
+  names:
+  - Abertawe
+  code: SWA
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.967001
+    minlatitude: 51.61188
+    maxlongitude: -3.9289927
+    maxlatitude: 51.63915
+    latitude: 51.62144
+    longitude: -3.943646
+- name: Croydon
+  names:
+  - Croydon
+  code: CRY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.1537876
+    minlatitude: 51.329803
+    maxlongitude: -0.0106914
+    maxlatitude: 51.405853
+    latitude: 51.376163
+    longitude: -0.098234
+- name: Blaenau Gwent
+  names:
+  - Blaenau Gwent
+  code: BGW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.3100855
+    minlatitude: 51.681286
+    maxlongitude: -3.1060076
+    maxlatitude: 51.82548
+    latitude: 51.78758
+    longitude: -3.2043931
+- name: Bury
+  names:
+  - Bury
+  code: BUR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.3518794
+    minlatitude: 53.549732
+    maxlongitude: -2.2425392
+    maxlatitude: 53.644733
+    latitude: 53.59335
+    longitude: -2.2966053
+- name: Eilean Siar
+  names:
+  - Western Isles
+  code: ELS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 57.76
+    longitude: -7.02
+- name: Flintshire [Sir y Fflint GB-FFL]
+  names:
+  - Sir y Fflint
+  code: FLN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.400597
+    minlatitude: 53.072124
+    maxlongitude: -2.920276
+    maxlatitude: 53.35624
+    latitude: 53.19779
+    longitude: -3.1599793
+- name: Harrow
+  names:
+  - Harrow
+  code: HRW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3864607
+    minlatitude: 51.553062
+    maxlongitude: -0.2797453
+    maxlatitude: 51.63081
+    latitude: 51.58056
+    longitude: -0.341995
+- name: Scottish Borders, The
+  names:
+  - The Scottish Border
+  code: SCB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.539803
+    minlatitude: 55.108345
+    maxlongitude: -2.0343537
+    maxlatitude: 55.94624
+    latitude: 55.54857
+    longitude: -2.7861388
+- name: Somerset
+  names:
+  - Somerset
+  code: SOM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.839803
+    minlatitude: 50.8209
+    maxlongitude: -2.244434
+    maxlatitude: 51.329346
+    latitude: 51.0587
+    longitude: -2.9499066
+- name: Argyll and Bute
+  names:
+  - Argyll and Bute
+  code: AGB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.1124578
+    minlatitude: 55.274487
+    maxlongitude: -4.5598516
+    maxlatitude: 56.70485
+    latitude: 56.370045
+    longitude: -5.0318966
+- name: East Sussex
+  names:
+  - East Sussex
+  code: ESX
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.1358669
+    minlatitude: 50.734344
+    maxlongitude: 0.8678558
+    maxlatitude: 51.147404
+    latitude: 50.928596
+    longitude: 0.2764899
+- name: Newham
+  names:
+  - Newham
+  code: NWM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0212642
+    minlatitude: 51.497707
+    maxlongitude: 0.0976766
+    maxlatitude: 51.563988
+    latitude: 51.525517
+    longitude: 0.0352163
+- name: Stirling
+  names:
+  - Stirling
+  code: STG
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.9750001
+    minlatitude: 56.091873
+    maxlongitude: -3.9043965
+    maxlatitude: 56.14554
+    latitude: 56.116524
+    longitude: -3.936903
+- name: Bolton
+  names:
+  - Bolton
+  code: BOL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.5456288
+    minlatitude: 53.546658
+    maxlongitude: -2.3630087
+    maxlatitude: 53.63295
+    latitude: 53.576866
+    longitude: -2.4282193
+- name: Wiltshire
+  names:
+  - Wiltshire
+  code: WIL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.3655984
+    minlatitude: 50.944992
+    maxlongitude: -1.4857261
+    maxlatitude: 51.70314
+    latitude: 51.246273
+    longitude: -1.9922127
+- name: Cardiff [Caerdydd GB-CRD]
+  names:
+  - Caerdydd
+  code: CRF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2823818
+    minlatitude: 51.445744
+    maxlongitude: -3.1215184
+    maxlatitude: 51.560905
+    latitude: 51.481583
+    longitude: -3.17909
+- name: Rochdale
+  names:
+  - Rochdale
+  code: RCH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.2717896
+    minlatitude: 53.57803
+    maxlongitude: -2.1117022
+    maxlatitude: 53.670753
+    latitude: 53.609715
+    longitude: -2.1561
+- name: South Lanarkshire
+  names:
+  - South Lanarkshire
+  code: SLK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.282572
+    minlatitude: 55.290768
+    maxlongitude: -3.396407
+    maxlatitude: 55.84444
+    latitude: 55.524303
+    longitude: -3.7035077
+- name: Buckinghamshire
+  names:
+  - Buckinghamshire
+  code: BKM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1406962
+    minlatitude: 51.48548
+    maxlongitude: -0.4766168
+    maxlatitude: 52.08152
+    latitude: 51.80722
+    longitude: -0.8127664
+- name: Kent
+  names:
+  - Kent
+  code: KEN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.0335197
+    minlatitude: 50.91053
+    maxlongitude: 1.4496433
+    maxlatitude: 51.48031
+    latitude: 51.278706
+    longitude: 0.5217254
+- name: Northamptonshire
+  names:
+  - Northamptonshire
+  code: NTH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.332346
+    minlatitude: 51.97728
+    maxlongitude: -0.341608
+    maxlatitude: 52.6436
+    latitude: 52.272995
+    longitude: -0.8755515
+- name: Walsall
+  names:
+  - Walsall
+  code: WLL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.0401928
+    minlatitude: 52.550884
+    maxlongitude: -1.8871439
+    maxlatitude: 52.638325
+    latitude: 52.586212
+    longitude: -1.982919
+- name: Camden
+  names:
+  - Camden
+  code: CMD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2135012
+    minlatitude: 51.512653
+    maxlongitude: -0.1053499
+    maxlatitude: 51.57298
+    latitude: 51.551704
+    longitude: -0.1588255
+- name: Dundee City
+  names:
+  - Dundee City
+  code: DND
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.0980246
+    minlatitude: 56.45092
+    maxlongitude: -2.8356419
+    maxlatitude: 56.505596
+    latitude: 56.462017
+    longitude: -2.970721
+- name: Bath and North East Somerset
+  names:
+  - Bath and North East Somerset
+  code: BAS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.7059546
+    minlatitude: 51.2731
+    maxlongitude: -2.2785437
+    maxlatitude: 51.439537
+    latitude: 51.36363
+    longitude: -2.4399986
+- name: Bradford
+  names:
+  - Bradford
+  code: BRD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.8309082
+    minlatitude: 53.747143
+    maxlongitude: -1.6778126
+    maxlatitude: 53.846848
+    latitude: 53.795982
+    longitude: -1.759398
+- name: Derby
+  names:
+  - Derby
+  code: DER
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.556857
+    minlatitude: 52.86104
+    maxlongitude: -1.3830782
+    maxlatitude: 52.968136
+    latitude: 52.92253
+    longitude: -1.4746186
+- name: Middlesbrough
+  names:
+  - Middlesbrough
+  code: MDB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.2794684
+    minlatitude: 54.51755
+    maxlongitude: -1.1666256
+    maxlatitude: 54.59152
+    latitude: 54.574226
+    longitude: -1.234956
+- name: Southend-on-Sea
+  names:
+  - Southend-on-Sea
+  code: SOS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.6229178
+    minlatitude: 51.52091
+    maxlongitude: 0.8209341
+    maxlatitude: 51.576797
+    latitude: 51.545925
+    longitude: 0.7077123
+- name: Clackmannanshire
+  names:
+  - Clackmannanshire
+  code: CLK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8850904
+    minlatitude: 56.072426
+    maxlongitude: -3.571412
+    maxlatitude: 56.217236
+    latitude: 56.124138
+    longitude: -3.758379
+- name: North Ayrshire
+  names:
+  - North Ayrshire
+  code: NAY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.397799
+    minlatitude: 55.424244
+    maxlongitude: -4.492474
+    maxlatitude: 55.892612
+    latitude: 55.71139
+    longitude: -4.7299833
+- name: Nottinghamshire
+  names:
+  - Nottinghamshire
+  code: NTT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.3445929
+    minlatitude: 52.789436
+    maxlongitude: -0.666263
+    maxlatitude: 53.50248
+    latitude: 53.128506
+    longitude: -0.9030999
+- name: Blackburn with Darwen
+  names:
+  - Blackburn with Darwen
+  code: BBD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.5647705
+    minlatitude: 53.61657
+    maxlongitude: -2.362643
+    maxlatitude: 53.781803
+    latitude: 53.68986
+    longitude: -2.4678626
+- name: Down
+  names:
+  - Down
+  code: DOW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.07591
+    minlatitude: 54.16699
+    maxlongitude: -5.52269
+    maxlatitude: 54.49568
+    latitude: 54.34129
+    longitude: -5.7484856
+- name: Strabane
+  names:
+  - Strabane
+  code: STB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.82727
+    longitude: -7.463579
+- name: East Renfrewshire
+  names:
+  - East Renfrewshire
+  code: ERW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.550953
+    minlatitude: 55.675797
+    maxlongitude: -4.2187586
+    maxlatitude: 55.82315
+    latitude: 55.74765
+    longitude: -4.3514204
+- name: Leicestershire
+  names:
+  - Leicestershire
+  code: LEC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5975473
+    minlatitude: 52.392155
+    maxlongitude: -0.6641109
+    maxlatitude: 52.977657
+    latitude: 52.740124
+    longitude: -1.1405925
+- name: Newry and Mourne
+  names:
+  - Newry and Mourne
+  code: NYM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.6690297
+    minlatitude: 54.02261
+    maxlongitude: -5.87187
+    maxlatitude: 54.27419
+    latitude: 54.127247
+    longitude: -6.508945
+- name: Southwark
+  names:
+  - Southwark
+  code: SWK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 51.50278
+    longitude: -0.087738
+- name: Castlereagh
+  names:
+  - Castlereagh
+  code: CSR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.57718
+    longitude: -5.88821
+- name: Suffolk
+  names:
+  - Suffolk
+  code: SFK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.3399747
+    minlatitude: 51.93213
+    maxlongitude: 1.76303
+    maxlatitude: 52.54952
+    latitude: 52.18725
+    longitude: 0.9707801
+- name: West Dunbartonshire
+  names:
+  - West Dunbartonshire
+  code: WDU
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.6599083
+    minlatitude: 55.889153
+    maxlongitude: -4.3754897
+    maxlatitude: 56.07314
+    latitude: 55.965065
+    longitude: -4.5063596
+- name: Dudley
+  names:
+  - Dudley
+  code: DUD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.1567843
+    minlatitude: 52.473545
+    maxlongitude: -2.0571866
+    maxlatitude: 52.558174
+    latitude: 52.512257
+    longitude: -2.081112
+- name: Telford and Wrekin
+  names:
+  - Telford and Wrekin
+  code: TFW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.6673646
+    minlatitude: 52.614544
+    maxlongitude: -2.3122115
+    maxlatitude: 52.828373
+    latitude: 52.740993
+    longitude: -2.4868586
+- name: Torfaen [Tor-faen]
+  names:
+  - Tor-faen
+  code: TOF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 51.696
+    longitude: -3.063
+- name: Banbridge
+  names:
+  - Banbridge
+  code: BNB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.297632
+    minlatitude: 54.330414
+    maxlongitude: -6.237722
+    maxlatitude: 54.372246
+    latitude: 54.34873
+    longitude: -6.27048
+- name: Armagh
+  names:
+  - Armagh
+  code: ARM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.34875
+    longitude: -6.65161
+- name: Highland
+  names:
+  - Highland
+  code: HLD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.7896385
+    minlatitude: 56.497177
+    maxlongitude: -3.0240042
+    maxlatitude: 58.69735
+    latitude: 57.359615
+    longitude: -5.099276
+- name: Warrington
+  names:
+  - Warrington
+  code: WRT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.697724
+    minlatitude: 53.35365
+    maxlongitude: -2.4493625
+    maxlatitude: 53.43656
+    latitude: 53.390045
+    longitude: -2.59695
+- name: Coleraine
+  names:
+  - Coleraine
+  code: CLR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.69841
+    minlatitude: 55.106716
+    maxlongitude: -6.6333094
+    maxlatitude: 55.157135
+    latitude: 55.13258
+    longitude: -6.6646104
+- name: Manchester
+  names:
+  - Manchester
+  code: MAN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.300097
+    minlatitude: 53.399902
+    maxlongitude: -2.1470876
+    maxlatitude: 53.544586
+    latitude: 53.48076
+    longitude: -2.2426305
+- name: Sandwell
+  names:
+  - Sandwell
+  code: SAW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.097114
+    minlatitude: 52.460697
+    maxlongitude: -1.918163
+    maxlatitude: 52.569057
+    latitude: 52.536167
+    longitude: -2.010793
+- name: Sunderland
+  names:
+  - Sunderland
+  code: SND
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.4664999
+    minlatitude: 54.847153
+    maxlongitude: -1.3457474
+    maxlatitude: 54.94417
+    latitude: 54.906868
+    longitude: -1.383801
+- name: Swindon
+  names:
+  - Swindon
+  code: SWD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.8651375
+    minlatitude: 51.530334
+    maxlongitude: -1.7194726
+    maxlatitude: 51.60913
+    latitude: 51.555775
+    longitude: -1.7797176
+- name: Brighton and Hove
+  names:
+  - Brighton and Hove
+  code: BNH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2450771
+    minlatitude: 50.799145
+    maxlongitude: -0.0160306
+    maxlatitude: 50.892372
+    latitude: 50.83516
+    longitude: -0.1261028
+- name: East Riding of Yorkshire
+  names:
+  - East Riding of Yorkshire
+  code: ERY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1035672
+    minlatitude: 53.572315
+    maxlongitude: 0.1478172
+    maxlatitude: 54.176514
+    latitude: 53.82159
+    longitude: -0.7189977
+- name: Glasgow City
+  names:
+  - Glasgow City
+  code: GLG
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.3932004
+    minlatitude: 55.78128
+    maxlongitude: -4.071717
+    maxlatitude: 55.92964
+    latitude: 55.86424
+    longitude: -4.251806
+- name: Bristol, City of
+  names:
+  - City of Bristol
+  code: BST
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.7305164
+    minlatitude: 51.392544
+    maxlongitude: -2.4509025
+    maxlatitude: 51.544434
+    latitude: 51.454514
+    longitude: -2.58791
+- name: Moray
+  names:
+  - Moray
+  code: MRY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.764745
+    minlatitude: 57.068455
+    maxlongitude: -2.6498225
+    maxlatitude: 57.730045
+    latitude: 57.511547
+    longitude: -3.2483773
+- name: Moyle
+  names:
+  - Moyle
+  code: MYL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.53739
+    minlatitude: 54.98393
+    maxlongitude: -5.9768
+    maxlatitude: 55.31294
+    latitude: 55.114937
+    longitude: -6.153784
+- name: Tower Hamlets
+  names:
+  - Tower Hamlets
+  code: TWH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0801899
+    minlatitude: 51.484505
+    maxlongitude: 0.0098639
+    maxlatitude: 51.544685
+    latitude: 51.52026
+    longitude: -0.0293396
+- name: Derry
+  names:
+  - Derry
+  code: DRY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.360692
+    minlatitude: 54.96971
+    maxlongitude: -7.262599
+    maxlatitude: 55.043617
+    latitude: 54.996613
+    longitude: -7.3085747
+- name: Bridgend [Pen-y-bont ar Ogwr GB-POG]
+  names:
+  - Pen-y-bont ar Ogwr
+  code: BGE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.6716168
+    minlatitude: 51.4822
+    maxlongitude: -3.5250058
+    maxlatitude: 51.53361
+    latitude: 51.504288
+    longitude: -3.576945
+- name: Barnsley
+  names:
+  - Barnsley
+  code: BNS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5282373
+    minlatitude: 53.527157
+    maxlongitude: -1.3683434
+    maxlatitude: 53.601337
+    latitude: 53.55263
+    longitude: -1.479726
+- name: Hampshire
+  names:
+  - Hampshire
+  code: HAM
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.957277
+    minlatitude: 50.706017
+    maxlongitude: -0.7293873
+    maxlatitude: 51.383915
+    latitude: 51.08952
+    longitude: -1.216844
+- name: North East Lincolnshire
+  names:
+  - North East Lincolnshire
+  code: NEL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2921103
+    minlatitude: 53.433575
+    maxlongitude: 0.0250924
+    maxlatitude: 53.639965
+    latitude: 53.541855
+    longitude: -0.1263736
+- name: Cheshire
+  names:
+  - Cheshire
+  code: CHS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.128278
+    minlatitude: 52.94715
+    maxlongitude: -1.9747939
+    maxlatitude: 53.480915
+    latitude: 53.232635
+    longitude: -2.6103158
+- name: Carmarthenshire [Sir Gaerfyrddin GB-GFY]
+  names:
+  - Sir Gaerfyrddin
+  code: CMN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.723076
+    minlatitude: 51.654774
+    maxlongitude: -3.647125
+    maxlatitude: 52.142395
+    latitude: 51.85985
+    longitude: -4.2608533
+- name: Greenwich
+  names:
+  - Greenwich
+  code: GRE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 51.48258
+    longitude: -0.0076589
+- name: Lisburn
+  names:
+  - Lisburn
+  code: LSB
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.1098256
+    minlatitude: 54.4945
+    maxlongitude: -6.014759
+    maxlatitude: 54.538216
+    latitude: 54.516247
+    longitude: -6.0580106
+- name: Solihull
+  names:
+  - Solihull
+  code: SOL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.8278389
+    minlatitude: 52.391846
+    maxlongitude: -1.7373952
+    maxlatitude: 52.4583
+    latitude: 52.41181
+    longitude: -1.77761
+- name: Dorset
+  names:
+  - Dorset
+  code: DOR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.9615946
+    minlatitude: 50.513073
+    maxlongitude: -1.6816633
+    maxlatitude: 51.080997
+    latitude: 50.739067
+    longitude: -2.3382347
+- name: Orkney Islands
+  names:
+  - Orkney Islands
+  code: ORK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.5072536
+    minlatitude: 58.67305
+    maxlongitude: -2.3704314
+    maxlatitude: 59.39279
+    latitude: 59.04291
+    longitude: -3.1542156
+- name: Ceredigion [Sir Ceredigion]
+  names:
+  - Ceredigion [Sir Ceredigion]
+  code: CGN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 52.407288
+    longitude: -4.069603
+- name: Carrickfergus
+  names:
+  - Carrickfergus
+  code: CKF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.856627
+    minlatitude: 54.69878
+    maxlongitude: -5.767075
+    maxlatitude: 54.745335
+    latitude: 54.72619
+    longitude: -5.8101206
+- name: Halton
+  names:
+  - Halton
+  code: HAL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.8324573
+    minlatitude: 53.30502
+    maxlongitude: -2.5952225
+    maxlatitude: 53.40254
+    latitude: 53.349026
+    longitude: -2.7136912
+- name: Thurrock
+  names:
+  - Thurrock
+  code: THR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.2104604
+    minlatitude: 51.451004
+    maxlongitude: 0.5507865
+    maxlatitude: 51.567818
+    latitude: 51.493454
+    longitude: 0.3529197
+- name: Vale of Glamorgan, The [Bro Morgannwg GB-BMG]
+  names:
+  - The Vale of Glamorgan
+  code: VGL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.6439085
+    minlatitude: 51.381344
+    maxlongitude: -3.1637876
+    maxlatitude: 51.515343
+    latitude: 51.44436
+    longitude: -3.4151165
+- name: Ards
+  names:
+  - Ards
+  code: ARD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.83282
+    minlatitude: 54.33095
+    maxlongitude: -5.42679
+    maxlatitude: 54.67009
+    latitude: 54.589966
+    longitude: -5.5984974
+- name: Enfield
+  names:
+  - Enfield
+  code: ENF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.153915
+    minlatitude: 51.63374
+    maxlongitude: -0.0067053
+    maxlatitude: 51.693756
+    latitude: 51.652298
+    longitude: -0.0807119
+- name: Magherafelt
+  names:
+  - Magherafelt
+  code: MFT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.75639
+    longitude: -6.60636
+- name: Norfolk
+  names:
+  - Norfolk
+  code: NFK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.1535552
+    minlatitude: 52.355366
+    maxlongitude: 1.7454611
+    maxlatitude: 52.98944
+    latitude: 52.613968
+    longitude: 0.8864021
+- name: Stoke-on-Trent
+  names:
+  - Stoke-on-Trent
+  code: STE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.2402465
+    minlatitude: 52.951332
+    maxlongitude: -2.07924
+    maxlatitude: 53.09255
+    latitude: 53.002666
+    longitude: -2.179404
+- name: Ballymoney
+  names:
+  - Ballymoney
+  code: BLY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.07203
+    longitude: -6.51699
+- name: Bournemouth
+  names:
+  - Bournemouth
+  code: BMH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.9788195
+    minlatitude: 50.709255
+    maxlongitude: -1.7407334
+    maxlatitude: 50.798893
+    latitude: 50.719166
+    longitude: -1.880769
+- name: West Lothian
+  names:
+  - West Lothian
+  code: WLN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8312583
+    minlatitude: 55.770718
+    maxlongitude: -3.3866286
+    maxlatitude: 56.002197
+    latitude: 55.90702
+    longitude: -3.5517168
+- name: Aberdeenshire
+  names:
+  - Siorrachd Obar Dheathain
+  code: ABD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.8016481
+    minlatitude: 56.747185
+    maxlongitude: -1.7644527
+    maxlatitude: 57.701206
+    latitude: 57.162144
+    longitude: -2.7194166
+- name: Hammersmith and Fulham
+  names:
+  - Hammersmith and Fulham
+  code: HMF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2550903
+    minlatitude: 51.463898
+    maxlongitude: -0.1776272
+    maxlatitude: 51.532753
+    latitude: 51.499016
+    longitude: -0.2291497
+- name: Lambeth
+  names:
+  - Lambeth
+  code: LBH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.1512314
+    minlatitude: 51.41099
+    maxlongitude: -0.0783067
+    maxlatitude: 51.509872
+    latitude: 51.45715
+    longitude: -0.1230681
+- name: Lewisham
+  names:
+  - Lewisham
+  code: LEW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0750933
+    minlatitude: 51.41355
+    maxlongitude: 0.0390452
+    maxlatitude: 51.493565
+    latitude: 51.44146
+    longitude: -0.0117006
+- name: Waltham Forest
+  names:
+  - Waltham Forest
+  code: WFT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.0622746
+    minlatitude: 51.549927
+    maxlongitude: 0.0257123
+    maxlatitude: 51.646526
+    latitude: 51.58864
+    longitude: -0.0117625
+- name: Medway
+  names:
+  - Medway
+  code: MDW
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.3973173
+    minlatitude: 51.327896
+    maxlongitude: 0.723711
+    maxlatitude: 51.487423
+    latitude: 51.408493
+    longitude: 0.5878457
+- name: Barking and Dagenham
+  names:
+  - Barking and Dagenham
+  code: BDG
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.0666489
+    minlatitude: 51.51138
+    maxlongitude: 0.1901898
+    maxlatitude: 51.599438
+    latitude: 51.546482
+    longitude: 0.1293497
+- name: Hertfordshire
+  names:
+  - Hertfordshire
+  code: HRT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.7457891
+    minlatitude: 51.599617
+    maxlongitude: 0.1955669
+    maxlatitude: 52.080536
+    latitude: 51.809784
+    longitude: -0.2376744
+- name: Herefordshire, County of
+  names:
+  - County of Herefordshire
+  code: HEF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.1419148
+    minlatitude: 51.825943
+    maxlongitude: -2.3379667
+    maxlatitude: 52.395473
+    latitude: 52.076515
+    longitude: -2.6544182
+- name: Haringey
+  names:
+  - Haringey
+  code: HRY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.1712852
+    minlatitude: 51.564636
+    maxlongitude: -0.0414478
+    maxlatitude: 51.611214
+    latitude: 51.59061
+    longitude: -0.1109709
+- name: Lancashire
+  names:
+  - Lancashire
+  code: LAN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.057182
+    minlatitude: 53.482765
+    maxlongitude: -2.0450728
+    maxlatitude: 54.23956
+    latitude: 53.96901
+    longitude: -2.6276908
+- name: Denbighshire [Sir Ddinbych GB-DDB]
+  names:
+  - Sir Ddinbych
+  code: DEN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Dungannon
+  names:
+  - Dungannon
+  code: DGN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.798684
+    minlatitude: 54.48783
+    maxlongitude: -6.730651
+    maxlatitude: 54.52382
+    latitude: 54.508274
+    longitude: -6.7669353
+- name: Havering
+  names:
+  - Havering
+  code: HAV
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.1381569
+    minlatitude: 51.487278
+    maxlongitude: 0.3339957
+    maxlatitude: 51.631733
+    latitude: 51.577923
+    longitude: 0.2120829
+- name: Midlothian
+  names:
+  - Midlothian
+  code: MLN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.3690393
+    minlatitude: 55.71035
+    maxlongitude: -2.8462381
+    maxlatitude: 55.932022
+    latitude: 55.829224
+    longitude: -3.1338427
+- name: Belfast
+  names:
+  - Belfast
+  code: BFS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.04526
+    minlatitude: 54.53055
+    maxlongitude: -5.8080044
+    maxlatitude: 54.65921
+    latitude: 54.597286
+    longitude: -5.93012
+- name: Gateshead
+  names:
+  - Gateshead
+  code: GAT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.661696
+    minlatitude: 54.913673
+    maxlongitude: -1.516398
+    maxlatitude: 54.970535
+    latitude: 54.95268
+    longitude: -1.603411
+- name: Slough
+  names:
+  - Slough
+  code: SLG
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.6601652
+    minlatitude: 51.467983
+    maxlongitude: -0.4900443
+    maxlatitude: 51.54584
+    latitude: 51.51054
+    longitude: -0.5950406
+- name: Trafford
+  names:
+  - Trafford
+  code: TRF
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.4783332
+    minlatitude: 53.357407
+    maxlongitude: -2.2530396
+    maxlatitude: 53.48037
+    latitude: 53.421513
+    longitude: -2.3517263
+- name: Luton
+  names:
+  - Luton
+  code: LUT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.5059485
+    minlatitude: 51.854473
+    maxlongitude: -0.349923
+    maxlatitude: 51.92774
+    latitude: 51.87867
+    longitude: -0.4200255
+- name: Portsmouth
+  names:
+  - Portsmouth
+  code: POR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1724027
+    minlatitude: 50.750164
+    maxlongitude: -1.0206409
+    maxlatitude: 50.85931
+    latitude: 50.816666
+    longitude: -1.083333
+- name: Sefton
+  names:
+  - Sefton
+  code: SFT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 53.503445
+    longitude: -2.970359
+- name: Calderdale
+  names:
+  - Calderdale
+  code: CLD
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 53.716156
+    longitude: -1.85846
+- name: Ealing
+  names:
+  - Ealing
+  code: EAL
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4196215
+    minlatitude: 51.49047
+    maxlongitude: -0.2450868
+    maxlatitude: 51.559685
+    latitude: 51.525024
+    longitude: -0.3415002
+- name: East Dunbartonshire
+  names:
+  - East Dunbartonshire
+  code: EDU
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.4020524
+    minlatitude: 55.896088
+    maxlongitude: -4.046871
+    maxlatitude: 56.030296
+    latitude: 55.97552
+    longitude: -4.210515
+- name: Gloucestershire
+  names:
+  - Gloucestershire
+  code: GLS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.6875372
+    minlatitude: 51.577538
+    maxlongitude: -1.615202
+    maxlatitude: 52.11258
+    latitude: 51.864212
+    longitude: -2.2380335
+- name: Leeds
+  names:
+  - Leeds
+  code: LDS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.6740915
+    minlatitude: 53.730804
+    maxlongitude: -1.3973731
+    maxlatitude: 53.881203
+    latitude: 53.800755
+    longitude: -1.5490774
+- name: Hackney
+  names:
+  - Hackney
+  code: HCK
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 53.156315
+    longitude: -1.5750216
+- name: South Tyneside
+  names:
+  - South Tyneside
+  code: STY
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5355124
+    minlatitude: 54.928413
+    maxlongitude: -1.35239
+    maxlatitude: 55.01134
+    latitude: 54.96367
+    longitude: -1.4418634
+- name: Edinburgh, City of
+  names:
+  - City of Edinburgh
+  code: EDH
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.3330188
+    minlatitude: 55.890423
+    maxlongitude: -3.0777483
+    maxlatitude: 55.991707
+    latitude: 55.95325
+    longitude: -3.188267
+- name: Redcar and Cleveland
+  names:
+  - Redcar and Cleveland
+  code: RCC
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.2017289
+    minlatitude: 54.487835
+    maxlongitude: -0.7884143
+    maxlatitude: 54.647526
+    latitude: 54.539337
+    longitude: -1.031022
+- name: Sutton
+  names:
+  - Sutton
+  code: STN
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.2407825
+    minlatitude: 51.329254
+    maxlongitude: -0.1694085
+    maxlatitude: 51.388252
+    latitude: 51.361427
+    longitude: -0.193961
+- name: Peterborough
+  names:
+  - Peterborough
+  code: PTE
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4976634
+    minlatitude: 52.506096
+    maxlongitude: -0.1032429
+    maxlatitude: 52.663773
+    latitude: 52.5695
+    longitude: -0.2405299
+- name: Shropshire
+  names:
+  - Shropshire
+  code: SHR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2355652
+    minlatitude: 52.306267
+    maxlongitude: -2.2328985
+    maxlatitude: 52.998394
+    latitude: 52.586483
+    longitude: -2.7037501

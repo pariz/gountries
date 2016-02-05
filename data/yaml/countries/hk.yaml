@@ -1,0 +1,81 @@
+name:
+  common: Hong Kong
+  official: Hong Kong Special Administrative Region of the People's Republic of China
+  native:
+    eng:
+      common: Hong Kong
+      official: Hong Kong Special Administrative Region of the People's Republic of
+        China
+    zho:
+      common: 香港
+      official: 香港中国特别行政区的人民共和国
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .hk
+- .香港
+languages:
+  eng: English
+  zho: Chinese
+translations:
+  deu:
+    common: Hongkong
+    official: Sonderverwaltungszone der Volksrepublik China
+  fin:
+    common: Hongkong
+    official: Hong Kongin erityishallintoalue
+  fra:
+    common: Hong Kong
+    official: Région administrative spéciale de Hong Kong de la République populaire
+      de Chine
+  hrv:
+    common: Hong Kong
+    official: Hong Kong Posebnog upravnog područjaNarodne Republike Kine
+  ita:
+    common: Hong Kong
+    official: Hong Kong Regione amministrativa speciale della Repubblica Popolare
+      Cinese
+  jpn:
+    common: 香港
+    official: 中華人民共和国香港特別行政区
+  nld:
+    common: Hongkong
+    official: Hong Kong Speciale Administratieve Regio van de Volksrepubliek China
+  por:
+    common: Hong Kong
+    official: Hong Kong Região Administrativa Especial da República Popular da China
+  rus:
+    common: Гонконг
+    official: Hong Kong Специальный административный район Китайской Народной Республики
+      Китая
+  spa:
+    common: Hong Kong
+    official: Hong Kong Región Administrativa Especial de la República Popular China
+currencies:
+- HKD
+borders:
+- CHN
+codes:
+  alpha2: HK
+  alpha3: HKG
+  cioc: HKG
+  ccn3: "344"
+  callingcodes:
+  - "852"
+  internationalprefix: "001"
+geo:
+  region: Asia
+  subregion: Eastern Asia
+  continent: Asia
+  capital: City of Victoria
+  area: 1104
+coordinates:
+  longitudestring: 114 10 E
+  latitudestring: 22 15 N
+  minlongitude: 113.833336
+  minlatitude: 22.15
+  maxlongitude: 114.433334
+  maxlatitude: 22.566668
+  latitude: 22.336157
+  longitude: 114.186966

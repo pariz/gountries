@@ -1,0 +1,764 @@
+- name: Evros
+  names:
+  - Evros
+  code: "71"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.44332
+    minlatitude: 40.392235
+    maxlongitude: 26.63482
+    maxlatitude: 41.749058
+    latitude: 41.244377
+    longitude: 26.135942
+- name: Kyklades
+  names:
+  - Cyclades
+  - Kykladen
+  code: "82"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.26442
+    minlatitude: 36.332104
+    maxlongitude: 26.08613
+    maxlatitude: 37.999645
+    latitude: 37.00736
+    longitude: 25.257307
+- name: Fthiotis
+  names:
+  - Phtiotis
+  code: "06"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.826002
+    minlatitude: 38.499325
+    maxlongitude: 23.377928
+    maxlatitude: 39.273224
+    latitude: 38.999786
+    longitude: 22.333776
+- name: Evrytania
+  names:
+  - Evrytania
+  code: "05"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.37438
+    minlatitude: 38.67499
+    maxlongitude: 21.946356
+    maxlatitude: 39.2568
+    latitude: 39.003235
+    longitude: 21.71377
+- name: Argolis
+  names:
+  - Argolis
+  code: "11"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.391096
+    minlatitude: 37.28515
+    maxlongitude: 23.454617
+    maxlatitude: 37.860783
+    latitude: 37.652542
+    longitude: 22.858217
+- name: Achaïa
+  names:
+  - Achaia
+  - Akhaia
+  code: "13"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.350624
+    minlatitude: 37.779953
+    maxlongitude: 22.380152
+    maxlatitude: 38.34115
+    latitude: 38.11587
+    longitude: 21.95225
+- name: Kefallinia
+  names:
+  - Cephalonia
+  - Kefallinia
+  code: "23"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.336746
+    minlatitude: 38.05673
+    maxlongitude: 20.816065
+    maxlatitude: 38.475464
+    latitude: 38.17537
+    longitude: 20.569218
+- name: Ioannina
+  names:
+  - Yannina
+  code: "33"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.82188
+    minlatitude: 39.63826
+    maxlongitude: 20.872494
+    maxlatitude: 39.688797
+    latitude: 39.665028
+    longitude: 20.853746
+- name: Karditsa
+  names:
+  - Karditsa
+  code: "41"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.899723
+    minlatitude: 39.34875
+    maxlongitude: 21.93962
+    maxlatitude: 39.38067
+    latitude: 39.364025
+    longitude: 21.921406
+- name: Larisa
+  names:
+  - Larissa
+  code: "42"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.38518
+    minlatitude: 39.59734
+    maxlongitude: 22.463112
+    maxlatitude: 39.664677
+    latitude: 39.639023
+    longitude: 22.419125
+- name: Evvoia
+  names:
+  - Euboea
+  - Evvoia
+  code: "04"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.811127
+    minlatitude: 37.931126
+    maxlongitude: 24.685907
+    maxlatitude: 39.050568
+    latitude: 38.523605
+    longitude: 23.858473
+- name: Dodekanisos
+  names:
+  - Dodecanese
+  - Dodekanes
+  code: "81"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kerkyra
+  names:
+  - Corfu
+  - Kerkyra
+  - Korfu
+  code: "22"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.885988
+    minlatitude: 39.58979
+    maxlongitude: 19.93299
+    maxlatitude: 39.63359
+    latitude: 39.624985
+    longitude: 19.922346
+- name: Agio Oros
+  names:
+  - Aghion Oros
+  - Agion Oros
+  - Akte
+  - Aktí
+  - Athos
+  - Mount Athos
+  code: "69"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.993088
+    minlatitude: 40.114532
+    maxlongitude: 24.399141
+    maxlatitude: 40.45158
+    latitude: 40.264492
+    longitude: 24.215273
+- name: Samos
+  names:
+  - Samos
+  code: "84"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.56606
+    minlatitude: 37.636196
+    maxlongitude: 27.069765
+    maxlatitude: 37.81313
+    latitude: 37.754787
+    longitude: 26.97777
+- name: Rethymnon
+  names:
+  - Rethymnon
+  code: "93"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.452042
+    minlatitude: 35.35435
+    maxlongitude: 24.538532
+    maxlatitude: 35.373974
+    latitude: 35.36436
+    longitude: 24.482155
+- name: Messinia
+  names:
+  - Messenia
+  code: "17"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.538929
+    minlatitude: 36.671997
+    maxlongitude: 22.401949
+    maxlatitude: 37.485153
+    latitude: 37.142464
+    longitude: 21.95225
+- name: Thessaloniki
+  names:
+  - Salonika
+  - Salonike
+  - Saloniki
+  - Thessalonike
+  code: "54"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.901983
+    minlatitude: 40.58634
+    maxlongitude: 22.99007
+    maxlatitude: 40.656044
+    latitude: 40.640064
+    longitude: 22.94442
+- name: Kastoria
+  names:
+  - Kastoria
+  code: "56"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.248112
+    minlatitude: 40.506447
+    maxlongitude: 21.278202
+    maxlatitude: 40.52737
+    latitude: 40.519268
+    longitude: 21.268717
+- name: Serrai
+  names:
+  - Serres
+  code: "62"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.523867
+    minlatitude: 41.073635
+    maxlongitude: 23.572243
+    maxlatitude: 41.099537
+    latitude: 41.090923
+    longitude: 23.541319
+- name: Chalkidiki
+  names:
+  - Chalcidice
+  - Khalkikdiki
+  code: "64"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.004986
+    minlatitude: 39.907608
+    maxlongitude: 24.330967
+    maxlatitude: 40.642616
+    latitude: 40.3695
+    longitude: 23.287085
+- name: Lasithion
+  names:
+  - Lassithi
+  code: "92"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.398468
+    minlatitude: 34.86536
+    maxlongitude: 26.352476
+    maxlatitude: 35.383812
+    latitude: 35.08117
+    longitude: 25.710178
+- name: Chania
+  names:
+  - Canea
+  - Chania
+  - Khaniá
+  - La Canée
+  code: "94"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.992174
+    minlatitude: 35.49165
+    maxlongitude: 24.057306
+    maxlatitude: 35.523457
+    latitude: 35.51383
+    longitude: 24.018036
+- name: Attiki
+  names:
+  - Attica
+  - Attika
+  code: A1
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.891249
+    minlatitude: 35.82239
+    maxlongitude: 24.104742
+    maxlatitude: 38.34098
+    latitude: 38.045757
+    longitude: 23.858473
+- name: Preveza
+  names:
+  - Preveza
+  code: "34"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.73155
+    minlatitude: 38.944496
+    maxlongitude: 20.758963
+    maxlatitude: 38.975952
+    latitude: 38.959267
+    longitude: 20.751715
+- name: Lefkas
+  names:
+  - Leucas
+  - Levkáda
+  - Santa Maura
+  code: "24"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.54095
+    minlatitude: 38.560757
+    maxlongitude: 20.733131
+    maxlatitude: 38.852375
+    latitude: 38.706646
+    longitude: 20.64073
+- name: Arta
+  names:
+  - Arta
+  code: "31"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.975573
+    minlatitude: 39.14651
+    maxlongitude: 20.999367
+    maxlatitude: 39.166878
+    latitude: 39.15824
+    longitude: 20.987684
+- name: Grevena
+  names:
+  - Grevena
+  code: "51"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.412422
+    minlatitude: 40.072002
+    maxlongitude: 21.44768
+    maxlatitude: 40.093407
+    latitude: 40.083763
+    longitude: 21.42733
+- name: Kilkis
+  names:
+  - Kilkis
+  code: "57"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.863077
+    minlatitude: 40.980927
+    maxlongitude: 22.88686
+    maxlatitude: 41.0049
+    latitude: 40.993706
+    longitude: 22.875368
+- name: Ileia
+  names:
+  - Elia
+  code: "14"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.105043
+    minlatitude: 37.374977
+    maxlongitude: 21.999397
+    maxlatitude: 38.10428
+    latitude: 37.70451
+    longitude: 21.570679
+- name: Zakynthos
+  names:
+  - Zakynthos
+  - Zante
+  - Zanti
+  code: "21"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.88972
+    minlatitude: 37.766304
+    maxlongitude: 20.908283
+    maxlatitude: 37.801376
+    latitude: 37.788162
+    longitude: 20.898827
+- name: Drama
+  names:
+  - Drama
+  code: "52"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.11548
+    minlatitude: 41.133408
+    maxlongitude: 24.169127
+    maxlatitude: 41.16238
+    latitude: 41.149002
+    longitude: 24.14708
+- name: Imathia
+  names:
+  - Imathia
+  code: "53"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.881947
+    minlatitude: 40.300182
+    maxlongitude: 22.681576
+    maxlatitude: 40.734295
+    latitude: 40.606007
+    longitude: 22.14302
+- name: Lesvos
+  names:
+  - Lesbos
+  code: "83"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.83156
+    minlatitude: 38.96178
+    maxlongitude: 26.615854
+    maxlatitude: 39.390186
+    latitude: 39.26451
+    longitude: 26.277708
+- name: Voiotia
+  names:
+  - Boeotia
+  code: "03"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.487461
+    minlatitude: 38.135246
+    maxlongitude: 23.692595
+    maxlatitude: 38.59586
+    latitude: 38.366367
+    longitude: 23.096506
+- name: Arkadia
+  names:
+  - Arcadia
+  code: "12"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.790934
+    minlatitude: 36.993446
+    maxlongitude: 22.985216
+    maxlatitude: 37.86533
+    latitude: 37.555782
+    longitude: 22.333776
+- name: Korinthia
+  names:
+  - Corinth
+  - Korinth
+  - Kórinthos
+  code: "15"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.218458
+    minlatitude: 37.70196
+    maxlongitude: 23.179523
+    maxlatitude: 38.143005
+    latitude: 38.002296
+    longitude: 22.52451
+- name: Thesprotia
+  names:
+  - Thesprotia
+  code: "32"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.008677
+    minlatitude: 39.273323
+    maxlongitude: 20.682335
+    maxlatitude: 39.8164
+    latitude: 39.4935
+    longitude: 20.378544
+- name: Trikala
+  names:
+  - Trikala
+  - Trikkala
+  code: "44"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.745625
+    minlatitude: 39.528988
+    maxlongitude: 21.800493
+    maxlatitude: 39.577877
+    latitude: 39.555733
+    longitude: 21.767895
+- name: Kavalla
+  names:
+  - Cavalla
+  - Kaválla
+  code: "55"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.372719
+    minlatitude: 40.918617
+    maxlongitude: 24.442425
+    maxlatitude: 40.95516
+    latitude: 40.937607
+    longitude: 24.412867
+- name: Kozani
+  names:
+  - Kozani
+  code: "58"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.77519
+    minlatitude: 40.28633
+    maxlongitude: 21.806725
+    maxlatitude: 40.311768
+    latitude: 40.30058
+    longitude: 21.789814
+- name: Pella
+  names:
+  - Pella
+  code: "59"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.520758
+    minlatitude: 40.756474
+    maxlongitude: 22.531416
+    maxlatitude: 40.766228
+    latitude: 40.763245
+    longitude: 22.526052
+- name: Aitolia-Akarnania
+  names:
+  - Aetolia and Acarnania
+  - Áitoloakarnanía
+  code: "01"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.718628
+    minlatitude: 38.29583
+    maxlongitude: 22.026543
+    maxlatitude: 39.174664
+    latitude: 38.70844
+    longitude: 21.379892
+- name: Chios
+  names:
+  - Chios
+  - Khios
+  code: "85"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.116386
+    minlatitude: 38.35083
+    maxlongitude: 26.144825
+    maxlatitude: 38.39808
+    latitude: 38.370983
+    longitude: 26.136345
+- name: Irakleion
+  names:
+  - Candia
+  - Herakleion
+  - Heraklion
+  - Iraclion
+  - Iraklio
+  code: "91"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.722473
+    minlatitude: 34.919434
+    maxlongitude: 25.550388
+    maxlatitude: 35.466934
+    latitude: 35.3387
+    longitude: 25.14437
+- name: Rodopi
+  names:
+  - Rhodope
+  code: "73"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.046217
+    minlatitude: 40.857327
+    maxlongitude: 25.962885
+    maxlatitude: 41.3477
+    latitude: 41.079567
+    longitude: 25.568108
+- name: Lakonia
+  names:
+  - Laconia
+  code: "16"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.220747
+    minlatitude: 36.385357
+    maxlongitude: 23.202145
+    maxlatitude: 37.335804
+    latitude: 37.029907
+    longitude: 22.52451
+- name: Magnisia
+  names:
+  - Magnesia
+  - Magnessia
+  code: "43"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.49076
+    minlatitude: 38.9697
+    maxlongitude: 23.351095
+    maxlatitude: 39.60289
+    latitude: 39.26862
+    longitude: 22.762882
+- name: Pieria
+  names:
+  - Pieria
+  code: "61"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.103386
+    minlatitude: 39.94654
+    maxlongitude: 22.678452
+    maxlatitude: 40.548428
+    latitude: 40.26691
+    longitude: 22.47683
+- name: Florina
+  names:
+  - Florina
+  code: "63"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.381742
+    minlatitude: 40.77364
+    maxlongitude: 21.428736
+    maxlatitude: 40.794167
+    latitude: 40.784527
+    longitude: 21.413122
+- name: Xanthi
+  names:
+  - Xanthi
+  code: "72"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.872923
+    minlatitude: 41.124035
+    maxlongitude: 24.901327
+    maxlatitude: 41.146976
+    latitude: 41.130035
+    longitude: 24.88649
+- name: Fokis
+  names:
+  - Phocis
+  - Phokis
+  code: "07"
+  countryalpha2: GR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.853466
+    minlatitude: 38.27817
+    maxlongitude: 22.629053
+    maxlatitude: 38.8076
+    latitude: 38.559864
+    longitude: 22.14302

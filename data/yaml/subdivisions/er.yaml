@@ -1,0 +1,84 @@
+- name: Debubawi Keyih Bahri [Debub-Keih-Bahri]
+  names:
+  - Debubawi Keyih Bahri [Debub-Keih-Bahri]
+  code: DK
+  countryalpha2: ER
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.32956
+    minlatitude: 12.359562
+    maxlongitude: 43.14864
+    maxlatitude: 15.020066
+    latitude: 13.51371
+    longitude: 41.760647
+- name: Debub
+  names:
+  - Debub
+  code: DU
+  countryalpha2: ER
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.222446
+    minlatitude: 14.408369
+    maxlongitude: 39.6707
+    maxlatitude: 15.270656
+    latitude: 14.947869
+    longitude: 39.15437
+- name: Gash-Barka
+  names:
+  - Gash-Barka
+  code: GB
+  countryalpha2: ER
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.438766
+    minlatitude: 14.112427
+    maxlongitude: 38.768604
+    maxlatitude: 16.285809
+    latitude: 15.406882
+    longitude: 37.63866
+- name: Maakel [Maekel]
+  names:
+  - Maakel [Maekel]
+  code: MA
+  countryalpha2: ER
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.693165
+    minlatitude: 15.116929
+    maxlongitude: 39.0491
+    maxlatitude: 15.587143
+    latitude: 15.355141
+    longitude: 38.86237
+- name: Semenawi Keyih Bahri [Semien-Keih-Bahri]
+  names:
+  - Semenawi Keyih Bahri [Semien-Keih-Bahri]
+  code: SK
+  countryalpha2: ER
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.96968
+    minlatitude: 14.337765
+    maxlongitude: 41.29741
+    maxlatitude: 18.003086
+    latitude: 16.2584
+    longitude: 38.820545
+- name: Anseba
+  names:
+  - Anseba
+  code: AN
+  countryalpha2: ER
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.887447
+    minlatitude: 15.521509
+    maxlongitude: 38.887253
+    maxlatitude: 17.557606
+    latitude: 16.474552
+    longitude: 37.80877

@@ -1,0 +1,95 @@
+- name: Shéfa
+  names:
+  - Sandwich Island
+  - Vaté
+  - Éfaté
+  code: SEE
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 168.12035
+    minlatitude: -17.824284
+    maxlongitude: 168.64871
+    maxlatitude: -16.567902
+    latitude: -17.652342
+    longitude: 168.3387
+- name: Taféa
+  names:
+  - Taféa
+  code: TAE
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 168.98608
+    minlatitude: -20.25049
+    maxlongitude: 170.2373
+    maxlatitude: -18.621328
+    latitude: -18.723783
+    longitude: 169.0645
+- name: Torba
+  names:
+  - Banks-Torres
+  code: TOB
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.54358
+    minlatitude: -14.465699
+    maxlongitude: 168.06743
+    maxlatitude: -13.072455
+    latitude: -14.28096
+    longitude: 167.51608
+- name: Malampa
+  names:
+  - Ambrim
+  - Ambrym
+  - Malakula
+  - Malekula
+  - Mallicollo
+  - Paama
+  code: MAP
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 167.16324
+    minlatitude: -16.591343
+    maxlongitude: 168.36801
+    maxlatitude: -15.882122
+    latitude: -16.40114
+    longitude: 167.60779
+- name: Pénama
+  names:
+  - Ambae-Maewo
+  - Aoba-Maewo
+  - Omba-Aurora
+  - Omba-Maewo
+  - Pentecost
+  code: PAM
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 167.67154
+    minlatitude: -16.012913
+    maxlongitude: 168.27684
+    maxlatitude: -14.89196
+    latitude: -15.379576
+    longitude: 167.90532
+- name: Sanma
+  names:
+  - Santo-Malo
+  code: SAM
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.54176
+    minlatitude: -15.751007
+    maxlongitude: 167.29738
+    maxlatitude: -14.643453
+    latitude: -15.484002
+    longitude: 166.91821

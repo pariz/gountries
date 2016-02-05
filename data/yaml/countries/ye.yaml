@@ -1,0 +1,73 @@
+name:
+  common: Yemen
+  official: Republic of Yemen
+  native:
+    ara:
+      common: اليَمَن
+      official: الجمهورية اليمنية
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ye
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Jemen
+    official: Republik Jemen
+  fin:
+    common: Jemen
+    official: Jemenin tasavalta
+  fra:
+    common: Yémen
+    official: République du Yémen
+  hrv:
+    common: Jemen
+    official: Republika Jemen
+  ita:
+    common: Yemen
+    official: Repubblica dello Yemen
+  jpn:
+    common: イエメン
+    official: イエメン共和国
+  nld:
+    common: Jemen
+    official: Republiek Jemen
+  por:
+    common: Iémen
+    official: República do Iêmen
+  rus:
+    common: Йемен
+    official: Йеменская Республика
+  spa:
+    common: Yemen
+    official: República de Yemen
+currencies:
+- YER
+borders:
+- OMN
+- SAU
+codes:
+  alpha2: YE
+  alpha3: YEM
+  cioc: YEM
+  ccn3: "887"
+  callingcodes:
+  - "967"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Western Asia
+  continent: Asia
+  capital: Sana'a
+  area: 527968
+coordinates:
+  longitudestring: 48 00 E
+  latitudestring: 15 00 N
+  minlongitude: 41.833332
+  minlatitude: 12.1
+  maxlongitude: 54.533333
+  maxlatitude: 27.695278
+  latitude: 15.888388
+  longitude: 47.489887

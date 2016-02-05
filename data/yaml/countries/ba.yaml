@@ -1,0 +1,85 @@
+name:
+  common: Bosnia and Herzegovina
+  official: Bosnia and Herzegovina
+  native:
+    bos:
+      common: Bosna i Hercegovina
+      official: Bosna i Hercegovina
+    hrv:
+      common: Bosna i Hercegovina
+      official: Bosna i Hercegovina
+    srp:
+      common: Боснa и Херцеговина
+      official: Боснa и Херцеговина
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ba
+languages:
+  bos: Bosnian
+  hrv: Croatian
+  srp: Serbian
+translations:
+  cym:
+    common: Bosnia a Hercegovina
+    official: Bosnia and Herzegovina
+  deu:
+    common: Bosnien und Herzegowina
+    official: Bosnien und Herzegowina
+  fin:
+    common: Bosnia ja Hertsegovina
+    official: Bosnia ja Hertsegovina
+  fra:
+    common: Bosnie-Herzégovine
+    official: Bosnie-et-Herzégovine
+  hrv:
+    common: Bosna i Hercegovina
+    official: Bosna i Hercegovina
+  ita:
+    common: Bosnia ed Erzegovina
+    official: Bosnia-Erzegovina
+  jpn:
+    common: ボスニア・ヘルツェゴビナ
+    official: ボスニア·ヘルツェゴビナ
+  nld:
+    common: Bosnië en Herzegovina
+    official: Bosnië-Herzegovina
+  por:
+    common: Bósnia e Herzegovina
+    official: Bósnia e Herzegovina
+  rus:
+    common: Босния и Герцеговина
+    official: Босния и Герцеговина
+  spa:
+    common: Bosnia y Herzegovina
+    official: Bosnia y Herzegovina
+currencies:
+- BAM
+borders:
+- HRV
+- MNE
+- SRB
+codes:
+  alpha2: BA
+  alpha3: BIH
+  cioc: BIH
+  ccn3: "070"
+  callingcodes:
+  - "387"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Sarajevo
+  area: 51209
+coordinates:
+  longitudestring: 18 00 E
+  latitudestring: 44 00 N
+  minlongitude: 15.747222
+  minlatitude: 42.558056
+  maxlongitude: 19.618334
+  maxlatitude: 45.268333
+  latitude: 44.165333
+  longitude: 17.790241

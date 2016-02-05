@@ -1,0 +1,28 @@
+- name: Federacija Bosna i Hercegovina
+  names:
+  - Federacija Bosna i Hercegovina
+  code: BIH
+  countryalpha2: BA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.723747
+    minlatitude: 42.607502
+    maxlongitude: 19.039251
+    maxlatitude: 45.22713
+    latitude: 43.88749
+    longitude: 17.842793
+- name: Republika Srpska
+  names:
+  - Republika Srpska
+  code: SRP
+  countryalpha2: BA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.192438
+    minlatitude: 42.5562
+    maxlongitude: 19.625618
+    maxlatitude: 45.273712
+    latitude: 44.72802
+    longitude: 17.314814

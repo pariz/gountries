@@ -1,0 +1,75 @@
+name:
+  common: Tuvalu
+  official: Tuvalu
+  native:
+    eng:
+      common: Tuvalu
+      official: Tuvalu
+    tvl:
+      common: Tuvalu
+      official: Tuvalu
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .tv
+languages:
+  eng: English
+  tvl: Tuvaluan
+translations:
+  deu:
+    common: Tuvalu
+    official: Tuvalu
+  fin:
+    common: Tuvalu
+    official: Tuvalu
+  fra:
+    common: Tuvalu
+    official: Tuvalu
+  hrv:
+    common: Tuvalu
+    official: Tuvalu
+  ita:
+    common: Tuvalu
+    official: Tuvalu
+  jpn:
+    common: ツバル
+    official: ツバル
+  nld:
+    common: Tuvalu
+    official: Tuvalu
+  por:
+    common: Tuvalu
+    official: Tuvalu
+  rus:
+    common: Тувалу
+    official: Тувалу
+  spa:
+    common: Tuvalu
+    official: Tuvalu
+currencies:
+- AUD
+borders: []
+codes:
+  alpha2: TV
+  alpha3: TUV
+  cioc: TUV
+  ccn3: "798"
+  callingcodes:
+  - "688"
+  internationalprefix: "00"
+geo:
+  region: Oceania
+  subregion: Polynesia
+  continent: Australia
+  capital: Funafuti
+  area: 26
+coordinates:
+  longitudestring: 178 00 E
+  latitudestring: 8 00 S
+  minlongitude: 176.11667
+  minlatitude: -10.75
+  maxlongitude: 179.88333
+  maxlatitude: -5.65
+  latitude: -7.471306
+  longitude: 178.67403

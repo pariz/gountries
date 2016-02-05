@@ -1,0 +1,76 @@
+name:
+  common: Timor-Leste
+  official: Democratic Republic of Timor-Leste
+  native:
+    por:
+      common: Timor-Leste
+      official: República Democrática de Timor-Leste
+    tet:
+      common: Timór-Leste
+      official: Repúblika Demokrátika Timór-Leste
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .tl
+languages:
+  por: Portuguese
+  tet: Tetum
+translations:
+  deu:
+    common: Timor-Leste
+    official: Demokratische Republik Timor-Leste
+  fin:
+    common: Itä-Timor
+    official: Itä-Timorin demokraattinen tasavalta
+  fra:
+    common: Timor oriental
+    official: République démocratique du Timor oriental
+  hrv:
+    common: Istočni Timor
+    official: Demokratska Republika Timor-Leste
+  ita:
+    common: Timor Est
+    official: Repubblica Democratica di Timor Est
+  jpn:
+    common: 東ティモール
+    official: 東ティモール民主共和国
+  nld:
+    common: Oost-Timor
+    official: Democratische Republiek Oost-Timor
+  por:
+    common: Timor-Leste
+    official: República Democrática de Timor-Leste
+  rus:
+    common: Восточный Тимор
+    official: Демократическая Республика Тимор -Лешти
+  spa:
+    common: Timor Oriental
+    official: República Democrática de Timor-Leste
+currencies:
+- USD
+borders:
+- IDN
+codes:
+  alpha2: TL
+  alpha3: TLS
+  cioc: TLS
+  ccn3: "626"
+  callingcodes:
+  - "670"
+  internationalprefix: None
+geo:
+  region: Asia
+  subregion: South-Eastern Asia
+  continent: Asia
+  capital: Dili
+  area: 14874
+coordinates:
+  longitudestring: 125 55 E
+  latitudestring: 8 50 S
+  minlongitude: 124.085556
+  minlatitude: -9.469722
+  maxlongitude: 127.33667
+  maxlatitude: -7.597222
+  latitude: -8.804787
+  longitude: 126.079025

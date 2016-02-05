@@ -1,0 +1,196 @@
+- name: Santa Ana
+  names:
+  - Santa Ana
+  code: SA
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.58621
+    minlatitude: 13.956225
+    maxlongitude: -89.53943
+    maxlatitude: 14.011361
+    latitude: 13.977828
+    longitude: -89.56391
+- name: San Miguel
+  names:
+  - San Miguel
+  code: SM
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.52784
+    minlatitude: 13.169361
+    maxlongitude: -88.016
+    maxlatitude: 13.893529
+    latitude: 13.445104
+    longitude: -88.24612
+- name: Sonsonate
+  names:
+  - Sonsonate
+  code: SO
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.95552
+    minlatitude: 13.519539
+    maxlongitude: -89.44517
+    maxlatitude: 13.898528
+    latitude: 13.682358
+    longitude: -89.66281
+- name: Cabañas
+  names:
+  - Cabañas
+  code: CA
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.98837
+    minlatitude: 13.739689
+    maxlongitude: -88.49336
+    maxlatitude: 14.019085
+    latitude: 13.864829
+    longitude: -88.7494
+- name: La Unión
+  names:
+  - La Unión
+  code: UN
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.87672
+    minlatitude: 13.319889
+    maxlongitude: -87.82067
+    maxlatitude: 13.355342
+    latitude: 13.336944
+    longitude: -87.84389
+- name: Usulután
+  names:
+  - Usulután
+  code: US
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.45788
+    minlatitude: 13.332834
+    maxlongitude: -88.427666
+    maxlatitude: 13.353713
+    latitude: 13.35
+    longitude: -88.45
+- name: Chalatenango
+  names:
+  - Chalatenango
+  code: CH
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.953896
+    minlatitude: 13.996704
+    maxlongitude: -88.88798
+    maxlatitude: 14.048708
+    latitude: 14.033333
+    longitude: -88.933334
+- name: Cuscatlán
+  names:
+  - Cuscatlán
+  code: CU
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.17243
+    minlatitude: 13.638626
+    maxlongitude: -88.8609
+    maxlatitude: 14.069207
+    latitude: 13.866196
+    longitude: -89.05615
+- name: Morazán
+  names:
+  - Morazán
+  code: MO
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.26839
+    minlatitude: 13.542379
+    maxlongitude: -87.93504
+    maxlatitude: 13.951336
+    latitude: 13.7682
+    longitude: -88.129135
+- name: San Salvador
+  names:
+  - San Salvador
+  code: SS
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.26632
+    minlatitude: 13.652326
+    maxlongitude: -89.16306
+    maxlatitude: 13.730631
+    latitude: 13.692941
+    longitude: -89.21819
+- name: Ahuachapán
+  names:
+  - Ahuachapán
+  code: AH
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.872284
+    minlatitude: 13.904408
+    maxlongitude: -89.81503
+    maxlatitude: 13.953727
+    latitude: 13.925948
+    longitude: -89.84114
+- name: La Libertad
+  names:
+  - La Libertad
+  code: LI
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.62358
+    minlatitude: 13.424218
+    maxlongitude: -89.13344
+    maxlatitude: 14.0608635
+    latitude: 13.6817665
+    longitude: -89.36063
+- name: La Paz
+  names:
+  - La Paz
+  code: PA
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.16794
+    minlatitude: 13.265102
+    maxlongitude: -88.776436
+    maxlatitude: 13.662424
+    latitude: 13.495364
+    longitude: -88.979675
+- name: San Vicente
+  names:
+  - San Vicente
+  code: SV
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.8956
+    minlatitude: 13.252974
+    maxlongitude: -88.48515
+    maxlatitude: 13.789791
+    latitude: 13.586856
+    longitude: -88.7494

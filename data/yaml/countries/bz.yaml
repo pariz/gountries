@@ -1,0 +1,84 @@
+name:
+  common: Belize
+  official: Belize
+  native:
+    bjz:
+      common: Belize
+      official: Belize
+    eng:
+      common: Belize
+      official: Belize
+    spa:
+      common: Belice
+      official: Belice
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .bz
+languages:
+  bjz: Belizean Creole
+  eng: English
+  spa: Spanish
+translations:
+  cym:
+    common: Belize
+    official: Belize
+  deu:
+    common: Belize
+    official: Belize
+  fin:
+    common: Belize
+    official: Belize
+  fra:
+    common: Belize
+    official: Belize
+  hrv:
+    common: Belize
+    official: Belize
+  ita:
+    common: Belize
+    official: Belize
+  jpn:
+    common: ベリーズ
+    official: ベリーズ
+  nld:
+    common: Belize
+    official: Belize
+  por:
+    common: Belize
+    official: Belize
+  rus:
+    common: Белиз
+    official: Белиз
+  spa:
+    common: Belice
+    official: Belice
+currencies:
+- BZD
+borders:
+- GTM
+- MEX
+codes:
+  alpha2: BZ
+  alpha3: BLZ
+  cioc: BIZ
+  ccn3: "084"
+  callingcodes:
+  - "501"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: Central America
+  continent: North America
+  capital: Belmopan
+  area: 22966
+coordinates:
+  longitudestring: 88 45 W
+  latitudestring: 17 15 N
+  minlongitude: -89.21694
+  minlatitude: 15.9
+  maxlongitude: -87.48333
+  maxlatitude: 18.483334
+  latitude: 17.225292
+  longitude: -88.66974

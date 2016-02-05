@@ -1,0 +1,56 @@
+- name: Western Area (Freetown)
+  names:
+  - Western Area (Freetown)
+  code: W
+  countryalpha2: SL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.298547
+    minlatitude: 8.4091215
+    maxlongitude: -13.1487465
+    maxlatitude: 8.499672
+    latitude: 8.484444
+    longitude: -13.234444
+- name: Eastern
+  names:
+  - Eastern
+  code: E
+  countryalpha2: SL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -11.58058
+    minlatitude: 7.341372
+    maxlongitude: -10.284238
+    maxlatitude: 9.069968
+    latitude: 8.247377
+    longitude: -10.89031
+- name: Northern
+  names:
+  - Northern
+  code: "N"
+  countryalpha2: SL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.303263
+    minlatitude: 8.241975
+    maxlongitude: -10.584805
+    maxlatitude: 10.000433
+    latitude: 9.350089
+    longitude: -11.706829
+- name: Southern
+  names:
+  - Southern
+  code: S
+  countryalpha2: SL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.069256
+    minlatitude: 6.929611
+    maxlongitude: -11.134802
+    maxlatitude: 8.507107
+    latitude: 7.7906623
+    longitude: -11.889173

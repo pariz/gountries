@@ -1,0 +1,71 @@
+name:
+  common: Grenada
+  official: Grenada
+  native:
+    eng:
+      common: Grenada
+      official: Grenada
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gd
+languages:
+  eng: English
+translations:
+  deu:
+    common: Grenada
+    official: Grenada
+  fin:
+    common: Grenada
+    official: Grenada
+  fra:
+    common: Grenade
+    official: Grenade
+  hrv:
+    common: Grenada
+    official: Grenada
+  ita:
+    common: Grenada
+    official: Grenada
+  jpn:
+    common: グレナダ
+    official: グレナダ
+  nld:
+    common: Grenada
+    official: Grenada
+  por:
+    common: Granada
+    official: Grenada
+  rus:
+    common: Гренада
+    official: Гренада
+  spa:
+    common: Grenada
+    official: Granada
+currencies:
+- XCD
+borders: []
+codes:
+  alpha2: GD
+  alpha3: GRD
+  cioc: GRN
+  ccn3: "308"
+  callingcodes:
+  - "1473"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: St. George's
+  area: 344
+coordinates:
+  longitudestring: 61 40 W
+  latitudestring: 12 07 N
+  minlongitude: -61.8
+  minlatitude: 11.983333
+  maxlongitude: -61.25
+  maxlatitude: 12.666667
+  latitude: 12.178866
+  longitude: -61.64693

@@ -1,0 +1,85 @@
+name:
+  common: Italy
+  official: Italian Republic
+  native:
+    bar:
+      common: Italien
+      official: Italienische Republik
+    ita:
+      common: Italia
+      official: Repubblica italiana
+    srd:
+      common: Italia
+      official: Repubbricanu Italia
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .it
+languages:
+  bar: Austro-Bavarian German
+  ita: Italian
+  srd: Sardinian
+translations:
+  deu:
+    common: Italien
+    official: Italienische Republik
+  fin:
+    common: Italia
+    official: Italian tasavalta
+  fra:
+    common: Italie
+    official: République italienne
+  hrv:
+    common: Italija
+    official: talijanska Republika
+  ita:
+    common: Italia
+    official: Repubblica italiana
+  jpn:
+    common: イタリア
+    official: イタリア共和国
+  nld:
+    common: Italië
+    official: Italiaanse Republiek
+  por:
+    common: Itália
+    official: República Italiana
+  rus:
+    common: Италия
+    official: итальянская Республика
+  spa:
+    common: Italia
+    official: República Italiana
+currencies:
+- EUR
+borders:
+- AUT
+- FRA
+- SMR
+- SVN
+- CHE
+- VAT
+codes:
+  alpha2: IT
+  alpha3: ITA
+  cioc: ITA
+  ccn3: "380"
+  callingcodes:
+  - "39"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Rome
+  area: 301336
+coordinates:
+  longitudestring: 12 50 E
+  latitudestring: 42 50 N
+  minlongitude: 1.35
+  minlatitude: 35.483334
+  maxlongitude: 20.433332
+  maxlatitude: 48.533333
+  latitude: 42.76698
+  longitude: 12.493823

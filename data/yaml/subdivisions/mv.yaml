@@ -1,0 +1,372 @@
+- name: Lhaviyani
+  names:
+  - Faadhippolhu
+  - Fadiffolu
+  - Laviyani
+  code: "03"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.33075
+    minlatitude: 5.2431393
+    maxlongitude: 73.65775
+    maxlatitude: 5.5575247
+    latitude: 5.4039702
+    longitude: 73.64448
+- name: Haa Dhaalu
+  names:
+  - Haa Dhaalu
+  - Hâ Dhâl
+  - South Thiladhunmathi
+  - Thiladhunmathi Dhekunuburi
+  - Tiladummati-South
+  code: "23"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.63858
+    minlatitude: 6.315528
+    maxlongitude: 73.184784
+    maxlatitude: 6.787662
+    latitude: 6.751374
+    longitude: 73.166084
+- name: Shaviyani
+  names:
+  - Miladhunmadhulu Uthuruburi
+  - Miladummadulu-North
+  - North Miladhunmadhulu
+  code: "24"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.90687
+    minlatitude: 5.9667993
+    maxlongitude: 73.301125
+    maxlatitude: 6.4525437
+    latitude: 6.286946
+    longitude: 73.24451
+- name: Gaaf Alif
+  names:
+  - Gaafu Alifu
+  - Gâf Alif
+  - Huvadhu Atholhu Uthuruburi
+  - North Huvadhu Atoll
+  - Suvadiva-Huvadu-North
+  code: "27"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.09245
+    minlatitude: 0.3470336
+    maxlongitude: 73.57354
+    maxlatitude: 0.8975593
+    latitude: 0.7593605
+    longitude: 73.43309
+- name: Gnaviyani
+  names:
+  - Foah Mulah
+  - Foahmulah
+  - Foammulah
+  - Foamulah
+  - Fua Mulak
+  - Fuamulaku
+  - Fuvahmulah
+  - Gnyaviani
+  code: "29"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.41004
+    minlatitude: -0.3118643
+    maxlongitude: 73.441414
+    maxlatitude: -0.2771461
+    latitude: -0.3006425
+    longitude: 73.42391
+- name: Alif Dhaal
+  names:
+  - Alif Atoll Uthuru
+  - Alif Dhâl
+  - Ari Atholhu Dhekunuburi
+  - South Ari Atoll
+  code: X1~
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.96645
+    minlatitude: 3.7570536
+    maxlongitude: 72.96747
+    maxlatitude: 3.7578619
+    latitude: 3.7575045
+    longitude: 72.96691
+- name: Vaavu
+  names:
+  - Felidhe Atholhu
+  - Felidhu Atoll
+  - Felidu
+  - Vaafu
+  - Vaavu
+  - Vâv
+  code: "04"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.36392
+    minlatitude: 3.3134959
+    maxlongitude: 73.75965
+    maxlatitude: 3.6875834
+    latitude: 3.684639
+    longitude: 73.40029
+- name: Thaa
+  names:
+  - Kolhumadhulu
+  - Kolhumadulu
+  - Kolumadulu
+  - Thâ
+  code: "08"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.90742
+    minlatitude: 2.1634586
+    maxlongitude: 73.36961
+    maxlatitude: 2.5602977
+    latitude: 2.209209
+    longitude: 73.14946
+- name: Meemu
+  names:
+  - Meemu
+  - Mimu
+  - Mulakatholhu
+  - Mulaku
+  - Mulaku Atholhu
+  - Mîm
+  code: "12"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.357735
+    minlatitude: 2.7635105
+    maxlongitude: 73.64171
+    maxlatitude: 3.0929022
+    latitude: 2.7854064
+    longitude: 73.426216
+- name: Raa
+  names:
+  - Maalhosmadhulu Uthuruburi
+  - Malosmadulu-North
+  - North Maalhosmadhulu
+  - Râ
+  code: "13"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.80251
+    minlatitude: 5.3587017
+    maxlongitude: 73.047935
+    maxlatitude: 5.980543
+    latitude: 5.4633656
+    longitude: 73.03473
+- name: Baa
+  names:
+  - Bâ
+  - Maalhosmadhulu Dhekunuburi
+  - Malosmadulu-South
+  - South Maalhosmadhulu
+  code: "20"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.83627
+    minlatitude: 4.86132
+    maxlongitude: 73.169556
+    maxlatitude: 5.359183
+    latitude: 4.8709598
+    longitude: 72.999825
+- name: Gaafu Dhaalu
+  names:
+  - Gaafu Dhaalu
+  - Gâf Dhâl
+  - Huvadhu Atholhu Dhekunuburi
+  - South Huvadhu
+  - Suvadiva-Huvadu-South
+  code: "28"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.98707
+    minlatitude: 0.1880678
+    maxlongitude: 73.52136
+    maxlatitude: 0.5438473
+    latitude: 0.2751533
+    longitude: 73.43583
+- name: Seenu
+  names:
+  - Addu
+  - Addu Atholhu
+  - Addu Atoll
+  - Seenu
+  - Sîn
+  code: "01"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.07615
+    minlatitude: -0.7036652
+    maxlongitude: 73.23956
+    maxlatitude: -0.5765364
+    latitude: -0.6413
+    longitude: 73.158
+- name: Alif
+  names:
+  - Alif Atoll Dhekunu
+  - Ari Atholhu Uthuruburi
+  - North Ari Atoll
+  code: "02"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.808876
+    minlatitude: 6.807434
+    maxlongitude: 73.23589
+    maxlatitude: 7.1063275
+    latitude: 6.8974986
+    longitude: 73.228516
+- name: Dhaalu
+  names:
+  - Dhaalu
+  - Dhâl
+  - Nilandhe Atholhu Dhekunuburi
+  - Nilandu-South
+  - South Nilandhe Atoll
+  code: "17"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.83516
+    minlatitude: 2.6672332
+    maxlongitude: 73.034874
+    maxlatitude: 3.0002184
+    latitude: 2.696501
+    longitude: 72.86308
+- name: Noonu
+  names:
+  - Miladhunmadhulu Dhekunuburi
+  - Miladummadulu-South
+  - Mulakatholhu
+  - Noonu
+  - Nûn
+  - South Miladhunmadhulu
+  code: "25"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.13106
+    minlatitude: 5.6440024
+    maxlongitude: 73.482216
+    maxlatitude: 6.0033135
+    latitude: 5.9523854
+    longitude: 73.41514
+- name: Male
+  names:
+  - Maale
+  - Mâle
+  code: MLE
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.48212
+    minlatitude: 4.1694756
+    maxlongitude: 73.531364
+    maxlatitude: 4.202356
+    latitude: 4.175496
+    longitude: 73.509346
+- name: Laamu
+  names:
+  - Haddumati
+  - Hadhdhunmathi
+  - Hadhunmathi
+  - Laamu
+  - Lâm
+  code: "05"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.23755
+    minlatitude: 1.7791128
+    maxlongitude: 73.58596
+    maxlatitude: 2.133172
+    latitude: 1.9772276
+    longitude: 73.5361
+- name: Haa Alif
+  names:
+  - Haa Alifu
+  - Hâ Alif
+  - North Thiladhunmathi
+  - Thiladhunmathi Uthuruburi
+  - Tiladummati-North
+  code: "07"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.808876
+    minlatitude: 6.807434
+    maxlongitude: 73.23589
+    maxlatitude: 7.1063275
+    latitude: 6.8974986
+    longitude: 73.228516
+- name: Faafu
+  names:
+  - Faafu
+  - Faafu Atoll
+  - Fâf
+  - Nilandhe Atholhu Uthuruburi
+  - Nilandu-North
+  - North Nilandhe
+  - North Nilandhe Atoll
+  code: "14"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.81651
+    minlatitude: 3.0521717
+    maxlongitude: 73.04194
+    maxlatitude: 3.3167973
+    latitude: 3.0558963
+    longitude: 72.88893
+- name: Kaafu
+  names:
+  - Kaafu
+  - Kâf
+  - Maleʿ Atholhu
+  - Malé Atoll
+  code: "26"
+  countryalpha2: MV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.35095
+    minlatitude: 3.8099492
+    maxlongitude: 73.71927
+    maxlatitude: 4.9728928
+    latitude: 4.9570017
+    longitude: 73.45958

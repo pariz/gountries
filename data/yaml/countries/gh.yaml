@@ -1,0 +1,74 @@
+name:
+  common: Ghana
+  official: Republic of Ghana
+  native:
+    eng:
+      common: Ghana
+      official: Republic of Ghana
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gh
+languages:
+  eng: English
+translations:
+  deu:
+    common: Ghana
+    official: Republik Ghana
+  fin:
+    common: Ghana
+    official: Ghanan tasavalta
+  fra:
+    common: Ghana
+    official: République du Ghana
+  hrv:
+    common: Gana
+    official: Republika Gana
+  ita:
+    common: Ghana
+    official: Repubblica del Ghana
+  jpn:
+    common: ガーナ
+    official: ガーナ共和国
+  nld:
+    common: Ghana
+    official: Republiek Ghana
+  por:
+    common: Gana
+    official: República do Gana
+  rus:
+    common: Гана
+    official: Республика Гана
+  spa:
+    common: Ghana
+    official: República de Ghana
+currencies:
+- GHS
+borders:
+- BFA
+- CIV
+- TGO
+codes:
+  alpha2: GH
+  alpha3: GHA
+  cioc: GHA
+  ccn3: "288"
+  callingcodes:
+  - "233"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Accra
+  area: 238533
+coordinates:
+  longitudestring: 2 00 W
+  latitudestring: 8 00 N
+  minlongitude: -4
+  minlatitude: 4.733333
+  maxlongitude: 1.192778
+  maxlatitude: 11.15
+  latitude: 7.9213305
+  longitude: -1.2043862

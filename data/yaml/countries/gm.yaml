@@ -1,0 +1,72 @@
+name:
+  common: Gambia
+  official: Republic of the Gambia
+  native:
+    eng:
+      common: Gambia
+      official: Republic of the Gambia
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gm
+languages:
+  eng: English
+translations:
+  deu:
+    common: Gambia
+    official: Republik Gambia
+  fin:
+    common: Gambia
+    official: Gambian tasavalta
+  fra:
+    common: Gambie
+    official: République de Gambie
+  hrv:
+    common: Gambija
+    official: Republika Gambija
+  ita:
+    common: Gambia
+    official: Repubblica del Gambia
+  jpn:
+    common: ガンビア
+    official: ガンビア共和国
+  nld:
+    common: Gambia
+    official: Republiek Gambia
+  por:
+    common: Gâmbia
+    official: República da Gâmbia
+  rus:
+    common: Гамбия
+    official: Республика Гамбия
+  spa:
+    common: Gambia
+    official: República de Gambia
+currencies:
+- GMD
+borders:
+- SEN
+codes:
+  alpha2: GM
+  alpha3: GMB
+  cioc: GAM
+  ccn3: "270"
+  callingcodes:
+  - "220"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Banjul
+  area: 10689
+coordinates:
+  longitudestring: 16 34 W
+  latitudestring: 13 28 N
+  minlongitude: -16.816944
+  minlatitude: 7
+  maxlongitude: -4
+  maxlatitude: 13.816667
+  latitude: 13.440266
+  longitude: -15.490885

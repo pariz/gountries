@@ -1,0 +1,79 @@
+name:
+  common: Guam
+  official: Guam
+  native:
+    cha:
+      common: Guåhån
+      official: Guåhån
+    eng:
+      common: Guam
+      official: Guam
+    spa:
+      common: Guam
+      official: Guam
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gu
+languages:
+  cha: Chamorro
+  eng: English
+  spa: Spanish
+translations:
+  deu:
+    common: Guam
+    official: Guam
+  fin:
+    common: Guam
+    official: Guam
+  fra:
+    common: Guam
+    official: Guam
+  hrv:
+    common: Guam
+    official: Guam
+  ita:
+    common: Guam
+    official: Guam
+  jpn:
+    common: グアム
+    official: グアム
+  nld:
+    common: Guam
+    official: Guam
+  por:
+    common: Guam
+    official: Guam
+  rus:
+    common: Гуам
+    official: Гуам
+  spa:
+    common: Guam
+    official: Guam
+currencies:
+- USD
+borders: []
+codes:
+  alpha2: GU
+  alpha3: GUM
+  cioc: GUM
+  ccn3: "316"
+  callingcodes:
+  - "1671"
+  internationalprefix: "011"
+geo:
+  region: Oceania
+  subregion: Micronesia
+  continent: Australia
+  capital: Hagåtña
+  area: 549
+coordinates:
+  longitudestring: 144 47 E
+  latitudestring: 13 28 N
+  minlongitude: 144.61926
+  minlatitude: 13.24059
+  maxlongitude: 144.954
+  maxlatitude: 13.65232
+  latitude: 13.421129
+  longitude: 144.73972

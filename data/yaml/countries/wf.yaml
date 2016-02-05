@@ -1,0 +1,71 @@
+name:
+  common: Wallis and Futuna
+  official: Territory of the Wallis and Futuna Islands
+  native:
+    fra:
+      common: Wallis et Futuna
+      official: Territoire des îles Wallis et Futuna
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .wf
+languages:
+  fra: French
+translations:
+  deu:
+    common: Wallis und Futuna
+    official: Gebiet der Wallis und Futuna
+  fin:
+    common: Wallis ja Futuna
+    official: Wallisin ja Futunan yhteisö
+  fra:
+    common: Wallis-et-Futuna
+    official: Territoire des îles Wallis et Futuna
+  hrv:
+    common: Wallis i Fortuna
+    official: Teritoriju Wallis i Futuna
+  ita:
+    common: Wallis e Futuna
+    official: Territorio delle Isole Wallis e Futuna
+  jpn:
+    common: ウォリス・フツナ
+    official: ウォリス·フツナ諸島の領土
+  nld:
+    common: Wallis en Futuna
+    official: Grondgebied van de Wallis en Futuna
+  por:
+    common: Wallis e Futuna
+    official: Território das Ilhas Wallis e Futuna
+  rus:
+    common: Уоллис и Футуна
+    official: Территория Уоллис и Футуна острова
+  spa:
+    common: Wallis y Futuna
+    official: Territorio de las Islas Wallis y Futuna
+currencies:
+- XPF
+borders: []
+codes:
+  alpha2: WF
+  alpha3: WLF
+  cioc: ""
+  ccn3: "876"
+  callingcodes:
+  - "681"
+  internationalprefix: "19"
+geo:
+  region: Oceania
+  subregion: Polynesia
+  continent: Australia
+  capital: Mata-Utu
+  area: 142
+coordinates:
+  longitudestring: 176 12 W
+  latitudestring: 13 18 S
+  minlongitude: -178.18333
+  minlatitude: -14.35
+  maxlongitude: -176.08333
+  maxlatitude: -13.183333
+  latitude: -13.299612
+  longitude: -176.17012

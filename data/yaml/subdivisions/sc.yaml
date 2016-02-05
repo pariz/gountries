@@ -1,0 +1,322 @@
+- name: Beau Vallon
+  names:
+  - Beau Vallon
+  code: "08"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.420254
+    minlatitude: -4.627565
+    maxlongitude: 55.439842
+    maxlatitude: -4.6111603
+    latitude: -4.6210966
+    longitude: 55.42778
+- name: Bel Air
+  names:
+  - Bel Air
+  code: "09"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.438087
+    minlatitude: -4.657465
+    maxlongitude: 55.461155
+    maxlatitude: -4.619837
+    latitude: -4.6440325
+    longitude: 55.449932
+- name: Grand' Anse (Praslin)
+  names:
+  - Grand' Anse (Praslin)
+  code: "14"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.644653
+    minlatitude: -4.358298
+    maxlongitude: 55.761684
+    maxlatitude: -4.2921696
+    latitude: -4.3176217
+    longitude: 55.707836
+- name: La Digue
+  names:
+  - La Digue
+  code: "15"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.824287
+    minlatitude: -4.383166
+    maxlongitude: 55.856426
+    maxlatitude: -4.3370023
+    latitude: -4.359097
+    longitude: 55.841244
+- name: La Rivière Anglaise
+  names:
+  - La Rivière Anglaise
+  code: "16"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.44843
+    minlatitude: -4.624853
+    maxlongitude: 55.458687
+    maxlatitude: -4.6065288
+    latitude: -4.6149554
+    longitude: 55.454082
+- name: Mont Fleuri
+  names:
+  - Mont Fleuri
+  code: "18"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.447563
+    minlatitude: -4.644636
+    maxlongitude: 55.506565
+    maxlatitude: -4.60039
+    latitude: -4.6356544
+    longitude: 55.455467
+- name: Anse Boileau
+  names:
+  - Anse Boileau
+  code: "02"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.4748
+    minlatitude: -4.737117
+    maxlongitude: 55.50535
+    maxlatitude: -4.684034
+    latitude: -4.7047267
+    longitude: 55.485935
+- name: Baie Lazare
+  names:
+  - Baie Lazare
+  code: "06"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.464302
+    minlatitude: -4.766401
+    maxlongitude: 55.509342
+    maxlatitude: -4.733404
+    latitude: -4.7482524
+    longitude: 55.485935
+- name: Baie Sainte Anne
+  names:
+  - Baie Sainte Anne
+  code: "07"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.687466
+    minlatitude: -4.352548
+    maxlongitude: 55.788998
+    maxlatitude: -4.276453
+    latitude: -4.319328
+    longitude: 55.74117
+- name: Mont Buxton
+  names:
+  - Mont Buxton
+  code: "17"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.44091
+    minlatitude: -4.622685
+    maxlongitude: 55.453148
+    maxlatitude: -4.609877
+    latitude: -4.616667
+    longitude: 55.445778
+- name: Anse Étoile
+  names:
+  - Anse Étoile
+  code: "03"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.439896
+    minlatitude: -4.609877
+    maxlongitude: 55.462322
+    maxlatitude: -4.581683
+    latitude: -4.5962834
+    longitude: 55.449932
+- name: Glacis
+  names:
+  - Glacis
+  code: "12"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.43182
+    minlatitude: -4.596679
+    maxlongitude: 55.462322
+    maxlatitude: -4.5638566
+    latitude: -4.571973
+    longitude: 55.441624
+- name: Pointe La Rue
+  names:
+  - Pointe La Rue
+  code: "20"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.50525
+    minlatitude: -4.68688
+    maxlongitude: 55.53408
+    maxlatitude: -4.6648397
+    latitude: -4.680489
+    longitude: 55.519184
+- name: Plaisance
+  names:
+  - Plaisance
+  code: "19"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.451103
+    minlatitude: -4.667039
+    maxlongitude: 55.471207
+    maxlatitude: -4.6315427
+    latitude: -4.6489916
+    longitude: 55.461006
+- name: Port Glaud
+  names:
+  - Port Glaud
+  code: "21"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.360573
+    minlatitude: -4.679368
+    maxlongitude: 55.451103
+    maxlatitude: -4.625248
+    latitude: -4.6488523
+    longitude: 55.419476
+- name: Anse aux Pins
+  names:
+  - Anse aux Pins
+  code: "01"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.50234
+    minlatitude: -4.698597
+    maxlongitude: 55.522858
+    maxlatitude: -4.685153
+    latitude: -4.6900444
+    longitude: 55.51503
+- name: Anse Louis
+  names:
+  - Anse Louis
+  code: "04"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.476353
+    minlatitude: -4.7208304
+    maxlongitude: 55.479885
+    maxlatitude: -4.7165003
+    latitude: -4.7189827
+    longitude: 55.478317
+- name: Anse Royale
+  names:
+  - Anse Royale
+  code: "05"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.49602
+    minlatitude: -4.75697
+    maxlongitude: 55.525387
+    maxlatitude: -4.72669
+    latitude: -4.733333
+    longitude: 55.516666
+- name: Bel Ombre
+  names:
+  - Bel Ombre
+  code: "10"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.39882
+    minlatitude: -4.625768
+    maxlongitude: 55.423256
+    maxlatitude: -4.614627
+    latitude: -4.620484
+    longitude: 55.416706
+- name: Cascade
+  names:
+  - Cascade
+  code: "11"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.4701
+    minlatitude: -4.691629
+    maxlongitude: 55.511307
+    maxlatitude: -4.6502237
+    latitude: -4.670554
+    longitude: 55.497017
+- name: Grand' Anse (Mahé)
+  names:
+  - Grand' Anse (Mahé)
+  code: "13"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.43838
+    minlatitude: -4.708259
+    maxlongitude: 55.4861
+    maxlatitude: -4.657465
+    latitude: -4.677392
+    longitude: 55.463776
+- name: Saint Louis
+  names:
+  - Saint Louis
+  code: "22"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.43233
+    minlatitude: -4.6316137
+    maxlongitude: 55.44843
+    maxlatitude: -4.61719
+    latitude: -4.625195
+    longitude: 55.44301
+- name: Takamaka
+  names:
+  - Takamaka
+  code: "23"
+  countryalpha2: SC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.486446
+    minlatitude: -4.80503
+    maxlongitude: 55.534912
+    maxlatitude: -4.7590714
+    latitude: -4.784369
+    longitude: 55.508102

@@ -1,0 +1,184 @@
+- name: Ainaro
+  names:
+  - Ainaro
+  code: AN
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.425606
+    minlatitude: -9.225958
+    maxlongitude: 125.72658
+    maxlatitude: -8.756097
+    latitude: -9.011317
+    longitude: 125.522
+- name: Cova Lima
+  names:
+  - Kova-Lima
+  code: CO
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.978455
+    minlatitude: -9.459087
+    maxlongitude: 125.54038
+    maxlatitude: -9.005953
+    latitude: -9.265038
+    longitude: 125.2588
+- name: Dili
+  names:
+  - Dili
+  code: DI
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.51083
+    minlatitude: -8.575108
+    maxlongitude: 125.629105
+    maxlatitude: -8.537805
+    latitude: -8.55
+    longitude: 125.566666
+- name: Lautem
+  names:
+  - Lautem
+  code: LA
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.89676
+    minlatitude: -8.369245
+    maxlongitude: 126.90854
+    maxlatitude: -8.359786
+    latitude: -8.364
+    longitude: 126.904
+- name: Manufahi
+  names:
+  - Manufahi
+  code: MF
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.587776
+    minlatitude: -9.192458
+    maxlongitude: 126.05954
+    maxlatitude: -8.738135
+    latitude: -9.014549
+    longitude: 125.827995
+- name: Manatuto
+  names:
+  - Manatuto
+  code: MT
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.758415
+    minlatitude: -9.059713
+    maxlongitude: 126.196724
+    maxlatitude: -8.482016
+    latitude: -8.740692
+    longitude: 125.95878
+- name: Oecussi
+  names:
+  - Ambeno
+  - Ambino
+  - Oecusse
+  code: OE
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.07544
+    minlatitude: -9.501417
+    maxlongitude: 124.4829
+    maxlatitude: -9.174905
+    latitude: -9.297057
+    longitude: 124.286606
+- name: Aileu
+  names:
+  - Aileu
+  code: AL
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.45511
+    minlatitude: -8.850384
+    maxlongitude: 125.818054
+    maxlatitude: -8.559499
+    latitude: -8.704399
+    longitude: 125.60955
+- name: Baucau
+  names:
+  - Baukau
+  code: BA
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.445595
+    minlatitude: -8.49143
+    maxlongitude: 126.46521
+    maxlatitude: -8.456688
+    latitude: -8.466667
+    longitude: 126.45
+- name: Bobonaro
+  names:
+  - Bobonaro
+  code: BO
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.3165
+    minlatitude: -9.037585
+    maxlongitude: 125.32939
+    maxlatitude: -9.025768
+    latitude: -9.031944
+    longitude: 125.325
+- name: Ermera
+  names:
+  - Ermera
+  code: ER
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.39158
+    minlatitude: -8.75643
+    maxlongitude: 125.40513
+    maxlatitude: -8.745586
+    latitude: -8.752222
+    longitude: 125.39694
+- name: Liquiça
+  names:
+  - Likisia
+  code: LI
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.09336
+    minlatitude: -8.757555
+    maxlongitude: 125.527084
+    maxlatitude: -8.563306
+    latitude: -8.66741
+    longitude: 125.2588
+- name: Viqueque
+  names:
+  - Vikeke
+  code: VI
+  countryalpha2: TL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.046486
+    minlatitude: -8.99103
+    maxlongitude: 126.74017
+    maxlatitude: -8.59163
+    latitude: -8.808321
+    longitude: 126.34981

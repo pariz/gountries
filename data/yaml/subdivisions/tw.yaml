@@ -1,0 +1,322 @@
+- name: Nantou
+  names:
+  - Nantou
+  code: NAN
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.61556
+    minlatitude: 23.435385
+    maxlongitude: 121.34947
+    maxlatitude: 24.24631
+    latitude: 23.960999
+    longitude: 120.97186
+- name: Pingtung
+  names:
+  - Pingtung
+  code: PIF
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.35275
+    minlatitude: 21.896822
+    maxlongitude: 120.9042
+    maxlatitude: 22.885185
+    latitude: 22.551975
+    longitude: 120.54876
+- name: Taichung Municipality
+  names:
+  - Taichung Municipality
+  code: TXG
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 24.301983
+    longitude: 120.585464
+- name: Hsinchu
+  names:
+  - Hsinchu
+  code: HSQ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.87941
+    minlatitude: 24.712547
+    maxlongitude: 121.03355
+    maxlatitude: 24.856997
+    latitude: 24.80665
+    longitude: 120.96693
+- name: Keelung Municipality
+  names:
+  - Chilung Shih
+  code: KEE
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 25.13137
+    longitude: 121.74887
+- name: Kaohsiung
+  names:
+  - Kaohsiung
+  code: KHQ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.71186
+    minlatitude: 20.58622
+    maxlongitude: 121.04901
+    maxlatitude: 23.471727
+    latitude: 22.62728
+    longitude: 120.30144
+- name: Penghu
+  names:
+  - Penghu
+  code: PEN
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 119.314415
+    minlatitude: 23.186573
+    maxlongitude: 119.72695
+    maxlatitude: 23.775772
+    latitude: 23.57119
+    longitude: 119.579315
+- name: Taitung
+  names:
+  - Taidong
+  code: TTT
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.73906
+    minlatitude: 22.000973
+    maxlongitude: 121.60123
+    maxlatitude: 23.443724
+    latitude: 22.797245
+    longitude: 121.07137
+- name: Changhua
+  names:
+  - Changhua
+  code: CHA
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.499794
+    minlatitude: 24.037798
+    maxlongitude: 120.62588
+    maxlatitude: 24.11394
+    latitude: 24.07166
+    longitude: 120.56245
+- name: Chiayi Municipality
+  names:
+  - Chiai
+  code: CYI
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 23.48719
+    longitude: 120.45167
+- name: Taoyuan
+  names:
+  - Taoyuan
+  code: TAO
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.984566
+    minlatitude: 24.586483
+    maxlongitude: 121.47981
+    maxlatitude: 25.123137
+    latitude: 24.993628
+    longitude: 121.30098
+- name: Tainan Municipality
+  names:
+  - Tainan Municipality
+  code: TNN
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 23.003849
+    longitude: 120.21223
+- name: Tainan
+  names:
+  - Tainan
+  code: TNQ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.03548
+    minlatitude: 22.887491
+    maxlongitude: 120.65626
+    maxlatitude: 23.413757
+    latitude: 22.9999
+    longitude: 120.226875
+- name: Taichung
+  names:
+  - Taichung
+  code: TXQ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.4608
+    minlatitude: 23.998508
+    maxlongitude: 121.45095
+    maxlatitude: 24.441698
+    latitude: 24.147736
+    longitude: 120.673645
+- name: Chiayi
+  names:
+  - Chiayi
+  code: CYQ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.11744
+    minlatitude: 23.2148
+    maxlongitude: 120.95765
+    maxlatitude: 23.635927
+    latitude: 23.451843
+    longitude: 120.25546
+- name: Hualien
+  names:
+  - Hualian
+  code: HUA
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.986626
+    minlatitude: 23.097797
+    maxlongitude: 121.77145
+    maxlatitude: 24.37056
+    latitude: 23.94999
+    longitude: 121.55189
+- name: Kaohsiung Special Municipality
+  names:
+  - Kaohsiung Special Municipality
+  code: KHH
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.71186
+    minlatitude: 20.58622
+    maxlongitude: 121.04901
+    maxlatitude: 23.471727
+    latitude: 22.62728
+    longitude: 120.30144
+- name: Miaoli
+  names:
+  - Miaoli
+  code: MIA
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.622375
+    minlatitude: 24.288528
+    maxlongitude: 121.262634
+    maxlatitude: 24.741081
+    latitude: 24.56016
+    longitude: 120.82143
+- name: Taipei Special Municipality
+  names:
+  - Taipei Special Municipality
+  code: TPE
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.28268
+    minlatitude: 24.79008
+    maxlongitude: 121.73008
+    maxlatitude: 25.244373
+    latitude: 25.032969
+    longitude: 121.565414
+- name: Taipei
+  names:
+  - Taipei
+  code: TPQ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.28268
+    minlatitude: 24.79008
+    maxlongitude: 121.73008
+    maxlatitude: 25.244373
+    latitude: 25.032969
+    longitude: 121.565414
+- name: Yunlin
+  names:
+  - Yunlin
+  code: YUN
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.13298
+    minlatitude: 23.504314
+    maxlongitude: 120.736206
+    maxlatitude: 23.842146
+    latitude: 23.709204
+    longitude: 120.431335
+- name: Hsinchu Municipality
+  names:
+  - Hsinchu Municipality
+  code: HSZ
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.00861
+    minlatitude: 24.932182
+    maxlongitude: 121.01008
+    maxlatitude: 24.933718
+    latitude: 24.933079
+    longitude: 121.009315
+- name: Ilan
+  names:
+  - Ilan
+  code: ILA
+  countryalpha2: TW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.31672
+    minlatitude: 24.309444
+    maxlongitude: 123.49343
+    maxlatitude: 25.751709
+    latitude: 24.702106
+    longitude: 121.73775

@@ -1,0 +1,77 @@
+name:
+  common: Mozambique
+  official: Republic of Mozambique
+  native:
+    por:
+      common: Moçambique
+      official: República de Moçambique
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .mz
+languages:
+  por: Portuguese
+translations:
+  deu:
+    common: Mosambik
+    official: Republik Mosambik
+  fin:
+    common: Mosambik
+    official: Mosambikin tasavalta
+  fra:
+    common: Mozambique
+    official: République du Mozambique
+  hrv:
+    common: Mozambik
+    official: Republika Mozambiku
+  ita:
+    common: Mozambico
+    official: Repubblica del Mozambico
+  jpn:
+    common: モザンビーク
+    official: モザンビーク共和国
+  nld:
+    common: Mozambique
+    official: Republiek Mozambique
+  por:
+    common: Moçambique
+    official: República de Moçambique
+  rus:
+    common: Мозамбик
+    official: Республика Мозамбик
+  spa:
+    common: Mozambique
+    official: República de Mozambique
+currencies:
+- MZN
+borders:
+- MWI
+- ZAF
+- SWZ
+- TZA
+- ZMB
+- ZWE
+codes:
+  alpha2: MZ
+  alpha3: MOZ
+  cioc: MOZ
+  ccn3: "508"
+  callingcodes:
+  - "258"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Maputo
+  area: 801590
+coordinates:
+  longitudestring: 35 00 E
+  latitudestring: 18 15 S
+  minlongitude: 30.231388
+  minlatitude: -26.857222
+  maxlongitude: 40.84528
+  maxlatitude: 15.033333
+  latitude: -17.555864
+  longitude: 35.955692

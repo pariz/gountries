@@ -1,0 +1,126 @@
+- name: Tarija
+  names:
+  - Tarija
+  code: T
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -64.776245
+    minlatitude: -21.569519
+    maxlongitude: -64.6749
+    maxlatitude: -21.473415
+    latitude: -21.533333
+    longitude: -64.73333
+- name: El Beni
+  names:
+  - El Beni
+  code: B
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.54976
+    minlatitude: -16.44704
+    maxlongitude: -61.50248
+    maxlatitude: -10.400086
+    latitude: -14.378275
+    longitude: -65.09578
+- name: Cochabamba
+  names:
+  - Cochabamba
+  code: C
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.22223
+    minlatitude: -17.464867
+    maxlongitude: -66.10552
+    maxlatitude: -17.323214
+    latitude: -17.383333
+    longitude: -66.166664
+- name: Chuquisaca
+  names:
+  - Chuquisaca
+  code: H
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -65.695946
+    minlatitude: -21.498226
+    maxlongitude: -62.19986
+    maxlatitude: -18.350424
+    latitude: -20.024914
+    longitude: -64.14783
+- name: La Paz
+  names:
+  - La Paz
+  code: L
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -68.23686
+    minlatitude: -16.616865
+    maxlongitude: -68.01129
+    maxlatitude: -16.42456
+    latitude: -16.5
+    longitude: -68.15
+- name: Pando
+  names:
+  - Pando
+  code: "N"
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.566444
+    minlatitude: -12.500042
+    maxlongitude: -65.27995
+    maxlatitude: -9.680567
+    latitude: -10.79889
+    longitude: -66.9988
+- name: Oruro
+  names:
+  - Oruro
+  code: O
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.14741
+    minlatitude: -18.01661
+    maxlongitude: -67.027504
+    maxlatitude: -17.905895
+    latitude: -17.966667
+    longitude: -67.11667
+- name: Potosí
+  names:
+  - Potosí
+  code: P
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -65.79208
+    minlatitude: -19.610703
+    maxlongitude: -65.70969
+    maxlatitude: -19.531572
+    latitude: -19.57228
+    longitude: -65.755005
+- name: Santa Cruz
+  names:
+  - Santa Cruz
+  code: S
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -63.25769
+    minlatitude: -18.024445
+    maxlongitude: -62.76558
+    maxlatitude: -17.49084
+    latitude: -17.866667
+    longitude: 0

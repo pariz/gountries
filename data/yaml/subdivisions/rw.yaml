@@ -1,0 +1,70 @@
+- name: Est
+  names:
+  - Est
+  code: "02"
+  countryalpha2: RW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.957893
+    minlatitude: -2.4370115
+    maxlongitude: 30.895958
+    maxlatitude: -1.0534809
+    latitude: -1.9174871
+    longitude: 30.435762
+- name: Nord
+  names:
+  - Nord
+  code: "03"
+  countryalpha2: RW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.454336
+    minlatitude: -1.9085041
+    maxlongitude: 30.274553
+    maxlatitude: -1.314871
+    latitude: -1.656166
+    longitude: 29.881521
+- name: Ouest
+  names:
+  - Ouest
+  code: "04"
+  countryalpha2: RW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.856794
+    minlatitude: -2.749662
+    maxlongitude: 29.671675
+    maxlatitude: -1.501001
+    latitude: -2.07649
+    longitude: 29.325035
+- name: Sud
+  names:
+  - Sud
+  code: "05"
+  countryalpha2: RW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.26116
+    minlatitude: -2.840679
+    maxlongitude: 30.014542
+    maxlatitude: -1.7338349
+    latitude: -2.5546618
+    longitude: 29.60355
+- name: Ville de Kigali
+  names:
+  - Ville de Kigali
+  code: "01"
+  countryalpha2: RW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.024948
+    minlatitude: -2.0237231
+    maxlongitude: 30.184145
+    maxlatitude: -1.8858746
+    latitude: -1.943889
+    longitude: 30.059444

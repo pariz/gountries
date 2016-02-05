@@ -1,0 +1,74 @@
+name:
+  common: Mexico
+  official: United Mexican States
+  native:
+    spa:
+      common: México
+      official: Estados Unidos Mexicanos
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .mx
+languages:
+  spa: Spanish
+translations:
+  deu:
+    common: Mexiko
+    official: Vereinigte Mexikanische Staaten
+  fin:
+    common: Meksiko
+    official: Meksikon yhdysvallat
+  fra:
+    common: Mexique
+    official: États-Unis du Mexique
+  hrv:
+    common: Meksiko
+    official: Sjedinjene Meksičke Države
+  ita:
+    common: Messico
+    official: Stati Uniti del Messico
+  jpn:
+    common: メキシコ
+    official: メキシコ合衆国
+  nld:
+    common: Mexico
+    official: Verenigde Mexicaanse Staten
+  por:
+    common: México
+    official: Estados Unidos Mexicanos
+  rus:
+    common: Мексика
+    official: Мексиканских Соединенных Штатов
+  spa:
+    common: México
+    official: Estados Unidos Mexicanos
+currencies:
+- MXN
+borders:
+- BLZ
+- GTM
+- USA
+codes:
+  alpha2: MX
+  alpha3: MEX
+  cioc: MEX
+  ccn3: "484"
+  callingcodes:
+  - "52"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: Central America
+  continent: North America
+  capital: Mexico City
+  area: 1.964375e+06
+coordinates:
+  longitudestring: 102 00 W
+  latitudestring: 23 00 N
+  minlongitude: -119.92167
+  minlatitude: 14.55
+  maxlongitude: -86.71667
+  maxlatitude: 32.983334
+  latitude: 23.909094
+  longitude: -102.6334

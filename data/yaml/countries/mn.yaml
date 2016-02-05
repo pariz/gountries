@@ -1,0 +1,73 @@
+name:
+  common: Mongolia
+  official: Mongolia
+  native:
+    mon:
+      common: Монгол улс
+      official: Монгол улс
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .mn
+languages:
+  mon: Mongolian
+translations:
+  deu:
+    common: Mongolei
+    official: Mongolei
+  fin:
+    common: Mongolia
+    official: Mongolian tasavalta
+  fra:
+    common: Mongolie
+    official: Mongolie
+  hrv:
+    common: Mongolija
+    official: Mongolija
+  ita:
+    common: Mongolia
+    official: Mongolia
+  jpn:
+    common: モンゴル
+    official: モンゴル
+  nld:
+    common: Mongolië
+    official: Mongolië
+  por:
+    common: Mongólia
+    official: Mongólia
+  rus:
+    common: Монголия
+    official: Монголия
+  spa:
+    common: Mongolia
+    official: Mongolia
+currencies:
+- MNT
+borders:
+- CHN
+- RUS
+codes:
+  alpha2: MN
+  alpha3: MNG
+  cioc: MGL
+  ccn3: "496"
+  callingcodes:
+  - "976"
+  internationalprefix: "001"
+geo:
+  region: Asia
+  subregion: Eastern Asia
+  continent: Asia
+  capital: Ulan Bator
+  area: 1.56411e+06
+coordinates:
+  longitudestring: 105 00 E
+  latitudestring: 46 00 N
+  minlongitude: 87.78333
+  minlatitude: 41.55
+  maxlongitude: 119.916664
+  maxlatitude: 52.1
+  latitude: 46.83648
+  longitude: 103.066895

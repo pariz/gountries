@@ -1,0 +1,78 @@
+name:
+  common: Macau
+  official: Macao Special Administrative Region of the People's Republic of China
+  native:
+    por:
+      common: Macau
+      official: Região Administrativa Especial de Macau da República Popular da China
+    zho:
+      common: 澳門
+      official: 澳门特别行政区中国人民共和国
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .mo
+languages:
+  por: Portuguese
+  zho: Chinese
+translations:
+  deu:
+    common: Macao
+    official: Sonderverwaltungsregion Macau der Volksrepublik China
+  fin:
+    common: Macao
+    official: Macaon Kiinan kansantasavallan erityishallintoalue
+  fra:
+    common: Macao
+    official: Région administrative spéciale de Macao de la République populaire de
+      Chine
+  hrv:
+    common: Makao
+    official: Makao Posebnog upravnog područjaNarodne Republike Kine
+  ita:
+    common: Macao
+    official: Macao Regione amministrativa speciale della Repubblica Popolare Cinese
+  jpn:
+    common: マカオ
+    official: 中華人民共和国マカオ特別行政区
+  nld:
+    common: Macao
+    official: Speciale Administratieve Regio Macau van de Volksrepubliek China
+  por:
+    common: Macau
+    official: Macau Região Administrativa Especial da República Popular da China
+  rus:
+    common: Макао
+    official: Специальный административный район Макао Китайской Народной Республики
+      Китай
+  spa:
+    common: Macao
+    official: Macao, Región Administrativa Especial de la República Popular China
+currencies:
+- MOP
+borders:
+- CHN
+codes:
+  alpha2: MO
+  alpha3: MAC
+  cioc: ""
+  ccn3: "446"
+  callingcodes:
+  - "853"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Eastern Asia
+  continent: Asia
+  capital: ""
+  area: 30
+coordinates:
+  longitudestring: 113 33 E
+  latitudestring: 22 10 N
+  minlongitude: 113.53139
+  minlatitude: 22.1125
+  maxlongitude: 113.592224
+  maxlatitude: 22.216389
+  latitude: 22.140749
+  longitude: 113.56034

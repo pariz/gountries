@@ -1,0 +1,75 @@
+name:
+  common: Brunei
+  official: Nation of Brunei, Abode of Peace
+  native:
+    msa:
+      common: Negara Brunei Darussalam
+      official: Nation of Brunei, Abode Damai
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .bn
+languages:
+  msa: Malay
+translations:
+  cym:
+    common: Brunei
+    official: Nation of Brunei, Abode of Peace
+  deu:
+    common: Brunei
+    official: Nation von Brunei, Wohnung des Friedens
+  fin:
+    common: Brunei
+    official: Brunei Darussalamin valtio
+  fra:
+    common: Brunei
+    official: État de Brunei Darussalam
+  hrv:
+    common: Brunej
+    official: Nacija od Bruneja, Kuću Mira
+  ita:
+    common: Brunei
+    official: Nazione di Brunei, Dimora della Pace
+  jpn:
+    common: ブルネイ・ダルサラーム
+    official: ブルネイ、平和の精舎の国家
+  nld:
+    common: Brunei
+    official: Natie van Brunei, de verblijfplaats van de Vrede
+  por:
+    common: Brunei
+    official: Nação do Brunei, Morada da Paz
+  rus:
+    common: Бруней
+    official: Нация Бруней, обитель мира
+  spa:
+    common: Brunei
+    official: Nación de Brunei, Morada de la Paz
+currencies:
+- BND
+borders:
+- MYS
+codes:
+  alpha2: BN
+  alpha3: BRN
+  cioc: BRU
+  ccn3: "096"
+  callingcodes:
+  - "673"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: South-Eastern Asia
+  continent: Asia
+  capital: Bandar Seri Begawan
+  area: 5765
+coordinates:
+  longitudestring: 114 40 E
+  latitudestring: 4 30 N
+  minlongitude: 110
+  minlatitude: -2
+  maxlongitude: 120
+  maxlatitude: 5.05
+  latitude: 4.570384
+  longitude: 114.748184

@@ -1,0 +1,126 @@
+- name: Grande-Anse
+  names:
+  - Grande Anse
+  code: GA
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.4769
+    minlatitude: 18.357681
+    maxlongitude: -73.6987
+    maxlatitude: 18.675987
+    latitude: 18.548925
+    longitude: -74.07701
+- name: Nord
+  names:
+  - Nord
+  code: ND
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.678825
+    minlatitude: 19.24739
+    maxlongitude: -71.96107
+    maxlatitude: 19.88288
+    latitude: 19.568771
+    longitude: -72.189
+- name: Ouest
+  names:
+  - Ouest
+  code: OU
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.299515
+    minlatitude: 18.246012
+    maxlongitude: -71.692856
+    maxlatitude: 18.969692
+    latitude: 18.4957
+    longitude: -72.47315
+- name: Artibonite
+  names:
+  - LʿArtibonite
+  code: AR
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.13482
+    minlatitude: 18.839392
+    maxlongitude: -72.18431
+    maxlatitude: 19.81222
+    latitude: 19.362902
+    longitude: -72.42581
+- name: Nord-Est
+  names:
+  - Nord-Est
+  code: NE
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.11789
+    minlatitude: 19.25888
+    maxlongitude: -71.67503
+    maxlatitude: 19.72893
+    latitude: 19.488972
+    longitude: -71.85713
+- name: Nord-Ouest
+  names:
+  - Nord-Ouest
+  code: "NO"
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.45147
+    minlatitude: 19.625431
+    maxlongitude: -72.56576
+    maxlatitude: 20.087769
+    latitude: 19.8374
+    longitude: -73.04053
+- name: Sud
+  names:
+  - Sud
+  code: SD
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.446304
+    minlatitude: 18.022078
+    maxlongitude: -72.98867
+    maxlatitude: 18.423094
+    latitude: 18.332
+    longitude: -73.70071
+- name: Sud-Est
+  names:
+  - Sud-Est
+  code: SE
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.01317
+    minlatitude: 18.030148
+    maxlongitude: -71.724144
+    maxlatitude: 18.384912
+    latitude: 18.27836
+    longitude: -72.35479
+- name: Centre
+  names:
+  - Centre
+  code: CE
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.34954
+    minlatitude: 18.67771
+    maxlongitude: -71.61336
+    maxlatitude: 19.327566
+    latitude: 18.958275
+    longitude: -72.046814

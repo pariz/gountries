@@ -1,0 +1,154 @@
+- name: Oromiya
+  names:
+  - Oromiya
+  code: OR
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.13031
+    minlatitude: 3.402422
+    maxlongitude: 42.933914
+    maxlatitude: 10.3866005
+    latitude: 7.5460377
+    longitude: 40.634686
+- name: Adis Abeba
+  names:
+  - Adis Abeba
+  code: AA
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.656082
+    minlatitude: 8.840699
+    maxlongitude: 38.900208
+    maxlatitude: 9.085655
+    latitude: 8.980603
+    longitude: 38.75776
+- name: Afar
+  names:
+  - Affar
+  code: AF
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.671368
+    minlatitude: 8.840218
+    maxlongitude: 42.397427
+    maxlatitude: 14.46638
+    latitude: 11.755939
+    longitude: 40.958687
+- name: Amara
+  names:
+  - Amara
+  code: AM
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.275204
+    minlatitude: 8.728584
+    maxlongitude: 40.20614
+    maxlatitude: 13.764196
+    latitude: 11.349424
+    longitude: 37.97846
+- name: Binshangul Gumuz
+  names:
+  - Binshangul Gumuz
+  code: BE
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.10683
+    minlatitude: 8.783433
+    maxlongitude: 37.0328
+    maxlatitude: 12.054975
+    latitude: 10.780289
+    longitude: 35.565784
+- name: Hareri Hizb
+  names:
+  - Hareri Hizb
+  code: HA
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.075993
+    minlatitude: 9.174386
+    maxlongitude: 42.28935
+    maxlatitude: 9.378494
+    latitude: 9.314866
+    longitude: 42.19677
+- name: Dire Dawa
+  names:
+  - Dire Dawa
+  code: DD
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.821354
+    minlatitude: 9.5719
+    maxlongitude: 41.889923
+    maxlatitude: 9.638181
+    latitude: 9.600875
+    longitude: 41.850143
+- name: Gambela Hizboch
+  names:
+  - Gambela
+  code: GA
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.99994
+    minlatitude: 7.003087
+    maxlongitude: 35.364433
+    maxlatitude: 8.609194
+    latitude: 7.921969
+    longitude: 34.153194
+- name: YeDebub Biheroch Bihereseboch na Hizboch
+  names:
+  - YeDebub Biheroch Bihereseboch na Hizboch
+  code: SN
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.18756
+    minlatitude: 4.440267
+    maxlongitude: 39.143375
+    maxlatitude: 8.455645
+    latitude: 6.5156913
+    longitude: 36.954105
+- name: Sumale
+  names:
+  - Sumale
+  code: SO
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.692387
+    minlatitude: 3.938106
+    maxlongitude: 47.98618
+    maxlatitude: 11.088964
+    latitude: 6.661229
+    longitude: 43.790844
+- name: Tigray
+  names:
+  - Tigray
+  code: TI
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.451912
+    minlatitude: 12.246681
+    maxlongitude: 39.989845
+    maxlatitude: 14.89155
+    latitude: 14.032333
+    longitude: 38.316574
