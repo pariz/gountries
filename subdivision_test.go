@@ -13,26 +13,26 @@ func ExampleSubdivisions() {
 	}
 
 	// Output:
-	//Västerbottens län
-	//Uppsala län
-	//Södermanlands län
+	//Östergötlands län
+	//Jönköpings län
+	//Kalmar län
 	//Gotlands län
-	//Dalarnas län
-	//Stockholms län
-	//Norrbottens län
 	//Skåne län
 	//Hallands län
-	//Västra Götalands län
-	//Örebro län
-	//Jämtlands län
-	//Östergötlands län
+	//Stockholms län
+	//Uppsala län
 	//Västmanlands län
-	//Gävleborgs län
-	//Västernorrlands län
-	//Jönköpings län
+	//Örebro län
 	//Kronobergs län
-	//Kalmar län
 	//Blekinge län
 	//Värmlands län
+	//Jämtlands län
+	//Norrbottens län
+	//Västra Götalands län
+	//Dalarnas län
+	//Gävleborgs län
+	//Västernorrlands län
+	//Västerbottens län
+	//Södermanlands län
 
 }
