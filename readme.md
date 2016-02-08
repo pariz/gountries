@@ -1,8 +1,8 @@
 # gountries
 
-The shameless port of the countries gem to golang (well kinda).
+Inspired by the [countries](https://github.com/hexorx/countries) gem for ruby.
 
-This go package provides country information via a simple API.
+Countries (ISO-3166-1), Country Subdivisions(ISO-3166-2), Currencies (ISO 4217), Geo Coordinates(ISO-6709) as well as translations, country borders and other stuff exposed as struct data.
 
 All data is derived from the [pariz/countries](https://github.com/pariz/countries) repo.
 
