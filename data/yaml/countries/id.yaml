@@ -1,0 +1,74 @@
+name:
+  common: Indonesia
+  official: Republic of Indonesia
+  native:
+    ind:
+      common: Indonesia
+      official: Republik Indonesia
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .id
+languages:
+  ind: Indonesian
+translations:
+  deu:
+    common: Indonesien
+    official: Republik Indonesien
+  fin:
+    common: Indonesia
+    official: Indonesian tasavalta
+  fra:
+    common: Indonésie
+    official: République d'Indonésie
+  hrv:
+    common: Indonezija
+    official: Republika Indonezija
+  ita:
+    common: Indonesia
+    official: Repubblica di Indonesia
+  jpn:
+    common: インドネシア
+    official: インドネシア共和国
+  nld:
+    common: Indonesië
+    official: Republiek Indonesië
+  por:
+    common: Indonésia
+    official: República da Indonésia
+  rus:
+    common: Индонезия
+    official: Республика Индонезия
+  spa:
+    common: Indonesia
+    official: República de Indonesia
+currencies:
+- IDR
+borders:
+- TLS
+- MYS
+- PNG
+codes:
+  alpha2: ID
+  alpha3: IDN
+  cioc: INA
+  ccn3: "360"
+  callingcodes:
+  - "62"
+  internationalprefix: "001"
+geo:
+  region: Asia
+  subregion: South-Eastern Asia
+  continent: Asia
+  capital: Jakarta
+  area: 1.904569e+06
+coordinates:
+  longitudestring: 120 00 E
+  latitudestring: 5 00 S
+  minlongitude: 94.970276
+  minlatitude: -11
+  maxlongitude: 141.01666
+  maxlatitude: 10.616667
+  latitude: -1.2480891
+  longitude: 115.419

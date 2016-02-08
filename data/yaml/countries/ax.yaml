@@ -1,0 +1,71 @@
+name:
+  common: Åland Islands
+  official: Åland Islands
+  native:
+    swe:
+      common: Åland
+      official: Landskapet Åland
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ax
+languages:
+  swe: Swedish
+translations:
+  deu:
+    common: Åland
+    official: Åland-Inseln
+  fin:
+    common: Ahvenanmaa
+    official: Ahvenanmaan maakunta
+  fra:
+    common: Ahvenanmaa
+    official: Ahvenanmaa
+  hrv:
+    common: Ålandski otoci
+    official: Aland Islands
+  ita:
+    common: Isole Aland
+    official: Isole Åland
+  jpn:
+    common: オーランド諸島
+    official: オーランド諸島
+  nld:
+    common: Ålandeilanden
+    official: Åland eilanden
+  por:
+    common: Alândia
+    official: Ilhas Åland
+  rus:
+    common: Аландские острова
+    official: Аландские острова
+  spa:
+    common: Alandia
+    official: Islas Åland
+currencies:
+- EUR
+borders: []
+codes:
+  alpha2: AX
+  alpha3: ALA
+  cioc: ""
+  ccn3: "248"
+  callingcodes:
+  - "358"
+  internationalprefix: ""
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Mariehamn
+  area: 1580
+coordinates:
+  longitudestring: ""
+  latitudestring: ""
+  minlongitude: 19.263319
+  minlatitude: 59.727222
+  maxlongitude: 21.485853
+  maxlatitude: 60.74111
+  latitude: 60.20238
+  longitude: 19.965202

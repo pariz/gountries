@@ -1,0 +1,77 @@
+name:
+  common: Lebanon
+  official: Lebanese Republic
+  native:
+    ara:
+      common: لبنان
+      official: الجمهورية اللبنانية
+    fra:
+      common: Liban
+      official: République libanaise
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .lb
+languages:
+  ara: Arabic
+  fra: French
+translations:
+  deu:
+    common: Libanon
+    official: Libanesische Republik
+  fin:
+    common: Libanon
+    official: Libanonin tasavalta
+  fra:
+    common: Liban
+    official: République libanaise
+  hrv:
+    common: Libanon
+    official: Libanonska Republika
+  ita:
+    common: Libano
+    official: Repubblica libanese
+  jpn:
+    common: レバノン
+    official: レバノン共和国
+  nld:
+    common: Libanon
+    official: Libanese Republiek
+  por:
+    common: Líbano
+    official: República Libanesa
+  rus:
+    common: Ливан
+    official: Ливанская Республика
+  spa:
+    common: Líbano
+    official: República Libanesa
+currencies:
+- LBP
+borders:
+- ISR
+- SYR
+codes:
+  alpha2: LB
+  alpha3: LBN
+  cioc: LIB
+  ccn3: "422"
+  callingcodes:
+  - "961"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Western Asia
+  continent: Asia
+  capital: Beirut
+  area: 10452
+coordinates:
+  longitudestring: 35 50 E
+  latitudestring: 33 50 N
+  minlongitude: 35.10361
+  minlatitude: 33.078335
+  maxlongitude: 36.592777
+  maxlatitude: 34.69
+  latitude: 33.92541
+  longitude: 35.899727

@@ -1,0 +1,75 @@
+name:
+  common: Madagascar
+  official: Republic of Madagascar
+  native:
+    fra:
+      common: Madagascar
+      official: République de Madagascar
+    mlg:
+      common: Madagasikara
+      official: Repoblikan'i Madagasikara
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .mg
+languages:
+  fra: French
+  mlg: Malagasy
+translations:
+  deu:
+    common: Madagaskar
+    official: Republik Madagaskar
+  fin:
+    common: Madagaskar
+    official: Madagaskarin tasavalta
+  fra:
+    common: Madagascar
+    official: République de Madagascar
+  hrv:
+    common: Madagaskar
+    official: Republika Madagaskar
+  ita:
+    common: Madagascar
+    official: Repubblica del Madagascar
+  jpn:
+    common: マダガスカル
+    official: マダガスカル共和国
+  nld:
+    common: Madagaskar
+    official: Republiek Madagaskar
+  por:
+    common: Madagáscar
+    official: República de Madagáscar
+  rus:
+    common: Мадагаскар
+    official: Республика Мадагаскар
+  spa:
+    common: Madagascar
+    official: República de Madagascar
+currencies:
+- MGA
+borders: []
+codes:
+  alpha2: MG
+  alpha3: MDG
+  cioc: MAD
+  ccn3: "450"
+  callingcodes:
+  - "261"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Antananarivo
+  area: 587041
+coordinates:
+  longitudestring: 47 00 E
+  latitudestring: 20 00 S
+  minlongitude: 43.183334
+  minlatitude: -25.6
+  maxlongitude: 50.483334
+  maxlatitude: -11.95
+  latitude: -19.272394
+  longitude: 46.698433

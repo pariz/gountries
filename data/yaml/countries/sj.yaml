@@ -1,0 +1,71 @@
+name:
+  common: Svalbard and Jan Mayen
+  official: Svalbard og Jan Mayen
+  native:
+    nor:
+      common: Svalbard og Jan Mayen
+      official: Svalbard og Jan Mayen
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .sj
+languages:
+  nor: Norwegian
+translations:
+  deu:
+    common: Spitzbergen
+    official: Inselgruppe Spitzbergen
+  fin:
+    common: Huippuvuoret
+    official: Huippuvuoret
+  fra:
+    common: Svalbard et Jan Mayen
+    official: Jan Mayen Svalbard
+  hrv:
+    common: Svalbard i Jan Mayen
+    official: Svalbard og Jan Mayen
+  ita:
+    common: Svalbard e Jan Mayen
+    official: Svalbard og Jan Mayen
+  jpn:
+    common: スヴァールバル諸島およびヤンマイエン島
+    official: スバールバル諸島OGヤンマイエン
+  nld:
+    common: Svalbard en Jan Mayen
+    official: Svalbard og Jan Mayen
+  por:
+    common: Ilhas Svalbard e Jan Mayen
+    official: Svalbard og Jan Mayen
+  rus:
+    common: Шпицберген и Ян-Майен
+    official: Свальбарда ог Ян-Майен
+  spa:
+    common: Islas Svalbard y Jan Mayen
+    official: Svalbard og Jan Mayen
+currencies:
+- NOK
+borders: []
+codes:
+  alpha2: SJ
+  alpha3: SJM
+  cioc: ""
+  ccn3: "744"
+  callingcodes:
+  - "4779"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Longyearbyen
+  area: -1
+coordinates:
+  longitudestring: 20 00 E
+  latitudestring: 78 00 N
+  minlongitude: 10.5
+  minlatitude: 74.35
+  maxlongitude: 32.583332
+  maxlatitude: 80.816666
+  latitude: 71.048935
+  longitude: -8.195747

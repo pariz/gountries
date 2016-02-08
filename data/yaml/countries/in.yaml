@@ -1,0 +1,87 @@
+name:
+  common: India
+  official: Republic of India
+  native:
+    eng:
+      common: India
+      official: Republic of India
+    hin:
+      common: भारत
+      official: भारत गणराज्य
+    tam:
+      common: இந்தியா
+      official: இந்தியக் குடியரசு
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .in
+languages:
+  eng: English
+  hin: Hindi
+  tam: Tamil
+translations:
+  deu:
+    common: Indien
+    official: Republik Indien
+  fin:
+    common: Intia
+    official: Intian tasavalta
+  fra:
+    common: Inde
+    official: République de l'Inde
+  hrv:
+    common: Indija
+    official: Republika Indija
+  ita:
+    common: India
+    official: Repubblica dell'India
+  jpn:
+    common: インド
+    official: インド共和国
+  nld:
+    common: India
+    official: Republiek India
+  por:
+    common: Índia
+    official: República da Índia
+  rus:
+    common: Индия
+    official: Республика Индия
+  spa:
+    common: India
+    official: República de la India
+currencies:
+- INR
+borders:
+- AFG
+- BGD
+- BTN
+- MMR
+- CHN
+- NPL
+- PAK
+- LKA
+codes:
+  alpha2: IN
+  alpha3: IND
+  cioc: IND
+  ccn3: "356"
+  callingcodes:
+  - "91"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Southern Asia
+  continent: Asia
+  capital: New Delhi
+  area: 3.28759e+06
+coordinates:
+  longitudestring: 77 00 E
+  latitudestring: 20 00 N
+  minlongitude: 67.01667
+  minlatitude: 6.755556
+  maxlongitude: 97.35
+  maxlatitude: 35.955833
+  latitude: 23.406012
+  longitude: 79.45809

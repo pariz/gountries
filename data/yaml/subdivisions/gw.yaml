@@ -1,0 +1,126 @@
+- name: Bolama
+  names:
+  - Bolama
+  code: BL
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.49466
+    minlatitude: 11.564039
+    maxlongitude: -15.47106
+    maxlatitude: 11.59048
+    latitude: 11.577071
+    longitude: -15.480039
+- name: Cacheu
+  names:
+  - Cacheo
+  code: CA
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.175865
+    minlatitude: 12.254211
+    maxlongitude: -16.152693
+    maxlatitude: 12.27931
+    latitude: 12.273263
+    longitude: -16.166916
+- name: Quinara
+  names:
+  - Quinara
+  code: QU
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.61424
+    minlatitude: 11.327523
+    maxlongitude: -14.828703
+    maxlatitude: 11.941976
+    latitude: 11.795562
+    longitude: -15.172682
+- name: Gabú
+  names:
+  - Gabú
+  code: GA
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.570715
+    minlatitude: 11.56273
+    maxlongitude: -13.636522
+    maxlatitude: 12.677734
+    latitude: 11.896249
+    longitude: -14.100133
+- name: Oio
+  names:
+  - Oio
+  code: OI
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.765291
+    minlatitude: 11.890556
+    maxlongitude: -14.841685
+    maxlatitude: 12.680788
+    latitude: 12.276071
+    longitude: -15.313119
+- name: Tombali
+  names:
+  - Tombali
+  code: TO
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 11.300838
+    longitude: -15.409939
+- name: Bafatá
+  names:
+  - Bafatá
+  code: BA
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.674773
+    minlatitude: 12.155975
+    maxlongitude: -14.62615
+    maxlatitude: 12.200736
+    latitude: 12.171944
+    longitude: -14.6575
+- name: Biombo
+  names:
+  - Biombo
+  code: BM
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.968199
+    minlatitude: 11.73644
+    maxlongitude: -15.614591
+    maxlatitude: 12.026648
+    latitude: 11.852906
+    longitude: -15.735117
+- name: Bissau
+  names:
+  - Bissau
+  code: BS
+  countryalpha2: GW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.66214
+    minlatitude: 11.820782
+    maxlongitude: -15.557957
+    maxlatitude: 11.918003
+    latitude: 11.881656
+    longitude: -15.617794

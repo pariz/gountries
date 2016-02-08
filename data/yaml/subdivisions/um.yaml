@@ -1,0 +1,126 @@
+- name: Wake Island
+  names:
+  - Wake Island
+  code: "79"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.59892
+    minlatitude: -0.3824678
+    maxlongitude: -159.98491
+    maxlatitude: 28.397718
+    latitude: 19.28232
+    longitude: 166.64705
+- name: Howland Island
+  names:
+  - Howland Island
+  code: "84"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -176.62384
+    minlatitude: 0.7952522
+    maxlongitude: -176.61151
+    maxlatitude: 0.8192775
+    latitude: 0.8113219
+    longitude: -176.61827
+- name: Jarvis Island
+  names:
+  - Jarvis Island
+  code: "86"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -160.01346
+    minlatitude: -0.3824678
+    maxlongitude: -159.98491
+    maxlatitude: -0.3624568
+    latitude: -0.3743503
+    longitude: -159.99672
+- name: Kingman Reef
+  names:
+  - Kingman Reef
+  code: "89"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -162.41957
+    minlatitude: 6.379051
+    maxlongitude: -162.33238
+    maxlatitude: 6.446
+    latitude: 6.4331784
+    longitude: -162.38734
+- name: Palmyra Atoll
+  names:
+  - Palmyra Atoll
+  code: "95"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 5.883333
+    longitude: -162.08333
+- name: Johnston Atoll
+  names:
+  - Johnston Atoll
+  code: "67"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -169.54349
+    minlatitude: 16.72655
+    maxlongitude: -169.5171
+    maxlatitude: 16.741133
+    latitude: 16.732271
+    longitude: -169.53084
+- name: Midway Islands
+  names:
+  - Midway Islands
+  code: "71"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -177.39673
+    minlatitude: 28.195093
+    maxlongitude: -177.35991
+    maxlatitude: 28.218655
+    latitude: 28.210075
+    longitude: -177.37611
+- name: Navassa Island
+  names:
+  - Navassa Island
+  code: "76"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.02838
+    minlatitude: 18.396555
+    maxlongitude: -75.00005
+    maxlatitude: 18.42115
+    latitude: 18.410069
+    longitude: -75.01146
+- name: Baker Island
+  names:
+  - Baker Island
+  code: "81"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -176.48677
+    minlatitude: 0.1899033
+    maxlongitude: -176.47018
+    maxlatitude: 0.2008295
+    latitude: 0.1936266
+    longitude: -176.47691

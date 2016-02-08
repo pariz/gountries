@@ -1,0 +1,75 @@
+name:
+  common: Faroe Islands
+  official: Faroe Islands
+  native:
+    dan:
+      common: Færøerne
+      official: Færøerne
+    fao:
+      common: Føroyar
+      official: Føroyar
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .fo
+languages:
+  dan: Danish
+  fao: Faroese
+translations:
+  deu:
+    common: Färöer-Inseln
+    official: Färöer
+  fin:
+    common: Färsaaret
+    official: Färsaaret
+  fra:
+    common: Îles Féroé
+    official: Îles Féroé
+  hrv:
+    common: Farski Otoci
+    official: Farski Otoci
+  ita:
+    common: Isole Far Oer
+    official: Isole Faroe
+  jpn:
+    common: フェロー諸島
+    official: フェロー諸島
+  nld:
+    common: Faeröer
+    official: Faeröer
+  por:
+    common: Ilhas Faroé
+    official: Ilhas Faroe
+  rus:
+    common: Фарерские острова
+    official: Фарерские острова
+  spa:
+    common: Islas Faroe
+    official: Islas Feroe
+currencies:
+- DKK
+borders: []
+codes:
+  alpha2: FO
+  alpha3: FRO
+  cioc: ""
+  ccn3: "234"
+  callingcodes:
+  - "298"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Tórshavn
+  area: 1393
+coordinates:
+  longitudestring: 7 00 W
+  latitudestring: 62 00 N
+  minlongitude: -7.8
+  minlatitude: 61.333332
+  maxlongitude: -6.25
+  maxlatitude: 62.4
+  latitude: 62.00956
+  longitude: -6.8182554

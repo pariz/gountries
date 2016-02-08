@@ -1,0 +1,233 @@
+- name: Mecklenburg-Vorpommern
+  names:
+  - Mecklenburg-Vorpommern
+  code: MV
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.593614
+    minlatitude: 53.11032
+    maxlongitude: 14.412257
+    maxlatitude: 54.68469
+    latitude: 53.61265
+    longitude: 12.429595
+- name: Brandenburg
+  names:
+  - Brandenbourg
+  - Brandenburgo
+  code: BB
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.36108
+    minlatitude: 52.311577
+    maxlongitude: 12.725998
+    maxlatitude: 52.541775
+    latitude: 52.41253
+    longitude: 12.531645
+- name: Baden-Württemberg
+  names:
+  - Baden-Württemberg
+  code: BW
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.511757
+    minlatitude: 47.532368
+    maxlongitude: 10.495573
+    maxlatitude: 49.79133
+    latitude: 48.661602
+    longitude: 9.350134
+- name: Bayern
+  names:
+  - Bavière
+  - Bayern
+  - Bavaria
+  code: BY
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.97635
+    minlatitude: 47.27011
+    maxlongitude: 13.839637
+    maxlatitude: 50.564713
+    latitude: 48.790447
+    longitude: 11.4978895
+- name: Hamburg
+  names:
+  - Amburgo
+  - Hambourg
+  - Hamburgo
+  code: HH
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.730131
+    minlatitude: 53.396286
+    maxlongitude: 10.32528
+    maxlatitude: 53.739433
+    latitude: 53.551086
+    longitude: 9.993682
+- name: Berlin
+  names:
+  - Berlín
+  code: BE
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.089155
+    minlatitude: 52.33963
+    maxlongitude: 13.761118
+    maxlatitude: 52.675453
+    latitude: 52.520008
+    longitude: 13.404954
+- name: Bremen
+  names:
+  - Brème
+  code: HB
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.481758
+    minlatitude: 53.011604
+    maxlongitude: 8.990813
+    maxlatitude: 53.228912
+    latitude: 53.079296
+    longitude: 8.801694
+- name: Schleswig-Holstein
+  names:
+  - Schleswig-Holstein
+  code: SH
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.864961
+    minlatitude: 53.360825
+    maxlongitude: 11.312921
+    maxlatitude: 55.058125
+    latitude: 54.219368
+    longitude: 9.696116
+- name: Niedersachsen
+  names:
+  - Niedersachsen
+  code: NI
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.653967
+    minlatitude: 51.295067
+    maxlongitude: 11.598206
+    maxlatitude: 53.892212
+    latitude: 52.636703
+    longitude: 9.845077
+- name: Saarland
+  names:
+  - Saarland
+  code: SL
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.3576083
+    minlatitude: 49.111946
+    maxlongitude: 7.404584
+    maxlatitude: 49.63941
+    latitude: 49.396423
+    longitude: 7.0229607
+- name: Sachsen
+  names:
+  - Sachsen
+  code: SN
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.871436
+    minlatitude: 50.171364
+    maxlongitude: 15.041896
+    maxlatitude: 51.684708
+    latitude: 51.10454
+    longitude: 13.201738
+- name: Sachsen-Anhalt
+  names:
+  - Sachsen-Anhalt
+  code: ST
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.560839
+    minlatitude: 50.937878
+    maxlongitude: 13.186988
+    maxlatitude: 53.04045
+    latitude: 51.950264
+    longitude: 11.692273
+- name: Hessen
+  names:
+  - Hessen
+  - Hesse
+  code: HE
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.7724676
+    minlatitude: 49.39526
+    maxlongitude: 10.2363205
+    maxlatitude: 51.65756
+    latitude: 50.65205
+    longitude: 9.162437
+- name: Nordrhein-Westfalen
+  names:
+  - Nordrhein-Westfalen
+  - Rhénanie-Westphalie
+  code: NW
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.8663425
+    minlatitude: 50.3227
+    maxlongitude: 9.461635
+    maxlatitude: 52.53147
+    latitude: 51.433235
+    longitude: 7.661594
+- name: Rheinland-Pfalz
+  names:
+  - Rheinland-Pfalz
+  - Rhénanie-Palatinat
+  - Rhineland-Palatinate
+  code: RP
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.112266
+    minlatitude: 48.96642
+    maxlongitude: 8.508313
+    maxlatitude: 50.942307
+    latitude: 50.118347
+    longitude: 7.308953
+- name: Thüringen
+  names:
+  - Thüringen
+  code: TH
+  countryalpha2: DE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.876984
+    minlatitude: 50.204346
+    maxlongitude: 12.653933
+    maxlatitude: 51.648937
+    latitude: 51.01099
+    longitude: 10.845346

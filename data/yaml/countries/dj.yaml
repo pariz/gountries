@@ -1,0 +1,81 @@
+name:
+  common: Djibouti
+  official: Republic of Djibouti
+  native:
+    ara:
+      common: جيبوتي‎
+      official: جمهورية جيبوتي
+    fra:
+      common: Djibouti
+      official: République de Djibouti
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .dj
+languages:
+  ara: Arabic
+  fra: French
+translations:
+  cym:
+    common: Djibouti
+    official: Republic of Djibouti
+  deu:
+    common: Dschibuti
+    official: Republik Dschibuti
+  fin:
+    common: Dijibouti
+    official: Dijiboutin tasavalta
+  fra:
+    common: Djibouti
+    official: République de Djibouti
+  hrv:
+    common: Džibuti
+    official: Republika Džibuti
+  ita:
+    common: Gibuti
+    official: Repubblica di Gibuti
+  jpn:
+    common: ジブチ
+    official: ジブチ共和国
+  nld:
+    common: Djibouti
+    official: Republiek Djibouti
+  por:
+    common: Djibouti
+    official: República do Djibouti
+  rus:
+    common: Джибути
+    official: Республика Джибути
+  spa:
+    common: Djibouti
+    official: República de Djibouti
+currencies:
+- DJF
+borders:
+- ERI
+- ETH
+- SOM
+codes:
+  alpha2: DJ
+  alpha3: DJI
+  cioc: DJI
+  ccn3: "262"
+  callingcodes:
+  - "253"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Djibouti
+  area: 23200
+coordinates:
+  longitudestring: 43 00 E
+  latitudestring: 11 30 N
+  minlongitude: 41
+  minlatitude: 10.9825
+  maxlongitude: 43.451942
+  maxlatitude: 13
+  latitude: 11.742592
+  longitude: 42.63183

@@ -1,0 +1,28 @@
+- name: Príncipe
+  names:
+  - Príncipe
+  code: P
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.264759
+    minlatitude: 1.35852
+    maxlongitude: 7.4624634
+    maxlatitude: 1.6929356
+    latitude: 1.6139381
+    longitude: 7.4056926
+- name: São Tomé
+  names:
+  - São Tomé
+  code: S
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.701524
+    minlatitude: 0.2995513
+    maxlongitude: 6.752995
+    maxlatitude: 0.3843648
+    latitude: 0.3301924
+    longitude: 6.733343

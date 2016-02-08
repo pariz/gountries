@@ -1,0 +1,78 @@
+name:
+  common: Chile
+  official: Republic of Chile
+  native:
+    spa:
+      common: Chile
+      official: República de Chile
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .cl
+languages:
+  spa: Spanish
+translations:
+  cym:
+    common: Chile
+    official: Republic of Chile
+  deu:
+    common: Chile
+    official: Republik Chile
+  fin:
+    common: Chile
+    official: Chilen tasavalta
+  fra:
+    common: Chili
+    official: République du Chili
+  hrv:
+    common: Čile
+    official: Republika Čile
+  ita:
+    common: Cile
+    official: Repubblica del Cile
+  jpn:
+    common: チリ
+    official: チリ共和国
+  nld:
+    common: Chili
+    official: Republiek Chili
+  por:
+    common: Chile
+    official: República do Chile
+  rus:
+    common: Чили
+    official: Республика Чили
+  spa:
+    common: Chile
+    official: República de Chile
+currencies:
+- CLF
+- CLP
+borders:
+- ARG
+- BOL
+- PER
+codes:
+  alpha2: CL
+  alpha3: CHL
+  cioc: CHI
+  ccn3: "152"
+  callingcodes:
+  - "56"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Santiago
+  area: 756102
+coordinates:
+  longitudestring: 71 00 W
+  latitudestring: 30 00 S
+  minlongitude: -109.46667
+  minlatitude: -56.533333
+  maxlongitude: -66.433334
+  maxlatitude: -17.53
+  latitude: -35.78623
+  longitude: -71.674675

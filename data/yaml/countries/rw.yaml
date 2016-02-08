@@ -1,0 +1,83 @@
+name:
+  common: Rwanda
+  official: Republic of Rwanda
+  native:
+    eng:
+      common: Rwanda
+      official: Republic of Rwanda
+    fra:
+      common: Rwanda
+      official: République rwandaise
+    kin:
+      common: Rwanda
+      official: Repubulika y'u Rwanda
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .rw
+languages:
+  eng: English
+  fra: French
+  kin: Kinyarwanda
+translations:
+  deu:
+    common: Ruanda
+    official: Republik Ruanda
+  fin:
+    common: Ruanda
+    official: Ruandan tasavalta
+  fra:
+    common: Rwanda
+    official: République rwandaise
+  hrv:
+    common: Ruanda
+    official: Republika Ruandi
+  ita:
+    common: Ruanda
+    official: Repubblica del Ruanda
+  jpn:
+    common: ルワンダ
+    official: ルワンダ共和国
+  nld:
+    common: Rwanda
+    official: Republiek Rwanda
+  por:
+    common: Ruanda
+    official: República do Ruanda
+  rus:
+    common: Руанда
+    official: Республика Руанда
+  spa:
+    common: Ruanda
+    official: República de Rwanda
+currencies:
+- RWF
+borders:
+- BDI
+- COD
+- TZA
+- UGA
+codes:
+  alpha2: RW
+  alpha3: RWA
+  cioc: RWA
+  ccn3: "646"
+  callingcodes:
+  - "250"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Kigali
+  area: 26338
+coordinates:
+  longitudestring: 30 00 E
+  latitudestring: 2 00 S
+  minlongitude: 28.866667
+  minlatitude: -2.8
+  maxlongitude: 37
+  maxlatitude: 5
+  latitude: -1.9999498
+  longitude: 29.926058

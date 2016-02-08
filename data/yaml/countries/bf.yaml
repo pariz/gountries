@@ -1,0 +1,80 @@
+name:
+  common: Burkina Faso
+  official: Burkina Faso
+  native:
+    fra:
+      common: Burkina Faso
+      official: République du Burkina
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .bf
+languages:
+  fra: French
+translations:
+  cym:
+    common: Burkina Faso
+    official: Burkina Faso
+  deu:
+    common: Burkina Faso
+    official: Burkina Faso
+  fin:
+    common: Burkina Faso
+    official: Burkina Faso
+  fra:
+    common: Burkina Faso
+    official: République du Burkina
+  hrv:
+    common: Burkina Faso
+    official: Burkina Faso
+  ita:
+    common: Burkina Faso
+    official: Burkina Faso
+  jpn:
+    common: ブルキナファソ
+    official: ブルキナファソ
+  nld:
+    common: Burkina Faso
+    official: Burkina Faso
+  por:
+    common: Burkina Faso
+    official: Burkina Faso
+  rus:
+    common: Буркина-Фасо
+    official: Буркина -Фасо
+  spa:
+    common: Burkina Faso
+    official: Burkina Faso
+currencies:
+- XOF
+borders:
+- BEN
+- CIV
+- GHA
+- MLI
+- NER
+- TGO
+codes:
+  alpha2: BF
+  alpha3: BFA
+  cioc: BUR
+  ccn3: "854"
+  callingcodes:
+  - "226"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Ouagadougou
+  area: 272967
+coordinates:
+  longitudestring: 2 00 W
+  latitudestring: 13 00 N
+  minlongitude: -5.466667
+  minlatitude: 9.45
+  maxlongitude: 2.2655
+  maxlatitude: 14.983333
+  latitude: 12.284986
+  longitude: -1.7455606

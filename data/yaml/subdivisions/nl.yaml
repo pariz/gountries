@@ -1,0 +1,169 @@
+- name: Utrecht
+  names:
+  - Utrecht
+  code: UT
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.9697757
+    minlatitude: 52.02611
+    maxlongitude: 5.195207
+    maxlatitude: 52.14226
+    latitude: 52.090736
+    longitude: 5.12142
+- name: Zuid-Holland
+  names:
+  - Zuid-Holland
+  code: ZH
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.8393204
+    minlatitude: 51.656067
+    maxlongitude: 5.1492624
+    maxlatitude: 52.328274
+    latitude: 52.020798
+    longitude: 4.4937835
+- name: Flevoland
+  names:
+  - Flevoland
+  code: FL
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.122124
+    minlatitude: 52.252625
+    maxlongitude: 6.0116673
+    maxlatitude: 52.844048
+    latitude: 52.527977
+    longitude: 5.5953507
+- name: Friesland
+  names:
+  - Friesland
+  code: FR
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.8455653
+    minlatitude: 52.800694
+    maxlongitude: 6.4274764
+    maxlatitude: 53.5146
+    latitude: 53.164165
+    longitude: 5.781754
+- name: Gelderland
+  names:
+  - Gueldre
+  code: GE
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.9938807
+    minlatitude: 51.73361
+    maxlongitude: 6.8330417
+    maxlatitude: 52.522007
+    latitude: 52.045155
+    longitude: 5.8718233
+- name: Groningen
+  names:
+  - Groningue
+  - Groninga
+  code: GR
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.4625993
+    minlatitude: 53.178684
+    maxlongitude: 6.6669044
+    maxlatitude: 53.264725
+    latitude: 53.219383
+    longitude: 6.5665016
+- name: Noord-Brabant
+  names:
+  - Noord-Brabant
+  code: NB
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.190081
+    minlatitude: 51.220936
+    maxlongitude: 6.047724
+    maxlatitude: 51.830715
+    latitude: 51.482655
+    longitude: 5.2321687
+- name: Noord-Holland
+  names:
+  - Noord-Holland
+  code: NH
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.4937415
+    minlatitude: 52.16577
+    maxlongitude: 5.32828
+    maxlatitude: 53.18333
+    latitude: 52.520588
+    longitude: 4.788474
+- name: Drenthe
+  names:
+  - Drenthe
+  code: DR
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.11985
+    minlatitude: 52.612186
+    maxlongitude: 7.0929356
+    maxlatitude: 53.203743
+    latitude: 52.9476
+    longitude: 6.623059
+- name: Limburg
+  names:
+  - Limburg
+  code: LI
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.5660667
+    minlatitude: 50.750385
+    maxlongitude: 6.2268014
+    maxlatitude: 51.778576
+    latitude: 51.442722
+    longitude: 6.0608726
+- name: Overijssel
+  names:
+  - Overijssel
+  code: OV
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.7778254
+    minlatitude: 52.118023
+    maxlongitude: 7.072763
+    maxlatitude: 52.854237
+    latitude: 52.43878
+    longitude: 6.5016413
+- name: Zeeland
+  names:
+  - Zeeland
+  code: ZE
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.357962
+    minlatitude: 51.200333
+    maxlongitude: 4.279691
+    maxlatitude: 51.758423
+    latitude: 51.49403
+    longitude: 3.8496816

@@ -1,0 +1,140 @@
+- name: Ashanti
+  names:
+  - Asante
+  code: AH
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.451715
+    minlatitude: 5.853754
+    maxlongitude: -0.222413
+    maxlatitude: 7.62166
+    latitude: 6.7470436
+    longitude: -1.5208623
+- name: Eastern
+  names:
+  - Eastern
+  code: EP
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.2483401
+    minlatitude: 5.729348
+    maxlongitude: 0.322644
+    maxlatitude: 7.186541
+    latitude: 6.2374034
+    longitude: -0.4502368
+- name: Northern
+  names:
+  - Northern
+  code: NP
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.779666
+    minlatitude: 7.954847
+    maxlongitude: 0.56338
+    maxlatitude: 10.714593
+    latitude: 9.543927
+    longitude: -0.9056623
+- name: Upper East
+  names:
+  - Upper East
+  code: UE
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.575864
+    minlatitude: 10.270471
+    maxlongitude: 0.032068
+    maxlatitude: 11.173301
+    latitude: 10.70825
+    longitude: -0.9820668
+- name: Upper West
+  names:
+  - Upper West
+  code: UW
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.9455967
+    minlatitude: 9.652964
+    maxlongitude: -1.3693439
+    maxlatitude: 11.0189705
+    latitude: 10.252975
+    longitude: -2.1450245
+- name: Greater Accra
+  names:
+  - Greater Accra
+  code: AA
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.51121
+    minlatitude: 5.494835
+    maxlongitude: 0.72458
+    maxlatitude: 5.9961557
+    latitude: 5.8142834
+    longitude: 0.0746767
+- name: Brong-Ahafo
+  names:
+  - Brong-Ahafo
+  code: BA
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.091438
+    minlatitude: 6.386345
+    maxlongitude: 0.1875014
+    maxlatitude: 8.778668
+    latitude: 7.9559245
+    longitude: -1.6760691
+- name: Central
+  names:
+  - Central
+  code: CP
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.176695
+    minlatitude: 5.0336657
+    maxlongitude: -0.369136
+    maxlatitude: 6.304273
+    latitude: 5.560785
+    longitude: -1.0586135
+- name: Volta
+  names:
+  - Volta
+  code: TV
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3436661
+    minlatitude: 5.7696366
+    maxlongitude: 1.1917686
+    maxlatitude: 8.754108
+    latitude: 6.5781374
+    longitude: 0.4502368
+- name: Western
+  names:
+  - Western
+  code: WP
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.25542
+    minlatitude: 4.738815
+    maxlongitude: -1.417818
+    maxlatitude: 7.052661
+    latitude: 5.3901978
+    longitude: -2.1450245

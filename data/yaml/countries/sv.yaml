@@ -1,0 +1,77 @@
+name:
+  common: El Salvador
+  official: Republic of El Salvador
+  native:
+    spa:
+      common: El Salvador
+      official: República de El Salvador
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .sv
+languages:
+  spa: Spanish
+translations:
+  cym:
+    common: El Salvador
+    official: Republic of El Salvador
+  deu:
+    common: El Salvador
+    official: Republik El Salvador
+  fin:
+    common: El Salvador
+    official: El Salvadorin tasavalta
+  fra:
+    common: Salvador
+    official: République du Salvador
+  hrv:
+    common: Salvador
+    official: Republika El Salvador
+  ita:
+    common: El Salvador
+    official: Repubblica di El Salvador
+  jpn:
+    common: エルサルバドル
+    official: エルサルバドル共和国
+  nld:
+    common: El Salvador
+    official: Republiek El Salvador
+  por:
+    common: El Salvador
+    official: República de El Salvador
+  rus:
+    common: Сальвадор
+    official: Республика Эль-Сальвадор
+  spa:
+    common: El Salvador
+    official: República de El Salvador
+currencies:
+- SVC
+- USD
+borders:
+- GTM
+- HND
+codes:
+  alpha2: SV
+  alpha3: SLV
+  cioc: ESA
+  ccn3: "222"
+  callingcodes:
+  - "503"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: Central America
+  continent: North America
+  capital: San Salvador
+  area: 21041
+coordinates:
+  longitudestring: 88 55 W
+  latitudestring: 13 50 N
+  minlongitude: -90.11639
+  minlatitude: 13.158611
+  maxlongitude: -87.65722
+  maxlatitude: 14.433333
+  latitude: 13.671637
+  longitude: -88.86363

@@ -1,0 +1,80 @@
+name:
+  common: Papua New Guinea
+  official: Independent State of Papua New Guinea
+  native:
+    eng:
+      common: Papua New Guinea
+      official: Independent State of Papua New Guinea
+    hmo:
+      common: Papua Niu Gini
+      official: Independen Stet bilong Papua Niugini
+    tpi:
+      common: Papua Niugini
+      official: Independen Stet bilong Papua Niugini
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .pg
+languages:
+  eng: English
+  hmo: Hiri Motu
+  tpi: Tok Pisin
+translations:
+  deu:
+    common: Papua-Neuguinea
+    official: Unabhängige Staat Papua-Neuguinea
+  fin:
+    common: Papua-Uusi-Guinea
+    official: Papua-Uuden-Guinean Itsenäinen valtio
+  fra:
+    common: Papouasie-Nouvelle-Guinée
+    official: État indépendant de Papouasie-Nouvelle-Guinée
+  hrv:
+    common: Papua Nova Gvineja
+    official: Nezavisna Država Papui Novoj Gvineji
+  ita:
+    common: Papua Nuova Guinea
+    official: Stato indipendente di Papua Nuova Guinea
+  jpn:
+    common: パプアニューギニア
+    official: パプアニューギニア独立国
+  nld:
+    common: Papoea-Nieuw-Guinea
+    official: Onafhankelijke Staat Papoea -Nieuw-Guinea
+  por:
+    common: Papua Nova Guiné
+    official: Estado Independente da Papua Nova Guiné
+  rus:
+    common: Папуа — Новая Гвинея
+    official: Независимое Государство Папуа-Новой Гвинеи
+  spa:
+    common: Papúa Nueva Guinea
+    official: Estado Independiente de Papúa Nueva Guinea
+currencies:
+- PGK
+borders:
+- IDN
+codes:
+  alpha2: PG
+  alpha3: PNG
+  cioc: PNG
+  ccn3: "598"
+  callingcodes:
+  - "675"
+  internationalprefix: "05"
+geo:
+  region: Oceania
+  subregion: Melanesia
+  continent: Australia
+  capital: Port Moresby
+  area: 462840
+coordinates:
+  longitudestring: 147 00 E
+  latitudestring: 6 00 S
+  minlongitude: 120
+  minlatitude: -11.65
+  maxlongitude: 159.48334
+  maxlatitude: -0.733333
+  latitude: -6.8891597
+  longitude: 146.21445

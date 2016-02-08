@@ -1,0 +1,73 @@
+name:
+  common: Saint Martin
+  official: Saint Martin
+  native:
+    fra:
+      common: Saint-Martin
+      official: Saint-Martin
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .fr
+- .gp
+languages:
+  fra: French
+translations:
+  deu:
+    common: Saint Martin
+    official: St. Martin
+  fin:
+    common: Saint-Martin
+    official: Saint-Martin
+  fra:
+    common: Saint-Martin
+    official: Saint-Martin
+  hrv:
+    common: Sveti Martin
+    official: Saint Martin
+  ita:
+    common: Saint Martin
+    official: saint Martin
+  jpn:
+    common: サン・マルタン（フランス領）
+    official: サンマルタン島
+  nld:
+    common: Saint-Martin
+    official: Saint Martin
+  por:
+    common: São Martinho
+    official: saint Martin
+  rus:
+    common: Сен-Мартен
+    official: Сен-Мартен
+  spa:
+    common: Saint Martin
+    official: Saint Martin
+currencies:
+- EUR
+borders:
+- SXM
+codes:
+  alpha2: MF
+  alpha3: MAF
+  cioc: ""
+  ccn3: "663"
+  callingcodes:
+  - "590"
+  internationalprefix: ""
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Marigot
+  area: 53
+coordinates:
+  longitudestring: 63 57 W
+  latitudestring: 18 05 N
+  minlongitude: -63.153324
+  minlatitude: 18.046576
+  maxlongitude: -62.970394
+  maxlatitude: 18.125134
+  latitude: 18.042225
+  longitude: -63.066235

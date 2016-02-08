@@ -1,0 +1,83 @@
+name:
+  common: Tanzania
+  official: United Republic of Tanzania
+  native:
+    eng:
+      common: Tanzania
+      official: United Republic of Tanzania
+    swa:
+      common: Tanzania
+      official: Jamhuri ya Muungano wa Tanzania
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .tz
+languages:
+  eng: English
+  swa: Swahili
+translations:
+  deu:
+    common: Tansania
+    official: Vereinigte Republik Tansania
+  fin:
+    common: Tansania
+    official: Tansanian yhdistynyt tasavalta
+  fra:
+    common: Tanzanie
+    official: République -Unie de Tanzanie
+  hrv:
+    common: Tanzanija
+    official: Ujedinjena Republika Tanzanija
+  ita:
+    common: Tanzania
+    official: Repubblica Unita di Tanzania
+  jpn:
+    common: タンザニア
+    official: タンザニア連合共和国
+  nld:
+    common: Tanzania
+    official: Verenigde Republiek Tanzania
+  por:
+    common: Tanzânia
+    official: República Unida da Tanzânia
+  rus:
+    common: Танзания
+    official: Объединенная Республика Танзания
+  spa:
+    common: Tanzania
+    official: República Unida de Tanzania
+currencies:
+- TZS
+borders:
+- BDI
+- COD
+- KEN
+- MWI
+- MOZ
+- RWA
+- UGA
+- ZMB
+codes:
+  alpha2: TZ
+  alpha3: TZA
+  cioc: TAN
+  ccn3: "834"
+  callingcodes:
+  - "255"
+  internationalprefix: "000"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Dodoma
+  area: 945087
+coordinates:
+  longitudestring: 35 00 E
+  latitudestring: 6 00 S
+  minlongitude: 29.583332
+  minlatitude: -11.7
+  maxlongitude: 40.433334
+  maxlatitude: 0.833333
+  latitude: -6.306897
+  longitude: 34.853928

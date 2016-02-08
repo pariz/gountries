@@ -1,0 +1,506 @@
+- name: Dibër
+  names:
+  - Dibër
+  code: DI
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.778667
+    minlatitude: 41.26974
+    maxlongitude: 20.58323
+    maxlatitude: 41.89944
+    latitude: 41.588818
+    longitude: 20.235565
+- name: Gjirokastër
+  names:
+  - Gjirokastër
+  code: GJ
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.05537
+    minlatitude: 40.03307
+    maxlongitude: 20.16545
+    maxlatitude: 40.10647
+    latitude: 40.067287
+    longitude: 20.104523
+- name: Malësi e Madhe
+  names:
+  - Malesia e Madhe
+  code: MM
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.356365
+    minlatitude: 42.190968
+    maxlongitude: 19.835646
+    maxlatitude: 42.665615
+    latitude: 42.42452
+    longitude: 19.616318
+- name: Kukës
+  names:
+  - Kukës
+  code: KU
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.39174
+    minlatitude: 42.034473
+    maxlongitude: 20.443026
+    maxlatitude: 42.10079
+    latitude: 42.076668
+    longitude: 20.421667
+- name: Mirditë
+  names:
+  - Mirditë
+  code: MR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.713554
+    minlatitude: 41.688545
+    maxlongitude: 20.261951
+    maxlatitude: 42.028515
+    latitude: 41.764286
+    longitude: 19.90205
+- name: Përmet
+  names:
+  - Përmet
+  code: PR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.344126
+    minlatitude: 40.224483
+    maxlongitude: 20.36848
+    maxlatitude: 40.244926
+    latitude: 40.233334
+    longitude: 20.35
+- name: Shkodër
+  names:
+  - Shkodër
+  code: SH
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.379625
+    minlatitude: 42.032433
+    maxlongitude: 19.537983
+    maxlatitude: 42.096535
+    latitude: 42.069298
+    longitude: 19.503256
+- name: Librazhd
+  names:
+  - Librazhd
+  code: LB
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.305868
+    minlatitude: 41.17693
+    maxlongitude: 20.321981
+    maxlatitude: 41.189537
+    latitude: 41.183334
+    longitude: 20.316668
+- name: Lushnjë
+  names:
+  - Lushnjë
+  code: LU
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.681578
+    minlatitude: 40.915005
+    maxlongitude: 19.726381
+    maxlatitude: 40.955723
+    latitude: 40.933334
+    longitude: 19.7
+- name: Tiranë
+  names:
+  - Tiranë
+  - Tirana
+  - Tirana
+  code: TR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.753569
+    minlatitude: 41.295124
+    maxlongitude: 19.882078
+    maxlatitude: 41.36684
+    latitude: 41.327545
+    longitude: 19.818699
+- name: Berat
+  names:
+  - Berat
+  code: BR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.928713
+    minlatitude: 40.692352
+    maxlongitude: 19.98087
+    maxlatitude: 40.73061
+    latitude: 40.708637
+    longitude: 19.943731
+- name: Bulqizë
+  names:
+  - Bulqizë
+  code: BU
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.193815
+    minlatitude: 41.480804
+    maxlongitude: 20.23805
+    maxlatitude: 41.511406
+    latitude: 41.49426
+    longitude: 20.214716
+- name: Devoll
+  names:
+  - Devoli
+  code: DV
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.846697
+    minlatitude: 40.495255
+    maxlongitude: 21.06846
+    maxlatitude: 40.80388
+    latitude: 40.644733
+    longitude: 20.950665
+- name: Kolonjë
+  names:
+  - Kolonjë
+  code: ER
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.461351
+    minlatitude: 40.076225
+    maxlongitude: 20.805569
+    maxlatitude: 40.477882
+    latitude: 40.308304
+    longitude: 20.664568
+- name: Elbasan
+  names:
+  - Elbasan
+  code: EL
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.050678
+    minlatitude: 41.0875
+    maxlongitude: 20.127068
+    maxlatitude: 41.130898
+    latitude: 41.11023
+    longitude: 20.086655
+- name: Lezhë
+  names:
+  - Lezhë
+  code: LE
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.612055
+    minlatitude: 41.768272
+    maxlongitude: 19.673023
+    maxlatitude: 41.80862
+    latitude: 41.78607
+    longitude: 19.646076
+- name: Vlorë
+  names:
+  - Vlorë
+  code: VL
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.45301
+    minlatitude: 40.410393
+    maxlongitude: 19.510002
+    maxlatitude: 40.491234
+    latitude: 40.465
+    longitude: 19.485
+- name: Pukë
+  names:
+  - Pukë
+  code: PU
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.881865
+    minlatitude: 42.03435
+    maxlongitude: 19.910826
+    maxlatitude: 42.053562
+    latitude: 42.05
+    longitude: 19.9
+- name: Skrapar
+  names:
+  - Skrapar
+  code: SK
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.09238
+    minlatitude: 40.375256
+    maxlongitude: 20.452114
+    maxlatitude: 40.728657
+    latitude: 40.534996
+    longitude: 20.283222
+- name: Delvinë
+  names:
+  - Delvinë
+  code: DL
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.078888
+    minlatitude: 39.940937
+    maxlongitude: 20.109787
+    maxlatitude: 39.958603
+    latitude: 39.948135
+    longitude: 20.095589
+- name: Durrës
+  names:
+  - Durrës
+  code: DR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.418379
+    minlatitude: 41.281742
+    maxlongitude: 19.514809
+    maxlatitude: 41.38093
+    latitude: 41.316666
+    longitude: 19.45
+- name: Kavajë
+  names:
+  - Kavajë
+  code: KA
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.535751
+    minlatitude: 41.1552
+    maxlongitude: 19.589596
+    maxlatitude: 41.20888
+    latitude: 41.184452
+    longitude: 19.56276
+- name: Kuçovë
+  names:
+  - Kuçovë
+  code: KC
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.897528
+    minlatitude: 40.786457
+    maxlongitude: 19.930487
+    maxlatitude: 40.827904
+    latitude: 40.80389
+    longitude: 19.914444
+- name: Sarandë
+  names:
+  - Sarandë
+  code: SR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.969675
+    minlatitude: 39.849007
+    maxlongitude: 20.043526
+    maxlatitude: 39.8857
+    latitude: 39.875
+    longitude: 20.01
+- name: Gramsh
+  names:
+  - Gramsh
+  code: GR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.179695
+    minlatitude: 40.85362
+    maxlongitude: 20.193644
+    maxlatitude: 40.87864
+    latitude: 40.86667
+    longitude: 20.183332
+- name: Korçë
+  names:
+  - Korçë
+  code: KO
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.76223
+    minlatitude: 40.598576
+    maxlongitude: 20.797634
+    maxlatitude: 40.63664
+    latitude: 40.61408
+    longitude: 20.777807
+- name: Krujë
+  names:
+  - Krujë
+  code: KR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.72475
+    minlatitude: 41.456623
+    maxlongitude: 19.825
+    maxlatitude: 41.55985
+    latitude: 41.509476
+    longitude: 19.771072
+- name: Pogradec
+  names:
+  - Pogradec
+  code: PG
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.644619
+    minlatitude: 40.890125
+    maxlongitude: 20.670498
+    maxlatitude: 40.90679
+    latitude: 40.9
+    longitude: 20.65
+- name: Mat
+  names:
+  - Mat
+  code: MT
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.778667
+    minlatitude: 41.36723
+    maxlongitude: 20.22464
+    maxlatitude: 41.78479
+    latitude: 41.59377
+    longitude: 19.997324
+- name: Peqin
+  names:
+  - Peqin
+  code: PQ
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.740887
+    minlatitude: 41.041004
+    maxlongitude: 19.760714
+    maxlatitude: 41.051785
+    latitude: 41.05
+    longitude: 19.75
+- name: Tepelenë
+  names:
+  - Tepelenë
+  code: TE
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.011683
+    minlatitude: 40.29105
+    maxlongitude: 20.026617
+    maxlatitude: 40.302933
+    latitude: 40.3
+    longitude: 20.016666
+- name: Tropojë
+  names:
+  - Tropojë
+  code: TP
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.155148
+    minlatitude: 42.391483
+    maxlongitude: 20.173258
+    maxlatitude: 42.406918
+    latitude: 42.4
+    longitude: 20.166668
+- name: Fier
+  names:
+  - Fier
+  code: FR
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.32162
+    minlatitude: 40.418137
+    maxlongitude: 19.92129
+    maxlatitude: 41.064865
+    latitude: 40.91914
+    longitude: 19.66393
+- name: Has
+  names:
+  - Has
+  code: HA
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.399424
+    minlatitude: 42.189163
+    maxlongitude: 20.426224
+    maxlatitude: 42.20436
+    latitude: 42.2
+    longitude: 20.416668
+- name: Kurbin
+  names:
+  - Kurbin
+  code: KB
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.554625
+    minlatitude: 41.556656
+    maxlongitude: 19.824306
+    maxlatitude: 41.694035
+    latitude: 41.630035
+    longitude: 19.687738
+- name: Mallakastër
+  names:
+  - Mallakastër
+  code: MK
+  countryalpha2: AL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.674152
+    minlatitude: 40.418137
+    maxlongitude: 19.92129
+    maxlatitude: 40.65577
+    latitude: 40.527336
+    longitude: 19.78298

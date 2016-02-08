@@ -1,0 +1,77 @@
+name:
+  common: Guinea
+  official: Republic of Guinea
+  native:
+    fra:
+      common: Guinée
+      official: République de Guinée
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gn
+languages:
+  fra: French
+translations:
+  deu:
+    common: Guinea
+    official: Republik Guinea
+  fin:
+    common: Guinea
+    official: Guinean tasavalta
+  fra:
+    common: Guinée
+    official: République de Guinée
+  hrv:
+    common: Gvineja
+    official: Republika Gvineja
+  ita:
+    common: Guinea
+    official: Repubblica di Guinea
+  jpn:
+    common: ギニア
+    official: ギニア共和国
+  nld:
+    common: Guinee
+    official: Republiek Guinee
+  por:
+    common: Guiné
+    official: República da Guiné
+  rus:
+    common: Гвинея
+    official: Республика Гвинея
+  spa:
+    common: Guinea
+    official: República de Guinea
+currencies:
+- GNF
+borders:
+- CIV
+- GNB
+- LBR
+- MLI
+- SEN
+- SLE
+codes:
+  alpha2: GN
+  alpha3: GIN
+  cioc: GUI
+  ccn3: "324"
+  callingcodes:
+  - "224"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Conakry
+  area: 245857
+coordinates:
+  longitudestring: 10 00 W
+  latitudestring: 11 00 N
+  minlongitude: -15.366667
+  minlatitude: 7
+  maxlongitude: -4
+  maxlatitude: 12.633333
+  latitude: 10.429302
+  longitude: -10.98955

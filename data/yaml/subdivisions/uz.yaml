@@ -1,0 +1,233 @@
+- name: Surxondaryo
+  names:
+  - Surkhondar
+  code: SU
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 66.51778
+    minlatitude: 37.18433
+    maxlongitude: 68.40264
+    maxlatitude: 39.078876
+    latitude: 37.9409
+    longitude: 67.570854
+- name: Toshkent City
+  names:
+  - Toshkent City
+  code: TK
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.146515
+    minlatitude: 41.166637
+    maxlongitude: 69.412224
+    maxlatitude: 41.39856
+    latitude: 41.266666
+    longitude: 69.21667
+- name: Toshkent
+  names:
+  - Taškent
+  - Toshkent
+  - Toşkent
+  - Toshkent
+  - Taschkent
+  - Tachkent
+  code: TO
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.146515
+    minlatitude: 41.166637
+    maxlongitude: 69.412224
+    maxlatitude: 41.39856
+    latitude: 41.266666
+    longitude: 69.21667
+- name: Buxoro
+  names:
+  - Boukhara
+  - Buchara
+  - Buhara
+  - Buhoro
+  - Bukhara
+  - Bukhoro
+  code: BU
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 64.343834
+    minlatitude: 39.730965
+    maxlongitude: 64.50176
+    maxlatitude: 39.82411
+    latitude: 39.76808
+    longitude: 64.455574
+- name: Navoiy
+  names:
+  - Navoi
+  - Navoj
+  - Navoy
+  code: NW
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 65.30617
+    minlatitude: 40.065594
+    maxlongitude: 65.43706
+    maxlatitude: 40.13043
+    latitude: 40.084442
+    longitude: 65.379166
+- name: Qashqadaryo
+  names:
+  - Kashkadar
+  - Kashkadaria
+  - Kashkadarya
+  - Kaskadar
+  - Qashqadar
+  - Qasqadar
+  - Qaşqadar
+  - Ķaşķadar
+  code: QA
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 64.331024
+    minlatitude: 38.026672
+    maxlongitude: 67.683914
+    maxlatitude: 39.532375
+    latitude: 38.898624
+    longitude: 66.04636
+- name: Samarqand
+  names:
+  - Samarqand
+  - Samarķand
+  - Samarkand
+  - Samarkand
+  code: SA
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 66.80237
+    minlatitude: 39.54085
+    maxlongitude: 67.13341
+    maxlatitude: 39.740524
+    latitude: 39.6542
+    longitude: 66.9597
+- name: Jizzax
+  names:
+  - Cizah
+  - Cizak
+  - Djizak
+  - Dzhizak
+  - Džizak
+  - Jizzakh
+  code: JI
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 67.776375
+    minlatitude: 40.045883
+    maxlongitude: 67.93242
+    maxlatitude: 40.191727
+    latitude: 40.115833
+    longitude: 67.842224
+- name: Xorazm
+  names:
+  - Khorazm
+  code: XO
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 60.060196
+    minlatitude: 40.56499
+    maxlongitude: 62.359825
+    maxlatitude: 42.004253
+    latitude: 41.356533
+    longitude: 60.85667
+- name: Andijon
+  names:
+  - Andijon
+  - Andizhan
+  - Andižan
+  code: AN
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.2176
+    minlatitude: 40.68142
+    maxlongitude: 72.42169
+    maxlatitude: 40.877308
+    latitude: 40.815357
+    longitude: 72.28375
+- name: Namangan
+  names:
+  - Namangan
+  - Namaņgan
+  code: NG
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 71.53408
+    minlatitude: 40.883694
+    maxlongitude: 71.755165
+    maxlatitude: 41.05724
+    latitude: 41.00111
+    longitude: 71.668335
+- name: Qoraqalpog‘iston Respublikasi
+  names:
+  - Karakalpakistan
+  - Qoraqalpoghiston
+  - Qoraqalpogiston
+  code: QR
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.996635
+    minlatitude: 40.993828
+    maxlongitude: 62.371593
+    maxlatitude: 45.60519
+    latitude: 43.804134
+    longitude: 59.445797
+- name: Farg‘ona
+  names:
+  - Farghona
+  - Fergana
+  - Ferghana
+  - Ferghona
+  code: FA
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 71.71952
+    minlatitude: 40.332657
+    maxlongitude: 71.8614
+    maxlatitude: 40.42689
+    latitude: 40.38639
+    longitude: 71.78639
+- name: Sirdaryo
+  names:
+  - Sirdare
+  - Syrdarja
+  - Syrdarya
+  code: SI
+  countryalpha2: UZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.64206
+    minlatitude: 40.8027
+    maxlongitude: 68.698586
+    maxlatitude: 40.875137
+    latitude: 40.85
+    longitude: 68.666664

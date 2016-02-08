@@ -1,0 +1,224 @@
+- name: Kayanza
+  names:
+  - Kayanza
+  code: KY
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.61811
+    minlatitude: -2.9284687
+    maxlongitude: 29.63502
+    maxlatitude: -2.9145823
+    latitude: -2.921853
+    longitude: 29.625286
+- name: Rutana
+  names:
+  - Rutana
+  code: RT
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.985895
+    minlatitude: -3.9334452
+    maxlongitude: 29.99628
+    maxlatitude: -3.9175184
+    latitude: -3.92572
+    longitude: 29.989952
+- name: Ruyigi
+  names:
+  - Ruyigi
+  code: RY
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.239697
+    minlatitude: -3.4831793
+    maxlongitude: 30.253687
+    maxlatitude: -3.4652736
+    latitude: -3.4750028
+    longitude: 30.248388
+- name: Bubanza
+  names:
+  - Bubanza
+  code: BB
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.386969
+    minlatitude: -3.090808
+    maxlongitude: 29.40216
+    maxlatitude: -3.078209
+    latitude: -3.083333
+    longitude: 29.4
+- name: Bujumbura
+  names:
+  - Bujumbura
+  code: BJ
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.301395
+    minlatitude: -3.453263
+    maxlongitude: 29.40937
+    maxlatitude: -3.2973382
+    latitude: -3.383333
+    longitude: 29.366667
+- name: Bururi
+  names:
+  - Bururi
+  code: BR
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.61485
+    minlatitude: -3.9569073
+    maxlongitude: 29.63649
+    maxlatitude: -3.9389682
+    latitude: -3.95
+    longitude: 29.616667
+- name: Gitega
+  names:
+  - Kitega
+  code: GI
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.910536
+    minlatitude: -3.4452257
+    maxlongitude: 29.94032
+    maxlatitude: -3.4176378
+    latitude: -3.428803
+    longitude: 29.924904
+- name: Karuzi
+  names:
+  - Karusi
+  code: KR
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.154037
+    minlatitude: -3.114891
+    maxlongitude: 30.171026
+    maxlatitude: -3.0940647
+    latitude: -3.1
+    longitude: 30.166668
+- name: Mwaro
+  names:
+  - Mwaro
+  code: MW
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.692698
+    minlatitude: -3.5229304
+    maxlongitude: 29.710894
+    maxlatitude: -3.5021982
+    latitude: -3.511985
+    longitude: 29.699163
+- name: Muyinga
+  names:
+  - Muhinga
+  code: MY
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.332441
+    minlatitude: -2.8562908
+    maxlongitude: 30.35253
+    maxlatitude: -2.834775
+    latitude: -2.85
+    longitude: 30.333332
+- name: Cankuzo
+  names:
+  - Cankuzo
+  code: CA
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.541365
+    minlatitude: -3.227476
+    maxlongitude: 30.55168
+    maxlatitude: -3.2114973
+    latitude: -3.219682
+    longitude: 30.54662
+- name: Cibitoke
+  names:
+  - Cibitoke
+  code: CI
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.116377
+    minlatitude: -2.8941593
+    maxlongitude: 29.12881
+    maxlatitude: -2.8800368
+    latitude: -2.888611
+    longitude: 29.12
+- name: Makamba
+  names:
+  - Makamba
+  code: MA
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.796574
+    minlatitude: -4.144043
+    maxlongitude: 29.816465
+    maxlatitude: -4.1278844
+    latitude: -4.133333
+    longitude: 29.8
+- name: Ngozi
+  names:
+  - Ngozi
+  code: NG
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.805693
+    minlatitude: -2.9199827
+    maxlongitude: 29.840776
+    maxlatitude: -2.8970525
+    latitude: -2.9
+    longitude: 29.833332
+- name: Kirundo
+  names:
+  - Kirundo
+  code: KI
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.093098
+    minlatitude: -2.5880303
+    maxlongitude: 30.097904
+    maxlatitude: -2.5823715
+    latitude: -2.584838
+    longitude: 30.09613
+- name: Muramvya
+  names:
+  - Muramuya
+  code: MU
+  countryalpha2: BI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.61339
+    minlatitude: -3.2741165
+    maxlongitude: 29.634504
+    maxlatitude: -3.2618628
+    latitude: -3.2675245
+    longitude: 29.622387

@@ -1,0 +1,73 @@
+name:
+  common: Moldova
+  official: Republic of Moldova
+  native:
+    ron:
+      common: Moldova
+      official: Republica Moldova
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .md
+languages:
+  ron: Moldavian
+translations:
+  deu:
+    common: Moldawie
+    official: Republik Moldau
+  fin:
+    common: Moldova
+    official: Moldovan tasavalta
+  fra:
+    common: Moldavie
+    official: République de Moldavie
+  hrv:
+    common: Moldova
+    official: Moldavija
+  ita:
+    common: Moldavia
+    official: Repubblica di Moldova
+  jpn:
+    common: モルドバ共和国
+    official: モルドバ共和国
+  nld:
+    common: Moldavië
+    official: Republiek Moldavië
+  por:
+    common: Moldávia
+    official: República da Moldávia
+  rus:
+    common: Молдавия
+    official: Молдова
+  spa:
+    common: Moldavia
+    official: República de Moldova
+currencies:
+- MDL
+borders:
+- ROU
+- UKR
+codes:
+  alpha2: MD
+  alpha3: MDA
+  cioc: MDA
+  ccn3: "498"
+  callingcodes:
+  - "373"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Europe
+  capital: Chișinău
+  area: 33846
+coordinates:
+  longitudestring: 29 00 E
+  latitudestring: 47 00 N
+  minlongitude: 26.672222
+  minlatitude: 45.481667
+  maxlongitude: 30.096111
+  maxlatitude: 48.46722
+  latitude: 47.203705
+  longitude: 28.468344

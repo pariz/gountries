@@ -1,0 +1,126 @@
+- name: Norðurland vestra
+  names:
+  - Norðurland vestra
+  code: "5"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -21.119078
+    minlatitude: 64.773224
+    maxlongitude: -18.295774
+    maxlatitude: 66.16005
+    latitude: 65.19625
+    longitude: -19.24258
+- name: Norðurland eystra
+  names:
+  - Norðurland eystra
+  code: "6"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -19.042782
+    minlatitude: 64.41007
+    maxlongitude: -14.541981
+    maxlatitude: 66.563774
+    latitude: 65.471375
+    longitude: -17.028028
+- name: Suðurland
+  names:
+  - Suðurland
+  code: "8"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -21.922003
+    minlatitude: 63.297382
+    maxlongitude: -17.265951
+    maxlatitude: 64.877304
+    latitude: 64.26614
+    longitude: -18.815813
+- name: Reykjavík
+  names:
+  - Reykjavík
+  code: "0"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -21.986502
+    minlatitude: 64.08981
+    maxlongitude: -21.718382
+    maxlatitude: 64.17507
+    latitude: 64.13333
+    longitude: -21.933332
+- name: Höfuðborgarsvæði utan Reykjavíkur
+  names:
+  - Höfuðborgarsvæði utan Reykjavíkur
+  code: "1"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 64.14752
+    longitude: -21.942808
+- name: Vesturland
+  names:
+  - Vesturland
+  code: "3"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.06094
+    minlatitude: 64.3024
+    maxlongitude: -19.78107
+    maxlatitude: 65.51734
+    latitude: 64.77043
+    longitude: -21.53413
+- name: Vestfirðir
+  names:
+  - Vestfirðir
+  code: "4"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.546524
+    minlatitude: 64.96292
+    maxlongitude: -20.974667
+    maxlatitude: 66.46997
+    latitude: 65.91962
+    longitude: -21.881176
+- name: Suðurnes
+  names:
+  - Suðurnes
+  code: "2"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -22.754467
+    minlatitude: 63.80002
+    maxlongitude: -21.711943
+    maxlatitude: 64.08244
+    latitude: 63.91548
+    longitude: -22.364967
+- name: Austurland
+  names:
+  - Austurland
+  code: "7"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.368185
+    minlatitude: 63.77614
+    maxlongitude: -13.495815
+    maxlatitude: 66.18994
+    latitude: 64.833
+    longitude: -15.743398

@@ -1,0 +1,70 @@
+- name: Western
+  names:
+  - Western
+  code: W
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 176.92113
+    minlatitude: -18.598341
+    maxlongitude: 178.45468
+    maxlatitude: -16.696295
+    latitude: -17.751085
+    longitude: 177.77634
+- name: Central
+  names:
+  - Central
+  code: C
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.77277
+    minlatitude: -18.423275
+    maxlongitude: 178.77293
+    maxlatitude: -17.37659
+    latitude: -17.945312
+    longitude: 178.24612
+- name: Eastern
+  names:
+  - Eastern
+  code: E
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.95885
+    minlatitude: -20.66943
+    maxlongitude: -178.39288
+    maxlatitude: -17.00193
+    latitude: -17.688972
+    longitude: 178.80708
+- name: Northern
+  names:
+  - Northern
+  code: "N"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 178.27167
+    minlatitude: -17.114206
+    maxlongitude: -179.15424
+    maxlatitude: -15.715927
+    latitude: -16.626823
+    longitude: 179.01793
+- name: Rotuma
+  names:
+  - Rotuma
+  code: R
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.01091
+    minlatitude: -12.522689
+    maxlongitude: 177.1373
+    maxlatitude: -12.479535
+    latitude: -12.502507
+    longitude: 177.07242

@@ -1,0 +1,154 @@
+- name: Matam
+  names:
+  - Matam
+  code: MT
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.263674
+    minlatitude: 15.639072
+    maxlongitude: -13.24625
+    maxlatitude: 15.669032
+    latitude: 15.660023
+    longitude: -13.25769
+- name: Tambacounda
+  names:
+  - Tambacounda
+  code: TC
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.70303
+    minlatitude: 13.7446375
+    maxlongitude: -13.635235
+    maxlatitude: 13.797156
+    latitude: 13.768889
+    longitude: -13.667222
+- name: Thiès
+  names:
+  - Thiès
+  code: TH
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.982822
+    minlatitude: 14.735142
+    maxlongitude: -16.871717
+    maxlatitude: 14.849721
+    latitude: 14.766667
+    longitude: -16.9
+- name: Ziguinchor
+  names:
+  - Ziguinchor
+  code: ZG
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.306328
+    minlatitude: 12.529786
+    maxlongitude: -16.24204
+    maxlatitude: 12.589516
+    latitude: 12.583333
+    longitude: -16.266666
+- name: Louga
+  names:
+  - Louga
+  code: LG
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.273842
+    minlatitude: 15.576081
+    maxlongitude: -16.167755
+    maxlatitude: 15.658412
+    latitude: 15.616667
+    longitude: -16.216667
+- name: Saint-Louis
+  names:
+  - Saint-Louis
+  code: SL
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.513557
+    minlatitude: 15.963813
+    maxlongitude: -16.403042
+    maxlatitude: 16.0761
+    latitude: 16.03263
+    longitude: -16.481817
+- name: Diourbel
+  names:
+  - Diourbel
+  code: DB
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.27161
+    minlatitude: 14.630587
+    maxlongitude: -16.19844
+    maxlatitude: 14.678009
+    latitude: 14.656124
+    longitude: -16.234564
+- name: Dakar
+  names:
+  - Dakar
+  code: DK
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.529848
+    minlatitude: 14.64694
+    maxlongitude: -17.246391
+    maxlatitude: 14.817864
+    latitude: 14.764504
+    longitude: -17.366028
+- name: Fatick
+  names:
+  - Fatick
+  code: FK
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.423916
+    minlatitude: 14.316783
+    maxlongitude: -16.394348
+    maxlatitude: 14.352126
+    latitude: 14.333333
+    longitude: -16.406944
+- name: Kolda
+  names:
+  - Kolda
+  code: KD
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.993182
+    minlatitude: 12.855402
+    maxlongitude: -14.900894
+    maxlatitude: 12.956048
+    latitude: 12.883333
+    longitude: -14.95
+- name: Kaolack
+  names:
+  - Kaolack
+  code: KL
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.116514
+    minlatitude: 14.121843
+    maxlongitude: -16.02313
+    maxlatitude: 14.192667
+    latitude: 14.165208
+    longitude: -16.075775

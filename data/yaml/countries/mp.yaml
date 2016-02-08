@@ -1,0 +1,79 @@
+name:
+  common: Northern Mariana Islands
+  official: Commonwealth of the Northern Mariana Islands
+  native:
+    cal:
+      common: Northern Mariana Islands
+      official: Commonwealth of the Northern Mariana Islands
+    cha:
+      common: Na Islas Mariånas
+      official: Sankattan Siha Na Islas Mariånas
+    eng:
+      common: Northern Mariana Islands
+      official: Commonwealth of the Northern Mariana Islands
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .mp
+languages:
+  cal: Carolinian
+  cha: Chamorro
+  eng: English
+translations:
+  deu:
+    common: Nördliche Marianen
+    official: Commonwealth der Nördlichen Marianen
+  fin:
+    common: Pohjois-Mariaanit
+    official: Pohjois-Mariaanit
+  fra:
+    common: Îles Mariannes du Nord
+    official: Commonwealth des îles Mariannes du Nord
+  hrv:
+    common: Sjevernomarijanski otoci
+    official: Zajednica je Sjeverni Marijanski otoci
+  ita:
+    common: Isole Marianne Settentrionali
+    official: Commonwealth delle Isole Marianne Settentrionali
+  jpn:
+    common: 北マリアナ諸島
+    official: 北マリアナ諸島
+  nld:
+    common: Noordelijke Marianeneilanden
+    official: Commonwealth van de Noordelijke Marianen
+  por:
+    common: Marianas Setentrionais
+    official: Comunidade das Ilhas Marianas do Norte
+  rus:
+    common: Северные Марианские острова
+    official: Содружество Северных Марианских островов
+  spa:
+    common: Islas Marianas del Norte
+    official: Mancomunidad de las Islas Marianas del Norte
+currencies:
+- USD
+borders: []
+codes:
+  alpha2: MP
+  alpha3: MNP
+  cioc: ""
+  ccn3: "580"
+  callingcodes:
+  - "1670"
+  internationalprefix: "011"
+geo:
+  region: Oceania
+  subregion: Micronesia
+  continent: Australia
+  capital: Saipan
+  area: 464
+coordinates:
+  longitudestring: 145 45 E
+  latitudestring: 15 12 N
+  minlongitude: 144.88637
+  minlatitude: 4.110382
+  maxlongitude: 146.06465
+  maxlatitude: 20.553482
+  latitude: 15.262779
+  longitude: 145.80457

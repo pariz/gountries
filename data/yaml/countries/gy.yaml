@@ -1,0 +1,74 @@
+name:
+  common: Guyana
+  official: Co-operative Republic of Guyana
+  native:
+    eng:
+      common: Guyana
+      official: Co-operative Republic of Guyana
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gy
+languages:
+  eng: English
+translations:
+  deu:
+    common: Guyana
+    official: Kooperative Republik Guyana
+  fin:
+    common: Guayana
+    official: Guayanan osuustoiminnallinen tasavalta
+  fra:
+    common: Guyana
+    official: République coopérative de Guyana
+  hrv:
+    common: Gvajana
+    official: Zadruga Republika Gvajana
+  ita:
+    common: Guyana
+    official: Co -operative Republic of Guyana
+  jpn:
+    common: ガイアナ
+    official: ガイアナの協同共和国
+  nld:
+    common: Guyana
+    official: Coöperatieve Republiek Guyana
+  por:
+    common: Guiana
+    official: Co -operative República da Guiana
+  rus:
+    common: Гайана
+    official: Кооперативная Республика Гайана
+  spa:
+    common: Guyana
+    official: República Cooperativa de Guyana
+currencies:
+- GYD
+borders:
+- BRA
+- SUR
+- VEN
+codes:
+  alpha2: GY
+  alpha3: GUY
+  cioc: GUY
+  ccn3: "328"
+  callingcodes:
+  - "592"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Georgetown
+  area: 214969
+coordinates:
+  longitudestring: 59 00 W
+  latitudestring: 5 00 N
+  minlongitude: -61.233334
+  minlatitude: 1.316667
+  maxlongitude: -56
+  maxlatitude: 8.433333
+  latitude: 4.917311
+  longitude: -58.943462

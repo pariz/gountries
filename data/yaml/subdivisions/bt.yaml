@@ -1,0 +1,308 @@
+- name: Thimphu
+  names:
+  - Thimbu
+  - Thimphu
+  - Thimpu
+  - Timbhu
+  - Timbu
+  - Timphu
+  code: "15"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.60415
+    minlatitude: 27.42511
+    maxlongitude: 89.672646
+    maxlatitude: 27.533695
+    latitude: 27.472792
+    longitude: 89.63929
+- name: Tsirang
+  names:
+  - Chirang
+  - Tsirang
+  code: "21"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.00392
+    minlatitude: 26.818754
+    maxlongitude: 90.357414
+    maxlatitude: 27.17736
+    latitude: 27.032207
+    longitude: 90.186966
+- name: Dagana
+  names:
+  - Daga
+  - Dagana
+  code: "22"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.64861
+    minlatitude: 26.8089
+    maxlongitude: 90.08144
+    maxlatitude: 27.26369
+    latitude: 27.032286
+    longitude: 89.88793
+- name: Trashigang
+  names:
+  - Tashigang
+  - Trashigang
+  code: "41"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.378784
+    minlatitude: 27.01652
+    maxlongitude: 92.1252
+    maxlatitude: 27.482903
+    latitude: 27.25668
+    longitude: 91.75388
+- name: Monggar
+  names:
+  - Monggar
+  - Mongor
+  code: "42"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.23416
+    minlatitude: 27.270882
+    maxlongitude: 91.24541
+    maxlatitude: 27.280493
+    latitude: 27.275
+    longitude: 91.24
+- name: Paro
+  names:
+  - Paro
+  - Rinpung
+  code: "11"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.13127
+    minlatitude: 27.177174
+    maxlongitude: 89.563835
+    maxlatitude: 27.751057
+    latitude: 27.428595
+    longitude: 89.41665
+- name: Bumthang
+  names:
+  - Bumthang
+  code: "33"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.484436
+    minlatitude: 27.320946
+    maxlongitude: 91.01601
+    maxlatitude: 28.09085
+    latitude: 27.641838
+    longitude: 90.67731
+- name: Pemagatshel
+  names:
+  - Pema Gatshel
+  - Pemagatsel
+  code: "43"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.17382
+    minlatitude: 26.845945
+    maxlongitude: 91.51765
+    maxlatitude: 27.167095
+    latitude: 27.002382
+    longitude: 91.346924
+- name: Lhuentse
+  names:
+  - Lhuentse
+  - Lhun Tshi
+  - Lhuntshi
+  - Lhuntsi
+  code: "44"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.168846
+    minlatitude: 27.649244
+    maxlongitude: 91.18922
+    maxlatitude: 27.677439
+    latitude: 27.66492
+    longitude: 91.1761
+- name: Samdrup Jongkha
+  names:
+  - Samdruk Jongkhar
+  - Samdrup
+  - Samdrup Jongkha
+  code: "45"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.99552
+    minlatitude: 26.777367
+    maxlongitude: 92.122154
+    maxlatitude: 27.24647
+    latitude: 26.928696
+    longitude: 91.637215
+- name: Gasa
+  names:
+  - Gaza
+  code: GA
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.43694
+    minlatitude: 27.687483
+    maxlongitude: 90.617645
+    maxlatitude: 28.323778
+    latitude: 28.018589
+    longitude: 89.92532
+- name: Punakha
+  names:
+  - Punakha
+  code: "23"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.872116
+    minlatitude: 27.587719
+    maxlongitude: 89.885544
+    maxlatitude: 27.596125
+    latitude: 27.592087
+    longitude: 89.879745
+- name: Wangdue Phodrang
+  names:
+  - Wangdi Phodrang
+  - Wangdiphodrang
+  - Wangdue
+  - Wangdue Phodrang
+  code: "24"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.89267
+    minlatitude: 27.474543
+    maxlongitude: 89.90554
+    maxlatitude: 27.499136
+    latitude: 27.487902
+    longitude: 89.89962
+- name: Trongsa
+  names:
+  - Tongsa
+  - Trongsa
+  code: "32"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.50361
+    minlatitude: 27.494034
+    maxlongitude: 90.51572
+    maxlatitude: 27.508043
+    latitude: 27.500227
+    longitude: 90.508064
+- name: Zhemgang
+  names:
+  - Shemgang
+  - Zhemgang
+  code: "34"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.685616
+    minlatitude: 27.135305
+    maxlongitude: 90.695656
+    maxlatitude: 27.149282
+    latitude: 27.143906
+    longitude: 90.69035
+- name: Trashi Yangtse
+  names:
+  - Tashiyangtse
+  code: TY
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.31767
+    minlatitude: 27.383963
+    maxlongitude: 91.7379
+    maxlatitude: 28.050774
+    latitude: 27.583332
+    longitude: 91.46667
+- name: Samtse
+  names:
+  - Samchi
+  - Samtse
+  code: "14"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.07664
+    minlatitude: 26.907835
+    maxlongitude: 89.09054
+    maxlatitude: 26.916254
+    latitude: 26.913105
+    longitude: 89.0836
+- name: Ha
+  names:
+  - Ha
+  - Haa
+  code: "13"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.89505
+    minlatitude: 27.072378
+    maxlongitude: 89.39598
+    maxlatitude: 27.621145
+    latitude: 27.265167
+    longitude: 89.1706
+- name: Sarpang
+  names:
+  - Gaylegphug
+  - Geylegphug
+  - Sarbhang
+  - Sarpang
+  code: "31"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.73446
+    minlatitude: 26.707632
+    maxlongitude: 90.9638
+    maxlatitude: 27.20932
+    latitude: 26.937304
+    longitude: 90.48799
+- name: Chhukha
+  names:
+  - Chhuka
+  - Chuka
+  - Chukha
+  code: "12"
+  countryalpha2: BT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.56046
+    minlatitude: 27.048347
+    maxlongitude: 89.580635
+    maxlatitude: 27.06119
+    latitude: 27.052292
+    longitude: 89.5757

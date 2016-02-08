@@ -1,0 +1,316 @@
+- name: Orhon
+  names:
+  - Orhon
+  code: "035"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.00414
+    minlatitude: 48.904602
+    maxlongitude: 104.57707
+    maxlatitude: 49.13224
+    latitude: 49.004704
+    longitude: 104.30165
+- name: Töv
+  names:
+  - Tov
+  code: "047"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.070694
+    minlatitude: 46.384293
+    maxlongitude: 109.04446
+    maxlatitude: 49.123154
+    latitude: 47.212406
+    longitude: 106.41541
+- name: Selenge
+  names:
+  - Selenge
+  code: "049"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.34538
+    minlatitude: 48.49717
+    maxlongitude: 108.55559
+    maxlatitude: 50.4804
+    latitude: 50.005928
+    longitude: 106.44341
+- name: Bayan-Ölgiy
+  names:
+  - Bayan-Olgii
+  - Bayan-Ulgii
+  code: "071"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 87.749664
+    minlatitude: 46.5442
+    maxlongitude: 91.92687
+    maxlatitude: 50.009586
+    latitude: 48.398327
+    longitude: 89.66259
+- name: Hövsgöl
+  names:
+  - Hovsgol
+  - Khuvsgul
+  code: "041"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 96.88
+    minlatitude: 48.233658
+    maxlongitude: 102.78852
+    maxlatitude: 52.154247
+    latitude: 50.220448
+    longitude: 100.32137
+- name: Hovd
+  names:
+  - Khovd
+  code: "043"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.61087
+    minlatitude: 47.938084
+    maxlongitude: 91.670265
+    maxlatitude: 48.019382
+    latitude: 48.004166
+    longitude: 91.65
+- name: Dzavhan
+  names:
+  - Zavkhan
+  code: "057"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 93.173904
+    minlatitude: 46.58304
+    maxlongitude: 99.21859
+    maxlatitude: 50.041237
+    latitude: 48.238815
+    longitude: 96.070305
+- name: Govi-Altay
+  names:
+  - Gobi-Altai
+  - Gobi-Altay
+  code: "065"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 93.06315
+    minlatitude: 42.705204
+    maxlongitude: 98.46661
+    maxlatitude: 47.782394
+    latitude: 45.451122
+    longitude: 95.85058
+- name: Bulgan
+  names:
+  - Bulgan
+  code: "067"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.4531
+    minlatitude: 48.77469
+    maxlongitude: 103.58752
+    maxlatitude: 48.86641
+    latitude: 48.811943
+    longitude: 103.53361
+- name: Arhangay
+  names:
+  - Arhangai
+  - Arhangay
+  - Arkhangai
+  code: "073"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.16617
+    minlatitude: 46.826294
+    maxlongitude: 103.67348
+    maxlatitude: 49.198345
+    latitude: 47.89711
+    longitude: 100.724014
+- name: Darhan uul
+  names:
+  - Darhan uul
+  code: "037"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.815704
+    minlatitude: 49.084557
+    maxlongitude: 106.80608
+    maxlatitude: 49.825966
+    latitude: 49.44893
+    longitude: 106.23252
+- name: Sühbaatar
+  names:
+  - Sukhbaatar
+  code: "051"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.14338
+    minlatitude: 50.180416
+    maxlongitude: 106.27659
+    maxlatitude: 50.265755
+    latitude: 50.23639
+    longitude: 106.20639
+- name: Ömnögovi
+  names:
+  - Omnogobi
+  code: "053"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.38979
+    minlatitude: 41.56764
+    maxlongitude: 108.033485
+    maxlatitude: 45.188183
+    latitude: 43.500023
+    longitude: 104.28611
+- name: Dornod
+  names:
+  - Dornod
+  code: "061"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 111.963234
+    minlatitude: 46.2355
+    maxlongitude: 119.9243
+    maxlatitude: 50.28291
+    latitude: 47.465816
+    longitude: 115.392715
+- name: Govi-Sümber
+  names:
+  - Gobisumber
+  code: "064"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 107.94545
+    minlatitude: 45.906124
+    maxlongitude: 109.00399
+    maxlatitude: 46.98451
+    latitude: 46.476276
+    longitude: 108.55706
+- name: Ulaanbaatar
+  names:
+  - Ulaanbaatar
+  code: "1"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.69944
+    minlatitude: 47.824177
+    maxlongitude: 107.1043
+    maxlatitude: 47.95912
+    latitude: 47.92
+    longitude: 106.92
+- name: Hentiy
+  names:
+  - Hentii
+  - Khentii
+  code: "039"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 108.35012
+    minlatitude: 46.062023
+    maxlongitude: 112.697174
+    maxlatitude: 49.406742
+    latitude: 47.60812
+    longitude: 109.93729
+- name: Uvs
+  names:
+  - Uvs
+  code: "046"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.0001
+    minlatitude: 48.437096
+    maxlongitude: 95.72761
+    maxlatitude: 50.894646
+    latitude: 49.64497
+    longitude: 93.27366
+- name: Övörhangay
+  names:
+  - Ovorhangai
+  - Uvurkhangai
+  code: "055"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.13333
+    minlatitude: 44.056534
+    maxlongitude: 104.655876
+    maxlatitude: 47.414307
+    latitude: 45.76244
+    longitude: 103.091705
+- name: Dundgovi
+  names:
+  - Dundgobi
+  code: "059"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.61864
+    minlatitude: 44.17928
+    maxlongitude: 108.65895
+    maxlatitude: 46.77933
+    latitude: 45.58228
+    longitude: 106.76442
+- name: Dornogovi
+  names:
+  - Dornogobi
+  code: "063"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 107.63662
+    minlatitude: 42.38733
+    maxlongitude: 112.015564
+    maxlatitude: 46.628414
+    latitude: 43.96539
+    longitude: 109.177345
+- name: Bayanhongor
+  names:
+  - Bayanhongor
+  - Bayankhongor
+  code: "069"
+  countryalpha2: MN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.68644
+    minlatitude: 46.14535
+    maxlongitude: 100.73682
+    maxlatitude: 46.214287
+    latitude: 46.191666
+    longitude: 100.71778

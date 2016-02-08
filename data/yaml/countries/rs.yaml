@@ -1,0 +1,80 @@
+name:
+  common: Serbia
+  official: Republic of Serbia
+  native:
+    srp:
+      common: Србија
+      official: Република Србија
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .rs
+- .срб
+languages:
+  srp: Serbian
+translations:
+  deu:
+    common: Serbien
+    official: Republik Serbien
+  fin:
+    common: Serbia
+    official: Serbian tasavalta
+  fra:
+    common: Serbie
+    official: République de Serbie
+  hrv:
+    common: Srbija
+    official: Republika Srbija
+  ita:
+    common: Serbia
+    official: Repubblica di Serbia
+  jpn:
+    common: セルビア
+    official: セルビア共和国
+  nld:
+    common: Servië
+    official: Republiek Servië
+  por:
+    common: Sérvia
+    official: República da Sérvia
+  rus:
+    common: Сербия
+    official: Республика Сербия
+  spa:
+    common: Serbia
+    official: República de Serbia
+currencies:
+- RSD
+borders:
+- BIH
+- BGR
+- HRV
+- HUN
+- KOS
+- MKD
+- MNE
+- ROU
+codes:
+  alpha2: RS
+  alpha3: SRB
+  cioc: SRB
+  ccn3: "688"
+  callingcodes:
+  - "381"
+  internationalprefix: "99"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Belgrade
+  area: 88361
+coordinates:
+  longitudestring: 21 00 E
+  latitudestring: 44 00 N
+  minlongitude: 18.928888
+  minlatitude: 41.86667
+  maxlongitude: 22.966667
+  maxlatitude: 46.155556
+  latitude: 44.23297
+  longitude: 20.797958

@@ -11,7 +11,7 @@ All data is derived from the [pariz/countries](https://github.com/pariz/countrie
 # Installation
 
 ```
-go get github.com/pariz/countries
+go get github.com/pariz/gountries
 ```
 
 # Examples

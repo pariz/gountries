@@ -1,0 +1,70 @@
+name:
+  common: Bouvet Island
+  official: Bouvet Island
+  native:
+    nor:
+      common: Bouvetøya
+      official: Bouvetøya
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .bv
+languages:
+  nor: Norwegian
+translations:
+  deu:
+    common: Bouvetinsel
+    official: Bouvet-Insel
+  fin:
+    common: Bouvet'nsaari
+    official: Bouvet'nsaari
+  fra:
+    common: Île Bouvet
+    official: Île Bouvet
+  hrv:
+    common: Otok Bouvet
+    official: Bouvet Island
+  ita:
+    common: Isola Bouvet
+    official: Isola Bouvet
+  jpn:
+    common: ブーベ島
+    official: ブーヴェ島
+  nld:
+    common: Bouveteiland
+    official: Bouvet Island
+  por:
+    common: Ilha Bouvet
+    official: Ilha Bouvet
+  rus:
+    common: Остров Буве
+    official: Остров Буве
+  spa:
+    common: Isla Bouvet
+    official: Isla Bouvet
+currencies:
+- NOK
+borders: []
+codes:
+  alpha2: BV
+  alpha3: BVT
+  cioc: ""
+  ccn3: "074"
+  callingcodes: []
+  internationalprefix: ""
+geo:
+  region: ""
+  subregion: ""
+  continent: Antarctica
+  capital: ""
+  area: 49
+coordinates:
+  longitudestring: 3 24 E
+  latitudestring: 54 26 S
+  minlongitude: 3.285278
+  minlatitude: -54.452778
+  maxlongitude: 3.433889
+  maxlatitude: -54.386112
+  latitude: -54.434204
+  longitude: 3.4102511

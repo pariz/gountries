@@ -1,0 +1,126 @@
+- name: Haut-Ogooué
+  names:
+  - Haut-Ogooué
+  code: "2"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.763475
+    minlatitude: -2.481633
+    maxlongitude: 14.501671
+    maxlatitude: 0.036923
+    latitude: -1.4762543
+    longitude: 13.914399
+- name: Ogooué-Lolo
+  names:
+  - Ogooué-Lolo
+  code: "7"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.497758
+    minlatitude: -1.90136
+    maxlongitude: 13.569687
+    maxlatitude: 0.2900861
+    latitude: -0.8844093
+    longitude: 12.438058
+- name: Ogooué-Maritime
+  names:
+  - Ogooué-Maritime
+  code: "8"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.699053
+    minlatitude: -2.733783
+    maxlongitude: 10.6113405
+    maxlatitude: -0.2787572
+    latitude: -1.3465976
+    longitude: 9.723268
+- name: Woleu-Ntem
+  names:
+  - Woleu-Nʿtem
+  code: "9"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.357966
+    minlatitude: 0.235217
+    maxlongitude: 13.306585
+    maxlatitude: 2.322612
+    latitude: 1.4892408
+    longitude: 11.706829
+- name: Estuaire
+  names:
+  - Estuaire
+  code: "1"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.301353
+    minlatitude: -0.5730141
+    maxlongitude: 10.971872
+    maxlatitude: 1.0599096
+    latitude: 0.4432864
+    longitude: 10.0807295
+- name: Moyen-Ogooué
+  names:
+  - Moyen-Ogooué
+  code: "3"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.563855
+    minlatitude: -1.247179
+    maxlongitude: 11.588225
+    maxlatitude: 0.2369339
+    latitude: -0.442784
+    longitude: 10.439656
+- name: Ngounié
+  names:
+  - Nʿgounié
+  code: "4"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.858945
+    minlatitude: -2.804942
+    maxlongitude: 12.522441
+    maxlatitude: -0.5671499
+    latitude: -1.4930303
+    longitude: 10.9807005
+- name: Nyanga
+  names:
+  - Nyanga
+  code: "5"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.953016
+    minlatitude: -3.978806
+    maxlongitude: 12.068426
+    maxlatitude: -2.250405
+    latitude: -2.8821032
+    longitude: 11.161736
+- name: Ogooué-Ivindo
+  names:
+  - Ogooué-Ivindo
+  code: "6"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.260839
+    minlatitude: -0.7536951
+    maxlongitude: 14.502347
+    maxlatitude: 1.438241
+    latitude: 0.8818311
+    longitude: 13.174035

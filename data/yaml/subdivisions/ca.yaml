@@ -1,0 +1,184 @@
+- name: British Columbia
+  names:
+  - Colombie-Britannique
+  code: BC
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -139.05707
+    minlatitude: 48.308914
+    maxlongitude: -114.05422
+    maxlatitude: 60.00015
+    latitude: 53.72667
+    longitude: -127.64762
+- name: Manitoba
+  names:
+  - Manitoba
+  code: MB
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -102.00001
+    minlatitude: 48.99886
+    maxlongitude: -88.98523
+    maxlatitude: 60.000103
+    latitude: 53.76086
+    longitude: -98.81387
+- name: New Brunswick
+  names:
+  - Nouveau-Brunswick
+  code: NB
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.05339
+    minlatitude: 44.499573
+    maxlongitude: -63.77064
+    maxlatitude: 48.173515
+    latitude: 46.565315
+    longitude: -66.461914
+- name: Newfoundland and Labrador
+  names:
+  - Terre-Neuve-et-Labrador
+  - Newfoundland
+  - Terre-Neuve
+  code: NL
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.821686
+    minlatitude: 46.611458
+    maxlongitude: -52.619408
+    maxlatitude: 60.37627
+    latitude: 53.13551
+    longitude: -57.660435
+- name: Nova Scotia
+  names:
+  - Nouvelle-Écosse
+  code: NS
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.39482
+    minlatitude: 43.39188
+    maxlongitude: -59.676914
+    maxlatitude: 47.227745
+    latitude: 44.681988
+    longitude: -63.744312
+- name: Northwest Territories
+  names:
+  - Territoires du Nord-Ouest
+  code: NT
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -136.4687
+    minlatitude: 59.999954
+    maxlongitude: -102
+    maxlatitude: 78.761345
+    latitude: 64.82555
+    longitude: -124.84573
+- name: Alberta
+  names:
+  - Alberta
+  code: AB
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -120.00052
+    minlatitude: 48.996666
+    maxlongitude: -109.999855
+    maxlatitude: 60.00006
+    latitude: 53.93327
+    longitude: -116.5765
+- name: Nunavut
+  names:
+  - Nunavut
+  code: NU
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -121.04925
+    minlatitude: 51.640697
+    maxlongitude: -61.17944
+    maxlatitude: 83.095665
+    latitude: 70.299774
+    longitude: -83.107574
+- name: Ontario
+  names:
+  - Ontario
+  code: "ON"
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -95.15623
+    minlatitude: 41.681347
+    maxlongitude: -74.34388
+    maxlatitude: 56.85653
+    latitude: 51.253777
+    longitude: -85.32321
+- name: Prince Edward Island
+  names:
+  - Île-du-Prince-Édouard
+  code: PE
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -64.566124
+    minlatitude: 45.948185
+    maxlongitude: -61.970753
+    maxlatitude: 47.44166
+    latitude: 46.51071
+    longitude: -63.416813
+- name: Quebec
+  names:
+  - Québec
+  code: QC
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.76234
+    minlatitude: 44.99136
+    maxlongitude: -57.105484
+    maxlatitude: 62.583054
+    latitude: 52.939915
+    longitude: -73.54913
+- name: Saskatchewan
+  names:
+  - Saskatchewan
+  code: SK
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -110.00775
+    minlatitude: 48.998806
+    maxlongitude: -101.362305
+    maxlatitude: 60.000065
+    latitude: 52.939915
+    longitude: -106.45087
+- name: Yukon
+  names:
+  - Yukon Territory
+  code: YT
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -141.00188
+    minlatitude: 59.996887
+    maxlongitude: -123.80092
+    maxlatitude: 69.6465
+    latitude: 64.282326
+    longitude: 0

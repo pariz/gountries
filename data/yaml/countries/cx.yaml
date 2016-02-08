@@ -1,0 +1,74 @@
+name:
+  common: Christmas Island
+  official: Territory of Christmas Island
+  native:
+    eng:
+      common: Christmas Island
+      official: Territory of Christmas Island
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .cx
+languages:
+  eng: English
+translations:
+  cym:
+    common: Ynys y Nadolig
+    official: Territory of Christmas Island
+  deu:
+    common: Weihnachtsinsel
+    official: Gebiet der Weihnachtsinsel
+  fin:
+    common: Joulusaari
+    official: Joulusaaren alue
+  fra:
+    common: Île Christmas
+    official: Territoire de l'île Christmas
+  hrv:
+    common: Božićni otok
+    official: Teritorij Božićni otok
+  ita:
+    common: Isola di Natale
+    official: Territorio di Christmas Island
+  jpn:
+    common: クリスマス島
+    official: クリスマス島の領土
+  nld:
+    common: Christmaseiland
+    official: Grondgebied van Christmas Island
+  por:
+    common: Ilha do Natal
+    official: Território da Ilha Christmas
+  rus:
+    common: Остров Рождества
+    official: Территория острова Рождества
+  spa:
+    common: Isla de Navidad
+    official: Territorio de la Isla de Navidad
+currencies:
+- AUD
+borders: []
+codes:
+  alpha2: CX
+  alpha3: CXR
+  cioc: ""
+  ccn3: "162"
+  callingcodes:
+  - "61"
+  internationalprefix: "0011"
+geo:
+  region: Oceania
+  subregion: Australia and New Zealand
+  continent: Asia
+  capital: Flying Fish Cove
+  area: 135
+coordinates:
+  longitudestring: 105 40 E
+  latitudestring: 10 30 S
+  minlongitude: 105.566666
+  minlatitude: -10.566667
+  maxlongitude: 105.75
+  maxlatitude: -10.4
+  latitude: -10.490291
+  longitude: 105.63275

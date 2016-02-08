@@ -1,0 +1,108 @@
+name:
+  common: Namibia
+  official: Republic of Namibia
+  native:
+    afr:
+      common: Namibië
+      official: Republiek van Namibië
+    deu:
+      common: Namibia
+      official: Republik Namibia
+    eng:
+      common: Namibia
+      official: Republic of Namibia
+    her:
+      common: Namibia
+      official: Republic of Namibia
+    hgm:
+      common: Namibia
+      official: Republic of Namibia
+    kwn:
+      common: Namibia
+      official: Republic of Namibia
+    loz:
+      common: Namibia
+      official: Republic of Namibia
+    ndo:
+      common: Namibia
+      official: Republic of Namibia
+    tsn:
+      common: Namibia
+      official: Lefatshe la Namibia
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .na
+languages:
+  afr: Afrikaans
+  deu: German
+  eng: English
+  her: Herero
+  hgm: Khoekhoe
+  kwn: Kwangali
+  loz: Lozi
+  ndo: Ndonga
+  tsn: Tswana
+translations:
+  deu:
+    common: Namibia
+    official: Republik Namibia
+  fin:
+    common: Namibia
+    official: Namibian tasavalta
+  fra:
+    common: Namibie
+    official: République de Namibie
+  hrv:
+    common: Namibija
+    official: Republika Namibija
+  ita:
+    common: Namibia
+    official: Repubblica di Namibia
+  jpn:
+    common: ナミビア
+    official: ナミビア共和国
+  nld:
+    common: Namibië
+    official: Republiek Namibië
+  por:
+    common: Namíbia
+    official: República da Namíbia
+  rus:
+    common: Намибия
+    official: Республика Намибия
+  spa:
+    common: Namibia
+    official: República de Namibia
+currencies:
+- NAD
+- ZAR
+borders:
+- AGO
+- BWA
+- ZAF
+- ZMB
+codes:
+  alpha2: NA
+  alpha3: NAM
+  cioc: NAM
+  ccn3: "516"
+  callingcodes:
+  - "264"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Southern Africa
+  continent: Africa
+  capital: Windhoek
+  area: 825615
+coordinates:
+  longitudestring: 17 00 E
+  latitudestring: 22 00 S
+  minlongitude: 12.016667
+  minlatitude: -28.933332
+  maxlongitude: 25.25
+  maxlatitude: -16.983334
+  latitude: -22.1507
+  longitude: 17.177526

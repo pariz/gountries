@@ -1,0 +1,378 @@
+- name: Balaka
+  names:
+  - Balaka
+  code: BA
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.93079
+    minlatitude: -15.00838
+    maxlongitude: 34.98502
+    maxlatitude: -14.976678
+    latitude: -14.987605
+    longitude: 34.956173
+- name: Blantyre
+  names:
+  - Blantyre
+  code: BL
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.952488
+    minlatitude: -15.870204
+    maxlongitude: 35.109043
+    maxlatitude: -15.682213
+    latitude: -15.786111
+    longitude: 35.005833
+- name: Mulanje
+  names:
+  - Mulanje
+  code: MU
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.49187
+    minlatitude: -16.038158
+    maxlongitude: 35.52124
+    maxlatitude: -16.018011
+    latitude: -16.033333
+    longitude: 35.5
+- name: Salima
+  names:
+  - Salima
+  code: SA
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.4339
+    minlatitude: -13.79599
+    maxlongitude: 34.475185
+    maxlatitude: -13.762229
+    latitude: -13.779553
+    longitude: 34.45864
+- name: Chiradzulu
+  names:
+  - Chiradzulu
+  code: CR
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.130928
+    minlatitude: -15.687501
+    maxlongitude: 35.146893
+    maxlatitude: -15.659404
+    latitude: -15.675948
+    longitude: 35.14063
+- name: Chitipa
+  names:
+  - Chitipa
+  code: CT
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.246346
+    minlatitude: -9.7162485
+    maxlongitude: 33.29467
+    maxlatitude: -9.67403
+    latitude: -9.703766
+    longitude: 33.270027
+- name: Karonga
+  names:
+  - Karonga
+  code: KR
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.88617
+    minlatitude: -9.967625
+    maxlongitude: 33.94612
+    maxlatitude: -9.92434
+    latitude: -9.933333
+    longitude: 33.933334
+- name: Mzimba
+  names:
+  - Mzimba
+  code: MZ
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.580227
+    minlatitude: -11.913209
+    maxlongitude: 33.604088
+    maxlatitude: -11.88625
+    latitude: -11.9
+    longitude: 33.6
+- name: Dowa
+  names:
+  - Dowa
+  code: DO
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.922348
+    minlatitude: -13.664753
+    maxlongitude: 33.947155
+    maxlatitude: -13.6396475
+    latitude: -13.651468
+    longitude: 33.935974
+- name: Ntcheu
+  names:
+  - Ntcheu
+  code: NU
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.612255
+    minlatitude: -14.840354
+    maxlongitude: 34.657833
+    maxlatitude: -14.795547
+    latitude: -14.821977
+    longitude: 34.63587
+- name: Dedza
+  names:
+  - Dedza
+  code: DE
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.303696
+    minlatitude: -14.398852
+    maxlongitude: 34.34515
+    maxlatitude: -14.37125
+    latitude: -14.381661
+    longitude: 34.325485
+- name: Likoma Island
+  names:
+  - Likoma Island
+  code: LK
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.70876
+    minlatitude: -12.100035
+    maxlongitude: 34.760483
+    maxlatitude: -12.031179
+    latitude: -12.0584
+    longitude: 34.735405
+- name: Mangochi
+  names:
+  - Mangochi
+  code: MG
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.231438
+    minlatitude: -14.500503
+    maxlongitude: 35.27401
+    maxlatitude: -14.463854
+    latitude: -14.486174
+    longitude: 35.253304
+- name: Mwanza
+  names:
+  - Mwanza
+  code: MW
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.493465
+    minlatitude: -15.618904
+    maxlongitude: 34.539246
+    maxlatitude: -15.577747
+    latitude: -15.609722
+    longitude: 34.5225
+- name: Lilongwe
+  names:
+  - Lilongwe
+  code: LI
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.71627
+    minlatitude: -14.064401
+    maxlongitude: 33.847847
+    maxlatitude: -13.862413
+    latitude: -13.983333
+    longitude: 33.783333
+- name: Machinga
+  names:
+  - Machinga
+  code: MH
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.28795
+    minlatitude: -15.182262
+    maxlongitude: 35.317398
+    maxlatitude: -15.161351
+    latitude: -15.169993
+    longitude: 35.299976
+- name: Ntchisi
+  names:
+  - Ntchisi
+  code: NI
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.703213
+    minlatitude: -13.534227
+    maxlongitude: 34.131687
+    maxlatitude: -13.014203
+    latitude: -13.284199
+    longitude: 33.885777
+- name: Kasungu
+  names:
+  - Kasungu
+  code: KS
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.45397
+    minlatitude: -13.069863
+    maxlongitude: 33.5083
+    maxlatitude: -13.007652
+    latitude: -13.033333
+    longitude: 33.483334
+- name: Nkhotakota
+  names:
+  - Nkhotakota
+  code: NK
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.26747
+    minlatitude: -12.942329
+    maxlongitude: 34.299747
+    maxlatitude: -12.911628
+    latitude: -12.931686
+    longitude: 34.281055
+- name: Rumphi
+  names:
+  - Rumphi
+  code: RU
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.84313
+    minlatitude: -11.021153
+    maxlongitude: 33.87201
+    maxlatitude: -11.0083475
+    latitude: -11.016667
+    longitude: 33.86667
+- name: Nkhata Bay
+  names:
+  - Nkhata Bay
+  code: NB
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.289448
+    minlatitude: -11.613398
+    maxlongitude: 34.3033
+    maxlatitude: -11.600954
+    latitude: -11.608556
+    longitude: 34.29494
+- name: Nsanje
+  names:
+  - Nsanje
+  code: NS
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.24041
+    minlatitude: -16.94364
+    maxlongitude: 35.27349
+    maxlatitude: -16.895714
+    latitude: -16.916668
+    longitude: 35.266666
+- name: Thyolo
+  names:
+  - Thyolo
+  code: TH
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.13024
+    minlatitude: -16.07897
+    maxlongitude: 35.15273
+    maxlatitude: -16.061733
+    latitude: -16.066668
+    longitude: 35.13333
+- name: Chikwawa
+  names:
+  - Chikwawa
+  code: CK
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.778423
+    minlatitude: -16.0553
+    maxlongitude: 34.81679
+    maxlatitude: -16.00704
+    latitude: -16.035
+    longitude: 34.801
+- name: Mchinji
+  names:
+  - Mchinji
+  code: MC
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.867146
+    minlatitude: -13.817161
+    maxlongitude: 32.90946
+    maxlatitude: -13.776567
+    latitude: -13.800006
+    longitude: 32.893044
+- name: Phalombe
+  names:
+  - Phalombe
+  code: PH
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.638363
+    minlatitude: -15.786858
+    maxlongitude: 35.676968
+    maxlatitude: -15.748579
+    latitude: -15.76333
+    longitude: 35.65875
+- name: Zomba
+  names:
+  - Zomba
+  code: ZO
+  countryalpha2: MW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.29474
+    minlatitude: -15.425509
+    maxlongitude: 35.392456
+    maxlatitude: -15.36026
+    latitude: -15.383333
+    longitude: 35.333332

@@ -1,0 +1,74 @@
+name:
+  common: Antigua and Barbuda
+  official: Antigua and Barbuda
+  native:
+    eng:
+      common: Antigua and Barbuda
+      official: Antigua and Barbuda
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ag
+languages:
+  eng: English
+translations:
+  cym:
+    common: Antigwa a Barbiwda
+    official: Antigua and Barbuda
+  deu:
+    common: Antigua und Barbuda
+    official: Antigua und Barbuda
+  fin:
+    common: Antigua ja Barbuda
+    official: Antigua ja Barbuda
+  fra:
+    common: Antigua-et-Barbuda
+    official: Antigua -et-Barbuda
+  hrv:
+    common: Antigva i Barbuda
+    official: Antigva i Barbuda
+  ita:
+    common: Antigua e Barbuda
+    official: Antigua e Barbuda
+  jpn:
+    common: アンティグア・バーブーダ
+    official: アンチグアバーブーダ
+  nld:
+    common: Antigua en Barbuda
+    official: Antigua en Barbuda
+  por:
+    common: Antígua e Barbuda
+    official: Antigua e Barbuda
+  rus:
+    common: Антигуа и Барбуда
+    official: Антигуа и Барбуда
+  spa:
+    common: Antigua y Barbuda
+    official: Antigua y Barbuda
+currencies:
+- XCD
+borders: []
+codes:
+  alpha2: AG
+  alpha3: ATG
+  cioc: ANT
+  ccn3: "028"
+  callingcodes:
+  - "1268"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Saint John's
+  area: 442
+coordinates:
+  longitudestring: 61 48 W
+  latitudestring: 17 03 N
+  minlongitude: -62.333332
+  minlatitude: 16.916668
+  maxlongitude: -61.666668
+  maxlatitude: 17.733334
+  latitude: 17.09274
+  longitude: -61.81041

@@ -1,0 +1,127 @@
+- name: Oberösterreich
+  names:
+  - Upper Austria
+  code: "4"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.74895
+    minlatitude: 47.46098
+    maxlongitude: 14.99129
+    maxlatitude: 48.77269
+    latitude: 48.025852
+    longitude: 13.972366
+- name: Steiermark
+  names:
+  - Styria
+  code: "6"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.56417
+    minlatitude: 46.61163
+    maxlongitude: 16.17014
+    maxlatitude: 47.82789
+    latitude: 47.359344
+    longitude: 14.469983
+- name: Wien
+  names:
+  - Vienna
+  code: "9"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.18262
+    minlatitude: 48.11827
+    maxlongitude: 16.5775
+    maxlatitude: 48.3231
+    latitude: 48.208176
+    longitude: 16.37382
+- name: Salzburg
+  names:
+  - Salzbourg
+  code: "5"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.98598
+    minlatitude: 47.75131
+    maxlongitude: 13.12688
+    maxlatitude: 47.85431
+    latitude: 47.80949
+    longitude: 13.05501
+- name: Tirol
+  names:
+  - Tyrol
+  code: "7"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.09807
+    minlatitude: 46.65156
+    maxlongitude: 12.96628
+    maxlatitude: 47.74311
+    latitude: 47.253742
+    longitude: 11.601487
+- name: Vorarlberg
+  names:
+  - Vorarlberg
+  code: "8"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.53091
+    minlatitude: 46.84081
+    maxlongitude: 10.23689
+    maxlatitude: 47.59621
+    latitude: 47.249744
+    longitude: 9.979737
+- name: Burgenland
+  names:
+  - Burgenland
+  code: "1"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.99632
+    minlatitude: 46.83047
+    maxlongitude: 17.1604
+    maxlatitude: 48.11879
+    latitude: 47.153717
+    longitude: 16.268879
+- name: Kärnten
+  names:
+  - Carinthia
+  - Koroška
+  code: "2"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.65639
+    minlatitude: 46.3723
+    maxlongitude: 15.06514
+    maxlatitude: 47.13131
+    latitude: 46.722202
+    longitude: 14.180588
+- name: Niederösterreich
+  names:
+  - Lower Austria
+  code: "3"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.45213
+    minlatitude: 47.42198
+    maxlongitude: 17.06847
+    maxlatitude: 49.02062
+    latitude: 48.108078
+    longitude: 15.8049555

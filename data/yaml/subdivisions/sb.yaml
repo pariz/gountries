@@ -1,0 +1,140 @@
+- name: Central
+  names:
+  - Central
+  code: CE
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 158.73087
+    minlatitude: -9.287286
+    maxlongitude: 160.41306
+    maxlatitude: -8.84783
+    latitude: -9.051605
+    longitude: 160.16939
+- name: Choiseul
+  names:
+  - Lauru
+  code: CH
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 156.38309
+    minlatitude: -7.486277
+    maxlongitude: 157.88055
+    maxlatitude: -6.590181
+    latitude: -7.0501494
+    longitude: 156.95114
+- name: Capital Territory (Honiara)
+  names:
+  - Capital Territory (Honiara)
+  code: CT
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 159.9145
+    minlatitude: -9.457229
+    maxlongitude: 160.02295
+    maxlatitude: -9.421173
+    latitude: -9.434387
+    longitude: 159.96098
+- name: Malaita
+  names:
+  - Mala
+  code: ML
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 160.55858
+    minlatitude: -9.729862
+    maxlongitude: 161.58238
+    maxlatitude: -8.310585
+    latitude: -8.944617
+    longitude: 160.90712
+- name: Rennell and Bellona
+  names:
+  - Rennell and Bellona
+  code: RB
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 159.75197
+    minlatitude: -11.8505745
+    maxlongitude: 160.58209
+    maxlatitude: -11.273213
+    latitude: -11.613144
+    longitude: 160.16939
+- name: Temotu
+  names:
+  - Eastern Islands
+  code: TE
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 165.65048
+    minlatitude: -12.312529
+    maxlongitude: 168.84576
+    maxlatitude: -9.759771
+    latitude: -10.686929
+    longitude: 166.0624
+- name: Guadalcanal
+  names:
+  - Guadalcanal
+  code: GU
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 159.58733
+    minlatitude: -9.944228
+    maxlongitude: 160.83186
+    maxlatitude: -9.250865
+    latitude: -9.577329
+    longitude: 160.14558
+- name: Isabel
+  names:
+  - Isabel
+  code: IS
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 157.963
+    minlatitude: -8.573409
+    maxlongitude: 159.92284
+    maxlatitude: -7.359186
+    latitude: -8.059236
+    longitude: 159.14471
+- name: Makira
+  names:
+  - San Cristóbal
+  code: MK
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 161.26393
+    minlatitude: -10.901073
+    maxlongitude: 162.48425
+    maxlatitude: -9.714577
+    latitude: -10.573745
+    longitude: 161.8097
+- name: Western
+  names:
+  - Western
+  code: WE
+  countryalpha2: SB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 155.51328
+    minlatitude: -8.829506
+    maxlongitude: 158.29855
+    maxlatitude: -6.673965
+    latitude: -8.128037
+    longitude: 157.42781

@@ -1,0 +1,78 @@
+name:
+  common: Hungary
+  official: Hungary
+  native:
+    hun:
+      common: Magyarország
+      official: Magyarország
+eumember: true
+landlocked: true
+nationality: ""
+tlds:
+- .hu
+languages:
+  hun: Hungarian
+translations:
+  deu:
+    common: Ungarn
+    official: Ungarn
+  fin:
+    common: Unkari
+    official: Unkari
+  fra:
+    common: Hongrie
+    official: Hongrie
+  hrv:
+    common: Mađarska
+    official: Madžarska
+  ita:
+    common: Ungheria
+    official: Ungheria
+  jpn:
+    common: ハンガリー
+    official: ハンガリー
+  nld:
+    common: Hongarije
+    official: Hongarije
+  por:
+    common: Hungria
+    official: Hungria
+  rus:
+    common: Венгрия
+    official: Венгрия
+  spa:
+    common: Hungría
+    official: Hungría
+currencies:
+- HUF
+borders:
+- AUT
+- HRV
+- ROU
+- SRB
+- SVK
+- SVN
+- UKR
+codes:
+  alpha2: HU
+  alpha3: HUN
+  cioc: HUN
+  ccn3: "348"
+  callingcodes:
+  - "36"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Europe
+  capital: Budapest
+  area: 93028
+coordinates:
+  longitudestring: 20 00 E
+  latitudestring: 47 00 N
+  minlongitude: 16.183332
+  minlatitude: 45.75
+  maxlongitude: 22.866667
+  maxlatitude: 48.983334
+  latitude: 47.165733
+  longitude: 19.416574

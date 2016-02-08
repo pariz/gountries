@@ -1,0 +1,79 @@
+name:
+  common: Bulgaria
+  official: Republic of Bulgaria
+  native:
+    bul:
+      common: България
+      official: Република България
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .bg
+languages:
+  bul: Bulgarian
+translations:
+  cym:
+    common: Bwlgaria
+    official: Republic of Bulgaria
+  deu:
+    common: Bulgarien
+    official: Republik Bulgarien
+  fin:
+    common: Bulgaria
+    official: Bulgarian tasavalta
+  fra:
+    common: Bulgarie
+    official: République de Bulgarie
+  hrv:
+    common: Bugarska
+    official: Republika Bugarska
+  ita:
+    common: Bulgaria
+    official: Repubblica di Bulgaria
+  jpn:
+    common: ブルガリア
+    official: ブルガリア共和国
+  nld:
+    common: Bulgarije
+    official: Republiek Bulgarije
+  por:
+    common: Bulgária
+    official: República da Bulgária
+  rus:
+    common: Болгария
+    official: Республика Болгария
+  spa:
+    common: Bulgaria
+    official: República de Bulgaria
+currencies:
+- BGN
+borders:
+- GRC
+- MKD
+- ROU
+- SRB
+- TUR
+codes:
+  alpha2: BG
+  alpha3: BGR
+  cioc: BUL
+  ccn3: "100"
+  callingcodes:
+  - "359"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Europe
+  capital: Sofia
+  area: 110879
+coordinates:
+  longitudestring: 25 00 E
+  latitudestring: 43 00 N
+  minlongitude: 22.37139
+  minlatitude: 41
+  maxlongitude: 28.6
+  maxlatitude: 44.19361
+  latitude: 42.7661
+  longitude: 25.283733

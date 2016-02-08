@@ -1,0 +1,75 @@
+name:
+  common: Palestine
+  official: State of Palestine
+  native:
+    ara:
+      common: فلسطين
+      official: دولة فلسطين
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ps
+- فلسطين.
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Palästina
+    official: Staat Palästina
+  fin:
+    common: Palestiina
+    official: Palestiinan valtio
+  fra:
+    common: Palestine
+    official: État de Palestine
+  hrv:
+    common: Palestina
+    official: State of Palestine
+  ita:
+    common: Palestina
+    official: Stato di Palestina
+  jpn:
+    common: パレスチナ
+    official: パレスチナ自治政府
+  nld:
+    common: Palestijnse gebieden
+    official: Staat Palestina
+  por:
+    common: Palestina
+    official: Estado da Palestina
+  rus:
+    common: Палестина
+    official: Государство Палестина
+  spa:
+    common: Palestina
+    official: Estado de Palestina
+currencies:
+- ILS
+borders:
+- ISR
+- EGY
+- JOR
+codes:
+  alpha2: PS
+  alpha3: PSE
+  cioc: PLE
+  ccn3: "275"
+  callingcodes:
+  - "970"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Western Asia
+  continent: Asia
+  capital: Ramallah
+  area: 6220
+coordinates:
+  longitudestring: ""
+  latitudestring: ""
+  minlongitude: 34.218765
+  minlatitude: 31.21969
+  maxlongitude: 35.57405
+  maxlatitude: 32.5521
+  latitude: 31.946392
+  longitude: 35.259735

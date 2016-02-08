@@ -1,0 +1,79 @@
+name:
+  common: Vanuatu
+  official: Republic of Vanuatu
+  native:
+    bis:
+      common: Vanuatu
+      official: Ripablik blong Vanuatu
+    eng:
+      common: Vanuatu
+      official: Republic of Vanuatu
+    fra:
+      common: Vanuatu
+      official: République de Vanuatu
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .vu
+languages:
+  bis: Bislama
+  eng: English
+  fra: French
+translations:
+  deu:
+    common: Vanuatu
+    official: Vanuatu
+  fin:
+    common: Vanuatu
+    official: Vanuatun tasavalta
+  fra:
+    common: Vanuatu
+    official: République de Vanuatu
+  hrv:
+    common: Vanuatu
+    official: Republika Vanuatu
+  ita:
+    common: Vanuatu
+    official: Repubblica di Vanuatu
+  jpn:
+    common: バヌアツ
+    official: バヌアツ共和国
+  nld:
+    common: Vanuatu
+    official: Republiek Vanuatu
+  por:
+    common: Vanuatu
+    official: República de Vanuatu
+  rus:
+    common: Вануату
+    official: Республика Вануату
+  spa:
+    common: Vanuatu
+    official: República de Vanuatu
+currencies:
+- VUV
+borders: []
+codes:
+  alpha2: VU
+  alpha3: VUT
+  cioc: VAN
+  ccn3: "548"
+  callingcodes:
+  - "678"
+  internationalprefix: "00"
+geo:
+  region: Oceania
+  subregion: Melanesia
+  continent: Australia
+  capital: Port Vila
+  area: 12189
+coordinates:
+  longitudestring: 167 00 E
+  latitudestring: 16 00 S
+  minlongitude: 166.01666
+  minlatitude: -20.25
+  maxlongitude: 170.21666
+  maxlatitude: -13.066667
+  latitude: -16.376684
+  longitude: 167.5625

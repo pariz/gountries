@@ -1,0 +1,465 @@
+- name: Sumatera Selatan
+  names:
+  - Sumatera Selatan
+  code: SS
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.06745
+    minlatitude: -4.925352
+    maxlongitude: 106.09684
+    maxlatitude: -1.625441
+    latitude: -3.3194375
+    longitude: 103.9144
+- name: Bengkulu
+  names:
+  - Bengkulu
+  code: BE
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.24695
+    minlatitude: -3.944763
+    maxlongitude: 102.405975
+    maxlatitude: -3.727211
+    latitude: -3.792845
+    longitude: 102.260765
+- name: Lampung
+  names:
+  - Lampung
+  code: LA
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.57269
+    minlatitude: -6.168558
+    maxlongitude: 106.21143
+    maxlatitude: -3.7238228
+    latitude: -4.5585847
+    longitude: 105.40681
+- name: Papua
+  names:
+  - Papua
+  code: PA
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.29567
+    minlatitude: -9.116773
+    maxlongitude: 141.00002
+    maxlatitude: 0.937797
+    latitude: -4.269928
+    longitude: 138.08035
+- name: Riau
+  names:
+  - Riau
+  code: RI
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.02485
+    minlatitude: -1.122273
+    maxlongitude: 103.81329
+    maxlatitude: 2.8831663
+    latitude: 0.2933469
+    longitude: 101.70683
+- name: Sulawesi Tenggara
+  names:
+  - Sulawesi Tenggara
+  code: SG
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 119.44694
+    minlatitude: -3.640744
+    maxlongitude: 124.182526
+    maxlatitude: 1.375153
+    latitude: -1.4300255
+    longitude: 121.44562
+- name: Bali
+  names:
+  - Bali
+  code: BA
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 114.431625
+    minlatitude: -8.849261
+    maxlongitude: 115.711525
+    maxlatitude: -8.061682
+    latitude: -8.409518
+    longitude: 115.18892
+- name: Kalimantan Barat
+  names:
+  - Kalimantan Barat
+  code: KB
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 108.02078
+    minlatitude: -3.039184
+    maxlongitude: 114.19911
+    maxlatitude: 2.011464
+    latitude: -0.2787808
+    longitude: 111.47529
+- name: Kalimantan Selatan
+  names:
+  - Kalimantan Selatan
+  code: KS
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 114.345856
+    minlatitude: -4.744813
+    maxlongitude: 116.55596
+    maxlatitude: -1.315037
+    latitude: -3.0926416
+    longitude: 115.28376
+- name: Maluku
+  names:
+  - Gewürzinseln
+  - Moluccas
+  - Molukken
+  - Spice Islands
+  code: MA
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.72284
+    minlatitude: -8.345391
+    maxlongitude: 134.90855
+    maxlatitude: -1.37872
+    latitude: -3.2384615
+    longitude: 130.14528
+- name: Sulawesi Barat
+  names:
+  - Sulawesi Barat
+  code: SR
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 118.75487
+    minlatitude: -3.5706031
+    maxlongitude: 119.87546
+    maxlatitude: -0.849832
+    latitude: -2.8441372
+    longitude: 119.23208
+- name: Papua Barat
+  names:
+  - Papua Barat/ Irian Jaya Barat
+  code: X1~
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 129.29997
+    minlatitude: -4.329356
+    maxlongitude: 135.25798
+    maxlatitude: 1.080905
+    latitude: -1.3361154
+    longitude: 133.17471
+- name: Aceh
+  names:
+  - Aceh
+  code: AC
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 95.009705
+    minlatitude: 2.004787
+    maxlongitude: 98.28816
+    maxlatitude: 6.07694
+    latitude: 4.695135
+    longitude: 96.7494
+- name: Jambi
+  names:
+  - Jambi
+  code: JA
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.52526
+    minlatitude: -1.694593
+    maxlongitude: 103.68097
+    maxlatitude: -1.5462629
+    latitude: -1.59
+    longitude: 103.61
+- name: Jawa Tengah
+  names:
+  - Jawa Tengah
+  code: JT
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 108.555504
+    minlatitude: -8.211633
+    maxlongitude: 111.69149
+    maxlatitude: -5.725698
+    latitude: -7.150975
+    longitude: 110.14026
+- name: Kepulauan Riau
+  names:
+  - Kepulauan Riau
+  code: KR
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.27824
+    minlatitude: -0.864122
+    maxlongitude: 109.16402
+    maxlatitude: 4.266552
+    latitude: 3.9456513
+    longitude: 108.14287
+- name: Kalimantan Tengah
+  names:
+  - Kalimantan Tengah
+  code: KT
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 110.733665
+    minlatitude: -3.5618858
+    maxlongitude: 115.84722
+    maxlatitude: 0.793256
+    latitude: -1.6814878
+    longitude: 113.382355
+- name: Nusa Tenggara Timur
+  names:
+  - Nusa Tenggara Timur
+  code: NT
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 118.927
+    minlatitude: -11.007549
+    maxlongitude: 125.18815
+    maxlatitude: -8.063516
+    latitude: -8.657382
+    longitude: 121.07937
+- name: Yogyakarta
+  names:
+  - Yogyakarta
+  code: YO
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 110.344604
+    minlatitude: -7.84015
+    maxlongitude: 110.40508
+    maxlatitude: -7.7663507
+    latitude: -7.79558
+    longitude: 110.36949
+- name: Bangka Belitung
+  names:
+  - Kepulauan Bangka-Belitung
+  code: BB
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.1084
+    minlatitude: -3.416535
+    maxlongitude: 108.84799
+    maxlatitude: -1.500617
+    latitude: -2.7410512
+    longitude: 106.44059
+- name: Sumatera Utara
+  names:
+  - Sumatera Utara
+  code: SU
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.058586
+    minlatitude: -0.6387609
+    maxlongitude: 100.42578
+    maxlatitude: 4.301345
+    latitude: 2.0108564
+    longitude: 98.978485
+- name: Maluku Utara
+  names:
+  - Maluku Utara
+  code: MU
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.28306
+    minlatitude: -2.47764
+    maxlongitude: 129.65747
+    maxlatitude: 2.645167
+    latitude: 1.5709993
+    longitude: 127.80877
+- name: Banten
+  names:
+  - Banten
+  code: BT
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.10011
+    minlatitude: -7.016342
+    maxlongitude: 106.779915
+    maxlatitude: -5.875814
+    latitude: -6.405817
+    longitude: 106.06402
+- name: Jawa Timur
+  names:
+  - Jawa Timur
+  code: JI
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 110.89872
+    minlatitude: -8.780561
+    maxlongitude: 116.26776
+    maxlatitude: -5.048902
+    latitude: -7.5360637
+    longitude: 112.2384
+- name: Jakarta Raya
+  names:
+  - Jakarta Raya
+  code: JK
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.383125
+    minlatitude: -6.370833
+    maxlongitude: 106.972824
+    maxlatitude: -5.184322
+    latitude: -6.174465
+    longitude: 106.82275
+- name: Kalimantan Timur
+  names:
+  - Kalimantan Timur
+  code: KI
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 113.83663
+    minlatitude: -2.409401
+    maxlongitude: 119.02553
+    maxlatitude: 2.606556
+    latitude: 0.5386586
+    longitude: 116.41939
+- name: Sulawesi Tengah
+  names:
+  - Sulawesi Tengah
+  code: ST
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 119.44694
+    minlatitude: -3.640744
+    maxlongitude: 124.182526
+    maxlatitude: 1.375153
+    latitude: -1.4300255
+    longitude: 121.44562
+- name: Jawa Barat
+  names:
+  - Jawa Barat
+  code: JB
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.37051
+    minlatitude: -7.820987
+    maxlongitude: 108.83977
+    maxlatitude: -5.91471
+    latitude: -7.090911
+    longitude: 107.668884
+- name: Nusa Tenggara Barat
+  names:
+  - Nusa Tenggara Barat
+  code: NB
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 115.821075
+    minlatitude: -9.109488
+    maxlongitude: 119.33527
+    maxlatitude: -8.08049
+    latitude: -8.652933
+    longitude: 117.36165
+- name: Sulawesi Utara
+  names:
+  - Sulawesi Utara
+  code: SA
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.11085
+    minlatitude: 0.2920059
+    maxlongitude: 127.18158
+    maxlatitude: 5.565783
+    latitude: 0.6246932
+    longitude: 123.975
+- name: Sumatera Barat
+  names:
+  - Sumatera Barat
+  code: SB
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.596924
+    minlatitude: -4.020091
+    maxlongitude: 101.89292
+    maxlatitude: 0.907389
+    latitude: -0.7399397
+    longitude: 100.8
+- name: Gorontalo
+  names:
+  - Gorontalo
+  code: GO
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.9959
+    minlatitude: 0.5088942
+    maxlongitude: 123.08414
+    maxlatitude: 0.58895
+    latitude: 0.533333
+    longitude: 123.066666
+- name: Sulawesi Selatan
+  names:
+  - Sulawesi Selatan
+  code: SN
+  countryalpha2: ID
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 117.03851
+    minlatitude: -7.758941
+    maxlongitude: 121.84021
+    maxlatitude: -1.895236
+    latitude: -3.6687994
+    longitude: 119.97405

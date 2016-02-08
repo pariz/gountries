@@ -1,0 +1,294 @@
+- name: Østfold
+  names:
+  - Østfold
+  code: NO-01
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.576405
+    minlatitude: 58.876896
+    maxlongitude: 11.946005
+    maxlatitude: 59.790516
+    latitude: 59.25583
+    longitude: 11.327901
+- name: Akershus
+  names:
+  - Akershus
+  code: NO-02
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.32908
+    minlatitude: 59.47188
+    maxlongitude: 11.926051
+    maxlatitude: 60.59665
+    latitude: 60.00002
+    longitude: 11.36903
+- name: Hedmark
+  names:
+  - Hedmark
+  code: NO-04
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.583827
+    minlatitude: 59.841354
+    maxlongitude: 12.870849
+    maxlatitude: 62.696922
+    latitude: 61.396732
+    longitude: 11.5627365
+- name: Jan Mayen (Arctic Region) (See also country code SJ)
+  names:
+  - Jan Mayen (Arctic Region) (See also country code SJ)
+  code: NO-22
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Oppland
+  names:
+  - Oppland
+  code: NO-05
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.3425307
+    minlatitude: 60.13161
+    maxlongitude: 11.1328
+    maxlatitude: 62.378403
+    latitude: 61.542274
+    longitude: 9.716631
+- name: Vestfold
+  names:
+  - Vestfold
+  code: NO-07
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.755336
+    minlatitude: 58.840282
+    maxlongitude: 10.600191
+    maxlatitude: 59.69159
+    latitude: 59.170788
+    longitude: 10.114435
+- name: Rogaland
+  names:
+  - Rogaland
+  code: NO-11
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.844006
+    minlatitude: 58.277626
+    maxlongitude: 7.2119665
+    maxlatitude: 59.844334
+    latitude: 59.148956
+    longitude: 6.0143433
+- name: Sogn og Fjordane
+  names:
+  - Sogn og Fjordane
+  code: NO-14
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.500001
+    minlatitude: 60.67555
+    maxlongitude: 8.322053
+    maxlatitude: 62.21687
+    latitude: 61.553944
+    longitude: 6.3325877
+- name: Sør-Trøndelag
+  names:
+  - Sør-Trøndelag
+  code: NO-16
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.23378
+    minlatitude: 62.255726
+    maxlongitude: 12.246701
+    maxlatitude: 64.4654
+    latitude: 63.013683
+    longitude: 10.348714
+- name: Troms
+  names:
+  - Troms
+  code: NO-19
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.592542
+    minlatitude: 68.35601
+    maxlongitude: 22.894466
+    maxlatitude: 70.31976
+    latitude: 69.817825
+    longitude: 18.781937
+- name: Telemark
+  names:
+  - Telemark
+  code: NO-08
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.0962873
+    minlatitude: 58.767406
+    maxlongitude: 9.895088
+    maxlatitude: 60.18827
+    latitude: 59.3914
+    longitude: 8.321121
+- name: Møre og Romsdal
+  names:
+  - Møre og Romsdal
+  code: NO-15
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.2635846
+    minlatitude: 61.956585
+    maxlongitude: 9.584211
+    maxlatitude: 63.537758
+    latitude: 62.976036
+    longitude: 8.018272
+- name: Svalbard (Arctic Region) (See also country code SJ)
+  names:
+  - Svalbard (Arctic Region) (See also country code SJ)
+  code: NO-21
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nordland
+  names:
+  - Nordland
+  code: NO-18
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 67.69167
+    longitude: 12.701947
+- name: Finnmark
+  names:
+  - Finnmarku
+  code: NO-20
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.173939
+    minlatitude: 68.55459
+    maxlongitude: 31.168268
+    maxlatitude: 71.18548
+    latitude: 70.48304
+    longitude: 26.013512
+- name: Oslo
+  names:
+  - Oslo
+  code: NO-03
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.622569
+    minlatitude: 59.809673
+    maxlongitude: 10.947664
+    maxlatitude: 59.978035
+    latitude: 59.913868
+    longitude: 10.752245
+- name: Buskerud
+  names:
+  - Buskerud
+  code: NO-06
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.4388423
+    minlatitude: 59.40787
+    maxlongitude: 10.619261
+    maxlatitude: 61.09172
+    latitude: 60.484604
+    longitude: 8.698377
+- name: Aust-Agder
+  names:
+  - Aust-Agder
+  code: NO-09
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.824533
+    minlatitude: 58.105015
+    maxlongitude: 9.369385
+    maxlatitude: 59.67041
+    latitude: 58.66703
+    longitude: 8.0844755
+- name: Vest-Agder
+  names:
+  - Vest-Agder
+  code: NO-10
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.376528
+    minlatitude: 57.958496
+    maxlongitude: 8.209832
+    maxlatitude: 59.188847
+    latitude: 58.368607
+    longitude: 6.901962
+- name: Hordaland
+  names:
+  - Hordaland
+  code: NO-12
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.633478
+    minlatitude: 59.475983
+    maxlongitude: 7.732115
+    maxlatitude: 61.035236
+    latitude: 60.27337
+    longitude: 5.722019
+- name: Nord-Trøndelag
+  names:
+  - Nord-Trøndelag
+  code: NO-17
+  countryalpha2: "NO"
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.133596
+    minlatitude: 63.180687
+    maxlongitude: 14.325986
+    maxlatitude: 65.3944
+    latitude: 64.43708
+    longitude: 11.746295

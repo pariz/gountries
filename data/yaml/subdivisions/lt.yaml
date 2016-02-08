@@ -1,0 +1,140 @@
+- name: Alytaus Apskritis
+  names:
+  - Alytaus Apskritis
+  code: AL
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.312597
+    minlatitude: 53.89748
+    maxlongitude: 25.025223
+    maxlatitude: 54.56347
+    latitude: 54.20002
+    longitude: 24.151264
+- name: Šiauliu Apskritis
+  names:
+  - Shiauliu
+  code: SA
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.465702
+    minlatitude: 55.4631
+    maxlongitude: 24.182453
+    maxlatitude: 56.415054
+    latitude: 55.998573
+    longitude: 23.138004
+- name: Telšiu Apskritis
+  names:
+  - Telshiu
+  code: TE
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.512012
+    minlatitude: 55.597427
+    maxlongitude: 22.738138
+    maxlatitude: 56.43201
+    latitude: 56.10266
+    longitude: 22.111391
+- name: Utenos Apskritis
+  names:
+  - Utenos Apskritis
+  code: UT
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.653175
+    minlatitude: 55.030975
+    maxlongitude: 26.835579
+    maxlatitude: 55.94378
+    latitude: 55.5319
+    longitude: 25.79047
+- name: Vilniaus Apskritis
+  names:
+  - Vilniaus Apskritis
+  code: VL
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.386375
+    minlatitude: 54.12766
+    maxlongitude: 26.760214
+    maxlatitude: 55.517437
+    latitude: 54.80865
+    longitude: 25.218214
+- name: Klaipedos Apskritis
+  names:
+  - Klaipedos
+  code: KL
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.9532
+    minlatitude: 55.18057
+    maxlongitude: 22.02608
+    maxlatitude: 56.384026
+    latitude: 55.668697
+    longitude: 21.424137
+- name: Kauno Apskritis
+  names:
+  - Kauno Apskritis
+  code: KU
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.67151
+    minlatitude: 54.454308
+    maxlongitude: 24.811666
+    maxlatitude: 55.576916
+    latitude: 54.987286
+    longitude: 23.952574
+- name: Marijampoles Apskritis
+  names:
+  - Mariampoles
+  code: MR
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.58981
+    minlatitude: 54.253696
+    maxlongitude: 23.79384
+    maxlatitude: 55.10449
+    latitude: 54.781998
+    longitude: 23.134136
+- name: Panevežio Apskritis
+  names:
+  - Panevezhio
+  code: PN
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.879047
+    minlatitude: 55.38714
+    maxlongitude: 26.045708
+    maxlatitude: 56.45032
+    latitude: 55.974804
+    longitude: 25.079477
+- name: Taurages Apskritis
+  names:
+  - Taurages
+  code: TA
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.649399
+    minlatitude: 55.02444
+    maxlongitude: 23.503891
+    maxlatitude: 55.688732
+    latitude: 55.30726
+    longitude: 22.357294

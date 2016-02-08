@@ -1,0 +1,112 @@
+- name: Saint George
+  names:
+  - Saint George
+  code: "03"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.81049
+    minlatitude: 17.08282
+    maxlongitude: -61.74657
+    maxlatitude: 17.169527
+    latitude: 17.10785
+    longitude: -61.788273
+- name: Saint John’s
+  names:
+  - Saint John’s
+  code: "04"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.861458
+    minlatitude: 17.10798
+    maxlongitude: -61.82719
+    maxlatitude: 17.140995
+    latitude: 17.116667
+    longitude: -61.85
+- name: Saint Mary
+  names:
+  - Saint Mary
+  code: "05"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.905933
+    minlatitude: 17.003769
+    maxlongitude: -61.805473
+    maxlatitude: 17.10528
+    latitude: 17.051207
+    longitude: -61.87603
+- name: Saint Paul
+  names:
+  - Saint Paul
+  code: "06"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.81293
+    minlatitude: 16.99795
+    maxlongitude: -61.73061
+    maxlatitude: 17.065935
+    latitude: 17.037159
+    longitude: -61.782425
+- name: Saint Peter
+  names:
+  - Saint Peter
+  code: "07"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.78763
+    minlatitude: 17.062069
+    maxlongitude: -61.71377
+    maxlatitude: 17.148565
+    latitude: 17.098066
+    longitude: -61.759033
+- name: Saint Philip
+  names:
+  - Saint Philip
+  code: "08"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.744682
+    minlatitude: 17.031021
+    maxlongitude: -61.660976
+    maxlatitude: 17.104033
+    latitude: 17.048063
+    longitude: -61.712257
+- name: Barbuda
+  names:
+  - Barbuda
+  code: "10"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.885788
+    minlatitude: 17.543726
+    maxlongitude: -61.731808
+    maxlatitude: 17.729336
+    latitude: 17.626799
+    longitude: -61.77073
+- name: Redonda
+  names:
+  - Redonda
+  code: X2~
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.347656
+    minlatitude: 16.932531
+    maxlongitude: -62.34208
+    maxlatitude: 16.943024
+    latitude: 16.938416
+    longitude: -62.345516

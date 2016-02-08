@@ -1,0 +1,140 @@
+- name: Maseru
+  names:
+  - Maseru
+  code: A
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.434425
+    minlatitude: -29.401028
+    maxlongitude: 27.599716
+    maxlatitude: -29.272606
+    latitude: -29.31
+    longitude: 27.48
+- name: Butha-Buthe
+  names:
+  - Butha-Buthe
+  code: B
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.218306
+    minlatitude: -29.083893
+    maxlongitude: 28.824408
+    maxlatitude: -28.5708
+    latitude: -28.801561
+    longitude: 28.533104
+- name: Leribe
+  names:
+  - Leribe
+  code: C
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.034342
+    minlatitude: -28.888947
+    maxlongitude: 28.08805
+    maxlatitude: -28.844824
+    latitude: -28.873362
+    longitude: 28.041582
+- name: Berea
+  names:
+  - Berea
+  code: D
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.511711
+    minlatitude: -29.386633
+    maxlongitude: 28.295258
+    maxlatitude: -28.942451
+    latitude: -29.174673
+    longitude: 27.831142
+- name: Quthing
+  names:
+  - Quthing
+  code: G
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.686813
+    minlatitude: -30.423199
+    maxlongitude: 27.743332
+    maxlatitude: -30.39172
+    latitude: -30.40011
+    longitude: 27.700193
+- name: Mokhotlong
+  names:
+  - Mokhotlong
+  code: J
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.029726
+    minlatitude: -29.29951
+    maxlongitude: 29.082157
+    maxlatitude: -29.275063
+    latitude: -29.288494
+    longitude: 29.065569
+- name: Mafeteng
+  names:
+  - Mafeteng
+  code: E
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.205324
+    minlatitude: -29.847828
+    maxlongitude: 27.276176
+    maxlatitude: -29.77451
+    latitude: -29.822432
+    longitude: 27.238815
+- name: Mohale's Hoek
+  names:
+  - Mohale's Hoek
+  code: F
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.429644
+    minlatitude: -30.167261
+    maxlongitude: 27.498844
+    maxlatitude: -30.12154
+    latitude: -30.15
+    longitude: 27.466667
+- name: Qacha's Nek
+  names:
+  - Qacha's Nek
+  code: H
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.660368
+    minlatitude: -30.128464
+    maxlongitude: 28.70088
+    maxlatitude: -30.096983
+    latitude: -30.116667
+    longitude: 28.683332
+- name: Thaba-Tseka
+  names:
+  - Thaba-Tseka
+  code: K
+  countryalpha2: LS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.105192
+    minlatitude: -29.895483
+    maxlongitude: 29.32513
+    maxlatitude: -29.113617
+    latitude: -29.515753
+    longitude: 28.590189

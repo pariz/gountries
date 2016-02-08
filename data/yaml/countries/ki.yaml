@@ -1,0 +1,75 @@
+name:
+  common: Kiribati
+  official: Independent and Sovereign Republic of Kiribati
+  native:
+    eng:
+      common: Kiribati
+      official: Independent and Sovereign Republic of Kiribati
+    gil:
+      common: Kiribati
+      official: Ribaberiki Kiribati
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ki
+languages:
+  eng: English
+  gil: Gilbertese
+translations:
+  deu:
+    common: Kiribati
+    official: Unabhängige und souveräne Republik Kiribati
+  fin:
+    common: Kiribati
+    official: Kiribatin tasavalta
+  fra:
+    common: Kiribati
+    official: République de Kiribati
+  hrv:
+    common: Kiribati
+    official: Samostalne i suverene Republike Kiribati
+  ita:
+    common: Kiribati
+    official: Repubblica indipendente e sovrano di Kiribati
+  jpn:
+    common: キリバス
+    official: キリバスの独立と主権共和国
+  nld:
+    common: Kiribati
+    official: Onafhankelijke en soevereine republiek Kiribati
+  por:
+    common: Kiribati
+    official: Independente e soberano República de Kiribati
+  rus:
+    common: Кирибати
+    official: Независимой и суверенной Республики Кирибати
+  spa:
+    common: Kiribati
+    official: República Independiente y Soberano de Kiribati
+currencies:
+- AUD
+borders: []
+codes:
+  alpha2: KI
+  alpha3: KIR
+  cioc: KIR
+  ccn3: "296"
+  callingcodes:
+  - "686"
+  internationalprefix: "00"
+geo:
+  region: Oceania
+  subregion: Micronesia
+  continent: Australia
+  capital: South Tarawa
+  area: 811
+coordinates:
+  longitudestring: 173 00 E
+  latitudestring: 1 25 N
+  minlongitude: 179.71666
+  minlatitude: -10.3
+  maxlongitude: -174.53334
+  maxlatitude: 4.716667
+  latitude: 1.8428332
+  longitude: -157.67583

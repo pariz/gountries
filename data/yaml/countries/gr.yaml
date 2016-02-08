@@ -1,0 +1,75 @@
+name:
+  common: Greece
+  official: Hellenic Republic
+  native:
+    ell:
+      common: Ελλάδα
+      official: Ελληνική Δημοκρατία
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .gr
+languages:
+  ell: Greek
+translations:
+  deu:
+    common: Griechenland
+    official: Hellenische Republik
+  fin:
+    common: Kreikka
+    official: Helleenien tasavalta
+  fra:
+    common: Grèce
+    official: République hellénique
+  hrv:
+    common: Grčka
+    official: Helenska Republika
+  ita:
+    common: Grecia
+    official: Repubblica ellenica
+  jpn:
+    common: ギリシャ
+    official: ギリシャ共和国
+  nld:
+    common: Griekenland
+    official: Helleense Republiek
+  por:
+    common: Grécia
+    official: República Helénica
+  rus:
+    common: Греция
+    official: Греческая Республика
+  spa:
+    common: Grecia
+    official: República Helénica
+currencies:
+- EUR
+borders:
+- ALB
+- BGR
+- TUR
+- MKD
+codes:
+  alpha2: GR
+  alpha3: GRC
+  cioc: GRE
+  ccn3: "300"
+  callingcodes:
+  - "30"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Athens
+  area: 131990
+coordinates:
+  longitudestring: 22 00 E
+  latitudestring: 39 00 N
+  minlongitude: 19.381666
+  minlatitude: 34.8
+  maxlongitude: 29.648056
+  maxlatitude: 44
+  latitude: 39.684372
+  longitude: 21.89741

@@ -1,0 +1,79 @@
+name:
+  common: Seychelles
+  official: Republic of Seychelles
+  native:
+    crs:
+      common: Sesel
+      official: Repiblik Sesel
+    eng:
+      common: Seychelles
+      official: Republic of Seychelles
+    fra:
+      common: Seychelles
+      official: République des Seychelles
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .sc
+languages:
+  crs: Seychellois Creole
+  eng: English
+  fra: French
+translations:
+  deu:
+    common: Seychellen
+    official: Republik der Seychellen
+  fin:
+    common: Seychellit
+    official: Seychellien tasavalta
+  fra:
+    common: Seychelles
+    official: République des Seychelles
+  hrv:
+    common: Sejšeli
+    official: Republika Sejšeli
+  ita:
+    common: Seychelles
+    official: Repubblica delle Seychelles
+  jpn:
+    common: セーシェル
+    official: セイシェル共和国
+  nld:
+    common: Seychellen
+    official: Republiek der Seychellen
+  por:
+    common: Seicheles
+    official: República das Seychelles
+  rus:
+    common: Сейшельские Острова
+    official: Республика Сейшельские Острова
+  spa:
+    common: Seychelles
+    official: República de las Seychelles
+currencies:
+- SCR
+borders: []
+codes:
+  alpha2: SC
+  alpha3: SYC
+  cioc: SEY
+  ccn3: "690"
+  callingcodes:
+  - "248"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Victoria
+  area: 452
+coordinates:
+  longitudestring: 55 40 E
+  latitudestring: 4 35 S
+  minlongitude: 46.216667
+  minlatitude: -10.216667
+  maxlongitude: 56.266666
+  maxlatitude: -3.716667
+  latitude: -4.669795
+  longitude: 55.47166

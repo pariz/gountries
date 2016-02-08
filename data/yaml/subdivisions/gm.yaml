@@ -1,0 +1,84 @@
+- name: Western
+  names:
+  - Western
+  code: W
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.813631
+    minlatitude: 13.066817
+    maxlongitude: -15.810324
+    maxlatitude: 13.452582
+    latitude: 13.22292
+    longitude: -16.58198
+- name: Banjul
+  names:
+  - Banjul
+  code: B
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.590696
+    minlatitude: 13.442448
+    maxlongitude: -16.570358
+    maxlatitude: 13.4625845
+    latitude: 13.453056
+    longitude: -16.5775
+- name: Lower River
+  names:
+  - Lower River
+  code: L
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.231024
+    minlatitude: 13.237656
+    maxlongitude: -15.183162
+    maxlatitude: 13.554205
+    latitude: 13.35533
+    longitude: -15.92299
+- name: MacCarthy Island
+  names:
+  - MacCarthy Island
+  code: M
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.804935
+    minlatitude: 13.524263
+    maxlongitude: -14.713011
+    maxlatitude: 13.555138
+    latitude: 13.533621
+    longitude: -14.769596
+- name: North Bank
+  names:
+  - North Bank
+  code: "N"
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.549274
+    minlatitude: 13.328947
+    maxlongitude: -15.309071
+    maxlatitude: 13.644219
+    latitude: 13.528543
+    longitude: -16.016996
+- name: Upper River
+  names:
+  - Upper River
+  code: U
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.546916
+    minlatitude: 13.215689
+    maxlongitude: -13.797793
+    maxlatitude: 13.5734005
+    latitude: 13.425736
+    longitude: -14.007235

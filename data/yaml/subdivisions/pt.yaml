@@ -1,0 +1,280 @@
+- name: Aveiro
+  names:
+  - Aveiro
+  code: "01"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.665443
+    minlatitude: 40.624172
+    maxlongitude: -8.623812
+    maxlatitude: 40.65459
+    latitude: 40.640507
+    longitude: -8.653754
+- name: Braga
+  names:
+  - Braga
+  code: "03"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.480663
+    minlatitude: 41.510403
+    maxlongitude: -8.342179
+    maxlatitude: 41.58415
+    latitude: 41.54545
+    longitude: -8.426507
+- name: Coimbra
+  names:
+  - Coimbra
+  code: "06"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.509641
+    minlatitude: 40.17137
+    maxlongitude: -8.322907
+    maxlatitude: 40.286148
+    latitude: 40.203316
+    longitude: -8.410257
+- name: Guarda
+  names:
+  - Guarda
+  code: "09"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.2926517
+    minlatitude: 40.50446
+    maxlongitude: -7.198068
+    maxlatitude: 40.57389
+    latitude: 40.53835
+    longitude: -7.2661314
+- name: Leiria
+  names:
+  - Leiria
+  code: "10"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.876852
+    minlatitude: 39.70992
+    maxlongitude: -8.735065
+    maxlatitude: 39.798206
+    latitude: 39.749535
+    longitude: -8.807683
+- name: Santarém
+  names:
+  - Santarém
+  code: "14"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.749492
+    minlatitude: 39.168747
+    maxlongitude: -8.626665
+    maxlatitude: 39.28691
+    latitude: 39.23666
+    longitude: -8.686012
+- name: Viana do Castelo
+  names:
+  - Viana do Castelo
+  code: "16"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.86934
+    minlatitude: 41.671402
+    maxlongitude: -8.748358
+    maxlatitude: 41.760567
+    latitude: 41.691826
+    longitude: -8.83441
+- name: Madeira
+  names:
+  - Madeira
+  code: "30"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.265938
+    minlatitude: 30.030346
+    maxlongitude: -15.856692
+    maxlatitude: 33.128136
+    latitude: 32.760708
+    longitude: -16.959473
+- name: Lisboa
+  names:
+  - Lisboa
+  code: "11"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.2298355
+    minlatitude: 38.6914
+    maxlongitude: -9.090571
+    maxlatitude: 38.795853
+    latitude: 38.72225
+    longitude: -9.139337
+- name: Porto
+  names:
+  - Porto
+  code: "13"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.6910925
+    minlatitude: 41.13835
+    maxlongitude: -8.552613
+    maxlatitude: 41.185936
+    latitude: 41.157944
+    longitude: -8.629106
+- name: Vila Real
+  names:
+  - Vila Real
+  code: "17"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.7902946
+    minlatitude: 41.24016
+    maxlongitude: -7.6639147
+    maxlatitude: 41.36355
+    latitude: 41.301037
+    longitude: -7.742235
+- name: Açores
+  names:
+  - Açores
+  code: "20"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -31.268795
+    minlatitude: 36.92782
+    maxlongitude: -25.013186
+    maxlatitude: 39.72615
+    latitude: 37.74125
+    longitude: -25.675594
+- name: Beja
+  names:
+  - Beja
+  code: "02"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.9595046
+    minlatitude: 37.97009
+    maxlongitude: -7.817749
+    maxlatitude: 38.07462
+    latitude: 38.015305
+    longitude: -7.862731
+- name: Bragança
+  names:
+  - Bragança
+  code: "04"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.7907133
+    minlatitude: 41.786106
+    maxlongitude: -6.7063503
+    maxlatitude: 41.83699
+    latitude: 41.806114
+    longitude: -6.756738
+- name: Castelo Branco
+  names:
+  - Castelo Branco
+  code: "05"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.559124
+    minlatitude: 39.713688
+    maxlongitude: -7.36709
+    maxlatitude: 39.909348
+    latitude: 39.819714
+    longitude: -7.496466
+- name: Évora
+  names:
+  - Évora
+  code: "07"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.9785037
+    minlatitude: 38.52272
+    maxlongitude: -7.8435144
+    maxlatitude: 38.61692
+    latitude: 38.57143
+    longitude: -7.913502
+- name: Faro
+  names:
+  - Faro
+  code: "08"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.000401
+    minlatitude: 36.96171
+    maxlongitude: -7.8093543
+    maxlatitude: 37.0739
+    latitude: 37.019356
+    longitude: -7.9304395
+- name: Portalegre
+  names:
+  - Portalegre
+  code: "12"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.466474
+    minlatitude: 39.262493
+    maxlongitude: -7.3995175
+    maxlatitude: 39.315388
+    latitude: 39.296707
+    longitude: -7.4284754
+- name: Setúbal
+  names:
+  - Setúbal
+  code: "15"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.972511
+    minlatitude: 38.484
+    maxlongitude: -8.755692
+    maxlatitude: 38.56411
+    latitude: 38.526043
+    longitude: -8.890933
+- name: Viseu
+  names:
+  - Viseu
+  code: "18"
+  countryalpha2: PT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.9660482
+    minlatitude: 40.607246
+    maxlongitude: -7.8250275
+    maxlatitude: 40.73258
+    latitude: 40.656586
+    longitude: -7.9124713

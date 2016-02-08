@@ -1,0 +1,59 @@
+- name: Yap
+  names:
+  - Yap
+  code: YAP
+  countryalpha2: FM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 138.05504
+    minlatitude: 7.3238807
+    maxlongitude: 143.91196
+    maxlatitude: 10.0220785
+    latitude: 9.539137
+    longitude: 138.12589
+- name: Kosrae
+  names:
+  - Kosrae
+  code: KSA
+  countryalpha2: FM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 162.90556
+    minlatitude: 5.259866
+    maxlongitude: 163.03404
+    maxlatitude: 5.369902
+    latitude: 5.3095617
+    longitude: 162.98149
+- name: Pohnpei
+  names:
+  - Ascension
+  - Ponape
+  code: PNI
+  countryalpha2: FM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 6.92574
+    longitude: 158.16263
+- name: Chuuk
+  names:
+  - Chuk
+  - Hogoley Islands
+  - Truk
+  code: TRK
+  countryalpha2: FM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 149.29668
+    minlatitude: 5.2847223
+    maxlongitude: 153.82193
+    maxlatitude: 8.690695
+    latitude: 7.355422
+    longitude: 151.59628

@@ -1,0 +1,2702 @@
+- name: Bohinj
+  names:
+  - Bohinj
+  code: "004"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.724376
+    minlatitude: 46.225742
+    maxlongitude: 14.181572
+    maxlatitude: 46.378353
+    latitude: 46.300564
+    longitude: 13.942719
+- name: Jesenice
+  names:
+  - Jesenice
+  code: "041"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.00846
+    minlatitude: 46.421043
+    maxlongitude: 14.081247
+    maxlatitude: 46.450172
+    latitude: 46.436707
+    longitude: 14.052606
+- name: Pesnica
+  names:
+  - Pesnica
+  code: "089"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.542412
+    minlatitude: 46.627804
+    maxlongitude: 15.581177
+    maxlatitude: 46.648743
+    latitude: 46.637386
+    longitude: 15.554346
+- name: Ilirska Bistrica
+  names:
+  - Ilirska Bistrica
+  code: "038"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.225775
+    minlatitude: 45.555367
+    maxlongitude: 14.39816
+    maxlatitude: 45.59769
+    latitude: 45.5701
+    longitude: 14.241861
+- name: Starše
+  names:
+  - Starše
+  code: "115"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.747067
+    minlatitude: 46.454666
+    maxlongitude: 15.788431
+    maxlatitude: 46.48132
+    latitude: 46.467434
+    longitude: 15.764054
+- name: Kostel
+  names:
+  - Kostel
+  code: "165"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.900478
+    minlatitude: 45.50475
+    maxlongitude: 14.9142065
+    maxlatitude: 45.51303
+    latitude: 45.508347
+    longitude: 14.908794
+- name: Sveti Andraž v Slovenskih goricah
+  names:
+  - Sveti Andraž v Slovenskih goricah
+  code: "182"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.920033
+    minlatitude: 46.490063
+    maxlongitude: 16.001997
+    maxlatitude: 46.54639
+    latitude: 46.518974
+    longitude: 15.949826
+- name: Veržej
+  names:
+  - Veržej
+  code: "188"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.150467
+    minlatitude: 46.564907
+    maxlongitude: 16.20077
+    maxlatitude: 46.59771
+    latitude: 46.58328
+    longitude: 16.164017
+- name: Crnomelj
+  names:
+  - Crnomelj
+  code: "017"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.165933
+    minlatitude: 45.546055
+    maxlongitude: 15.223653
+    maxlatitude: 45.59965
+    latitude: 45.571484
+    longitude: 15.193077
+- name: Loški Potok
+  names:
+  - Loški Potok
+  code: "066"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.537503
+    minlatitude: 45.58136
+    maxlongitude: 14.735061
+    maxlatitude: 45.743694
+    latitude: 45.664967
+    longitude: 14.662227
+- name: Nova Gorica
+  names:
+  - Nova Gorica
+  code: "084"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.633503
+    minlatitude: 45.945744
+    maxlongitude: 13.662523
+    maxlatitude: 45.966877
+    latitude: 45.954975
+    longitude: 13.649304
+- name: Vipava
+  names:
+  - Vipava
+  code: "136"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.944131
+    minlatitude: 45.818596
+    maxlongitude: 13.987123
+    maxlatitude: 45.860603
+    latitude: 45.845573
+    longitude: 13.9625435
+- name: Cerkvenjak
+  names:
+  - Cerkvenjak
+  code: "153"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.938173
+    minlatitude: 46.560215
+    maxlongitude: 15.955407
+    maxlatitude: 46.569534
+    latitude: 46.56707
+    longitude: 15.942975
+- name: Borovnica
+  names:
+  - Borovnica
+  code: "005"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.345481
+    minlatitude: 45.901222
+    maxlongitude: 14.384774
+    maxlatitude: 45.935886
+    latitude: 45.919304
+    longitude: 14.364068
+- name: Kungota
+  names:
+  - Kungota
+  code: "055"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.542412
+    minlatitude: 46.59235
+    maxlongitude: 15.662483
+    maxlatitude: 46.690372
+    latitude: 46.64188
+    longitude: 15.603629
+- name: Podvelka
+  names:
+  - Podvelka
+  code: "093"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.31995
+    minlatitude: 46.562103
+    maxlongitude: 15.353261
+    maxlatitude: 46.593052
+    latitude: 46.59035
+    longitude: 15.331035
+- name: Šmartno pri Litiji
+  names:
+  - Šmartno pri Litiji
+  code: "194"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.824839
+    minlatitude: 46.0301
+    maxlongitude: 14.858331
+    maxlatitude: 46.05386
+    latitude: 46.045742
+    longitude: 14.841005
+- name: Brežice
+  names:
+  - Brežice
+  code: "009"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.579761
+    minlatitude: 45.89301
+    maxlongitude: 15.628168
+    maxlatitude: 45.940895
+    latitude: 45.90881
+    longitude: 15.596465
+- name: Kidricevo
+  names:
+  - Kidricevo
+  code: "045"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.774731
+    minlatitude: 46.380867
+    maxlongitude: 15.805225
+    maxlatitude: 46.42488
+    latitude: 46.405014
+    longitude: 15.7947235
+- name: Lendava/Lendva
+  names:
+  - Lendava/Lendva
+  code: "059"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.413855
+    minlatitude: 46.547672
+    maxlongitude: 16.472984
+    maxlatitude: 46.575115
+    latitude: 46.56448
+    longitude: 16.453062
+- name: Maribor
+  names:
+  - Maribor
+  code: "070"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.588855
+    minlatitude: 46.511715
+    maxlongitude: 15.700245
+    maxlatitude: 46.595364
+    latitude: 46.55465
+    longitude: 15.645882
+- name: Vuzenica
+  names:
+  - Vuzenica
+  code: "141"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.141249
+    minlatitude: 46.576996
+    maxlongitude: 15.182938
+    maxlatitude: 46.61247
+    latitude: 46.598083
+    longitude: 15.165724
+- name: Dolenjske Toplice
+  names:
+  - Dolenjske Toplice
+  code: "157"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.049171
+    minlatitude: 45.7423
+    maxlongitude: 15.07797
+    maxlatitude: 45.766773
+    latitude: 45.75586
+    longitude: 15.059234
+- name: Beltinci
+  names:
+  - Beltinci
+  code: "002"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.203804
+    minlatitude: 46.5791
+    maxlongitude: 16.26706
+    maxlatitude: 46.626385
+    latitude: 46.607914
+    longitude: 16.236513
+- name: Lenart
+  names:
+  - Lenart
+  code: "058"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.750313
+    minlatitude: 46.494476
+    maxlongitude: 15.981176
+    maxlatitude: 46.701202
+    latitude: 46.595417
+    longitude: 15.863736
+- name: Nazarje
+  names:
+  - Nazarje
+  code: "083"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.937689
+    minlatitude: 46.31502
+    maxlongitude: 14.9579735
+    maxlatitude: 46.32645
+    latitude: 46.31795
+    longitude: 14.947039
+- name: Sveti Jurij
+  names:
+  - Sveti Jurij
+  code: "116"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.00836
+    minlatitude: 46.78603
+    maxlongitude: 16.058437
+    maxlatitude: 46.805553
+    latitude: 46.801605
+    longitude: 16.036865
+- name: Škofljica
+  names:
+  - Škofljica
+  code: "123"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.550934
+    minlatitude: 45.97093
+    maxlongitude: 14.589357
+    maxlatitude: 45.996895
+    latitude: 45.985966
+    longitude: 14.57219
+- name: Razkrižje
+  names:
+  - Razkrižje
+  code: "176"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.264223
+    minlatitude: 46.514156
+    maxlongitude: 16.28291
+    maxlatitude: 46.538925
+    latitude: 46.52463
+    longitude: 16.27627
+- name: Slovenske Konjice
+  names:
+  - Slovenske Konjice
+  code: "114"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.410143
+    minlatitude: 46.330204
+    maxlongitude: 15.448617
+    maxlatitude: 46.34517
+    latitude: 46.336918
+    longitude: 15.421471
+- name: Vojnik
+  names:
+  - Vojnik
+  code: "139"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.284065
+    minlatitude: 46.272667
+    maxlongitude: 15.322109
+    maxlatitude: 46.300335
+    latitude: 46.292057
+    longitude: 15.302058
+- name: Celje
+  names:
+  - Celje
+  code: "011"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.211424
+    minlatitude: 46.206738
+    maxlongitude: 15.297783
+    maxlatitude: 46.264927
+    latitude: 46.23975
+    longitude: 15.267706
+- name: Crna na Koroškem
+  names:
+  - Crna na Koroškem
+  code: "016"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.816578
+    minlatitude: 46.4496
+    maxlongitude: 14.883619
+    maxlatitude: 46.482597
+    latitude: 46.470398
+    longitude: 14.849878
+- name: Race-Fram
+  names:
+  - Race-Fram
+  code: "098"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.619842
+    minlatitude: 46.442764
+    maxlongitude: 15.658651
+    maxlatitude: 46.46611
+    latitude: 46.45526
+    longitude: 15.638927
+- name: Radenci
+  names:
+  - Radenci
+  code: "100"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.027681
+    minlatitude: 46.62556
+    maxlongitude: 16.057476
+    maxlatitude: 46.64942
+    latitude: 46.64392
+    longitude: 16.040268
+- name: Ribnica
+  names:
+  - Ribnica
+  code: "104"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.682977
+    minlatitude: 45.704395
+    maxlongitude: 14.764649
+    maxlatitude: 45.773117
+    latitude: 45.740032
+    longitude: 14.726578
+- name: Slovenj Gradec
+  names:
+  - Slovenj Gradec
+  code: "112"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.056726
+    minlatitude: 46.487423
+    maxlongitude: 15.100689
+    maxlatitude: 46.51832
+    latitude: 46.507584
+    longitude: 15.076817
+- name: Železniki
+  names:
+  - Železniki
+  code: "146"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.097977
+    minlatitude: 46.198936
+    maxlongitude: 14.1769495
+    maxlatitude: 46.239902
+    latitude: 46.22544
+    longitude: 14.169248
+- name: Žirovnica
+  names:
+  - Žirovnica
+  code: "192"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.133197
+    minlatitude: 46.39478
+    maxlongitude: 14.141806
+    maxlatitude: 46.408375
+    latitude: 46.404423
+    longitude: 14.137555
+- name: Moravske Toplice
+  names:
+  - Moravske Toplice
+  code: "078"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.20595
+    minlatitude: 46.678005
+    maxlongitude: 16.262371
+    maxlatitude: 46.726543
+    latitude: 46.68569
+    longitude: 16.222458
+- name: Podcetrtek
+  names:
+  - Podcetrtek
+  code: "092"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.57247
+    minlatitude: 46.144962
+    maxlongitude: 15.614264
+    maxlatitude: 46.172985
+    latitude: 46.155975
+    longitude: 15.597578
+- name: Šoštanj
+  names:
+  - Šoštanj
+  code: "126"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.024574
+    minlatitude: 46.36786
+    maxlongitude: 15.059261
+    maxlatitude: 46.39013
+    latitude: 46.378284
+    longitude: 15.046138
+- name: Horjul
+  names:
+  - Horjul
+  code: "162"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.28265
+    minlatitude: 46.003025
+    maxlongitude: 14.316655
+    maxlatitude: 46.032104
+    latitude: 46.022537
+    longitude: 14.298627
+- name: Logatec
+  names:
+  - Logatec
+  code: "064"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.171729
+    minlatitude: 45.884438
+    maxlongitude: 14.295556
+    maxlatitude: 45.953125
+    latitude: 45.917084
+    longitude: 14.228559
+- name: Novo mesto
+  names:
+  - Novo mesto
+  code: "085"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.127425
+    minlatitude: 45.768192
+    maxlongitude: 15.2119465
+    maxlatitude: 45.838985
+    latitude: 45.801083
+    longitude: 15.171009
+- name: Zrece
+  names:
+  - Zrece
+  code: "144"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.359906
+    minlatitude: 46.36233
+    maxlongitude: 15.411875
+    maxlatitude: 46.38916
+    latitude: 46.36966
+    longitude: 15.391852
+- name: Dobje
+  names:
+  - Dobje
+  code: "154"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.363052
+    minlatitude: 46.109364
+    maxlongitude: 15.437128
+    maxlatitude: 46.1602
+    latitude: 46.1349
+    longitude: 15.396302
+- name: Hajdina
+  names:
+  - Hajdina
+  code: "159"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.791654
+    minlatitude: 46.38277
+    maxlongitude: 15.868233
+    maxlatitude: 46.457092
+    latitude: 46.418503
+    longitude: 15.824472
+- name: Crenšovci
+  names:
+  - Crenšovci
+  code: "015"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.266682
+    minlatitude: 46.52721
+    maxlongitude: 16.34533
+    maxlatitude: 46.5852
+    latitude: 46.572002
+    longitude: 16.287735
+- name: Lukovica
+  names:
+  - Lukovica
+  code: "068"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.678894
+    minlatitude: 46.16295
+    maxlongitude: 14.704091
+    maxlatitude: 46.179405
+    latitude: 46.16963
+    longitude: 14.690726
+- name: Ptuj
+  names:
+  - Ptuj
+  code: "096"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.823793
+    minlatitude: 46.385624
+    maxlongitude: 15.91804
+    maxlatitude: 46.45877
+    latitude: 46.419952
+    longitude: 15.869688
+- name: Radlje ob Dravi
+  names:
+  - Radlje ob Dravi
+  code: "101"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.203357
+    minlatitude: 46.60703
+    maxlongitude: 15.235665
+    maxlatitude: 46.619118
+    latitude: 46.614357
+    longitude: 15.225547
+- name: Sevnica
+  names:
+  - Sevnica
+  code: "110"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.2884445
+    minlatitude: 46.003353
+    maxlongitude: 15.331991
+    maxlatitude: 46.026318
+    latitude: 46.01295
+    longitude: 15.297987
+- name: Trebnje
+  names:
+  - Trebnje
+  code: "130"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.99214
+    minlatitude: 45.89702
+    maxlongitude: 15.034481
+    maxlatitude: 45.922825
+    latitude: 45.908173
+    longitude: 15.012598
+- name: Selnica ob Dravi
+  names:
+  - Selnica ob Dravi
+  code: "178"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.480965
+    minlatitude: 46.54082
+    maxlongitude: 15.510273
+    maxlatitude: 46.56129
+    latitude: 46.55139
+    longitude: 15.492941
+- name: Koper/Capodistria
+  names:
+  - Koper/Capodistria
+  code: "050"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.68958
+    minlatitude: 45.523468
+    maxlongitude: 13.76073
+    maxlatitude: 45.55769
+    latitude: 45.548058
+    longitude: 13.730187
+- name: Kranjska Gora
+  names:
+  - Kranjska Gora
+  code: "053"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.726428
+    minlatitude: 46.40982
+    maxlongitude: 13.815136
+    maxlatitude: 46.51103
+    latitude: 46.484528
+    longitude: 13.785714
+- name: Šentjur pri Celju
+  names:
+  - Šentjur pri Celju
+  code: "120"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.3301525
+    minlatitude: 46.065556
+    maxlongitude: 15.5358715
+    maxlatitude: 46.311855
+    latitude: 46.14253
+    longitude: 15.447344
+- name: Zavrc
+  names:
+  - Zavrc
+  code: "143"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.025454
+    minlatitude: 46.38135
+    maxlongitude: 16.055956
+    maxlatitude: 46.392796
+    latitude: 46.38564
+    longitude: 16.047077
+- name: Jezersko
+  names:
+  - Jezersko
+  code: "163"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4014
+    minlatitude: 46.34559
+    maxlongitude: 14.565228
+    maxlatitude: 46.427185
+    latitude: 46.391426
+    longitude: 14.462321
+- name: Ribnica na Pohorju
+  names:
+  - Ribnica na Pohorju
+  code: "177"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.253351
+    minlatitude: 46.520344
+    maxlongitude: 15.302603
+    maxlatitude: 46.54968
+    latitude: 46.53564
+    longitude: 15.267513
+- name: Šempeter-Vrtojba
+  names:
+  - Šempeter-Vrtojba
+  code: "183"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.611366
+    minlatitude: 45.896187
+    maxlongitude: 13.686283
+    maxlatitude: 45.93944
+    latitude: 45.914337
+    longitude: 13.642726
+- name: Bovec
+  names:
+  - Bovec
+  code: "006"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.490824
+    minlatitude: 46.315063
+    maxlongitude: 13.592307
+    maxlatitude: 46.370407
+    latitude: 46.33764
+    longitude: 13.551683
+- name: Ivancna Gorica
+  names:
+  - Ivancna Gorica
+  code: "039"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.794321
+    minlatitude: 45.934208
+    maxlongitude: 14.818949
+    maxlatitude: 45.946457
+    latitude: 45.939583
+    longitude: 14.804763
+- name: Kobarid
+  names:
+  - Kobarid
+  code: "046"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.548261
+    minlatitude: 46.227146
+    maxlongitude: 13.592148
+    maxlatitude: 46.26068
+    latitude: 46.247654
+    longitude: 13.579175
+- name: Škocjan
+  names:
+  - Škocjan
+  code: "121"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.267919
+    minlatitude: 45.897808
+    maxlongitude: 15.296587
+    maxlatitude: 45.91281
+    latitude: 45.907227
+    longitude: 15.292258
+- name: Trbovlje
+  names:
+  - Trbovlje
+  code: "129"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.013238
+    minlatitude: 46.113976
+    maxlongitude: 15.0648985
+    maxlatitude: 46.171608
+    latitude: 46.150356
+    longitude: 15.045314
+- name: Mirna Pec
+  names:
+  - Mirna Pec
+  code: "170"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.053286
+    minlatitude: 45.839603
+    maxlongitude: 15.109466
+    maxlatitude: 45.870827
+    latitude: 45.859447
+    longitude: 15.083046
+- name: Dornava
+  names:
+  - Dornava
+  code: "024"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.935205
+    minlatitude: 46.419403
+    maxlongitude: 15.968331
+    maxlatitude: 46.453094
+    latitude: 46.43565
+    longitude: 15.952954
+- name: Pivka
+  names:
+  - Pivka
+  code: "091"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.173487
+    minlatitude: 45.662247
+    maxlongitude: 14.221346
+    maxlatitude: 45.691166
+    latitude: 45.68253
+    longitude: 14.196058
+- name: Škofja Loka
+  names:
+  - Škofja Loka
+  code: "122"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.286302
+    minlatitude: 46.15435
+    maxlongitude: 14.345453
+    maxlatitude: 46.179665
+    latitude: 46.16713
+    longitude: 14.305834
+- name: Vitanje
+  names:
+  - Vitanje
+  code: "137"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.2761
+    minlatitude: 46.36906
+    maxlongitude: 15.307196
+    maxlatitude: 46.389935
+    latitude: 46.381508
+    longitude: 15.295033
+- name: Turnišce
+  names:
+  - Turnišce
+  code: "132"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.26452
+    minlatitude: 46.609837
+    maxlongitude: 16.335833
+    maxlatitude: 46.64327
+    latitude: 46.625458
+    longitude: 16.314497
+- name: Solcava
+  names:
+  - Solcava
+  code: "180"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.635718
+    minlatitude: 46.398224
+    maxlongitude: 14.728579
+    maxlatitude: 46.43111
+    latitude: 46.420094
+    longitude: 14.691732
+- name: Cerklje na Gorenjskem
+  names:
+  - Cerklje na Gorenjskem
+  code: "012"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4646635
+    minlatitude: 46.24524
+    maxlongitude: 14.49347
+    maxlatitude: 46.262585
+    latitude: 46.253128
+    longitude: 14.486883
+- name: Cerkno
+  names:
+  - Cerkno
+  code: "014"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.949445
+    minlatitude: 46.103477
+    maxlongitude: 14.004929
+    maxlatitude: 46.14029
+    latitude: 46.128956
+    longitude: 13.989193
+- name: Destrnik
+  names:
+  - Destrnik
+  code: "018"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.874558
+    minlatitude: 46.48531
+    maxlongitude: 15.886078
+    maxlatitude: 46.497295
+    latitude: 46.492237
+    longitude: 15.877795
+- name: Duplek
+  names:
+  - Duplek
+  code: "026"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.712426
+    minlatitude: 46.468525
+    maxlongitude: 15.8177805
+    maxlatitude: 46.550076
+    latitude: 46.51852
+    longitude: 15.77919
+- name: Medvode
+  names:
+  - Medvode
+  code: "071"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.3930645
+    minlatitude: 46.122684
+    maxlongitude: 14.4319
+    maxlatitude: 46.155327
+    latitude: 46.14139
+    longitude: 14.411347
+- name: Moravce
+  names:
+  - Moravce
+  code: "077"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.728392
+    minlatitude: 46.125015
+    maxlongitude: 14.755755
+    maxlatitude: 46.144245
+    latitude: 46.135723
+    longitude: 14.744435
+- name: Gorenja vas-Poljane
+  names:
+  - Gorenja vas-Poljane
+  code: "027"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.017829
+    minlatitude: 46.036945
+    maxlongitude: 14.227965
+    maxlatitude: 46.18095
+    latitude: 46.123005
+    longitude: 14.115174
+- name: Šalovci
+  names:
+  - Šalovci
+  code: "033"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.253826
+    minlatitude: 46.801014
+    maxlongitude: 16.311304
+    maxlatitude: 46.848003
+    latitude: 46.823593
+    longitude: 16.288164
+- name: Kamnik
+  names:
+  - Kamnik
+  code: "043"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.590281
+    minlatitude: 46.198048
+    maxlongitude: 14.642839
+    maxlatitude: 46.245163
+    latitude: 46.222195
+    longitude: 14.607297
+- name: Dobrovnik/Dobronak
+  names:
+  - Dobrovnik/Dobronak
+  code: "156"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.309221
+    minlatitude: 46.61219
+    maxlongitude: 16.374844
+    maxlatitude: 46.67547
+    latitude: 46.651676
+    longitude: 16.34291
+- name: Sveta Ana
+  names:
+  - Sveta Ana
+  code: "181"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 46.65
+    longitude: 15.845278
+- name: Markovci
+  names:
+  - Markovci
+  code: "168"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.220413
+    minlatitude: 46.82356
+    maxlongitude: 16.259619
+    maxlatitude: 46.864414
+    latitude: 46.842846
+    longitude: 16.234955
+- name: Oplotnica
+  names:
+  - Oplotnica
+  code: "171"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.433487
+    minlatitude: 46.370747
+    maxlongitude: 15.469291
+    maxlatitude: 46.39609
+    latitude: 46.38716
+    longitude: 15.445813
+- name: Dobrepolje
+  names:
+  - Dobrepolje
+  code: "020"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.633933
+    minlatitude: 45.72658
+    maxlongitude: 14.84211
+    maxlatitude: 45.893444
+    latitude: 45.852493
+    longitude: 14.708311
+- name: Kranj
+  names:
+  - Kranj
+  code: "052"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.306001
+    minlatitude: 46.198772
+    maxlongitude: 14.399293
+    maxlatitude: 46.27046
+    latitude: 46.242836
+    longitude: 14.355541
+- name: Krško
+  names:
+  - Krško
+  code: "054"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.466603
+    minlatitude: 45.936028
+    maxlongitude: 15.513031
+    maxlatitude: 45.985348
+    latitude: 45.959225
+    longitude: 15.495021
+- name: Litija
+  names:
+  - Litija
+  code: "060"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.803405
+    minlatitude: 46.04774
+    maxlongitude: 14.849082
+    maxlatitude: 46.073627
+    latitude: 46.05923
+    longitude: 14.826601
+- name: Radovljica
+  names:
+  - Radovljica
+  code: "102"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.155444
+    minlatitude: 46.32848
+    maxlongitude: 14.197701
+    maxlatitude: 46.355392
+    latitude: 46.343735
+    longitude: 14.174005
+- name: Hodoš/Hodos
+  names:
+  - Hodoš/Hodos
+  code: "161"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.290756
+    minlatitude: 46.812843
+    maxlongitude: 16.350834
+    maxlatitude: 46.866444
+    latitude: 46.831413
+    longitude: 16.321068
+- name: Podlehnik
+  names:
+  - Podlehnik
+  code: "172"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.862803
+    minlatitude: 46.328793
+    maxlongitude: 15.901075
+    maxlatitude: 46.352627
+    latitude: 46.335896
+    longitude: 15.878724
+- name: Velika Polana
+  names:
+  - Velika Polana
+  code: "187"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.321505
+    minlatitude: 46.553402
+    maxlongitude: 16.37617
+    maxlatitude: 46.58747
+    latitude: 46.57317
+    longitude: 16.344412
+- name: Brezovica
+  names:
+  - Brezovica
+  code: "008"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.218164
+    minlatitude: 45.86902
+    maxlongitude: 15.249942
+    maxlatitude: 45.889244
+    latitude: 45.87271
+    longitude: 15.241238
+- name: Divaca
+  names:
+  - Divaca
+  code: "019"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.933302
+    minlatitude: 45.669743
+    maxlongitude: 14.000914
+    maxlatitude: 45.706917
+    latitude: 45.682915
+    longitude: 13.969722
+- name: Loška dolina
+  names:
+  - Loška dolina
+  code: "065"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.379426
+    minlatitude: 45.579697
+    maxlongitude: 14.570139
+    maxlatitude: 45.749004
+    latitude: 45.64779
+    longitude: 14.497314
+- name: Mislinja
+  names:
+  - Mislinja
+  code: "076"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.150495
+    minlatitude: 46.42786
+    maxlongitude: 15.328243
+    maxlatitude: 46.496376
+    latitude: 46.443974
+    longitude: 15.198595
+- name: Dobrna
+  names:
+  - Dobrna
+  code: "155"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.205593
+    minlatitude: 46.33199
+    maxlongitude: 15.237352
+    maxlatitude: 46.34937
+    latitude: 46.335613
+    longitude: 15.225973
+- name: Križevci
+  names:
+  - Križevci
+  code: "166"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.200205
+    minlatitude: 46.767563
+    maxlongitude: 16.271404
+    maxlatitude: 46.80431
+    latitude: 46.7924
+    longitude: 16.23482
+- name: Žalec
+  names:
+  - Žalec
+  code: "190"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.140623
+    minlatitude: 46.235588
+    maxlongitude: 15.180459
+    maxlatitude: 46.257565
+    latitude: 46.251984
+    longitude: 15.165029
+- name: Gornji Grad
+  names:
+  - Gornji Grad
+  code: "030"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.792665
+    minlatitude: 46.253372
+    maxlongitude: 14.834534
+    maxlatitude: 46.31243
+    latitude: 46.296173
+    longitude: 14.806234
+- name: Gornji Petrovci
+  names:
+  - Gornji Petrovci
+  code: "031"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.192327
+    minlatitude: 46.792183
+    maxlongitude: 16.23253
+    maxlatitude: 46.818283
+    latitude: 46.804752
+    longitude: 16.218073
+- name: Mežica
+  names:
+  - Mežica
+  code: "074"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.842209
+    minlatitude: 46.50954
+    maxlongitude: 14.867506
+    maxlatitude: 46.52763
+    latitude: 46.521416
+    longitude: 14.852395
+- name: Muta
+  names:
+  - Muta
+  code: "081"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.134682
+    minlatitude: 46.59153
+    maxlongitude: 15.177247
+    maxlatitude: 46.61923
+    latitude: 46.609737
+    longitude: 15.162999
+- name: Velike Lašce
+  names:
+  - Velike Lašce
+  code: "134"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.615107
+    minlatitude: 45.821007
+    maxlongitude: 14.670333
+    maxlatitude: 45.850464
+    latitude: 45.83366
+    longitude: 14.636236
+- name: Benedikt
+  names:
+  - Benedikt
+  code: "148"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.863976
+    minlatitude: 46.593033
+    maxlongitude: 15.901158
+    maxlatitude: 46.625736
+    latitude: 46.607574
+    longitude: 15.889694
+- name: Polzela
+  names:
+  - Polzela
+  code: "173"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.05974
+    minlatitude: 46.268635
+    maxlongitude: 15.085756
+    maxlatitude: 46.302193
+    latitude: 46.280895
+    longitude: 15.073732
+- name: Žužemberk
+  names:
+  - Žužemberk
+  code: "193"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.907754
+    minlatitude: 45.801956
+    maxlongitude: 14.949526
+    maxlatitude: 45.84776
+    latitude: 45.83067
+    longitude: 14.929823
+- name: Brda
+  names:
+  - Brda
+  code: "007"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.133726
+    minlatitude: 46.456905
+    maxlongitude: 15.176544
+    maxlatitude: 46.47888
+    latitude: 46.471657
+    longitude: 15.143979
+- name: Gorišnica
+  names:
+  - Gorišnica
+  code: "028"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.993936
+    minlatitude: 46.40122
+    maxlongitude: 16.035727
+    maxlatitude: 46.42253
+    latitude: 46.412025
+    longitude: 16.01331
+- name: Metlika
+  names:
+  - Metlika
+  code: "073"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.282069
+    minlatitude: 45.63315
+    maxlongitude: 15.352482
+    maxlatitude: 45.667843
+    latitude: 45.6474
+    longitude: 15.317676
+- name: Ormož
+  names:
+  - Ormož
+  code: "087"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.128302
+    minlatitude: 46.394047
+    maxlongitude: 16.177624
+    maxlatitude: 46.41562
+    latitude: 46.408627
+    longitude: 16.150816
+- name: Tržic
+  names:
+  - Tržic
+  code: "131"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.291258
+    minlatitude: 46.35077
+    maxlongitude: 14.335629
+    maxlatitude: 46.382076
+    latitude: 46.362152
+    longitude: 14.308337
+- name: Žiri
+  names:
+  - Žiri
+  code: "147"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.07694
+    minlatitude: 46.030544
+    maxlongitude: 14.133088
+    maxlatitude: 46.067116
+    latitude: 46.051308
+    longitude: 14.111887
+- name: Zagorje ob Savi
+  names:
+  - Zagorje ob Savi
+  code: "142"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.9775915
+    minlatitude: 46.111668
+    maxlongitude: 15.014975
+    maxlatitude: 46.142845
+    latitude: 46.134518
+    longitude: 14.994597
+- name: Hoce-Slivnica
+  names:
+  - Hoce-Slivnica
+  code: "160"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.535952
+    minlatitude: 46.45865
+    maxlongitude: 15.710898
+    maxlatitude: 46.52165
+    latitude: 46.47786
+    longitude: 15.6476
+- name: Kuzma
+  names:
+  - Kuzma
+  code: "056"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.06435
+    minlatitude: 46.820972
+    maxlongitude: 16.091942
+    maxlatitude: 46.85322
+    latitude: 46.835102
+    longitude: 16.08071
+- name: Ljutomer
+  names:
+  - Ljutomer
+  code: "063"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.167963
+    minlatitude: 46.505207
+    maxlongitude: 16.21747
+    maxlatitude: 46.544857
+    latitude: 46.51936
+    longitude: 16.197815
+- name: Mozirje
+  names:
+  - Mozirje
+  code: "079"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.943393
+    minlatitude: 46.325394
+    maxlongitude: 14.975335
+    maxlatitude: 46.35166
+    latitude: 46.339275
+    longitude: 14.959981
+- name: Osilnica
+  names:
+  - Osilnica
+  code: "088"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.693953
+    minlatitude: 45.525337
+    maxlongitude: 14.712384
+    maxlatitude: 45.5413
+    latitude: 45.529163
+    longitude: 14.698421
+- name: Rogašovci
+  names:
+  - Rogašovci
+  code: "105"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.003584
+    minlatitude: 46.79668
+    maxlongitude: 16.058643
+    maxlatitude: 46.812973
+    latitude: 46.80558
+    longitude: 16.034523
+- name: Rogatec
+  names:
+  - Rogatec
+  code: "107"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.6835
+    minlatitude: 46.21987
+    maxlongitude: 15.739685
+    maxlatitude: 46.240437
+    latitude: 46.225887
+    longitude: 15.700031
+- name: Ajdovšcina
+  names:
+  - Ajdovšcina
+  code: "001"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.880862
+    minlatitude: 45.865208
+    maxlongitude: 13.925096
+    maxlatitude: 45.90688
+    latitude: 45.8869
+    longitude: 13.909914
+- name: Gornja Radgona
+  names:
+  - Gornja Radgona
+  code: "029"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.97585
+    minlatitude: 46.65869
+    maxlongitude: 16.01699
+    maxlatitude: 46.684658
+    latitude: 46.67671
+    longitude: 15.991085
+- name: Kobilje
+  names:
+  - Kobilje
+  code: "047"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.35282
+    minlatitude: 46.658474
+    maxlongitude: 16.428621
+    maxlatitude: 46.704254
+    latitude: 46.68518
+    longitude: 16.393671
+- name: Ljubno
+  names:
+  - Ljubno
+  code: "062"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.237974
+    minlatitude: 46.2969
+    maxlongitude: 14.267019
+    maxlatitude: 46.322376
+    latitude: 46.313583
+    longitude: 14.245858
+- name: Rogaška Slatina
+  names:
+  - Rogaška Slatina
+  code: "106"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.618073
+    minlatitude: 46.215744
+    maxlongitude: 15.654582
+    maxlatitude: 46.24904
+    latitude: 46.233192
+    longitude: 15.63788
+- name: Trzin
+  names:
+  - Trzin
+  code: "186"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.520235
+    minlatitude: 46.109554
+    maxlongitude: 14.583021
+    maxlatitude: 46.145733
+    latitude: 46.13634
+    longitude: 14.561687
+- name: Izola/Isola
+  names:
+  - Izola/Isola
+  code: "040"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.646332
+    minlatitude: 45.514256
+    maxlongitude: 13.694081
+    maxlatitude: 45.548187
+    latitude: 45.537403
+    longitude: 13.66008
+- name: Kozje
+  names:
+  - Kozje
+  code: "051"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.524925
+    minlatitude: 46.055
+    maxlongitude: 15.580335
+    maxlatitude: 46.08873
+    latitude: 46.073322
+    longitude: 15.559672
+- name: Majšperk
+  names:
+  - Majšperk
+  code: "069"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.720866
+    minlatitude: 46.340523
+    maxlongitude: 15.745798
+    maxlatitude: 46.35847
+    latitude: 46.350304
+    longitude: 15.734059
+- name: Štore
+  names:
+  - Štore
+  code: "127"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.30194
+    minlatitude: 46.215523
+    maxlongitude: 15.332858
+    maxlatitude: 46.233204
+    latitude: 46.220562
+    longitude: 15.31543
+- name: Grad
+  names:
+  - Grad
+  code: "158"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.070862
+    minlatitude: 46.781967
+    maxlongitude: 16.114853
+    maxlatitude: 46.830975
+    latitude: 46.80169
+    longitude: 16.092438
+- name: Tišina
+  names:
+  - Tišina
+  code: "010"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.072649
+    minlatitude: 46.628212
+    maxlongitude: 16.095806
+    maxlatitude: 46.663155
+    latitude: 46.65114
+    longitude: 16.083462
+- name: Braslovce
+  names:
+  - Braslovce
+  code: "151"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.02279
+    minlatitude: 46.282993
+    maxlongitude: 15.048747
+    maxlatitude: 46.29589
+    latitude: 46.28809
+    longitude: 15.039746
+- name: Žetale
+  names:
+  - Žetale
+  code: "191"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.786041
+    minlatitude: 46.259277
+    maxlongitude: 15.868335
+    maxlatitude: 46.290546
+    latitude: 46.2784
+    longitude: 15.8122225
+- name: Kanal
+  names:
+  - Kanal
+  code: "044"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.628176
+    minlatitude: 46.07288
+    maxlongitude: 13.66142
+    maxlatitude: 46.096127
+    latitude: 46.08538
+    longitude: 13.634308
+- name: Ljubljana
+  names:
+  - Ljubljana
+  code: "061"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.419502
+    minlatitude: 45.990032
+    maxlongitude: 14.644696
+    maxlatitude: 46.1422
+    latitude: 46.056946
+    longitude: 14.505752
+- name: Preddvor
+  names:
+  - Preddvor
+  code: "095"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.406377
+    minlatitude: 46.2948
+    maxlongitude: 14.426873
+    maxlatitude: 46.309486
+    latitude: 46.301716
+    longitude: 14.421676
+- name: Prebold
+  names:
+  - Prebold
+  code: "174"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.076138
+    minlatitude: 46.224472
+    maxlongitude: 15.103338
+    maxlatitude: 46.23934
+    latitude: 46.2366
+    longitude: 15.091648
+- name: Cerknica
+  names:
+  - Cerknica
+  code: "013"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.323374
+    minlatitude: 45.773273
+    maxlongitude: 14.414825
+    maxlatitude: 45.82395
+    latitude: 45.79551
+    longitude: 14.362185
+- name: Naklo
+  names:
+  - Naklo
+  code: "082"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.276273
+    minlatitude: 46.260902
+    maxlongitude: 14.329208
+    maxlatitude: 46.28591
+    latitude: 46.271866
+    longitude: 14.315693
+- name: Videm
+  names:
+  - Videm
+  code: "135"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.666876
+    minlatitude: 45.840797
+    maxlongitude: 14.706585
+    maxlatitude: 45.856064
+    latitude: 45.84904
+    longitude: 14.694704
+- name: Vransko
+  names:
+  - Vransko
+  code: "189"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.932812
+    minlatitude: 46.230633
+    maxlongitude: 14.964389
+    maxlatitude: 46.254116
+    latitude: 46.24447
+    longitude: 14.951199
+- name: Vodice
+  names:
+  - Vodice
+  code: "138"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.459533
+    minlatitude: 46.179585
+    maxlongitude: 14.508323
+    maxlatitude: 46.205814
+    latitude: 46.189663
+    longitude: 14.493854
+- name: Hrastnik
+  names:
+  - Hrastnik
+  code: "034"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.068276
+    minlatitude: 46.11381
+    maxlongitude: 15.104394
+    maxlatitude: 46.155712
+    latitude: 46.141727
+    longitude: 15.08449
+- name: Hrpelje-Kozina
+  names:
+  - Hrpelje-Kozina
+  code: "035"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.868792
+    minlatitude: 45.48087
+    maxlongitude: 14.131601
+    maxlatitude: 45.644432
+    latitude: 45.594555
+    longitude: 14.005677
+- name: Idrija
+  names:
+  - Idrija
+  code: "036"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.991077
+    minlatitude: 45.980606
+    maxlongitude: 14.057244
+    maxlatitude: 46.027317
+    latitude: 46.002945
+    longitude: 14.027846
+- name: Sežana
+  names:
+  - Sežana
+  code: "111"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.829252
+    minlatitude: 45.680534
+    maxlongitude: 13.89466
+    maxlatitude: 45.729023
+    latitude: 45.70935
+    longitude: 13.873818
+- name: Slovenska Bistrica
+  names:
+  - Slovenska Bistrica
+  code: "113"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.542613
+    minlatitude: 46.374977
+    maxlongitude: 15.596052
+    maxlatitude: 46.4035
+    latitude: 46.391983
+    longitude: 15.572786
+- name: Tolmin
+  names:
+  - Tolmin
+  code: "128"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.713354
+    minlatitude: 46.17304
+    maxlongitude: 13.7411585
+    maxlatitude: 46.192657
+    latitude: 46.18572
+    longitude: 13.731984
+- name: Lovrenc na Pohorju
+  names:
+  - Lovrenc na Pohorju
+  code: "167"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.3720045
+    minlatitude: 46.52812
+    maxlongitude: 15.412745
+    maxlatitude: 46.55233
+    latitude: 46.54028
+    longitude: 15.388482
+- name: Trnovska vas
+  names:
+  - Trnovska vas
+  code: "185"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.879978
+    minlatitude: 46.507
+    maxlongitude: 15.9255085
+    maxlatitude: 46.537605
+    latitude: 46.520115
+    longitude: 15.886643
+- name: Dravograd
+  names:
+  - Dravograd
+  code: "025"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.00696
+    minlatitude: 46.579258
+    maxlongitude: 15.037324
+    maxlatitude: 46.599087
+    latitude: 46.58922
+    longitude: 15.024602
+- name: Grosuplje
+  names:
+  - Grosuplje
+  code: "032"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.643557
+    minlatitude: 45.943047
+    maxlongitude: 14.675863
+    maxlatitude: 45.98788
+    latitude: 45.955765
+    longitude: 14.658899
+- name: Kocevje
+  names:
+  - Kocevje
+  code: "048"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.814479
+    minlatitude: 45.61192
+    maxlongitude: 14.88611
+    maxlatitude: 45.66121
+    latitude: 45.6409
+    longitude: 14.863313
+- name: Laško
+  names:
+  - Laško
+  code: "057"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.222645
+    minlatitude: 46.14511
+    maxlongitude: 15.254841
+    maxlatitude: 46.17712
+    latitude: 46.154278
+    longitude: 15.235998
+- name: Postojna
+  names:
+  - Postojna
+  code: "094"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.180107
+    minlatitude: 45.738857
+    maxlongitude: 14.326014
+    maxlatitude: 45.80891
+    latitude: 45.77497
+    longitude: 14.213325
+- name: Komenda
+  names:
+  - Komenda
+  code: "164"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.51381
+    minlatitude: 46.19458
+    maxlongitude: 14.547396
+    maxlatitude: 46.21172
+    latitude: 46.20528
+    longitude: 14.5391655
+- name: Velenje
+  names:
+  - Velenje
+  code: "133"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.063433
+    minlatitude: 46.346455
+    maxlongitude: 15.1443205
+    maxlatitude: 46.380905
+    latitude: 46.362274
+    longitude: 15.110659
+- name: Bled
+  names:
+  - Bled
+  code: "003"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.056593
+    minlatitude: 46.344677
+    maxlongitude: 14.135301
+    maxlatitude: 46.386158
+    latitude: 46.36833
+    longitude: 14.11458
+- name: Komen
+  names:
+  - Komen
+  code: "049"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.729025
+    minlatitude: 45.802864
+    maxlongitude: 13.771631
+    maxlatitude: 45.842525
+    latitude: 45.817524
+    longitude: 13.748271
+- name: Puconci
+  names:
+  - Puconci
+  code: "097"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.145756
+    minlatitude: 46.684223
+    maxlongitude: 16.176687
+    maxlatitude: 46.719574
+    latitude: 46.70464
+    longitude: 16.157276
+- name: Ravne na Koroškem
+  names:
+  - Ravne na Koroškem
+  code: "103"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.947254
+    minlatitude: 46.534195
+    maxlongitude: 14.977572
+    maxlatitude: 46.548977
+    latitude: 46.544834
+    longitude: 14.966044
+- name: Ruše
+  names:
+  - Ruše
+  code: "108"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.4850025
+    minlatitude: 46.530533
+    maxlongitude: 15.530052
+    maxlatitude: 46.554066
+    latitude: 46.539997
+    longitude: 15.507399
+- name: Semic
+  names:
+  - Semic
+  code: "109"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.1472435
+    minlatitude: 45.62552
+    maxlongitude: 15.206296
+    maxlatitude: 45.668518
+    latitude: 45.652054
+    longitude: 15.18207
+- name: Ig
+  names:
+  - Ig
+  code: "037"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.512942
+    minlatitude: 45.91712
+    maxlongitude: 14.559069
+    maxlatitude: 45.990517
+    latitude: 45.95882
+    longitude: 14.528272
+- name: Mengeš
+  names:
+  - Mengeš
+  code: "072"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.513753
+    minlatitude: 46.1407
+    maxlongitude: 14.592814
+    maxlatitude: 46.195778
+    latitude: 46.165913
+    longitude: 14.571969
+- name: Šencur
+  names:
+  - Šencur
+  code: "117"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.396405
+    minlatitude: 46.221012
+    maxlongitude: 14.444763
+    maxlatitude: 46.254253
+    latitude: 46.24337
+    longitude: 14.419222
+- name: Vrhnika
+  names:
+  - Vrhnika
+  code: "140"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.239675
+    minlatitude: 45.90455
+    maxlongitude: 14.316139
+    maxlatitude: 45.97836
+    latitude: 45.966583
+    longitude: 14.297387
+- name: Cankova
+  names:
+  - Cankova
+  code: "152"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.005468
+    minlatitude: 46.710808
+    maxlongitude: 16.039257
+    maxlatitude: 46.73185
+    latitude: 46.71824
+    longitude: 16.019722
+- name: Miklavž na Dravskem polju
+  names:
+  - Miklavž na Dravskem polju
+  code: "169"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.681788
+    minlatitude: 46.48754
+    maxlongitude: 15.730069
+    maxlatitude: 46.51713
+    latitude: 46.508263
+    longitude: 15.695207
+- name: Šmartno ob Paki
+  names:
+  - Šmartno ob Paki
+  code: "125"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.023917
+    minlatitude: 46.324337
+    maxlongitude: 15.04294
+    maxlatitude: 46.337555
+    latitude: 46.329037
+    longitude: 15.033394
+- name: Bistrica ob Sotli
+  names:
+  - Bistrica ob Sotli
+  code: "149"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.655936
+    minlatitude: 46.0456
+    maxlongitude: 15.684388
+    maxlatitude: 46.067204
+    latitude: 46.056557
+    longitude: 15.662595
+- name: Domžale
+  names:
+  - Domžale
+  code: "023"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.576617
+    minlatitude: 46.11247
+    maxlongitude: 14.611288
+    maxlatitude: 46.1514
+    latitude: 46.14194
+    longitude: 14.594418
+- name: Juršinci
+  names:
+  - Juršinci
+  code: "042"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.962542
+    minlatitude: 46.479164
+    maxlongitude: 15.992578
+    maxlatitude: 46.50121
+    latitude: 46.48509
+    longitude: 15.971457
+- name: Odranci
+  names:
+  - Odranci
+  code: "086"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.250643
+    minlatitude: 46.56878
+    maxlongitude: 16.298561
+    maxlatitude: 46.601654
+    latitude: 46.58473
+    longitude: 16.276236
+- name: Šentilj
+  names:
+  - Šentilj
+  code: "118"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.620765
+    minlatitude: 46.63171
+    maxlongitude: 15.805974
+    maxlatitude: 46.707466
+    latitude: 46.686283
+    longitude: 15.710357
+- name: Šentjernej
+  names:
+  - Šentjernej
+  code: "119"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.329421
+    minlatitude: 45.83437
+    maxlongitude: 15.35168
+    maxlatitude: 45.850376
+    latitude: 45.843414
+    longitude: 15.3378315
+- name: Šmarje pri Jelšah
+  names:
+  - Šmarje pri Jelšah
+  code: "124"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.500145
+    minlatitude: 46.22363
+    maxlongitude: 15.532425
+    maxlatitude: 46.23597
+    latitude: 46.228703
+    longitude: 15.519035
+- name: Sodražica
+  names:
+  - Sodražica
+  code: "179"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.610546
+    minlatitude: 45.72846
+    maxlongitude: 14.6461315
+    maxlatitude: 45.784824
+    latitude: 45.762123
+    longitude: 14.636216
+- name: Dol pri Ljubljani
+  names:
+  - Dol pri Ljubljani
+  code: "022"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.63842
+    minlatitude: 46.084976
+    maxlongitude: 14.650608
+    maxlatitude: 46.09148
+    latitude: 46.08844
+    longitude: 14.642479
+- name: Luce
+  names:
+  - Luce
+  code: "067"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.734696
+    minlatitude: 46.352764
+    maxlongitude: 14.748226
+    maxlatitude: 46.359
+    latitude: 46.354874
+    longitude: 14.745802
+- name: Miren-Kostanjevica
+  names:
+  - Miren-Kostanjevica
+  code: "075"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.574419
+    minlatitude: 45.81587
+    maxlongitude: 13.71941
+    maxlatitude: 45.90388
+    latitude: 45.8436
+    longitude: 13.627665
+- name: Radece
+  names:
+  - Radece
+  code: "099"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.155038
+    minlatitude: 46.058743
+    maxlongitude: 15.195293
+    maxlatitude: 46.08046
+    latitude: 46.0655
+    longitude: 15.182119
+- name: Tabor
+  names:
+  - Tabor
+  code: "184"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.001452
+    minlatitude: 46.224766
+    maxlongitude: 15.028082
+    maxlatitude: 46.242203
+    latitude: 46.23467
+    longitude: 15.016733
+- name: Dobrova-Polhov Gradec
+  names:
+  - Dobrova-Polhov Gradec
+  code: "021"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.188315
+    minlatitude: 46.011333
+    maxlongitude: 14.4427
+    maxlatitude: 46.10793
+    latitude: 46.067818
+    longitude: 14.243962
+- name: Murska Sobota
+  names:
+  - Murska Sobota
+  code: "080"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.139309
+    minlatitude: 46.62267
+    maxlongitude: 16.203201
+    maxlatitude: 46.684025
+    latitude: 46.65814
+    longitude: 16.16103
+- name: Piran/Pirano
+  names:
+  - Piran/Pirano
+  code: "090"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.562885
+    minlatitude: 45.51741
+    maxlongitude: 13.575289
+    maxlatitude: 45.53061
+    latitude: 45.52832
+    longitude: 13.56829
+- name: Bloke
+  names:
+  - Bloke
+  code: "150"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.437177
+    minlatitude: 45.730194
+    maxlongitude: 14.578757
+    maxlatitude: 45.843967
+    latitude: 45.791553
+    longitude: 14.506701
+- name: Prevalje
+  names:
+  - Prevalje
+  code: "175"
+  countryalpha2: SI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.890792
+    minlatitude: 46.535522
+    maxlongitude: 14.938874
+    maxlatitude: 46.554375
+    latitude: 46.54688
+    longitude: 14.919748

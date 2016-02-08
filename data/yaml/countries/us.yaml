@@ -1,0 +1,75 @@
+name:
+  common: United States
+  official: United States of America
+  native:
+    eng:
+      common: United States
+      official: United States of America
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .us
+languages:
+  eng: English
+translations:
+  deu:
+    common: Vereinigte Staaten von Amerika
+    official: Vereinigte Staaten von Amerika
+  fin:
+    common: Yhdysvallat
+    official: Amerikan yhdysvallat
+  fra:
+    common: États-Unis
+    official: Les états-unis d'Amérique
+  hrv:
+    common: Sjedinjene Američke Države
+    official: Sjedinjene Države Amerike
+  ita:
+    common: Stati Uniti d'America
+    official: Stati Uniti d'America
+  jpn:
+    common: アメリカ合衆国
+    official: アメリカ合衆国
+  nld:
+    common: Verenigde Staten
+    official: Verenigde Staten van Amerika
+  por:
+    common: Estados Unidos
+    official: Estados Unidos da América
+  rus:
+    common: Соединённые Штаты Америки
+    official: Соединенные Штаты Америки
+  spa:
+    common: Estados Unidos
+    official: Estados Unidos de América
+currencies:
+- USD
+- USN
+- USS
+borders:
+- CAN
+- MEX
+codes:
+  alpha2: US
+  alpha3: USA
+  cioc: USA
+  ccn3: "840"
+  callingcodes:
+  - "1"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Northern America
+  continent: North America
+  capital: Washington D.C.
+  area: 9.37261e+06
+coordinates:
+  longitudestring: 97 00 W
+  latitudestring: 38 00 N
+  minlongitude: -179.23108
+  minlatitude: 17.831509
+  maxlongitude: -66.885414
+  maxlatitude: 71.441055
+  latitude: 39.443256
+  longitude: -98.95734

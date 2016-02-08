@@ -1,0 +1,89 @@
+- name: Tadjourah
+  names:
+  - Tadjoura
+  - Tadjourah
+  - Tajura
+  code: TA
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.875572
+    minlatitude: 11.787688
+    maxlongitude: 42.883797
+    maxlatitude: 11.794602
+    latitude: 11.79131
+    longitude: 42.879623
+- name: Arta
+  names:
+  - Arta
+  code: AR
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.83885
+    minlatitude: 11.517326
+    maxlongitude: 42.86391
+    maxlatitude: 11.531687
+    latitude: 11.525553
+    longitude: 42.847946
+- name: Ali Sabieh
+  names:
+  - Ali Sabieh
+  - Ali Sabih
+  code: AS
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.69455
+    minlatitude: 11.136424
+    maxlongitude: 42.72154
+    maxlatitude: 11.162795
+    latitude: 11.15
+    longitude: 42.716667
+- name: Dikhil
+  names:
+  - Dikhil
+  - Dikkil
+  code: DI
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.36298
+    minlatitude: 11.099574
+    maxlongitude: 42.381596
+    maxlatitude: 11.112405
+    latitude: 11.105433
+    longitude: 42.370476
+- name: Djibouti
+  names:
+  - Djibouti
+  code: DJ
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.127674
+    minlatitude: 11.52598
+    maxlongitude: 43.18379
+    maxlatitude: 11.623391
+    latitude: 11.588333
+    longitude: 43.145
+- name: Obock
+  names:
+  - Obock
+  - Obok
+  code: OB
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.28257
+    minlatitude: 11.959364
+    maxlongitude: 43.294884
+    maxlatitude: 11.975139
+    latitude: 11.964746
+    longitude: 43.288406

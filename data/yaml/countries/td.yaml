@@ -1,0 +1,84 @@
+name:
+  common: Chad
+  official: Republic of Chad
+  native:
+    ara:
+      common: تشاد‎
+      official: جمهورية تشاد
+    fra:
+      common: Tchad
+      official: République du Tchad
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .td
+languages:
+  ara: Arabic
+  fra: French
+translations:
+  cym:
+    common: Tsiad
+    official: Republic of Chad
+  deu:
+    common: Tschad
+    official: Republik Tschad
+  fin:
+    common: Tšad
+    official: Tšadin tasavalta
+  fra:
+    common: Tchad
+    official: République du Tchad
+  hrv:
+    common: Čad
+    official: Čadu
+  ita:
+    common: Ciad
+    official: Repubblica del Ciad
+  jpn:
+    common: チャド
+    official: チャド共和国
+  nld:
+    common: Tsjaad
+    official: Republiek Tsjaad
+  por:
+    common: Chade
+    official: República do Chade
+  rus:
+    common: Чад
+    official: Республика Чад
+  spa:
+    common: Chad
+    official: República de Chad
+currencies:
+- XAF
+borders:
+- CMR
+- CAF
+- LBY
+- NER
+- NGA
+- SSD
+codes:
+  alpha2: TD
+  alpha3: TCD
+  cioc: CHA
+  ccn3: "148"
+  callingcodes:
+  - "235"
+  internationalprefix: "15"
+geo:
+  region: Africa
+  subregion: Middle Africa
+  continent: Africa
+  capital: N'Djamena
+  area: 1.284e+06
+coordinates:
+  longitudestring: 19 00 E
+  latitudestring: 15 00 N
+  minlongitude: 2
+  minlatitude: 7.5
+  maxlongitude: 24
+  maxlatitude: 26
+  latitude: 15.367653
+  longitude: 18.667582

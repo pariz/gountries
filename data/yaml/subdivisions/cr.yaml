@@ -1,0 +1,98 @@
+- name: Cartago
+  names:
+  - Cartago
+  code: C
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.071106
+    minlatitude: 9.505219
+    maxlongitude: -83.30181
+    maxlatitude: 10.142997
+    latitude: 9.75396
+    longitude: -83.67739
+- name: Guanacaste
+  names:
+  - Guanacaste
+  code: G
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.94608
+    minlatitude: 9.723861
+    maxlongitude: -84.76064
+    maxlatitude: 11.216818
+    latitude: 10.495797
+    longitude: -85.354965
+- name: Heredia
+  names:
+  - Heredia
+  code: H
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.19047
+    minlatitude: 9.951319
+    maxlongitude: -83.714806
+    maxlatitude: 10.789644
+    latitude: 10.473523
+    longitude: -84.01674
+- name: Limón
+  names:
+  - Limón
+  code: L
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -83.06642
+    minlatitude: 9.972147
+    maxlongitude: -83.01999
+    maxlatitude: 10.011454
+    latitude: 9.983333
+    longitude: -83.03333
+- name: Puntarenas
+  names:
+  - Puntarenas
+  code: P
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.851265
+    minlatitude: 9.974077
+    maxlongitude: -84.793
+    maxlatitude: 9.983031
+    latitude: 9.977844
+    longitude: -84.82942
+- name: San José
+  names:
+  - San José
+  code: SJ
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.1795
+    minlatitude: 9.899969
+    maxlongitude: -84.04719
+    maxlatitude: 9.97126
+    latitude: 9.928069
+    longitude: -84.09072
+- name: Alajuela
+  names:
+  - Alajuela
+  code: A
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.43864
+    minlatitude: 9.821506
+    maxlongitude: -84.14951
+    maxlatitude: 11.079316
+    latitude: 10.391583
+    longitude: -84.43827

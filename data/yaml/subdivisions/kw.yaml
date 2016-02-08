@@ -1,0 +1,92 @@
+- name: Al Ahmadi
+  names:
+  - Ahmadi
+  code: AH
+  countryalpha2: KW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.04407
+    minlatitude: 29.059397
+    maxlongitude: 48.099705
+    maxlatitude: 29.11154
+    latitude: 29.083332
+    longitude: 48.083332
+- name: Al Farwaniyah
+  names:
+  - Farwaniyah
+  code: FA
+  countryalpha2: KW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.81282
+    minlatitude: 29.180285
+    maxlongitude: 48.0104
+    maxlatitude: 29.30563
+    latitude: 29.242844
+    longitude: 47.941612
+- name: Hawalli
+  names:
+  - Hawalli
+  code: HA
+  countryalpha2: KW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.000923
+    minlatitude: 29.32306
+    maxlongitude: 48.03811
+    maxlatitude: 29.349705
+    latitude: 29.333
+    longitude: 48.029
+- name: Al Jahrah
+  names:
+  - Al Jahra
+  - Jahra
+  - Jahrah
+  - al-Jahra
+  - al-Jahraʿ
+  code: JA
+  countryalpha2: KW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.628937
+    minlatitude: 29.281134
+    maxlongitude: 47.79268
+    maxlatitude: 29.374575
+    latitude: 29.336573
+    longitude: 47.67553
+- name: Al Kuwayt
+  names:
+  - Capital
+  - Koweit
+  - Kuwait
+  - Kuwayt
+  - al-Kuwayt
+  code: KU
+  countryalpha2: KW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.957962
+    minlatitude: 29.358782
+    maxlongitude: 48.00581
+    maxlatitude: 29.393349
+    latitude: 29.375858
+    longitude: 47.977406
+- name: Mubarak al-Kabir
+  names:
+  - Mubarak al-Kabir
+  code: MU
+  countryalpha2: KW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.983253
+    minlatitude: 29.172518
+    maxlongitude: 48.11762
+    maxlatitude: 29.273489
+    latitude: 29.21224
+    longitude: 48.060513

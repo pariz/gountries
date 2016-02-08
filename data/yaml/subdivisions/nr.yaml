@@ -1,0 +1,196 @@
+- name: Anabar
+  names:
+  - Anabar
+  code: "02"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.93973
+    minlatitude: -0.522434
+    maxlongitude: 166.95781
+    maxlatitude: -0.5043035
+    latitude: -0.5133517
+    longitude: 166.94846
+- name: Baiti
+  names:
+  - Baiti
+  code: "05"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.92587
+    minlatitude: -0.5243401
+    maxlongitude: 166.94122
+    maxlatitude: -0.5060557
+    latitude: -0.5133158
+    longitude: 166.93118
+- name: Meneng
+  names:
+  - Meneng
+  code: "11"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9286
+    minlatitude: -0.5539963
+    maxlongitude: 166.95068
+    maxlatitude: -0.5366
+    latitude: -0.546724
+    longitude: 166.93839
+- name: Yaren
+  names:
+  - Yaren
+  code: "14"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.91096
+    minlatitude: -0.5541411
+    maxlongitude: 166.92982
+    maxlatitude: -0.5398079
+    latitude: -0.5466857
+    longitude: 166.9211
+- name: Aiwo
+  names:
+  - Aiwo
+  code: "01"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.90955
+    minlatitude: -0.5406168
+    maxlongitude: 166.91841
+    maxlatitude: -0.5264073
+    latitude: -0.5340012
+    longitude: 166.9139
+- name: Ijuw
+  names:
+  - Ijuw
+  code: "10"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.94365
+    minlatitude: -0.523936
+    maxlongitude: 166.95886
+    maxlatitude: -0.514258
+    latitude: -0.5202646
+    longitude: 166.95134
+- name: Uaboe
+  names:
+  - Uaboe
+  code: "13"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.92297
+    minlatitude: -0.5244783
+    maxlongitude: 166.93947
+    maxlatitude: -0.5118939
+    latitude: -0.5173398
+    longitude: 166.92902
+- name: Anetan
+  names:
+  - Anetan
+  code: "03"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.93892
+    minlatitude: -0.518731
+    maxlongitude: 166.94841
+    maxlatitude: -0.5027978
+    latitude: -0.5064343
+    longitude: 166.9427
+- name: Boe
+  names:
+  - Boe
+  code: "06"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.91179
+    minlatitude: -0.544316
+    maxlongitude: 166.92218
+    maxlatitude: -0.538305
+    latitude: -0.5414945
+    longitude: 166.9175
+- name: Denigomodu
+  names:
+  - Denigomodu
+  code: "08"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.91083
+    minlatitude: -0.5291599
+    maxlongitude: 166.9251
+    maxlatitude: -0.5191129
+    latitude: -0.5247964
+    longitude: 166.91676
+- name: Anibare
+  names:
+  - Anibare
+  code: "04"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.93553
+    minlatitude: -0.5423
+    maxlongitude: 166.9563
+    maxlatitude: -0.520894
+    latitude: -0.532915
+    longitude: 166.94414
+- name: Buada
+  names:
+  - Buada
+  code: "07"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.91614
+    minlatitude: -0.542245
+    maxlongitude: 166.93652
+    maxlatitude: -0.5264839
+    latitude: -0.5328777
+    longitude: 166.92685
+- name: Ewa
+  names:
+  - Ewa
+  code: "09"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.93063
+    minlatitude: -0.5203079
+    maxlongitude: 166.94373
+    maxlatitude: -0.5026395
+    latitude: -0.5087241
+    longitude: 166.93694
+- name: Nibok
+  names:
+  - Nibok
+  code: "12"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.917
+    minlatitude: -0.530461
+    maxlongitude: 166.93712
+    maxlatitude: -0.5136925
+    latitude: -0.5225124
+    longitude: 166.92542

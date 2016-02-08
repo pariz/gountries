@@ -1,0 +1,78 @@
+name:
+  common: Finland
+  official: Republic of Finland
+  native:
+    fin:
+      common: Suomi
+      official: Suomen tasavalta
+    swe:
+      common: Finland
+      official: Republiken Finland
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .fi
+languages:
+  fin: Finnish
+  swe: Swedish
+translations:
+  deu:
+    common: Finnland
+    official: Republik Finnland
+  fin:
+    common: Suomi
+    official: Suomen tasavalta
+  fra:
+    common: Finlande
+    official: République de Finlande
+  hrv:
+    common: Finska
+    official: Republika Finska
+  ita:
+    common: Finlandia
+    official: Repubblica di Finlandia
+  jpn:
+    common: フィンランド
+    official: フィンランド共和国
+  nld:
+    common: Finland
+    official: Republiek Finland
+  por:
+    common: Finlândia
+    official: República da Finlândia
+  rus:
+    common: Финляндия
+    official: Финляндская Республика
+  spa:
+    common: Finlandia
+    official: República de Finlandia
+currencies:
+- EUR
+borders:
+- NOR
+- SWE
+- RUS
+codes:
+  alpha2: FI
+  alpha3: FIN
+  cioc: FIN
+  ccn3: "246"
+  callingcodes:
+  - "358"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Helsinki
+  area: 338424
+coordinates:
+  longitudestring: 26 00 E
+  latitudestring: 64 00 N
+  minlongitude: 18
+  minlatitude: 58.83
+  maxlongitude: 32
+  maxlatitude: 70.083336
+  latitude: 64.28858
+  longitude: 25.989403

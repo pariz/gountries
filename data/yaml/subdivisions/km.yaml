@@ -1,0 +1,47 @@
+- name: Anjouan
+  names:
+  - Anjouan
+  - Ndzuwani
+  - Nzwani
+  code: A
+  countryalpha2: KM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.204716
+    minlatitude: -12.380461
+    maxlongitude: 44.536476
+    maxlatitude: -12.069215
+    latitude: -12.213815
+    longitude: 44.43706
+- name: Grande Comore
+  names:
+  - Grande Comore
+  - Njazídja
+  code: G
+  countryalpha2: KM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.228626
+    minlatitude: -11.939322
+    maxlongitude: 43.513718
+    maxlatitude: -11.364639
+    latitude: -11.716734
+    longitude: 43.36808
+- name: Mohéli
+  names:
+  - Mohilla
+  - Mohéli
+  - Moili
+  code: M
+  countryalpha2: KM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.621902
+    minlatitude: -12.38997
+    maxlongitude: 43.876305
+    maxlatitude: -12.249095
+    latitude: -12.337738
+    longitude: 43.73341

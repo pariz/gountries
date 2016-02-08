@@ -1,0 +1,56 @@
+- name: Hhohho
+  names:
+  - Hhohho
+  code: HH
+  countryalpha2: SZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.908245
+    minlatitude: -26.475103
+    maxlongitude: 31.760738
+    maxlatitude: -25.719648
+    latitude: -26.136566
+    longitude: 31.354162
+- name: Lubombo
+  names:
+  - Lebombo
+  code: LU
+  countryalpha2: SZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.49206
+    minlatitude: -27.170605
+    maxlongitude: 32.13726
+    maxlatitude: -25.93021
+    latitude: -26.785177
+    longitude: 31.810707
+- name: Manzini
+  names:
+  - Manzini
+  code: MA
+  countryalpha2: SZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.794107
+    minlatitude: -26.89452
+    maxlongitude: 31.706045
+    maxlatitude: -26.158968
+    latitude: -26.644588
+    longitude: 31.354162
+- name: Shiselweni
+  names:
+  - Shiselweni
+  code: SH
+  countryalpha2: SZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.902433
+    minlatitude: -27.3171
+    maxlongitude: 31.980196
+    maxlatitude: -26.75172
+    latitude: -26.982758
+    longitude: 31.354162

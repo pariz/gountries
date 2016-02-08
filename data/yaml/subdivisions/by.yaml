@@ -1,0 +1,143 @@
+- name: Horad Minsk
+  names:
+  - Gorod Minsk
+  - Horad Minsk
+  - Mensk
+  code: X1~
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.548685
+    minlatitude: 53.90039
+    maxlongitude: 27.561666
+    maxlatitude: 53.906963
+    latitude: 53.902973
+    longitude: 27.554998
+- name: Brestskaya voblasts' (be) Brestskaya oblast' (ru)
+  names:
+  - Bierascie
+  - Brest-Litovsk
+  - Brestskaja Oblastʿ
+  - Brestskaja Voblastsʿ
+  - Brestskaya Oblastʿ
+  - Brestskaya Voblastsʿ
+  - Brisk
+  - Brześć nad Bugiem
+  - Brześć-Litewski
+  code: BR
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.178337
+    minlatitude: 51.498055
+    maxlongitude: 27.582502
+    maxlatitude: 53.4119
+    latitude: 52.529663
+    longitude: 25.460648
+- name: Homyel'skaya voblasts' (be) Gomel'skaya oblast' (ru)
+  names:
+  - Gomel
+  - Gomelskaja Oblastʿ
+  - Gomelskaya Oblastʿ
+  - Gomelʿ
+  - Homelskaja Voblastsʿ
+  - Homelskaya Voblastsʿ
+  - Homiel
+  - Homyel
+  code: HO
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.24414
+    minlatitude: 51.262074
+    maxlongitude: 31.79927
+    maxlatitude: 53.367954
+    latitude: 52.164875
+    longitude: 29.133326
+- name: Hrodzenskaya voblasts' (be) Grodnenskaya oblast' (ru)
+  names:
+  - Gardinas
+  - Grodnenskaja Oblastʿ
+  - Grodnenskaya Oblastʿ
+  - Grodno
+  - Horadnia
+  - Hrodno
+  - Hrodzenskaja Voblastsʿ
+  - Hrodzenskaya Voblastsʿ
+  code: HR
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mahilyowskaya voblasts' (be) Mogilevskaya oblast' (ru)
+  names:
+  - Mahiljov
+  - Mahiljowskaja Voblastsʿ
+  - Mahilyov
+  - Mahilyowskaya Voblastsʿ
+  - Mahilëv
+  - Mahilëŭ
+  - Mogilev
+  - Mogiliov
+  - Mogiljovskaja Oblastʿ
+  - Mogilov
+  - Mogilyovskaya Oblast
+  - Mogilëv
+  - Mogilʿov
+  code: MA
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Minskaya voblasts' (be) Minskaya oblast' (ru)
+  names:
+  - Minskaja Oblastʿ
+  - Minskaya Oblastʿ
+  - Minskaya Voblastsʿ
+  code: MI
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.06101
+    minlatitude: 52.372612
+    maxlongitude: 29.48784
+    maxlatitude: 55.017475
+    latitude: 53.471855
+    longitude: 27.696991
+- name: Vitsyebskaya voblasts' (be) Vitebskaya oblast' (ru)
+  names:
+  - Vicebskaja Voblastsʿ
+  - Vicebskaya Voblastsʿ
+  - Viciebsk
+  - Vicjebsk
+  - Vitebsk
+  - Vitebskaja Oblastʿ
+  - Vitebskaya Oblastʿ
+  - Vitsyebsk
+  code: VI
+  countryalpha2: BY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

@@ -1,0 +1,75 @@
+name:
+  common: Marshall Islands
+  official: Republic of the Marshall Islands
+  native:
+    eng:
+      common: Marshall Islands
+      official: Republic of the Marshall Islands
+    mah:
+      common: M̧ajeļ
+      official: Republic of the Marshall Islands
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .mh
+languages:
+  eng: English
+  mah: Marshallese
+translations:
+  deu:
+    common: Marshallinseln
+    official: Republik der Marshall-Inseln
+  fin:
+    common: Marshallinsaaret
+    official: Marshallinsaarten tasavalta
+  fra:
+    common: Îles Marshall
+    official: République des Îles Marshall
+  hrv:
+    common: Maršalovi Otoci
+    official: Republika Maršalovi Otoci
+  ita:
+    common: Isole Marshall
+    official: Repubblica delle Isole Marshall
+  jpn:
+    common: マーシャル諸島
+    official: マーシャル諸島共和国
+  nld:
+    common: Marshalleilanden
+    official: Republiek van de Marshall-eilanden
+  por:
+    common: Ilhas Marshall
+    official: República das Ilhas Marshall
+  rus:
+    common: Маршалловы Острова
+    official: Республика Маршалловы острова
+  spa:
+    common: Islas Marshall
+    official: República de las Islas Marshall
+currencies:
+- USD
+borders: []
+codes:
+  alpha2: MH
+  alpha3: MHL
+  cioc: MHL
+  ccn3: "584"
+  callingcodes:
+  - "692"
+  internationalprefix: "00"
+geo:
+  region: Oceania
+  subregion: Micronesia
+  continent: Australia
+  capital: Majuro
+  area: 181
+coordinates:
+  longitudestring: 168 00 E
+  latitudestring: 9 00 N
+  minlongitude: 160.8
+  minlatitude: 4.566667
+  maxlongitude: 172.8
+  maxlatitude: 19.316668
+  latitude: 7.2862077
+  longitude: 168.7514

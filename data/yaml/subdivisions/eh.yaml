@@ -1,0 +1,75 @@
+- name: Boujdour
+  names:
+  - Bojador
+  - Boujdour
+  - Bu Jaydur
+  - Bujdur
+  - Cabo Bojador
+  code: BOD
+  countryalpha2: EH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.50058
+    minlatitude: 26.07527
+    maxlongitude: -14.446778
+    maxlatitude: 26.15655
+    latitude: 26.11186
+    longitude: -14.478153
+- name: Es Semara
+  names:
+  - Es-Smara
+  - Essemara
+  - Semara
+  - Smara
+  - as-Samarah
+  - as-Smara
+  code: ESM
+  countryalpha2: EH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.57755
+    minlatitude: 25.907352
+    maxlongitude: -8.670276
+    maxlatitude: 27.675125
+    latitude: 27.1726
+    longitude: -10.260013
+- name: Laayoune
+  names:
+  - Aaiún
+  - Al Ayūn
+  - Al-Uyun
+  - Ayūn
+  - El Aaiún
+  - La Youne
+  - Laayoune
+  - Laʿyoun
+  - Lâayoun
+  - al-Ayun
+  code: LAA
+  countryalpha2: EH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.254147
+    minlatitude: 27.081137
+    maxlongitude: -13.096991
+    maxlatitude: 27.166943
+    latitude: 27.125286
+    longitude: -13.1625
+- name: Oued el Dahab
+  names:
+  - Oued edh Dheheb
+  - Wad adh-Dhahab
+  code: OUD
+  countryalpha2: EH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.932538
+    minlatitude: 23.698223
+    maxlongitude: -15.931994
+    maxlatitude: 23.69961
+    latitude: 23.698978
+    longitude: -15.93223

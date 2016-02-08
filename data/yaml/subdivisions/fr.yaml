@@ -1,0 +1,1428 @@
+- name: Ardèche
+  names:
+  - Ardèche
+  code: "07"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.8611
+    minlatitude: 44.26434
+    maxlongitude: 4.886471
+    maxlatitude: 45.3662
+    latitude: 44.75963
+    longitude: 4.562443
+- name: Creuse
+  names:
+  - Creuse
+  code: "23"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.3726041
+    minlatitude: 45.66355
+    maxlongitude: 2.611293
+    maxlatitude: 46.45537
+    latitude: 46.03776
+    longitude: 2.0627832
+- name: Lot
+  names:
+  - Lot
+  code: "46"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.9815221
+    minlatitude: 44.203346
+    maxlongitude: 2.210891
+    maxlatitude: 45.046684
+    latitude: 44.537937
+    longitude: 1.6760691
+- name: Haute-Savoie
+  names:
+  - Haute-Savoie
+  code: "74"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.80502
+    minlatitude: 45.68166
+    maxlongitude: 7.045065
+    maxlatitude: 46.40824
+    latitude: 46.17568
+    longitude: 6.538962
+- name: Paris
+  names:
+  - Paris
+  code: "75"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.224199
+    minlatitude: 48.815575
+    maxlongitude: 2.4699209
+    maxlatitude: 48.902145
+    latitude: 48.856613
+    longitude: 2.352222
+- name: Seine-Maritime
+  names:
+  - Seine-Maritime
+  code: "76"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.0399821
+    minlatitude: 49.899254
+    maxlongitude: 1.1269969
+    maxlatitude: 49.94085
+    latitude: 49.922993
+    longitude: 1.077483
+- name: Yvelines
+  names:
+  - Yvelines
+  code: "78"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.44617
+    minlatitude: 48.438557
+    maxlongitude: 2.229127
+    maxlatitude: 49.08545
+    latitude: 48.785095
+    longitude: 1.8256572
+- name: Vendée
+  names:
+  - Vendée
+  code: "85"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.3998897
+    minlatitude: 46.26654
+    maxlongitude: -0.538134
+    maxlatitude: 47.085007
+    latitude: 46.661396
+    longitude: -1.4482661
+- name: Landes
+  names:
+  - Landes
+  code: "40"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5235748
+    minlatitude: 43.48743
+    maxlongitude: 0.1366911
+    maxlatitude: 44.53238
+    latitude: 43.941204
+    longitude: -0.7532809
+- name: Mayenne
+  names:
+  - Mayenne
+  code: "53"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.6502759
+    minlatitude: 48.277843
+    maxlongitude: -0.577747
+    maxlatitude: 48.335396
+    latitude: 48.306126
+    longitude: -0.620935
+- name: Haut-Rhin
+  names:
+  - Haut-Rhin
+  code: "68"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.841026
+    minlatitude: 47.42026
+    maxlongitude: 7.6221213
+    maxlatitude: 48.3112
+    latitude: 47.931503
+    longitude: 7.24411
+- name: Aude
+  names:
+  - Aude
+  code: "11"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.688426
+    minlatitude: 42.64891
+    maxlongitude: 3.240139
+    maxlatitude: 43.460068
+    latitude: 43.072468
+    longitude: 2.3813622
+- name: Isère
+  names:
+  - Isère
+  code: "38"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.742594
+    minlatitude: 44.695873
+    maxlongitude: 6.359309
+    maxlatitude: 45.883396
+    latitude: 44.995773
+    longitude: 5.9293475
+- name: Manche
+  names:
+  - Manche
+  code: "50"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.954995
+    minlatitude: 48.455795
+    maxlongitude: -0.7348169
+    maxlatitude: 49.72776
+    latitude: 49.11471
+    longitude: -1.3115948
+- name: Morbihan
+  names:
+  - Morbihan
+  code: "56"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.734915
+    minlatitude: 47.27785
+    maxlongitude: -2.0353382
+    maxlatitude: 48.210888
+    latitude: 47.885292
+    longitude: -2.9001865
+- name: Nord
+  names:
+  - Nord
+  code: "59"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.089297
+    minlatitude: 49.969063
+    maxlongitude: 4.231678
+    maxlatitude: 51.08899
+    latitude: 50.385124
+    longitude: 3.2642436
+- name: Puy-de-Dôme
+  names:
+  - Puy-de-Dôme
+  code: "63"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 45.772575
+    longitude: 2.9644432
+- name: Alpes-Maritimes
+  names:
+  - Alpes-Maritimes
+  code: "06"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.6354117
+    minlatitude: 43.4803
+    maxlongitude: 7.718993
+    maxlatitude: 44.361156
+    latitude: 43.94668
+    longitude: 7.179026
+- name: Drôme
+  names:
+  - Drôme
+  code: "26"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.646862
+    minlatitude: 44.115494
+    maxlongitude: 5.830446
+    maxlatitude: 45.343975
+    latitude: 44.73119
+    longitude: 5.2266674
+- name: Gard
+  names:
+  - Gard
+  code: "30"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.261869
+    minlatitude: 43.46016
+    maxlongitude: 4.845564
+    maxlatitude: 44.459663
+    latitude: 43.9447
+    longitude: 4.1513762
+- name: Loir-et-Cher
+  names:
+  - Loir-et-Cher
+  code: "41"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.5804869
+    minlatitude: 47.18639
+    maxlongitude: 2.247891
+    maxlatitude: 48.133236
+    latitude: 47.67619
+    longitude: 1.4159071
+- name: Maine-et-Loire
+  names:
+  - Maine-et-Loire
+  code: "49"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.3505026
+    minlatitude: 46.968884
+    maxlongitude: 0.234549
+    maxlatitude: 47.80998
+    latitude: 47.291355
+    longitude: -0.4877852
+- name: Pas-de-Calais
+  names:
+  - Pas-de-Calais
+  code: "62"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.555598
+    minlatitude: 50.01976
+    maxlongitude: 3.1881862
+    maxlatitude: 51.006775
+    latitude: 50.573277
+    longitude: 2.324468
+- name: Rhône
+  names:
+  - Rhône
+  code: "69"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.243647
+    minlatitude: 45.45413
+    maxlongitude: 5.160109
+    maxlatitude: 46.306503
+    latitude: 45.735146
+    longitude: 4.610804
+- name: Seine-et-Marne
+  names:
+  - Seine-et-Marne
+  code: "77"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.392326
+    minlatitude: 48.120083
+    maxlongitude: 3.559007
+    maxlatitude: 49.117897
+    latitude: 48.841084
+    longitude: 2.999366
+- name: Hérault
+  names:
+  - Hérault
+  code: "34"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.539549
+    minlatitude: 43.21021
+    maxlongitude: 4.19454
+    maxlatitude: 43.97276
+    latitude: 43.591236
+    longitude: 3.2583625
+- name: Ille-et-Vilaine
+  names:
+  - Ille-et-Vilaine
+  code: "35"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.289611
+    minlatitude: 47.631615
+    maxlongitude: -1.0156211
+    maxlatitude: 48.721737
+    latitude: 48.229202
+    longitude: -1.5300695
+- name: Val-de-Marne
+  names:
+  - Val-de-Marne
+  code: "94"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.308676
+    minlatitude: 48.68764
+    maxlongitude: 2.6156418
+    maxlatitude: 48.861485
+    latitude: 48.793144
+    longitude: 2.4740336
+- name: Ain
+  names:
+  - Ain
+  code: "01"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.728067
+    minlatitude: 45.61109
+    maxlongitude: 6.170198
+    maxlatitude: 46.519955
+    latitude: 46.24757
+    longitude: 5.1307683
+- name: Bouches-du-Rhône
+  names:
+  - Bouches-du-Rhône
+  code: "13"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.230207
+    minlatitude: 43.157383
+    maxlongitude: 5.813431
+    maxlatitude: 43.924137
+    latitude: 43.591167
+    longitude: 5.3102503
+- name: Indre-et-Loire
+  names:
+  - Indre-et-Loire
+  code: "37"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.0527369
+    minlatitude: 46.736713
+    maxlongitude: 1.366049
+    maxlatitude: 47.70987
+    latitude: 47.289494
+    longitude: 0.816097
+- name: Hautes-Pyrénées
+  names:
+  - Hautes-Pyrénées
+  code: "65"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.32716
+    minlatitude: 42.673306
+    maxlongitude: 0.6461191
+    maxlatitude: 43.613335
+    latitude: 43.019394
+    longitude: 0.1494988
+- name: Savoie
+  names:
+  - Savoie
+  code: "73"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 44.77108
+    longitude: 5.742806
+- name: Alpes-de-Haute-Provence
+  names:
+  - Alpes-de-Haute-Provence
+  code: "04"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.496793
+    minlatitude: 43.668324
+    maxlongitude: 6.969039
+    maxlatitude: 44.66
+    latitude: 44.077873
+    longitude: 6.2375946
+- name: Ardennes
+  names:
+  - Ardennes
+  code: "08"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.024463
+    minlatitude: 49.226974
+    maxlongitude: 5.394246
+    maxlatitude: 50.169163
+    latitude: 49.762463
+    longitude: 4.628505
+- name: Aveyron
+  names:
+  - Aveyron
+  code: "12"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.839313
+    minlatitude: 43.69062
+    maxlongitude: 3.451754
+    maxlatitude: 44.94144
+    latitude: 44.217976
+    longitude: 2.6189272
+- name: Charente
+  names:
+  - Charente
+  code: "16"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.463103
+    minlatitude: 45.19168
+    maxlongitude: 0.9471241
+    maxlatitude: 46.14085
+    latitude: 45.751995
+    longitude: 0.1534761
+- name: Finistère
+  names:
+  - Finistère
+  code: "29"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.141292
+    minlatitude: 47.70124
+    maxlongitude: -3.3866189
+    maxlatitude: 48.7535
+    latitude: 48.252026
+    longitude: -3.9300525
+- name: Jura
+  names:
+  - Jura
+  code: "39"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.251316
+    minlatitude: 46.260696
+    maxlongitude: 6.207189
+    maxlatitude: 47.305943
+    latitude: 46.762474
+    longitude: 5.672916
+- name: Tarn-et-Garonne
+  names:
+  - Tarn-et-Garonne
+  code: "82"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.7378111
+    minlatitude: 43.76759
+    maxlongitude: 2.000898
+    maxlatitude: 44.393925
+    latitude: 44.01267
+    longitude: 1.2891036
+- name: Vienne
+  names:
+  - Vienne
+  code: "86"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.837252
+    minlatitude: 45.486702
+    maxlongitude: 4.92341
+    maxlatitude: 45.557465
+    latitude: 45.525585
+    longitude: 4.874339
+- name: Ariège
+  names:
+  - Ariège
+  code: "09"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.825994
+    minlatitude: 42.571487
+    maxlongitude: 2.1758468
+    maxlatitude: 43.316223
+    latitude: 42.93263
+    longitude: 1.443469
+- name: Côte-d'Or
+  names:
+  - Côte-d'Or
+  code: "21"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.06519
+    minlatitude: 46.899845
+    maxlongitude: 5.518767
+    maxlatitude: 48.03131
+    latitude: 47.51268
+    longitude: 4.635412
+- name: Dordogne
+  names:
+  - Dordogne
+  code: "24"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.041877
+    minlatitude: 44.570736
+    maxlongitude: 1.448245
+    maxlatitude: 45.714767
+    latitude: 45.14695
+    longitude: 0.7572205
+- name: Cher
+  names:
+  - Cher
+  code: "18"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.773677
+    minlatitude: 46.420475
+    maxlongitude: 3.079745
+    maxlatitude: 47.629116
+    latitude: 46.954006
+    longitude: 2.4671907
+- name: Doubs
+  names:
+  - Doubs
+  code: "25"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.330692
+    minlatitude: 46.915787
+    maxlongitude: 6.399583
+    maxlatitude: 46.94853
+    latitude: 46.9276
+    longitude: 6.349001
+- name: Loire-Atlantique
+  names:
+  - Loire-Atlantique
+  code: "44"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.559609
+    minlatitude: 46.860073
+    maxlongitude: -0.9243831
+    maxlatitude: 47.835926
+    latitude: 47.278046
+    longitude: -1.8157647
+- name: Pyrénées-Atlantiques
+  names:
+  - Pyrénées-Atlantiques
+  code: "64"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.7923251
+    minlatitude: 42.77753
+    maxlongitude: 0.029807
+    maxlatitude: 43.596725
+    latitude: 43.326996
+    longitude: -0.7532809
+- name: Tarn
+  names:
+  - Tarn
+  code: "81"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.535198
+    minlatitude: 43.382282
+    maxlongitude: 2.937474
+    maxlatitude: 44.201492
+    latitude: 43.92644
+    longitude: 1.9881527
+- name: Hautes-Alpes
+  names:
+  - Hautes-Alpes
+  code: "05"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.418364
+    minlatitude: 44.186443
+    maxlongitude: 7.077155
+    maxlatitude: 45.12685
+    latitude: 44.600872
+    longitude: 6.322607
+- name: Loiret
+  names:
+  - Loiret
+  code: "45"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.51145
+    minlatitude: 47.48303
+    maxlongitude: 3.1284099
+    maxlatitude: 48.344955
+    latitude: 47.900772
+    longitude: 2.2018173
+- name: Haute-Saône
+  names:
+  - Haute-Saône
+  code: "70"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.366937
+    minlatitude: 47.252552
+    maxlongitude: 6.824947
+    maxlatitude: 48.024155
+    latitude: 47.75698
+    longitude: 6.155628
+- name: Seine-Saint-Denis
+  names:
+  - Seine-Saint-Denis
+  code: "93"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.288311
+    minlatitude: 48.807247
+    maxlongitude: 2.603292
+    maxlatitude: 49.01233
+    latitude: 48.913746
+    longitude: 2.484573
+- name: Corse-du-Sud
+  names:
+  - Corse-du-Sud
+  code: 2A
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.539899
+    minlatitude: 41.33354
+    maxlongitude: 9.408043
+    maxlatitude: 42.38152
+    latitude: 41.810265
+    longitude: 8.924534
+- name: Gers
+  names:
+  - Gers
+  code: "32"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.282299
+    minlatitude: 43.310867
+    maxlongitude: 1.203249
+    maxlatitude: 44.080025
+    latitude: 43.636646
+    longitude: 0.4502368
+- name: Haute-Marne
+  names:
+  - Haute-Marne
+  code: "52"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.626603
+    minlatitude: 47.576565
+    maxlongitude: 5.891043
+    maxlatitude: 48.689323
+    latitude: 48.1261
+    longitude: 5.1071324
+- name: Saône-et-Loire
+  names:
+  - Saône-et-Loire
+  code: "71"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.622593
+    minlatitude: 46.15607
+    maxlongitude: 5.465289
+    maxlatitude: 47.155773
+    latitude: 46.582752
+    longitude: 4.486671
+- name: Yonne
+  names:
+  - Yonne
+  code: "89"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.848432
+    minlatitude: 47.310364
+    maxlongitude: 4.340296
+    maxlatitude: 48.400063
+    latitude: 47.865273
+    longitude: 3.6079824
+- name: Polynésie française
+  names:
+  - Polynésie française
+  code: PF
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Loire
+  names:
+  - Loire
+  code: "42"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.688893
+    minlatitude: 45.23104
+    maxlongitude: 4.760375
+    maxlatitude: 46.27659
+    latitude: 45.984646
+    longitude: 4.052545
+- name: Lozère
+  names:
+  - Lozère
+  code: "48"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.981197
+    minlatitude: 44.109592
+    maxlongitude: 3.998366
+    maxlatitude: 44.97576
+    latitude: 44.4942
+    longitude: 3.5812693
+- name: Meurthe-et-Moselle
+  names:
+  - Meurthe-et-Moselle
+  code: "54"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.426108
+    minlatitude: 48.348988
+    maxlongitude: 7.1232133
+    maxlatitude: 49.563267
+    latitude: 48.7997
+    longitude: 6.0947013
+- name: Nièvre
+  names:
+  - Nièvre
+  code: "58"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.8459897
+    minlatitude: 46.651024
+    maxlongitude: 4.23191
+    maxlatitude: 47.588287
+    latitude: 47.23817
+    longitude: 3.529452
+- name: Bas-Rhin
+  names:
+  - Bas-Rhin
+  code: "67"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.9406137
+    minlatitude: 48.120388
+    maxlongitude: 8.233549
+    maxlatitude: 49.077858
+    latitude: 48.634315
+    longitude: 7.525294
+- name: Deux-Sèvres
+  names:
+  - Deux-Sèvres
+  code: "79"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.90368
+    minlatitude: 45.96967
+    maxlongitude: 0.220405
+    maxlatitude: 47.108547
+    latitude: 46.592655
+    longitude: -0.3962844
+- name: Vaucluse
+  names:
+  - Vaucluse
+  code: "84"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.649082
+    minlatitude: 43.65872
+    maxlongitude: 5.757335
+    maxlatitude: 44.431564
+    latitude: 44.056507
+    longitude: 5.1432066
+- name: Vosges
+  names:
+  - Vosges
+  code: "88"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.3936267
+    minlatitude: 47.813297
+    maxlongitude: 7.198364
+    maxlatitude: 48.513664
+    latitude: 48.14464
+    longitude: 6.3355937
+- name: Wallis et Futuna
+  names:
+  - Wallis et Futuna
+  code: WF
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Aisne
+  names:
+  - Aisne
+  code: "02"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.958277
+    minlatitude: 48.83721
+    maxlongitude: 4.255679
+    maxlatitude: 50.069496
+    latitude: 49.47692
+    longitude: 3.4417367
+- name: Haute-Corse
+  names:
+  - Haute-Corse
+  code: 2B
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.573307
+    minlatitude: 41.83217
+    maxlongitude: 9.560068
+    maxlatitude: 43.02768
+    latitude: 42.409786
+    longitude: 9.278559
+- name: Indre
+  names:
+  - Indre
+  code: "36"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.8674139
+    minlatitude: 46.346905
+    maxlongitude: 2.204572
+    maxlatitude: 47.277466
+    latitude: 46.661396
+    longitude: 1.4482661
+- name: Lot-et-Garonne
+  names:
+  - Lot-et-Garonne
+  code: "47"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.140673
+    minlatitude: 43.972588
+    maxlongitude: 1.078341
+    maxlatitude: 44.76568
+    latitude: 44.247017
+    longitude: 0.4502368
+- name: Marne
+  names:
+  - Marne
+  code: "51"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.395865
+    minlatitude: 48.51525
+    maxlongitude: 5.039668
+    maxlatitude: 49.40783
+    latitude: 49.128754
+    longitude: 4.1475444
+- name: Pyrénées-Orientales
+  names:
+  - Pyrénées-Orientales
+  code: "66"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.7216351
+    minlatitude: 42.333015
+    maxlongitude: 3.177833
+    maxlatitude: 42.91854
+    latitude: 42.60129
+    longitude: 2.539603
+- name: Sarthe
+  names:
+  - Sarthe
+  code: "72"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.4480631
+    minlatitude: 47.5684
+    maxlongitude: 0.9166389
+    maxlatitude: 48.48502
+    latitude: 47.9217
+    longitude: 0.1655803
+- name: Var
+  names:
+  - Var
+  code: "83"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.6559
+    minlatitude: 42.982
+    maxlongitude: 6.933446
+    maxlatitude: 43.80888
+    latitude: 43.467648
+    longitude: 6.2375946
+- name: Haute-Vienne
+  names:
+  - Haute-Vienne
+  code: "87"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.62925
+    minlatitude: 45.43663
+    maxlongitude: 1.9110789
+    maxlatitude: 46.401585
+    latitude: 45.74352
+    longitude: 1.4025484
+- name: Essonne
+  names:
+  - Essonne
+  code: "91"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.9145131
+    minlatitude: 48.284557
+    maxlongitude: 2.585633
+    maxlatitude: 48.77613
+    latitude: 48.45857
+    longitude: 2.1569417
+- name: Allier
+  names:
+  - Allier
+  code: "03"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.2767951
+    minlatitude: 45.930733
+    maxlongitude: 4.005739
+    maxlatitude: 46.804295
+    latitude: 46.311554
+    longitude: 3.4167655
+- name: Cantal
+  names:
+  - Cantal
+  code: "15"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.062882
+    minlatitude: 44.615776
+    maxlongitude: 3.371465
+    maxlatitude: 45.483475
+    latitude: 45.119198
+    longitude: 2.6326063
+- name: Charente-Maritime
+  names:
+  - Charente-Maritime
+  code: "17"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5626689
+    minlatitude: 45.08875
+    maxlongitude: 0.005972
+    maxlatitude: 46.371487
+    latitude: 45.74949
+    longitude: -0.7733188
+- name: Côtes-d'Armor
+  names:
+  - Côtes-du-Nord
+  code: "22"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.665906
+    minlatitude: 48.03257
+    maxlongitude: -1.909064
+    maxlatitude: 48.900936
+    latitude: 48.51081
+    longitude: -3.3263676
+- name: Haute-Garonne
+  names:
+  - Haute-Garonne
+  code: "31"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.4416861
+    minlatitude: 42.68933
+    maxlongitude: 2.048299
+    maxlatitude: 43.92153
+    latitude: 43.401047
+    longitude: 1.135302
+- name: Oise
+  names:
+  - Oise
+  code: "60"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.6888659
+    minlatitude: 49.060524
+    maxlongitude: 3.166125
+    maxlatitude: 49.763924
+    latitude: 49.421455
+    longitude: 2.4146397
+- name: Val-d'Oise
+  names:
+  - Val-d'Oise
+  code: "95"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.608733
+    minlatitude: 48.908676
+    maxlongitude: 2.594979
+    maxlatitude: 49.241505
+    latitude: 49.06159
+    longitude: 2.1581352
+- name: Aube
+  names:
+  - Aube
+  code: "10"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.383648
+    minlatitude: 47.923695
+    maxlongitude: 4.864605
+    maxlatitude: 48.716736
+    latitude: 48.15634
+    longitude: 4.373246
+- name: Calvados
+  names:
+  - Calvados
+  code: "14"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.159777
+    minlatitude: 48.751682
+    maxlongitude: 0.4464769
+    maxlatitude: 49.42992
+    latitude: 49.12133
+    longitude: -0.4330578
+- name: Gironde
+  names:
+  - Gironde
+  code: "33"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.2614241
+    minlatitude: 44.1939
+    maxlongitude: 0.315137
+    maxlatitude: 45.573635
+    latitude: 44.849667
+    longitude: -0.4502368
+- name: Haute-Loire
+  names:
+  - Haute-Loire
+  code: "43"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.082197
+    minlatitude: 44.74396
+    maxlongitude: 4.490819
+    maxlatitude: 45.42761
+    latitude: 45.082123
+    longitude: 3.9266367
+- name: Meuse
+  names:
+  - Meuse
+  code: "55"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.8883767
+    minlatitude: 48.408993
+    maxlongitude: 5.8542056
+    maxlatitude: 49.616863
+    latitude: 49.08243
+    longitude: 5.2823997
+- name: Moselle
+  names:
+  - Moselle
+  code: "57"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.891857
+    minlatitude: 48.526722
+    maxlongitude: 7.640047
+    maxlatitude: 49.515125
+    latitude: 49.098385
+    longitude: 6.552764
+- name: Orne
+  names:
+  - Orne
+  code: "61"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.860575
+    minlatitude: 48.179886
+    maxlongitude: 0.976576
+    maxlatitude: 48.972534
+    latitude: 48.638855
+    longitude: 0.0848201
+- name: Hauts-de-Seine
+  names:
+  - Hauts-de-Seine
+  code: "92"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.145702
+    minlatitude: 48.72935
+    maxlongitude: 2.336941
+    maxlatitude: 48.950962
+    latitude: 48.828506
+    longitude: 2.2188067
+- name: Nouvelle-Calédonie
+  names:
+  - Nouvelle-Calédonie
+  code: NC
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.32187
+    minlatitude: 33.84097
+    maxlongitude: -75.45995
+    maxlatitude: 36.588158
+    latitude: 35.759575
+    longitude: -79.0193
+- name: Saint-Pierre-et-Miquelon
+  names:
+  - Saint-Pierre-et-Miquelon
+  code: PM
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Terres Australes Françaises
+  names:
+  - Terres Australes Françaises
+  code: TF
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Corrèze
+  names:
+  - Corrèze
+  code: "19"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.822327
+    minlatitude: 45.325844
+    maxlongitude: 1.921707
+    maxlatitude: 45.409958
+    latitude: 45.372112
+    longitude: 1.873739
+- name: Eure
+  names:
+  - Eure
+  code: "27"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.2967251
+    minlatitude: 48.666428
+    maxlongitude: 1.803111
+    maxlatitude: 49.485283
+    latitude: 49.118176
+    longitude: 0.9582114
+- name: Eure-et-Loir
+  names:
+  - Eure-et-Loir
+  code: "28"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.755676
+    minlatitude: 47.95382
+    maxlongitude: 1.99456
+    maxlatitude: 48.94103
+    latitude: 48.552525
+    longitude: 1.1989814
+- name: Somme
+  names:
+  - Somme
+  code: "80"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.379663
+    minlatitude: 49.571625
+    maxlongitude: 3.203045
+    maxlatitude: 50.36632
+    latitude: 49.914516
+    longitude: 2.2707095
+- name: Territoire de Belfort
+  names:
+  - Territoire de Belfort
+  code: "90"
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.756256
+    minlatitude: 47.433384
+    maxlongitude: 7.143381
+    maxlatitude: 47.82511
+    latitude: 47.594658
+    longitude: 6.9207716
+- name: Mayotte
+  names:
+  - Mayotte
+  code: YT
+  countryalpha2: FR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

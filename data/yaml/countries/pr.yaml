@@ -1,0 +1,76 @@
+name:
+  common: Puerto Rico
+  official: Commonwealth of Puerto Rico
+  native:
+    eng:
+      common: Puerto Rico
+      official: Commonwealth of Puerto Rico
+    spa:
+      common: Puerto Rico
+      official: Estado Libre Asociado de Puerto Rico
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .pr
+languages:
+  eng: English
+  spa: Spanish
+translations:
+  deu:
+    common: Puerto Rico
+    official: Commonwealth von Puerto Rico
+  fin:
+    common: Puerto Rico
+    official: Puerto Rico
+  fra:
+    common: Porto Rico
+    official: Porto Rico
+  hrv:
+    common: Portoriko
+    official: Zajednica Puerto Rico
+  ita:
+    common: Porto Rico
+    official: Commonwealth di Porto Rico
+  jpn:
+    common: プエルトリコ
+    official: プエルトリコのコモンウェルス
+  nld:
+    common: Puerto Rico
+    official: Gemenebest van Puerto Rico
+  por:
+    common: Porto Rico
+    official: Commonwealth of Puerto Rico
+  rus:
+    common: Пуэрто-Рико
+    official: Содружество Пуэрто-Рико
+  spa:
+    common: Puerto Rico
+    official: Asociado de Puerto Rico
+currencies:
+- USD
+borders: []
+codes:
+  alpha2: PR
+  alpha3: PRI
+  cioc: PUR
+  ccn3: "630"
+  callingcodes:
+  - "1787"
+  - "1939"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: San Juan
+  area: 8870
+coordinates:
+  longitudestring: 66 30 W
+  latitudestring: 18 15 N
+  minlongitude: -67.9427
+  minlatitude: 17.883
+  maxlongitude: -65.22
+  maxlatitude: 18.5202
+  latitude: 18.24914
+  longitude: -66.62804

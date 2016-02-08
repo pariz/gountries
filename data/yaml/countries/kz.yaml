@@ -1,0 +1,82 @@
+name:
+  common: Kazakhstan
+  official: Republic of Kazakhstan
+  native:
+    kaz:
+      common: Қазақстан
+      official: Қазақстан Республикасы
+    rus:
+      common: Казахстан
+      official: Республика Казахстан
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .kz
+- .қаз
+languages:
+  kaz: Kazakh
+  rus: Russian
+translations:
+  deu:
+    common: Kasachstan
+    official: Republik Kasachstan
+  fin:
+    common: Kazakstan
+    official: Kazakstanin tasavalta
+  fra:
+    common: Kazakhstan
+    official: République du Kazakhstan
+  hrv:
+    common: Kazahstan
+    official: Republika Kazahstan
+  ita:
+    common: Kazakistan
+    official: Repubblica del Kazakhstan
+  jpn:
+    common: カザフスタン
+    official: カザフスタン共和国
+  nld:
+    common: Kazachstan
+    official: Republiek Kazachstan
+  por:
+    common: Cazaquistão
+    official: República do Cazaquistão
+  rus:
+    common: Казахстан
+    official: Республика Казахстан
+  spa:
+    common: Kazajistán
+    official: República de Kazajstán
+currencies:
+- KZT
+borders:
+- CHN
+- KGZ
+- RUS
+- TKM
+- UZB
+codes:
+  alpha2: KZ
+  alpha3: KAZ
+  cioc: KAZ
+  ccn3: "398"
+  callingcodes:
+  - "76"
+  - "77"
+  internationalprefix: "810"
+geo:
+  region: Asia
+  subregion: Central Asia
+  continent: Asia
+  capital: Astana
+  area: 2.7249e+06
+coordinates:
+  longitudestring: 68 00 E
+  latitudestring: 48 00 N
+  minlongitude: 46.58972
+  minlatitude: 40.416668
+  maxlongitude: 90
+  maxlatitude: 55.330555
+  latitude: 48.146004
+  longitude: 67.17917

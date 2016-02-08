@@ -1,0 +1,112 @@
+- name: Funafuti
+  names:
+  - Funafuti
+  code: FUN
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -8.516667
+    longitude: 179.21666
+- name: Niutao
+  names:
+  - Niutao
+  code: NIT
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.32933
+    minlatitude: -6.1153793
+    maxlongitude: 177.35474
+    maxlatitude: -6.1015964
+    latitude: -6.106426
+    longitude: 177.34384
+- name: Nui
+  names:
+  - Nui
+  code: NIU
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.14613
+    minlatitude: -7.2460446
+    maxlongitude: 177.16563
+    maxlatitude: -7.18891
+    latitude: -7.2426286
+    longitude: 177.14857
+- name: Nukufetau
+  names:
+  - Nukufetau
+  code: NKF
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 178.5
+- name: Nukulaelae
+  names:
+  - Nukulailai
+  code: NKL
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -9.381111
+    longitude: 179.85222
+- name: Nanumea
+  names:
+  - Nanumea
+  code: NMA
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 176.10988
+    minlatitude: -5.701377
+    maxlongitude: 176.13655
+    maxlatitude: -5.662078
+    latitude: -5.6815386
+    longitude: 176.12811
+- name: Nanumanga
+  names:
+  - Nanumaga
+  code: NMG
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 176.31186
+    minlatitude: -6.302336
+    maxlongitude: 176.32579
+    maxlatitude: -6.277289
+    latitude: -6.291071
+    longitude: 176.31485
+- name: Vaitupu
+  names:
+  - Vaitupu
+  code: VAI
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 178.66246
+    minlatitude: -7.4991107
+    maxlongitude: 178.69728
+    maxlatitude: -7.457773
+    latitude: -7.4767327
+    longitude: 178.67477

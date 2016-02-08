@@ -1,0 +1,294 @@
+- name: Storstrøm
+  names:
+  - Storstrøm
+  code: "035"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.824263
+    minlatitude: 54.88649
+    maxlongitude: 12.209975
+    maxlatitude: 55.01218
+    latitude: 54.96012
+    longitude: 11.938973
+- name: Fyn
+  names:
+  - Fyn
+  code: "042"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.67739
+    minlatitude: 55.02662
+    maxlongitude: 10.856513
+    maxlatitude: 55.623146
+    latitude: 55.32906
+    longitude: 10.235291
+- name: København City
+  names:
+  - København City
+  code: "101"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.4533825
+    minlatitude: 55.61544
+    maxlongitude: 12.734265
+    maxlatitude: 55.727093
+    latitude: 55.676098
+    longitude: 12.568337
+- name: Central Jutland
+  names:
+  - Midtjylland
+  code: "82"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.097687
+    minlatitude: 55.668858
+    maxlongitude: 11.6613
+    maxlatitude: 56.84654
+    latitude: 56.30214
+    longitude: 9.302777
+- name: South Denmark
+  names:
+  - Syddanmark
+  code: "83"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.072241
+    minlatitude: 54.55912
+    maxlongitude: 15.197281
+    maxlatitude: 57.879436
+    latitude: 56.26392
+    longitude: 9.501785
+- name: København
+  names:
+  - København
+  code: "015"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.4533825
+    minlatitude: 55.61544
+    maxlongitude: 12.734265
+    maxlatitude: 55.727093
+    latitude: 55.676098
+    longitude: 12.568337
+- name: Roskilde
+  names:
+  - Roskilde
+  code: "025"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.913438
+    minlatitude: 55.58144
+    maxlongitude: 12.249173
+    maxlatitude: 55.758846
+    latitude: 55.64191
+    longitude: 12.087845
+- name: Zeeland
+  names:
+  - Sjælland
+  code: "85"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.868296
+    minlatitude: 54.96216
+    maxlongitude: 12.624492
+    maxlatitude: 56.129845
+    latitude: 55.463253
+    longitude: 11.721498
+- name: Vestsjælland
+  names:
+  - Vestsjælland
+  code: "030"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.40386
+    longitude: 11.3523245
+- name: Capital
+  names:
+  - Region Hovedstaden
+  code: "84"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.694833
+    minlatitude: 54.987183
+    maxlongitude: 15.157218
+    maxlatitude: 56.200283
+    latitude: 55.675182
+    longitude: 12.549326
+- name: Bornholm
+  names:
+  - Bornholm
+  code: "040"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.680866
+    minlatitude: 54.98717
+    maxlongitude: 15.157218
+    maxlatitude: 55.29926
+    latitude: 55.160427
+    longitude: 14.866883
+- name: Frederiksberg City
+  names:
+  - Frederiksberg City
+  code: "147"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.491767
+    minlatitude: 55.666374
+    maxlongitude: 12.557799
+    maxlatitude: 55.69801
+    latitude: 55.67707
+    longitude: 12.513321
+- name: Ribe
+  names:
+  - Ribe
+  code: "055"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.5307255
+    minlatitude: 55.224678
+    maxlongitude: 8.938441
+    maxlatitude: 55.417156
+    latitude: 55.326935
+    longitude: 8.774665
+- name: Vejle
+  names:
+  - Vejle
+  code: "060"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.34269
+    minlatitude: 55.60979
+    maxlongitude: 9.685131
+    maxlatitude: 55.819782
+    latitude: 55.71131
+    longitude: 9.536354
+- name: Ringkøbing
+  names:
+  - Ringkøbing
+  code: "065"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.097966
+    minlatitude: 56.01196
+    maxlongitude: 8.469929
+    maxlatitude: 56.18182
+    latitude: 56.088055
+    longitude: 8.257633
+- name: Århus
+  names:
+  - Århus
+  code: "070"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.108511
+    minlatitude: 56.118572
+    maxlongitude: 10.255086
+    maxlatitude: 56.237637
+    latitude: 56.162937
+    longitude: 10.203921
+- name: Viborg
+  names:
+  - Viborg
+  code: "076"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.054567
+    minlatitude: 56.340797
+    maxlongitude: 9.563498
+    maxlatitude: 56.530228
+    latitude: 56.452026
+    longitude: 9.396347
+- name: Nordjylland
+  names:
+  - Nordjylland
+  code: "080"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.212005
+    minlatitude: 56.550335
+    maxlongitude: 11.200088
+    maxlatitude: 57.751812
+    latitude: 56.83074
+    longitude: 9.4930525
+- name: Frederiksborg
+  names:
+  - Frederiksborg
+  code: "020"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.491767
+    minlatitude: 55.666374
+    maxlongitude: 12.557799
+    maxlatitude: 55.69801
+    latitude: 55.67707
+    longitude: 12.513321
+- name: Sønderjylland
+  names:
+  - Sønderjylland
+  code: "050"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.93263
+    longitude: 8.867273
+- name: North Jutland
+  names:
+  - Nordjylland
+  code: "81"
+  countryalpha2: DK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.212005
+    minlatitude: 56.550335
+    maxlongitude: 11.200088
+    maxlatitude: 57.751812
+    latitude: 56.83074
+    longitude: 9.4930525

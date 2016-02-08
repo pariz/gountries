@@ -1,0 +1,83 @@
+name:
+  common: Ukraine
+  official: Ukraine
+  native:
+    rus:
+      common: Украина
+      official: Украина
+    ukr:
+      common: Україна
+      official: Україна
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ua
+- .укр
+languages:
+  rus: Russian
+  ukr: Ukrainian
+translations:
+  deu:
+    common: Ukraine
+    official: Ukraine
+  fin:
+    common: Ukraina
+    official: Ukraina
+  fra:
+    common: Ukraine
+    official: Ukraine
+  hrv:
+    common: Ukrajina
+    official: Ukrajina
+  ita:
+    common: Ucraina
+    official: Ucraina
+  jpn:
+    common: ウクライナ
+    official: ウクライナ
+  nld:
+    common: Oekraïne
+    official: Oekraïne
+  por:
+    common: Ucrânia
+    official: Ucrânia
+  rus:
+    common: Украина
+    official: Украина
+  spa:
+    common: Ucrania
+    official: Ucrania
+currencies:
+- UAH
+borders:
+- BLR
+- HUN
+- MDA
+- POL
+- ROU
+- RUS
+- SVK
+codes:
+  alpha2: UA
+  alpha3: UKR
+  cioc: UKR
+  ccn3: "804"
+  callingcodes:
+  - "380"
+  internationalprefix: "810"
+geo:
+  region: Europe
+  subregion: Eastern Europe
+  continent: Europe
+  capital: Kiev
+  area: 603500
+coordinates:
+  longitudestring: 32 00 E
+  latitudestring: 49 00 N
+  minlongitude: 20.933332
+  minlatitude: 37.8
+  maxlongitude: 68.85
+  maxlatitude: 63.4
+  latitude: 48.926563
+  longitude: 31.475782

@@ -1,0 +1,75 @@
+name:
+  common: Philippines
+  official: Republic of the Philippines
+  native:
+    eng:
+      common: Philippines
+      official: Republic of the Philippines
+    fil:
+      common: Pilipinas
+      official: Republic of the Philippines
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ph
+languages:
+  eng: English
+  fil: Filipino
+translations:
+  deu:
+    common: Philippinen
+    official: Republik der Philippinen
+  fin:
+    common: Filippiinit
+    official: Filippiinien tasavalta
+  fra:
+    common: Philippines
+    official: République des Philippines
+  hrv:
+    common: Filipini
+    official: Republika Filipini
+  ita:
+    common: Filippine
+    official: Repubblica delle Filippine
+  jpn:
+    common: フィリピン
+    official: フィリピン共和国
+  nld:
+    common: Filipijnen
+    official: Republiek der Filipijnen
+  por:
+    common: Filipinas
+    official: República das Filipinas
+  rus:
+    common: Филиппины
+    official: Республика Филиппины
+  spa:
+    common: Filipinas
+    official: República de las Filipinas
+currencies:
+- PHP
+borders: []
+codes:
+  alpha2: PH
+  alpha3: PHL
+  cioc: PHI
+  ccn3: "608"
+  callingcodes:
+  - "63"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: South-Eastern Asia
+  continent: Asia
+  capital: Manila
+  area: 342353
+coordinates:
+  longitudestring: 122 00 E
+  latitudestring: 13 00 N
+  minlongitude: 116.65
+  minlatitude: 4.588889
+  maxlongitude: 126.60445
+  maxlatitude: 21.113056
+  latitude: 11.112666
+  longitude: 122.509476

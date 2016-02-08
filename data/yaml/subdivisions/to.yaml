@@ -1,0 +1,71 @@
+- name: '''Eua'
+  names:
+  - Middleburg Island
+  - ʿEua
+  code: "01"
+  countryalpha2: TO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -174.97226
+    minlatitude: -21.455057
+    maxlongitude: -174.90436
+    maxlatitude: -21.283373
+    latitude: -21.363195
+    longitude: -174.92972
+- name: Ha'apai
+  names:
+  - Ha'apai
+  code: "02"
+  countryalpha2: TO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -175.41776
+    minlatitude: -20.5584
+    maxlongitude: -174.26846
+    maxlatitude: -19.593002
+    latitude: -19.750633
+    longitude: -175.05452
+- name: Niuas
+  names:
+  - Niuas
+  code: "03"
+  countryalpha2: TO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -175.67961
+    minlatitude: -15.963783
+    maxlongitude: -173.70248
+    maxlatitude: -15.566393
+    latitude: -15.609761
+    longitude: -175.63321
+- name: Tongatapu
+  names:
+  - Tongatapu
+  code: "04"
+  countryalpha2: TO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -175.36137
+    minlatitude: -21.278193
+    maxlongitude: -175.02852
+    maxlatitude: -21.061676
+    latitude: -21.146597
+    longitude: -175.25154
+- name: Vava'u
+  names:
+  - Vava'u
+  code: "05"
+  countryalpha2: TO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -174.86719
+    minlatitude: -19.180176
+    maxlongitude: -173.90758
+    maxlatitude: -18.00829
+    latitude: -18.581196
+    longitude: -173.985

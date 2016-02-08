@@ -1,0 +1,73 @@
+name:
+  common: Guinea-Bissau
+  official: Republic of Guinea-Bissau
+  native:
+    por:
+      common: Guiné-Bissau
+      official: República da Guiné-Bissau
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .gw
+languages:
+  por: Portuguese
+translations:
+  deu:
+    common: Guinea-Bissau
+    official: Republik Guinea-Bissau
+  fin:
+    common: Guinea-Bissau
+    official: Guinea-Bissaun tasavalta
+  fra:
+    common: Guinée-Bissau
+    official: République de Guinée-Bissau
+  hrv:
+    common: Gvineja Bisau
+    official: Republika Gvineja Bisau
+  ita:
+    common: Guinea-Bissau
+    official: Repubblica di Guinea-Bissau
+  jpn:
+    common: ギニアビサウ
+    official: ギニアビサウ共和国
+  nld:
+    common: Guinee-Bissau
+    official: Republiek Guinee-Bissau
+  por:
+    common: Guiné-Bissau
+    official: República da Guiné-Bissau
+  rus:
+    common: Гвинея-Бисау
+    official: Республика Гвинея -Бисау
+  spa:
+    common: Guinea-Bisáu
+    official: República de Guinea-Bissau
+currencies:
+- XOF
+borders:
+- GIN
+- SEN
+codes:
+  alpha2: GW
+  alpha3: GNB
+  cioc: GBS
+  ccn3: "624"
+  callingcodes:
+  - "245"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Bissau
+  area: 36125
+coordinates:
+  longitudestring: 15 00 W
+  latitudestring: 12 00 N
+  minlongitude: -16.651943
+  minlatitude: 5
+  maxlongitude: -4
+  maxlatitude: 12.683333
+  latitude: 12.115863
+  longitude: -14.7481365

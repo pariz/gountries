@@ -1,0 +1,77 @@
+name:
+  common: Lesotho
+  official: Kingdom of Lesotho
+  native:
+    eng:
+      common: Lesotho
+      official: Kingdom of Lesotho
+    sot:
+      common: Lesotho
+      official: Kingdom of Lesotho
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .ls
+languages:
+  eng: English
+  sot: Sotho
+translations:
+  deu:
+    common: Lesotho
+    official: Königreich Lesotho
+  fin:
+    common: Lesotho
+    official: Lesothon kuningaskunta
+  fra:
+    common: Lesotho
+    official: Royaume du Lesotho
+  hrv:
+    common: Lesoto
+    official: Kraljevina Lesoto
+  ita:
+    common: Lesotho
+    official: Regno del Lesotho
+  jpn:
+    common: レソト
+    official: レソト王国
+  nld:
+    common: Lesotho
+    official: Koninkrijk Lesotho
+  por:
+    common: Lesoto
+    official: Reino do Lesoto
+  rus:
+    common: Лесото
+    official: Королевство Лесото
+  spa:
+    common: Lesotho
+    official: Reino de Lesotho
+currencies:
+- LSL
+- ZAR
+borders:
+- ZAF
+codes:
+  alpha2: LS
+  alpha3: LSO
+  cioc: LES
+  ccn3: "426"
+  callingcodes:
+  - "266"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Southern Africa
+  continent: Africa
+  capital: Maseru
+  area: 30355
+coordinates:
+  longitudestring: 28 30 E
+  latitudestring: 29 30 S
+  minlongitude: 24
+  minlatitude: -30.666668
+  maxlongitude: 29.316668
+  maxlatitude: -28.616667
+  latitude: -29.581753
+  longitude: 28.246613

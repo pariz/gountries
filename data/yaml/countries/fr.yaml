@@ -1,0 +1,79 @@
+name:
+  common: France
+  official: French Republic
+  native:
+    fra:
+      common: France
+      official: République française
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .fr
+languages:
+  fra: French
+translations:
+  deu:
+    common: Frankreich
+    official: Französische Republik
+  fin:
+    common: Ranska
+    official: Ranskan tasavalta
+  fra:
+    common: France
+    official: République française
+  hrv:
+    common: Francuska
+    official: Francuska Republika
+  ita:
+    common: Francia
+    official: Repubblica francese
+  jpn:
+    common: フランス
+    official: フランス共和国
+  nld:
+    common: Frankrijk
+    official: Franse Republiek
+  por:
+    common: França
+    official: República Francesa
+  rus:
+    common: Франция
+    official: Французская Республика
+  spa:
+    common: Francia
+    official: República francés
+currencies:
+- EUR
+borders:
+- AND
+- BEL
+- DEU
+- ITA
+- LUX
+- MCO
+- ESP
+- CHE
+codes:
+  alpha2: FR
+  alpha3: FRA
+  cioc: FRA
+  ccn3: "250"
+  callingcodes:
+  - "33"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Western Europe
+  continent: Europe
+  capital: Paris
+  area: 551695
+coordinates:
+  longitudestring: 2 00 E
+  latitudestring: 46 00 N
+  minlongitude: -5.14
+  minlatitude: 41.34
+  maxlongitude: 9.56
+  maxlatitude: 51.09
+  latitude: 46.63728
+  longitude: 2.3382623

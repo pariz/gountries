@@ -1,0 +1,79 @@
+name:
+  common: Croatia
+  official: Republic of Croatia
+  native:
+    hrv:
+      common: Hrvatska
+      official: Republika Hrvatska
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .hr
+languages:
+  hrv: Croatian
+translations:
+  cym:
+    common: Croatia
+    official: Republic of Croatia
+  deu:
+    common: Kroatien
+    official: Republik Kroatien
+  fin:
+    common: Kroatia
+    official: Kroatian tasavalta
+  fra:
+    common: Croatie
+    official: République de Croatie
+  hrv:
+    common: Hrvatska
+    official: Republika Hrvatska
+  ita:
+    common: Croazia
+    official: Repubblica di Croazia
+  jpn:
+    common: クロアチア
+    official: クロアチア共和国
+  nld:
+    common: Kroatië
+    official: Republiek Kroatië
+  por:
+    common: Croácia
+    official: República da Croácia
+  rus:
+    common: Хорватия
+    official: Республика Хорватия
+  spa:
+    common: Croacia
+    official: República de Croacia
+currencies:
+- HRK
+borders:
+- BIH
+- HUN
+- MNE
+- SRB
+- SVN
+codes:
+  alpha2: HR
+  alpha3: HRV
+  cioc: CRO
+  ccn3: "191"
+  callingcodes:
+  - "385"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Zagreb
+  area: 56594
+coordinates:
+  longitudestring: 15 30 E
+  latitudestring: 45 10 N
+  minlongitude: 13.493333
+  minlatitude: 42.38028
+  maxlongitude: 19.383057
+  maxlatitude: 46.526943
+  latitude: 45.444305
+  longitude: 15.734504

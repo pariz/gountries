@@ -1,0 +1,79 @@
+name:
+  common: Jersey
+  official: Bailiwick of Jersey
+  native:
+    eng:
+      common: Jersey
+      official: Bailiwick of Jersey
+    fra:
+      common: Jersey
+      official: Bailliage de Jersey
+    nrf:
+      common: Jèrri
+      official: Bailliage dé Jèrri
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .je
+languages:
+  eng: English
+  fra: French
+  nrf: Jèrriais
+translations:
+  deu:
+    common: Jersey
+    official: Vogtei Jersey
+  fin:
+    common: Jersey
+    official: Jersey
+  fra:
+    common: Jersey
+    official: Bailliage de Jersey
+  hrv:
+    common: Jersey
+    official: Struka od Jersey
+  ita:
+    common: Isola di Jersey
+    official: Baliato di Jersey
+  jpn:
+    common: ジャージー
+    official: ジャージの得意分野
+  nld:
+    common: Jersey
+    official: Baljuwschap Jersey
+  por:
+    common: Jersey
+    official: Bailiado de Jersey
+  rus:
+    common: Джерси
+    official: Коронное владение Джерси
+  spa:
+    common: Jersey
+    official: Bailía de Jersey
+currencies:
+- GBP
+borders: []
+codes:
+  alpha2: JE
+  alpha3: JEY
+  cioc: ""
+  ccn3: "832"
+  callingcodes:
+  - "44"
+  internationalprefix: ""
+geo:
+  region: Europe
+  subregion: Northern Europe
+  continent: Europe
+  capital: Saint Helier
+  area: 116
+coordinates:
+  longitudestring: 2 10 W
+  latitudestring: 49 15 N
+  minlongitude: -2.253889
+  minlatitude: 49.112778
+  maxlongitude: -1.927778
+  maxlatitude: 49.305832
+  latitude: 49.228504
+  longitude: -2.1228929

@@ -1,0 +1,238 @@
+- name: Santa Cruz
+  names:
+  - Santa Cruz
+  code: CR
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.639359
+    minlatitude: 15.041449
+    maxlongitude: -23.49191
+    maxlatitude: 15.186881
+    latitude: 15.102729
+    longitude: -23.560946
+- name: Mosteiros
+  names:
+  - Mosteiros
+  code: MO
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.331326
+    minlatitude: 15.023137
+    maxlongitude: -24.318794
+    maxlatitude: 15.035926
+    latitude: 15.034
+    longitude: -24.325
+- name: Porto Novo
+  names:
+  - Porto Novo
+  code: PN
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -25.355625
+    minlatitude: 16.910473
+    maxlongitude: -24.979912
+    maxlatitude: 17.129238
+    latitude: 16.99111
+    longitude: -25.236341
+- name: Ribeira Grande
+  names:
+  - Santiago
+  code: RG
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -25.230892
+    minlatitude: 17.07775
+    maxlongitude: -25.02012
+    maxlatitude: 17.199804
+    latitude: 17.16014
+    longitude: -25.117765
+- name: São Filipe
+  names:
+  - São Filipe
+  code: SF
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.502117
+    minlatitude: 14.879594
+    maxlongitude: -24.474493
+    maxlatitude: 14.906877
+    latitude: 14.895
+    longitude: -24.498
+- name: Boa Vista
+  names:
+  - Boa Vista
+  code: BV
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -22.964943
+    minlatitude: 15.968781
+    maxlongitude: -22.669535
+    maxlatitude: 16.225061
+    latitude: 16.13725
+    longitude: -22.858217
+- name: Santa Catarina
+  names:
+  - Santa Catarina
+  code: CA
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.781294
+    minlatitude: 14.980835
+    maxlongitude: -23.627216
+    maxlatitude: 15.199731
+    latitude: 15.099254
+    longitude: -23.691877
+- name: Maio
+  names:
+  - Maio
+  code: MA
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.233892
+    minlatitude: 15.118355
+    maxlongitude: -23.084003
+    maxlatitude: 15.337763
+    latitude: 15.20031
+    longitude: -23.16798
+- name: Paúl
+  names:
+  - Paúl
+  code: PA
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -25.075462
+    minlatitude: 17.071709
+    maxlongitude: -24.967329
+    maxlatitude: 17.153166
+    latitude: 17.100536
+    longitude: -24.987282
+- name: Praia
+  names:
+  - Praia
+  code: PR
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.542843
+    minlatitude: 14.900174
+    maxlongitude: -23.470615
+    maxlatitude: 14.97273
+    latitude: 14.95
+    longitude: -23.52
+- name: Sal
+  names:
+  - Sal
+  code: SL
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -22.994213
+    minlatitude: 16.585342
+    maxlongitude: -22.872702
+    maxlatitude: 16.853725
+    latitude: 16.726616
+    longitude: -22.92971
+- name: Tarrafal
+  names:
+  - Tarrafal
+  code: TA
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.759007
+    minlatitude: 15.268553
+    maxlongitude: -23.73843
+    maxlatitude: 15.283593
+    latitude: 15.278
+    longitude: -23.752
+- name: Brava
+  names:
+  - Brava
+  code: BR
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.74885
+    minlatitude: 14.802683
+    maxlongitude: -24.640837
+    maxlatitude: 14.979173
+    latitude: 14.866126
+    longitude: -24.702417
+- name: Calheta de São Miguel
+  names:
+  - Calheta de São Miguel
+  code: CS
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.597925
+    minlatitude: 15.179962
+    maxlongitude: -23.587431
+    maxlatitude: 15.190882
+    latitude: 15.1875
+    longitude: -23.593
+- name: São Domingos
+  names:
+  - São Domingos
+  code: SD
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -23.574816
+    minlatitude: 15.019634
+    maxlongitude: -23.552177
+    maxlatitude: 15.034059
+    latitude: 15.025
+    longitude: -23.5625
+- name: São Vicente
+  names:
+  - São Vicente
+  code: SV
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -25.085564
+    minlatitude: 16.606955
+    maxlongitude: -24.57421
+    maxlatitude: 16.922201
+    latitude: 16.834127
+    longitude: -24.927956
+- name: São Nicolau
+  names:
+  - São Nicolau
+  code: SN
+  countryalpha2: CV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.427603
+    minlatitude: 16.479176
+    maxlongitude: -24.00768
+    maxlatitude: 16.681396
+    latitude: 16.60486
+    longitude: -24.310371

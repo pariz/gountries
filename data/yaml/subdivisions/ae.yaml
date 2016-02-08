@@ -1,0 +1,109 @@
+- name: Umm al Qaywayn
+  names:
+  - أمّ القيوين
+  - Umm al-Quwain
+  code: UQ
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.51752
+    minlatitude: 25.323967
+    maxlongitude: 55.95387
+    maxlatitude: 25.695477
+    latitude: 25.520483
+    longitude: 55.71339
+- name: '''Ajmān'
+  names:
+  - -إمارة عجمانّ - Ujman
+  code: AJ
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.423977
+    minlatitude: 25.348803
+    maxlongitude: 55.637173
+    maxlatitude: 25.450005
+    latitude: 25.3995
+    longitude: 55.4796
+- name: Abū Z̧aby [Abu Dhabi]
+  names:
+  - أبو ظبي
+  - Abu Zabi
+  - Abu Zaby
+  - Abū Z̨abī
+  - Abu Dhabi
+  - Abu Dhabi
+  code: AZ
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 54.268856
+    minlatitude: 24.151766
+    maxlongitude: 54.85096
+    maxlatitude: 24.62133
+    latitude: 24.466667
+    longitude: 54.36667
+- name: Dubayy
+  names:
+  - دبي
+  - Dubai
+  code: DU
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 54.895992
+    minlatitude: 24.79141
+    maxlongitude: 55.563698
+    maxlatitude: 25.356306
+    latitude: 25.20485
+    longitude: 55.270782
+- name: Al Fujayrah
+  names:
+  - الفجيرة
+  - Al Fujayrah
+  - Fujairah
+  code: FU
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.96323
+    minlatitude: 24.907854
+    maxlongitude: 56.37609
+    maxlatitude: 25.667782
+    latitude: 25.411076
+    longitude: 56.248226
+- name: Ra's al Khaymah
+  names:
+  - إمارة رأس الخيمة
+  - Ras al-Khaimah
+  code: RK
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.863796
+    minlatitude: 25.54043
+    maxlongitude: 56.07276
+    maxlatitude: 25.91161
+    latitude: 25.800694
+    longitude: 55.9762
+- name: Ash Shariqah [Sharjah]
+  names:
+  - إمارة الشارقةّ
+  - Ash Shariqah
+  code: SH
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.34973
+    minlatitude: 25.23446
+    maxlongitude: 55.672638
+    maxlatitude: 25.398827
+    latitude: 25.3575
+    longitude: 55.390835

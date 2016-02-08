@@ -1,0 +1,84 @@
+- name: Belize
+  names:
+  - Belize
+  code: BZ
+  countryalpha2: BZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.2458
+    minlatitude: 17.475796
+    maxlongitude: -88.18077
+    maxlatitude: 17.535368
+    latitude: 17.504566
+    longitude: -88.19621
+- name: Cayo
+  names:
+  - Cayo
+  code: CY
+  countryalpha2: BZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.18936
+    minlatitude: 16.405254
+    maxlongitude: -88.55082
+    maxlatitude: 17.505054
+    latitude: 17.098444
+    longitude: -88.94138
+- name: Corozal
+  names:
+  - Corozal
+  code: CZL
+  countryalpha2: BZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.59995
+    minlatitude: 17.893229
+    maxlongitude: -87.84994
+    maxlatitude: 18.496557
+    latitude: 18.134924
+    longitude: -88.24612
+- name: Orange Walk
+  names:
+  - Orange Walk
+  code: OW
+  countryalpha2: BZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.14696
+    minlatitude: 17.342075
+    maxlongitude: -88.284454
+    maxlatitude: 18.249624
+    latitude: 17.760353
+    longitude: -88.8647
+- name: Stann Creek
+  names:
+  - Stann Creek
+  code: SC
+  countryalpha2: BZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.77485
+    minlatitude: 16.511335
+    maxlongitude: -88.097176
+    maxlatitude: 17.127192
+    latitude: 16.811663
+    longitude: -88.4016
+- name: Toledo
+  names:
+  - Toledo
+  code: TOL
+  countryalpha2: BZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.224815
+    minlatitude: 15.889429
+    maxlongitude: -88.144875
+    maxlatitude: 16.700207
+    latitude: 16.249193
+    longitude: -88.8647

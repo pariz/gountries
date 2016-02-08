@@ -1,0 +1,79 @@
+name:
+  common: Kyrgyzstan
+  official: Kyrgyz Republic
+  native:
+    kir:
+      common: Кыргызстан
+      official: Кыргыз Республикасы
+    rus:
+      common: Киргизия
+      official: Кыргызская Республика
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .kg
+languages:
+  kir: Kyrgyz
+  rus: Russian
+translations:
+  deu:
+    common: Kirgisistan
+    official: Kirgisische Republik
+  fin:
+    common: Kirgisia
+    official: Kirgisian tasavalta
+  fra:
+    common: Kirghizistan
+    official: République kirghize
+  hrv:
+    common: Kirgistan
+    official: Kirgistanu
+  ita:
+    common: Kirghizistan
+    official: Kirghizistan
+  jpn:
+    common: キルギス
+    official: キルギス共和国
+  nld:
+    common: Kirgizië
+    official: Kirgizische Republiek
+  por:
+    common: Quirguistão
+    official: República do Quirguistão
+  rus:
+    common: Киргизия
+    official: Кыргызская Республика
+  spa:
+    common: Kirguizistán
+    official: República Kirguisa
+currencies:
+- KGS
+borders:
+- CHN
+- KAZ
+- TJK
+- UZB
+codes:
+  alpha2: KG
+  alpha3: KGZ
+  cioc: KGZ
+  ccn3: "417"
+  callingcodes:
+  - "996"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Central Asia
+  continent: Asia
+  capital: Bishkek
+  area: 199951
+coordinates:
+  longitudestring: 75 00 E
+  latitudestring: 41 00 N
+  minlongitude: 69.333336
+  minlatitude: 39.25
+  maxlongitude: 80.11583
+  maxlatitude: 43.016666
+  latitude: 41.464355
+  longitude: 74.55522

@@ -1,0 +1,74 @@
+name:
+  common: Bahamas
+  official: Commonwealth of the Bahamas
+  native:
+    eng:
+      common: Bahamas
+      official: Commonwealth of the Bahamas
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .bs
+languages:
+  eng: English
+translations:
+  cym:
+    common: Bahamas
+    official: Commonwealth of the Bahamas
+  deu:
+    common: Bahamas
+    official: Commonwealth der Bahamas
+  fin:
+    common: Bahamasaaret
+    official: Bahaman liittovaltio
+  fra:
+    common: Bahamas
+    official: Commonwealth des Bahamas
+  hrv:
+    common: Bahami
+    official: Zajednica Bahama
+  ita:
+    common: Bahamas
+    official: Commonwealth delle Bahamas
+  jpn:
+    common: バハマ
+    official: バハマ
+  nld:
+    common: Bahama’s
+    official: Gemenebest van de Bahama's
+  por:
+    common: Bahamas
+    official: Comunidade das Bahamas
+  rus:
+    common: Багамские Острова
+    official: Содружество Багамских Островов
+  spa:
+    common: Bahamas
+    official: Commonwealth de las Bahamas
+currencies:
+- BSD
+borders: []
+codes:
+  alpha2: BS
+  alpha3: BHS
+  cioc: BAH
+  ccn3: "044"
+  callingcodes:
+  - "1242"
+  internationalprefix: "011"
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Nassau
+  area: 13943
+coordinates:
+  longitudestring: 76 00 W
+  latitudestring: 24 15 N
+  minlongitude: -80.48333
+  minlatitude: 20
+  maxlongitude: -70
+  maxlatitude: 29.375
+  latitude: 25.035648
+  longitude: -77.39513

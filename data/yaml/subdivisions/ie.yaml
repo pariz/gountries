@@ -1,0 +1,373 @@
+- name: Louth
+  names:
+  - Lughbhadh
+  - Lú
+  code: LH
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.695343
+    minlatitude: 53.69849
+    maxlongitude: -6.1030107
+    maxlatitude: 54.113953
+    latitude: 53.896976
+    longitude: -6.4670973
+- name: Limerick
+  names:
+  - Luimneach
+  code: LK
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.68994
+    minlatitude: 52.61439
+    maxlongitude: -8.57034
+    maxlatitude: 52.68864
+    latitude: 52.668022
+    longitude: -8.630498
+- name: Mayo
+  names:
+  - Maigh Eo
+  code: MO
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.251001
+    minlatitude: 53.471928
+    maxlongitude: -8.582862
+    maxlatitude: 54.3454
+    latitude: 53.93458
+    longitude: -9.351645
+- name: Waterford
+  names:
+  - Port Láirge
+  code: WD
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.17119
+    minlatitude: 52.22481
+    maxlongitude: -7.05487
+    maxlatitude: 52.2702
+    latitude: 52.256668
+    longitude: -7.129167
+- name: Donegal
+  names:
+  - Dún na nGall
+  code: DL
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 54.654198
+    longitude: -8.110546
+- name: Kildare
+  names:
+  - Cill Dara
+  code: KE
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.92259
+    minlatitude: 53.15196
+    maxlongitude: -6.88299
+    maxlatitude: 53.18286
+    latitude: 53.158936
+    longitude: -6.9095683
+- name: Carlow
+  names:
+  - Ceatharlach
+  code: CW
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.1079345
+    minlatitude: 52.463867
+    maxlongitude: -6.5049105
+    maxlatitude: 52.91796
+    latitude: 52.718975
+    longitude: -6.8503704
+- name: Galway
+  names:
+  - Gaillimh
+  code: G
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.142687
+    minlatitude: 53.24854
+    maxlongitude: -8.954821
+    maxlatitude: 53.31947
+    latitude: 53.270668
+    longitude: -9.05679
+- name: Kilkenny
+  names:
+  - Cill Chainnigh
+  code: KK
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.27316
+    minlatitude: 52.63111
+    maxlongitude: -7.20547
+    maxlatitude: 52.67698
+    latitude: 52.654144
+    longitude: -7.2447877
+- name: Monaghan
+  names:
+  - Muineachán
+  code: MN
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.339506
+    minlatitude: 53.90068
+    maxlongitude: -6.5497284
+    maxlatitude: 54.42139
+    latitude: 54.249203
+    longitude: -6.968313
+- name: Offaly
+  names:
+  - Kingʿs
+  - Kingʿs County
+  - Ua Uíbh Fhailí
+  - Uí Fáilghe
+  code: OY
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.083872
+    minlatitude: 52.84817
+    maxlongitude: -6.977708
+    maxlatitude: 53.42428
+    latitude: 53.235687
+    longitude: -7.712223
+- name: Roscommon
+  names:
+  - Ros Comáin
+  code: RN
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.20713
+    minlatitude: 53.61177
+    maxlongitude: -8.16418
+    maxlatitude: 53.63942
+    latitude: 53.62759
+    longitude: -8.1890955
+- name: Cork
+  names:
+  - Corcaigh
+  code: C
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.54552
+    minlatitude: 51.85615
+    maxlongitude: -8.38058
+    maxlatitude: 51.93586
+    latitude: 51.896893
+    longitude: -8.486316
+- name: Cavan
+  names:
+  - An Cabhán
+  code: CN
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.3942943
+    minlatitude: 53.97008
+    maxlongitude: -7.3168015
+    maxlatitude: 54.00316
+    latitude: 53.98972
+    longitude: -7.363332
+- name: Longford
+  names:
+  - Longphort
+  - Longphuirt
+  code: LD
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.03586
+    minlatitude: 53.526905
+    maxlongitude: -7.374903
+    maxlatitude: 53.94208
+    latitude: 53.72756
+    longitude: -7.793109
+- name: Leitrim
+  names:
+  - Liathdroim
+  code: LM
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 53.9926
+    longitude: -8.065585
+- name: Tipperary
+  names:
+  - Tiobraid Árann
+  code: TA
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.48008
+    minlatitude: 52.202015
+    maxlongitude: -7.372056
+    maxlatitude: 53.167583
+    latitude: 52.47379
+    longitude: -8.161851
+- name: Wicklow
+  names:
+  - Cill Maintain
+  - Cill Mhanntáin
+  code: WW
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.07004
+    minlatitude: 52.9661
+    maxlongitude: -6.01546
+    maxlatitude: 52.99892
+    latitude: 52.98082
+    longitude: -6.044589
+- name: Wexford
+  names:
+  - Loch Garman
+  code: WX
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.49995
+    minlatitude: 52.32044
+    maxlongitude: -6.44643
+    maxlatitude: 52.34701
+    latitude: 52.336918
+    longitude: -6.463338
+- name: Clare
+  names:
+  - An Clár
+  code: CE
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.938694
+    minlatitude: 52.55453
+    maxlongitude: -8.283924
+    maxlatitude: 53.168674
+    latitude: 52.862453
+    longitude: -9.047165
+- name: Dublin
+  names:
+  - Átha Cliath
+  code: D
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.45084
+    minlatitude: 53.22343
+    maxlongitude: -6.05255
+    maxlatitude: 53.42521
+    latitude: 53.349804
+    longitude: -6.2603097
+- name: Meath
+  names:
+  - An Mhí
+  - An Mhídhe
+  code: MH
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.33552
+    minlatitude: 53.381866
+    maxlongitude: -6.2126107
+    maxlatitude: 53.917667
+    latitude: 53.60555
+    longitude: -6.656417
+- name: Sligo
+  names:
+  - Sligeach
+  code: SO
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.51933
+    minlatitude: 54.24951
+    maxlongitude: -8.44213
+    maxlatitude: 54.28724
+    latitude: 54.27661
+    longitude: -8.476089
+- name: Westmeath
+  names:
+  - An Iarmhidhe
+  code: WH
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.9729533
+    minlatitude: 53.317963
+    maxlongitude: -6.9547844
+    maxlatitude: 53.78796
+    latitude: 53.53453
+    longitude: -7.4653215
+- name: Kerry
+  names:
+  - Ciarraighe
+  - Ciarraí
+  code: KY
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.618362
+    minlatitude: 51.688324
+    maxlongitude: -9.118786
+    maxlatitude: 52.59184
+    latitude: 52.15446
+    longitude: -9.566863
+- name: Laois
+  names:
+  - Laoighis
+  - Queenʿs
+  code: LS
+  countryalpha2: IE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.7346497
+    minlatitude: 52.78127
+    maxlongitude: -6.9321156
+    maxlatitude: 53.215652
+    latitude: 52.994293
+    longitude: -7.3323007

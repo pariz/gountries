@@ -1,0 +1,76 @@
+name:
+  common: Jordan
+  official: Hashemite Kingdom of Jordan
+  native:
+    ara:
+      common: الأردن
+      official: المملكة الأردنية الهاشمية
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .jo
+- الاردن.
+languages:
+  ara: Arabic
+translations:
+  deu:
+    common: Jordanien
+    official: Haschemitisches Königreich Jordanien
+  fin:
+    common: Jordania
+    official: Jordanian hašemiittinen kunigaskunta
+  fra:
+    common: Jordanie
+    official: Royaume hachémite de Jordanie
+  hrv:
+    common: Jordan
+    official: Hašemitske Kraljevine Jordan
+  ita:
+    common: Giordania
+    official: Regno hascemita di Giordania
+  jpn:
+    common: ヨルダン
+    official: ヨルダン·ハシミテ王国
+  nld:
+    common: Jordanië
+    official: Hasjemitisch Koninkrijk Jordanië
+  por:
+    common: Jordânia
+    official: Reino Hachemita da Jordânia
+  rus:
+    common: Иордания
+    official: Иорданского Хашимитского Королевства
+  spa:
+    common: Jordania
+    official: Reino Hachemita de Jordania
+currencies:
+- JOD
+borders:
+- IRQ
+- ISR
+- SAU
+- SYR
+codes:
+  alpha2: JO
+  alpha3: JOR
+  cioc: JOR
+  ccn3: "400"
+  callingcodes:
+  - "962"
+  internationalprefix: "00"
+geo:
+  region: Asia
+  subregion: Western Asia
+  continent: Asia
+  capital: Amman
+  area: 89342
+coordinates:
+  longitudestring: 36 00 E
+  latitudestring: 31 00 N
+  minlongitude: 34.9875
+  minlatitude: 29
+  maxlongitude: 38.88333
+  maxlatitude: 33.00222
+  latitude: 31.275763
+  longitude: 36.82839

@@ -1,0 +1,83 @@
+name:
+  common: Argentina
+  official: Argentine Republic
+  native:
+    grn:
+      common: Argentina
+      official: Argentine Republic
+    spa:
+      common: Argentina
+      official: República Argentina
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .ar
+languages:
+  grn: Guaraní
+  spa: Spanish
+translations:
+  cym:
+    common: Ariannin
+    official: Argentine Republic
+  deu:
+    common: Argentinien
+    official: Argentinische Republik
+  fin:
+    common: Argentiina
+    official: Argentiinan tasavalta
+  fra:
+    common: Argentine
+    official: République argentine
+  hrv:
+    common: Argentina
+    official: Argentinski Republika
+  ita:
+    common: Argentina
+    official: Repubblica Argentina
+  jpn:
+    common: アルゼンチン
+    official: アルゼンチン共和国
+  nld:
+    common: Argentinië
+    official: Argentijnse Republiek
+  por:
+    common: Argentina
+    official: República Argentina
+  rus:
+    common: Аргентина
+    official: Аргентинская Республика
+  spa:
+    common: Argentina
+    official: República Argentina
+currencies:
+- ARS
+borders:
+- BOL
+- BRA
+- CHL
+- PRY
+- URY
+codes:
+  alpha2: AR
+  alpha3: ARG
+  cioc: ARG
+  ccn3: "032"
+  callingcodes:
+  - "54"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Buenos Aires
+  area: 2.7804e+06
+coordinates:
+  longitudestring: 64 00 W
+  latitudestring: 34 00 S
+  minlongitude: -73.53333
+  minlatitude: -58.11667
+  maxlongitude: -53.65
+  maxlatitude: -21.783333
+  latitude: -37.071964
+  longitude: -64.85451

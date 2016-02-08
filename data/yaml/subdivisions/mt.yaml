@@ -1,0 +1,959 @@
+- name: Santa Venera
+  names:
+  - Santa Venera
+  code: "54"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.470367
+    minlatitude: 35.88391
+    maxlongitude: 14.48483
+    maxlatitude: 35.89512
+    latitude: 35.88972
+    longitude: 14.477778
+- name: Birżebbuġa
+  names:
+  - Birżebbuġa
+  code: "05"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.498278
+    minlatitude: 35.80598
+    maxlongitude: 14.549668
+    maxlatitude: 35.84154
+    latitude: 35.825558
+    longitude: 14.528056
+- name: Bormla
+  names:
+  - Bormla
+  code: "06"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.51234
+    minlatitude: 35.875465
+    maxlongitude: 14.529384
+    maxlatitude: 35.886086
+    latitude: 35.88222
+    longitude: 14.522222
+- name: Mosta
+  names:
+  - Mosta
+  code: "32"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.393238
+    minlatitude: 35.897446
+    maxlongitude: 14.4391575
+    maxlatitude: 35.929207
+    latitude: 35.90972
+    longitude: 14.426111
+- name: Qrendi
+  names:
+  - Qrendi
+  code: "44"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.430349
+    minlatitude: 35.818897
+    maxlongitude: 14.46996
+    maxlatitude: 35.84262
+    latitude: 35.834167
+    longitude: 14.458889
+- name: Safi
+  names:
+  - Safi
+  code: "47"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.479385
+    minlatitude: 35.826046
+    maxlongitude: 14.505821
+    maxlatitude: 35.84371
+    latitude: 35.833332
+    longitude: 14.485
+- name: Xewkija
+  names:
+  - Xewkija
+  code: "62"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 36.03301
+    longitude: 14.26234
+- name: Marsa
+  names:
+  - Marsa
+  code: "26"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.482788
+    minlatitude: 35.86408
+    maxlongitude: 14.50177
+    maxlatitude: 35.88744
+    latitude: 35.88333
+    longitude: 14.494722
+- name: Marsaskala
+  names:
+  - Marsaskala
+  code: "27"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.54383
+    minlatitude: 35.845295
+    maxlongitude: 14.5755005
+    maxlatitude: 35.87756
+    latitude: 35.8625
+    longitude: 14.5675
+- name: Qala
+  names:
+  - Qala
+  code: "42"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.29527
+    minlatitude: 36.02573
+    maxlongitude: 14.336348
+    maxlatitude: 36.050236
+    latitude: 36.03528
+    longitude: 14.310278
+- name: Rabat Malta
+  names:
+  - Rabat Malta
+  code: "46"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.328031
+    minlatitude: 35.861538
+    maxlongitude: 14.41697
+    maxlatitude: 35.910152
+    latitude: 35.881668
+    longitude: 14.398889
+- name: Floriana
+  names:
+  - Floriana
+  code: "09"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4969015
+    minlatitude: 35.884846
+    maxlongitude: 14.512725
+    maxlatitude: 35.89902
+    latitude: 35.893333
+    longitude: 14.505833
+- name: Iklin
+  names:
+  - Iklin
+  code: "19"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.447429
+    minlatitude: 35.902225
+    maxlongitude: 14.463522
+    maxlatitude: 35.916756
+    latitude: 35.904167
+    longitude: 14.454444
+- name: Mellieħa
+  names:
+  - Mellieħa
+  code: "30"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.319022
+    minlatitude: 35.93063
+    maxlongitude: 14.397571
+    maxlatitude: 35.998123
+    latitude: 35.95639
+    longitude: 14.366389
+- name: Żebbuġ Gozo
+  names:
+  - Żebbuġ Gozo
+  - Żebbuġ Għawdex
+  code: "65"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.226372
+    minlatitude: 36.049057
+    maxlongitude: 14.266588
+    maxlatitude: 36.082222
+    latitude: 36.07083
+    longitude: 14.236944
+- name: Xgħajra
+  names:
+  - Xgħajra
+  code: "63"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.534766
+    minlatitude: 35.87913
+    maxlongitude: 14.557161
+    maxlatitude: 35.889923
+    latitude: 35.88683
+    longitude: 14.547239
+- name: Gudja
+  names:
+  - Gudja
+  code: "11"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.497547
+    minlatitude: 35.840027
+    maxlongitude: 14.508749
+    maxlatitude: 35.852715
+    latitude: 35.84833
+    longitude: 14.5025
+- name: Għasri
+  names:
+  - Għasri
+  code: "16"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.209142
+    minlatitude: 36.050106
+    maxlongitude: 14.238281
+    maxlatitude: 36.081673
+    latitude: 36.058334
+    longitude: 14.227778
+- name: Naxxar
+  names:
+  - Naxxar
+  code: "38"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.418955
+    minlatitude: 35.90468
+    maxlongitude: 14.463963
+    maxlatitude: 35.954857
+    latitude: 35.915
+    longitude: 14.444722
+- name: Siġġiewi
+  names:
+  - Siġġiewi
+  code: "55"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.389665
+    minlatitude: 35.826046
+    maxlongitude: 14.472556
+    maxlatitude: 35.868603
+    latitude: 35.854168
+    longitude: 14.438333
+- name: Tarxien
+  names:
+  - Tarxien
+  code: "59"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.50543
+    minlatitude: 35.86159
+    maxlongitude: 14.52041
+    maxlatitude: 35.873756
+    latitude: 35.865833
+    longitude: 14.511944
+- name: Żebbuġ Malta
+  names:
+  - Żebbuġ Malta
+  code: "66"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.411927
+    minlatitude: 35.860386
+    maxlongitude: 14.466591
+    maxlatitude: 35.886147
+    latitude: 35.873055
+    longitude: 14.441944
+- name: Attard
+  names:
+  - Attard
+  code: "01"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4089985
+    minlatitude: 35.88114
+    maxlongitude: 14.458104
+    maxlatitude: 35.90198
+    latitude: 35.892776
+    longitude: 14.438333
+- name: Nadur
+  names:
+  - Nadur
+  code: "37"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.277248
+    minlatitude: 36.033466
+    maxlongitude: 14.322835
+    maxlatitude: 36.06571
+    latitude: 36.038055
+    longitude: 14.295
+- name: Qormi
+  names:
+  - Qormi
+  code: "43"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.450884
+    minlatitude: 35.862606
+    maxlongitude: 14.4852915
+    maxlatitude: 35.89071
+    latitude: 35.879444
+    longitude: 14.472222
+- name: Saint Lawrence
+  names:
+  - Saint Lawrence
+  - San Lawrenz
+  code: "50"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.186115
+    minlatitude: 36.032986
+    maxlongitude: 14.210087
+    maxlatitude: 36.06293
+    latitude: 36.055
+    longitude: 14.204167
+- name: Pietà
+  names:
+  - Pietà
+  code: "41"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.489947
+    minlatitude: 35.888565
+    maxlongitude: 14.498536
+    maxlatitude: 35.89655
+    latitude: 35.893055
+    longitude: 14.493611
+- name: Valletta
+  names:
+  - Valletta
+  code: "60"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.505552
+    minlatitude: 35.8933
+    maxlongitude: 14.520772
+    maxlatitude: 35.903564
+    latitude: 35.898907
+    longitude: 14.514553
+- name: Żabbar
+  names:
+  - Żabbar
+  code: "64"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.526736
+    minlatitude: 35.863907
+    maxlongitude: 14.564141
+    maxlatitude: 35.88489
+    latitude: 35.87722
+    longitude: 14.538056
+- name: Fontana
+  names:
+  - Fontana
+  code: "10"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.232116
+    minlatitude: 36.032024
+    maxlongitude: 14.2396145
+    maxlatitude: 36.04157
+    latitude: 36.036907
+    longitude: 14.235234
+- name: Għaxaq
+  names:
+  - Għaxaq
+  code: "17"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.502254
+    minlatitude: 35.831547
+    maxlongitude: 14.527134
+    maxlatitude: 35.862076
+    latitude: 35.84833
+    longitude: 14.517222
+- name: Kalkara
+  names:
+  - Kalkara
+  code: "21"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.522884
+    minlatitude: 35.883705
+    maxlongitude: 14.546489
+    maxlatitude: 35.898922
+    latitude: 35.889168
+    longitude: 14.529444
+- name: Pembroke
+  names:
+  - Pembroke
+  code: "40"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.462256
+    minlatitude: 35.92315
+    maxlongitude: 14.490484
+    maxlatitude: 35.937458
+    latitude: 35.926388
+    longitude: 14.480833
+- name: Ħamrun
+  names:
+  - Ħamrun
+  code: "18"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.479701
+    minlatitude: 35.881218
+    maxlongitude: 14.500429
+    maxlatitude: 35.89243
+    latitude: 35.886112
+    longitude: 14.489444
+- name: Sannat
+  names:
+  - Sannat
+  code: "52"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.231313
+    minlatitude: 36.011467
+    maxlongitude: 14.272984
+    maxlatitude: 36.030487
+    latitude: 36.024445
+    longitude: 14.245833
+- name: Xagħra
+  names:
+  - Xagħra
+  code: "61"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.249742
+    minlatitude: 36.037987
+    maxlongitude: 14.284738
+    maxlatitude: 36.073296
+    latitude: 36.050278
+    longitude: 14.2675
+- name: Mdina
+  names:
+  - Mdina
+  code: "29"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.397475
+    minlatitude: 35.882893
+    maxlongitude: 14.41506
+    maxlatitude: 35.891678
+    latitude: 35.885834
+    longitude: 14.403056
+- name: Mqabba
+  names:
+  - Mqabba
+  code: "33"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.450562
+    minlatitude: 35.83876
+    maxlongitude: 14.481912
+    maxlatitude: 35.852657
+    latitude: 35.844166
+    longitude: 14.466944
+- name: Żejtun
+  names:
+  - Żejtun
+  code: "67"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.515101
+    minlatitude: 35.845768
+    maxlongitude: 14.552703
+    maxlatitude: 35.86994
+    latitude: 35.855556
+    longitude: 14.533333
+- name: Żurrieq
+  names:
+  - Żurrieq
+  code: "68"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.457575
+    minlatitude: 35.8127
+    maxlongitude: 14.514489
+    maxlatitude: 35.840466
+    latitude: 35.829166
+    longitude: 14.475833
+- name: Birgu
+  names:
+  - Birgu
+  code: "03"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.516759
+    minlatitude: 35.885468
+    maxlongitude: 14.525573
+    maxlatitude: 35.893024
+    latitude: 35.888058
+    longitude: 14.5225
+- name: Luqa
+  names:
+  - Luqa
+  code: "25"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4576
+    minlatitude: 35.82801
+    maxlongitude: 14.513969
+    maxlatitude: 35.875473
+    latitude: 35.859722
+    longitude: 14.489167
+- name: Ta' Xbiex
+  names:
+  - Ta' Xbiex
+  code: "58"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.490709
+    minlatitude: 35.897106
+    maxlongitude: 14.500629
+    maxlatitude: 35.90188
+    latitude: 35.899166
+    longitude: 14.498056
+- name: Paola
+  names:
+  - Paola
+  code: "39"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.495313
+    minlatitude: 35.862553
+    maxlongitude: 14.515798
+    maxlatitude: 35.886246
+    latitude: 35.87278
+    longitude: 14.5075
+- name: Sliema
+  names:
+  - Sliema
+  code: "56"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.492994
+    minlatitude: 35.905346
+    maxlongitude: 14.514777
+    maxlatitude: 35.9183
+    latitude: 35.912224
+    longitude: 14.504167
+- name: Dingli
+  names:
+  - Dingli
+  code: "07"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.359864
+    minlatitude: 35.845932
+    maxlongitude: 14.398076
+    maxlatitude: 35.87264
+    latitude: 35.86028
+    longitude: 14.381389
+- name: Kerċem
+  names:
+  - Kerċem
+  code: "22"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.194201
+    minlatitude: 36.030674
+    maxlongitude: 14.233273
+    maxlatitude: 36.05624
+    latitude: 36.040558
+    longitude: 14.229722
+- name: Marsaxlokk
+  names:
+  - Marsaxlokk
+  code: "28"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.526355
+    minlatitude: 35.819317
+    maxlongitude: 14.572438
+    maxlatitude: 35.84777
+    latitude: 35.841667
+    longitude: 14.544722
+- name: Mtarfa
+  names:
+  - Mtarfa
+  code: "35"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.390394
+    minlatitude: 35.883778
+    maxlongitude: 14.404589
+    maxlatitude: 35.89597
+    latitude: 35.890835
+    longitude: 14.396944
+- name: Balzan
+  names:
+  - Balzan
+  code: "02"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.446206
+    minlatitude: 35.892803
+    maxlongitude: 14.457375
+    maxlatitude: 35.90193
+    latitude: 35.898056
+    longitude: 14.453333
+- name: Isla
+  names:
+  - Isla
+  code: "20"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.513633
+    minlatitude: 35.88467
+    maxlongitude: 14.520188
+    maxlatitude: 35.89107
+    latitude: 35.88778
+    longitude: 14.516944
+- name: Għargħur
+  names:
+  - Għargħur
+  code: "15"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.447783
+    minlatitude: 35.91242
+    maxlongitude: 14.465679
+    maxlatitude: 35.93295
+    latitude: 35.92407
+    longitude: 14.453372
+- name: Lija
+  names:
+  - Lija
+  code: "24"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.434018
+    minlatitude: 35.89662
+    maxlongitude: 14.452435
+    maxlatitude: 35.90564
+    latitude: 35.90139
+    longitude: 14.447222
+- name: Għajnsielem
+  names:
+  - Għajnsielem
+  code: "13"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.269856
+    minlatitude: 36.003845
+    maxlongitude: 14.350889
+    maxlatitude: 36.034523
+    latitude: 36.026943
+    longitude: 14.290278
+- name: Msida
+  names:
+  - Msida
+  code: "34"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.473511
+    minlatitude: 35.8911
+    maxlongitude: 14.493977
+    maxlatitude: 35.904526
+    latitude: 35.897778
+    longitude: 14.489444
+- name: Saint Paul's Bay
+  names:
+  - Saint Paul's Bay
+  - San Pawl il-Baħar
+  code: "51"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.368401
+    minlatitude: 35.910404
+    maxlongitude: 14.42627
+    maxlatitude: 35.95977
+    latitude: 35.948334
+    longitude: 14.401667
+- name: Swieqi
+  names:
+  - Swieqi
+  code: "57"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.454918
+    minlatitude: 35.912632
+    maxlongitude: 14.487029
+    maxlatitude: 35.93363
+    latitude: 35.920834
+    longitude: 14.48
+- name: Kirkop
+  names:
+  - Kirkop
+  code: "23"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 35.840855
+    longitude: 14.484347
+- name: Munxar
+  names:
+  - Munxar
+  code: "36"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.212084
+    minlatitude: 36.020287
+    maxlongitude: 14.2376995
+    maxlatitude: 36.037693
+    latitude: 36.030277
+    longitude: 14.235278
+- name: Rabat Gozo
+  names:
+  - Rabat Gozo
+  - Rabat Għawdex
+  code: "45"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.226867
+    minlatitude: 36.03356
+    maxlongitude: 14.253726
+    maxlatitude: 36.053097
+    latitude: 36.04361
+    longitude: 14.243056
+- name: Saint Julian's
+  names:
+  - Saint Julian's
+  - San Ġiljan
+  code: "48"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.48255
+    minlatitude: 35.909054
+    maxlongitude: 14.496691
+    maxlatitude: 35.930313
+    latitude: 35.91813
+    longitude: 14.488344
+- name: Birkirkara
+  names:
+  - Birkirkara
+  code: "04"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.452321
+    minlatitude: 35.886833
+    maxlongitude: 14.478339
+    maxlatitude: 35.904602
+    latitude: 35.896667
+    longitude: 14.4625
+- name: Fgura
+  names:
+  - Fgura
+  code: "08"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.511512
+    minlatitude: 35.866776
+    maxlongitude: 14.530918
+    maxlatitude: 35.87884
+    latitude: 35.8725
+    longitude: 14.522778
+- name: Gżira
+  names:
+  - Gżira
+  code: "12"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.487276
+    minlatitude: 35.900463
+    maxlongitude: 14.507729
+    maxlatitude: 35.90977
+    latitude: 35.905895
+    longitude: 14.495334
+- name: Għarb
+  names:
+  - Għarb
+  code: "14"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.188927
+    minlatitude: 36.054523
+    maxlongitude: 14.218646
+    maxlatitude: 36.079712
+    latitude: 36.06111
+    longitude: 14.209167
+- name: Saint John
+  names:
+  - Saint John
+  - San Ġwann
+  code: "49"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.500506
+    minlatitude: 35.91475
+    maxlongitude: 14.501465
+    maxlatitude: 35.916832
+    latitude: 35.915524
+    longitude: 14.500861
+- name: Saint Lucia's
+  names:
+  - Saint Lucia's
+  - Santa Luċija
+  code: "53"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.510846
+    minlatitude: 35.89653
+    maxlongitude: 14.51426
+    maxlatitude: 35.90024
+    latitude: 35.89826
+    longitude: 14.51261
+- name: Mġarr
+  names:
+  - Mġarr
+  code: "31"
+  countryalpha2: MT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.332427
+    minlatitude: 35.896976
+    maxlongitude: 14.40166
+    maxlatitude: 35.940613
+    latitude: 35.919724
+    longitude: 14.366389

@@ -1,0 +1,195 @@
+- name: Tiris Zemmour
+  names:
+  - Tiris Zammur
+  - Tiris Zammūr
+  - Tiris Zemmour
+  code: "11"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.139648
+    minlatitude: 21.151442
+    maxlongitude: -4.827674
+    maxlatitude: 27.298073
+    latitude: 24.577377
+    longitude: -9.9018135
+- name: Hodh ech Chargui
+  names:
+  - Hud-ash-Sharqi
+  - Huđ-aš-Šarqi
+  - Hodh ech Chargui
+  code: "01"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.16013
+    minlatitude: 15.494075
+    maxlongitude: -5.327115
+    maxlatitude: 23.06247
+    latitude: 18.673702
+    longitude: -7.092877
+- name: Hodh el Gharbi
+  names:
+  - Hud-al-Garbi
+  - Huđ-al-Ġarbi
+  - Hodh el Gharbi
+  code: "02"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -11.087025
+    minlatitude: 15.356557
+    maxlongitude: -8.280334
+    maxlatitude: 17.681595
+    latitude: 16.691216
+    longitude: -9.545097
+- name: Assaba
+  names:
+  - aş-Şabah
+  - Açaba
+  code: "03"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.878715
+    minlatitude: 15.103618
+    maxlongitude: -10.596743
+    maxlatitude: 18.297222
+    latitude: 16.775955
+    longitude: -11.524805
+- name: Brakna
+  names:
+  - Brakna
+  code: "05"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.874167
+    minlatitude: 16.1071
+    maxlongitude: -12.306854
+    maxlatitude: 18.567635
+    latitude: 17.231756
+    longitude: -13.174035
+- name: Trarza
+  names:
+  - Trarza
+  code: "06"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.515236
+    minlatitude: 16.062185
+    maxlongitude: -12.711503
+    maxlatitude: 18.996881
+    latitude: 17.866497
+    longitude: -14.658782
+- name: Tagant
+  names:
+  - Tagant
+  code: "09"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.711503
+    minlatitude: 17.059023
+    maxlongitude: -7.8348293
+    maxlatitude: 19.909481
+    latitude: 18.546753
+    longitude: -9.9018135
+- name: Guidimaka
+  names:
+  - Guidimaka
+  code: "10"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.755348
+    minlatitude: 14.715546
+    maxlongitude: -11.596648
+    maxlatitude: 16.141872
+    latitude: 15.2557335
+    longitude: -12.254792
+- name: Gorgol
+  names:
+  - Gorgol
+  code: "04"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.707586
+    minlatitude: 15.129403
+    maxlongitude: -11.962182
+    maxlatitude: 16.666546
+    latitude: 15.971736
+    longitude: -12.621621
+- name: Adrar
+  names:
+  - Adrar
+  code: "07"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.287234
+    minlatitude: 18.567635
+    maxlongitude: -6.343229
+    maxlatitude: 24.031698
+    latitude: 19.865217
+    longitude: -12.805475
+- name: Dakhlet Nouâdhibou
+  names:
+  - Dakhlat Nawadibu
+  - Đaẖlat Nawadību
+  - Dakhlet Nouadhibou
+  code: "08"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.06652
+    minlatitude: 19.27567
+    maxlongitude: -15.624716
+    maxlatitude: 21.339756
+    latitude: 20.598558
+    longitude: -16.252214
+- name: Inchiri
+  names:
+  - Inširi
+  - Inchiri
+  code: "12"
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.472452
+    minlatitude: 18.920576
+    maxlongitude: -14.148675
+    maxlatitude: 21.343054
+    latitude: 20.028055
+    longitude: -15.406808
+- name: Nouakchott
+  names:
+  - Anwāksūţ
+  - Nawakshut
+  - Nawākšūţ
+  - Nouakchott
+  code: NKC
+  countryalpha2: MR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.026768
+    minlatitude: 17.972855
+    maxlongitude: -15.880354
+    maxlatitude: 18.161486
+    latitude: 18.1
+    longitude: -15.95

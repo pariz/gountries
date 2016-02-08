@@ -1,0 +1,79 @@
+name:
+  common: Fiji
+  official: Republic of Fiji
+  native:
+    eng:
+      common: Fiji
+      official: Republic of Fiji
+    fij:
+      common: Viti
+      official: Matanitu Tugalala o Viti
+    hif:
+      common: फिजी
+      official: रिपब्लिक ऑफ फीजी
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .fj
+languages:
+  eng: English
+  fij: Fijian
+  hif: Fiji Hindi
+translations:
+  deu:
+    common: Fidschi
+    official: Republik Fidschi
+  fin:
+    common: Fidži
+    official: Fidžin tasavalta
+  fra:
+    common: Fidji
+    official: République des Fidji
+  hrv:
+    common: Fiđi
+    official: Republika Fidži
+  ita:
+    common: Figi
+    official: Repubblica di Figi
+  jpn:
+    common: フィジー
+    official: フィジー共和国
+  nld:
+    common: Fiji
+    official: Republiek Fiji
+  por:
+    common: Fiji
+    official: República de Fiji
+  rus:
+    common: Фиджи
+    official: Республика Фиджи
+  spa:
+    common: Fiyi
+    official: República de Fiji
+currencies:
+- FJD
+borders: []
+codes:
+  alpha2: FJ
+  alpha3: FJI
+  cioc: FIJ
+  ccn3: "242"
+  callingcodes:
+  - "679"
+  internationalprefix: "00"
+geo:
+  region: Oceania
+  subregion: Melanesia
+  continent: Australia
+  capital: Suva
+  area: 18272
+coordinates:
+  longitudestring: 175 00 E
+  latitudestring: 18 00 S
+  minlongitude: 180
+  minlatitude: -21.016666
+  maxlongitude: -179.98334
+  maxlatitude: -12.466667
+  latitude: -17.658161
+  longitude: 178.14726

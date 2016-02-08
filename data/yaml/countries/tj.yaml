@@ -1,0 +1,79 @@
+name:
+  common: Tajikistan
+  official: Republic of Tajikistan
+  native:
+    rus:
+      common: Таджикистан
+      official: Республика Таджикистан
+    tgk:
+      common: Тоҷикистон
+      official: Ҷумҳурии Тоҷикистон
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .tj
+languages:
+  rus: Russian
+  tgk: Tajik
+translations:
+  deu:
+    common: Tadschikistan
+    official: Republik Tadschikistan
+  fin:
+    common: Tadžikistan
+    official: Tadžikistanin tasavalta
+  fra:
+    common: Tadjikistan
+    official: République du Tadjikistan
+  hrv:
+    common: Tađikistan
+    official: Republika Tadžikistan
+  ita:
+    common: Tagikistan
+    official: Repubblica del Tajikistan
+  jpn:
+    common: タジキスタン
+    official: タジキスタン共和国
+  nld:
+    common: Tadzjikistan
+    official: Tadzjikistan
+  por:
+    common: Tajiquistão
+    official: República do Tajiquistão
+  rus:
+    common: Таджикистан
+    official: Республика Таджикистан
+  spa:
+    common: Tayikistán
+    official: República de Tayikistán
+currencies:
+- TJS
+borders:
+- AFG
+- CHN
+- KGZ
+- UZB
+codes:
+  alpha2: TJ
+  alpha3: TJK
+  cioc: TJK
+  ccn3: "762"
+  callingcodes:
+  - "992"
+  internationalprefix: "810"
+geo:
+  region: Asia
+  subregion: Central Asia
+  continent: Asia
+  capital: Dushanbe
+  area: 143100
+coordinates:
+  longitudestring: 71 00 E
+  latitudestring: 39 00 N
+  minlongitude: 67.416664
+  minlatitude: 36.716667
+  maxlongitude: 75
+  maxlatitude: 40.9
+  latitude: 38.879765
+  longitude: 70.89906

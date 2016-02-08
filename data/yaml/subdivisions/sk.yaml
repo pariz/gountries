@@ -1,0 +1,112 @@
+- name: Trnavský kraj
+  names:
+  - Trnavský kraj
+  code: TA
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.933916
+    minlatitude: 47.75745
+    maxlongitude: 17.98545
+    maxlatitude: 48.87821
+    latitude: 48.39439
+    longitude: 17.72162
+- name: Trenciansky kraj
+  names:
+  - Trenciansky kraj
+  code: TC
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.354198
+    minlatitude: 48.485523
+    maxlongitude: 18.826843
+    maxlatitude: 49.31953
+    latitude: 48.808678
+    longitude: 18.232403
+- name: Žilinský kraj
+  names:
+  - Žilinský kraj
+  code: ZI
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.322662
+    minlatitude: 48.741264
+    maxlongitude: 20.060076
+    maxlatitude: 49.613815
+    latitude: 49.203144
+    longitude: 19.364573
+- name: Banskobystrický kraj
+  names:
+  - Banskobystrický kraj
+  code: BC
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.478695
+    minlatitude: 48.053654
+    maxlongitude: 20.469994
+    maxlatitude: 48.946957
+    latitude: 48.53125
+    longitude: 19.382874
+- name: Bratislavský kraj
+  names:
+  - Bratislavský kraj
+  code: BL
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.833181
+    minlatitude: 48.006687
+    maxlongitude: 17.522104
+    maxlatitude: 48.654396
+    latitude: 48.31183
+    longitude: 17.19733
+- name: Košický kraj
+  names:
+  - Košický kraj
+  code: KI
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.181139
+    minlatitude: 48.332516
+    maxlongitude: 22.387726
+    maxlatitude: 49.019753
+    latitude: 48.637573
+    longitude: 21.083422
+- name: Nitriansky kraj
+  names:
+  - Nitriansky kraj
+  code: NI
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.707273
+    minlatitude: 47.731377
+    maxlongitude: 19.072407
+    maxlatitude: 48.714523
+    latitude: 48.014378
+    longitude: 18.54165
+- name: Prešovský kraj
+  names:
+  - Prešovský kraj
+  code: PV
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.869034
+    minlatitude: 48.762623
+    maxlongitude: 22.56586
+    maxlatitude: 49.460823
+    latitude: 49.171677
+    longitude: 21.3742

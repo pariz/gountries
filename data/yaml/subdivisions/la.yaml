@@ -1,0 +1,270 @@
+- name: Bolikhamxai [Borikhane]
+  names:
+  - Bolikhamsai
+  - Bolikhamxai
+  - Borikhamxai
+  code: BL
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.80613
+    minlatitude: 17.872992
+    maxlongitude: 105.26368
+    maxlatitude: 19.12321
+    latitude: 18.436293
+    longitude: 104.47233
+- name: Louangphabang [Louang Prabang]
+  names:
+  - Louang Phrabang
+  - Louang Prabang
+  - Louangphrabang
+  - Luang Phrabang
+  code: LP
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.11826
+    minlatitude: 19.865135
+    maxlongitude: 102.17285
+    maxlatitude: 19.906137
+    latitude: 19.883396
+    longitude: 102.13469
+- name: Vientiane Prefecture
+  names:
+  - Viangchan City
+  - Vientiane City
+  code: VT
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.038536
+    minlatitude: 17.804958
+    maxlongitude: 103.10107
+    maxlatitude: 18.43515
+    latitude: 18.11054
+    longitude: 102.5298
+- name: Xaignabouli [Sayaboury]
+  names:
+  - Sayaboury
+  - Sayabury
+  - Xaignaboury
+  code: XA
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.4118
+    minlatitude: 17.466822
+    maxlongitude: 101.89702
+    maxlatitude: 19.930216
+    latitude: 19.390789
+    longitude: 101.5248
+- name: Attapu [Attopeu]
+  names:
+  - Attapu
+  - Attopei
+  - Attopeu
+  code: AT
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.806854
+    minlatitude: 14.803413
+    maxlongitude: 106.838524
+    maxlatitude: 14.831626
+    latitude: 14.819369
+    longitude: 106.820786
+- name: Xékong [Sékong]
+  names:
+  - Xékong
+  code: XE
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.69492
+    minlatitude: 15.329966
+    maxlongitude: 106.755005
+    maxlatitude: 15.370853
+    latitude: 15.344444
+    longitude: 106.7175
+- name: Xaisômboun
+  names:
+  - Xaisômboun
+  code: XN
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bokèo
+  names:
+  - Bokèo
+  code: BK
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.093056
+    minlatitude: 19.774242
+    maxlongitude: 101.25178
+    maxlatitude: 20.838158
+    latitude: 20.287266
+    longitude: 100.709785
+- name: Khammouan
+  names:
+  - Khammouan
+  code: KH
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.2752
+    minlatitude: 16.900942
+    maxlongitude: 106.42782
+    maxlatitude: 18.26511
+    latitude: 17.638407
+    longitude: 105.21948
+- name: Xiangkhoang [Xieng Khouang]
+  names:
+  - Xiang Khouang
+  - Xiangkhouang
+  - Xiangkhuang
+  - Xieng Khouang
+  code: XI
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.66191
+    minlatitude: 18.813513
+    maxlongitude: 104.27934
+    maxlatitude: 20.040052
+    latitude: 19.6093
+    longitude: 103.72892
+- name: Phôngsali [Phong Saly]
+  names:
+  - Phongsali
+  code: PH
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.087494
+    minlatitude: 21.666363
+    maxlongitude: 102.12564
+    maxlatitude: 21.699621
+    latitude: 21.683332
+    longitude: 102.1
+- name: Salavan [Saravane]
+  names:
+  - Saravane
+  code: SL
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.3934
+    minlatitude: 15.704192
+    maxlongitude: 106.430504
+    maxlatitude: 15.725096
+    latitude: 15.716667
+    longitude: 106.416664
+- name: Savannakhét
+  names:
+  - Savannakhét
+  code: SV
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.74026
+    minlatitude: 16.507244
+    maxlongitude: 104.79588
+    maxlatitude: 16.626652
+    latitude: 16.572247
+    longitude: 104.77055
+- name: Vientiane
+  names:
+  - Vientiane Province
+  code: VI
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.53411
+    minlatitude: 17.884766
+    maxlongitude: 102.67742
+    maxlatitude: 18.03183
+    latitude: 17.966667
+    longitude: 102.6
+- name: Champasak [Champassak]
+  names:
+  - Champasack
+  - Champassak
+  code: CH
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.84065
+    minlatitude: 14.88117
+    maxlongitude: 105.89138
+    maxlatitude: 14.931185
+    latitude: 14.903036
+    longitude: 105.86426
+- name: Houaphan
+  names:
+  - Houaphan
+  code: HO
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.10595
+    minlatitude: 19.617208
+    maxlongitude: 104.99182
+    maxlatitude: 20.981848
+    latitude: 20.325417
+    longitude: 104.100136
+- name: Louang Namtha
+  names:
+  - Louang Namtha
+  - Louangnamtha
+  - Luang Namtha
+  - Luong Nam Tha
+  code: LM
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.37454
+    minlatitude: 20.925047
+    maxlongitude: 101.444405
+    maxlatitude: 21.039726
+    latitude: 20.95
+    longitude: 101.4
+- name: Oudômxai [Oudomsai]
+  names:
+  - Oudomsai
+  - Oudomsay
+  code: OU
+  countryalpha2: LA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.723946
+    minlatitude: 19.817
+    maxlongitude: 102.35669
+    maxlatitude: 21.212759
+    latitude: 20.492193
+    longitude: 101.889175

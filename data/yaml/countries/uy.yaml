@@ -1,0 +1,74 @@
+name:
+  common: Uruguay
+  official: Oriental Republic of Uruguay
+  native:
+    spa:
+      common: Uruguay
+      official: República Oriental del Uruguay
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .uy
+languages:
+  spa: Spanish
+translations:
+  deu:
+    common: Uruguay
+    official: Republik Östlich des Uruguay
+  fin:
+    common: Uruguay
+    official: Uruguayn itäinen tasavalta
+  fra:
+    common: Uruguay
+    official: République orientale de l'Uruguay
+  hrv:
+    common: Urugvaj
+    official: Orijentalna Republika Urugvaj
+  ita:
+    common: Uruguay
+    official: Repubblica Orientale dell'Uruguay
+  jpn:
+    common: ウルグアイ
+    official: ウルグアイ東方共和国
+  nld:
+    common: Uruguay
+    official: Oosterse Republiek Uruguay
+  por:
+    common: Uruguai
+    official: República Oriental do Uruguai
+  rus:
+    common: Уругвай
+    official: Восточной Республики Уругвай
+  spa:
+    common: Uruguay
+    official: República Oriental del Uruguay
+currencies:
+- UYI
+- UYU
+borders:
+- ARG
+- BRA
+codes:
+  alpha2: UY
+  alpha3: URY
+  cioc: URU
+  ccn3: "858"
+  callingcodes:
+  - "598"
+  internationalprefix: "00"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Montevideo
+  area: 181034
+coordinates:
+  longitudestring: 56 00 W
+  latitudestring: 33 00 S
+  minlongitude: -58.5
+  minlatitude: -35.033333
+  maxlongitude: -53.266666
+  maxlatitude: -30.183332
+  latitude: -32.969654
+  longitude: -56.05591

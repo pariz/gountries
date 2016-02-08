@@ -1,0 +1,71 @@
+name:
+  common: Mayotte
+  official: Department of Mayotte
+  native:
+    fra:
+      common: Mayotte
+      official: Département de Mayotte
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .yt
+languages:
+  fra: French
+translations:
+  deu:
+    common: Mayotte
+    official: Übersee-Département Mayotte
+  fin:
+    common: Mayotte
+    official: Mayotte
+  fra:
+    common: Mayotte
+    official: Département de Mayotte
+  hrv:
+    common: Mayotte
+    official: Odjel Mayotte
+  ita:
+    common: Mayotte
+    official: Dipartimento di Mayotte
+  jpn:
+    common: マヨット
+    official: マヨット科
+  nld:
+    common: Mayotte
+    official: Afdeling Mayotte
+  por:
+    common: Mayotte
+    official: Departamento de Mayotte
+  rus:
+    common: Майотта
+    official: Департамент Майотта
+  spa:
+    common: Mayotte
+    official: Departamento de Mayotte
+currencies:
+- EUR
+borders: []
+codes:
+  alpha2: YT
+  alpha3: MYT
+  cioc: ""
+  ccn3: "175"
+  callingcodes:
+  - "262"
+  internationalprefix: "00"
+geo:
+  region: Africa
+  subregion: Eastern Africa
+  continent: Africa
+  capital: Mamoudzou
+  area: 374
+coordinates:
+  longitudestring: 45 10 E
+  latitudestring: 12 50 S
+  minlongitude: 45.024445
+  minlatitude: -12.993889
+  maxlongitude: 45.288612
+  maxlatitude: -12.641389
+  latitude: -12.79636
+  longitude: 45.142273

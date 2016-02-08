@@ -1,0 +1,71 @@
+name:
+  common: Heard Island and McDonald Islands
+  official: Heard Island and McDonald Islands
+  native:
+    eng:
+      common: Heard Island and McDonald Islands
+      official: Heard Island and McDonald Islands
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .hm
+- .aq
+languages:
+  eng: English
+translations:
+  deu:
+    common: Heard und die McDonaldinseln
+    official: Heard und McDonaldinseln
+  fin:
+    common: Heard ja McDonaldinsaaret
+    official: Heard ja McDonaldinsaaret
+  fra:
+    common: Îles Heard-et-MacDonald
+    official: Des îles Heard et McDonald
+  hrv:
+    common: Otok Heard i otočje McDonald
+    official: Otok Heard i otočje McDonald
+  ita:
+    common: Isole Heard e McDonald
+    official: Isole Heard e McDonald
+  jpn:
+    common: ハード島とマクドナルド諸島
+    official: ハード島とマクドナルド諸島
+  nld:
+    common: Heard-en McDonaldeilanden
+    official: Heard en McDonaldeilanden
+  por:
+    common: Ilha Heard e Ilhas McDonald
+    official: Ilha Heard e Ilhas McDonald
+  rus:
+    common: Остров Херд и острова Макдональд
+    official: Остров Херд и острова Макдональд
+  spa:
+    common: Islas Heard y McDonald
+    official: Islas Heard y McDonald
+currencies:
+- AUD
+borders: []
+codes:
+  alpha2: HM
+  alpha3: HMD
+  cioc: ""
+  ccn3: "334"
+  callingcodes: []
+  internationalprefix: ""
+geo:
+  region: ""
+  subregion: ""
+  continent: Antarctica
+  capital: ""
+  area: 412
+coordinates:
+  longitudestring: 72 31 E
+  latitudestring: 53 06 S
+  minlongitude: 72.566666
+  minlatitude: -53.2
+  maxlongitude: 73.85
+  maxlatitude: -52.9
+  latitude: -53.08011
+  longitude: 73.56219

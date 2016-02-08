@@ -1,0 +1,240 @@
+- name: Świętokrzyskie
+  names:
+  - świętokrzyskie
+  - Świętokrzyskie
+  code: SK
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.704401
+    minlatitude: 50.18554
+    maxlongitude: 21.870306
+    maxlatitude: 51.342155
+    latitude: 50.626102
+    longitude: 20.940628
+- name: Dolnośląskie
+  names:
+  - dolnośląskie
+  - Dolnośląskie
+  code: DS
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.816831
+    minlatitude: 50.09634
+    maxlongitude: 17.798918
+    maxlatitude: 51.80476
+    latitude: 51.133987
+    longitude: 16.884195
+- name: Łódzkie
+  names:
+  - łódzkie
+  - Łódzkie
+  code: LD
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.075052
+    minlatitude: 50.843033
+    maxlongitude: 20.659191
+    maxlatitude: 52.394054
+    latitude: 51.463478
+    longitude: 19.172697
+- name: Małopolskie
+  names:
+  - małopolskie
+  - Małopolskie
+  code: MA
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.083193
+    minlatitude: 49.178577
+    maxlongitude: 21.421383
+    maxlatitude: 50.520042
+    latitude: 49.72253
+    longitude: 20.250336
+- name: Opolskie
+  names:
+  - opolskie
+  - Opolskie
+  code: OP
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.908726
+    minlatitude: 49.972527
+    maxlongitude: 18.695786
+    maxlatitude: 51.19451
+    latitude: 50.800377
+    longitude: 17.937988
+- name: Pomorskie
+  names:
+  - pomorskie
+  - Pomorskie
+  code: PM
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.69913
+    minlatitude: 53.490673
+    maxlongitude: 19.64937
+    maxlatitude: 54.83573
+    latitude: 54.294426
+    longitude: 18.153116
+- name: Mazowieckie
+  names:
+  - mazowieckie
+  - Mazowieckie
+  code: MZ
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.259256
+    minlatitude: 51.013206
+    maxlongitude: 23.12832
+    maxlatitude: 53.48189
+    latitude: 51.89272
+    longitude: 21.002169
+- name: Podlaskie
+  names:
+  - podlaskie
+  - Podlaskie
+  code: PD
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.594244
+    minlatitude: 52.280052
+    maxlongitude: 23.94627
+    maxlatitude: 54.40989
+    latitude: 53.069717
+    longitude: 22.967464
+- name: Śląskie
+  names:
+  - śląskie
+  - Śląskie
+  code: SL
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.03475
+    minlatitude: 49.393974
+    maxlongitude: 19.973991
+    maxlatitude: 51.099358
+    latitude: 50.57166
+    longitude: 19.321978
+- name: Lubelskie
+  names:
+  - lubelskie
+  - Lubelskie
+  code: LU
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.617125
+    minlatitude: 50.251602
+    maxlongitude: 24.145893
+    maxlatitude: 52.28792
+    latitude: 51.24935
+    longitude: 23.10114
+- name: Podkarpackie
+  names:
+  - podkarpackie
+  - Podkarpackie
+  code: PK
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.142345
+    minlatitude: 49.002026
+    maxlongitude: 23.547642
+    maxlatitude: 50.818115
+    latitude: 50.057476
+    longitude: 22.08957
+- name: Kujawsko-pomorskie
+  names:
+  - kujawsko-pomorskie
+  - Kujawsko-pomorskie
+  code: KP
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.247267
+    minlatitude: 52.33079
+    maxlongitude: 19.761847
+    maxlatitude: 53.781
+    latitude: 53.164837
+    longitude: 18.483423
+- name: Lubuskie
+  names:
+  - lubuskie
+  - Lubuskie
+  code: LB
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.534127
+    minlatitude: 51.363136
+    maxlongitude: 16.416382
+    maxlatitude: 53.12396
+    latitude: 52.227463
+    longitude: 15.25591
+- name: Warmińsko-mazurskie
+  names:
+  - warmińsko-mazurskie
+  - Warmińsko-mazurskie
+  code: WN
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.128515
+    minlatitude: 53.139996
+    maxlongitude: 22.805872
+    maxlatitude: 54.45331
+    latitude: 53.86711
+    longitude: 20.702785
+- name: Wielkopolskie
+  names:
+  - wielkopolskie
+  - Wielkopolskie
+  code: WP
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.778965
+    minlatitude: 51.103786
+    maxlongitude: 19.10335
+    maxlatitude: 53.65592
+    latitude: 52.279987
+    longitude: 17.352293
+- name: Zachodniopomorskie
+  names:
+  - zachodniopomorskie
+  - Zachodniopomorskie
+  code: ZP
+  countryalpha2: PL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.122354
+    minlatitude: 52.62467
+    maxlongitude: 16.982208
+    maxlatitude: 54.56909
+    latitude: 53.46579
+    longitude: 15.182258
