@@ -59,7 +59,7 @@ go get github.com/pariz/countries
   // Find the bordering countries of Sweden //
   ////////////////////////////////////////////
 
-  sweden, _ := query.FindCountryByAlpha("swe")
+  sweden, _ := query.FindCountryByAlpha("SWE") // "swe" also works..
 
   // Get the bordering countries of sweden
   for _, country := range sweden.BorderingCountries() {
