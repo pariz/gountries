@@ -36,7 +36,7 @@ func ExampleBorderingCountries() {
 func ExampleTranslations() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
-	fmt.Println(se.Translations["deu"].Common)
+	fmt.Println(se.Translations["DEU"].Common)
 
 	// Output:
 	// Schweden
