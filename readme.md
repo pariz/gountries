@@ -42,8 +42,8 @@ go get github.com/pariz/gountries
   fmt.Println(sweden.Name.Common) // Output: Sweden
   fmt.Println(sweden.Name.Official) // Output: Konungariket Sverige
 
-  fmt.Println(sweden.Translations["deu"].Common) // Output: Schweden
-  fmt.Println(sweden.Translations["deu"].Official) // Output: Königreich Schweden
+  fmt.Println(sweden.Translations["DEU"].Common) // Output: Schweden
+  fmt.Println(sweden.Translations["DEU"].Official) // Output: Königreich Schweden
 
 
 ```
