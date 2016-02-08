@@ -13,34 +13,19 @@ tlds:
 languages:
   mon: Mongolian
 translations:
-  deu:
-    common: Mongolei
-    official: Mongolei
-  fin:
+  FIN:
     common: Mongolia
     official: Mongolian tasavalta
-  fra:
+  FRA:
     common: Mongolie
     official: Mongolie
-  hrv:
+  HRV:
     common: Mongolija
     official: Mongolija
-  ita:
-    common: Mongolia
-    official: Mongolia
-  jpn:
-    common: モンゴル
-    official: モンゴル
-  nld:
+  NLD:
     common: Mongolië
     official: Mongolië
-  por:
-    common: Mongólia
-    official: Mongólia
-  rus:
-    common: Монголия
-    official: Монголия
-  spa:
+  SPA:
     common: Mongolia
     official: Mongolia
 currencies:

@@ -1,17 +1,17 @@
-- name: Nana-Mambéré
+- name: Bangui
   names:
-  - Nana-Mambéré
-  code: NM
+  - Bangui
+  code: BGF
   countryalpha2: CF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.420097
-    minlatitude: 5.116158
-    maxlongitude: 16.503668
-    maxlatitude: 6.888406
-    latitude: 5.6932135
-    longitude: 15.2194805
+    minlongitude: 18.512392
+    minlatitude: 4.324091
+    maxlongitude: 18.642006
+    maxlatitude: 4.432354
+    latitude: 4.366667
+    longitude: 18.583332
 - name: Basse-Kotto
   names:
   - Basse-Kotto
@@ -26,34 +26,62 @@
     maxlatitude: 5.734375
     latitude: 4.871932
     longitude: 21.284502
-- name: Kémo
+- name: Lobaye
   names:
-  - Kémo Gribingui
-  code: KG
+  - Lobaye
+  code: LB
   countryalpha2: CF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 18.59267
-    minlatitude: 4.922177
-    maxlongitude: 19.997972
-    maxlatitude: 6.594858
-    latitude: 5.8867793
-    longitude: 19.37832
-- name: Haut-Mbomou
+    minlongitude: 16.665813
+    minlatitude: 3.471089
+    maxlongitude: 18.635096
+    maxlatitude: 5.106383
+    latitude: 4.352598
+    longitude: 17.479517
+- name: Nana-Mambéré
   names:
-  - Haut-Mʿbomou
-  code: HM
+  - Nana-Mambéré
+  code: NM
   countryalpha2: CF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.25503
-    minlatitude: 4.905525
-    maxlongitude: 27.46342
-    maxlatitude: 8.28228
-    latitude: 6.2537136
-    longitude: 25.473356
+    minlongitude: 14.420097
+    minlatitude: 5.116158
+    maxlongitude: 16.503668
+    maxlatitude: 6.888406
+    latitude: 5.6932135
+    longitude: 15.2194805
+- name: Ouham-Pendé
+  names:
+  - Ouham-Pendé
+  code: OP
+  countryalpha2: CF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.101514
+    minlatitude: 5.642713
+    maxlongitude: 17.090202
+    maxlatitude: 7.88019
+    latitude: 6.4850984
+    longitude: 16.158094
+- name: Ouaka
+  names:
+  - Ouaka
+  code: UK
+  countryalpha2: CF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.450571
+    minlatitude: 4.5449657
+    maxlongitude: 21.930511
+    maxlatitude: 7.7220397
+    latitude: 6.3168216
+    longitude: 20.712246
 - name: Mambéré-Kadéï
   names:
   - Haut-Sangha
@@ -68,20 +96,19 @@
     maxlatitude: 5.484882
     latitude: 4.7055655
     longitude: 15.969988
-- name: Nana-Grébizi
+- name: Kémo
   names:
-  - Gribingui
-  - Nana-Grébisi
-  code: KB
+  - Kémo Gribingui
+  code: KG
   countryalpha2: CF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 18.64814
-    minlatitude: 6.475724
-    maxlongitude: 20.144611
-    maxlatitude: 8.569668
-    latitude: 7.1848607
+    minlongitude: 18.59267
+    minlatitude: 4.922177
+    maxlongitude: 19.997972
+    maxlatitude: 6.594858
+    latitude: 5.8867793
     longitude: 19.37832
 - name: Mbomou
   names:
@@ -97,21 +124,6 @@
     maxlatitude: 6.768257
     latitude: 5.556837
     longitude: 23.763283
-- name: Ombella-Mpoko
-  names:
-  - Ombella-Mʿpoko
-  - Ombelle Mpoko
-  code: MP
-  countryalpha2: CF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.457024
-    minlatitude: 3.885441
-    maxlongitude: 19.112883
-    maxlatitude: 5.965332
-    latitude: 5.1188827
-    longitude: 18.427605
 - name: Vakaga
   names:
   - Vakaga
@@ -126,91 +138,20 @@
     maxlatitude: 11.007569
     latitude: 9.51133
     longitude: 22.238401
-- name: Bangui
+- name: Haut-Mbomou
   names:
-  - Bangui
-  code: BGF
+  - Haut-Mʿbomou
+  code: HM
   countryalpha2: CF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 18.512392
-    minlatitude: 4.324091
-    maxlongitude: 18.642006
-    maxlatitude: 4.432354
-    latitude: 4.366667
-    longitude: 18.583332
-- name: Haute-Kotto
-  names:
-  - Haute-Kotto
-  code: HK
-  countryalpha2: CF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.108126
-    minlatitude: 5.466806
-    maxlongitude: 24.612398
-    maxlatitude: 9.245301
-    latitude: 7.7964377
-    longitude: 23.382355
-- name: Lobaye
-  names:
-  - Lobaye
-  code: LB
-  countryalpha2: CF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.665813
-    minlatitude: 3.471089
-    maxlongitude: 18.635096
-    maxlatitude: 5.106383
-    latitude: 4.352598
-    longitude: 17.479517
-- name: Ouham-Pendé
-  names:
-  - Ouham-Pendé
-  code: OP
-  countryalpha2: CF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.101514
-    minlatitude: 5.642713
-    maxlongitude: 17.090202
-    maxlatitude: 7.88019
-    latitude: 6.4850984
-    longitude: 16.158094
-- name: Sangha-Mbaéré
-  names:
-  - Mbaeré
-  - Sangha
-  code: SE
-  countryalpha2: CF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.193566
-    minlatitude: 2.220514
-    maxlongitude: 17.394213
-    maxlatitude: 4.338223
-    latitude: 3.4368608
-    longitude: 16.346378
-- name: Ouaka
-  names:
-  - Ouaka
-  code: UK
-  countryalpha2: CF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.450571
-    minlatitude: 4.5449657
-    maxlongitude: 21.930511
-    maxlatitude: 7.7220397
-    latitude: 6.3168216
-    longitude: 20.712246
+    minlongitude: 24.25503
+    minlatitude: 4.905525
+    maxlongitude: 27.46342
+    maxlatitude: 8.28228
+    latitude: 6.2537136
+    longitude: 25.473356
 - name: Ouham
   names:
   - Ouham
@@ -239,3 +180,62 @@
     maxlatitude: 9.79447
     latitude: 8.273346
     longitude: 20.712246
+- name: Haute-Kotto
+  names:
+  - Haute-Kotto
+  code: HK
+  countryalpha2: CF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.108126
+    minlatitude: 5.466806
+    maxlongitude: 24.612398
+    maxlatitude: 9.245301
+    latitude: 7.7964377
+    longitude: 23.382355
+- name: Nana-Grébizi
+  names:
+  - Gribingui
+  - Nana-Grébisi
+  code: KB
+  countryalpha2: CF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.64814
+    minlatitude: 6.475724
+    maxlongitude: 20.144611
+    maxlatitude: 8.569668
+    latitude: 7.1848607
+    longitude: 19.37832
+- name: Ombella-Mpoko
+  names:
+  - Ombella-Mʿpoko
+  - Ombelle Mpoko
+  code: MP
+  countryalpha2: CF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.457024
+    minlatitude: 3.885441
+    maxlongitude: 19.112883
+    maxlatitude: 5.965332
+    latitude: 5.1188827
+    longitude: 18.427605
+- name: Sangha-Mbaéré
+  names:
+  - Mbaeré
+  - Sangha
+  code: SE
+  countryalpha2: CF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.193566
+    minlatitude: 2.220514
+    maxlongitude: 17.394213
+    maxlatitude: 4.338223
+    latitude: 3.4368608
+    longitude: 16.346378

@@ -1,87 +1,241 @@
-- name: Samut Sakhon
+- name: Si Sa Ket
   names:
-  - Samut Sakhon
-  code: "74"
+  - Si Sa Ket
+  code: "33"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 100.02693
-    minlatitude: 13.425041
-    maxlongitude: 100.42012
-    maxlatitude: 13.721126
-    latitude: 13.547522
-    longitude: 100.2744
-- name: Phangnga
+    minlongitude: 103.901955
+    minlatitude: 14.342235
+    maxlongitude: 104.90764
+    maxlatitude: 15.568369
+    latitude: 15.118601
+    longitude: 104.32201
+- name: Khon Kaen
   names:
-  - Phangnga
-  code: "82"
+  - Khon Kaen
+  code: "40"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 97.63155
-    minlatitude: 7.883198
-    maxlongitude: 98.70708
-    maxlatitude: 9.463429
-    latitude: 8.450141
-    longitude: 98.52553
-- name: Phuket
+    minlongitude: 101.75004
+    minlatitude: 15.633073
+    maxlongitude: 103.1846
+    maxlatitude: 17.094254
+    latitude: 16.441935
+    longitude: 102.83599
+- name: Phrae
   names:
-  - Phuket
-  code: "83"
+  - Phrae
+  code: "54"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 98.25801
-    minlatitude: 7.4621563
-    maxlongitude: 98.461845
-    maxlatitude: 8.199914
-    latitude: 7.951933
-    longitude: 98.33809
-- name: Chanthaburi
+    minlongitude: 99.367546
+    minlatitude: 17.68767
+    maxlongitude: 100.55129
+    maxlatitude: 18.835463
+    latitude: 18.144577
+    longitude: 100.14028
+- name: Prachuap Khiri Khan
   names:
-  - Chanthaburi
-  code: "22"
+  - Prachuap Khiri Khan
+  code: "77"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 102.06593
-    minlatitude: 12.58183
-    maxlongitude: 102.11756
-    maxlatitude: 12.621831
-    latitude: 12.611249
-    longitude: 102.10378
-- name: Nakhon Ratchasima
+    minlongitude: 99.77529
+    minlatitude: 11.783131
+    maxlongitude: 99.830444
+    maxlatitude: 11.85046
+    latitude: 11.816667
+    longitude: 99.8
+- name: Lop Buri
   names:
-  - Nakhon Ratchasima
-  code: "30"
+  - Lop Buri
+  code: "16"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 101.18073
-    minlatitude: 14.120685
-    maxlongitude: 103.01258
-    maxlatitude: 15.809607
-    latitude: 14.979899
-    longitude: 102.09777
-- name: Nakhon Sawan
+    minlongitude: 100.42934
+    minlatitude: 14.655088
+    maxlongitude: 101.413605
+    maxlatitude: 15.748138
+    latitude: 14.799508
+    longitude: 100.65337
+- name: Sa Kaeo
   names:
-  - Nakhon Sawan
-  code: "60"
+  - Sa Kaeo
+  code: "27"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 99.08603
-    minlatitude: 15.051475
-    maxlongitude: 100.833954
-    maxlatitude: 16.191317
-    latitude: 15.693007
-    longitude: 100.12256
+    minlongitude: 102.016754
+    minlatitude: 13.734796
+    maxlongitude: 102.13922
+    maxlatitude: 13.866577
+    latitude: 13.82404
+    longitude: 102.06458
+- name: Mukdahan
+  names:
+  - Mukdahan
+  code: "49"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.07021
+    minlatitude: 16.185205
+    maxlongitude: 104.978325
+    maxlatitude: 16.906254
+    latitude: 16.569572
+    longitude: 104.523125
+- name: Lamphun
+  names:
+  - Lamphun
+  code: "51"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.67074
+    minlatitude: 17.426027
+    maxlongitude: 99.32133
+    maxlatitude: 18.711208
+    latitude: 18.574461
+    longitude: 99.00872
+- name: Samut Prakan
+  names:
+  - Samut Prakan
+  code: "11"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.44446
+    minlatitude: 13.479341
+    maxlongitude: 100.96392
+    maxlatitude: 13.716917
+    latitude: 13.599096
+    longitude: 100.59983
+- name: Phitsanulok
+  names:
+  - Phitsanulok
+  code: "65"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.245605
+    minlatitude: 16.792816
+    maxlongitude: 100.29353
+    maxlatitude: 16.84105
+    latitude: 16.821123
+    longitude: 100.265854
+- name: Pattani
+  names:
+  - Pattani
+  code: "94"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.01753
+    minlatitude: 6.5501456
+    maxlongitude: 101.72552
+    maxlatitude: 6.9520464
+    latitude: 6.761831
+    longitude: 101.32326
+- name: Kanchanaburi
+  names:
+  - Kanchanaburi
+  code: "71"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.18101
+    minlatitude: 13.7261095
+    maxlongitude: 99.88772
+    maxlatitude: 15.662279
+    latitude: 14.022779
+    longitude: 99.532814
+- name: Surat Thani
+  names:
+  - Surat Thani
+  code: "84"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.443085
+    minlatitude: 8.300806
+    maxlongitude: 100.09057
+    maxlatitude: 10.126442
+    latitude: 9.138239
+    longitude: 99.32175
+- name: Rayong
+  names:
+  - Rayong
+  code: "21"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.98467
+    minlatitude: 12.513028
+    maxlongitude: 101.83125
+    maxlatitude: 13.163471
+    latitude: 12.707434
+    longitude: 101.147354
+- name: Yasothon
+  names:
+  - Yasothon
+  code: "35"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.9975
+    minlatitude: 15.289189
+    maxlongitude: 104.82493
+    maxlatitude: 16.348768
+    latitude: 15.792641
+    longitude: 104.14528
+- name: Chaiyaphum
+  names:
+  - Chaiyaphum
+  code: "36"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.326294
+    minlatitude: 15.312155
+    maxlongitude: 102.45989
+    maxlatitude: 16.703203
+    latitude: 15.806817
+    longitude: 102.0315
+- name: Ratchaburi
+  names:
+  - Ratchaburi
+  code: "70"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.16348
+    minlatitude: 13.148458
+    maxlongitude: 100.07284
+    maxlatitude: 13.944926
+    latitude: 13.528289
+    longitude: 99.81342
 - name: Chiang Rai
   names:
   - Chianpai
@@ -98,300 +252,76 @@
     maxlatitude: 20.46519
     latitude: 19.907166
     longitude: 99.830956
-- name: Samut Songkhram
+- name: Yala
   names:
-  - Samut Songkhram
-  code: "75"
+  - Yala
+  code: "95"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 99.84554
-    minlatitude: 13.237528
-    maxlongitude: 100.07869
-    maxlatitude: 13.514797
-    latitude: 13.4098215
-    longitude: 100.002266
-- name: Rayong
+    minlongitude: 100.834785
+    minlatitude: 5.612729
+    maxlongitude: 101.61218
+    maxlatitude: 6.683125
+    latitude: 6.541147
+    longitude: 101.280396
+- name: Phatthaya
   names:
-  - Rayong
-  code: "21"
+  - Phatthaya
+  code: S
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 100.98467
-    minlatitude: 12.513028
-    maxlongitude: 101.83125
-    maxlatitude: 13.163471
-    latitude: 12.707434
-    longitude: 101.147354
-- name: Trat
+    minlongitude: 100.85589
+    minlatitude: 12.771393
+    maxlongitude: 100.98963
+    maxlatitude: 13.001998
+    latitude: 12.9276085
+    longitude: 100.87708
+- name: Chon Buri
   names:
-  - Trat
-  code: "23"
+  - Chon Buri
+  code: "20"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 102.23558
-    minlatitude: 11.561752
-    maxlongitude: 102.915146
-    maxlatitude: 12.758207
-    latitude: 12.242756
-    longitude: 102.51747
-- name: Ubon Ratchathani
+    minlongitude: 100.64707
+    minlatitude: 12.508699
+    maxlongitude: 101.71689
+    maxlatitude: 13.589356
+    latitude: 13.361143
+    longitude: 100.98467
+- name: Nakhon Ratchasima
   names:
-  - Ubon Ratchathani
-  code: "34"
+  - Nakhon Ratchasima
+  code: "30"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 104.37163
-    minlatitude: 14.209564
-    maxlongitude: 105.63611
-    maxlatitude: 16.098045
-    latitude: 15.228686
-    longitude: 104.85642
-- name: Buri Ram
+    minlongitude: 101.18073
+    minlatitude: 14.120685
+    maxlongitude: 103.01258
+    maxlatitude: 15.809607
+    latitude: 14.979899
+    longitude: 102.09777
+- name: Surin
   names:
-  - Buri Ram
-  code: "31"
+  - Surin
+  code: "32"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 102.43239
-    minlatitude: 14.130768
-    maxlongitude: 103.50503
-    maxlatitude: 15.795656
-    latitude: 14.993002
-    longitude: 103.10292
-- name: Chaiyaphum
-  names:
-  - Chaiyaphum
-  code: "36"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.326294
-    minlatitude: 15.312155
-    maxlongitude: 102.45989
-    maxlatitude: 16.703203
-    latitude: 15.806817
-    longitude: 102.0315
-- name: Lamphun
-  names:
-  - Lamphun
-  code: "51"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 98.67074
-    minlatitude: 17.426027
-    maxlongitude: 99.32133
-    maxlatitude: 18.711208
-    latitude: 18.574461
-    longitude: 99.00872
-- name: Phatthalung
-  names:
-  - Phatthalung
-  code: "93"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.73244
-    minlatitude: 7.090967
-    maxlongitude: 100.428795
-    maxlatitude: 7.893497
-    latitude: 7.6166825
-    longitude: 100.07402
-- name: Nong Bua Lam Phu
-  names:
-  - Nong Bua Lam Phu
-  code: "39"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.983665
-    minlatitude: 16.778273
-    maxlongitude: 102.68143
-    maxlatitude: 17.67606
-    latitude: 17.221825
-    longitude: 102.42603
-- name: Nakhon Phanom
-  names:
-  - Nakhon Phanom
-  code: "48"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.98161
-    minlatitude: 16.787178
-    maxlongitude: 104.80738
-    maxlatitude: 18.024405
-    latitude: 17.392038
-    longitude: 104.769554
-- name: Tak
-  names:
-  - Tak
-  code: "63"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 97.74232
-    minlatitude: 15.180756
-    maxlongitude: 99.48913
-    maxlatitude: 17.86782
-    latitude: 16.88399
-    longitude: 99.12585
-- name: Phrae
-  names:
-  - Phrae
-  code: "54"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.367546
-    minlatitude: 17.68767
-    maxlongitude: 100.55129
-    maxlatitude: 18.835463
-    latitude: 18.144577
-    longitude: 100.14028
-- name: Sukhothai
-  names:
-  - Sakhothai
-  code: "64"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.30973
-    minlatitude: 16.682806
-    maxlongitude: 100.11171
-    maxlatitude: 17.821484
-    latitude: 17.005558
-    longitude: 99.82637
-- name: Phetchabun
-  names:
-  - Phetchabun
-  code: "67"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.634315
-    minlatitude: 15.318232
-    maxlongitude: 101.79402
-    maxlatitude: 17.17814
-    latitude: 16.301668
-    longitude: 101.11928
-- name: Phetchaburi
-  names:
-  - Phetchaburi
-  code: "76"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.09959
-    minlatitude: 12.563299
-    maxlongitude: 100.10574
-    maxlatitude: 13.34451
-    latitude: 12.964922
-    longitude: 99.642586
-- name: Udon Thani
-  names:
-  - Udon Thani
-  code: "41"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.01516
-    minlatitude: 16.80834
-    maxlongitude: 103.66838
-    maxlatitude: 18.086323
-    latitude: 17.413841
-    longitude: 102.78723
-- name: Roi Et
-  names:
-  - Roi Et
-  code: "45"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.2737
-    minlatitude: 15.404833
-    maxlongitude: 104.34904
-    maxlatitude: 16.473305
-    latitude: 16.05382
-    longitude: 103.652
-- name: Kalasin
-  names:
-  - Kalasin
-  code: "46"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.49098
-    minlatitude: 16.424076
-    maxlongitude: 103.52391
-    maxlatitude: 16.453161
-    latitude: 16.434168
-    longitude: 103.50917
-- name: Prachin Buri
-  names:
-  - Prachin Buri
-  code: "25"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.13745
-    minlatitude: 13.582313
-    maxlongitude: 102.10608
-    maxlatitude: 14.462562
-    latitude: 14.042069
-    longitude: 101.66009
-- name: Sa Kaeo
-  names:
-  - Sa Kaeo
-  code: "27"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.016754
-    minlatitude: 13.734796
-    maxlongitude: 102.13922
-    maxlatitude: 13.866577
-    latitude: 13.82404
-    longitude: 102.06458
-- name: Yasothon
-  names:
-  - Yasothon
-  code: "35"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.9975
-    minlatitude: 15.289189
-    maxlongitude: 104.82493
-    maxlatitude: 16.348768
-    latitude: 15.792641
-    longitude: 104.14528
+    minlongitude: 103.089264
+    minlatitude: 14.328955
+    maxlongitude: 104.091896
+    maxlatitude: 15.482845
+    latitude: 14.882905
+    longitude: 103.49371
 - name: Uttaradit
   names:
   - Uttaradit
@@ -406,34 +336,78 @@
     maxlatitude: 18.380142
     latitude: 17.620089
     longitude: 100.0993
-- name: Kanchanaburi
+- name: Nan
   names:
-  - Kanchanaburi
-  code: "71"
+  - Nan
+  code: "55"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 98.18101
-    minlatitude: 13.7261095
-    maxlongitude: 99.88772
-    maxlatitude: 15.662279
-    latitude: 14.022779
-    longitude: 99.532814
-- name: Nonthaburi
+    minlongitude: 100.336044
+    minlatitude: 18.01319
+    maxlongitude: 101.35726
+    maxlatitude: 19.638227
+    latitude: 18.77563
+    longitude: 100.77304
+- name: Phichit
   names:
-  - Nonthaburi
-  code: "12"
+  - Phichit
+  code: "66"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 100.26237
-    minlatitude: 13.788869
-    maxlongitude: 100.56772
-    maxlatitude: 14.140309
-    latitude: 13.862112
-    longitude: 100.51435
+    minlongitude: 99.98372
+    minlatitude: 15.916229
+    maxlongitude: 100.79924
+    maxlatitude: 16.645138
+    latitude: 16.274088
+    longitude: 100.3347
+- name: Suphan Buri
+  names:
+  - Suphan Buri
+  code: "72"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.28135
+    minlatitude: 14.056679
+    maxlongitude: 100.28328
+    maxlatitude: 15.082302
+    latitude: 14.474489
+    longitude: 100.117714
+- name: Krabi
+  names:
+  - Krabi
+  code: "81"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.57489
+    minlatitude: 7.399902
+    maxlongitude: 99.41299
+    maxlatitude: 8.681665
+    latitude: 8.0863
+    longitude: 98.90628
+- name: Krung Thep Maha Nakhon [Bangkok]
+  names:
+  - Krung Thep
+  - Bangkok
+  - BKK
+  code: "10"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.32781
+    minlatitude: 13.49409
+    maxlongitude: 100.93841
+    maxlatitude: 13.955111
+    latitude: 13.7563305
+    longitude: 100.50176
 - name: Chai Nat
   names:
   - Chainat
@@ -450,426 +424,6 @@
     maxlatitude: 15.165905
     latitude: 15.125242
     longitude: 100.14232
-- name: Chachoengsao
-  names:
-  - Chachoengsao
-  code: "24"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.84896
-    minlatitude: 13.178665
-    maxlongitude: 101.99027
-    maxlatitude: 13.976755
-    latitude: 13.690419
-    longitude: 101.07796
-- name: Songkhla
-  names:
-  - Songkhla
-  code: "90"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.054756
-    minlatitude: 6.289874
-    maxlongitude: 101.10506
-    maxlatitude: 7.9389734
-    latitude: 7.1756005
-    longitude: 100.61435
-- name: Phatthaya
-  names:
-  - Phatthaya
-  code: S
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.85589
-    minlatitude: 12.771393
-    maxlongitude: 100.98963
-    maxlatitude: 13.001998
-    latitude: 12.9276085
-    longitude: 100.87708
-- name: Suphan Buri
-  names:
-  - Suphan Buri
-  code: "72"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.28135
-    minlatitude: 14.056679
-    maxlongitude: 100.28328
-    maxlatitude: 15.082302
-    latitude: 14.474489
-    longitude: 100.117714
-- name: Surat Thani
-  names:
-  - Surat Thani
-  code: "84"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 98.443085
-    minlatitude: 8.300806
-    maxlongitude: 100.09057
-    maxlatitude: 10.126442
-    latitude: 9.138239
-    longitude: 99.32175
-- name: Chumphon
-  names:
-  - Chumphon
-  code: "86"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 98.626854
-    minlatitude: 9.600966
-    maxlongitude: 99.51951
-    maxlatitude: 11.033675
-    latitude: 10.49305
-    longitude: 99.18002
-- name: Chon Buri
-  names:
-  - Chon Buri
-  code: "20"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.64707
-    minlatitude: 12.508699
-    maxlongitude: 101.71689
-    maxlatitude: 13.589356
-    latitude: 13.361143
-    longitude: 100.98467
-- name: Trang
-  names:
-  - Trang
-  code: "92"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.05557
-    minlatitude: 7.0218244
-    maxlongitude: 99.95959
-    maxlatitude: 8.01263
-    latitude: 7.5593853
-    longitude: 99.61101
-- name: Ranong
-  names:
-  - Ranong
-  code: "85"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 98.32603
-    minlatitude: 9.303953
-    maxlongitude: 98.96502
-    maxlatitude: 10.788539
-    latitude: 9.95287
-    longitude: 98.60847
-- name: Satun
-  names:
-  - Satun
-  code: "91"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.15386
-    minlatitude: 6.4227786
-    maxlongitude: 100.220985
-    maxlatitude: 7.208318
-    latitude: 6.623816
-    longitude: 100.067375
-- name: Yala
-  names:
-  - Yala
-  code: "95"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.834785
-    minlatitude: 5.612729
-    maxlongitude: 101.61218
-    maxlatitude: 6.683125
-    latitude: 6.541147
-    longitude: 101.280396
-- name: Ang Thong
-  names:
-  - Ang Thong
-  code: "15"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.187706
-    minlatitude: 14.438901
-    maxlongitude: 100.516335
-    maxlatitude: 14.802408
-    latitude: 14.589605
-    longitude: 100.455055
-- name: Saraburi
-  names:
-  - Saraburi
-  code: "19"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.574814
-    minlatitude: 14.243061
-    maxlongitude: 101.45451
-    maxlatitude: 15.045331
-    latitude: 14.528915
-    longitude: 100.91014
-- name: Nakhon Nayok
-  names:
-  - Nakhon Nayok
-  code: "26"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.20676
-    minlatitude: 14.193416
-    maxlongitude: 101.230736
-    maxlatitude: 14.210597
-    latitude: 14.203838
-    longitude: 101.226875
-- name: Pattani
-  names:
-  - Pattani
-  code: "94"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.01753
-    minlatitude: 6.5501456
-    maxlongitude: 101.72552
-    maxlatitude: 6.9520464
-    latitude: 6.761831
-    longitude: 101.32326
-- name: Samut Prakan
-  names:
-  - Samut Prakan
-  code: "11"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.44446
-    minlatitude: 13.479341
-    maxlongitude: 100.96392
-    maxlatitude: 13.716917
-    latitude: 13.599096
-    longitude: 100.59983
-- name: Khon Kaen
-  names:
-  - Khon Kaen
-  code: "40"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.75004
-    minlatitude: 15.633073
-    maxlongitude: 103.1846
-    maxlatitude: 17.094254
-    latitude: 16.441935
-    longitude: 102.83599
-- name: Sakon Nakhon
-  names:
-  - Sakon Nakhon
-  code: "47"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.250725
-    minlatitude: 16.772202
-    maxlongitude: 104.43293
-    maxlatitude: 18.08894
-    latitude: 17.1546
-    longitude: 104.134834
-- name: Amnat Charoen
-  names:
-  - Amnat Charoen
-  code: "37"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 104.4189
-    minlatitude: 15.537144
-    maxlongitude: 105.06021
-    maxlatitude: 16.284334
-    latitude: 15.865678
-    longitude: 104.62578
-- name: Nakhon Pathom
-  names:
-  - Nakhon Pathom
-  code: "73"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.82921
-    minlatitude: 13.649336
-    maxlongitude: 100.33752
-    maxlatitude: 14.178948
-    latitude: 13.819921
-    longitude: 100.062164
-- name: Nakhon Si Thammarat
-  names:
-  - Nakhon Si Thammarat
-  code: "80"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.23447
-    minlatitude: 7.8380613
-    maxlongitude: 100.33633
-    maxlatitude: 9.327344
-    latitude: 8.430397
-    longitude: 99.96312
-- name: Phra Nakhon Si Ayutthaya
-  names:
-  - Phra Nakhon Si Ayutthaya
-  code: "14"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.21269
-    minlatitude: 14.110562
-    maxlongitude: 100.82328
-    maxlatitude: 14.675575
-    latitude: 14.353212
-    longitude: 100.56896
-- name: Loei
-  names:
-  - Loei
-  code: "42"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.83291
-    minlatitude: 16.753525
-    maxlongitude: 102.15571
-    maxlatitude: 18.219893
-    latitude: 17.486023
-    longitude: 101.7223
-- name: Uthai Thani
-  names:
-  - Uthai Thani
-  code: "61"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 98.98343
-    minlatitude: 14.941888
-    maxlongitude: 100.10656
-    maxlatitude: 15.797923
-    latitude: 15.3835
-    longitude: 100.02455
-- name: Phitsanulok
-  names:
-  - Phitsanulok
-  code: "65"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.245605
-    minlatitude: 16.792816
-    maxlongitude: 100.29353
-    maxlatitude: 16.84105
-    latitude: 16.821123
-    longitude: 100.265854
-- name: Phichit
-  names:
-  - Phichit
-  code: "66"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.98372
-    minlatitude: 15.916229
-    maxlongitude: 100.79924
-    maxlatitude: 16.645138
-    latitude: 16.274088
-    longitude: 100.3347
-- name: Ratchaburi
-  names:
-  - Ratchaburi
-  code: "70"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.16348
-    minlatitude: 13.148458
-    maxlongitude: 100.07284
-    maxlatitude: 13.944926
-    latitude: 13.528289
-    longitude: 99.81342
-- name: Pathum Thani
-  names:
-  - Pathum Thani
-  code: "13"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.33162
-    minlatitude: 13.916158
-    maxlongitude: 100.95203
-    maxlatitude: 14.275969
-    latitude: 14.020839
-    longitude: 100.525024
-- name: Sing Buri
-  names:
-  - Sing Buri
-  code: "17"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.181465
-    minlatitude: 14.714906
-    maxlongitude: 100.48821
-    maxlatitude: 15.118294
-    latitude: 14.893625
-    longitude: 100.39673
-- name: Nan
-  names:
-  - Nan
-  code: "55"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.336044
-    minlatitude: 18.01319
-    maxlongitude: 101.35726
-    maxlatitude: 19.638227
-    latitude: 18.77563
-    longitude: 100.77304
 - name: Maha Sarakham
   names:
   - Maha Sarakham
@@ -898,20 +452,62 @@
     maxlatitude: 19.417532
     latitude: 18.288841
     longitude: 99.490875
-- name: Kamphaeng Phet
+- name: Nakhon Pathom
   names:
-  - Kamphaeng Phet
-  code: "62"
+  - Nakhon Pathom
+  code: "73"
   countryalpha2: TH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 98.988754
-    minlatitude: 15.875646
-    maxlongitude: 100.03814
-    maxlatitude: 16.913416
-    latitude: 16.48278
-    longitude: 99.52266
+    minlongitude: 99.82921
+    minlatitude: 13.649336
+    maxlongitude: 100.33752
+    maxlatitude: 14.178948
+    latitude: 13.819921
+    longitude: 100.062164
+- name: Songkhla
+  names:
+  - Songkhla
+  code: "90"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.054756
+    minlatitude: 6.289874
+    maxlongitude: 101.10506
+    maxlatitude: 7.9389734
+    latitude: 7.1756005
+    longitude: 100.61435
+- name: Buri Ram
+  names:
+  - Buri Ram
+  code: "31"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.43239
+    minlatitude: 14.130768
+    maxlongitude: 103.50503
+    maxlatitude: 15.795656
+    latitude: 14.993002
+    longitude: 103.10292
+- name: Sakon Nakhon
+  names:
+  - Sakon Nakhon
+  code: "47"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.250725
+    minlatitude: 16.772202
+    maxlongitude: 104.43293
+    maxlatitude: 18.08894
+    latitude: 17.1546
+    longitude: 104.134834
 - name: Narathiwat
   names:
   - Narathiwat
@@ -926,134 +522,6 @@
     maxlatitude: 6.6363883
     latitude: 6.425461
     longitude: 101.82532
-- name: Krung Thep Maha Nakhon [Bangkok]
-  names:
-  - Krung Thep
-  - Bangkok
-  - BKK
-  code: "10"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.32781
-    minlatitude: 13.49409
-    maxlongitude: 100.93841
-    maxlatitude: 13.955111
-    latitude: 13.7563305
-    longitude: 100.50176
-- name: Surin
-  names:
-  - Surin
-  code: "32"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.089264
-    minlatitude: 14.328955
-    maxlongitude: 104.091896
-    maxlatitude: 15.482845
-    latitude: 14.882905
-    longitude: 103.49371
-- name: Nong Khai
-  names:
-  - Nong Khai
-  code: "43"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.05437
-    minlatitude: 17.593637
-    maxlongitude: 103.417625
-    maxlatitude: 18.303093
-    latitude: 17.87828
-    longitude: 102.741264
-- name: Lop Buri
-  names:
-  - Lop Buri
-  code: "16"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.42934
-    minlatitude: 14.655088
-    maxlongitude: 101.413605
-    maxlatitude: 15.748138
-    latitude: 14.799508
-    longitude: 100.65337
-- name: Mukdahan
-  names:
-  - Mukdahan
-  code: "49"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 104.07021
-    minlatitude: 16.185205
-    maxlongitude: 104.978325
-    maxlatitude: 16.906254
-    latitude: 16.569572
-    longitude: 104.523125
-- name: Phayao
-  names:
-  - Phayao
-  code: "56"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.68284
-    minlatitude: 18.806303
-    maxlongitude: 100.62895
-    maxlatitude: 19.735167
-    latitude: 19.215437
-    longitude: 100.20237
-- name: Prachuap Khiri Khan
-  names:
-  - Prachuap Khiri Khan
-  code: "77"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.77529
-    minlatitude: 11.783131
-    maxlongitude: 99.830444
-    maxlatitude: 11.85046
-    latitude: 11.816667
-    longitude: 99.8
-- name: Krabi
-  names:
-  - Krabi
-  code: "81"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 98.57489
-    minlatitude: 7.399902
-    maxlongitude: 99.41299
-    maxlatitude: 8.681665
-    latitude: 8.0863
-    longitude: 98.90628
-- name: Si Sa Ket
-  names:
-  - Si Sa Ket
-  code: "33"
-  countryalpha2: TH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.901955
-    minlatitude: 14.342235
-    maxlongitude: 104.90764
-    maxlatitude: 15.568369
-    latitude: 15.118601
-    longitude: 104.32201
 - name: Chiang Mai
   names:
   - Chiangmai
@@ -1070,6 +538,62 @@
     maxlatitude: 20.147501
     latitude: 18.787746
     longitude: 98.993126
+- name: Phetchaburi
+  names:
+  - Phetchaburi
+  code: "76"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.09959
+    minlatitude: 12.563299
+    maxlongitude: 100.10574
+    maxlatitude: 13.34451
+    latitude: 12.964922
+    longitude: 99.642586
+- name: Nakhon Si Thammarat
+  names:
+  - Nakhon Si Thammarat
+  code: "80"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.23447
+    minlatitude: 7.8380613
+    maxlongitude: 100.33633
+    maxlatitude: 9.327344
+    latitude: 8.430397
+    longitude: 99.96312
+- name: Phuket
+  names:
+  - Phuket
+  code: "83"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.25801
+    minlatitude: 7.4621563
+    maxlongitude: 98.461845
+    maxlatitude: 8.199914
+    latitude: 7.951933
+    longitude: 98.33809
+- name: Ubon Ratchathani
+  names:
+  - Ubon Ratchathani
+  code: "34"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.37163
+    minlatitude: 14.209564
+    maxlongitude: 105.63611
+    maxlatitude: 16.098045
+    latitude: 15.228686
+    longitude: 104.85642
 - name: Mae Hong Son
   names:
   - Mae Hong Son
@@ -1084,3 +608,479 @@
     maxlatitude: 19.814196
     latitude: 19.302029
     longitude: 97.96544
+- name: Nakhon Sawan
+  names:
+  - Nakhon Sawan
+  code: "60"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.08603
+    minlatitude: 15.051475
+    maxlongitude: 100.833954
+    maxlatitude: 16.191317
+    latitude: 15.693007
+    longitude: 100.12256
+- name: Tak
+  names:
+  - Tak
+  code: "63"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.74232
+    minlatitude: 15.180756
+    maxlongitude: 99.48913
+    maxlatitude: 17.86782
+    latitude: 16.88399
+    longitude: 99.12585
+- name: Saraburi
+  names:
+  - Saraburi
+  code: "19"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.574814
+    minlatitude: 14.243061
+    maxlongitude: 101.45451
+    maxlatitude: 15.045331
+    latitude: 14.528915
+    longitude: 100.91014
+- name: Chanthaburi
+  names:
+  - Chanthaburi
+  code: "22"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.06593
+    minlatitude: 12.58183
+    maxlongitude: 102.11756
+    maxlatitude: 12.621831
+    latitude: 12.611249
+    longitude: 102.10378
+- name: Trat
+  names:
+  - Trat
+  code: "23"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.23558
+    minlatitude: 11.561752
+    maxlongitude: 102.915146
+    maxlatitude: 12.758207
+    latitude: 12.242756
+    longitude: 102.51747
+- name: Nakhon Nayok
+  names:
+  - Nakhon Nayok
+  code: "26"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.20676
+    minlatitude: 14.193416
+    maxlongitude: 101.230736
+    maxlatitude: 14.210597
+    latitude: 14.203838
+    longitude: 101.226875
+- name: Amnat Charoen
+  names:
+  - Amnat Charoen
+  code: "37"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.4189
+    minlatitude: 15.537144
+    maxlongitude: 105.06021
+    maxlatitude: 16.284334
+    latitude: 15.865678
+    longitude: 104.62578
+- name: Ranong
+  names:
+  - Ranong
+  code: "85"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.32603
+    minlatitude: 9.303953
+    maxlongitude: 98.96502
+    maxlatitude: 10.788539
+    latitude: 9.95287
+    longitude: 98.60847
+- name: Phra Nakhon Si Ayutthaya
+  names:
+  - Phra Nakhon Si Ayutthaya
+  code: "14"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.21269
+    minlatitude: 14.110562
+    maxlongitude: 100.82328
+    maxlatitude: 14.675575
+    latitude: 14.353212
+    longitude: 100.56896
+- name: Udon Thani
+  names:
+  - Udon Thani
+  code: "41"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.01516
+    minlatitude: 16.80834
+    maxlongitude: 103.66838
+    maxlatitude: 18.086323
+    latitude: 17.413841
+    longitude: 102.78723
+- name: Samut Sakhon
+  names:
+  - Samut Sakhon
+  code: "74"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.02693
+    minlatitude: 13.425041
+    maxlongitude: 100.42012
+    maxlatitude: 13.721126
+    latitude: 13.547522
+    longitude: 100.2744
+- name: Phatthalung
+  names:
+  - Phatthalung
+  code: "93"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.73244
+    minlatitude: 7.090967
+    maxlongitude: 100.428795
+    maxlatitude: 7.893497
+    latitude: 7.6166825
+    longitude: 100.07402
+- name: Samut Songkhram
+  names:
+  - Samut Songkhram
+  code: "75"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.84554
+    minlatitude: 13.237528
+    maxlongitude: 100.07869
+    maxlatitude: 13.514797
+    latitude: 13.4098215
+    longitude: 100.002266
+- name: Chachoengsao
+  names:
+  - Chachoengsao
+  code: "24"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.84896
+    minlatitude: 13.178665
+    maxlongitude: 101.99027
+    maxlatitude: 13.976755
+    latitude: 13.690419
+    longitude: 101.07796
+- name: Nong Bua Lam Phu
+  names:
+  - Nong Bua Lam Phu
+  code: "39"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.983665
+    minlatitude: 16.778273
+    maxlongitude: 102.68143
+    maxlatitude: 17.67606
+    latitude: 17.221825
+    longitude: 102.42603
+- name: Phayao
+  names:
+  - Phayao
+  code: "56"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.68284
+    minlatitude: 18.806303
+    maxlongitude: 100.62895
+    maxlatitude: 19.735167
+    latitude: 19.215437
+    longitude: 100.20237
+- name: Uthai Thani
+  names:
+  - Uthai Thani
+  code: "61"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.98343
+    minlatitude: 14.941888
+    maxlongitude: 100.10656
+    maxlatitude: 15.797923
+    latitude: 15.3835
+    longitude: 100.02455
+- name: Sukhothai
+  names:
+  - Sakhothai
+  code: "64"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.30973
+    minlatitude: 16.682806
+    maxlongitude: 100.11171
+    maxlatitude: 17.821484
+    latitude: 17.005558
+    longitude: 99.82637
+- name: Phangnga
+  names:
+  - Phangnga
+  code: "82"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.63155
+    minlatitude: 7.883198
+    maxlongitude: 98.70708
+    maxlatitude: 9.463429
+    latitude: 8.450141
+    longitude: 98.52553
+- name: Satun
+  names:
+  - Satun
+  code: "91"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.15386
+    minlatitude: 6.4227786
+    maxlongitude: 100.220985
+    maxlatitude: 7.208318
+    latitude: 6.623816
+    longitude: 100.067375
+- name: Trang
+  names:
+  - Trang
+  code: "92"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.05557
+    minlatitude: 7.0218244
+    maxlongitude: 99.95959
+    maxlatitude: 8.01263
+    latitude: 7.5593853
+    longitude: 99.61101
+- name: Pathum Thani
+  names:
+  - Pathum Thani
+  code: "13"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.33162
+    minlatitude: 13.916158
+    maxlongitude: 100.95203
+    maxlatitude: 14.275969
+    latitude: 14.020839
+    longitude: 100.525024
+- name: Prachin Buri
+  names:
+  - Prachin Buri
+  code: "25"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.13745
+    minlatitude: 13.582313
+    maxlongitude: 102.10608
+    maxlatitude: 14.462562
+    latitude: 14.042069
+    longitude: 101.66009
+- name: Loei
+  names:
+  - Loei
+  code: "42"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.83291
+    minlatitude: 16.753525
+    maxlongitude: 102.15571
+    maxlatitude: 18.219893
+    latitude: 17.486023
+    longitude: 101.7223
+- name: Roi Et
+  names:
+  - Roi Et
+  code: "45"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.2737
+    minlatitude: 15.404833
+    maxlongitude: 104.34904
+    maxlatitude: 16.473305
+    latitude: 16.05382
+    longitude: 103.652
+- name: Kalasin
+  names:
+  - Kalasin
+  code: "46"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.49098
+    minlatitude: 16.424076
+    maxlongitude: 103.52391
+    maxlatitude: 16.453161
+    latitude: 16.434168
+    longitude: 103.50917
+- name: Nakhon Phanom
+  names:
+  - Nakhon Phanom
+  code: "48"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.98161
+    minlatitude: 16.787178
+    maxlongitude: 104.80738
+    maxlatitude: 18.024405
+    latitude: 17.392038
+    longitude: 104.769554
+- name: Phetchabun
+  names:
+  - Phetchabun
+  code: "67"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.634315
+    minlatitude: 15.318232
+    maxlongitude: 101.79402
+    maxlatitude: 17.17814
+    latitude: 16.301668
+    longitude: 101.11928
+- name: Kamphaeng Phet
+  names:
+  - Kamphaeng Phet
+  code: "62"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.988754
+    minlatitude: 15.875646
+    maxlongitude: 100.03814
+    maxlatitude: 16.913416
+    latitude: 16.48278
+    longitude: 99.52266
+- name: Chumphon
+  names:
+  - Chumphon
+  code: "86"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 98.626854
+    minlatitude: 9.600966
+    maxlongitude: 99.51951
+    maxlatitude: 11.033675
+    latitude: 10.49305
+    longitude: 99.18002
+- name: Nonthaburi
+  names:
+  - Nonthaburi
+  code: "12"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.26237
+    minlatitude: 13.788869
+    maxlongitude: 100.56772
+    maxlatitude: 14.140309
+    latitude: 13.862112
+    longitude: 100.51435
+- name: Ang Thong
+  names:
+  - Ang Thong
+  code: "15"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.187706
+    minlatitude: 14.438901
+    maxlongitude: 100.516335
+    maxlatitude: 14.802408
+    latitude: 14.589605
+    longitude: 100.455055
+- name: Sing Buri
+  names:
+  - Sing Buri
+  code: "17"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.181465
+    minlatitude: 14.714906
+    maxlongitude: 100.48821
+    maxlatitude: 15.118294
+    latitude: 14.893625
+    longitude: 100.39673
+- name: Nong Khai
+  names:
+  - Nong Khai
+  code: "43"
+  countryalpha2: TH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.05437
+    minlatitude: 17.593637
+    maxlongitude: 103.417625
+    maxlatitude: 18.303093
+    latitude: 17.87828
+    longitude: 102.741264

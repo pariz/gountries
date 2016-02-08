@@ -13,36 +13,18 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
-    common: Gambia
-    official: Republik Gambia
-  fin:
-    common: Gambia
-    official: Gambian tasavalta
-  fra:
-    common: Gambie
-    official: République de Gambie
-  hrv:
+  HRV:
     common: Gambija
     official: Republika Gambija
-  ita:
-    common: Gambia
-    official: Repubblica del Gambia
-  jpn:
-    common: ガンビア
-    official: ガンビア共和国
-  nld:
+  NLD:
     common: Gambia
     official: Republiek Gambia
-  por:
+  POR:
     common: Gâmbia
     official: República da Gâmbia
-  rus:
+  RUS:
     common: Гамбия
     official: Республика Гамбия
-  spa:
-    common: Gambia
-    official: República de Gambia
 currencies:
 - GMD
 borders:

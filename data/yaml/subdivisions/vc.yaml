@@ -1,45 +1,3 @@
-- name: Charlotte
-  names:
-  - Charlotte
-  code: "01"
-  countryalpha2: VC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.205296
-    minlatitude: 13.170409
-    maxlongitude: -61.115482
-    maxlatitude: 13.3831
-    latitude: 13.2175455
-    longitude: -61.163624
-- name: Saint Andrew
-  names:
-  - Saint Andrew
-  code: "02"
-  countryalpha2: VC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.278614
-    minlatitude: 13.154556
-    maxlongitude: -61.1989
-    maxlatitude: 13.237138
-    latitude: 13.200806
-    longitude: -61.239388
-- name: Saint David
-  names:
-  - Saint David
-  code: "03"
-  countryalpha2: VC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.262367
-    minlatitude: 13.258588
-    maxlongitude: -61.165863
-    maxlatitude: 13.381795
-    latitude: 13.315493
-    longitude: -61.19859
 - name: Saint George
   names:
   - Saint George
@@ -82,3 +40,45 @@
     maxlatitude: 0
     latitude: 12.666667
     longitude: -61.25
+- name: Charlotte
+  names:
+  - Charlotte
+  code: "01"
+  countryalpha2: VC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.205296
+    minlatitude: 13.170409
+    maxlongitude: -61.115482
+    maxlatitude: 13.3831
+    latitude: 13.2175455
+    longitude: -61.163624
+- name: Saint Andrew
+  names:
+  - Saint Andrew
+  code: "02"
+  countryalpha2: VC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.278614
+    minlatitude: 13.154556
+    maxlongitude: -61.1989
+    maxlatitude: 13.237138
+    latitude: 13.200806
+    longitude: -61.239388
+- name: Saint David
+  names:
+  - Saint David
+  code: "03"
+  countryalpha2: VC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.262367
+    minlatitude: 13.258588
+    maxlongitude: -61.165863
+    maxlatitude: 13.381795
+    latitude: 13.315493
+    longitude: -61.19859

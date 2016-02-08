@@ -14,34 +14,22 @@ tlds:
 languages:
   jpn: Japanese
 translations:
-  deu:
+  HRV:
     common: Japan
     official: Japan
-  fin:
-    common: Japani
-    official: Japani
-  fra:
-    common: Japon
-    official: Japon
-  hrv:
-    common: Japan
-    official: Japan
-  ita:
+  ITA:
     common: Giappone
     official: Giappone
-  jpn:
+  JPN:
     common: 日本
     official: 日本
-  nld:
-    common: Japan
-    official: Japan
-  por:
+  POR:
     common: Japão
     official: Japão
-  rus:
+  RUS:
     common: Япония
     official: Япония
-  spa:
+  SPA:
     common: Japón
     official: Japón
 currencies:

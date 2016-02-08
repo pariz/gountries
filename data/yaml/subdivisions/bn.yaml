@@ -1,31 +1,3 @@
-- name: Belait
-  names:
-  - Belait
-  code: BE
-  countryalpha2: BN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 4.449758
-    longitude: 114.3187
-- name: Brunei-Muara
-  names:
-  - Brunei-Muara
-  code: BM
-  countryalpha2: BN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 114.7719
-    minlatitude: 4.7286587
-    maxlongitude: 115.12627
-    maxlatitude: 5.04501
-    latitude: 4.9311204
-    longitude: 114.95169
 - name: Temburong
   names:
   - Temburong
@@ -54,3 +26,31 @@
     maxlatitude: 4.933376
     latitude: 4.7140374
     longitude: 114.666794
+- name: Belait
+  names:
+  - Belait
+  code: BE
+  countryalpha2: BN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 4.449758
+    longitude: 114.3187
+- name: Brunei-Muara
+  names:
+  - Brunei-Muara
+  code: BM
+  countryalpha2: BN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 114.7719
+    minlatitude: 4.7286587
+    maxlongitude: 115.12627
+    maxlatitude: 5.04501
+    latitude: 4.9311204
+    longitude: 114.95169

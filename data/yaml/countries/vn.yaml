@@ -13,34 +13,31 @@ tlds:
 languages:
   vie: Vietnamese
 translations:
-  deu:
+  DEU:
     common: Vietnam
     official: Sozialistische Republik Vietnam
-  fin:
-    common: Vietnam
-    official: Vietnamin sosialistinen tasavalta
-  fra:
+  FRA:
     common: Viêt Nam
     official: République socialiste du Viêt Nam
-  hrv:
+  HRV:
     common: Vijetnam
     official: Socijalistička Republika Vijetnam
-  ita:
+  ITA:
     common: Vietnam
     official: Repubblica socialista del Vietnam
-  jpn:
+  JPN:
     common: ベトナム
     official: ベトナム社会主義共和国
-  nld:
+  NLD:
     common: Vietnam
     official: Socialistische Republiek Vietnam
-  por:
+  POR:
     common: Vietname
     official: República Socialista do Vietname
-  rus:
+  RUS:
     common: Вьетнам
     official: Социалистическая Республика Вьетнам
-  spa:
+  SPA:
     common: Vietnam
     official: República Socialista de Vietnam
 currencies:

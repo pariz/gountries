@@ -1,3 +1,31 @@
+- name: Navassa Island
+  names:
+  - Navassa Island
+  code: "76"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.02838
+    minlatitude: 18.396555
+    maxlongitude: -75.00005
+    maxlatitude: 18.42115
+    latitude: 18.410069
+    longitude: -75.01146
+- name: Johnston Atoll
+  names:
+  - Johnston Atoll
+  code: "67"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -169.54349
+    minlatitude: 16.72655
+    maxlongitude: -169.5171
+    maxlatitude: 16.741133
+    latitude: 16.732271
+    longitude: -169.53084
 - name: Wake Island
   names:
   - Wake Island
@@ -12,6 +40,20 @@
     maxlatitude: 28.397718
     latitude: 19.28232
     longitude: 166.64705
+- name: Baker Island
+  names:
+  - Baker Island
+  code: "81"
+  countryalpha2: UM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -176.48677
+    minlatitude: 0.1899033
+    maxlongitude: -176.47018
+    maxlatitude: 0.2008295
+    latitude: 0.1936266
+    longitude: -176.47691
 - name: Howland Island
   names:
   - Howland Island
@@ -68,20 +110,6 @@
     maxlatitude: 0
     latitude: 5.883333
     longitude: -162.08333
-- name: Johnston Atoll
-  names:
-  - Johnston Atoll
-  code: "67"
-  countryalpha2: UM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -169.54349
-    minlatitude: 16.72655
-    maxlongitude: -169.5171
-    maxlatitude: 16.741133
-    latitude: 16.732271
-    longitude: -169.53084
 - name: Midway Islands
   names:
   - Midway Islands
@@ -96,31 +124,3 @@
     maxlatitude: 28.218655
     latitude: 28.210075
     longitude: -177.37611
-- name: Navassa Island
-  names:
-  - Navassa Island
-  code: "76"
-  countryalpha2: UM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.02838
-    minlatitude: 18.396555
-    maxlongitude: -75.00005
-    maxlatitude: 18.42115
-    latitude: 18.410069
-    longitude: -75.01146
-- name: Baker Island
-  names:
-  - Baker Island
-  code: "81"
-  countryalpha2: UM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -176.48677
-    minlatitude: 0.1899033
-    maxlongitude: -176.47018
-    maxlatitude: 0.2008295
-    latitude: 0.1936266
-    longitude: -176.47691

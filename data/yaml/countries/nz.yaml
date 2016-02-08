@@ -21,36 +21,21 @@ languages:
   mri: Māori
   nzs: New Zealand Sign Language
 translations:
-  deu:
+  DEU:
     common: Neuseeland
     official: Neuseeland
-  fin:
-    common: Uusi-Seelanti
-    official: Uusi-Seelanti
-  fra:
+  FRA:
     common: Nouvelle-Zélande
     official: Nouvelle-Zélande
-  hrv:
-    common: Novi Zeland
-    official: Novi Zeland
-  ita:
-    common: Nuova Zelanda
-    official: Nuova Zelanda
-  jpn:
+  JPN:
     common: ニュージーランド
     official: ニュージーランド
-  nld:
-    common: Nieuw-Zeeland
-    official: Nieuw Zeeland
-  por:
+  POR:
     common: Nova Zelândia
     official: nova Zelândia
-  rus:
+  RUS:
     common: Новая Зеландия
     official: Новая Зеландия
-  spa:
-    common: Nueva Zelanda
-    official: nueva Zelanda
 currencies:
 - NZD
 borders: []

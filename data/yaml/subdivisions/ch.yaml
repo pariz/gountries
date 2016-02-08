@@ -1,17 +1,31 @@
-- name: Fribourg (fr)
+- name: Obwalden (de)
   names:
-  - Freiburg
-  code: FR
+  - Obwald
+  code: OW
   countryalpha2: CH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.1357
-    minlatitude: 46.78489
-    maxlongitude: 7.18383
-    maxlatitude: 46.82144
-    latitude: 46.801666
-    longitude: 7.1455684
+    minlongitude: 8.04235
+    minlatitude: 46.75307
+    maxlongitude: 8.50664
+    maxlatitude: 46.98021
+    latitude: 46.877857
+    longitude: 8.251249
+- name: Schaffhausen (de)
+  names:
+  - Schaffhouse
+  code: SH
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.58583
+    minlatitude: 47.68589
+    maxlongitude: 8.70586
+    maxlatitude: 47.74462
+    latitude: 47.707767
+    longitude: 8.641442
 - name: Solothurn (de)
   names:
   - Soleure
@@ -26,34 +40,96 @@
     maxlatitude: 47.22025
     latitude: 47.208656
     longitude: 7.537955
-- name: Schwyz (de)
+- name: Zürich (de)
   names:
-  - Schwyz (de)
-  code: SZ
+  - Zurigo
+  - Zürich
+  - Zurich
+  code: ZH
   countryalpha2: CH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.60339
-    minlatitude: 46.98516
-    maxlongitude: 8.77879
-    maxlatitude: 47.06635
-    latitude: 47.019836
-    longitude: 8.647398
-- name: Thurgau (de)
+    minlongitude: 8.44806
+    minlatitude: 47.32023
+    maxlongitude: 8.62537
+    maxlatitude: 47.43468
+    latitude: 47.36865
+    longitude: 8.539183
+- name: Jura (fr)
   names:
-  - Thurgovie
-  code: TG
+  - Jura (fr)
+  code: JU
   countryalpha2: CH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.66793
-    minlatitude: 47.3757
-    maxlongitude: 9.47649
-    maxlatitude: 47.69541
-    latitude: 47.603786
-    longitude: 9.0557375
+    minlongitude: 6.84042
+    minlatitude: 47.15048
+    maxlongitude: 7.55821
+    maxlatitude: 47.50452
+    latitude: 47.344448
+    longitude: 7.1430607
+- name: Graubünden (de)
+  names:
+  - Grigioni
+  - Grisons
+  code: GR
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.65094
+    minlatitude: 46.16905
+    maxlongitude: 10.49234
+    maxlatitude: 47.06496
+    latitude: 46.656986
+    longitude: 9.578026
+- name: Sankt Gallen (de)
+  names:
+  - Saint Galle
+  - Sankt Gallen
+  - Saint-Gall
+  code: SG
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.29144
+    minlatitude: 47.3951
+    maxlongitude: 9.4353
+    maxlatitude: 47.45303
+    latitude: 47.417927
+    longitude: 9.364397
+- name: Ticino (it)
+  names:
+  - Tessin
+  - Tessin
+  code: TI
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.38218
+    minlatitude: 45.81792
+    maxlongitude: 9.15973
+    maxlatitude: 46.63241
+    latitude: 46.331734
+    longitude: 8.800453
+- name: Vaud (fr)
+  names:
+  - Waadt
+  code: VD
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.06401
+    minlatitude: 46.18703
+    maxlongitude: 7.24926
+    maxlatitude: 46.9817
+    latitude: 46.561314
+    longitude: 6.536765
 - name: Aargau (de)
   names:
   - Argovie
@@ -68,6 +144,66 @@
     maxlatitude: 47.62092
     latitude: 47.387665
     longitude: 8.255429
+- name: Glarus (de)
+  names:
+  - Glaris
+  code: GL
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.87123
+    minlatitude: 46.79636
+    maxlongitude: 9.25249
+    maxlatitude: 47.17393
+    latitude: 47.04043
+    longitude: 9.067208
+- name: Schwyz (de)
+  names:
+  - Schwyz (de)
+  code: SZ
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.60339
+    minlatitude: 46.98516
+    maxlongitude: 8.77879
+    maxlatitude: 47.06635
+    latitude: 47.019836
+    longitude: 8.647398
+- name: Basel-Stadt (de)
+  names:
+  - Basel
+  - Basilea
+  - Basle
+  - Basel-Stadt
+  - Bâle-Ville
+  code: BS
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.55482
+    minlatitude: 47.51931
+    maxlongitude: 7.6341
+    maxlatitude: 47.58992
+    latitude: 47.567444
+    longitude: 7.597551
+- name: Appenzell Ausserrhoden (de)
+  names:
+  - Appenzell-Ausser Rhoden
+  code: AR
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.19104
+    minlatitude: 47.24695
+    maxlongitude: 9.63088
+    maxlatitude: 47.46903
+    latitude: 47.36648
+    longitude: 9.300092
 - name: Bern (de)
   names:
   - Berne
@@ -96,81 +232,20 @@
     maxlatitude: 47.56441
     latitude: 47.44181
     longitude: 7.7644
-- name: Basel-Stadt (de)
+- name: Fribourg (fr)
   names:
-  - Basel
-  - Basilea
-  - Basle
-  - Basel-Stadt
-  - Bâle-Ville
-  code: BS
+  - Freiburg
+  code: FR
   countryalpha2: CH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.55482
-    minlatitude: 47.51931
-    maxlongitude: 7.6341
-    maxlatitude: 47.58992
-    latitude: 47.567444
-    longitude: 7.597551
-- name: Obwalden (de)
-  names:
-  - Obwald
-  code: OW
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.04235
-    minlatitude: 46.75307
-    maxlongitude: 8.50664
-    maxlatitude: 46.98021
-    latitude: 46.877857
-    longitude: 8.251249
-- name: Ticino (it)
-  names:
-  - Tessin
-  - Tessin
-  code: TI
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.38218
-    minlatitude: 45.81792
-    maxlongitude: 9.15973
-    maxlatitude: 46.63241
-    latitude: 46.331734
-    longitude: 8.800453
-- name: Zug (de)
-  names:
-  - Zoug
-  code: ZG
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.4754
-    minlatitude: 47.114475
-    maxlongitude: 8.55844
-    maxlatitude: 47.18973
-    latitude: 47.174587
-    longitude: 8.513854
-- name: Appenzell Innerrhoden (de)
-  names:
-  - Appenzell Innerrhoden (de)
-  code: AI
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.30981
-    minlatitude: 47.234
-    maxlongitude: 9.61748
-    maxlatitude: 47.43874
-    latitude: 47.316193
-    longitude: 9.431657
+    minlongitude: 7.1357
+    minlatitude: 46.78489
+    maxlongitude: 7.18383
+    maxlatitude: 46.82144
+    latitude: 46.801666
+    longitude: 7.1455684
 - name: Genève (fr)
   names:
   - Ginevra
@@ -188,49 +263,6 @@
     maxlatitude: 46.2324
     latitude: 46.19839
     longitude: 6.1422963
-- name: Glarus (de)
-  names:
-  - Glaris
-  code: GL
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.87123
-    minlatitude: 46.79636
-    maxlongitude: 9.25249
-    maxlatitude: 47.17393
-    latitude: 47.04043
-    longitude: 9.067208
-- name: Graubünden (de)
-  names:
-  - Grigioni
-  - Grisons
-  code: GR
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.65094
-    minlatitude: 46.16905
-    maxlongitude: 10.49234
-    maxlatitude: 47.06496
-    latitude: 46.656986
-    longitude: 9.578026
-- name: Jura (fr)
-  names:
-  - Jura (fr)
-  code: JU
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.84042
-    minlatitude: 47.15048
-    maxlongitude: 7.55821
-    maxlatitude: 47.50452
-    latitude: 47.344448
-    longitude: 7.1430607
 - name: Luzern (de)
   names:
   - Lucerna
@@ -246,20 +278,62 @@
     maxlatitude: 47.08349
     latitude: 47.050037
     longitude: 8.308929
-- name: Vaud (fr)
+- name: Neuchâtel (fr)
   names:
-  - Waadt
-  code: VD
+  - Neuenburg
+  code: NE
   countryalpha2: CH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 6.06401
-    minlatitude: 46.18703
-    maxlongitude: 7.24926
-    maxlatitude: 46.9817
-    latitude: 46.561314
-    longitude: 6.536765
+    minlongitude: 6.89341
+    minlatitude: 46.97818
+    maxlongitude: 6.99177
+    maxlatitude: 47.06389
+    latitude: 46.99298
+    longitude: 6.9319324
+- name: Appenzell Innerrhoden (de)
+  names:
+  - Appenzell Innerrhoden (de)
+  code: AI
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.30981
+    minlatitude: 47.234
+    maxlongitude: 9.61748
+    maxlatitude: 47.43874
+    latitude: 47.316193
+    longitude: 9.431657
+- name: Thurgau (de)
+  names:
+  - Thurgovie
+  code: TG
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.66793
+    minlatitude: 47.3757
+    maxlongitude: 9.47649
+    maxlatitude: 47.69541
+    latitude: 47.603786
+    longitude: 9.0557375
+- name: Uri (de)
+  names:
+  - Uri (de)
+  code: UR
+  countryalpha2: CH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.39746
+    minlatitude: 46.52757
+    maxlongitude: 8.95788
+    maxlatitude: 46.98804
+    latitude: 46.773865
+    longitude: 8.602515
 - name: Valais (fr)
   names:
   - Vallese
@@ -275,20 +349,20 @@
     maxlatitude: 46.65397
     latitude: 46.19046
     longitude: 7.544923
-- name: Appenzell Ausserrhoden (de)
+- name: Zug (de)
   names:
-  - Appenzell-Ausser Rhoden
-  code: AR
+  - Zoug
+  code: ZG
   countryalpha2: CH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.19104
-    minlatitude: 47.24695
-    maxlongitude: 9.63088
-    maxlatitude: 47.46903
-    latitude: 47.36648
-    longitude: 9.300092
+    minlongitude: 8.4754
+    minlatitude: 47.114475
+    maxlongitude: 8.55844
+    maxlatitude: 47.18973
+    latitude: 47.174587
+    longitude: 8.513854
 - name: Nidwalden (de)
   names:
   - Nidwald
@@ -303,77 +377,3 @@
     maxlatitude: 47.003616
     latitude: 46.9267
     longitude: 8.384998
-- name: Sankt Gallen (de)
-  names:
-  - Saint Galle
-  - Sankt Gallen
-  - Saint-Gall
-  code: SG
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.29144
-    minlatitude: 47.3951
-    maxlongitude: 9.4353
-    maxlatitude: 47.45303
-    latitude: 47.417927
-    longitude: 9.364397
-- name: Schaffhausen (de)
-  names:
-  - Schaffhouse
-  code: SH
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.58583
-    minlatitude: 47.68589
-    maxlongitude: 8.70586
-    maxlatitude: 47.74462
-    latitude: 47.707767
-    longitude: 8.641442
-- name: Uri (de)
-  names:
-  - Uri (de)
-  code: UR
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.39746
-    minlatitude: 46.52757
-    maxlongitude: 8.95788
-    maxlatitude: 46.98804
-    latitude: 46.773865
-    longitude: 8.602515
-- name: Zürich (de)
-  names:
-  - Zurigo
-  - Zürich
-  - Zurich
-  code: ZH
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.44806
-    minlatitude: 47.32023
-    maxlongitude: 8.62537
-    maxlatitude: 47.43468
-    latitude: 47.36865
-    longitude: 8.539183
-- name: Neuchâtel (fr)
-  names:
-  - Neuenburg
-  code: NE
-  countryalpha2: CH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.89341
-    minlatitude: 46.97818
-    maxlongitude: 6.99177
-    maxlatitude: 47.06389
-    latitude: 46.99298
-    longitude: 6.9319324

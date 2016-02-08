@@ -1,17 +1,17 @@
-- name: Schaan
+- name: Schellenberg
   names:
-  - Schaan
-  code: "07"
+  - Schellenberg
+  code: "08"
   countryalpha2: LI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.166386
-    longitude: 9.510674
+    minlongitude: 9.52844
+    minlatitude: 47.22414
+    maxlongitude: 9.56735
+    maxlatitude: 47.25243
+    latitude: 47.239685
+    longitude: 9.551195
 - name: Triesen
   names:
   - Triesen
@@ -26,10 +26,10 @@
     maxlatitude: 0
     latitude: 47.111176
     longitude: 9.526409
-- name: Balzers
+- name: Triesenberg
   names:
-  - Balzers
-  code: "01"
+  - Triesenberg
+  code: "10"
   countryalpha2: LI
   coordinates:
     longitudestring: ""
@@ -38,50 +38,8 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 47.06887
-    longitude: 9.50704
-- name: Eschen
-  names:
-  - Eschen
-  code: "02"
-  countryalpha2: LI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.21239
-    longitude: 9.52327
-- name: Mauren
-  names:
-  - Mauren
-  code: "04"
-  countryalpha2: LI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.21937
-    longitude: 9.54322
-- name: Planken
-  names:
-  - Planken
-  code: "05"
-  countryalpha2: LI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.18553
-    longitude: 9.545365
+    latitude: 47.117325
+    longitude: 9.544181
 - name: Vaduz
   names:
   - Vaduz
@@ -110,6 +68,34 @@
     maxlatitude: 0
     latitude: 47.21964
     longitude: 9.51293
+- name: Mauren
+  names:
+  - Mauren
+  code: "04"
+  countryalpha2: LI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.21937
+    longitude: 9.54322
+- name: Schaan
+  names:
+  - Schaan
+  code: "07"
+  countryalpha2: LI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.166386
+    longitude: 9.510674
 - name: Ruggell
   names:
   - Ruggel
@@ -124,24 +110,10 @@
     maxlatitude: 0
     latitude: 47.24012
     longitude: 9.526256
-- name: Schellenberg
+- name: Balzers
   names:
-  - Schellenberg
-  code: "08"
-  countryalpha2: LI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.52844
-    minlatitude: 47.22414
-    maxlongitude: 9.56735
-    maxlatitude: 47.25243
-    latitude: 47.239685
-    longitude: 9.551195
-- name: Triesenberg
-  names:
-  - Triesenberg
-  code: "10"
+  - Balzers
+  code: "01"
   countryalpha2: LI
   coordinates:
     longitudestring: ""
@@ -150,5 +122,33 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 47.117325
-    longitude: 9.544181
+    latitude: 47.06887
+    longitude: 9.50704
+- name: Eschen
+  names:
+  - Eschen
+  code: "02"
+  countryalpha2: LI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.21239
+    longitude: 9.52327
+- name: Planken
+  names:
+  - Planken
+  code: "05"
+  countryalpha2: LI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.18553
+    longitude: 9.545365

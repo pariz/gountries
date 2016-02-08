@@ -1,3 +1,31 @@
+- name: Daman and Diu
+  names:
+  - Daman and Diu
+  code: DD
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 70.87348
+    minlatitude: 20.36722
+    maxlongitude: 72.9068
+    maxlatitude: 20.743124
+    latitude: 20.428284
+    longitude: 72.83973
+- name: Meghalaya
+  names:
+  - Meghalaya
+  code: ML
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.815674
+    minlatitude: 25.033358
+    maxlongitude: 92.80227
+    maxlatitude: 26.120405
+    latitude: 25.467031
+    longitude: 91.36622
 - name: Manipur
   names:
   - Manipur
@@ -12,6 +40,48 @@
     maxlatitude: 25.691874
     latitude: 24.663717
     longitude: 93.906265
+- name: Tamil Nadu
+  names:
+  - Tamil Nadu
+  code: TN
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 76.23055
+    minlatitude: 8.077408
+    maxlongitude: 80.34645
+    maxlatitude: 13.496666
+    latitude: 11.127123
+    longitude: 78.65689
+- name: Mizoram
+  names:
+  - Mizoram
+  code: MZ
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.25848
+    minlatitude: 21.946661
+    maxlongitude: 93.43756
+    maxlatitude: 24.517435
+    latitude: 23.164543
+    longitude: 92.93758
+- name: Uttar Pradesh
+  names:
+  - Uttar Pradesh
+  code: UP
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 77.09244
+    minlatitude: 23.870838
+    maxlongitude: 84.674324
+    maxlatitude: 30.411634
+    latitude: 27.57059
+    longitude: 80.09819
 - name: Nagaland
   names:
   - Nagaland
@@ -26,6 +96,104 @@
     maxlatitude: 27.036123
     latitude: 26.158436
     longitude: 94.56244
+- name: Punjab
+  names:
+  - Punjab
+  code: PB
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.87089
+    minlatitude: 29.537148
+    maxlongitude: 76.92176
+    maxlatitude: 32.498135
+    latitude: 31.147131
+    longitude: 75.34122
+- name: Rajasthan
+  names:
+  - Rajasthan
+  code: RJ
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.483734
+    minlatitude: 23.063267
+    maxlongitude: 78.26338
+    maxlatitude: 30.195124
+    latitude: 27.023804
+    longitude: 74.21793
+- name: Uttaranchal
+  names:
+  - Uttaranchal
+  code: UL
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 77.578606
+    minlatitude: 28.710125
+    maxlongitude: 81.055664
+    maxlatitude: 31.454615
+    latitude: 30.066753
+    longitude: 79.0193
+- name: Delhi
+  names:
+  - Delhi
+  code: DL
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 76.8397
+    minlatitude: 28.401068
+    maxlongitude: 77.34181
+    maxlatitude: 28.889816
+    latitude: 28.61394
+    longitude: 77.20902
+- name: Dadra and Nagar Haveli
+  names:
+  - Dadra and Nagar Haveli
+  code: DN
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.92163
+    minlatitude: 20.052286
+    maxlongitude: 73.22589
+    maxlatitude: 20.362503
+    latitude: 20.180868
+    longitude: 73.016914
+- name: Jammu and Kashmir
+  names:
+  - Jammu and Kashmir
+  code: JK
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.76322
+    minlatitude: 32.252743
+    maxlongitude: 79.56429
+    maxlatitude: 35.50421
+    latitude: 34.149086
+    longitude: 76.825966
+- name: Maharashtra
+  names:
+  - Maharashtra
+  code: MH
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.65936
+    minlatitude: 15.602412
+    maxlongitude: 80.89092
+    maxlatitude: 22.02844
+    latitude: 19.75148
+    longitude: 75.71389
 - name: Tripura
   names:
   - Tripura
@@ -40,19 +208,19 @@
     maxlatitude: 24.533733
     latitude: 23.940847
     longitude: 91.98815
-- name: Uttaranchal
+- name: Telangana
   names:
-  - Uttaranchal
-  code: UL
+  - Telangana
+  code: TS
   countryalpha2: IN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 77.578606
-    minlatitude: 28.710125
-    maxlongitude: 81.055664
-    maxlatitude: 31.454615
-    latitude: 30.066753
+    minlongitude: 77.237915
+    minlatitude: 15.83535
+    maxlongitude: 81.30755
+    maxlatitude: 19.916716
+    latitude: 18.112436
     longitude: 79.0193
 - name: Arunachal Pradesh
   names:
@@ -82,300 +250,6 @@
     maxlatitude: 27.968216
     latitude: 26.200603
     longitude: 92.93758
-- name: Jharkhand
-  names:
-  - Vananchal
-  code: JH
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 83.32383
-    minlatitude: 21.97293
-    maxlongitude: 87.94753
-    maxlatitude: 25.328823
-    latitude: 23.61018
-    longitude: 85.27994
-- name: Maharashtra
-  names:
-  - Maharashtra
-  code: MH
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 72.65936
-    minlatitude: 15.602412
-    maxlongitude: 80.89092
-    maxlatitude: 22.02844
-    latitude: 19.75148
-    longitude: 75.71389
-- name: Daman and Diu
-  names:
-  - Daman and Diu
-  code: DD
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 70.87348
-    minlatitude: 20.36722
-    maxlongitude: 72.9068
-    maxlatitude: 20.743124
-    latitude: 20.428284
-    longitude: 72.83973
-- name: Gujarat
-  names:
-  - Gujarat
-  code: GJ
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 68.191536
-    minlatitude: 20.127954
-    maxlongitude: 74.47649
-    maxlatitude: 24.70571
-    latitude: 22.258652
-    longitude: 71.19238
-- name: Himachal Pradesh
-  names:
-  - Himachal Pradesh
-  code: HP
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 75.58747
-    minlatitude: 30.38247
-    maxlongitude: 79.00331
-    maxlatitude: 33.257957
-    latitude: 31.10483
-    longitude: 77.17339
-- name: Madhya Pradesh
-  names:
-  - Madhya Pradesh
-  code: MP
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 74.03625
-    minlatitude: 21.079914
-    maxlongitude: 82.80968
-    maxlatitude: 26.868109
-    latitude: 22.973423
-    longitude: 78.65689
-- name: Tamil Nadu
-  names:
-  - Tamil Nadu
-  code: TN
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 76.23055
-    minlatitude: 8.077408
-    maxlongitude: 80.34645
-    maxlatitude: 13.496666
-    latitude: 11.127123
-    longitude: 78.65689
-- name: Pondicherry
-  names:
-  - Pondicherry
-  code: PY
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 79.78575
-    minlatitude: 11.899438
-    maxlongitude: 79.84057
-    maxlatitude: 11.973176
-    latitude: 11.913859
-    longitude: 79.814476
-- name: Rajasthan
-  names:
-  - Rajasthan
-  code: RJ
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 69.483734
-    minlatitude: 23.063267
-    maxlongitude: 78.26338
-    maxlatitude: 30.195124
-    latitude: 27.023804
-    longitude: 74.21793
-- name: Andaman and Nicobar Islands
-  names:
-  - Andaman and Nicobar Islands
-  code: AN
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 92.208046
-    minlatitude: 6.7535157
-    maxlongitude: 94.3015
-    maxlatitude: 13.674693
-    latitude: 11.740087
-    longitude: 92.65864
-- name: Dadra and Nagar Haveli
-  names:
-  - Dadra and Nagar Haveli
-  code: DN
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 72.92163
-    minlatitude: 20.052286
-    maxlongitude: 73.22589
-    maxlatitude: 20.362503
-    latitude: 20.180868
-    longitude: 73.016914
-- name: Haryana
-  names:
-  - Haryana
-  code: HR
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 74.45762
-    minlatitude: 27.652992
-    maxlongitude: 77.59545
-    maxlatitude: 30.912865
-    latitude: 29.058775
-    longitude: 76.0856
-- name: Mizoram
-  names:
-  - Mizoram
-  code: MZ
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 92.25848
-    minlatitude: 21.946661
-    maxlongitude: 93.43756
-    maxlatitude: 24.517435
-    latitude: 23.164543
-    longitude: 92.93758
-- name: Delhi
-  names:
-  - Delhi
-  code: DL
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 76.8397
-    minlatitude: 28.401068
-    maxlongitude: 77.34181
-    maxlatitude: 28.889816
-    latitude: 28.61394
-    longitude: 77.20902
-- name: Goa
-  names:
-  - Goa
-  code: GA
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 73.68942
-    minlatitude: 14.897122
-    maxlongitude: 74.34053
-    maxlatitude: 15.799917
-    latitude: 15.299327
-    longitude: 74.12399
-- name: Uttar Pradesh
-  names:
-  - Uttar Pradesh
-  code: UP
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 77.09244
-    minlatitude: 23.870838
-    maxlongitude: 84.674324
-    maxlatitude: 30.411634
-    latitude: 27.57059
-    longitude: 80.09819
-- name: Kerala
-  names:
-  - Kerala
-  code: KL
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 74.86491
-    minlatitude: 8.294897
-    maxlongitude: 77.39564
-    maxlatitude: 12.7883005
-    latitude: 10.850516
-    longitude: 76.27108
-- name: Punjab
-  names:
-  - Punjab
-  code: PB
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 73.87089
-    minlatitude: 29.537148
-    maxlongitude: 76.92176
-    maxlatitude: 32.498135
-    latitude: 31.147131
-    longitude: 75.34122
-- name: West Bengal
-  names:
-  - West Bengal
-  code: WB
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 85.82096
-    minlatitude: 21.528355
-    maxlongitude: 89.880035
-    maxlatitude: 27.220707
-    latitude: 22.986757
-    longitude: 87.85497
-- name: Andhra Pradesh
-  names:
-  - Andhra Pradesh
-  code: AP
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 76.74979
-    minlatitude: 12.596836
-    maxlongitude: 84.79195
-    maxlatitude: 19.156548
-    latitude: 15.9129
-    longitude: 79.73999
-- name: Chandigarh
-  names:
-  - Chandigarh
-  code: CH
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 76.679855
-    minlatitude: 30.594492
-    maxlongitude: 76.85297
-    maxlatitude: 30.795895
-    latitude: 30.733315
-    longitude: 76.77942
 - name: Chhattisgarh
   names:
   - Chhattisgarh
@@ -390,76 +264,6 @@
     maxlatitude: 24.11871
     latitude: 21.278656
     longitude: 81.86614
-- name: Jammu and Kashmir
-  names:
-  - Jammu and Kashmir
-  code: JK
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 73.76322
-    minlatitude: 32.252743
-    maxlongitude: 79.56429
-    maxlatitude: 35.50421
-    latitude: 34.149086
-    longitude: 76.825966
-- name: Bihar
-  names:
-  - Bihar
-  code: BR
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 83.31777
-    minlatitude: 24.286278
-    maxlongitude: 88.28975
-    maxlatitude: 27.520895
-    latitude: 25.096075
-    longitude: 85.31312
-- name: Karnataka
-  names:
-  - Kanara
-  code: KA
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 74.09288
-    minlatitude: 11.593352
-    maxlongitude: 78.58601
-    maxlatitude: 18.44117
-    latitude: 15.317278
-    longitude: 75.71389
-- name: Orissa
-  names:
-  - Orissa
-  code: OR
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 81.3886
-    minlatitude: 17.812096
-    maxlongitude: 87.48338
-    maxlatitude: 22.570026
-    latitude: 20.951666
-    longitude: 85.098526
-- name: Sikkim
-  names:
-  - Denjong
-  code: SK
-  countryalpha2: IN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.006355
-    minlatitude: 27.079262
-    maxlongitude: 88.910805
-    maxlatitude: 28.12876
-    latitude: 27.532972
-    longitude: 88.512215
 - name: Lakshadweep
   names:
   - Laccadive
@@ -475,31 +279,227 @@
     maxlatitude: 12.393426
     latitude: 10.076012
     longitude: 73.63035
-- name: Meghalaya
+- name: Chandigarh
   names:
-  - Meghalaya
-  code: ML
+  - Chandigarh
+  code: CH
   countryalpha2: IN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 89.815674
-    minlatitude: 25.033358
-    maxlongitude: 92.80227
-    maxlatitude: 26.120405
-    latitude: 25.467031
-    longitude: 91.36622
-- name: Telangana
+    minlongitude: 76.679855
+    minlatitude: 30.594492
+    maxlongitude: 76.85297
+    maxlatitude: 30.795895
+    latitude: 30.733315
+    longitude: 76.77942
+- name: Gujarat
   names:
-  - Telangana
-  code: TS
+  - Gujarat
+  code: GJ
   countryalpha2: IN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 77.237915
-    minlatitude: 15.83535
-    maxlongitude: 81.30755
-    maxlatitude: 19.916716
-    latitude: 18.112436
-    longitude: 79.0193
+    minlongitude: 68.191536
+    minlatitude: 20.127954
+    maxlongitude: 74.47649
+    maxlatitude: 24.70571
+    latitude: 22.258652
+    longitude: 71.19238
+- name: Jharkhand
+  names:
+  - Vananchal
+  code: JH
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 83.32383
+    minlatitude: 21.97293
+    maxlongitude: 87.94753
+    maxlatitude: 25.328823
+    latitude: 23.61018
+    longitude: 85.27994
+- name: Madhya Pradesh
+  names:
+  - Madhya Pradesh
+  code: MP
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.03625
+    minlatitude: 21.079914
+    maxlongitude: 82.80968
+    maxlatitude: 26.868109
+    latitude: 22.973423
+    longitude: 78.65689
+- name: Karnataka
+  names:
+  - Kanara
+  code: KA
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.09288
+    minlatitude: 11.593352
+    maxlongitude: 78.58601
+    maxlatitude: 18.44117
+    latitude: 15.317278
+    longitude: 75.71389
+- name: West Bengal
+  names:
+  - West Bengal
+  code: WB
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 85.82096
+    minlatitude: 21.528355
+    maxlongitude: 89.880035
+    maxlatitude: 27.220707
+    latitude: 22.986757
+    longitude: 87.85497
+- name: Andaman and Nicobar Islands
+  names:
+  - Andaman and Nicobar Islands
+  code: AN
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.208046
+    minlatitude: 6.7535157
+    maxlongitude: 94.3015
+    maxlatitude: 13.674693
+    latitude: 11.740087
+    longitude: 92.65864
+- name: Andhra Pradesh
+  names:
+  - Andhra Pradesh
+  code: AP
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 76.74979
+    minlatitude: 12.596836
+    maxlongitude: 84.79195
+    maxlatitude: 19.156548
+    latitude: 15.9129
+    longitude: 79.73999
+- name: Goa
+  names:
+  - Goa
+  code: GA
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.68942
+    minlatitude: 14.897122
+    maxlongitude: 74.34053
+    maxlatitude: 15.799917
+    latitude: 15.299327
+    longitude: 74.12399
+- name: Haryana
+  names:
+  - Haryana
+  code: HR
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.45762
+    minlatitude: 27.652992
+    maxlongitude: 77.59545
+    maxlatitude: 30.912865
+    latitude: 29.058775
+    longitude: 76.0856
+- name: Pondicherry
+  names:
+  - Pondicherry
+  code: PY
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.78575
+    minlatitude: 11.899438
+    maxlongitude: 79.84057
+    maxlatitude: 11.973176
+    latitude: 11.913859
+    longitude: 79.814476
+- name: Sikkim
+  names:
+  - Denjong
+  code: SK
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.006355
+    minlatitude: 27.079262
+    maxlongitude: 88.910805
+    maxlatitude: 28.12876
+    latitude: 27.532972
+    longitude: 88.512215
+- name: Bihar
+  names:
+  - Bihar
+  code: BR
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 83.31777
+    minlatitude: 24.286278
+    maxlongitude: 88.28975
+    maxlatitude: 27.520895
+    latitude: 25.096075
+    longitude: 85.31312
+- name: Himachal Pradesh
+  names:
+  - Himachal Pradesh
+  code: HP
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 75.58747
+    minlatitude: 30.38247
+    maxlongitude: 79.00331
+    maxlatitude: 33.257957
+    latitude: 31.10483
+    longitude: 77.17339
+- name: Kerala
+  names:
+  - Kerala
+  code: KL
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.86491
+    minlatitude: 8.294897
+    maxlongitude: 77.39564
+    maxlatitude: 12.7883005
+    latitude: 10.850516
+    longitude: 76.27108
+- name: Orissa
+  names:
+  - Orissa
+  code: OR
+  countryalpha2: IN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.3886
+    minlatitude: 17.812096
+    maxlongitude: 87.48338
+    maxlatitude: 22.570026
+    latitude: 20.951666
+    longitude: 85.098526

@@ -21,34 +21,25 @@ languages:
   fij: Fijian
   hif: Fiji Hindi
 translations:
-  deu:
+  DEU:
     common: Fidschi
     official: Republik Fidschi
-  fin:
+  FIN:
     common: Fidži
     official: Fidžin tasavalta
-  fra:
+  FRA:
     common: Fidji
     official: République des Fidji
-  hrv:
-    common: Fiđi
-    official: Republika Fidži
-  ita:
+  ITA:
     common: Figi
     official: Repubblica di Figi
-  jpn:
+  JPN:
     common: フィジー
     official: フィジー共和国
-  nld:
+  NLD:
     common: Fiji
     official: Republiek Fiji
-  por:
-    common: Fiji
-    official: República de Fiji
-  rus:
-    common: Фиджи
-    official: Республика Фиджи
-  spa:
+  SPA:
     common: Fiyi
     official: República de Fiji
 currencies:

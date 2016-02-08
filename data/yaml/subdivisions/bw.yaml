@@ -1,88 +1,3 @@
-- name: Ghanzi
-  names:
-  - Ghansi
-  - Khanzi
-  code: GH
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.623755
-    minlatitude: -21.714134
-    maxlongitude: 21.665897
-    maxlatitude: -21.678406
-    latitude: -21.698305
-    longitude: 21.64872
-- name: North-West
-  names:
-  - North-West
-  code: NW
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.99695
-    minlatitude: -21.000256
-    maxlongitude: 25.98795
-    maxlatitude: -17.780813
-    latitude: -19.190533
-    longitude: 23.0012
-- name: Southern
-  names:
-  - Southern
-  code: SO
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.048267
-    minlatitude: -25.825756
-    maxlongitude: 25.693459
-    maxlatitude: -23.996967
-    latitude: -24.823383
-    longitude: 24.714293
-- name: Central
-  names:
-  - Central
-  code: CE
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.885815
-    minlatitude: -23.956503
-    maxlongitude: 29.36078
-    maxlatitude: -19.002457
-    latitude: -21.167227
-    longitude: 26.41939
-- name: Kgalagadi
-  names:
-  - Kgalagadi
-  code: KG
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.999615
-    minlatitude: -26.907246
-    maxlongitude: 24.486738
-    maxlatitude: -23.277603
-    latitude: -24.755028
-    longitude: 21.85686
-- name: Kgatleng
-  names:
-  - Kgatleng
-  code: KL
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.902887
-    minlatitude: -24.691944
-    maxlongitude: 26.96045
-    maxlatitude: -23.562414
-    latitude: -24.197044
-    longitude: 26.230461
 - name: Kweneng
   names:
   - Kweneng
@@ -111,6 +26,63 @@
     maxlatitude: -20.473381
     latitude: -20.903055
     longitude: 27.455639
+- name: North-West
+  names:
+  - North-West
+  code: NW
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.99695
+    minlatitude: -21.000256
+    maxlongitude: 25.98795
+    maxlatitude: -17.780813
+    latitude: -19.190533
+    longitude: 23.0012
+- name: Southern
+  names:
+  - Southern
+  code: SO
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.048267
+    minlatitude: -25.825756
+    maxlongitude: 25.693459
+    maxlatitude: -23.996967
+    latitude: -24.823383
+    longitude: 24.714293
+- name: Ghanzi
+  names:
+  - Ghansi
+  - Khanzi
+  code: GH
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.623755
+    minlatitude: -21.714134
+    maxlongitude: 21.665897
+    maxlatitude: -21.678406
+    latitude: -21.698305
+    longitude: 21.64872
+- name: Kgalagadi
+  names:
+  - Kgalagadi
+  code: KG
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.999615
+    minlatitude: -26.907246
+    maxlongitude: 24.486738
+    maxlatitude: -23.277603
+    latitude: -24.755028
+    longitude: 21.85686
 - name: South-East
   names:
   - South-East
@@ -125,3 +97,31 @@
     maxlatitude: -24.511587
     latitude: -24.93661
     longitude: 25.804852
+- name: Central
+  names:
+  - Central
+  code: CE
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.885815
+    minlatitude: -23.956503
+    maxlongitude: 29.36078
+    maxlatitude: -19.002457
+    latitude: -21.167227
+    longitude: 26.41939
+- name: Kgatleng
+  names:
+  - Kgatleng
+  code: KL
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.902887
+    minlatitude: -24.691944
+    maxlongitude: 26.96045
+    maxlatitude: -23.562414
+    latitude: -24.197044
+    longitude: 26.230461

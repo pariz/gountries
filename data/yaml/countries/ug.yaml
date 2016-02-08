@@ -17,34 +17,16 @@ languages:
   eng: English
   swa: Swahili
 translations:
-  deu:
+  DEU:
     common: Uganda
     official: Republik Uganda
-  fin:
-    common: Uganda
-    official: Ugandan tasavalta
-  fra:
-    common: Ouganda
-    official: République de l'Ouganda
-  hrv:
-    common: Uganda
-    official: Republika Uganda
-  ita:
-    common: Uganda
-    official: Repubblica di Uganda
-  jpn:
-    common: ウガンダ
-    official: ウガンダ共和国
-  nld:
+  NLD:
     common: Oeganda
     official: Republiek Uganda
-  por:
+  POR:
     common: Uganda
     official: República do Uganda
-  rus:
-    common: Уганда
-    official: Республика Уганда
-  spa:
+  SPA:
     common: Uganda
     official: República de Uganda
 currencies:

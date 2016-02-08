@@ -1,31 +1,17 @@
-- name: West Coast
+- name: Manawatu-Wanganui
   names:
-  - West Coast
-  code: WTC
+  - Wanganui-Manawatu
+  code: MWT
   countryalpha2: NZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 168.0529
-    minlatitude: -44.774376
-    maxlongitude: 172.48003
-    maxlatitude: -41.16731
-    latitude: -42.406418
-    longitude: 171.69116
-- name: Bay of Plenty
-  names:
-  - Bay of Plenty
-  code: BOP
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 175.85179
-    minlatitude: -38.93632
-    maxlongitude: 178.10756
-    maxlatitude: -37.264427
-    latitude: -37.682503
-    longitude: 176.18802
+    minlongitude: 174.76208
+    minlatitude: -40.782482
+    maxlongitude: 176.63278
+    maxlatitude: -38.487778
+    latitude: -39.727337
+    longitude: 175.43756
 - name: Otago
   names:
   - Otago
@@ -40,20 +26,6 @@
     maxlatitude: -43.7889
     latitude: -44.828003
     longitude: 169.63452
-- name: Waikato
-  names:
-  - Waikato
-  code: WKO
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 174.61342
-    minlatitude: -39.30064
-    maxlongitude: 176.6633
-    maxlatitude: -36.42872
-    latitude: -38.059425
-    longitude: 175.43756
 - name: Auckland
   names:
   - Auckland
@@ -68,6 +40,48 @@
     maxlatitude: -36.660572
     latitude: -36.84846
     longitude: 174.76334
+- name: Bay of Plenty
+  names:
+  - Bay of Plenty
+  code: BOP
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 175.85179
+    minlatitude: -38.93632
+    maxlongitude: 178.10756
+    maxlatitude: -37.264427
+    latitude: -37.682503
+    longitude: 176.18802
+- name: Gisborne
+  names:
+  - Gisborne
+  code: GIS
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.9373
+    minlatitude: -38.71076
+    maxlongitude: 178.11536
+    maxlatitude: -38.621964
+    latitude: -38.662334
+    longitude: 178.01765
+- name: Chatham Islands
+  names:
+  - Chatham Islands
+  code: X1~
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -176.89409
+    minlatitude: -44.434315
+    maxlongitude: -175.8314
+    maxlatitude: -43.563133
+    latitude: -43.912098
+    longitude: -176.5433
 - name: Marlborough
   names:
   - Marlborough
@@ -82,20 +96,62 @@
     maxlatitude: -40.66335
     latitude: -41.57269
     longitude: 173.42166
-- name: Nelson
+- name: Waikato
   names:
-  - Nelson
-  code: NSN
+  - Waikato
+  code: WKO
   countryalpha2: NZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 173.1896
-    minlatitude: -41.347095
-    maxlongitude: 173.34258
-    maxlatitude: -41.22284
-    latitude: -41.270634
-    longitude: 173.28397
+    minlongitude: 174.61342
+    minlatitude: -39.30064
+    maxlongitude: 176.6633
+    maxlatitude: -36.42872
+    latitude: -38.059425
+    longitude: 175.43756
+- name: West Coast
+  names:
+  - West Coast
+  code: WTC
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 168.0529
+    minlatitude: -44.774376
+    maxlongitude: 172.48003
+    maxlatitude: -41.16731
+    latitude: -42.406418
+    longitude: 171.69116
+- name: Taranaki
+  names:
+  - Taranaki
+  code: TKI
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 173.75133
+    minlatitude: -39.869373
+    maxlongitude: 174.9762
+    maxlatitude: -38.706394
+    latitude: -39.353813
+    longitude: 174.43828
+- name: Hawke's Bay
+  names:
+  - Hawke's Bay
+  code: HKB
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 175.83002
+    minlatitude: -40.440784
+    maxlongitude: 178.00201
+    maxlatitude: -38.17522
+    latitude: -39.77116
+    longitude: 176.74164
 - name: Northland
   names:
   - Northland
@@ -124,20 +180,6 @@
     maxlatitude: -44.29056
     latitude: -45.848915
     longitude: 167.67554
-- name: Tasman
-  names:
-  - Tasman
-  code: TAS
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 172.09341
-    minlatitude: -42.3056
-    maxlongitude: 173.23189
-    maxlatitude: -40.49803
-    latitude: -41.21221
-    longitude: 172.73471
 - name: Wellington
   names:
   - Wellington
@@ -152,76 +194,6 @@
     maxlatitude: -41.126286
     latitude: -41.28646
     longitude: 174.77623
-- name: Hawke's Bay
-  names:
-  - Hawke's Bay
-  code: HKB
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 175.83002
-    minlatitude: -40.440784
-    maxlongitude: 178.00201
-    maxlatitude: -38.17522
-    latitude: -39.77116
-    longitude: 176.74164
-- name: Gisborne
-  names:
-  - Gisborne
-  code: GIS
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 177.9373
-    minlatitude: -38.71076
-    maxlongitude: 178.11536
-    maxlatitude: -38.621964
-    latitude: -38.662334
-    longitude: 178.01765
-- name: Manawatu-Wanganui
-  names:
-  - Wanganui-Manawatu
-  code: MWT
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 174.76208
-    minlatitude: -40.782482
-    maxlongitude: 176.63278
-    maxlatitude: -38.487778
-    latitude: -39.727337
-    longitude: 175.43756
-- name: Taranaki
-  names:
-  - Taranaki
-  code: TKI
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 173.75133
-    minlatitude: -39.869373
-    maxlongitude: 174.9762
-    maxlatitude: -38.706394
-    latitude: -39.353813
-    longitude: 174.43828
-- name: Chatham Islands
-  names:
-  - Chatham Islands
-  code: X1~
-  countryalpha2: NZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -176.89409
-    minlatitude: -44.434315
-    maxlongitude: -175.8314
-    maxlatitude: -43.563133
-    latitude: -43.912098
-    longitude: -176.5433
 - name: Canterbury
   names:
   - Canterbury
@@ -236,3 +208,31 @@
     maxlatitude: -41.907394
     latitude: -43.754227
     longitude: 171.16373
+- name: Nelson
+  names:
+  - Nelson
+  code: NSN
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 173.1896
+    minlatitude: -41.347095
+    maxlongitude: 173.34258
+    maxlatitude: -41.22284
+    latitude: -41.270634
+    longitude: 173.28397
+- name: Tasman
+  names:
+  - Tasman
+  code: TAS
+  countryalpha2: NZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 172.09341
+    minlatitude: -42.3056
+    maxlongitude: 173.23189
+    maxlatitude: -40.49803
+    latitude: -41.21221
+    longitude: 172.73471

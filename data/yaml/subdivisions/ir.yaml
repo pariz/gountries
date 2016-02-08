@@ -1,3 +1,45 @@
+- name: Fars
+  names:
+  - Fars
+  code: "14"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.582478
+    minlatitude: 27.147873
+    maxlongitude: 55.617035
+    maxlatitude: 31.763714
+    latitude: 29.104382
+    longitude: 53.045895
+- name: Qom
+  names:
+  - Qom
+  code: "26"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.761986
+    minlatitude: 34.533623
+    maxlongitude: 50.942146
+    maxlatitude: 34.815636
+    latitude: 34.639946
+    longitude: 50.875942
+- name: Khorasan-e Shemali
+  names:
+  - Khorasan-e Shemali
+  code: "31"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.805023
+    minlatitude: 36.616653
+    maxlongitude: 58.38725
+    maxlatitude: 38.272594
+    latitude: 37.471035
+    longitude: 57.10132
 - name: Az¯arbayjan-e Gharbi
   names:
   - Azarbayjān-e Bakhtari
@@ -13,6 +55,146 @@
     maxlatitude: 37.00426
     latitude: 34.048927
     longitude: -111.093735
+- name: Esfahan
+  names:
+  - Isfahan
+  code: "04"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.52545
+    minlatitude: 32.50455
+    maxlongitude: 51.848602
+    maxlatitude: 32.820026
+    latitude: 32.65463
+    longitude: 51.667984
+- name: Bushehr
+  names:
+  - Bushehr
+  code: "06"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.837444
+    minlatitude: 28.9775
+    maxlongitude: 50.838505
+    maxlatitude: 28.978493
+    latitude: 28.978025
+    longitude: 50.837994
+- name: Hamadan
+  names:
+  - Hamedan
+  code: "24"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.43649
+    minlatitude: 34.74214
+    maxlongitude: 48.583645
+    maxlatitude: 34.882515
+    latitude: 34.8
+    longitude: 48.516666
+- name: Yazd
+  names:
+  - Yazd
+  code: "25"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 54.224567
+    minlatitude: 31.793701
+    maxlongitude: 54.45305
+    maxlatitude: 31.965416
+    latitude: 31.897423
+    longitude: 54.356857
+- name: Golestan
+  names:
+  - Golestan
+  code: "27"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.04843
+    minlatitude: 34.308693
+    maxlongitude: 47.05816
+    maxlatitude: 34.31889
+    latitude: 34.31375
+    longitude: 47.05368
+- name: Qazvin
+  names:
+  - Qazvin
+  code: "28"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.0673
+    minlatitude: 36.182953
+    maxlongitude: 50.06738
+    maxlatitude: 36.185486
+    latitude: 36.184074
+    longitude: 50.06738
+- name: Khuzestan
+  names:
+  - Arabistan
+  code: "10"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.614483
+    minlatitude: 29.942696
+    maxlongitude: 50.43371
+    maxlatitude: 33.09328
+    latitude: 31.436014
+    longitude: 49.041313
+- name: Semnan
+  names:
+  - Semnan
+  code: "12"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 53.33124
+    minlatitude: 35.538372
+    maxlongitude: 53.436985
+    maxlatitude: 35.616978
+    latitude: 35.572777
+    longitude: 53.39722
+- name: Hormozgan
+  names:
+  - Hormozgan
+  code: "23"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 56.246773
+    minlatitude: 27.16676
+    maxlongitude: 56.28972
+    maxlatitude: 27.196335
+    latitude: 27.190783
+    longitude: 56.2636
+- name: Kerman
+  names:
+  - Kerman
+  code: "15"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 56.935616
+    minlatitude: 30.200186
+    maxlongitude: 57.196884
+    maxlatitude: 30.345917
+    latitude: 30.283937
+    longitude: 57.083363
 - name: Kordestan
   names:
   - Kurdestan
@@ -28,302 +210,6 @@
     maxlatitude: 34.31889
     latitude: 34.313572
     longitude: 47.053513
-- name: Qom
-  names:
-  - Qom
-  code: "26"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.761986
-    minlatitude: 34.533623
-    maxlongitude: 50.942146
-    maxlatitude: 34.815636
-    latitude: 34.639946
-    longitude: 50.875942
-- name: Golestan
-  names:
-  - Golestan
-  code: "27"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.04843
-    minlatitude: 34.308693
-    maxlongitude: 47.05816
-    maxlatitude: 34.31889
-    latitude: 34.31375
-    longitude: 47.05368
-- name: Esfahan
-  names:
-  - Isfahan
-  code: "04"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 51.52545
-    minlatitude: 32.50455
-    maxlongitude: 51.848602
-    maxlatitude: 32.820026
-    latitude: 32.65463
-    longitude: 51.667984
-- name: Kohkiluyeh va Buyer Ahmad
-  names:
-  - Boyer Ahmad-e Kohkiluyeh
-  - Kohkilouyeh
-  code: "18"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.91328
-    minlatitude: 30.171534
-    maxlongitude: 51.696224
-    maxlatitude: 31.512691
-    latitude: 30.724586
-    longitude: 50.84563
-- name: Hormozgan
-  names:
-  - Hormozgan
-  code: "23"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 56.246773
-    minlatitude: 27.16676
-    maxlongitude: 56.28972
-    maxlatitude: 27.196335
-    latitude: 27.190783
-    longitude: 56.2636
-- name: Hamadan
-  names:
-  - Hamedan
-  code: "24"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.43649
-    minlatitude: 34.74214
-    maxlongitude: 48.583645
-    maxlatitude: 34.882515
-    latitude: 34.8
-    longitude: 48.516666
-- name: Ardabil
-  names:
-  - Ardabil
-  - Ardebil
-  code: "03"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.210068
-    minlatitude: 38.178425
-    maxlongitude: 48.472
-    maxlatitude: 38.355007
-    latitude: 38.25
-    longitude: 48.283333
-- name: Bushehr
-  names:
-  - Bushehr
-  code: "06"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.837444
-    minlatitude: 28.9775
-    maxlongitude: 50.838505
-    maxlatitude: 28.978493
-    latitude: 28.978025
-    longitude: 50.837994
-- name: Mazandaran
-  names:
-  - Mazandaran
-  code: "21"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.30886
-    minlatitude: 35.774563
-    maxlongitude: 54.232437
-    maxlatitude: 36.9642
-    latitude: 36.22624
-    longitude: 52.53186
-- name: Khorasan
-  names:
-  - Khorasan
-  code: "09"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 54.00358
-    minlatitude: 26.537153
-    maxlongitude: 54.00698
-    maxlatitude: 26.543404
-    latitude: 26.54042
-    longitude: 54.005367
-- name: Semnan
-  names:
-  - Semnan
-  code: "12"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 53.33124
-    minlatitude: 35.538372
-    maxlongitude: 53.436985
-    maxlatitude: 35.616978
-    latitude: 35.572777
-    longitude: 53.39722
-- name: Chahar Mah¸all va Bakhtiari
-  names:
-  - Chaharmahal Bakhtiari
-  code: "08"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.760815
-    minlatitude: 31.11248
-    maxlongitude: 51.352448
-    maxlatitude: 32.700775
-    latitude: 31.961435
-    longitude: 50.84563
-- name: Khuzestan
-  names:
-  - Arabistan
-  code: "10"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.614483
-    minlatitude: 29.942696
-    maxlongitude: 50.43371
-    maxlatitude: 33.09328
-    latitude: 31.436014
-    longitude: 49.041313
-- name: Kerman
-  names:
-  - Kerman
-  code: "15"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 56.935616
-    minlatitude: 30.200186
-    maxlongitude: 57.196884
-    maxlatitude: 30.345917
-    latitude: 30.283937
-    longitude: 57.083363
-- name: Markazi
-  names:
-  - Markazi
-  code: "22"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.889122
-    minlatitude: 33.5383
-    maxlongitude: 51.086224
-    maxlatitude: 35.710403
-    latitude: 34.612305
-    longitude: 49.854725
-- name: Khorasan-e Janubi
-  names:
-  - Khorasan-e Janubi
-  code: "29"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 55.3066
-    minlatitude: 30.389156
-    maxlongitude: 61.144714
-    maxlatitude: 35.16483
-    latitude: 32.517563
-    longitude: 59.104176
-- name: Ilam
-  names:
-  - Ilam
-  code: "05"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.379772
-    minlatitude: 33.621033
-    maxlongitude: 46.448242
-    maxlatitude: 33.652805
-    latitude: 33.6375
-    longitude: 46.42278
-- name: Zanjan
-  names:
-  - Zanjan
-  code: "11"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.38482
-    minlatitude: 36.635918
-    maxlongitude: 48.601627
-    maxlatitude: 36.726124
-    latitude: 36.666668
-    longitude: 48.483334
-- name: Sistan va Baluchestan
-  names:
-  - Sistan-e Baluchistan
-  code: "13"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 27.200155
-    longitude: 60.63925
-- name: Fars
-  names:
-  - Fars
-  code: "14"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.582478
-    minlatitude: 27.147873
-    maxlongitude: 55.617035
-    maxlatitude: 31.763714
-    latitude: 29.104382
-    longitude: 53.045895
-- name: Lorestan
-  names:
-  - Lorestan
-  code: "20"
-  countryalpha2: IR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.872047
-    minlatitude: 32.643707
-    maxlongitude: 50.032906
-    maxlatitude: 34.412064
-    latitude: 33.58184
-    longitude: 48.39882
 - name: Khorasan-e Razavi
   names:
   - Khorasan-e Razavi
@@ -338,20 +224,20 @@
     maxlatitude: 37.790592
     latitude: 35.102024
     longitude: 59.104176
-- name: Khorasan-e Shemali
+- name: Mazandaran
   names:
-  - Khorasan-e Shemali
-  code: "31"
+  - Mazandaran
+  code: "21"
   countryalpha2: IR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 55.805023
-    minlatitude: 36.616653
-    maxlongitude: 58.38725
-    maxlatitude: 38.272594
-    latitude: 37.471035
-    longitude: 57.10132
+    minlongitude: 50.30886
+    minlatitude: 35.774563
+    maxlongitude: 54.232437
+    maxlatitude: 36.9642
+    latitude: 36.22624
+    longitude: 52.53186
 - name: Az¯arbayjan-e Sharqi
   names:
   - Azarbayjān-e Khavari
@@ -367,34 +253,35 @@
     maxlatitude: 38.473953
     latitude: 38.470356
     longitude: 47.057117
-- name: Gilan
+- name: Ardabil
   names:
-  - Gilan
-  code: "19"
+  - Ardabil
+  - Ardebil
+  code: "03"
   countryalpha2: IR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 49.459553
-    minlatitude: 37.463455
-    maxlongitude: 49.464294
-    maxlatitude: 37.467
-    latitude: 37.465168
-    longitude: 49.46117
-- name: Qazvin
+    minlongitude: 48.210068
+    minlatitude: 38.178425
+    maxlongitude: 48.472
+    maxlatitude: 38.355007
+    latitude: 38.25
+    longitude: 48.283333
+- name: Ilam
   names:
-  - Qazvin
-  code: "28"
+  - Ilam
+  code: "05"
   countryalpha2: IR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 50.0673
-    minlatitude: 36.182953
-    maxlongitude: 50.06738
-    maxlatitude: 36.185486
-    latitude: 36.184074
-    longitude: 50.06738
+    minlongitude: 46.379772
+    minlatitude: 33.621033
+    maxlongitude: 46.448242
+    maxlatitude: 33.652805
+    latitude: 33.6375
+    longitude: 46.42278
 - name: Tehran
   names:
   - Teheran
@@ -409,6 +296,104 @@
     maxlatitude: 35.710766
     latitude: 35.700634
     longitude: 51.471657
+- name: Khorasan
+  names:
+  - Khorasan
+  code: "09"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 54.00358
+    minlatitude: 26.537153
+    maxlongitude: 54.00698
+    maxlatitude: 26.543404
+    latitude: 26.54042
+    longitude: 54.005367
+- name: Sistan va Baluchestan
+  names:
+  - Sistan-e Baluchistan
+  code: "13"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 27.200155
+    longitude: 60.63925
+- name: Gilan
+  names:
+  - Gilan
+  code: "19"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.459553
+    minlatitude: 37.463455
+    maxlongitude: 49.464294
+    maxlatitude: 37.467
+    latitude: 37.465168
+    longitude: 49.46117
+- name: Markazi
+  names:
+  - Markazi
+  code: "22"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.889122
+    minlatitude: 33.5383
+    maxlongitude: 51.086224
+    maxlatitude: 35.710403
+    latitude: 34.612305
+    longitude: 49.854725
+- name: Zanjan
+  names:
+  - Zanjan
+  code: "11"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.38482
+    minlatitude: 36.635918
+    maxlongitude: 48.601627
+    maxlatitude: 36.726124
+    latitude: 36.666668
+    longitude: 48.483334
+- name: Lorestan
+  names:
+  - Lorestan
+  code: "20"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.872047
+    minlatitude: 32.643707
+    maxlongitude: 50.032906
+    maxlatitude: 34.412064
+    latitude: 33.58184
+    longitude: 48.39882
+- name: Chahar Mah¸all va Bakhtiari
+  names:
+  - Chaharmahal Bakhtiari
+  code: "08"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.760815
+    minlatitude: 31.11248
+    maxlongitude: 51.352448
+    maxlatitude: 32.700775
+    latitude: 31.961435
+    longitude: 50.84563
 - name: Kermanshah
   names:
   - Bakhtaran
@@ -423,17 +408,32 @@
     maxlatitude: 34.31889
     latitude: 34.313572
     longitude: 47.053513
-- name: Yazd
+- name: Kohkiluyeh va Buyer Ahmad
   names:
-  - Yazd
-  code: "25"
+  - Boyer Ahmad-e Kohkiluyeh
+  - Kohkilouyeh
+  code: "18"
   countryalpha2: IR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 54.224567
-    minlatitude: 31.793701
-    maxlongitude: 54.45305
-    maxlatitude: 31.965416
-    latitude: 31.897423
-    longitude: 54.356857
+    minlongitude: 49.91328
+    minlatitude: 30.171534
+    maxlongitude: 51.696224
+    maxlatitude: 31.512691
+    latitude: 30.724586
+    longitude: 50.84563
+- name: Khorasan-e Janubi
+  names:
+  - Khorasan-e Janubi
+  code: "29"
+  countryalpha2: IR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.3066
+    minlatitude: 30.389156
+    maxlongitude: 61.144714
+    maxlatitude: 35.16483
+    latitude: 32.517563
+    longitude: 59.104176

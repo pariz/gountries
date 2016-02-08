@@ -1,31 +1,3 @@
-- name: Plateau
-  names:
-  - Plateau
-  code: PL
-  countryalpha2: BJ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.406592
-    minlatitude: 6.545428
-    maxlongitude: 2.799681
-    maxlatitude: 7.657946
-    latitude: 7.344514
-    longitude: 2.539603
-- name: Atakora
-  names:
-  - Atakora
-  code: AK
-  countryalpha2: BJ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.774575
-    minlatitude: 9.994575
-    maxlongitude: 2.357681
-    maxlatitude: 11.473834
-    latitude: 10.795493
-    longitude: 1.6760691
 - name: Atlantique
   names:
   - Atlantique
@@ -82,20 +54,6 @@
     maxlatitude: 10.116575
     latitude: 9.719187
     longitude: 1.6760691
-- name: Kouffo
-  names:
-  - Kouffo
-  code: KO
-  countryalpha2: BJ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.557832
-    minlatitude: 6.664443
-    maxlongitude: 2.086982
-    maxlatitude: 7.49791
-    latitude: 7.0035896
-    longitude: 1.7538817
 - name: Littoral
   names:
   - Littoral
@@ -124,6 +82,20 @@
     maxlatitude: 6.797614
     latitude: 6.660718
     longitude: 1.7538817
+- name: Plateau
+  names:
+  - Plateau
+  code: PL
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.406592
+    minlatitude: 6.545428
+    maxlongitude: 2.799681
+    maxlatitude: 7.657946
+    latitude: 7.344514
+    longitude: 2.539603
 - name: Alibori
   names:
   - Alibori
@@ -152,6 +124,20 @@
     maxlatitude: 7.649319
     latitude: 7.3469267
     longitude: 2.0665197
+- name: Kouffo
+  names:
+  - Kouffo
+  code: KO
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.557832
+    minlatitude: 6.664443
+    maxlongitude: 2.086982
+    maxlatitude: 7.49791
+    latitude: 7.0035896
+    longitude: 1.7538817
 - name: Ouémé
   names:
   - Ouémé
@@ -166,3 +152,17 @@
     maxlatitude: 6.99444
     latitude: 6.614815
     longitude: 2.499992
+- name: Atakora
+  names:
+  - Atakora
+  code: AK
+  countryalpha2: BJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.774575
+    minlatitude: 9.994575
+    maxlongitude: 2.357681
+    maxlatitude: 11.473834
+    latitude: 10.795493
+    longitude: 1.6760691

@@ -13,37 +13,25 @@ tlds:
 languages:
   bar: Austro-Bavarian German
 translations:
-  cym:
+  CYM:
     common: Awstria
     official: Republic of Austria
-  deu:
-    common: Österreich
-    official: Republik Österreich
-  fin:
-    common: Itävalta
-    official: Itävallan tasavalta
-  fra:
+  FRA:
     common: Autriche
     official: République d'Autriche
-  hrv:
-    common: Austrija
-    official: Republika Austrija
-  ita:
+  ITA:
     common: Austria
     official: Repubblica d'Austria
-  jpn:
+  JPN:
     common: オーストリア
     official: オーストリア共和国
-  nld:
+  NLD:
     common: Oostenrijk
     official: Republiek Oostenrijk
-  por:
+  POR:
     common: Áustria
     official: República da Áustria
-  rus:
-    common: Австрия
-    official: Австрийская Республика
-  spa:
+  SPA:
     common: Austria
     official: República de Austria
 currencies:

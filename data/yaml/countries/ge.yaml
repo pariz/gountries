@@ -13,36 +13,24 @@ tlds:
 languages:
   kat: Georgian
 translations:
-  deu:
-    common: Georgien
-    official: Georgia
-  fin:
+  FIN:
     common: Georgia
     official: Georgia
-  fra:
-    common: Géorgie
-    official: République de Géorgie
-  hrv:
+  HRV:
     common: Gruzija
     official: Gruzija
-  ita:
+  ITA:
     common: Georgia
     official: Georgia
-  jpn:
+  JPN:
     common: グルジア
     official: グルジア
-  nld:
-    common: Georgië
-    official: Georgia
-  por:
+  POR:
     common: Geórgia
     official: Georgia
-  rus:
+  RUS:
     common: Грузия
     official: Грузия
-  spa:
-    common: Georgia
-    official: Georgia
 currencies:
 - GEL
 borders:

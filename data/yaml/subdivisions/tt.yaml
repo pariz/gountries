@@ -1,31 +1,3 @@
-- name: Diego Martin
-  names:
-  - Diego Martin
-  code: DMN
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.764782
-    minlatitude: 10.663786
-    maxlongitude: -61.48939
-    maxlatitude: 10.760314
-    latitude: 10.713726
-    longitude: -61.58369
-- name: Princes Town
-  names:
-  - Princes Town
-  code: PRT
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.382313
-    minlatitude: 10.261475
-    maxlongitude: -61.37228
-    maxlatitude: 10.269926
-    latitude: 10.26595
-    longitude: -61.37644
 - name: Point Fortin
   names:
   - Point Fortin
@@ -40,6 +12,76 @@
     maxlatitude: 10.204849
     latitude: 10.166667
     longitude: -61.666668
+- name: Tunapuna-Piarco
+  names:
+  - Tunapuna-Piarco
+  code: TUP
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.43342
+    minlatitude: 10.560991
+    maxlongitude: -61.151142
+    maxlatitude: 10.805765
+    latitude: 10.685909
+    longitude: -61.303524
+- name: Western Tobago
+  names:
+  - Western Tobago
+  code: WTO
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -60.840103
+    minlatitude: 11.138837
+    maxlongitude: -60.668022
+    maxlatitude: 11.292831
+    latitude: 11.189707
+    longitude: -60.779545
+- name: Penal-Debe
+  names:
+  - Penal-Debe
+  code: PED
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.511753
+    minlatitude: 10.067402
+    maxlongitude: -61.373672
+    maxlatitude: 10.269791
+    latitude: 10.13374
+    longitude: -61.443546
+- name: Princes Town
+  names:
+  - Princes Town
+  code: PRT
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.382313
+    minlatitude: 10.261475
+    maxlongitude: -61.37228
+    maxlatitude: 10.269926
+    latitude: 10.26595
+    longitude: -61.37644
+- name: Port of Spain
+  names:
+  - Port of Spain
+  code: POS
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.559025
+    minlatitude: 10.633952
+    maxlongitude: -61.468506
+    maxlatitude: 10.703813
+    latitude: 10.666667
+    longitude: -61.516666
 - name: San Fernando
   names:
   - San Fernando
@@ -68,118 +110,6 @@
     maxlatitude: 10.596931
     latitude: 10.585294
     longitude: -61.13158
-- name: Tunapuna-Piarco
-  names:
-  - Tunapuna-Piarco
-  code: TUP
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.43342
-    minlatitude: 10.560991
-    maxlongitude: -61.151142
-    maxlatitude: 10.805765
-    latitude: 10.685909
-    longitude: -61.303524
-- name: Chaguanas
-  names:
-  - Chaguanas
-  code: CHA
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.431824
-    minlatitude: 10.500756
-    maxlongitude: -61.40726
-    maxlatitude: 10.525197
-    latitude: 10.516839
-    longitude: -61.41145
-- name: Couva-Tabaquite-Talparo
-  names:
-  - Couva-Tabaquite-Talparo
-  code: CTT
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.496338
-    minlatitude: 10.308346
-    maxlongitude: -61.199093
-    maxlatitude: 10.592795
-    latitude: 10.429714
-    longitude: -61.37352
-- name: Penal-Debe
-  names:
-  - Penal-Debe
-  code: PED
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.511753
-    minlatitude: 10.067402
-    maxlongitude: -61.373672
-    maxlatitude: 10.269791
-    latitude: 10.13374
-    longitude: -61.443546
-- name: Port of Spain
-  names:
-  - Port of Spain
-  code: POS
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.559025
-    minlatitude: 10.633952
-    maxlongitude: -61.468506
-    maxlatitude: 10.703813
-    latitude: 10.666667
-    longitude: -61.516666
-- name: Rio Claro-Mayaro
-  names:
-  - Rio Claro-Mayaro
-  code: RCM
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.23981
-    minlatitude: 10.074882
-    maxlongitude: -60.970318
-    maxlatitude: 10.44061
-    latitude: 10.241283
-    longitude: -61.09372
-- name: Western Tobago
-  names:
-  - Western Tobago
-  code: WTO
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.840103
-    minlatitude: 11.138837
-    maxlongitude: -60.668022
-    maxlatitude: 11.292831
-    latitude: 11.189707
-    longitude: -60.779545
-- name: Arima
-  names:
-  - Arima
-  code: ARI
-  countryalpha2: TT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.29839
-    minlatitude: 10.607041
-    maxlongitude: -61.263412
-    maxlatitude: 10.655864
-    latitude: 10.616667
-    longitude: -61.266666
 - name: San Juan-Laventille
   names:
   - San Juan-Laventille
@@ -194,6 +124,20 @@
     maxlatitude: 10.808898
     latitude: 10.690858
     longitude: -61.455223
+- name: Diego Martin
+  names:
+  - Diego Martin
+  code: DMN
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.764782
+    minlatitude: 10.663786
+    maxlongitude: -61.48939
+    maxlatitude: 10.760314
+    latitude: 10.713726
+    longitude: -61.58369
 - name: Eastern Tobago
   names:
   - Eastern Tobago
@@ -208,6 +152,62 @@
     maxlatitude: 11.346794
     latitude: 11.297935
     longitude: -60.558853
+- name: Couva-Tabaquite-Talparo
+  names:
+  - Couva-Tabaquite-Talparo
+  code: CTT
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.496338
+    minlatitude: 10.308346
+    maxlongitude: -61.199093
+    maxlatitude: 10.592795
+    latitude: 10.429714
+    longitude: -61.37352
+- name: Arima
+  names:
+  - Arima
+  code: ARI
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.29839
+    minlatitude: 10.607041
+    maxlongitude: -61.263412
+    maxlatitude: 10.655864
+    latitude: 10.616667
+    longitude: -61.266666
+- name: Chaguanas
+  names:
+  - Chaguanas
+  code: CHA
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.431824
+    minlatitude: 10.500756
+    maxlongitude: -61.40726
+    maxlatitude: 10.525197
+    latitude: 10.516839
+    longitude: -61.41145
+- name: Rio Claro-Mayaro
+  names:
+  - Rio Claro-Mayaro
+  code: RCM
+  countryalpha2: TT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.23981
+    minlatitude: 10.074882
+    maxlongitude: -60.970318
+    maxlatitude: 10.44061
+    latitude: 10.241283
+    longitude: -61.09372
 - name: Siparia
   names:
   - Siparia

@@ -1,3 +1,17 @@
+- name: Tahoua
+  names:
+  - Tahoua
+  code: "5"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.24168
+    minlatitude: 14.868022
+    maxlongitude: 5.296693
+    maxlatitude: 14.9285555
+    latitude: 14.883333
+    longitude: 5.266667
 - name: Tillabéri
   names:
   - Tillaberi
@@ -96,17 +110,3 @@
     maxlatitude: 13.531919
     latitude: 13.483333
     longitude: 7.1
-- name: Tahoua
-  names:
-  - Tahoua
-  code: "5"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.24168
-    minlatitude: 14.868022
-    maxlongitude: 5.296693
-    maxlatitude: 14.9285555
-    latitude: 14.883333
-    longitude: 5.266667

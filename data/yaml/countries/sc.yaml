@@ -21,34 +21,28 @@ languages:
   eng: English
   fra: French
 translations:
-  deu:
+  DEU:
     common: Seychellen
     official: Republik der Seychellen
-  fin:
+  FIN:
     common: Seychellit
     official: Seychellien tasavalta
-  fra:
+  FRA:
     common: Seychelles
     official: République des Seychelles
-  hrv:
+  HRV:
     common: Sejšeli
     official: Republika Sejšeli
-  ita:
+  ITA:
     common: Seychelles
     official: Repubblica delle Seychelles
-  jpn:
+  JPN:
     common: セーシェル
     official: セイシェル共和国
-  nld:
-    common: Seychellen
-    official: Republiek der Seychellen
-  por:
+  POR:
     common: Seicheles
     official: República das Seychelles
-  rus:
-    common: Сейшельские Острова
-    official: Республика Сейшельские Острова
-  spa:
+  SPA:
     common: Seychelles
     official: República de las Seychelles
 currencies:

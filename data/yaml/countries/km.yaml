@@ -21,39 +21,24 @@ languages:
   fra: French
   zdj: Comorian
 translations:
-  cym:
-    common: Comoros
-    official: Union of the Comoros
-  deu:
+  DEU:
     common: Union der Komoren
     official: Union der Komoren
-  fin:
-    common: Komorit
-    official: Komorien liitto
-  fra:
+  FRA:
     common: Comores
     official: Union des Comores
-  hrv:
+  HRV:
     common: Komori
     official: Savez Komori
-  ita:
-    common: Comore
-    official: Unione delle Comore
-  jpn:
+  JPN:
     common: コモロ
     official: コモロ連合
-  nld:
-    common: Comoren
-    official: Unie van de Comoren
-  por:
+  POR:
     common: Comores
     official: União das Comores
-  rus:
+  RUS:
     common: Коморы
     official: Союз Коморских Островов
-  spa:
-    common: Comoras
-    official: Unión de las Comoras
 currencies:
 - KMF
 borders: []

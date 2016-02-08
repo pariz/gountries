@@ -1,1081 +1,3 @@
-- name: Piacenza
-  names:
-  - Piacenza
-  code: PC
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.635066
-    minlatitude: 45.015415
-    maxlongitude: 9.761231
-    maxlatitude: 45.069126
-    latitude: 45.05262
-    longitude: 9.692985
-- name: Vicenza
-  names:
-  - Vicenza
-  code: VI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.49101
-    minlatitude: 45.496513
-    maxlongitude: 11.610819
-    maxlatitude: 45.60393
-    latitude: 45.54548
-    longitude: 11.535421
-- name: Aosta
-  names:
-  - Aosta
-  code: AO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.2833805
-    minlatitude: 45.72625
-    maxlongitude: 7.3479743
-    maxlatitude: 45.761444
-    latitude: 45.734955
-    longitude: 7.313076
-- name: Ferrara
-  names:
-  - Ferrara
-  code: FE
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.548783
-    minlatitude: 44.797794
-    maxlongitude: 11.664108
-    maxlatitude: 44.874683
-    latitude: 44.838123
-    longitude: 11.619787
-- name: Imperia
-  names:
-  - Imperia
-  code: IM
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.9598646
-    minlatitude: 43.86433
-    maxlongitude: 8.063033
-    maxlatitude: 43.922817
-    latitude: 43.890568
-    longitude: 8.034665
-- name: Trieste
-  names:
-  - Trieste
-  code: TS
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.731867
-    minlatitude: 45.606842
-    maxlongitude: 13.835457
-    maxlatitude: 45.697796
-    latitude: 45.649525
-    longitude: 13.776818
-- name: Asti
-  names:
-  - Asti
-  code: AT
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.155009
-    minlatitude: 44.864426
-    maxlongitude: 8.263725
-    maxlatitude: 44.929325
-    latitude: 44.900753
-    longitude: 8.206426
-- name: Carbonia-Iglesias
-  names:
-  - Carbonia-Iglesias
-  code: CI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.219648
-    minlatitude: 38.85921
-    maxlongitude: 8.853128
-    maxlatitude: 39.483067
-    latitude: 39.253468
-    longitude: 8.572102
-- name: Lucca
-  names:
-  - Lucca
-  code: LU
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.385155
-    minlatitude: 43.768703
-    maxlongitude: 10.559525
-    maxlatitude: 43.930717
-    latitude: 43.83762
-    longitude: 10.495061
-- name: Pavia
-  names:
-  - Pavia
-  code: PV
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.104418
-    minlatitude: 45.165596
-    maxlongitude: 9.207372
-    maxlatitude: 45.209934
-    latitude: 45.184723
-    longitude: 9.158207
-- name: Belluno
-  names:
-  - Belluno
-  code: BL
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.156942
-    minlatitude: 46.123726
-    maxlongitude: 12.251399
-    maxlatitude: 46.171555
-    latitude: 46.142464
-    longitude: 12.216709
-- name: Foggia
-  names:
-  - Foggia
-  code: FG
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.518324
-    minlatitude: 41.434666
-    maxlongitude: 15.583577
-    maxlatitude: 41.479507
-    latitude: 41.4622
-    longitude: 15.54463
-- name: Firenze
-  names:
-  - Firenze
-  code: FI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.1540365
-    minlatitude: 43.72698
-    maxlongitude: 11.327899
-    maxlatitude: 43.832935
-    latitude: 43.76956
-    longitude: 11.255814
-- name: Macerata
-  names:
-  - Macerata
-  code: MC
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.416125
-    minlatitude: 43.278976
-    maxlongitude: 13.487628
-    maxlatitude: 43.31331
-    latitude: 43.298428
-    longitude: 13.453477
-- name: Siracusa
-  names:
-  - Siracusa
-  code: SR
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.240531
-    minlatitude: 37.05265
-    maxlongitude: 15.301262
-    maxlatitude: 37.105663
-    latitude: 37.075474
-    longitude: 15.286586
-- name: Forlì-Cesena
-  names:
-  - Forlì-Cesena
-  code: FC
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.645559
-    minlatitude: 43.740524
-    maxlongitude: 12.457411
-    maxlatitude: 44.33079
-    latitude: 43.994766
-    longitude: 11.980461
-- name: Potenza
-  names:
-  - Potenza
-  code: PZ
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.772165
-    minlatitude: 40.617214
-    maxlongitude: 15.845494
-    maxlatitude: 40.66524
-    latitude: 40.640408
-    longitude: 15.805604
-- name: Catania
-  names:
-  - Catania
-  code: CT
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.029097
-    minlatitude: 37.420547
-    maxlongitude: 15.12593
-    maxlatitude: 37.560875
-    latitude: 37.507877
-    longitude: 15.083031
-- name: Messina
-  names:
-  - Messina
-  code: ME
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.4659195
-    minlatitude: 38.054657
-    maxlongitude: 15.636136
-    maxlatitude: 38.301464
-    latitude: 38.193813
-    longitude: 15.554015
-- name: Reggio Emilia
-  names:
-  - Reggio Emilia
-  code: RE
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.552017
-    minlatitude: 44.655033
-    maxlongitude: 10.724519
-    maxlatitude: 44.748226
-    latitude: 44.698994
-    longitude: 10.629686
-- name: Sondrio
-  names:
-  - Sondrio
-  code: SO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.844439
-    minlatitude: 46.158836
-    maxlongitude: 9.898327
-    maxlatitude: 46.1774
-    latitude: 46.169857
-    longitude: 9.878767
-- name: Sassari
-  names:
-  - Sassari
-  code: SS
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.49527
-    minlatitude: 40.698524
-    maxlongitude: 8.597026
-    maxlatitude: 40.753742
-    latitude: 40.725925
-    longitude: 8.555682
-- name: Catanzaro
-  names:
-  - Catanzaro
-  code: CZ
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.553669
-    minlatitude: 38.81534
-    maxlongitude: 16.648489
-    maxlatitude: 38.949722
-    latitude: 38.90979
-    longitude: 16.587652
-- name: Ravenna
-  names:
-  - Ravenna
-  code: RA
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.166801
-    minlatitude: 44.384136
-    maxlongitude: 12.234217
-    maxlatitude: 44.440548
-    latitude: 44.41836
-    longitude: 12.203529
-- name: Rimini
-  names:
-  - Rimini
-  code: RN
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.51712
-    minlatitude: 44.018353
-    maxlongitude: 12.632254
-    maxlatitude: 44.088577
-    latitude: 44.06783
-    longitude: 12.569516
-- name: L'Aquila
-  names:
-  - L'Aquila
-  code: AQ
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.336641
-    minlatitude: 42.340927
-    maxlongitude: 13.434891
-    maxlatitude: 42.388588
-    latitude: 42.34985
-    longitude: 13.399509
-- name: Napoli
-  names:
-  - Napoli
-  code: NA
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.13949
-    minlatitude: 40.792038
-    maxlongitude: 14.353715
-    maxlatitude: 40.915936
-    latitude: 40.851776
-    longitude: 14.268125
-- name: Venezia
-  names:
-  - Venezia
-  code: VE
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.166828
-    minlatitude: 45.233456
-    maxlongitude: 12.596658
-    maxlatitude: 45.577976
-    latitude: 45.44085
-    longitude: 12.3155155
-- name: Oristano
-  names:
-  - Oristano
-  code: OR
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.578592
-    minlatitude: 39.88215
-    maxlongitude: 8.609467
-    maxlatitude: 39.917004
-    latitude: 39.90618
-    longitude: 8.588387
-- name: Padova
-  names:
-  - Padova
-  code: PD
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.809626
-    minlatitude: 45.355507
-    maxlongitude: 11.972865
-    maxlatitude: 45.4575
-    latitude: 45.406433
-    longitude: 11.876761
-- name: Barletta-Andria-Trani
-  names:
-  - Barletta-Andria-Trani
-  code: BT
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.870252
-    minlatitude: 40.89772
-    maxlongitude: 16.54225
-    maxlatitude: 41.44171
-    latitude: 41.200455
-    longitude: 16.205149
-- name: Novara
-  names:
-  - Novara
-  code: "NO"
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.573949
-    minlatitude: 45.419167
-    maxlongitude: 8.657614
-    maxlatitude: 45.48849
-    latitude: 45.44693
-    longitude: 8.622161
-- name: Nuoro
-  names:
-  - Nuoro
-  code: NU
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.279806
-    minlatitude: 40.305325
-    maxlongitude: 9.343346
-    maxlatitude: 40.333435
-    latitude: 40.320244
-    longitude: 9.326438
-- name: Ogliastra
-  names:
-  - Ogliastra
-  code: OG
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.272893
-    minlatitude: 39.549232
-    maxlongitude: 9.735707
-    maxlatitude: 40.224976
-    latitude: 39.841053
-    longitude: 9.456155
-- name: Roma
-  names:
-  - Roma
-  code: RM
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.341707
-    minlatitude: 41.769596
-    maxlongitude: 12.7302885
-    maxlatitude: 42.050545
-    latitude: 41.902782
-    longitude: 12.496366
-- name: Siena
-  names:
-  - Siena
-  code: SI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.291759
-    minlatitude: 43.28045
-    maxlongitude: 11.36354
-    maxlatitude: 43.35157
-    latitude: 43.31881
-    longitude: 11.330757
-- name: Savona
-  names:
-  - Savona
-  code: SV
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.434787
-    minlatitude: 44.281128
-    maxlongitude: 8.504291
-    maxlatitude: 44.32934
-    latitude: 44.29756
-    longitude: 8.4645
-- name: Monza e Brianza
-  names:
-  - Monza e Brianza
-  code: MB
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.050524
-    minlatitude: 45.536648
-    maxlongitude: 9.496673
-    maxlatitude: 45.742733
-    latitude: 45.6236
-    longitude: 9.258801
-- name: Palermo
-  names:
-  - Palermo
-  code: PA
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.267421
-    minlatitude: 38.06154
-    maxlongitude: 13.447157
-    maxlatitude: 38.219467
-    latitude: 38.11569
-    longitude: 13.361267
-- name: Como
-  names:
-  - Como
-  code: CO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.033906
-    minlatitude: 45.758884
-    maxlongitude: 9.1369505
-    maxlatitude: 45.84219
-    latitude: 45.80806
-    longitude: 9.085176
-- name: Genova
-  names:
-  - Genova
-  code: GE
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.716091
-    minlatitude: 44.379124
-    maxlongitude: 9.065573
-    maxlatitude: 44.51488
-    latitude: 44.40565
-    longitude: 8.946256
-- name: Lecco
-  names:
-  - Lecco
-  code: LC
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.378139
-    minlatitude: 45.815083
-    maxlongitude: 9.424341
-    maxlatitude: 45.887054
-    latitude: 45.85657
-    longitude: 9.397671
-- name: Pordenone
-  names:
-  - Pordenone
-  code: PN
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.626335
-    minlatitude: 45.918427
-    maxlongitude: 12.701358
-    maxlatitude: 45.995857
-    latitude: 45.96264
-    longitude: 12.655136
-- name: Salerno
-  names:
-  - Salerno
-  code: SA
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.733998
-    minlatitude: 40.637325
-    maxlongitude: 14.851315
-    maxlatitude: 40.712162
-    latitude: 40.68244
-    longitude: 14.768096
-- name: Trapani
-  names:
-  - Trapani
-  code: TP
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.491745
-    minlatitude: 38.000195
-    maxlongitude: 12.585763
-    maxlatitude: 38.03424
-    latitude: 38.017616
-    longitude: 12.537202
-- name: Gorizia
-  names:
-  - Gorizia
-  code: GO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.581331
-    minlatitude: 45.91664
-    maxlongitude: 13.637898
-    maxlatitude: 45.977406
-    latitude: 45.94018
-    longitude: 13.620175
-- name: Matera
-  names:
-  - Matera
-  code: MT
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.572062
-    minlatitude: 40.63843
-    maxlongitude: 16.628197
-    maxlatitude: 40.690784
-    latitude: 40.666378
-    longitude: 16.60432
-- name: Verona
-  names:
-  - Verona
-  code: VR
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.914742
-    minlatitude: 45.374233
-    maxlongitude: 11.07032
-    maxlatitude: 45.478268
-    latitude: 45.438385
-    longitude: 10.991622
-- name: Caserta
-  names:
-  - Caserta
-  code: CE
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.298142
-    minlatitude: 41.04872
-    maxlongitude: 14.378549
-    maxlatitude: 41.11255
-    latitude: 41.07235
-    longitude: 14.331134
-- name: Lecce
-  names:
-  - Lecce
-  code: LE
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.119993
-    minlatitude: 40.33047
-    maxlongitude: 18.228596
-    maxlatitude: 40.377792
-    latitude: 40.351517
-    longitude: 18.175016
-- name: Mantova
-  names:
-  - Mantova
-  code: MN
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.740419
-    minlatitude: 45.13728
-    maxlongitude: 10.806082
-    maxlatitude: 45.186306
-    latitude: 45.156418
-    longitude: 10.791375
-- name: Brescia
-  names:
-  - Brescia
-  code: BS
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.147358
-    minlatitude: 45.49715
-    maxlongitude: 10.299999
-    maxlatitude: 45.590065
-    latitude: 45.541553
-    longitude: 10.211802
-- name: Perugia
-  names:
-  - Perugia
-  code: PG
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.308451
-    minlatitude: 43.040096
-    maxlongitude: 12.452198
-    maxlatitude: 43.14994
-    latitude: 43.110718
-    longitude: 12.390828
-- name: Biella
-  names:
-  - Biella
-  code: BI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.016127
-    minlatitude: 45.54272
-    maxlongitude: 8.0935545
-    maxlatitude: 45.598385
-    latitude: 45.562885
-    longitude: 8.05834
-- name: Campobasso
-  names:
-  - Campobasso
-  code: CB
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.643634
-    minlatitude: 41.540825
-    maxlongitude: 14.692415
-    maxlatitude: 41.57416
-    latitude: 41.560253
-    longitude: 14.662716
-- name: Lodi
-  names:
-  - Lodi
-  code: LO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.475518
-    minlatitude: 45.29478
-    maxlongitude: 9.522065
-    maxlatitude: 45.328312
-    latitude: 45.309723
-    longitude: 9.503716
-- name: Verbano-Cusio-Ossola
-  names:
-  - Verbano-Cusio-Ossola
-  code: VB
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.8684225
-    minlatitude: 45.766914
-    maxlongitude: 8.711084
-    maxlatitude: 46.464436
-    latitude: 46.13997
-    longitude: 8.272465
-- name: La Spezia
-  names:
-  - La Spezia
-  code: SP
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.785097
-    minlatitude: 44.077744
-    maxlongitude: 9.88858
-    maxlatitude: 44.136707
-    latitude: 44.10245
-    longitude: 9.824082
-- name: Bologna
-  names:
-  - Bologna
-  code: BO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.229654
-    minlatitude: 44.44204
-    maxlongitude: 11.433717
-    maxlatitude: 44.5562
-    latitude: 44.49489
-    longitude: 11.342616
-- name: Bolzano
-  names:
-  - Bolzano
-  code: BZ
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.313667
-    minlatitude: 46.46304
-    maxlongitude: 11.380648
-    maxlatitude: 46.515434
-    latitude: 46.498295
-    longitude: 11.354758
-- name: Modena
-  names:
-  - Modena
-  code: MO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.85318
-    minlatitude: 44.606155
-    maxlongitude: 10.990284
-    maxlatitude: 44.6942
-    latitude: 44.648838
-    longitude: 10.920087
-- name: Trento
-  names:
-  - Trento
-  code: TN
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.082692
-    minlatitude: 46.02813
-    maxlongitude: 11.158019
-    maxlatitude: 46.13279
-    latitude: 46.07009
-    longitude: 11.119762
-- name: Alessandria
-  names:
-  - Alessandria
-  code: AL
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.554022
-    minlatitude: 44.877316
-    maxlongitude: 8.640493
-    maxlatitude: 44.93975
-    latitude: 44.907272
-    longitude: 8.61168
-- name: Ancona
-  names:
-  - Ancona
-  code: AN
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.463796
-    minlatitude: 43.532833
-    maxlongitude: 13.549857
-    maxlatitude: 43.631466
-    latitude: 43.61583
-    longitude: 13.518915
-- name: Arezzo
-  names:
-  - Arezzo
-  code: AR
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.809633
-    minlatitude: 43.351437
-    maxlongitude: 11.924064
-    maxlatitude: 43.499573
-    latitude: 43.463284
-    longitude: 11.879634
-- name: Cagliari
-  names:
-  - Cagliari
-  code: CA
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.079536
-    minlatitude: 39.185104
-    maxlongitude: 9.177219
-    maxlatitude: 39.2657
-    latitude: 39.223843
-    longitude: 9.121661
-- name: Cosenza
-  names:
-  - Cosenza
-  code: CS
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.21956
-    minlatitude: 39.27699
-    maxlongitude: 16.285057
-    maxlatitude: 39.33261
-    latitude: 39.298264
-    longitude: 16.253736
-- name: Frosinone
-  names:
-  - Frosinone
-  code: FR
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.296769
-    minlatitude: 41.603523
-    maxlongitude: 13.378591
-    maxlatitude: 41.66558
-    latitude: 41.639603
-    longitude: 13.342634
-- name: Pisa
-  names:
-  - Pisa
-  code: PI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.345376
-    minlatitude: 43.67402
-    maxlongitude: 10.445381
-    maxlatitude: 43.739483
-    latitude: 43.72284
-    longitude: 10.401689
-- name: Rieti
-  names:
-  - Rieti
-  code: RI
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.827067
-    minlatitude: 42.392853
-    maxlongitude: 12.904025
-    maxlatitude: 42.439262
-    latitude: 42.40451
-    longitude: 12.856729
-- name: Torino
-  names:
-  - Torino
-  code: TO
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.5778503
-    minlatitude: 45.006775
-    maxlongitude: 7.762328
-    maxlatitude: 45.133503
-    latitude: 45.070312
-    longitude: 7.6868563
-- name: Bari
-  names:
-  - Bari
-  code: BA
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.730783
-    minlatitude: 41.05301
-    maxlongitude: 17.03335
-    maxlatitude: 41.169567
-    latitude: 41.11714
-    longitude: 16.871872
-- name: Massa-Carrara
-  names:
-  - Massa-Carrara
-  code: MS
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.028052
-    minlatitude: 44.03541
-    maxlongitude: 10.108908
-    maxlatitude: 44.092735
-    latitude: 44.079323
-    longitude: 10.097677
-- name: Vercelli
-  names:
-  - Vercelli
-  code: VC
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.390466
-    minlatitude: 45.298515
-    maxlongitude: 8.457671
-    maxlatitude: 45.341984
-    latitude: 45.32023
-    longitude: 8.418573
-- name: Ascoli Piceno
-  names:
-  - Ascoli Piceno
-  code: AP
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.552394
-    minlatitude: 42.8376
-    maxlongitude: 13.665638
-    maxlatitude: 42.868164
-    latitude: 42.853603
-    longitude: 13.5749445
-- name: Bergamo
-  names:
-  - Bergamo
-  code: BG
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.620546
-    minlatitude: 45.662518
-    maxlongitude: 9.713633
-    maxlatitude: 45.72385
-    latitude: 45.698265
-    longitude: 9.67727
-- name: Brindisi
-  names:
-  - Brindisi
-  code: BR
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.909447
-    minlatitude: 40.603035
-    maxlongitude: 17.962463
-    maxlatitude: 40.681427
-    latitude: 40.63273
-    longitude: 17.941761
 - name: Crotone
   names:
   - Crotone
@@ -1090,104 +12,62 @@
     maxlatitude: 39.119244
     latitude: 39.08079
     longitude: 17.12711
-- name: Reggio Calabria
+- name: Como
   names:
-  - Reggio Calabria
-  code: RC
+  - Como
+  code: CO
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.630224
-    minlatitude: 37.99142
-    maxlongitude: 15.713315
-    maxlatitude: 38.204365
-    latitude: 38.1113
-    longitude: 15.647291
-- name: Isernia
+    minlongitude: 9.033906
+    minlatitude: 45.758884
+    maxlongitude: 9.1369505
+    maxlatitude: 45.84219
+    latitude: 45.80806
+    longitude: 9.085176
+- name: Catania
   names:
-  - Isernia
-  code: IS
+  - Catania
+  code: CT
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.213551
-    minlatitude: 41.578224
-    maxlongitude: 14.253853
-    maxlatitude: 41.617443
-    latitude: 41.596043
-    longitude: 14.233161
-- name: Pistoia
+    minlongitude: 15.029097
+    minlatitude: 37.420547
+    maxlongitude: 15.12593
+    maxlatitude: 37.560875
+    latitude: 37.507877
+    longitude: 15.083031
+- name: Ascoli Piceno
   names:
-  - Pistoia
-  code: PT
+  - Ascoli Piceno
+  code: AP
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.866161
-    minlatitude: 43.880463
-    maxlongitude: 10.994604
-    maxlatitude: 44.01011
-    latitude: 43.930347
-    longitude: 10.907859
-- name: Terni
+    minlongitude: 13.552394
+    minlatitude: 42.8376
+    maxlongitude: 13.665638
+    maxlatitude: 42.868164
+    latitude: 42.853603
+    longitude: 13.5749445
+- name: Gorizia
   names:
-  - Terni
-  code: TR
+  - Gorizia
+  code: GO
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.568564
-    minlatitude: 42.523014
-    maxlongitude: 12.687601
-    maxlatitude: 42.60105
-    latitude: 42.563618
-    longitude: 12.64266
-- name: Udine
-  names:
-  - Udine
-  code: UD
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.196241
-    minlatitude: 46.0112
-    maxlongitude: 13.292084
-    maxlatitude: 46.100925
-    latitude: 46.071068
-    longitude: 13.234579
-- name: Agrigento
-  names:
-  - Agrigento
-  code: AG
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.568948
-    minlatitude: 37.296013
-    maxlongitude: 13.603402
-    maxlatitude: 37.34027
-    latitude: 37.31109
-    longitude: 13.576548
-- name: Chieti
-  names:
-  - Chieti
-  code: CH
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.101121
-    minlatitude: 42.32659
-    maxlongitude: 14.210622
-    maxlatitude: 42.39624
-    latitude: 42.347885
-    longitude: 14.163585
+    minlongitude: 13.581331
+    minlatitude: 45.91664
+    maxlongitude: 13.637898
+    maxlatitude: 45.977406
+    latitude: 45.94018
+    longitude: 13.620175
 - name: Ragusa
   names:
   - Ragusa
@@ -1202,48 +82,258 @@
     maxlatitude: 36.9387
     latitude: 36.926926
     longitude: 14.7255125
-- name: Benevento
+- name: Oristano
   names:
-  - Benevento
-  code: BN
+  - Oristano
+  code: OR
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.735055
-    minlatitude: 41.09836
-    maxlongitude: 14.810325
-    maxlatitude: 41.147564
-    latitude: 41.12976
-    longitude: 14.78262
-- name: Caltanissetta
+    minlongitude: 8.578592
+    minlatitude: 39.88215
+    maxlongitude: 8.609467
+    maxlatitude: 39.917004
+    latitude: 39.90618
+    longitude: 8.588387
+- name: Cuneo
   names:
-  - Caltanissetta
-  code: CL
+  - Cuneo
+  code: CN
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.014005
-    minlatitude: 37.459473
-    maxlongitude: 14.099692
-    maxlatitude: 37.512062
-    latitude: 37.490112
-    longitude: 14.062893
-- name: Olbia-Tempio
+    minlongitude: 7.5084586
+    minlatitude: 44.353203
+    maxlongitude: 7.603919
+    maxlatitude: 44.43096
+    latitude: 44.384476
+    longitude: 7.542671
+- name: Genova
   names:
-  - Olbia-Tempio
-  code: OT
+  - Genova
+  code: GE
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.802582
-    minlatitude: 40.52587
-    maxlongitude: 9.778957
-    maxlatitude: 41.313194
-    latitude: 40.82684
-    longitude: 9.278559
+    minlongitude: 8.716091
+    minlatitude: 44.379124
+    maxlongitude: 9.065573
+    maxlatitude: 44.51488
+    latitude: 44.40565
+    longitude: 8.946256
+- name: Ogliastra
+  names:
+  - Ogliastra
+  code: OG
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.272893
+    minlatitude: 39.549232
+    maxlongitude: 9.735707
+    maxlatitude: 40.224976
+    latitude: 39.841053
+    longitude: 9.456155
+- name: Lecce
+  names:
+  - Lecce
+  code: LE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.119993
+    minlatitude: 40.33047
+    maxlongitude: 18.228596
+    maxlatitude: 40.377792
+    latitude: 40.351517
+    longitude: 18.175016
+- name: Parma
+  names:
+  - Parma
+  code: PR
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.27279
+    minlatitude: 44.755405
+    maxlongitude: 10.384298
+    maxlatitude: 44.839504
+    latitude: 44.801483
+    longitude: 10.327904
+- name: Vercelli
+  names:
+  - Vercelli
+  code: VC
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.390466
+    minlatitude: 45.298515
+    maxlongitude: 8.457671
+    maxlatitude: 45.341984
+    latitude: 45.32023
+    longitude: 8.418573
+- name: Avellino
+  names:
+  - Avellino
+  code: AV
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.758846
+    minlatitude: 40.89844
+    maxlongitude: 14.831441
+    maxlatitude: 40.94589
+    latitude: 40.914387
+    longitude: 14.790612
+- name: Belluno
+  names:
+  - Belluno
+  code: BL
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.156942
+    minlatitude: 46.123726
+    maxlongitude: 12.251399
+    maxlatitude: 46.171555
+    latitude: 46.142464
+    longitude: 12.216709
+- name: Mantova
+  names:
+  - Mantova
+  code: MN
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.740419
+    minlatitude: 45.13728
+    maxlongitude: 10.806082
+    maxlatitude: 45.186306
+    latitude: 45.156418
+    longitude: 10.791375
+- name: Arezzo
+  names:
+  - Arezzo
+  code: AR
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.809633
+    minlatitude: 43.351437
+    maxlongitude: 11.924064
+    maxlatitude: 43.499573
+    latitude: 43.463284
+    longitude: 11.879634
+- name: Verbano-Cusio-Ossola
+  names:
+  - Verbano-Cusio-Ossola
+  code: VB
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.8684225
+    minlatitude: 45.766914
+    maxlongitude: 8.711084
+    maxlatitude: 46.464436
+    latitude: 46.13997
+    longitude: 8.272465
+- name: Rovigo
+  names:
+  - Rovigo
+  code: RO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.7415285
+    minlatitude: 45.03346
+    maxlongitude: 11.838316
+    maxlatitude: 45.105507
+    latitude: 45.069813
+    longitude: 11.7902155
+- name: Bari
+  names:
+  - Bari
+  code: BA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.730783
+    minlatitude: 41.05301
+    maxlongitude: 17.03335
+    maxlatitude: 41.169567
+    latitude: 41.11714
+    longitude: 16.871872
+- name: Macerata
+  names:
+  - Macerata
+  code: MC
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.416125
+    minlatitude: 43.278976
+    maxlongitude: 13.487628
+    maxlatitude: 43.31331
+    latitude: 43.298428
+    longitude: 13.453477
+- name: Pavia
+  names:
+  - Pavia
+  code: PV
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.104418
+    minlatitude: 45.165596
+    maxlongitude: 9.207372
+    maxlatitude: 45.209934
+    latitude: 45.184723
+    longitude: 9.158207
+- name: Taranto
+  names:
+  - Taranto
+  code: TA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.201738
+    minlatitude: 40.37918
+    maxlongitude: 17.299026
+    maxlatitude: 40.49912
+    latitude: 40.46436
+    longitude: 17.24703
+- name: Latina
+  names:
+  - Latina
+  code: LT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.844528
+    minlatitude: 41.437992
+    maxlongitude: 12.958244
+    maxlatitude: 41.486465
+    latitude: 41.467567
+    longitude: 12.903597
 - name: Pesaro e Urbino
   names:
   - Pesaro e Urbino
@@ -1258,6 +348,174 @@
     maxlatitude: 43.969273
     latitude: 43.61301
     longitude: 12.713512
+- name: Siena
+  names:
+  - Siena
+  code: SI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.291759
+    minlatitude: 43.28045
+    maxlongitude: 11.36354
+    maxlatitude: 43.35157
+    latitude: 43.31881
+    longitude: 11.330757
+- name: Carbonia-Iglesias
+  names:
+  - Carbonia-Iglesias
+  code: CI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.219648
+    minlatitude: 38.85921
+    maxlongitude: 8.853128
+    maxlatitude: 39.483067
+    latitude: 39.253468
+    longitude: 8.572102
+- name: Siracusa
+  names:
+  - Siracusa
+  code: SR
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.240531
+    minlatitude: 37.05265
+    maxlongitude: 15.301262
+    maxlatitude: 37.105663
+    latitude: 37.075474
+    longitude: 15.286586
+- name: Trieste
+  names:
+  - Trieste
+  code: TS
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.731867
+    minlatitude: 45.606842
+    maxlongitude: 13.835457
+    maxlatitude: 45.697796
+    latitude: 45.649525
+    longitude: 13.776818
+- name: L'Aquila
+  names:
+  - L'Aquila
+  code: AQ
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.336641
+    minlatitude: 42.340927
+    maxlongitude: 13.434891
+    maxlatitude: 42.388588
+    latitude: 42.34985
+    longitude: 13.399509
+- name: Chieti
+  names:
+  - Chieti
+  code: CH
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.101121
+    minlatitude: 42.32659
+    maxlongitude: 14.210622
+    maxlatitude: 42.39624
+    latitude: 42.347885
+    longitude: 14.163585
+- name: Udine
+  names:
+  - Udine
+  code: UD
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.196241
+    minlatitude: 46.0112
+    maxlongitude: 13.292084
+    maxlatitude: 46.100925
+    latitude: 46.071068
+    longitude: 13.234579
+- name: Frosinone
+  names:
+  - Frosinone
+  code: FR
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.296769
+    minlatitude: 41.603523
+    maxlongitude: 13.378591
+    maxlatitude: 41.66558
+    latitude: 41.639603
+    longitude: 13.342634
+- name: Livorno
+  names:
+  - Livorno
+  code: LI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.29059
+    minlatitude: 43.483208
+    maxlongitude: 10.360104
+    maxlatitude: 43.595894
+    latitude: 43.548473
+    longitude: 10.310568
+- name: Lucca
+  names:
+  - Lucca
+  code: LU
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.385155
+    minlatitude: 43.768703
+    maxlongitude: 10.559525
+    maxlatitude: 43.930717
+    latitude: 43.83762
+    longitude: 10.495061
+- name: Fermo
+  names:
+  - Fermo
+  code: FM
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.69386
+    minlatitude: 43.147896
+    maxlongitude: 13.761712
+    maxlatitude: 43.178585
+    latitude: 43.158875
+    longitude: 13.720088
+- name: Torino
+  names:
+  - Torino
+  code: TO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.5778503
+    minlatitude: 45.006775
+    maxlongitude: 7.762328
+    maxlatitude: 45.133503
+    latitude: 45.070312
+    longitude: 7.6868563
 - name: Medio Campidano
   names:
   - Medio Campidano
@@ -1286,62 +544,258 @@
     maxlatitude: 42.79599
     latitude: 42.763527
     longitude: 11.112364
-- name: Livorno
+- name: Padova
   names:
-  - Livorno
-  code: LI
+  - Padova
+  code: PD
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.29059
-    minlatitude: 43.483208
-    maxlongitude: 10.360104
-    maxlatitude: 43.595894
-    latitude: 43.548473
-    longitude: 10.310568
-- name: Pescara
+    minlongitude: 11.809626
+    minlatitude: 45.355507
+    maxlongitude: 11.972865
+    maxlatitude: 45.4575
+    latitude: 45.406433
+    longitude: 11.876761
+- name: La Spezia
   names:
-  - Pescara
-  code: PE
+  - La Spezia
+  code: SP
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.152871
-    minlatitude: 42.41716
-    maxlongitude: 14.2543545
-    maxlatitude: 42.493874
-    latitude: 42.461792
-    longitude: 14.21609
-- name: Prato
+    minlongitude: 9.785097
+    minlatitude: 44.077744
+    maxlongitude: 9.88858
+    maxlatitude: 44.136707
+    latitude: 44.10245
+    longitude: 9.824082
+- name: Forlì-Cesena
   names:
-  - Prato
-  code: PO
+  - Forlì-Cesena
+  code: FC
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 11.020265
-    minlatitude: 43.831413
-    maxlongitude: 11.147486
-    maxlatitude: 43.925213
-    latitude: 43.877705
-    longitude: 11.102228
-- name: Taranto
+    minlongitude: 11.645559
+    minlatitude: 43.740524
+    maxlongitude: 12.457411
+    maxlatitude: 44.33079
+    latitude: 43.994766
+    longitude: 11.980461
+- name: Messina
   names:
-  - Taranto
-  code: TA
+  - Messina
+  code: ME
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 17.201738
-    minlatitude: 40.37918
-    maxlongitude: 17.299026
-    maxlatitude: 40.49912
-    latitude: 40.46436
-    longitude: 17.24703
+    minlongitude: 15.4659195
+    minlatitude: 38.054657
+    maxlongitude: 15.636136
+    maxlatitude: 38.301464
+    latitude: 38.193813
+    longitude: 15.554015
+- name: Trento
+  names:
+  - Trento
+  code: TN
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.082692
+    minlatitude: 46.02813
+    maxlongitude: 11.158019
+    maxlatitude: 46.13279
+    latitude: 46.07009
+    longitude: 11.119762
+- name: Trapani
+  names:
+  - Trapani
+  code: TP
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.491745
+    minlatitude: 38.000195
+    maxlongitude: 12.585763
+    maxlatitude: 38.03424
+    latitude: 38.017616
+    longitude: 12.537202
+- name: Venezia
+  names:
+  - Venezia
+  code: VE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.166828
+    minlatitude: 45.233456
+    maxlongitude: 12.596658
+    maxlatitude: 45.577976
+    latitude: 45.44085
+    longitude: 12.3155155
+- name: Brescia
+  names:
+  - Brescia
+  code: BS
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.147358
+    minlatitude: 45.49715
+    maxlongitude: 10.299999
+    maxlatitude: 45.590065
+    latitude: 45.541553
+    longitude: 10.211802
+- name: Caserta
+  names:
+  - Caserta
+  code: CE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.298142
+    minlatitude: 41.04872
+    maxlongitude: 14.378549
+    maxlatitude: 41.11255
+    latitude: 41.07235
+    longitude: 14.331134
+- name: Catanzaro
+  names:
+  - Catanzaro
+  code: CZ
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.553669
+    minlatitude: 38.81534
+    maxlongitude: 16.648489
+    maxlatitude: 38.949722
+    latitude: 38.90979
+    longitude: 16.587652
+- name: Foggia
+  names:
+  - Foggia
+  code: FG
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.518324
+    minlatitude: 41.434666
+    maxlongitude: 15.583577
+    maxlatitude: 41.479507
+    latitude: 41.4622
+    longitude: 15.54463
+- name: Lodi
+  names:
+  - Lodi
+  code: LO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.475518
+    minlatitude: 45.29478
+    maxlongitude: 9.522065
+    maxlatitude: 45.328312
+    latitude: 45.309723
+    longitude: 9.503716
+- name: Agrigento
+  names:
+  - Agrigento
+  code: AG
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.568948
+    minlatitude: 37.296013
+    maxlongitude: 13.603402
+    maxlatitude: 37.34027
+    latitude: 37.31109
+    longitude: 13.576548
+- name: Alessandria
+  names:
+  - Alessandria
+  code: AL
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.554022
+    minlatitude: 44.877316
+    maxlongitude: 8.640493
+    maxlatitude: 44.93975
+    latitude: 44.907272
+    longitude: 8.61168
+- name: Ancona
+  names:
+  - Ancona
+  code: AN
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.463796
+    minlatitude: 43.532833
+    maxlongitude: 13.549857
+    maxlatitude: 43.631466
+    latitude: 43.61583
+    longitude: 13.518915
+- name: Verona
+  names:
+  - Verona
+  code: VR
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.914742
+    minlatitude: 45.374233
+    maxlongitude: 11.07032
+    maxlatitude: 45.478268
+    latitude: 45.438385
+    longitude: 10.991622
+- name: Caltanissetta
+  names:
+  - Caltanissetta
+  code: CL
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.014005
+    minlatitude: 37.459473
+    maxlongitude: 14.099692
+    maxlatitude: 37.512062
+    latitude: 37.490112
+    longitude: 14.062893
+- name: Imperia
+  names:
+  - Imperia
+  code: IM
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.9598646
+    minlatitude: 43.86433
+    maxlongitude: 8.063033
+    maxlatitude: 43.922817
+    latitude: 43.890568
+    longitude: 8.034665
 - name: Treviso
   names:
   - Treviso
@@ -1356,34 +810,6 @@
     maxlatitude: 45.703068
     latitude: 45.66689
     longitude: 12.243044
-- name: Avellino
-  names:
-  - Avellino
-  code: AV
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.758846
-    minlatitude: 40.89844
-    maxlongitude: 14.831441
-    maxlatitude: 40.94589
-    latitude: 40.914387
-    longitude: 14.790612
-- name: Fermo
-  names:
-  - Fermo
-  code: FM
-  countryalpha2: IT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.69386
-    minlatitude: 43.147896
-    maxlongitude: 13.761712
-    maxlatitude: 43.178585
-    latitude: 43.158875
-    longitude: 13.720088
 - name: Milano
   names:
   - Milano
@@ -1398,34 +824,76 @@
     maxlatitude: 45.53569
     latitude: 45.465424
     longitude: 9.185925
-- name: Rovigo
+- name: Piacenza
   names:
-  - Rovigo
-  code: RO
+  - Piacenza
+  code: PC
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 11.7415285
-    minlatitude: 45.03346
-    maxlongitude: 11.838316
-    maxlatitude: 45.105507
-    latitude: 45.069813
-    longitude: 11.7902155
-- name: Viterbo
+    minlongitude: 9.635066
+    minlatitude: 45.015415
+    maxlongitude: 9.761231
+    maxlatitude: 45.069126
+    latitude: 45.05262
+    longitude: 9.692985
+- name: Terni
   names:
-  - Viterbo
-  code: VT
+  - Terni
+  code: TR
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.0796175
-    minlatitude: 42.404465
-    maxlongitude: 12.141164
-    maxlatitude: 42.440544
-    latitude: 42.420677
-    longitude: 12.107669
+    minlongitude: 12.568564
+    minlatitude: 42.523014
+    maxlongitude: 12.687601
+    maxlatitude: 42.60105
+    latitude: 42.563618
+    longitude: 12.64266
+- name: Benevento
+  names:
+  - Benevento
+  code: BN
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.735055
+    minlatitude: 41.09836
+    maxlongitude: 14.810325
+    maxlatitude: 41.147564
+    latitude: 41.12976
+    longitude: 14.78262
+- name: Salerno
+  names:
+  - Salerno
+  code: SA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.733998
+    minlatitude: 40.637325
+    maxlongitude: 14.851315
+    maxlatitude: 40.712162
+    latitude: 40.68244
+    longitude: 14.768096
+- name: Sassari
+  names:
+  - Sassari
+  code: SS
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.49527
+    minlatitude: 40.698524
+    maxlongitude: 8.597026
+    maxlatitude: 40.753742
+    latitude: 40.725925
+    longitude: 8.555682
 - name: Vibo Valentia
   names:
   - Vibo Valentia
@@ -1440,90 +908,314 @@
     maxlatitude: 38.69292
     latitude: 38.675777
     longitude: 16.098349
-- name: Cuneo
+- name: Brindisi
   names:
-  - Cuneo
-  code: CN
+  - Brindisi
+  code: BR
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.5084586
-    minlatitude: 44.353203
-    maxlongitude: 7.603919
-    maxlatitude: 44.43096
-    latitude: 44.384476
-    longitude: 7.542671
-- name: Enna
+    minlongitude: 17.909447
+    minlatitude: 40.603035
+    maxlongitude: 17.962463
+    maxlatitude: 40.681427
+    latitude: 40.63273
+    longitude: 17.941761
+- name: Rimini
   names:
-  - Enna
-  code: EN
+  - Rimini
+  code: RN
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.262916
-    minlatitude: 37.545666
-    maxlongitude: 14.305199
-    maxlatitude: 37.570553
-    latitude: 37.565556
-    longitude: 14.275191
-- name: Cremona
+    minlongitude: 12.51712
+    minlatitude: 44.018353
+    maxlongitude: 12.632254
+    maxlatitude: 44.088577
+    latitude: 44.06783
+    longitude: 12.569516
+- name: Potenza
   names:
-  - Cremona
-  code: CR
+  - Potenza
+  code: PZ
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.98633
-    minlatitude: 45.124588
-    maxlongitude: 10.058867
-    maxlatitude: 45.156956
-    latitude: 45.133247
-    longitude: 10.022651
-- name: Latina
+    minlongitude: 15.772165
+    minlatitude: 40.617214
+    maxlongitude: 15.845494
+    maxlatitude: 40.66524
+    latitude: 40.640408
+    longitude: 15.805604
+- name: Novara
   names:
-  - Latina
-  code: LT
+  - Novara
+  code: "NO"
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.844528
-    minlatitude: 41.437992
-    maxlongitude: 12.958244
-    maxlatitude: 41.486465
-    latitude: 41.467567
-    longitude: 12.903597
-- name: Parma
+    minlongitude: 8.573949
+    minlatitude: 45.419167
+    maxlongitude: 8.657614
+    maxlatitude: 45.48849
+    latitude: 45.44693
+    longitude: 8.622161
+- name: Vicenza
   names:
-  - Parma
-  code: PR
+  - Vicenza
+  code: VI
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.27279
-    minlatitude: 44.755405
-    maxlongitude: 10.384298
-    maxlatitude: 44.839504
-    latitude: 44.801483
-    longitude: 10.327904
-- name: Teramo
+    minlongitude: 11.49101
+    minlatitude: 45.496513
+    maxlongitude: 11.610819
+    maxlatitude: 45.60393
+    latitude: 45.54548
+    longitude: 11.535421
+- name: Campobasso
   names:
-  - Teramo
-  code: TE
+  - Campobasso
+  code: CB
   countryalpha2: IT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.668671
-    minlatitude: 42.642807
-    maxlongitude: 13.745285
-    maxlatitude: 42.68117
-    latitude: 42.661144
-    longitude: 13.698664
+    minlongitude: 14.643634
+    minlatitude: 41.540825
+    maxlongitude: 14.692415
+    maxlatitude: 41.57416
+    latitude: 41.560253
+    longitude: 14.662716
+- name: Olbia-Tempio
+  names:
+  - Olbia-Tempio
+  code: OT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.802582
+    minlatitude: 40.52587
+    maxlongitude: 9.778957
+    maxlatitude: 41.313194
+    latitude: 40.82684
+    longitude: 9.278559
+- name: Perugia
+  names:
+  - Perugia
+  code: PG
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.308451
+    minlatitude: 43.040096
+    maxlongitude: 12.452198
+    maxlatitude: 43.14994
+    latitude: 43.110718
+    longitude: 12.390828
+- name: Ravenna
+  names:
+  - Ravenna
+  code: RA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.166801
+    minlatitude: 44.384136
+    maxlongitude: 12.234217
+    maxlatitude: 44.440548
+    latitude: 44.41836
+    longitude: 12.203529
+- name: Bergamo
+  names:
+  - Bergamo
+  code: BG
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.620546
+    minlatitude: 45.662518
+    maxlongitude: 9.713633
+    maxlatitude: 45.72385
+    latitude: 45.698265
+    longitude: 9.67727
+- name: Biella
+  names:
+  - Biella
+  code: BI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.016127
+    minlatitude: 45.54272
+    maxlongitude: 8.0935545
+    maxlatitude: 45.598385
+    latitude: 45.562885
+    longitude: 8.05834
+- name: Massa-Carrara
+  names:
+  - Massa-Carrara
+  code: MS
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.028052
+    minlatitude: 44.03541
+    maxlongitude: 10.108908
+    maxlatitude: 44.092735
+    latitude: 44.079323
+    longitude: 10.097677
+- name: Barletta-Andria-Trani
+  names:
+  - Barletta-Andria-Trani
+  code: BT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.870252
+    minlatitude: 40.89772
+    maxlongitude: 16.54225
+    maxlatitude: 41.44171
+    latitude: 41.200455
+    longitude: 16.205149
+- name: Firenze
+  names:
+  - Firenze
+  code: FI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.1540365
+    minlatitude: 43.72698
+    maxlongitude: 11.327899
+    maxlatitude: 43.832935
+    latitude: 43.76956
+    longitude: 11.255814
+- name: Pistoia
+  names:
+  - Pistoia
+  code: PT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.866161
+    minlatitude: 43.880463
+    maxlongitude: 10.994604
+    maxlatitude: 44.01011
+    latitude: 43.930347
+    longitude: 10.907859
+- name: Cosenza
+  names:
+  - Cosenza
+  code: CS
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.21956
+    minlatitude: 39.27699
+    maxlongitude: 16.285057
+    maxlatitude: 39.33261
+    latitude: 39.298264
+    longitude: 16.253736
+- name: Isernia
+  names:
+  - Isernia
+  code: IS
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.213551
+    minlatitude: 41.578224
+    maxlongitude: 14.253853
+    maxlatitude: 41.617443
+    latitude: 41.596043
+    longitude: 14.233161
+- name: Aosta
+  names:
+  - Aosta
+  code: AO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.2833805
+    minlatitude: 45.72625
+    maxlongitude: 7.3479743
+    maxlatitude: 45.761444
+    latitude: 45.734955
+    longitude: 7.313076
+- name: Rieti
+  names:
+  - Rieti
+  code: RI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.827067
+    minlatitude: 42.392853
+    maxlongitude: 12.904025
+    maxlatitude: 42.439262
+    latitude: 42.40451
+    longitude: 12.856729
+- name: Sondrio
+  names:
+  - Sondrio
+  code: SO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.844439
+    minlatitude: 46.158836
+    maxlongitude: 9.898327
+    maxlatitude: 46.1774
+    latitude: 46.169857
+    longitude: 9.878767
+- name: Palermo
+  names:
+  - Palermo
+  code: PA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.267421
+    minlatitude: 38.06154
+    maxlongitude: 13.447157
+    maxlatitude: 38.219467
+    latitude: 38.11569
+    longitude: 13.361267
+- name: Pordenone
+  names:
+  - Pordenone
+  code: PN
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.626335
+    minlatitude: 45.918427
+    maxlongitude: 12.701358
+    maxlatitude: 45.995857
+    latitude: 45.96264
+    longitude: 12.655136
 - name: Varese
   names:
   - Varese
@@ -1538,3 +1230,311 @@
     maxlatitude: 45.864525
     latitude: 45.8206
     longitude: 8.825058
+- name: Bologna
+  names:
+  - Bologna
+  code: BO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.229654
+    minlatitude: 44.44204
+    maxlongitude: 11.433717
+    maxlatitude: 44.5562
+    latitude: 44.49489
+    longitude: 11.342616
+- name: Cremona
+  names:
+  - Cremona
+  code: CR
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.98633
+    minlatitude: 45.124588
+    maxlongitude: 10.058867
+    maxlatitude: 45.156956
+    latitude: 45.133247
+    longitude: 10.022651
+- name: Nuoro
+  names:
+  - Nuoro
+  code: NU
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.279806
+    minlatitude: 40.305325
+    maxlongitude: 9.343346
+    maxlatitude: 40.333435
+    latitude: 40.320244
+    longitude: 9.326438
+- name: Prato
+  names:
+  - Prato
+  code: PO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.020265
+    minlatitude: 43.831413
+    maxlongitude: 11.147486
+    maxlatitude: 43.925213
+    latitude: 43.877705
+    longitude: 11.102228
+- name: Roma
+  names:
+  - Roma
+  code: RM
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.341707
+    minlatitude: 41.769596
+    maxlongitude: 12.7302885
+    maxlatitude: 42.050545
+    latitude: 41.902782
+    longitude: 12.496366
+- name: Viterbo
+  names:
+  - Viterbo
+  code: VT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.0796175
+    minlatitude: 42.404465
+    maxlongitude: 12.141164
+    maxlatitude: 42.440544
+    latitude: 42.420677
+    longitude: 12.107669
+- name: Asti
+  names:
+  - Asti
+  code: AT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.155009
+    minlatitude: 44.864426
+    maxlongitude: 8.263725
+    maxlatitude: 44.929325
+    latitude: 44.900753
+    longitude: 8.206426
+- name: Cagliari
+  names:
+  - Cagliari
+  code: CA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.079536
+    minlatitude: 39.185104
+    maxlongitude: 9.177219
+    maxlatitude: 39.2657
+    latitude: 39.223843
+    longitude: 9.121661
+- name: Ferrara
+  names:
+  - Ferrara
+  code: FE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.548783
+    minlatitude: 44.797794
+    maxlongitude: 11.664108
+    maxlatitude: 44.874683
+    latitude: 44.838123
+    longitude: 11.619787
+- name: Pisa
+  names:
+  - Pisa
+  code: PI
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.345376
+    minlatitude: 43.67402
+    maxlongitude: 10.445381
+    maxlatitude: 43.739483
+    latitude: 43.72284
+    longitude: 10.401689
+- name: Reggio Emilia
+  names:
+  - Reggio Emilia
+  code: RE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.552017
+    minlatitude: 44.655033
+    maxlongitude: 10.724519
+    maxlatitude: 44.748226
+    latitude: 44.698994
+    longitude: 10.629686
+- name: Teramo
+  names:
+  - Teramo
+  code: TE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.668671
+    minlatitude: 42.642807
+    maxlongitude: 13.745285
+    maxlatitude: 42.68117
+    latitude: 42.661144
+    longitude: 13.698664
+- name: Lecco
+  names:
+  - Lecco
+  code: LC
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.378139
+    minlatitude: 45.815083
+    maxlongitude: 9.424341
+    maxlatitude: 45.887054
+    latitude: 45.85657
+    longitude: 9.397671
+- name: Monza e Brianza
+  names:
+  - Monza e Brianza
+  code: MB
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.050524
+    minlatitude: 45.536648
+    maxlongitude: 9.496673
+    maxlatitude: 45.742733
+    latitude: 45.6236
+    longitude: 9.258801
+- name: Modena
+  names:
+  - Modena
+  code: MO
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.85318
+    minlatitude: 44.606155
+    maxlongitude: 10.990284
+    maxlatitude: 44.6942
+    latitude: 44.648838
+    longitude: 10.920087
+- name: Bolzano
+  names:
+  - Bolzano
+  code: BZ
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.313667
+    minlatitude: 46.46304
+    maxlongitude: 11.380648
+    maxlatitude: 46.515434
+    latitude: 46.498295
+    longitude: 11.354758
+- name: Enna
+  names:
+  - Enna
+  code: EN
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.262916
+    minlatitude: 37.545666
+    maxlongitude: 14.305199
+    maxlatitude: 37.570553
+    latitude: 37.565556
+    longitude: 14.275191
+- name: Matera
+  names:
+  - Matera
+  code: MT
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.572062
+    minlatitude: 40.63843
+    maxlongitude: 16.628197
+    maxlatitude: 40.690784
+    latitude: 40.666378
+    longitude: 16.60432
+- name: Napoli
+  names:
+  - Napoli
+  code: NA
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.13949
+    minlatitude: 40.792038
+    maxlongitude: 14.353715
+    maxlatitude: 40.915936
+    latitude: 40.851776
+    longitude: 14.268125
+- name: Savona
+  names:
+  - Savona
+  code: SV
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.434787
+    minlatitude: 44.281128
+    maxlongitude: 8.504291
+    maxlatitude: 44.32934
+    latitude: 44.29756
+    longitude: 8.4645
+- name: Pescara
+  names:
+  - Pescara
+  code: PE
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.152871
+    minlatitude: 42.41716
+    maxlongitude: 14.2543545
+    maxlatitude: 42.493874
+    latitude: 42.461792
+    longitude: 14.21609
+- name: Reggio Calabria
+  names:
+  - Reggio Calabria
+  code: RC
+  countryalpha2: IT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.630224
+    minlatitude: 37.99142
+    maxlongitude: 15.713315
+    maxlatitude: 38.204365
+    latitude: 38.1113
+    longitude: 15.647291

@@ -13,34 +13,25 @@ tlds:
 languages:
   kal: Greenlandic
 translations:
-  deu:
+  DEU:
     common: Grönland
     official: Grönland
-  fin:
+  FIN:
     common: Groönlanti
     official: Groönlanti
-  fra:
-    common: Groenland
-    official: Groenland
-  hrv:
+  HRV:
     common: Grenland
     official: Grenland
-  ita:
-    common: Groenlandia
-    official: Groenlandia
-  jpn:
+  JPN:
     common: グリーンランド
     official: グリーンランド
-  nld:
-    common: Groenland
-    official: Groenland
-  por:
+  POR:
     common: Gronelândia
     official: Groenlândia
-  rus:
+  RUS:
     common: Гренландия
     official: Гренландия
-  spa:
+  SPA:
     common: Groenlandia
     official: Groenlandia
 currencies:

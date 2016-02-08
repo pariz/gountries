@@ -1,31 +1,3 @@
-- name: Keryneia
-  names:
-  - Keryneia
-  code: "06"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.92227
-    minlatitude: 35.04234
-    maxlongitude: 34.00069
-    maxlatitude: 35.07264
-    latitude: 35.058693
-    longitude: 33.95828
-- name: Lefkosia
-  names:
-  - Lefkosia
-  code: "01"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.318615
-    minlatitude: 35.15167
-    maxlongitude: 33.476223
-    maxlatitude: 35.23232
-    latitude: 35.166668
-    longitude: 33.36667
 - name: Lemesos
   names:
   - Lemesos
@@ -82,3 +54,31 @@
     maxlatitude: 34.801178
     latitude: 34.772015
     longitude: 32.429737
+- name: Keryneia
+  names:
+  - Keryneia
+  code: "06"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.92227
+    minlatitude: 35.04234
+    maxlongitude: 34.00069
+    maxlatitude: 35.07264
+    latitude: 35.058693
+    longitude: 33.95828
+- name: Lefkosia
+  names:
+  - Lefkosia
+  code: "01"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.318615
+    minlatitude: 35.15167
+    maxlongitude: 33.476223
+    maxlatitude: 35.23232
+    latitude: 35.166668
+    longitude: 33.36667

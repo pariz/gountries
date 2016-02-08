@@ -13,34 +13,22 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  FIN:
     common: Grenada
     official: Grenada
-  fin:
-    common: Grenada
-    official: Grenada
-  fra:
+  FRA:
     common: Grenade
     official: Grenade
-  hrv:
+  HRV:
     common: Grenada
     official: Grenada
-  ita:
-    common: Grenada
-    official: Grenada
-  jpn:
+  JPN:
     common: グレナダ
     official: グレナダ
-  nld:
-    common: Grenada
-    official: Grenada
-  por:
+  POR:
     common: Granada
     official: Grenada
-  rus:
-    common: Гренада
-    official: Гренада
-  spa:
+  SPA:
     common: Grenada
     official: Granada
 currencies:

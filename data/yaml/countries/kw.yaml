@@ -13,34 +13,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
+  DEU:
     common: Kuwait
     official: Staat Kuwait
-  fin:
-    common: Kuwait
-    official: Kuwaitin valtio
-  fra:
+  FRA:
     common: Koweït
     official: État du Koweït
-  hrv:
+  HRV:
     common: Kuvajt
     official: Država Kuvajt
-  ita:
+  ITA:
     common: Kuwait
     official: Stato del Kuwait
-  jpn:
-    common: クウェート
-    official: クウェート国
-  nld:
-    common: Koeweit
-    official: Staat Koeweit
-  por:
-    common: Kuwait
-    official: Estado do Kuwait
-  rus:
+  RUS:
     common: Кувейт
     official: Государство Кувейт
-  spa:
+  SPA:
     common: Kuwait
     official: Estado de Kuwait
 currencies:

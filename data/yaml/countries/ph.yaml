@@ -17,34 +17,28 @@ languages:
   eng: English
   fil: Filipino
 translations:
-  deu:
+  DEU:
     common: Philippinen
     official: Republik der Philippinen
-  fin:
-    common: Filippiinit
-    official: Filippiinien tasavalta
-  fra:
-    common: Philippines
-    official: République des Philippines
-  hrv:
+  HRV:
     common: Filipini
     official: Republika Filipini
-  ita:
+  ITA:
     common: Filippine
     official: Repubblica delle Filippine
-  jpn:
+  JPN:
     common: フィリピン
     official: フィリピン共和国
-  nld:
+  NLD:
     common: Filipijnen
     official: Republiek der Filipijnen
-  por:
+  POR:
     common: Filipinas
     official: República das Filipinas
-  rus:
+  RUS:
     common: Филиппины
     official: Республика Филиппины
-  spa:
+  SPA:
     common: Filipinas
     official: República de las Filipinas
 currencies:

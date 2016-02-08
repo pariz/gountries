@@ -21,34 +21,25 @@ languages:
   eng: English
   fra: French
 translations:
-  deu:
+  DEU:
     common: Vanuatu
     official: Vanuatu
-  fin:
+  FIN:
     common: Vanuatu
     official: Vanuatun tasavalta
-  fra:
-    common: Vanuatu
-    official: République de Vanuatu
-  hrv:
+  HRV:
     common: Vanuatu
     official: Republika Vanuatu
-  ita:
+  ITA:
     common: Vanuatu
     official: Repubblica di Vanuatu
-  jpn:
+  JPN:
     common: バヌアツ
     official: バヌアツ共和国
-  nld:
-    common: Vanuatu
-    official: Republiek Vanuatu
-  por:
-    common: Vanuatu
-    official: República de Vanuatu
-  rus:
+  RUS:
     common: Вануату
     official: Республика Вануату
-  spa:
+  SPA:
     common: Vanuatu
     official: República de Vanuatu
 currencies:

@@ -1,17 +1,17 @@
-- name: Iwate
+- name: Akita
   names:
-  - Iwate
-  code: "03"
+  - Akita
+  code: "05"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 140.65302
-    minlatitude: 38.74752
-    maxlongitude: 142.07251
-    maxlatitude: 40.45045
-    latitude: 39.70362
-    longitude: 141.15268
+    minlongitude: 140.02057
+    minlatitude: 39.448746
+    maxlongitude: 140.51543
+    maxlatitude: 39.865276
+    latitude: 39.72001
+    longitude: 140.10257
 - name: Yamagata
   names:
   - Yamagata
@@ -26,21 +26,65 @@
     maxlatitude: 38.352116
     latitude: 38.25544
     longitude: 140.3396
-- name: Chiba
+- name: Hiroshima
   names:
-  - Tiba
-  - Chiba
-  code: "12"
+  - Hirosima
+  - Hiroshima
+  code: "34"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 140.01828
-    minlatitude: 35.493603
-    maxlongitude: 140.30084
-    maxlatitude: 35.71484
-    latitude: 35.607265
-    longitude: 140.1063
+    minlongitude: 132.17888
+    minlatitude: 34.296684
+    maxlongitude: 132.69608
+    maxlatitude: 34.615654
+    latitude: 34.385204
+    longitude: 132.45529
+- name: Kagoshima
+  names:
+  - Kagosima
+  - Kagoshima
+  code: "46"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 130.3867
+    minlatitude: 31.293318
+    maxlongitude: 130.72488
+    maxlatitude: 31.752731
+    latitude: 31.596554
+    longitude: 130.55711
+- name: Fukushima
+  names:
+  - Hukusima
+  - Fukushima
+  code: "07"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.22998
+    minlatitude: 37.62435
+    maxlongitude: 140.57094
+    maxlatitude: 37.97664
+    latitude: 37.760834
+    longitude: 140.47473
+- name: Ibaraki
+  names:
+  - Ibaraki
+  code: "08"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 139.68745
+    minlatitude: 35.740173
+    maxlongitude: 140.84953
+    maxlatitude: 36.943996
+    latitude: 36.341812
+    longitude: 140.4468
 - name: Tokyo
   names:
   - Tokyo
@@ -56,6 +100,36 @@
     maxlatitude: 35.817516
     latitude: 35.709026
     longitude: 139.732
+- name: Shizuoka
+  names:
+  - Sizuoka
+  - Shizuoka
+  code: "22"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 138.08292
+    minlatitude: 34.898026
+    maxlongitude: 138.63582
+    maxlatitude: 35.64599
+    latitude: 34.975563
+    longitude: 138.38277
+- name: Aichi
+  names:
+  - Aiti
+  - Aichi
+  code: "23"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 136.67102
+    minlatitude: 34.578087
+    maxlongitude: 137.83786
+    maxlatitude: 35.424824
+    latitude: 35.180187
+    longitude: 136.90657
 - name: Kyoto
   names:
   - Kyoto
@@ -70,34 +144,91 @@
     maxlatitude: 35.321194
     latitude: 35.011635
     longitude: 135.76804
-- name: Ehime
+- name: Miyagi
   names:
-  - Ehime
-  code: "38"
+  - Miyagi
+  code: "04"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 132.01265
-    minlatitude: 32.89776
-    maxlongitude: 133.6929
-    maxlatitude: 34.301712
-    latitude: 33.841625
-    longitude: 132.76569
-- name: Oita
+    minlongitude: 140.27467
+    minlatitude: 37.77386
+    maxlongitude: 141.67546
+    maxlatitude: 39.002857
+    latitude: 38.268837
+    longitude: 140.8721
+- name: Toyama
   names:
-  - Oita
-  code: "44"
+  - Toyama
+  code: "16"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 131.41866
-    minlatitude: 33.069763
-    maxlongitude: 131.95683
-    maxlatitude: 33.280514
-    latitude: 33.23956
-    longitude: 131.60927
+    minlongitude: 137.02817
+    minlatitude: 36.36984
+    maxlongitude: 137.70554
+    maxlatitude: 36.7667
+    latitude: 36.695953
+    longitude: 137.21368
+- name: Tokushima
+  names:
+  - Tokusima
+  - Tokushima
+  code: "36"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.42216
+    minlatitude: 33.9553
+    maxlongitude: 134.60698
+    maxlatitude: 34.130333
+    latitude: 34.07027
+    longitude: 134.55484
+- name: Saga
+  names:
+  - Saga
+  code: "41"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 129.7396
+    minlatitude: 32.950542
+    maxlongitude: 130.54228
+    maxlatitude: 33.618896
+    latitude: 33.249443
+    longitude: 130.29979
+- name: Aomori
+  names:
+  - Aomori
+  code: "02"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.52028
+    minlatitude: 40.605938
+    maxlongitude: 140.98085
+    maxlatitude: 40.97028
+    latitude: 40.82207
+    longitude: 140.74736
+- name: Iwate
+  names:
+  - Iwate
+  code: "03"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.65302
+    minlatitude: 38.74752
+    maxlongitude: 142.07251
+    maxlatitude: 40.45045
+    latitude: 39.70362
+    longitude: 141.15268
 - name: Gunma
   names:
   - Gunma
@@ -112,6 +243,135 @@
     maxlatitude: 37.058605
     latitude: 36.390667
     longitude: 139.06041
+- name: Saitama
+  names:
+  - Saitama
+  code: "11"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 139.54012
+    minlatitude: 35.82868
+    maxlongitude: 139.7574
+    maxlatitude: 36.002518
+    latitude: 35.86173
+    longitude: 139.64548
+- name: Chiba
+  names:
+  - Tiba
+  - Chiba
+  code: "12"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.01828
+    minlatitude: 35.493603
+    maxlongitude: 140.30084
+    maxlatitude: 35.71484
+    latitude: 35.607265
+    longitude: 140.1063
+- name: Ishikawa
+  names:
+  - Isikawa
+  - Ishikawa
+  code: "17"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 136.243
+    minlatitude: 36.067276
+    maxlongitude: 137.36082
+    maxlatitude: 37.855328
+    latitude: 36.59468
+    longitude: 136.62558
+- name: Nagano
+  names:
+  - Nagano
+  code: "20"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 137.91
+    minlatitude: 36.460453
+    maxlongitude: 138.31908
+    maxlatitude: 36.835842
+    latitude: 36.64855
+    longitude: 138.19424
+- name: Nara
+  names:
+  - Nara
+  code: "29"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 135.7131
+    minlatitude: 34.558155
+    maxlongitude: 136.07109
+    maxlatitude: 34.75777
+    latitude: 34.685085
+    longitude: 135.805
+- name: Tottori
+  names:
+  - Tottori
+  code: "31"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 133.9459
+    minlatitude: 35.27169
+    maxlongitude: 134.44081
+    maxlatitude: 35.57287
+    latitude: 35.501133
+    longitude: 134.23509
+- name: Kagawa
+  names:
+  - Kagawa
+  code: "37"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 133.44661
+    minlatitude: 34.012383
+    maxlongitude: 134.4407
+    maxlatitude: 34.56485
+    latitude: 34.34015
+    longitude: 134.04344
+- name: Oita
+  names:
+  - Oita
+  code: "44"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 131.41866
+    minlatitude: 33.069763
+    maxlongitude: 131.95683
+    maxlatitude: 33.280514
+    latitude: 33.23956
+    longitude: 131.60927
+- name: Tochigi
+  names:
+  - Totigi
+  - Tochigi
+  code: "09"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 139.32655
+    minlatitude: 36.19795
+    maxlongitude: 140.29248
+    maxlatitude: 37.155083
+    latitude: 36.565723
+    longitude: 139.88356
 - name: Niigata
   names:
   - Niigata
@@ -141,194 +401,6 @@
     maxlatitude: 36.17297
     latitude: 36.064068
     longitude: 136.2195
-- name: Shizuoka
-  names:
-  - Sizuoka
-  - Shizuoka
-  code: "22"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 138.08292
-    minlatitude: 34.898026
-    maxlongitude: 138.63582
-    maxlatitude: 35.64599
-    latitude: 34.975563
-    longitude: 138.38277
-- name: Shimane
-  names:
-  - Simane
-  - Shimane
-  code: "32"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 131.66797
-    minlatitude: 34.302456
-    maxlongitude: 133.38666
-    maxlatitude: 36.35622
-    latitude: 35.472294
-    longitude: 133.0505
-- name: Tokushima
-  names:
-  - Tokusima
-  - Tokushima
-  code: "36"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.42216
-    minlatitude: 33.9553
-    maxlongitude: 134.60698
-    maxlatitude: 34.130333
-    latitude: 34.07027
-    longitude: 134.55484
-- name: Miyagi
-  names:
-  - Miyagi
-  code: "04"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.27467
-    minlatitude: 37.77386
-    maxlongitude: 141.67546
-    maxlatitude: 39.002857
-    latitude: 38.268837
-    longitude: 140.8721
-- name: Saitama
-  names:
-  - Saitama
-  code: "11"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 139.54012
-    minlatitude: 35.82868
-    maxlongitude: 139.7574
-    maxlatitude: 36.002518
-    latitude: 35.86173
-    longitude: 139.64548
-- name: Kanagawa
-  names:
-  - Kanagawa
-  code: "14"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 139.5678
-    minlatitude: 35.46357
-    maxlongitude: 139.66919
-    maxlatitude: 35.506332
-    latitude: 35.476902
-    longitude: 139.62943
-- name: Ibaraki
-  names:
-  - Ibaraki
-  code: "08"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 139.68745
-    minlatitude: 35.740173
-    maxlongitude: 140.84953
-    maxlatitude: 36.943996
-    latitude: 36.341812
-    longitude: 140.4468
-- name: Mie
-  names:
-  - Mie
-  code: "24"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 135.85286
-    minlatitude: 33.72264
-    maxlongitude: 136.98775
-    maxlatitude: 35.257683
-    latitude: 34.73028
-    longitude: 136.50859
-- name: Yamaguchi
-  names:
-  - Yamaguti
-  - Yamaguchi
-  code: "35"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 131.29196
-    minlatitude: 33.967705
-    maxlongitude: 131.79561
-    maxlatitude: 34.50453
-    latitude: 34.178497
-    longitude: 131.47372
-- name: Nagasaki
-  names:
-  - Nagasaki
-  code: "42"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 129.55284
-    minlatitude: 32.549175
-    maxlongitude: 129.99382
-    maxlatitude: 32.968647
-    latitude: 32.750286
-    longitude: 129.87767
-- name: Akita
-  names:
-  - Akita
-  code: "05"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.02057
-    minlatitude: 39.448746
-    maxlongitude: 140.51543
-    maxlatitude: 39.865276
-    latitude: 39.72001
-    longitude: 140.10257
-- name: Tochigi
-  names:
-  - Totigi
-  - Tochigi
-  code: "09"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 139.32655
-    minlatitude: 36.19795
-    maxlongitude: 140.29248
-    maxlatitude: 37.155083
-    latitude: 36.565723
-    longitude: 139.88356
-- name: Ishikawa
-  names:
-  - Isikawa
-  - Ishikawa
-  code: "17"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 136.243
-    minlatitude: 36.067276
-    maxlongitude: 137.36082
-    maxlatitude: 37.855328
-    latitude: 36.59468
-    longitude: 136.62558
 - name: Gifu
   names:
   - Gihu
@@ -359,121 +431,6 @@
     maxlatitude: 35.70358
     latitude: 35.00453
     longitude: 135.86859
-- name: Osaka
-  names:
-  - Osaka
-  code: "27"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 135.3729
-    minlatitude: 34.586147
-    maxlongitude: 135.59917
-    maxlatitude: 34.768753
-    latitude: 34.693737
-    longitude: 135.50217
-- name: Hyogo
-  names:
-  - Hyogo
-  code: "28"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.25272
-    minlatitude: 34.15567
-    maxlongitude: 135.46855
-    maxlatitude: 35.674732
-    latitude: 34.69127
-    longitude: 135.18307
-- name: Kagawa
-  names:
-  - Kagawa
-  code: "37"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 133.44661
-    minlatitude: 34.012383
-    maxlongitude: 134.4407
-    maxlatitude: 34.56485
-    latitude: 34.34015
-    longitude: 134.04344
-- name: Fukushima
-  names:
-  - Hukusima
-  - Fukushima
-  code: "07"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.22998
-    minlatitude: 37.62435
-    maxlongitude: 140.57094
-    maxlatitude: 37.97664
-    latitude: 37.760834
-    longitude: 140.47473
-- name: Toyama
-  names:
-  - Toyama
-  code: "16"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 137.02817
-    minlatitude: 36.36984
-    maxlongitude: 137.70554
-    maxlatitude: 36.7667
-    latitude: 36.695953
-    longitude: 137.21368
-- name: Yamanashi
-  names:
-  - Yamanasi
-  - Yamanashi
-  code: "19"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 138.18011
-    minlatitude: 35.1683
-    maxlongitude: 139.13455
-    maxlatitude: 35.971912
-    latitude: 35.664158
-    longitude: 138.56845
-- name: Aichi
-  names:
-  - Aiti
-  - Aichi
-  code: "23"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 136.67102
-    minlatitude: 34.578087
-    maxlongitude: 137.83786
-    maxlatitude: 35.424824
-    latitude: 35.180187
-    longitude: 136.90657
-- name: Wakayama
-  names:
-  - Wakayama
-  code: "30"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.99908
-    minlatitude: 34.150433
-    maxlongitude: 135.31483
-    maxlatitude: 34.31573
-    latitude: 34.23051
-    longitude: 135.1708
 - name: Kochi
   names:
   - Kochi
@@ -502,20 +459,49 @@
     maxlatitude: 32.979977
     latitude: 32.8031
     longitude: 130.70789
-- name: Tottori
+- name: Miyazaki
   names:
-  - Tottori
-  code: "31"
+  - Miyazaki
+  code: "45"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 133.9459
-    minlatitude: 35.27169
-    maxlongitude: 134.44081
-    maxlatitude: 35.57287
-    latitude: 35.501133
-    longitude: 134.23509
+    minlongitude: 131.18896
+    minlatitude: 31.721033
+    maxlongitude: 131.50578
+    maxlatitude: 32.065933
+    latitude: 31.907673
+    longitude: 131.42024
+- name: Kanagawa
+  names:
+  - Kanagawa
+  code: "14"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 139.5678
+    minlatitude: 35.46357
+    maxlongitude: 139.66919
+    maxlatitude: 35.506332
+    latitude: 35.476902
+    longitude: 139.62943
+- name: Yamanashi
+  names:
+  - Yamanasi
+  - Yamanashi
+  code: "19"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 138.18011
+    minlatitude: 35.1683
+    maxlongitude: 139.13455
+    maxlatitude: 35.971912
+    latitude: 35.664158
+    longitude: 138.56845
 - name: Okayama
   names:
   - Okayama
@@ -530,78 +516,6 @@
     maxlatitude: 34.948914
     latitude: 34.655144
     longitude: 133.9195
-- name: Hokkaido
-  names:
-  - Hokkaidô
-  - Hokkaido
-  code: "01"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Aomori
-  names:
-  - Aomori
-  code: "02"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.52028
-    minlatitude: 40.605938
-    maxlongitude: 140.98085
-    maxlatitude: 40.97028
-    latitude: 40.82207
-    longitude: 140.74736
-- name: Nagano
-  names:
-  - Nagano
-  code: "20"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 137.91
-    minlatitude: 36.460453
-    maxlongitude: 138.31908
-    maxlatitude: 36.835842
-    latitude: 36.64855
-    longitude: 138.19424
-- name: Nara
-  names:
-  - Nara
-  code: "29"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 135.7131
-    minlatitude: 34.558155
-    maxlongitude: 136.07109
-    maxlatitude: 34.75777
-    latitude: 34.685085
-    longitude: 135.805
-- name: Hiroshima
-  names:
-  - Hirosima
-  - Hiroshima
-  code: "34"
-  countryalpha2: JP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 132.17888
-    minlatitude: 34.296684
-    maxlongitude: 132.69608
-    maxlatitude: 34.615654
-    latitude: 34.385204
-    longitude: 132.45529
 - name: Fukuoka
   names:
   - Hukuoka
@@ -617,49 +531,135 @@
     maxlatitude: 33.874115
     latitude: 33.590355
     longitude: 130.40172
-- name: Saga
+- name: Hyogo
   names:
-  - Saga
-  code: "41"
+  - Hyogo
+  code: "28"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 129.7396
-    minlatitude: 32.950542
-    maxlongitude: 130.54228
-    maxlatitude: 33.618896
-    latitude: 33.249443
-    longitude: 130.29979
-- name: Miyazaki
+    minlongitude: 134.25272
+    minlatitude: 34.15567
+    maxlongitude: 135.46855
+    maxlatitude: 35.674732
+    latitude: 34.69127
+    longitude: 135.18307
+- name: Shimane
   names:
-  - Miyazaki
-  code: "45"
+  - Simane
+  - Shimane
+  code: "32"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 131.18896
-    minlatitude: 31.721033
-    maxlongitude: 131.50578
-    maxlatitude: 32.065933
-    latitude: 31.907673
-    longitude: 131.42024
-- name: Kagoshima
+    minlongitude: 131.66797
+    minlatitude: 34.302456
+    maxlongitude: 133.38666
+    maxlatitude: 36.35622
+    latitude: 35.472294
+    longitude: 133.0505
+- name: Ehime
   names:
-  - Kagosima
-  - Kagoshima
-  code: "46"
+  - Ehime
+  code: "38"
   countryalpha2: JP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 130.3867
-    minlatitude: 31.293318
-    maxlongitude: 130.72488
-    maxlatitude: 31.752731
-    latitude: 31.596554
-    longitude: 130.55711
+    minlongitude: 132.01265
+    minlatitude: 32.89776
+    maxlongitude: 133.6929
+    maxlatitude: 34.301712
+    latitude: 33.841625
+    longitude: 132.76569
+- name: Hokkaido
+  names:
+  - Hokkaidô
+  - Hokkaido
+  code: "01"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mie
+  names:
+  - Mie
+  code: "24"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 135.85286
+    minlatitude: 33.72264
+    maxlongitude: 136.98775
+    maxlatitude: 35.257683
+    latitude: 34.73028
+    longitude: 136.50859
+- name: Osaka
+  names:
+  - Osaka
+  code: "27"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 135.3729
+    minlatitude: 34.586147
+    maxlongitude: 135.59917
+    maxlatitude: 34.768753
+    latitude: 34.693737
+    longitude: 135.50217
+- name: Wakayama
+  names:
+  - Wakayama
+  code: "30"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.99908
+    minlatitude: 34.150433
+    maxlongitude: 135.31483
+    maxlatitude: 34.31573
+    latitude: 34.23051
+    longitude: 135.1708
+- name: Yamaguchi
+  names:
+  - Yamaguti
+  - Yamaguchi
+  code: "35"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 131.29196
+    minlatitude: 33.967705
+    maxlongitude: 131.79561
+    maxlatitude: 34.50453
+    latitude: 34.178497
+    longitude: 131.47372
+- name: Nagasaki
+  names:
+  - Nagasaki
+  code: "42"
+  countryalpha2: JP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 129.55284
+    minlatitude: 32.549175
+    maxlongitude: 129.99382
+    maxlatitude: 32.968647
+    latitude: 32.750286
+    longitude: 129.87767
 - name: Okinawa
   names:
   - Okinawa

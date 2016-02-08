@@ -17,37 +17,31 @@ languages:
   fra: French
   run: Kirundi
 translations:
-  cym:
+  CYM:
     common: Bwrwndi
     official: Republic of Burundi
-  deu:
-    common: Burundi
-    official: Republik Burundi
-  fin:
+  FIN:
     common: Burundi
     official: Burundin tasavalta
-  fra:
+  FRA:
     common: Burundi
     official: République du Burundi
-  hrv:
+  HRV:
     common: Burundi
     official: Burundi
-  ita:
+  ITA:
     common: Burundi
     official: Repubblica del Burundi
-  jpn:
-    common: ブルンジ
-    official: ブルンジ共和国
-  nld:
+  NLD:
     common: Burundi
     official: Republiek Burundi
-  por:
+  POR:
     common: Burundi
     official: República do Burundi
-  rus:
+  RUS:
     common: Бурунди
     official: Республика Бурунди
-  spa:
+  SPA:
     common: Burundi
     official: República de Burundi
 currencies:

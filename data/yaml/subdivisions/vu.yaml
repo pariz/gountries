@@ -1,3 +1,17 @@
+- name: Sanma
+  names:
+  - Santo-Malo
+  code: SAM
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.54176
+    minlatitude: -15.751007
+    maxlongitude: 167.29738
+    maxlatitude: -14.643453
+    latitude: -15.484002
+    longitude: 166.91821
 - name: Shéfa
   names:
   - Sandwich Island
@@ -79,17 +93,3 @@
     maxlatitude: -14.89196
     latitude: -15.379576
     longitude: 167.90532
-- name: Sanma
-  names:
-  - Santo-Malo
-  code: SAM
-  countryalpha2: VU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.54176
-    minlatitude: -15.751007
-    maxlongitude: 167.29738
-    maxlatitude: -14.643453
-    latitude: -15.484002
-    longitude: 166.91821

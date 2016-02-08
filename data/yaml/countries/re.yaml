@@ -13,36 +13,18 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  FIN:
     common: Réunion
     official: Réunion
-  fin:
-    common: Réunion
-    official: Réunion
-  fra:
-    common: Réunion
-    official: Ile de la Réunion
-  hrv:
+  HRV:
     common: Réunion
     official: Réunion Island
-  ita:
+  ITA:
     common: Riunione
     official: Réunion
-  jpn:
-    common: レユニオン
-    official: レユニオン島
-  nld:
-    common: Réunion
-    official: Réunion
-  por:
+  POR:
     common: Reunião
     official: Ilha da Reunião
-  rus:
-    common: Реюньон
-    official: Реюньон
-  spa:
-    common: Reunión
-    official: Isla de la Reunión
 currencies:
 - EUR
 borders: []

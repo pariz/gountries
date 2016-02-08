@@ -1,32 +1,21 @@
-- name: Namur (fr)
+- name: Brussels
   names:
-  - Namen
-  code: WNA
+  - Brussels Hoofdstedelijk Gewest
+  - Région de Bruxelles-Capitale
+  - Brussel
+  - Brüssel
+  - Bruxelles
+  code: BRU
   countryalpha2: BE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.7229
-    minlatitude: 50.38738
-    maxlongitude: 4.98398
-    maxlatitude: 50.53122
-    latitude: 50.46739
-    longitude: 4.8719854
-- name: Antwerpen (nl)
-  names:
-  - Antwerpen
-  - Anvers
-  code: VAN
-  countryalpha2: BE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.2176
-    minlatitude: 51.14334
-    maxlongitude: 4.49784
-    maxlatitude: 51.37743
-    latitude: 51.219448
-    longitude: 4.4024644
+    minlongitude: 4.3138
+    minlatitude: 50.79624
+    maxlongitude: 4.43698
+    maxlatitude: 50.91371
+    latitude: 50.850338
+    longitude: 4.3517103
 - name: Vlaams Brabant (nl)
   names:
   - Brabant-Vlanderen
@@ -75,6 +64,22 @@
     maxlatitude: 51.35284
     latitude: 51.03621
     longitude: 3.7373123
+- name: Brabant Wallon (fr)
+  names:
+  - Waals-Brabant
+  - Wallonisch Brabant
+  - Walloon Brabant
+  code: WBR
+  countryalpha2: BE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.0911503
+    minlatitude: 50.52542
+    maxlongitude: 5.02037
+    maxlatitude: 50.80735
+    latitude: 50.63324
+    longitude: 4.524315
 - name: Hainaut (fr)
   names:
   - Henegouwen
@@ -90,6 +95,52 @@
     maxlatitude: 50.81077
     latitude: 50.525707
     longitude: 4.062102
+- name: Namur (fr)
+  names:
+  - Namen
+  code: WNA
+  countryalpha2: BE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.7229
+    minlatitude: 50.38738
+    maxlongitude: 4.98398
+    maxlatitude: 50.53122
+    latitude: 50.46739
+    longitude: 4.8719854
+- name: Antwerpen (nl)
+  names:
+  - Antwerpen
+  - Anvers
+  code: VAN
+  countryalpha2: BE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.2176
+    minlatitude: 51.14334
+    maxlongitude: 4.49784
+    maxlatitude: 51.37743
+    latitude: 51.219448
+    longitude: 4.4024644
+- name: West-Vlaanderen (nl)
+  names:
+  - Wes-Vlanderen
+  - West-Vlaanderen
+  - West-Flandern
+  - Flandre-Occidentale
+  code: VWV
+  countryalpha2: BE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.54494
+    minlatitude: 50.70816
+    maxlongitude: 3.5233
+    maxlatitude: 51.36855
+    latitude: 51.053604
+    longitude: 3.1457942
 - name: Liège (fr)
   names:
   - Luik
@@ -120,54 +171,3 @@
     maxlatitude: 50.43061
     latitude: 50.054688
     longitude: 5.467698
-- name: Brussels
-  names:
-  - Brussels Hoofdstedelijk Gewest
-  - Région de Bruxelles-Capitale
-  - Brussel
-  - Brüssel
-  - Bruxelles
-  code: BRU
-  countryalpha2: BE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.3138
-    minlatitude: 50.79624
-    maxlongitude: 4.43698
-    maxlatitude: 50.91371
-    latitude: 50.850338
-    longitude: 4.3517103
-- name: West-Vlaanderen (nl)
-  names:
-  - Wes-Vlanderen
-  - West-Vlaanderen
-  - West-Flandern
-  - Flandre-Occidentale
-  code: VWV
-  countryalpha2: BE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.54494
-    minlatitude: 50.70816
-    maxlongitude: 3.5233
-    maxlatitude: 51.36855
-    latitude: 51.053604
-    longitude: 3.1457942
-- name: Brabant Wallon (fr)
-  names:
-  - Waals-Brabant
-  - Wallonisch Brabant
-  - Walloon Brabant
-  code: WBR
-  countryalpha2: BE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.0911503
-    minlatitude: 50.52542
-    maxlongitude: 5.02037
-    maxlatitude: 50.80735
-    latitude: 50.63324
-    longitude: 4.524315

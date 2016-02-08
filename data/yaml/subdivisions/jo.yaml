@@ -28,80 +28,6 @@
     maxlatitude: 0
     latitude: 31.71954
     longitude: 35.79411
-- name: Ma`an
-  names:
-  - Maan
-  - Maʿan
-  code: MN
-  countryalpha2: JO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 30.194958
-    longitude: 35.73424
-- name: Az Zarqa'
-  names:
-  - Zarka
-  - Zarqa
-  - Zerka
-  code: AZ
-  countryalpha2: JO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.888992
-    minlatitude: 31.493649
-    maxlongitude: 37.780865
-    maxlatitude: 32.196323
-    latitude: 31.751513
-    longitude: 36.86808
-- name: Al Balqa'
-  names:
-  - Al Balqa'
-  code: BA
-  countryalpha2: JO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.519306
-    minlatitude: 31.673563
-    maxlongitude: 35.934166
-    maxlatitude: 32.18398
-    latitude: 31.967604
-    longitude: 35.609547
-- name: Irbid
-  names:
-  - Irbit
-  code: IR
-  countryalpha2: JO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 32.54544
-    longitude: 35.857155
-- name: Jarash
-  names:
-  - Jarash
-  - Jerash
-  code: JA
-  countryalpha2: JO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 32.2769
-    longitude: 35.905552
 - name: Ajlun
   names:
   - Ajloan
@@ -164,6 +90,80 @@
     maxlatitude: 0
     latitude: 30.835833
     longitude: 35.61222
+- name: Al Balqa'
+  names:
+  - Al Balqa'
+  code: BA
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.519306
+    minlatitude: 31.673563
+    maxlongitude: 35.934166
+    maxlatitude: 32.18398
+    latitude: 31.967604
+    longitude: 35.609547
+- name: Irbid
+  names:
+  - Irbit
+  code: IR
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.54544
+    longitude: 35.857155
+- name: Ma`an
+  names:
+  - Maan
+  - Maʿan
+  code: MN
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 30.194958
+    longitude: 35.73424
+- name: Az Zarqa'
+  names:
+  - Zarka
+  - Zarqa
+  - Zerka
+  code: AZ
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.888992
+    minlatitude: 31.493649
+    maxlongitude: 37.780865
+    maxlatitude: 32.196323
+    latitude: 31.751513
+    longitude: 36.86808
+- name: Jarash
+  names:
+  - Jarash
+  - Jerash
+  code: JA
+  countryalpha2: JO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.2769
+    longitude: 35.905552
 - name: Al Karak
   names:
   - Karak

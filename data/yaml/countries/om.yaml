@@ -13,36 +13,24 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
+  DEU:
     common: Oman
     official: Sultanat Oman
-  fin:
+  FIN:
     common: Oman
     official: Omanin sulttaanikunta
-  fra:
-    common: Oman
-    official: Sultanat d'Oman
-  hrv:
+  HRV:
     common: Oman
     official: Sultanat Oman
-  ita:
-    common: oman
-    official: Sultanato dell'Oman
-  jpn:
+  JPN:
     common: オマーン
     official: オマーン·スルタン国
-  nld:
+  NLD:
     common: Oman
     official: Sultanaat van Oman
-  por:
+  POR:
     common: Omã
     official: Sultanato de Omã
-  rus:
-    common: Оман
-    official: Султанат Оман
-  spa:
-    common: Omán
-    official: Sultanato de Omán
 currencies:
 - OMR
 borders:

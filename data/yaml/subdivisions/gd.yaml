@@ -1,3 +1,17 @@
+- name: Saint John
+  names:
+  - Saint John
+  code: "04"
+  countryalpha2: GD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.752625
+    minlatitude: 12.108849
+    maxlongitude: -61.682125
+    maxlatitude: 12.177205
+    latitude: 12.130824
+    longitude: -61.712257
 - name: Saint Mark
   names:
   - Saint Mark
@@ -82,17 +96,3 @@
     maxlatitude: 12.110826
     latitude: 12.071432
     longitude: -61.73564
-- name: Saint John
-  names:
-  - Saint John
-  code: "04"
-  countryalpha2: GD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.752625
-    minlatitude: 12.108849
-    maxlongitude: -61.682125
-    maxlatitude: 12.177205
-    latitude: 12.130824
-    longitude: -61.712257

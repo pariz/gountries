@@ -13,39 +13,24 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
-    common: Antigwa a Barbiwda
-    official: Antigua and Barbuda
-  deu:
+  DEU:
     common: Antigua und Barbuda
     official: Antigua und Barbuda
-  fin:
+  FIN:
     common: Antigua ja Barbuda
     official: Antigua ja Barbuda
-  fra:
-    common: Antigua-et-Barbuda
-    official: Antigua -et-Barbuda
-  hrv:
-    common: Antigva i Barbuda
-    official: Antigva i Barbuda
-  ita:
+  ITA:
     common: Antigua e Barbuda
     official: Antigua e Barbuda
-  jpn:
+  JPN:
     common: アンティグア・バーブーダ
     official: アンチグアバーブーダ
-  nld:
+  NLD:
     common: Antigua en Barbuda
     official: Antigua en Barbuda
-  por:
-    common: Antígua e Barbuda
-    official: Antigua e Barbuda
-  rus:
+  RUS:
     common: Антигуа и Барбуда
     official: Антигуа и Барбуда
-  spa:
-    common: Antigua y Barbuda
-    official: Antigua y Barbuda
 currencies:
 - XCD
 borders: []

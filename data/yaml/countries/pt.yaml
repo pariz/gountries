@@ -13,36 +13,21 @@ tlds:
 languages:
   por: Portuguese
 translations:
-  deu:
+  DEU:
     common: Portugal
     official: Portugiesische Republik
-  fin:
-    common: Portugali
-    official: Portugalin tasavalta
-  fra:
-    common: Portugal
-    official: République portugaise
-  hrv:
+  HRV:
     common: Portugal
     official: Portugalska Republika
-  ita:
-    common: Portogallo
-    official: Repubblica portoghese
-  jpn:
+  JPN:
     common: ポルトガル
     official: ポルトガル共和国
-  nld:
-    common: Portugal
-    official: Portugese Republiek
-  por:
+  POR:
     common: Portugal
     official: República português
-  rus:
+  RUS:
     common: Португалия
     official: Португальская Республика
-  spa:
-    common: Portugal
-    official: República Portuguesa
 currencies:
 - EUR
 borders:

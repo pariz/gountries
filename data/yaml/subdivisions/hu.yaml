@@ -1,73 +1,59 @@
-- name: Eger
+- name: Hajdú-Bihar
   names:
-  - Eger
-  code: EG
+  - Hajdú-Bihar
+  code: HB
   countryalpha2: HU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.311314
-    minlatitude: 47.857033
-    maxlongitude: 20.471506
-    maxlatitude: 48.00133
-    latitude: 47.902534
-    longitude: 20.377228
-- name: Kecskemét
+    minlongitude: 20.82321
+    minlatitude: 46.941204
+    maxlongitude: 22.129725
+    maxlatitude: 47.964844
+    latitude: 47.468834
+    longitude: 21.545322
+- name: Veszprém
   names:
-  - Kecskemét
-  code: KM
+  - Veszprém
+  code: VE
   countryalpha2: HU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.50661
-    minlatitude: 46.769863
-    maxlongitude: 19.851503
-    maxlatitude: 47.001255
-    latitude: 46.89637
-    longitude: 19.689686
-- name: Pécs
+    minlongitude: 17.820786
+    minlatitude: 47.045963
+    maxlongitude: 17.993711
+    maxlatitude: 47.20563
+    latitude: 47.10281
+    longitude: 17.909302
+- name: Békés
   names:
-  - Pécs
-  code: PS
+  - Békés
+  code: BE
   countryalpha2: HU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 18.13568
-    minlatitude: 45.994045
-    maxlongitude: 18.365482
-    maxlatitude: 46.161423
-    latitude: 46.072735
-    longitude: 18.232265
-- name: Békéscsaba
+    minlongitude: 21.04361
+    minlatitude: 46.715267
+    maxlongitude: 21.219585
+    maxlatitude: 46.845707
+    latitude: 46.77112
+    longitude: 21.128975
+- name: Dunaújváros
   names:
-  - Békéscsaba
-  code: BC
+  - Dunaújváros
+  code: DU
   countryalpha2: HU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.930035
-    minlatitude: 46.61126
-    maxlongitude: 21.235752
-    maxlatitude: 46.747623
-    latitude: 46.673595
-    longitude: 21.08773
-- name: Borsod-Abaúj-Zemplén
-  names:
-  - Borsod-Abaúj-Zemplén
-  code: BZ
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.051893
-    minlatitude: 47.64265
-    maxlongitude: 22.129282
-    maxlatitude: 48.585236
-    latitude: 48.29394
-    longitude: 20.69341
+    minlongitude: 18.860456
+    minlatitude: 46.88979
+    maxlongitude: 18.965725
+    maxlatitude: 47.001965
+    latitude: 46.961906
+    longitude: 18.935522
 - name: Érd
   names:
   - Érd
@@ -82,20 +68,272 @@
     maxlatitude: 47.43019
     latitude: 47.39197
     longitude: 18.904545
-- name: Jász-Nagykun-Szolnok
+- name: Győr-Moson-Sopron
   names:
-  - Jász-Nagykun-Szolnok
-  code: JN
+  - Győr-Moson-Sopron
+  code: GS
   countryalpha2: HU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.651049
-    minlatitude: 46.75446
-    maxlongitude: 21.030264
-    maxlatitude: 47.682564
-    latitude: 47.255558
-    longitude: 20.523245
+    minlongitude: 16.421549
+    minlatitude: 47.272213
+    maxlongitude: 17.936481
+    maxlatitude: 48.022446
+    latitude: 47.65093
+    longitude: 17.250587
+- name: Győr
+  names:
+  - Győr
+  code: GY
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.50948
+    minlatitude: 47.591274
+    maxlongitude: 17.80789
+    maxlatitude: 47.747585
+    latitude: 47.687458
+    longitude: 17.650398
+- name: Kaposvár
+  names:
+  - Kaposvár
+  code: KV
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.741116
+    minlatitude: 46.290356
+    maxlongitude: 17.8912
+    maxlatitude: 46.45051
+    latitude: 46.35936
+    longitude: 17.796764
+- name: Nógrád
+  names:
+  - Nógrád
+  code: "NO"
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.985332
+    minlatitude: 47.867935
+    maxlongitude: 19.105532
+    maxlatitude: 47.933662
+    latitude: 47.904102
+    longitude: 19.04985
+- name: Nyíregyháza
+  names:
+  - Nyíregyháza
+  code: NY
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.557669
+    minlatitude: 47.84566
+    maxlongitude: 21.844149
+    maxlatitude: 48.03913
+    latitude: 47.94953
+    longitude: 21.724405
+- name: Szombathely
+  names:
+  - Szombathely
+  code: SH
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.527098
+    minlatitude: 47.15434
+    maxlongitude: 16.698223
+    maxlatitude: 47.274315
+    latitude: 47.230686
+    longitude: 16.621843
+- name: Békéscsaba
+  names:
+  - Békéscsaba
+  code: BC
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.930035
+    minlatitude: 46.61126
+    maxlongitude: 21.235752
+    maxlatitude: 46.747623
+    latitude: 46.673595
+    longitude: 21.08773
+- name: Csongrád
+  names:
+  - Csongrád
+  code: CS
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.96922
+    minlatitude: 46.649017
+    maxlongitude: 20.221518
+    maxlatitude: 46.80637
+    latitude: 46.708427
+    longitude: 20.143606
+- name: Eger
+  names:
+  - Eger
+  code: EG
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.311314
+    minlatitude: 47.857033
+    maxlongitude: 20.471506
+    maxlatitude: 48.00133
+    latitude: 47.902534
+    longitude: 20.377228
+- name: Hódmezővásárhely
+  names:
+  - Hódmezővásárhely
+  code: HV
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.184786
+    minlatitude: 46.294792
+    maxlongitude: 20.582891
+    maxlatitude: 46.528217
+    latitude: 46.418125
+    longitude: 20.330032
+- name: Kecskemét
+  names:
+  - Kecskemét
+  code: KM
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.50661
+    minlatitude: 46.769863
+    maxlongitude: 19.851503
+    maxlatitude: 47.001255
+    latitude: 46.89637
+    longitude: 19.689686
+- name: Szekszárd
+  names:
+  - Szekszárd
+  code: SS
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.610815
+    minlatitude: 46.29435
+    maxlongitude: 18.851652
+    maxlatitude: 46.40404
+    latitude: 46.34743
+    longitude: 18.70623
+- name: Borsod-Abaúj-Zemplén
+  names:
+  - Borsod-Abaúj-Zemplén
+  code: BZ
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.051893
+    minlatitude: 47.64265
+    maxlongitude: 22.129282
+    maxlatitude: 48.585236
+    latitude: 48.29394
+    longitude: 20.69341
+- name: Heves
+  names:
+  - Heves
+  code: HE
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.208672
+    minlatitude: 47.5282
+    maxlongitude: 20.38313
+    maxlatitude: 47.671257
+    latitude: 47.597168
+    longitude: 20.280155
+- name: Nagykanizsa
+  names:
+  - Nagykanizsa
+  code: NK
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.919825
+    minlatitude: 46.35871
+    maxlongitude: 17.090694
+    maxlatitude: 46.543613
+    latitude: 46.459023
+    longitude: 16.98968
+- name: Pécs
+  names:
+  - Pécs
+  code: PS
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.13568
+    minlatitude: 45.994045
+    maxlongitude: 18.365482
+    maxlatitude: 46.161423
+    latitude: 46.072735
+    longitude: 18.232265
+- name: Szolnok
+  names:
+  - Szolnok
+  code: SK
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.07103
+    minlatitude: 47.09629
+    maxlongitude: 20.296314
+    maxlatitude: 47.264515
+    latitude: 47.162136
+    longitude: 20.18247
+- name: Budapest
+  names:
+  - Budapest
+  code: BU
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.926102
+    minlatitude: 47.349415
+    maxlongitude: 19.334505
+    maxlatitude: 47.61301
+    latitude: 47.497913
+    longitude: 19.040236
+- name: Szeged
+  names:
+  - Szeged
+  code: SD
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.97234
+    minlatitude: 46.115765
+    maxlongitude: 20.308598
+    maxlatitude: 46.34981
+    latitude: 46.25301
+    longitude: 20.141426
 - name: Sopron
   names:
   - Sopron
@@ -110,6 +348,90 @@
     maxlatitude: 47.75907
     latitude: 47.681664
     longitude: 16.58448
+- name: Vas
+  names:
+  - Vas
+  code: VA
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.113857
+    minlatitude: 46.714203
+    maxlongitude: 17.29553
+    maxlatitude: 47.46055
+    latitude: 47.09291
+    longitude: 16.68122
+- name: Zalaegerszeg
+  names:
+  - Zalaegerszeg
+  code: ZE
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.768593
+    minlatitude: 46.780262
+    maxlongitude: 16.90627
+    maxlatitude: 46.900185
+    latitude: 46.841694
+    longitude: 16.841633
+- name: Baranya
+  names:
+  - Baranya
+  code: BA
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.624765
+    minlatitude: 45.737087
+    maxlongitude: 18.868301
+    maxlatitude: 46.41724
+    latitude: 46.04846
+    longitude: 18.271917
+- name: Debrecen
+  names:
+  - Debrecen
+  code: DE
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.436657
+    minlatitude: 47.424866
+    maxlongitude: 21.883707
+    maxlatitude: 47.636963
+    latitude: 47.531605
+    longitude: 21.627312
+- name: Jász-Nagykun-Szolnok
+  names:
+  - Jász-Nagykun-Szolnok
+  code: JN
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.651049
+    minlatitude: 46.75446
+    maxlongitude: 21.030264
+    maxlatitude: 47.682564
+    latitude: 47.255558
+    longitude: 20.523245
+- name: Veszprém
+  names:
+  - Veszprém
+  code: VM
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.820786
+    minlatitude: 47.045963
+    maxlongitude: 17.993711
+    maxlatitude: 47.20563
+    latitude: 47.10281
+    longitude: 17.909302
 - name: Szabolcs-Szatmár-Bereg
   names:
   - Szabolcs-Szatmár-Bereg
@@ -138,454 +460,6 @@
     maxlatitude: 47.60965
     latitude: 47.569244
     longitude: 18.404818
-- name: Bács-Kiskun
-  names:
-  - Bács-Kiskun
-  code: BK
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.732794
-    minlatitude: 45.904762
-    maxlongitude: 20.159962
-    maxlatitude: 47.134106
-    latitude: 46.566143
-    longitude: 19.427246
-- name: Dunaújváros
-  names:
-  - Dunaújváros
-  code: DU
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.860456
-    minlatitude: 46.88979
-    maxlongitude: 18.965725
-    maxlatitude: 47.001965
-    latitude: 46.961906
-    longitude: 18.935522
-- name: Győr-Moson-Sopron
-  names:
-  - Győr-Moson-Sopron
-  code: GS
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.421549
-    minlatitude: 47.272213
-    maxlongitude: 17.936481
-    maxlatitude: 48.022446
-    latitude: 47.65093
-    longitude: 17.250587
-- name: Hajdú-Bihar
-  names:
-  - Hajdú-Bihar
-  code: HB
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.82321
-    minlatitude: 46.941204
-    maxlongitude: 22.129725
-    maxlatitude: 47.964844
-    latitude: 47.468834
-    longitude: 21.545322
-- name: Komárom-Esztergom
-  names:
-  - Komárom-Esztergom
-  code: KE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.016752
-    minlatitude: 47.68579
-    maxlongitude: 18.23018
-    maxlatitude: 47.756657
-    latitude: 47.739086
-    longitude: 18.126701
-- name: Szolnok
-  names:
-  - Szolnok
-  code: SK
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.07103
-    minlatitude: 47.09629
-    maxlongitude: 20.296314
-    maxlatitude: 47.264515
-    latitude: 47.162136
-    longitude: 20.18247
-- name: Salgótarján
-  names:
-  - Salgótarján
-  code: ST
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.726732
-    minlatitude: 48.0395
-    maxlongitude: 19.922117
-    maxlatitude: 48.17842
-    latitude: 48.093525
-    longitude: 19.799982
-- name: Veszprém
-  names:
-  - Veszprém
-  code: VE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.820786
-    minlatitude: 47.045963
-    maxlongitude: 17.993711
-    maxlatitude: 47.20563
-    latitude: 47.10281
-    longitude: 17.909302
-- name: Zala
-  names:
-  - Zala
-  code: ZA
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.361847
-    minlatitude: 46.290997
-    maxlongitude: 17.380968
-    maxlatitude: 47.048695
-    latitude: 46.73844
-    longitude: 16.915226
-- name: Zalaegerszeg
-  names:
-  - Zalaegerszeg
-  code: ZE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.768593
-    minlatitude: 46.780262
-    maxlongitude: 16.90627
-    maxlatitude: 46.900185
-    latitude: 46.841694
-    longitude: 16.841633
-- name: Kaposvár
-  names:
-  - Kaposvár
-  code: KV
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.741116
-    minlatitude: 46.290356
-    maxlongitude: 17.8912
-    maxlatitude: 46.45051
-    latitude: 46.35936
-    longitude: 17.796764
-- name: Nagykanizsa
-  names:
-  - Nagykanizsa
-  code: NK
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.919825
-    minlatitude: 46.35871
-    maxlongitude: 17.090694
-    maxlatitude: 46.543613
-    latitude: 46.459023
-    longitude: 16.98968
-- name: Nyíregyháza
-  names:
-  - Nyíregyháza
-  code: NY
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.557669
-    minlatitude: 47.84566
-    maxlongitude: 21.844149
-    maxlatitude: 48.03913
-    latitude: 47.94953
-    longitude: 21.724405
-- name: Fejér
-  names:
-  - Fejér
-  code: FE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.03372
-    minlatitude: 46.687195
-    maxlongitude: 18.967485
-    maxlatitude: 47.577045
-    latitude: 47.12179
-    longitude: 18.529482
-- name: Szeged
-  names:
-  - Szeged
-  code: SD
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.97234
-    minlatitude: 46.115765
-    maxlongitude: 20.308598
-    maxlatitude: 46.34981
-    latitude: 46.25301
-    longitude: 20.141426
-- name: Székesfehérvár
-  names:
-  - Székesfehérvár
-  code: SF
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.32875
-    minlatitude: 47.10793
-    maxlongitude: 18.553755
-    maxlatitude: 47.28114
-    latitude: 47.186028
-    longitude: 18.422136
-- name: Szombathely
-  names:
-  - Szombathely
-  code: SH
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.527098
-    minlatitude: 47.15434
-    maxlongitude: 16.698223
-    maxlatitude: 47.274315
-    latitude: 47.230686
-    longitude: 16.621843
-- name: Veszprém
-  names:
-  - Veszprém
-  code: VM
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.820786
-    minlatitude: 47.045963
-    maxlongitude: 17.993711
-    maxlatitude: 47.20563
-    latitude: 47.10281
-    longitude: 17.909302
-- name: Baranya
-  names:
-  - Baranya
-  code: BA
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.624765
-    minlatitude: 45.737087
-    maxlongitude: 18.868301
-    maxlatitude: 46.41724
-    latitude: 46.04846
-    longitude: 18.271917
-- name: Békés
-  names:
-  - Békés
-  code: BE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.04361
-    minlatitude: 46.715267
-    maxlongitude: 21.219585
-    maxlatitude: 46.845707
-    latitude: 46.77112
-    longitude: 21.128975
-- name: Győr
-  names:
-  - Győr
-  code: GY
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.50948
-    minlatitude: 47.591274
-    maxlongitude: 17.80789
-    maxlatitude: 47.747585
-    latitude: 47.687458
-    longitude: 17.650398
-- name: Heves
-  names:
-  - Heves
-  code: HE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.208672
-    minlatitude: 47.5282
-    maxlongitude: 20.38313
-    maxlatitude: 47.671257
-    latitude: 47.597168
-    longitude: 20.280155
-- name: Nógrád
-  names:
-  - Nógrád
-  code: "NO"
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.985332
-    minlatitude: 47.867935
-    maxlongitude: 19.105532
-    maxlatitude: 47.933662
-    latitude: 47.904102
-    longitude: 19.04985
-- name: Pest
-  names:
-  - Pest
-  code: PE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.68844
-    minlatitude: 46.94411
-    maxlongitude: 20.112715
-    maxlatitude: 48.05866
-    latitude: 47.448
-    longitude: 19.461813
-- name: Szekszárd
-  names:
-  - Szekszárd
-  code: SS
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.610815
-    minlatitude: 46.29435
-    maxlongitude: 18.851652
-    maxlatitude: 46.40404
-    latitude: 46.34743
-    longitude: 18.70623
-- name: Somogy
-  names:
-  - Somogy
-  code: SO
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.875145
-    minlatitude: 45.848007
-    maxlongitude: 18.212841
-    maxlatitude: 46.997147
-    latitude: 46.55486
-    longitude: 17.586674
-- name: Vas
-  names:
-  - Vas
-  code: VA
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.113857
-    minlatitude: 46.714203
-    maxlongitude: 17.29553
-    maxlatitude: 47.46055
-    latitude: 47.09291
-    longitude: 16.68122
-- name: Budapest
-  names:
-  - Budapest
-  code: BU
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.926102
-    minlatitude: 47.349415
-    maxlongitude: 19.334505
-    maxlatitude: 47.61301
-    latitude: 47.497913
-    longitude: 19.040236
-- name: Csongrád
-  names:
-  - Csongrád
-  code: CS
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.96922
-    minlatitude: 46.649017
-    maxlongitude: 20.221518
-    maxlatitude: 46.80637
-    latitude: 46.708427
-    longitude: 20.143606
-- name: Debrecen
-  names:
-  - Debrecen
-  code: DE
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.436657
-    minlatitude: 47.424866
-    maxlongitude: 21.883707
-    maxlatitude: 47.636963
-    latitude: 47.531605
-    longitude: 21.627312
-- name: Hódmezővásárhely
-  names:
-  - Hódmezővásárhely
-  code: HV
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.184786
-    minlatitude: 46.294792
-    maxlongitude: 20.582891
-    maxlatitude: 46.528217
-    latitude: 46.418125
-    longitude: 20.330032
-- name: Miskolc
-  names:
-  - Miskolc
-  code: MI
-  countryalpha2: HU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.48172
-    minlatitude: 48.02331
-    maxlongitude: 20.86978
-    maxlatitude: 48.155
-    latitude: 48.096363
-    longitude: 20.762386
 - name: Tolna
   names:
   - Tolna
@@ -600,3 +474,129 @@
     maxlatitude: 46.500797
     latitude: 46.425827
     longitude: 18.775208
+- name: Bács-Kiskun
+  names:
+  - Bács-Kiskun
+  code: BK
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.732794
+    minlatitude: 45.904762
+    maxlongitude: 20.159962
+    maxlatitude: 47.134106
+    latitude: 46.566143
+    longitude: 19.427246
+- name: Komárom-Esztergom
+  names:
+  - Komárom-Esztergom
+  code: KE
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.016752
+    minlatitude: 47.68579
+    maxlongitude: 18.23018
+    maxlatitude: 47.756657
+    latitude: 47.739086
+    longitude: 18.126701
+- name: Miskolc
+  names:
+  - Miskolc
+  code: MI
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.48172
+    minlatitude: 48.02331
+    maxlongitude: 20.86978
+    maxlatitude: 48.155
+    latitude: 48.096363
+    longitude: 20.762386
+- name: Pest
+  names:
+  - Pest
+  code: PE
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.68844
+    minlatitude: 46.94411
+    maxlongitude: 20.112715
+    maxlatitude: 48.05866
+    latitude: 47.448
+    longitude: 19.461813
+- name: Székesfehérvár
+  names:
+  - Székesfehérvár
+  code: SF
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.32875
+    minlatitude: 47.10793
+    maxlongitude: 18.553755
+    maxlatitude: 47.28114
+    latitude: 47.186028
+    longitude: 18.422136
+- name: Fejér
+  names:
+  - Fejér
+  code: FE
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.03372
+    minlatitude: 46.687195
+    maxlongitude: 18.967485
+    maxlatitude: 47.577045
+    latitude: 47.12179
+    longitude: 18.529482
+- name: Somogy
+  names:
+  - Somogy
+  code: SO
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.875145
+    minlatitude: 45.848007
+    maxlongitude: 18.212841
+    maxlatitude: 46.997147
+    latitude: 46.55486
+    longitude: 17.586674
+- name: Salgótarján
+  names:
+  - Salgótarján
+  code: ST
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.726732
+    minlatitude: 48.0395
+    maxlongitude: 19.922117
+    maxlatitude: 48.17842
+    latitude: 48.093525
+    longitude: 19.799982
+- name: Zala
+  names:
+  - Zala
+  code: ZA
+  countryalpha2: HU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.361847
+    minlatitude: 46.290997
+    maxlongitude: 17.380968
+    maxlatitude: 47.048695
+    latitude: 46.73844
+    longitude: 16.915226

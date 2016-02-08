@@ -17,37 +17,34 @@ languages:
   bel: Belarusian
   rus: Russian
 translations:
-  cym:
+  CYM:
     common: Belarws
     official: Republic of Belarus
-  deu:
+  DEU:
     common: Weißrussland
     official: Republik Belarus
-  fin:
+  FIN:
     common: Valko-Venäjä
     official: Valko-Venäjän tasavalta
-  fra:
+  FRA:
     common: Biélorussie
     official: République de Biélorussie
-  hrv:
+  HRV:
     common: Bjelorusija
     official: Republika Bjelorusija
-  ita:
+  ITA:
     common: Bielorussia
     official: Repubblica di Belarus
-  jpn:
+  JPN:
     common: ベラルーシ
     official: ベラルーシ共和国
-  nld:
+  NLD:
     common: Wit-Rusland
     official: Republiek Belarus
-  por:
-    common: Bielorússia
-    official: República da Bielorrússia
-  rus:
+  RUS:
     common: Белоруссия
     official: Республика Беларусь
-  spa:
+  SPA:
     common: Bielorrusia
     official: República de Belarús
 currencies:

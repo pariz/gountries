@@ -1,101 +1,3 @@
-- name: Aragac?otn
-  names:
-  - Aragac?otn
-  code: AG
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Ararat
-  names:
-  - Ararat
-  code: AR
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.31493
-    minlatitude: 39.713722
-    maxlongitude: 45.11705
-    maxlatitude: 40.18993
-    latitude: 39.975327
-    longitude: 44.833805
-- name: Erevan
-  names:
-  - Erevan
-  code: ER
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.362083
-    minlatitude: 40.064114
-    maxlongitude: 44.615047
-    maxlatitude: 40.24267
-    latitude: 40.183334
-    longitude: 44.516666
-- name: Gegark'unik'
-  names:
-  - Gegharkunick
-  code: GR
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Lo?y
-  names:
-  - Lorri
-  code: LO
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.1999395
-    minlatitude: 37.75278
-    maxlongitude: -1.1986907
-    maxlatitude: 37.753246
-    latitude: 37.753063
-    longitude: -1.1994507
-- name: Armavir
-  names:
-  - Armavir
-  code: AV
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.64648
-    minlatitude: 40.018467
-    maxlongitude: 44.44031
-    maxlatitude: 40.28329
-    latitude: 40.13156
-    longitude: 43.832535
-- name: Kotayk'
-  names:
-  - Kotaik
-  code: KT
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.39831
-    minlatitude: 40.09729
-    maxlongitude: 45.043106
-    maxlatitude: 40.71983
-    latitude: 40.427788
-    longitude: 44.664173
 - name: Širak
   names:
   - Širak
@@ -124,20 +26,6 @@
     maxlatitude: 39.85433
     latitude: 39.31944
     longitude: 46.14609
-- name: Tavuš
-  names:
-  - Tavoush
-  code: TV
-  countryalpha2: AM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.766083
-    minlatitude: 40.648952
-    maxlongitude: 45.59568
-    maxlatitude: 41.301838
-    latitude: 40.88663
-    longitude: 45.339348
 - name: Vayoc Jor
   names:
   - Vayoc Jor
@@ -152,3 +40,115 @@
     maxlatitude: 40.01381
     latitude: 39.81079
     longitude: 45.496716
+- name: Aragac?otn
+  names:
+  - Aragac?otn
+  code: AG
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Armavir
+  names:
+  - Armavir
+  code: AV
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.64648
+    minlatitude: 40.018467
+    maxlongitude: 44.44031
+    maxlatitude: 40.28329
+    latitude: 40.13156
+    longitude: 43.832535
+- name: Erevan
+  names:
+  - Erevan
+  code: ER
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.362083
+    minlatitude: 40.064114
+    maxlongitude: 44.615047
+    maxlatitude: 40.24267
+    latitude: 40.183334
+    longitude: 44.516666
+- name: Gegark'unik'
+  names:
+  - Gegharkunick
+  code: GR
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kotayk'
+  names:
+  - Kotaik
+  code: KT
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.39831
+    minlatitude: 40.09729
+    maxlongitude: 45.043106
+    maxlatitude: 40.71983
+    latitude: 40.427788
+    longitude: 44.664173
+- name: Lo?y
+  names:
+  - Lorri
+  code: LO
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1999395
+    minlatitude: 37.75278
+    maxlongitude: -1.1986907
+    maxlatitude: 37.753246
+    latitude: 37.753063
+    longitude: -1.1994507
+- name: Tavuš
+  names:
+  - Tavoush
+  code: TV
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.766083
+    minlatitude: 40.648952
+    maxlongitude: 45.59568
+    maxlatitude: 41.301838
+    latitude: 40.88663
+    longitude: 45.339348
+- name: Ararat
+  names:
+  - Ararat
+  code: AR
+  countryalpha2: AM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.31493
+    minlatitude: 39.713722
+    maxlongitude: 45.11705
+    maxlatitude: 40.18993
+    latitude: 39.975327
+    longitude: 44.833805

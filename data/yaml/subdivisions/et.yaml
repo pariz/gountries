@@ -1,31 +1,17 @@
-- name: Oromiya
+- name: Tigray
   names:
-  - Oromiya
-  code: OR
+  - Tigray
+  code: TI
   countryalpha2: ET
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 34.13031
-    minlatitude: 3.402422
-    maxlongitude: 42.933914
-    maxlatitude: 10.3866005
-    latitude: 7.5460377
-    longitude: 40.634686
-- name: Adis Abeba
-  names:
-  - Adis Abeba
-  code: AA
-  countryalpha2: ET
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 38.656082
-    minlatitude: 8.840699
-    maxlongitude: 38.900208
-    maxlatitude: 9.085655
-    latitude: 8.980603
-    longitude: 38.75776
+    minlongitude: 36.451912
+    minlatitude: 12.246681
+    maxlongitude: 39.989845
+    maxlatitude: 14.89155
+    latitude: 14.032333
+    longitude: 38.316574
 - name: Afar
   names:
   - Affar
@@ -40,34 +26,6 @@
     maxlatitude: 14.46638
     latitude: 11.755939
     longitude: 40.958687
-- name: Amara
-  names:
-  - Amara
-  code: AM
-  countryalpha2: ET
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.275204
-    minlatitude: 8.728584
-    maxlongitude: 40.20614
-    maxlatitude: 13.764196
-    latitude: 11.349424
-    longitude: 37.97846
-- name: Binshangul Gumuz
-  names:
-  - Binshangul Gumuz
-  code: BE
-  countryalpha2: ET
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.10683
-    minlatitude: 8.783433
-    maxlongitude: 37.0328
-    maxlatitude: 12.054975
-    latitude: 10.780289
-    longitude: 35.565784
 - name: Hareri Hizb
   names:
   - Hareri Hizb
@@ -82,6 +40,20 @@
     maxlatitude: 9.378494
     latitude: 9.314866
     longitude: 42.19677
+- name: Sumale
+  names:
+  - Sumale
+  code: SO
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.692387
+    minlatitude: 3.938106
+    maxlongitude: 47.98618
+    maxlatitude: 11.088964
+    latitude: 6.661229
+    longitude: 43.790844
 - name: Dire Dawa
   names:
   - Dire Dawa
@@ -110,6 +82,20 @@
     maxlatitude: 8.609194
     latitude: 7.921969
     longitude: 34.153194
+- name: Oromiya
+  names:
+  - Oromiya
+  code: OR
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.13031
+    minlatitude: 3.402422
+    maxlongitude: 42.933914
+    maxlatitude: 10.3866005
+    latitude: 7.5460377
+    longitude: 40.634686
 - name: YeDebub Biheroch Bihereseboch na Hizboch
   names:
   - YeDebub Biheroch Bihereseboch na Hizboch
@@ -124,31 +110,45 @@
     maxlatitude: 8.455645
     latitude: 6.5156913
     longitude: 36.954105
-- name: Sumale
+- name: Adis Abeba
   names:
-  - Sumale
-  code: SO
+  - Adis Abeba
+  code: AA
   countryalpha2: ET
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 40.692387
-    minlatitude: 3.938106
-    maxlongitude: 47.98618
-    maxlatitude: 11.088964
-    latitude: 6.661229
-    longitude: 43.790844
-- name: Tigray
+    minlongitude: 38.656082
+    minlatitude: 8.840699
+    maxlongitude: 38.900208
+    maxlatitude: 9.085655
+    latitude: 8.980603
+    longitude: 38.75776
+- name: Amara
   names:
-  - Tigray
-  code: TI
+  - Amara
+  code: AM
   countryalpha2: ET
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 36.451912
-    minlatitude: 12.246681
-    maxlongitude: 39.989845
-    maxlatitude: 14.89155
-    latitude: 14.032333
-    longitude: 38.316574
+    minlongitude: 35.275204
+    minlatitude: 8.728584
+    maxlongitude: 40.20614
+    maxlatitude: 13.764196
+    latitude: 11.349424
+    longitude: 37.97846
+- name: Binshangul Gumuz
+  names:
+  - Binshangul Gumuz
+  code: BE
+  countryalpha2: ET
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.10683
+    minlatitude: 8.783433
+    maxlongitude: 37.0328
+    maxlatitude: 12.054975
+    latitude: 10.780289
+    longitude: 35.565784

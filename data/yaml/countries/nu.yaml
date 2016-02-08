@@ -17,34 +17,22 @@ languages:
   eng: English
   niu: Niuean
 translations:
-  deu:
+  FIN:
     common: Niue
     official: Niue
-  fin:
+  HRV:
     common: Niue
     official: Niue
-  fra:
+  ITA:
     common: Niue
     official: Niue
-  hrv:
-    common: Niue
-    official: Niue
-  ita:
-    common: Niue
-    official: Niue
-  jpn:
+  JPN:
     common: ニウエ
     official: ニウエ
-  nld:
+  NLD:
     common: Niue
     official: Niue
-  por:
-    common: Niue
-    official: Niue
-  rus:
-    common: Ниуэ
-    official: Ниуэ
-  spa:
+  SPA:
     common: Niue
     official: Niue
 currencies:

@@ -13,36 +13,21 @@ tlds:
 languages:
   ron: Romanian
 translations:
-  deu:
-    common: Rumänien
-    official: Rumänien
-  fin:
-    common: Romania
-    official: Romania
-  fra:
+  FRA:
     common: Roumanie
     official: Roumanie
-  hrv:
+  HRV:
     common: Rumunjska
     official: Rumunija
-  ita:
+  ITA:
     common: Romania
     official: Romania
-  jpn:
+  JPN:
     common: ルーマニア
     official: ルーマニア
-  nld:
-    common: Roemenië
-    official: Roemenië
-  por:
-    common: Roménia
-    official: Romênia
-  rus:
+  RUS:
     common: Румыния
     official: Румыния
-  spa:
-    common: Rumania
-    official: Rumania
 currencies:
 - RON
 borders:

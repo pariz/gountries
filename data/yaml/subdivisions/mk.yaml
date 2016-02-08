@@ -1,297 +1,3 @@
-- name: Želino
-  names:
-  - Želino
-  code: ZE
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.054863
-    minlatitude: 41.973866
-    maxlongitude: 21.069876
-    maxlatitude: 41.987625
-    latitude: 41.980343
-    longitude: 21.060944
-- name: Gradsko
-  names:
-  - Gradsko
-  code: GR
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.932709
-    minlatitude: 41.56313
-    maxlongitude: 21.966103
-    maxlatitude: 41.584694
-    latitude: 41.57506
-    longitude: 21.949453
-- name: Demir Kapija
-  names:
-  - Demir Kapija
-  code: DK
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.232916
-    minlatitude: 41.398903
-    maxlongitude: 22.256262
-    maxlatitude: 41.4143
-    latitude: 41.41139
-    longitude: 22.242222
-- name: Krivogaštani
-  names:
-  - Krivogaštani
-  code: KG
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.306944
-    minlatitude: 41.245415
-    maxlongitude: 21.428434
-    maxlatitude: 41.387684
-    latitude: 41.30823
-    longitude: 21.36797
-- name: Resen
-  names:
-  - Resen
-  code: RE
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.998842
-    minlatitude: 41.079594
-    maxlongitude: 21.029205
-    maxlatitude: 41.099697
-    latitude: 41.0889
-    longitude: 21.0122
-- name: Radoviš
-  names:
-  - Radoviš
-  code: RV
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.443909
-    minlatitude: 41.62242
-    maxlongitude: 22.479895
-    maxlatitude: 41.648872
-    latitude: 41.636112
-    longitude: 22.466667
-- name: Sveti Nikole
-  names:
-  - Sveti Nikole
-  code: SL
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.926973
-    minlatitude: 41.85556
-    maxlongitude: 21.950855
-    maxlatitude: 41.874992
-    latitude: 41.86667
-    longitude: 21.95
-- name: Sopište
-  names:
-  - Sopište
-  code: SS
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.410252
-    minlatitude: 41.943485
-    maxlongitude: 21.439047
-    maxlatitude: 41.96346
-    latitude: 41.950047
-    longitude: 21.420135
-- name: Bogdanci
-  names:
-  - Bogdanci
-  code: BG
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.565403
-    minlatitude: 41.196415
-    maxlongitude: 22.587461
-    maxlatitude: 41.209534
-    latitude: 41.203136
-    longitude: 22.575441
-- name: Gjorce Petrov *
-  names:
-  - Gjorce Petrov *
-  code: GP
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.242506
-    minlatitude: 41.983433
-    maxlongitude: 21.360891
-    maxlatitude: 42.112644
-    latitude: 42.06064
-    longitude: 21.320274
-- name: Makedonski Brod
-  names:
-  - Makedonski Brod
-  code: MD
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.208548
-    minlatitude: 41.50462
-    maxlongitude: 21.226208
-    maxlatitude: 41.521034
-    latitude: 41.51331
-    longitude: 21.217432
-- name: Mavrovo-i-Rostuša
-  names:
-  - Mavrovo-i-Rostuša
-  code: MR
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.729595
-    minlatitude: 41.647743
-    maxlongitude: 20.738478
-    maxlatitude: 41.66207
-    latitude: 41.65
-    longitude: 20.733334
-- name: Strumica
-  names:
-  - Strumica
-  code: RU
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.625399
-    minlatitude: 41.422005
-    maxlongitude: 22.664066
-    maxlatitude: 41.456093
-    latitude: 41.4378
-    longitude: 22.642742
-- name: Vasilevo
-  names:
-  - Vasilevo
-  code: VL
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.499725
-    minlatitude: 41.456078
-    maxlongitude: 22.731699
-    maxlatitude: 41.63159
-    latitude: 41.5202
-    longitude: 22.643703
-- name: Skopje
-  names:
-  - Skopje
-  code: X1~
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.312029
-    minlatitude: 41.94503
-    maxlongitude: 21.537752
-    maxlatitude: 42.05315
-    latitude: 41.997345
-    longitude: 21.427996
-- name: Debarca
-  names:
-  - Debarca
-  code: DA
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.418097
-    minlatitude: 41.999283
-    maxlongitude: 21.421644
-    maxlatitude: 42.00211
-    latitude: 42.00101
-    longitude: 21.420156
-- name: Caška
-  names:
-  - Caška
-  code: CA
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.68357
-    minlatitude: 41.63804
-    maxlongitude: 21.697113
-    maxlatitude: 41.655415
-    latitude: 41.647438
-    longitude: 21.691412
-- name: Centar *
-  names:
-  - Centar *
-  code: CE
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.40581
-    minlatitude: 41.975605
-    maxlongitude: 21.450933
-    maxlatitude: 42.01439
-    latitude: 41.99536
-    longitude: 21.424608
-- name: Tetovo
-  names:
-  - Tetovo
-  code: ET
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.948524
-    minlatitude: 41.989273
-    maxlongitude: 20.989338
-    maxlatitude: 42.02597
-    latitude: 0
-    longitude: 20.966667
-- name: Kriva Palanka
-  names:
-  - Kriva Palanka
-  code: KZ
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.310968
-    minlatitude: 42.190247
-    maxlongitude: 22.357542
-    maxlatitude: 42.223362
-    latitude: 42.205845
-    longitude: 22.330797
-- name: Lozovo
-  names:
-  - Lozovo
-  code: LO
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.894514
-    minlatitude: 41.777706
-    maxlongitude: 21.90995
-    maxlatitude: 41.78609
-    latitude: 41.780834
-    longitude: 21.901112
 - name: Novo Selo
   names:
   - Novo Selo
@@ -306,272 +12,6 @@
     maxlatitude: 41.420166
     latitude: 41.41389
     longitude: 22.880833
-- name: Ohrid
-  names:
-  - Ohrid
-  code: OD
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.754013
-    minlatitude: 41.079338
-    maxlongitude: 20.830593
-    maxlatitude: 41.148655
-    latitude: 41.123096
-    longitude: 20.801647
-- name: Aracinovo
-  names:
-  - Aracinovo
-  code: AR
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.53742
-    minlatitude: 41.98444
-    maxlongitude: 21.633434
-    maxlatitude: 42.070694
-    latitude: 42.02474
-    longitude: 21.576641
-- name: Vrapcište
-  names:
-  - Vrapcište
-  code: VH
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.879477
-    minlatitude: 41.829334
-    maxlongitude: 20.890842
-    maxlatitude: 41.845367
-    latitude: 41.838417
-    longitude: 20.8858
-- name: Demir Hisar
-  names:
-  - Murgaševo
-  code: DM
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.19422
-    minlatitude: 41.212795
-    maxlongitude: 21.209026
-    maxlatitude: 41.229454
-    latitude: 41.22136
-    longitude: 21.202528
-- name: Kruševo
-  names:
-  - Kruševo
-  code: KS
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.243546
-    minlatitude: 41.379696
-    maxlongitude: 21.244246
-    maxlatitude: 41.38013
-    latitude: 41.380123
-    longitude: 21.243559
-- name: Kratovo
-  names:
-  - Kratovo
-  code: KY
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.158695
-    minlatitude: 42.07295
-    maxlongitude: 22.191933
-    maxlatitude: 42.085396
-    latitude: 42.080036
-    longitude: 22.18028
-- name: Makedonska Kamenica
-  names:
-  - Makedonska Kamenica
-  code: MK
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.575552
-    minlatitude: 42.010307
-    maxlongitude: 22.59553
-    maxlatitude: 42.03013
-    latitude: 42.019722
-    longitude: 22.591667
-- name: Štip
-  names:
-  - Štip
-  code: ST
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.167643
-    minlatitude: 41.727238
-    maxlongitude: 22.215042
-    maxlatitude: 41.762638
-    latitude: 41.737503
-    longitude: 22.193558
-- name: Kumanovo
-  names:
-  - Kumanovo
-  code: UM
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.66931
-    minlatitude: 42.092903
-    maxlongitude: 21.757553
-    maxlatitude: 42.170784
-    latitude: 42.135834
-    longitude: 21.718056
-- name: Butel *
-  names:
-  - Butel *
-  code: BU
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.376825
-    minlatitude: 41.99668
-    maxlongitude: 21.511644
-    maxlatitude: 42.14239
-    latitude: 42.089508
-    longitude: 21.463362
-- name: Dolneni
-  names:
-  - Dolneni
-  code: DE
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.445448
-    minlatitude: 41.4207
-    maxlongitude: 21.459623
-    maxlatitude: 41.43065
-    latitude: 41.425278
-    longitude: 21.454445
-- name: Kocani
-  names:
-  - Kocani
-  code: OC
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.39313
-    minlatitude: 41.90413
-    maxlongitude: 22.439457
-    maxlatitude: 41.933937
-    latitude: 41.916805
-    longitude: 22.408285
-- name: Studenicani
-  names:
-  - Studenicani
-  code: SU
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.52595
-    minlatitude: 41.910957
-    maxlongitude: 21.544489
-    maxlatitude: 41.93188
-    latitude: 41.922565
-    longitude: 21.536396
-- name: Kisela Voda *
-  names:
-  - Kisela Voda *
-  code: VD
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.425928
-    minlatitude: 41.889164
-    maxlongitude: 21.534424
-    maxlatitude: 41.967873
-    latitude: 41.92748
-    longitude: 21.493172
-- name: Zelenikovo
-  names:
-  - Zelenikovo
-  code: ZK
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.593582
-    minlatitude: 41.8674
-    maxlongitude: 21.60993
-    maxlatitude: 41.87694
-    latitude: 41.873383
-    longitude: 21.602724
-- name: Brvenica
-  names:
-  - Brvenica
-  code: BN
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.973362
-    minlatitude: 41.959763
-    maxlongitude: 20.98864
-    maxlatitude: 41.976067
-    latitude: 41.9672
-    longitude: 20.9808
-- name: Cucer Sandevo
-  names:
-  - Cucer Sandevo
-  code: CS
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.37799
-    minlatitude: 42.093403
-    maxlongitude: 21.395548
-    maxlatitude: 42.10447
-    latitude: 42.097477
-    longitude: 21.387718
-- name: Novaci
-  names:
-  - Novaci
-  code: NV
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.647171
-    minlatitude: 45.146996
-    maxlongitude: 23.699741
-    maxlatitude: 45.215332
-    latitude: 45.18
-    longitude: 23.67
-- name: Petrovec
-  names:
-  - Petrovec
-  code: PE
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.595022
-    minlatitude: 41.927887
-    maxlongitude: 21.628647
-    maxlatitude: 41.946243
-    latitude: 41.933334
-    longitude: 21.616667
 - name: Rankovce
   names:
   - Rankovce
@@ -586,160 +26,20 @@
     maxlatitude: 42.179913
     latitude: 42.16954
     longitude: 22.116196
-- name: Šuto Orizari *
+- name: Štip
   names:
-  - Šuto Orizari *
-  code: SO
+  - Štip
+  code: ST
   countryalpha2: MK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.388165
-    minlatitude: 42.00931
-    maxlongitude: 21.426102
-    maxlatitude: 42.05199
-    latitude: 42.02904
-    longitude: 21.409702
-- name: Bitola
-  names:
-  - Bitola
-  code: TL
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.294878
-    minlatitude: 41.002728
-    maxlongitude: 21.362293
-    maxlatitude: 41.048878
-    latitude: 41.031944
-    longitude: 21.334723
-- name: Aerodrom *
-  names:
-  - Aerodrom *
-  code: AD
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.437096
-    minlatitude: 41.91827
-    maxlongitude: 21.554502
-    maxlatitude: 41.977673
-    latitude: 41.946438
-    longitude: 21.493172
-- name: Drugovo
-  names:
-  - Drugovo
-  code: DR
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.68186
-    minlatitude: 41.328747
-    maxlongitude: 21.138617
-    maxlatitude: 41.61637
-    latitude: 41.440815
-    longitude: 20.92682
-- name: Gazi Baba *
-  names:
-  - Gazi Baba *
-  code: GB
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.44421
-    minlatitude: 41.910187
-    maxlongitude: 21.582676
-    maxlatitude: 42.10128
-    latitude: 42.016296
-    longitude: 21.499134
-- name: Kicevo
-  names:
-  - Kicevo
-  code: KH
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.936186
-    minlatitude: 41.494057
-    maxlongitude: 20.973543
-    maxlatitude: 41.535084
-    latitude: 41.515842
-    longitude: 20.958662
-- name: Pehcevo
-  names:
-  - Pehcevo
-  code: PH
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.87485
-    minlatitude: 41.756245
-    maxlongitude: 22.89964
-    maxlatitude: 41.766243
-    latitude: 41.76
-    longitude: 22.88
-- name: Veles
-  names:
-  - Veles
-  code: VE
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.743492
-    minlatitude: 41.691837
-    maxlongitude: 21.796854
-    maxlatitude: 41.737507
-    latitude: 41.713844
-    longitude: 21.770409
-- name: Zrnovci
-  names:
-  - Zrnovci
-  code: ZR
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.354366
-    minlatitude: 41.788067
-    maxlongitude: 22.449074
-    maxlatitude: 41.869328
-    latitude: 41.822823
-    longitude: 22.417225
-- name: Kavadarci
-  names:
-  - Kavadarci
-  code: AV
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.99552
-    minlatitude: 41.421883
-    maxlongitude: 22.026398
-    maxlatitude: 41.4443
-    latitude: 41.432938
-    longitude: 22.008886
-- name: Gevgelija
-  names:
-  - Gevgelija
-  code: GV
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.486856
-    minlatitude: 41.13235
-    maxlongitude: 22.518368
-    maxlatitude: 41.152
-    latitude: 41.140278
-    longitude: 22.502777
+    minlongitude: 22.167643
+    minlatitude: 41.727238
+    maxlongitude: 22.215042
+    maxlatitude: 41.762638
+    latitude: 41.737503
+    longitude: 22.193558
 - name: Ilinden
   names:
   - Ilinden
@@ -754,356 +54,48 @@
     maxlatitude: 42.004204
     latitude: 41.99
     longitude: 21.58
-- name: Konce
+- name: Makedonski Brod
   names:
-  - Konce
-  code: KN
+  - Makedonski Brod
+  code: MD
   countryalpha2: MK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.37404
-    minlatitude: 41.49184
-    maxlongitude: 22.392496
-    maxlatitude: 41.49974
-    latitude: 41.49658
-    longitude: 22.382952
-- name: Negotino
+    minlongitude: 21.208548
+    minlatitude: 41.50462
+    maxlongitude: 21.226208
+    maxlatitude: 41.521034
+    latitude: 41.51331
+    longitude: 21.217432
+- name: Probištip
   names:
-  - Negotino
-  code: NG
+  - Probištip
+  code: PT
   countryalpha2: MK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.98033
-    minlatitude: 41.348663
-    maxlongitude: 22.300718
-    maxlatitude: 41.654243
-    latitude: 41.498997
-    longitude: 22.09533
-- name: Vinica
+    minlongitude: 22.159424
+    minlatitude: 41.984154
+    maxlongitude: 22.192682
+    maxlatitude: 42.011757
+    latitude: 41.994816
+    longitude: 22.18773
+- name: Šuto Orizari *
   names:
-  - Vinica
-  code: NI
+  - Šuto Orizari *
+  code: SO
   countryalpha2: MK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.36818
-    minlatitude: 49.19045
-    maxlongitude: 28.571089
-    maxlatitude: 49.27902
-    latitude: 49.23308
-    longitude: 28.468218
-- name: Delcevo
-  names:
-  - Delcevo
-  code: DL
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.76026
-    minlatitude: 41.953842
-    maxlongitude: 22.78777
-    maxlatitude: 41.98993
-    latitude: 41.9764
-    longitude: 22.7674
-- name: Cair *
-  names:
-  - Cair *
-  code: CI
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.427128
-    minlatitude: 41.97993
-    maxlongitude: 21.446009
-    maxlatitude: 41.99802
-    latitude: 41.993034
-    longitude: 21.436531
-- name: Centar Župa
-  names:
-  - Centar Župa
-  code: CZ
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.550365
-    minlatitude: 41.473225
-    maxlongitude: 20.565983
-    maxlatitude: 41.482304
-    latitude: 41.478527
-    longitude: 20.56028
-- name: Gostivar
-  names:
-  - Gostivar
-  code: GT
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.88486
-    minlatitude: 41.784233
-    maxlongitude: 20.932474
-    maxlatitude: 41.81793
-    latitude: 41.8
-    longitude: 20.916668
-- name: Karpoš *
-  names:
-  - Karpoš *
-  code: KX
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.727438
-    minlatitude: 42.146065
-    maxlongitude: 21.759624
-    maxlatitude: 42.16773
-    latitude: 42.156387
-    longitude: 21.741112
-- name: Rosoman
-  names:
-  - Rosoman
-  code: RM
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.810095
-    minlatitude: 41.43099
-    maxlongitude: 21.984526
-    maxlatitude: 41.555477
-    latitude: 41.484802
-    longitude: 21.880707
-- name: Dojran
-  names:
-  - Dojran
-  code: SD
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.565361
-    minlatitude: 41.148884
-    maxlongitude: 22.768135
-    maxlatitude: 41.294662
-    latitude: 41.243668
-    longitude: 22.691376
-- name: Struga
-  names:
-  - Struga
-  code: UG
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.63432
-    minlatitude: 41.167744
-    maxlongitude: 20.72723
-    maxlatitude: 41.19737
-    latitude: 41.177834
-    longitude: 20.678326
-- name: Bosilovo
-  names:
-  - Bosilovo
-  code: BS
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.718756
-    minlatitude: 41.4356
-    maxlongitude: 22.743305
-    maxlatitude: 41.44432
-    latitude: 41.4406
-    longitude: 22.7278
-- name: Bogovinje
-  names:
-  - Bogovinje
-  code: VJ
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.902367
-    minlatitude: 41.9167
-    maxlongitude: 20.92728
-    maxlatitude: 41.933876
-    latitude: 41.923637
-    longitude: 20.91639
-- name: Valandovo
-  names:
-  - Valandovo
-  code: VA
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.551048
-    minlatitude: 41.31237
-    maxlongitude: 22.571432
-    maxlatitude: 41.322105
-    latitude: 41.316944
-    longitude: 22.561111
-- name: Saraj *
-  names:
-  - Saraj *
-  code: AJ
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.694609
-    minlatitude: 41.471695
-    maxlongitude: 22.710867
-    maxlatitude: 41.480957
-    latitude: 41.47778
-    longitude: 22.7025
-- name: Oslomej
-  names:
-  - Oslomej
-  code: OS
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.966625
-    minlatitude: 41.504494
-    maxlongitude: 21.103441
-    maxlatitude: 41.648808
-    latitude: 41.57584
-    longitude: 21.022196
-- name: Cešinovo-Obleševo
-  names:
-  - Cešinovo-Obleševo
-  code: CH
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.187428
-    minlatitude: 41.78846
-    maxlongitude: 22.39093
-    maxlatitude: 41.948914
-    latitude: 41.86393
-    longitude: 22.262245
-- name: Lipkovo
-  names:
-  - Lipkovo
-  code: LI
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.578886
-    minlatitude: 42.147972
-    maxlongitude: 21.59498
-    maxlatitude: 42.162212
-    latitude: 42.156136
-    longitude: 21.587074
-- name: Mogila
-  names:
-  - Mogila
-  code: MG
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.363197
-    minlatitude: 41.101303
-    maxlongitude: 21.392542
-    maxlatitude: 41.11923
-    latitude: 41.108055
-    longitude: 21.378332
-- name: Staro Nagoricane
-  names:
-  - Staro Nagoricane
-  code: NA
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.821688
-    minlatitude: 42.19554
-    maxlongitude: 21.83687
-    maxlatitude: 42.204777
-    latitude: 42.2
-    longitude: 21.833332
-- name: Prilep
-  names:
-  - Prilep
-  code: PP
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.515394
-    minlatitude: 41.323265
-    maxlongitude: 21.581055
-    maxlatitude: 41.364555
-    latitude: 41.344444
-    longitude: 21.552778
-- name: Tearce
-  names:
-  - Tearce
-  code: TR
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.044592
-    minlatitude: 42.06975
-    maxlongitude: 21.060324
-    maxlatitude: 42.08619
-    latitude: 42.07775
-    longitude: 21.053492
-- name: Vevcani
-  names:
-  - Vevcani
-  code: VV
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.58575
-    minlatitude: 41.235237
-    maxlongitude: 20.604301
-    maxlatitude: 41.250572
-    latitude: 41.2403
-    longitude: 20.5931
-- name: Jegunovce
-  names:
-  - Jegunovce
-  code: JG
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.117157
-    minlatitude: 42.0687
-    maxlongitude: 21.128904
-    maxlatitude: 42.077675
-    latitude: 42.074074
-    longitude: 21.122047
-- name: Vraneštica
-  names:
-  - Vraneštica
-  code: VC
-  countryalpha2: MK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.022472
-    minlatitude: 41.442078
-    maxlongitude: 21.030825
-    maxlatitude: 41.448483
-    latitude: 41.445324
-    longitude: 21.02592
+    minlongitude: 21.388165
+    minlatitude: 42.00931
+    maxlongitude: 21.426102
+    maxlatitude: 42.05199
+    latitude: 42.02904
+    longitude: 21.409702
 - name: Zajas
   names:
   - Zajas
@@ -1118,6 +110,314 @@
     maxlatitude: 41.66454
     latitude: 41.60303
     longitude: 20.879135
+- name: Zelenikovo
+  names:
+  - Zelenikovo
+  code: ZK
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.593582
+    minlatitude: 41.8674
+    maxlongitude: 21.60993
+    maxlatitude: 41.87694
+    latitude: 41.873383
+    longitude: 21.602724
+- name: Petrovec
+  names:
+  - Petrovec
+  code: PE
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.595022
+    minlatitude: 41.927887
+    maxlongitude: 21.628647
+    maxlatitude: 41.946243
+    latitude: 41.933334
+    longitude: 21.616667
+- name: Plasnica
+  names:
+  - Plasnica
+  code: PN
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.038706
+    minlatitude: 41.406864
+    maxlongitude: 21.196053
+    maxlatitude: 41.482525
+    latitude: 41.454636
+    longitude: 21.105654
+- name: Kriva Palanka
+  names:
+  - Kriva Palanka
+  code: KZ
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.310968
+    minlatitude: 42.190247
+    maxlongitude: 22.357542
+    maxlatitude: 42.223362
+    latitude: 42.205845
+    longitude: 22.330797
+- name: Lipkovo
+  names:
+  - Lipkovo
+  code: LI
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.578886
+    minlatitude: 42.147972
+    maxlongitude: 21.59498
+    maxlatitude: 42.162212
+    latitude: 42.156136
+    longitude: 21.587074
+- name: Makedonska Kamenica
+  names:
+  - Makedonska Kamenica
+  code: MK
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.575552
+    minlatitude: 42.010307
+    maxlongitude: 22.59553
+    maxlatitude: 42.03013
+    latitude: 42.019722
+    longitude: 22.591667
+- name: Negotino
+  names:
+  - Negotino
+  code: NG
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.98033
+    minlatitude: 41.348663
+    maxlongitude: 22.300718
+    maxlatitude: 41.654243
+    latitude: 41.498997
+    longitude: 22.09533
+- name: Bogdanci
+  names:
+  - Bogdanci
+  code: BG
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.565403
+    minlatitude: 41.196415
+    maxlongitude: 22.587461
+    maxlatitude: 41.209534
+    latitude: 41.203136
+    longitude: 22.575441
+- name: Demir Kapija
+  names:
+  - Demir Kapija
+  code: DK
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.232916
+    minlatitude: 41.398903
+    maxlongitude: 22.256262
+    maxlatitude: 41.4143
+    latitude: 41.41139
+    longitude: 22.242222
+- name: Kratovo
+  names:
+  - Kratovo
+  code: KY
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.158695
+    minlatitude: 42.07295
+    maxlongitude: 22.191933
+    maxlatitude: 42.085396
+    latitude: 42.080036
+    longitude: 22.18028
+- name: Lozovo
+  names:
+  - Lozovo
+  code: LO
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.894514
+    minlatitude: 41.777706
+    maxlongitude: 21.90995
+    maxlatitude: 41.78609
+    latitude: 41.780834
+    longitude: 21.901112
+- name: Ohrid
+  names:
+  - Ohrid
+  code: OD
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.754013
+    minlatitude: 41.079338
+    maxlongitude: 20.830593
+    maxlatitude: 41.148655
+    latitude: 41.123096
+    longitude: 20.801647
+- name: Bitola
+  names:
+  - Bitola
+  code: TL
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.294878
+    minlatitude: 41.002728
+    maxlongitude: 21.362293
+    maxlatitude: 41.048878
+    latitude: 41.031944
+    longitude: 21.334723
+- name: Brvenica
+  names:
+  - Brvenica
+  code: BN
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.973362
+    minlatitude: 41.959763
+    maxlongitude: 20.98864
+    maxlatitude: 41.976067
+    latitude: 41.9672
+    longitude: 20.9808
+- name: Krivogaštani
+  names:
+  - Krivogaštani
+  code: KG
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.306944
+    minlatitude: 41.245415
+    maxlongitude: 21.428434
+    maxlatitude: 41.387684
+    latitude: 41.30823
+    longitude: 21.36797
+- name: Kocani
+  names:
+  - Kocani
+  code: OC
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.39313
+    minlatitude: 41.90413
+    maxlongitude: 22.439457
+    maxlatitude: 41.933937
+    latitude: 41.916805
+    longitude: 22.408285
+- name: Sveti Nikole
+  names:
+  - Sveti Nikole
+  code: SL
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.926973
+    minlatitude: 41.85556
+    maxlongitude: 21.950855
+    maxlatitude: 41.874992
+    latitude: 41.86667
+    longitude: 21.95
+- name: Tetovo
+  names:
+  - Tetovo
+  code: ET
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.948524
+    minlatitude: 41.989273
+    maxlongitude: 20.989338
+    maxlatitude: 42.02597
+    latitude: 0
+    longitude: 20.966667
+- name: Vinica
+  names:
+  - Vinica
+  code: NI
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.36818
+    minlatitude: 49.19045
+    maxlongitude: 28.571089
+    maxlatitude: 49.27902
+    latitude: 49.23308
+    longitude: 28.468218
+- name: Karpoš *
+  names:
+  - Karpoš *
+  code: KX
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.727438
+    minlatitude: 42.146065
+    maxlongitude: 21.759624
+    maxlatitude: 42.16773
+    latitude: 42.156387
+    longitude: 21.741112
+- name: Staro Nagoricane
+  names:
+  - Staro Nagoricane
+  code: NA
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.821688
+    minlatitude: 42.19554
+    maxlongitude: 21.83687
+    maxlatitude: 42.204777
+    latitude: 42.2
+    longitude: 21.833332
+- name: Pehcevo
+  names:
+  - Pehcevo
+  code: PH
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.87485
+    minlatitude: 41.756245
+    maxlongitude: 22.89964
+    maxlatitude: 41.766243
+    latitude: 41.76
+    longitude: 22.88
 - name: Debar
   names:
   - Debar
@@ -1146,6 +446,566 @@
     maxlatitude: 41.822407
     latitude: 41.818016
     longitude: 22.232475
+- name: Kisela Voda *
+  names:
+  - Kisela Voda *
+  code: VD
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.425928
+    minlatitude: 41.889164
+    maxlongitude: 21.534424
+    maxlatitude: 41.967873
+    latitude: 41.92748
+    longitude: 21.493172
+- name: Cair *
+  names:
+  - Cair *
+  code: CI
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.427128
+    minlatitude: 41.97993
+    maxlongitude: 21.446009
+    maxlatitude: 41.99802
+    latitude: 41.993034
+    longitude: 21.436531
+- name: Rosoman
+  names:
+  - Rosoman
+  code: RM
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.810095
+    minlatitude: 41.43099
+    maxlongitude: 21.984526
+    maxlatitude: 41.555477
+    latitude: 41.484802
+    longitude: 21.880707
+- name: Kumanovo
+  names:
+  - Kumanovo
+  code: UM
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.66931
+    minlatitude: 42.092903
+    maxlongitude: 21.757553
+    maxlatitude: 42.170784
+    latitude: 42.135834
+    longitude: 21.718056
+- name: Valandovo
+  names:
+  - Valandovo
+  code: VA
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.551048
+    minlatitude: 41.31237
+    maxlongitude: 22.571432
+    maxlatitude: 41.322105
+    latitude: 41.316944
+    longitude: 22.561111
+- name: Vraneštica
+  names:
+  - Vraneštica
+  code: VC
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.022472
+    minlatitude: 41.442078
+    maxlongitude: 21.030825
+    maxlatitude: 41.448483
+    latitude: 41.445324
+    longitude: 21.02592
+- name: Vevcani
+  names:
+  - Vevcani
+  code: VV
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.58575
+    minlatitude: 41.235237
+    maxlongitude: 20.604301
+    maxlatitude: 41.250572
+    latitude: 41.2403
+    longitude: 20.5931
+- name: Demir Hisar
+  names:
+  - Murgaševo
+  code: DM
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.19422
+    minlatitude: 41.212795
+    maxlongitude: 21.209026
+    maxlatitude: 41.229454
+    latitude: 41.22136
+    longitude: 21.202528
+- name: Resen
+  names:
+  - Resen
+  code: RE
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.998842
+    minlatitude: 41.079594
+    maxlongitude: 21.029205
+    maxlatitude: 41.099697
+    latitude: 41.0889
+    longitude: 21.0122
+- name: Drugovo
+  names:
+  - Drugovo
+  code: DR
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.68186
+    minlatitude: 41.328747
+    maxlongitude: 21.138617
+    maxlatitude: 41.61637
+    latitude: 41.440815
+    longitude: 20.92682
+- name: Gostivar
+  names:
+  - Gostivar
+  code: GT
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.88486
+    minlatitude: 41.784233
+    maxlongitude: 20.932474
+    maxlatitude: 41.81793
+    latitude: 41.8
+    longitude: 20.916668
+- name: Prilep
+  names:
+  - Prilep
+  code: PP
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.515394
+    minlatitude: 41.323265
+    maxlongitude: 21.581055
+    maxlatitude: 41.364555
+    latitude: 41.344444
+    longitude: 21.552778
+- name: Radoviš
+  names:
+  - Radoviš
+  code: RV
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.443909
+    minlatitude: 41.62242
+    maxlongitude: 22.479895
+    maxlatitude: 41.648872
+    latitude: 41.636112
+    longitude: 22.466667
+- name: Saraj *
+  names:
+  - Saraj *
+  code: AJ
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.694609
+    minlatitude: 41.471695
+    maxlongitude: 22.710867
+    maxlatitude: 41.480957
+    latitude: 41.47778
+    longitude: 22.7025
+- name: Caška
+  names:
+  - Caška
+  code: CA
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.68357
+    minlatitude: 41.63804
+    maxlongitude: 21.697113
+    maxlatitude: 41.655415
+    latitude: 41.647438
+    longitude: 21.691412
+- name: Studenicani
+  names:
+  - Studenicani
+  code: SU
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.52595
+    minlatitude: 41.910957
+    maxlongitude: 21.544489
+    maxlatitude: 41.93188
+    latitude: 41.922565
+    longitude: 21.536396
+- name: Mogila
+  names:
+  - Mogila
+  code: MG
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.363197
+    minlatitude: 41.101303
+    maxlongitude: 21.392542
+    maxlatitude: 41.11923
+    latitude: 41.108055
+    longitude: 21.378332
+- name: Novaci
+  names:
+  - Novaci
+  code: NV
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.647171
+    minlatitude: 45.146996
+    maxlongitude: 23.699741
+    maxlatitude: 45.215332
+    latitude: 45.18
+    longitude: 23.67
+- name: Gradsko
+  names:
+  - Gradsko
+  code: GR
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.932709
+    minlatitude: 41.56313
+    maxlongitude: 21.966103
+    maxlatitude: 41.584694
+    latitude: 41.57506
+    longitude: 21.949453
+- name: Jegunovce
+  names:
+  - Jegunovce
+  code: JG
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.117157
+    minlatitude: 42.0687
+    maxlongitude: 21.128904
+    maxlatitude: 42.077675
+    latitude: 42.074074
+    longitude: 21.122047
+- name: Kicevo
+  names:
+  - Kicevo
+  code: KH
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.936186
+    minlatitude: 41.494057
+    maxlongitude: 20.973543
+    maxlatitude: 41.535084
+    latitude: 41.515842
+    longitude: 20.958662
+- name: Bosilovo
+  names:
+  - Bosilovo
+  code: BS
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.718756
+    minlatitude: 41.4356
+    maxlongitude: 22.743305
+    maxlatitude: 41.44432
+    latitude: 41.4406
+    longitude: 22.7278
+- name: Gjorce Petrov *
+  names:
+  - Gjorce Petrov *
+  code: GP
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.242506
+    minlatitude: 41.983433
+    maxlongitude: 21.360891
+    maxlatitude: 42.112644
+    latitude: 42.06064
+    longitude: 21.320274
+- name: Kruševo
+  names:
+  - Kruševo
+  code: KS
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.243546
+    minlatitude: 41.379696
+    maxlongitude: 21.244246
+    maxlatitude: 41.38013
+    latitude: 41.380123
+    longitude: 21.243559
+- name: Mavrovo-i-Rostuša
+  names:
+  - Mavrovo-i-Rostuša
+  code: MR
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.729595
+    minlatitude: 41.647743
+    maxlongitude: 20.738478
+    maxlatitude: 41.66207
+    latitude: 41.65
+    longitude: 20.733334
+- name: Vasilevo
+  names:
+  - Vasilevo
+  code: VL
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.499725
+    minlatitude: 41.456078
+    maxlongitude: 22.731699
+    maxlatitude: 41.63159
+    latitude: 41.5202
+    longitude: 22.643703
+- name: Skopje
+  names:
+  - Skopje
+  code: X1~
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.312029
+    minlatitude: 41.94503
+    maxlongitude: 21.537752
+    maxlatitude: 42.05315
+    latitude: 41.997345
+    longitude: 21.427996
+- name: Želino
+  names:
+  - Želino
+  code: ZE
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.054863
+    minlatitude: 41.973866
+    maxlongitude: 21.069876
+    maxlatitude: 41.987625
+    latitude: 41.980343
+    longitude: 21.060944
+- name: Zrnovci
+  names:
+  - Zrnovci
+  code: ZR
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.354366
+    minlatitude: 41.788067
+    maxlongitude: 22.449074
+    maxlatitude: 41.869328
+    latitude: 41.822823
+    longitude: 22.417225
+- name: Aracinovo
+  names:
+  - Aracinovo
+  code: AR
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.53742
+    minlatitude: 41.98444
+    maxlongitude: 21.633434
+    maxlatitude: 42.070694
+    latitude: 42.02474
+    longitude: 21.576641
+- name: Dolneni
+  names:
+  - Dolneni
+  code: DE
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.445448
+    minlatitude: 41.4207
+    maxlongitude: 21.459623
+    maxlatitude: 41.43065
+    latitude: 41.425278
+    longitude: 21.454445
+- name: Strumica
+  names:
+  - Strumica
+  code: RU
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.625399
+    minlatitude: 41.422005
+    maxlongitude: 22.664066
+    maxlatitude: 41.456093
+    latitude: 41.4378
+    longitude: 22.642742
+- name: Vrapcište
+  names:
+  - Vrapcište
+  code: VH
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.879477
+    minlatitude: 41.829334
+    maxlongitude: 20.890842
+    maxlatitude: 41.845367
+    latitude: 41.838417
+    longitude: 20.8858
+- name: Centar *
+  names:
+  - Centar *
+  code: CE
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.40581
+    minlatitude: 41.975605
+    maxlongitude: 21.450933
+    maxlatitude: 42.01439
+    latitude: 41.99536
+    longitude: 21.424608
+- name: Delcevo
+  names:
+  - Delcevo
+  code: DL
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.76026
+    minlatitude: 41.953842
+    maxlongitude: 22.78777
+    maxlatitude: 41.98993
+    latitude: 41.9764
+    longitude: 22.7674
+- name: Centar Župa
+  names:
+  - Centar Župa
+  code: CZ
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.550365
+    minlatitude: 41.473225
+    maxlongitude: 20.565983
+    maxlatitude: 41.482304
+    latitude: 41.478527
+    longitude: 20.56028
+- name: Debarca
+  names:
+  - Debarca
+  code: DA
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.418097
+    minlatitude: 41.999283
+    maxlongitude: 21.421644
+    maxlatitude: 42.00211
+    latitude: 42.00101
+    longitude: 21.420156
+- name: Dojran
+  names:
+  - Dojran
+  code: SD
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.565361
+    minlatitude: 41.148884
+    maxlongitude: 22.768135
+    maxlatitude: 41.294662
+    latitude: 41.243668
+    longitude: 22.691376
+- name: Tearce
+  names:
+  - Tearce
+  code: TR
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.044592
+    minlatitude: 42.06975
+    maxlongitude: 21.060324
+    maxlatitude: 42.08619
+    latitude: 42.07775
+    longitude: 21.053492
+- name: Veles
+  names:
+  - Veles
+  code: VE
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.743492
+    minlatitude: 41.691837
+    maxlongitude: 21.796854
+    maxlatitude: 41.737507
+    latitude: 41.713844
+    longitude: 21.770409
 - name: Berovo
   names:
   - Berovo
@@ -1160,31 +1020,171 @@
     maxlatitude: 41.722023
     latitude: 41.71
     longitude: 22.85
-- name: Probištip
+- name: Cucer Sandevo
   names:
-  - Probištip
-  code: PT
+  - Cucer Sandevo
+  code: CS
   countryalpha2: MK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.159424
-    minlatitude: 41.984154
-    maxlongitude: 22.192682
-    maxlatitude: 42.011757
-    latitude: 41.994816
-    longitude: 22.18773
-- name: Plasnica
+    minlongitude: 21.37799
+    minlatitude: 42.093403
+    maxlongitude: 21.395548
+    maxlatitude: 42.10447
+    latitude: 42.097477
+    longitude: 21.387718
+- name: Gazi Baba *
   names:
-  - Plasnica
-  code: PN
+  - Gazi Baba *
+  code: GB
   countryalpha2: MK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.038706
-    minlatitude: 41.406864
-    maxlongitude: 21.196053
-    maxlatitude: 41.482525
-    latitude: 41.454636
-    longitude: 21.105654
+    minlongitude: 21.44421
+    minlatitude: 41.910187
+    maxlongitude: 21.582676
+    maxlatitude: 42.10128
+    latitude: 42.016296
+    longitude: 21.499134
+- name: Struga
+  names:
+  - Struga
+  code: UG
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.63432
+    minlatitude: 41.167744
+    maxlongitude: 20.72723
+    maxlatitude: 41.19737
+    latitude: 41.177834
+    longitude: 20.678326
+- name: Bogovinje
+  names:
+  - Bogovinje
+  code: VJ
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.902367
+    minlatitude: 41.9167
+    maxlongitude: 20.92728
+    maxlatitude: 41.933876
+    latitude: 41.923637
+    longitude: 20.91639
+- name: Kavadarci
+  names:
+  - Kavadarci
+  code: AV
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.99552
+    minlatitude: 41.421883
+    maxlongitude: 22.026398
+    maxlatitude: 41.4443
+    latitude: 41.432938
+    longitude: 22.008886
+- name: Butel *
+  names:
+  - Butel *
+  code: BU
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.376825
+    minlatitude: 41.99668
+    maxlongitude: 21.511644
+    maxlatitude: 42.14239
+    latitude: 42.089508
+    longitude: 21.463362
+- name: Gevgelija
+  names:
+  - Gevgelija
+  code: GV
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.486856
+    minlatitude: 41.13235
+    maxlongitude: 22.518368
+    maxlatitude: 41.152
+    latitude: 41.140278
+    longitude: 22.502777
+- name: Konce
+  names:
+  - Konce
+  code: KN
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.37404
+    minlatitude: 41.49184
+    maxlongitude: 22.392496
+    maxlatitude: 41.49974
+    latitude: 41.49658
+    longitude: 22.382952
+- name: Oslomej
+  names:
+  - Oslomej
+  code: OS
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.966625
+    minlatitude: 41.504494
+    maxlongitude: 21.103441
+    maxlatitude: 41.648808
+    latitude: 41.57584
+    longitude: 21.022196
+- name: Sopište
+  names:
+  - Sopište
+  code: SS
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.410252
+    minlatitude: 41.943485
+    maxlongitude: 21.439047
+    maxlatitude: 41.96346
+    latitude: 41.950047
+    longitude: 21.420135
+- name: Aerodrom *
+  names:
+  - Aerodrom *
+  code: AD
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.437096
+    minlatitude: 41.91827
+    maxlongitude: 21.554502
+    maxlatitude: 41.977673
+    latitude: 41.946438
+    longitude: 21.493172
+- name: Cešinovo-Obleševo
+  names:
+  - Cešinovo-Obleševo
+  code: CH
+  countryalpha2: MK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.187428
+    minlatitude: 41.78846
+    maxlongitude: 22.39093
+    maxlatitude: 41.948914
+    latitude: 41.86393
+    longitude: 22.262245

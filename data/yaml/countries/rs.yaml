@@ -14,36 +14,24 @@ tlds:
 languages:
   srp: Serbian
 translations:
-  deu:
+  DEU:
     common: Serbien
     official: Republik Serbien
-  fin:
+  FIN:
     common: Serbia
     official: Serbian tasavalta
-  fra:
+  FRA:
     common: Serbie
     official: République de Serbie
-  hrv:
-    common: Srbija
-    official: Republika Srbija
-  ita:
-    common: Serbia
-    official: Repubblica di Serbia
-  jpn:
-    common: セルビア
-    official: セルビア共和国
-  nld:
+  NLD:
     common: Servië
     official: Republiek Servië
-  por:
+  POR:
     common: Sérvia
     official: República da Sérvia
-  rus:
+  RUS:
     common: Сербия
     official: Республика Сербия
-  spa:
-    common: Serbia
-    official: República de Serbia
 currencies:
 - RSD
 borders:

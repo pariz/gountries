@@ -13,36 +13,27 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
-    common: Togo
-    official: Republik Togo
-  fin:
-    common: Togo
-    official: Togon tasavalta
-  fra:
+  FRA:
     common: Togo
     official: République togolaise
-  hrv:
+  HRV:
     common: Togo
     official: Togolese Republika
-  ita:
+  ITA:
     common: Togo
     official: Repubblica del Togo
-  jpn:
+  JPN:
     common: トーゴ
     official: トーゴ共和国
-  nld:
+  NLD:
     common: Togo
     official: Republiek Togo
-  por:
+  POR:
     common: Togo
     official: República do Togo
-  rus:
+  RUS:
     common: Того
     official: Того Республика
-  spa:
-    common: Togo
-    official: República de Togo
 currencies:
 - XOF
 borders:

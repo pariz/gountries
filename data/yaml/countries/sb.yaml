@@ -13,34 +13,19 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  DEU:
     common: Salomonen
     official: Salomon-Inseln
-  fin:
-    common: Salomonsaaret
-    official: Salomonsaaret
-  fra:
+  FRA:
     common: Îles Salomon
     official: Îles Salomon
-  hrv:
-    common: Solomonski Otoci
-    official: Solomonski Otoci
-  ita:
-    common: Isole Salomone
-    official: Isole Salomone
-  jpn:
+  JPN:
     common: ソロモン諸島
     official: ソロモン諸島
-  nld:
-    common: Salomonseilanden
-    official: Solomon eilanden
-  por:
+  POR:
     common: Ilhas Salomão
     official: Ilhas Salomão
-  rus:
-    common: Соломоновы Острова
-    official: Соломоновы острова
-  spa:
+  SPA:
     common: Islas Salomón
     official: islas Salomón
 currencies:

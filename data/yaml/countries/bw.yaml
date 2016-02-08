@@ -17,34 +17,19 @@ languages:
   eng: English
   tsn: Tswana
 translations:
-  deu:
-    common: Botswana
-    official: Republik Botsuana
-  fin:
+  FIN:
     common: Botswana
     official: Botswanan tasavalta
-  fra:
+  FRA:
     common: Botswana
     official: République du Botswana
-  hrv:
-    common: Bocvana
-    official: Republika Bocvana
-  ita:
-    common: Botswana
-    official: Repubblica del Botswana
-  jpn:
-    common: ボツワナ
-    official: ボツワナ共和国
-  nld:
+  NLD:
     common: Botswana
     official: Republiek Botswana
-  por:
+  POR:
     common: Botswana
     official: República do Botswana
-  rus:
-    common: Ботсвана
-    official: Республика Ботсвана
-  spa:
+  SPA:
     common: Botswana
     official: República de Botswana
 currencies:

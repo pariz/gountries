@@ -15,36 +15,24 @@ tlds:
 languages:
   rus: Russian
 translations:
-  deu:
+  DEU:
     common: Russland
     official: Russische Föderation
-  fin:
+  FIN:
     common: Venäjä
     official: Venäjän federaatio
-  fra:
+  FRA:
     common: Russie
     official: Fédération de Russie
-  hrv:
+  HRV:
     common: Rusija
     official: Ruska Federacija
-  ita:
-    common: Russia
-    official: Federazione russa
-  jpn:
-    common: ロシア連邦
-    official: ロシア連邦
-  nld:
-    common: Rusland
-    official: Russische Federatie
-  por:
+  POR:
     common: Rússia
     official: Federação Russa
-  rus:
+  RUS:
     common: Россия
     official: Россия Федерация
-  spa:
-    common: Rusia
-    official: Federación de Rusia
 currencies:
 - RUB
 borders:

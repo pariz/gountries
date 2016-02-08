@@ -13,39 +13,30 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
+  CYM:
     common: Tiriogaeth Brydeinig Cefnfor India
     official: British Indian Ocean Territory
-  deu:
+  DEU:
     common: Britisches Territorium im Indischen Ozean
     official: Britisch-Indischer Ozean
-  fin:
+  FIN:
     common: Brittiläinen Intian valtameren alue
     official: Brittiläinen Intian valtameren alue
-  fra:
-    common: Territoire britannique de l'océan Indien
-    official: Territoire britannique de l' océan Indien
-  hrv:
+  HRV:
     common: Britanski Indijskooceanski teritorij
     official: British Indian Ocean Territory
-  ita:
+  ITA:
     common: Territorio britannico dell'oceano indiano
     official: Territorio britannico dell'Oceano Indiano
-  jpn:
+  JPN:
     common: イギリス領インド洋地域
     official: イギリス領インド洋地域
-  nld:
-    common: Britse Gebieden in de Indische Oceaan
-    official: Brits Indische Oceaan Territorium
-  por:
+  POR:
     common: Território Britânico do Oceano Índico
     official: British Indian Ocean Territory
-  rus:
+  RUS:
     common: Британская территория в Индийском океане
     official: Британская территория Индийского океана
-  spa:
-    common: Territorio Británico del Océano Índico
-    official: Territorio Británico del Océano Índico
 currencies:
 - USD
 borders: []

@@ -13,36 +13,30 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
+  DEU:
     common: Tunesien
     official: Tunesische Republik
-  fin:
+  FIN:
     common: Tunisia
     official: Tunisian tasavalta
-  fra:
+  FRA:
     common: Tunisie
     official: République tunisienne
-  hrv:
-    common: Tunis
-    official: Tuniski Republika
-  ita:
+  ITA:
     common: Tunisia
     official: Repubblica tunisina
-  jpn:
+  JPN:
     common: チュニジア
     official: チュニジア共和国
-  nld:
+  NLD:
     common: Tunesië
     official: Republiek Tunesië
-  por:
+  POR:
     common: Tunísia
     official: República da Tunísia
-  rus:
+  RUS:
     common: Тунис
     official: Тунисской Республики
-  spa:
-    common: Túnez
-    official: República de Túnez
 currencies:
 - TND
 borders:

@@ -13,34 +13,22 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  FIN:
     common: Montserrat
     official: Montserrat
-  fin:
+  FRA:
     common: Montserrat
     official: Montserrat
-  fra:
+  HRV:
     common: Montserrat
     official: Montserrat
-  hrv:
+  ITA:
     common: Montserrat
     official: Montserrat
-  ita:
-    common: Montserrat
-    official: Montserrat
-  jpn:
+  JPN:
     common: モントセラト
     official: モントセラト
-  nld:
-    common: Montserrat
-    official: Montserrat
-  por:
-    common: Montserrat
-    official: Montserrat
-  rus:
-    common: Монтсеррат
-    official: Монтсеррат
-  spa:
+  NLD:
     common: Montserrat
     official: Montserrat
 currencies:

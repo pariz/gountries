@@ -1,45 +1,3 @@
-- name: Tarija
-  names:
-  - Tarija
-  code: T
-  countryalpha2: BO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -64.776245
-    minlatitude: -21.569519
-    maxlongitude: -64.6749
-    maxlatitude: -21.473415
-    latitude: -21.533333
-    longitude: -64.73333
-- name: El Beni
-  names:
-  - El Beni
-  code: B
-  countryalpha2: BO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -67.54976
-    minlatitude: -16.44704
-    maxlongitude: -61.50248
-    maxlatitude: -10.400086
-    latitude: -14.378275
-    longitude: -65.09578
-- name: Cochabamba
-  names:
-  - Cochabamba
-  code: C
-  countryalpha2: BO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.22223
-    minlatitude: -17.464867
-    maxlongitude: -66.10552
-    maxlatitude: -17.323214
-    latitude: -17.383333
-    longitude: -66.166664
 - name: Chuquisaca
   names:
   - Chuquisaca
@@ -68,6 +26,34 @@
     maxlatitude: -16.42456
     latitude: -16.5
     longitude: -68.15
+- name: Potosí
+  names:
+  - Potosí
+  code: P
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -65.79208
+    minlatitude: -19.610703
+    maxlongitude: -65.70969
+    maxlatitude: -19.531572
+    latitude: -19.57228
+    longitude: -65.755005
+- name: El Beni
+  names:
+  - El Beni
+  code: B
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.54976
+    minlatitude: -16.44704
+    maxlongitude: -61.50248
+    maxlatitude: -10.400086
+    latitude: -14.378275
+    longitude: -65.09578
 - name: Pando
   names:
   - Pando
@@ -96,20 +82,6 @@
     maxlatitude: -17.905895
     latitude: -17.966667
     longitude: -67.11667
-- name: Potosí
-  names:
-  - Potosí
-  code: P
-  countryalpha2: BO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -65.79208
-    minlatitude: -19.610703
-    maxlongitude: -65.70969
-    maxlatitude: -19.531572
-    latitude: -19.57228
-    longitude: -65.755005
 - name: Santa Cruz
   names:
   - Santa Cruz
@@ -124,3 +96,31 @@
     maxlatitude: -17.49084
     latitude: -17.866667
     longitude: 0
+- name: Tarija
+  names:
+  - Tarija
+  code: T
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -64.776245
+    minlatitude: -21.569519
+    maxlongitude: -64.6749
+    maxlatitude: -21.473415
+    latitude: -21.533333
+    longitude: -64.73333
+- name: Cochabamba
+  names:
+  - Cochabamba
+  code: C
+  countryalpha2: BO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.22223
+    minlatitude: -17.464867
+    maxlongitude: -66.10552
+    maxlatitude: -17.323214
+    latitude: -17.383333
+    longitude: -66.166664

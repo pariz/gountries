@@ -17,39 +17,30 @@ languages:
   fra: French
   sag: Sango
 translations:
-  cym:
+  CYM:
     common: Gweriniaeth Canolbarth Affrica
     official: Central African Republic
-  deu:
+  DEU:
     common: Zentralafrikanische Republik
     official: Zentralafrikanische Republik
-  fin:
+  FIN:
     common: Keski-Afrikan tasavalta
     official: Keski-Afrikan tasavalta
-  fra:
+  FRA:
     common: République centrafricaine
     official: République centrafricaine
-  hrv:
+  HRV:
     common: Srednjoafrička Republika
     official: Centralna Afrička Republika
-  ita:
-    common: Repubblica Centrafricana
-    official: Repubblica Centrafricana
-  jpn:
-    common: 中央アフリカ共和国
-    official: 中央アフリカ共和国
-  nld:
+  NLD:
     common: Centraal-Afrikaanse Republiek
     official: Centraal-Afrikaanse Republiek
-  por:
+  POR:
     common: República Centro-Africana
     official: República Centro-Africano
-  rus:
+  RUS:
     common: Центральноафриканская Республика
     official: Центрально-Африканская Республика
-  spa:
-    common: República Centroafricana
-    official: República Centroafricana
 currencies:
 - XAF
 borders:

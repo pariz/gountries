@@ -13,34 +13,19 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Martinique
     official: Martinique
-  fin:
+  FRA:
     common: Martinique
     official: Martinique
-  fra:
-    common: Martinique
-    official: Martinique
-  hrv:
-    common: Martinique
-    official: Martinique
-  ita:
+  ITA:
     common: Martinica
     official: Martinique
-  jpn:
+  JPN:
     common: マルティニーク
     official: マルティニーク島
-  nld:
-    common: Martinique
-    official: Martinique
-  por:
-    common: Martinica
-    official: Martinique
-  rus:
-    common: Мартиника
-    official: Мартиника
-  spa:
+  SPA:
     common: Martinica
     official: Martinica
 currencies:

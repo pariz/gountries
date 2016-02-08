@@ -13,36 +13,18 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  deu:
-    common: Panama
-    official: Republik Panama
-  fin:
-    common: Panama
-    official: Panaman tasavalta
-  fra:
-    common: Panama
-    official: République du Panama
-  hrv:
-    common: Panama
-    official: Republika Panama
-  ita:
+  ITA:
     common: Panama
     official: Repubblica di Panama
-  jpn:
-    common: パナマ
-    official: パナマ共和国
-  nld:
+  NLD:
     common: Panama
     official: Republiek Panama
-  por:
+  POR:
     common: Panamá
     official: República do Panamá
-  rus:
+  RUS:
     common: Панама
     official: Республика Панама
-  spa:
-    common: Panamá
-    official: República de Panamá
 currencies:
 - PAB
 - USD

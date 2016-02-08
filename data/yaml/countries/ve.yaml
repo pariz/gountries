@@ -13,34 +13,25 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Venezuela
     official: Bolivarische Republik Venezuela
-  fin:
-    common: Venezuela
-    official: Venezuelan bolivariaainen tasavalta
-  fra:
+  FRA:
     common: Venezuela
     official: République bolivarienne du Venezuela
-  hrv:
-    common: Venezuela
-    official: BOLIVARIJANSKA Republika Venezuela
-  ita:
+  ITA:
     common: Venezuela
     official: Repubblica Bolivariana del Venezuela
-  jpn:
+  JPN:
     common: ベネズエラ・ボリバル共和国
     official: ベネズエラ·ボリバル共和国
-  nld:
-    common: Venezuela
-    official: Bolivariaanse Republiek Venezuela
-  por:
+  POR:
     common: Venezuela
     official: República Bolivariana da Venezuela
-  rus:
+  RUS:
     common: Венесуэла
     official: Боливарианская Республика Венесуэла
-  spa:
+  SPA:
     common: Venezuela
     official: República Bolivariana de Venezuela
 currencies:

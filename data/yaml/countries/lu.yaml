@@ -21,34 +21,25 @@ languages:
   fra: French
   ltz: Luxembourgish
 translations:
-  deu:
+  DEU:
     common: Luxemburg
     official: Großherzogtum Luxemburg,
-  fin:
+  FIN:
     common: Luxemburg
     official: Luxemburgin suurherttuakunta
-  fra:
+  FRA:
     common: Luxembourg
     official: Grand-Duché de Luxembourg
-  hrv:
+  HRV:
     common: Luksemburg
     official: Veliko Vojvodstvo Luksemburg
-  ita:
-    common: Lussemburgo
-    official: Granducato di Lussemburgo
-  jpn:
-    common: ルクセンブルク
-    official: ルクセンブルク大公国
-  nld:
+  NLD:
     common: Luxemburg
     official: Groothertogdom Luxemburg
-  por:
-    common: Luxemburgo
-    official: Grão-Ducado do Luxemburgo
-  rus:
+  RUS:
     common: Люксембург
     official: Великое Герцогство Люксембург
-  spa:
+  SPA:
     common: Luxemburgo
     official: Gran Ducado de Luxemburgo
 currencies:

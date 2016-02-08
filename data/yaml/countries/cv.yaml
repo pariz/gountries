@@ -13,37 +13,25 @@ tlds:
 languages:
   por: Portuguese
 translations:
-  cym:
-    common: Cape Verde
-    official: Republic of Cabo Verde
-  deu:
-    common: Kap Verde
-    official: Republik Cabo Verde
-  fin:
+  FIN:
     common: Kap Verde
     official: Kap Verden tasavalta
-  fra:
+  FRA:
     common: Îles du Cap-Vert
     official: République du Cap-Vert
-  hrv:
-    common: Zelenortska Republika
-    official: Republika Cabo Verde
-  ita:
-    common: Capo Verde
-    official: Repubblica di Capo Verde
-  jpn:
+  JPN:
     common: カーボベルデ
     official: カーボベルデ共和国
-  nld:
+  NLD:
     common: Kaapverdië
     official: Republiek van Cabo Verde
-  por:
+  POR:
     common: Cabo Verde
     official: República de Cabo Verde
-  rus:
+  RUS:
     common: Кабо-Верде
     official: Республика Кабо -Верде
-  spa:
+  SPA:
     common: Cabo Verde
     official: República de Cabo Verde
 currencies:

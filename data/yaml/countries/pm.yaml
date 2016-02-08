@@ -13,34 +13,22 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Saint-Pierre und Miquelon
     official: St. Pierre und Miquelon
-  fin:
-    common: Saint-Pierre ja Miquelon
-    official: Saint-Pierre ja Miquelon
-  fra:
+  FRA:
     common: Saint-Pierre-et-Miquelon
     official: Saint-Pierre-et-Miquelon
-  hrv:
+  HRV:
     common: Sveti Petar i Mikelon
     official: Saint Pierre i Miquelon
-  ita:
+  ITA:
     common: Saint-Pierre e Miquelon
     official: Saint Pierre e Miquelon
-  jpn:
-    common: サンピエール島・ミクロン島
-    official: サンピエール島·ミクロン島
-  nld:
-    common: Saint Pierre en Miquelon
-    official: Saint-Pierre en Miquelon
-  por:
-    common: Saint-Pierre e Miquelon
-    official: Saint Pierre e Miquelon
-  rus:
+  RUS:
     common: Сен-Пьер и Микелон
     official: Сен-Пьер и Микелон
-  spa:
+  SPA:
     common: San Pedro y Miquelón
     official: San Pedro y Miquelón
 currencies:

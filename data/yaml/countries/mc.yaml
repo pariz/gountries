@@ -13,34 +13,31 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Monaco
     official: Fürstentum Monaco
-  fin:
+  FIN:
     common: Monaco
     official: Monacon ruhtinaskunta
-  fra:
+  FRA:
     common: Monaco
     official: Principauté de Monaco
-  hrv:
+  HRV:
     common: Monako
     official: Kneževina Monako
-  ita:
+  ITA:
     common: Principato di Monaco
     official: Principato di Monaco
-  jpn:
+  JPN:
     common: モナコ
     official: モナコ公国
-  nld:
+  NLD:
     common: Monaco
     official: Vorstendom Monaco
-  por:
+  POR:
     common: Mónaco
     official: Principado do Mónaco
-  rus:
-    common: Монако
-    official: Княжество Монако
-  spa:
+  SPA:
     common: Mónaco
     official: Principado de Mónaco
 currencies:

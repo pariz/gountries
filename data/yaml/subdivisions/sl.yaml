@@ -1,3 +1,17 @@
+- name: Southern
+  names:
+  - Southern
+  code: S
+  countryalpha2: SL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.069256
+    minlatitude: 6.929611
+    maxlongitude: -11.134802
+    maxlatitude: 8.507107
+    latitude: 7.7906623
+    longitude: -11.889173
 - name: Western Area (Freetown)
   names:
   - Western Area (Freetown)
@@ -40,17 +54,3 @@
     maxlatitude: 10.000433
     latitude: 9.350089
     longitude: -11.706829
-- name: Southern
-  names:
-  - Southern
-  code: S
-  countryalpha2: SL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.069256
-    minlatitude: 6.929611
-    maxlongitude: -11.134802
-    maxlatitude: 8.507107
-    latitude: 7.7906623
-    longitude: -11.889173

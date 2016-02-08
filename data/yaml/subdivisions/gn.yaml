@@ -1,31 +1,17 @@
-- name: Télimélé
+- name: Faranah
   names:
-  - Télimélé
-  code: TE
+  - Faranah
+  code: FA
   countryalpha2: GN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -13.048239
-    minlatitude: 10.881017
-    maxlongitude: -13.020258
-    maxlatitude: 10.9323435
-    latitude: 10.9
-    longitude: -13.033333
-- name: Boffa
-  names:
-  - Boffa
-  code: BF
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -14.050312
-    minlatitude: 10.170657
-    maxlongitude: -14.025936
-    maxlatitude: 10.195579
-    latitude: 10.180825
-    longitude: -14.039162
+    minlongitude: -10.783081
+    minlatitude: 10.010482
+    maxlongitude: -10.721884
+    maxlatitude: 10.075051
+    latitude: 10.033333
+    longitude: -10.733333
 - name: Guékédou
   names:
   - Guékédou
@@ -40,34 +26,62 @@
     maxlatitude: 8.597061
     latitude: 8.566667
     longitude: -10.133333
-- name: Lélouma
+- name: Labé
   names:
-  - Lélouma
-  code: LE
+  - Labé
+  code: LA
   countryalpha2: GN
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -13.027551
-    minlatitude: 11.102719
-    maxlongitude: -12.424321
-    maxlatitude: 11.831968
-    latitude: 11.473997
-    longitude: -12.667558
-- name: Mamou
+    minlatitude: 11.004917
+    maxlongitude: -11.109311
+    maxlatitude: 12.442837
+    latitude: 11.641159
+    longitude: -11.889173
+- name: Boké
   names:
-  - Mamou
-  code: MM
+  - Boké
+  code: BK
   countryalpha2: GN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -12.976967
-    minlatitude: 9.871375
-    maxlongitude: -11.371568
-    maxlatitude: 11.335539
-    latitude: 10.573603
-    longitude: -11.889173
+    minlongitude: -15.078206
+    minlatitude: 9.810391
+    maxlongitude: -12.555448
+    maxlatitude: 12.67622
+    latitude: 11.186467
+    longitude: -14.100133
+- name: Dalaba
+  names:
+  - Dalaba
+  code: DL
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 10.166667
+    longitude: -9.383333
+- name: Dubréka
+  names:
+  - Dubréka
+  code: DU
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.553128
+    minlatitude: 9.76993
+    maxlongitude: -13.472023
+    maxlatitude: 9.807794
+    latitude: 9.783333
+    longitude: -13.516667
 - name: Fria
   names:
   - Fria
@@ -82,6 +96,174 @@
     maxlatitude: 10.392513
     latitude: 10.367455
     longitude: -13.5841875
+- name: Kindia
+  names:
+  - Kindia
+  code: KD
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.897348
+    minlatitude: 10.01213
+    maxlongitude: -12.815895
+    maxlatitude: 10.082445
+    latitude: 10.066667
+    longitude: -12.85
+- name: Boffa
+  names:
+  - Boffa
+  code: BF
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -14.050312
+    minlatitude: 10.170657
+    maxlongitude: -14.025936
+    maxlatitude: 10.195579
+    latitude: 10.180825
+    longitude: -14.039162
+- name: Conakry
+  names:
+  - Conakry
+  code: C
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.727904
+    minlatitude: 9.500723
+    maxlongitude: -13.429572
+    maxlatitude: 9.770441
+    latitude: 9.509167
+    longitude: -13.712222
+- name: Gaoual
+  names:
+  - Gaoual
+  code: GA
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.217497
+    minlatitude: 11.740571
+    maxlongitude: -13.191104
+    maxlatitude: 11.768428
+    latitude: 11.75
+    longitude: -13.2
+- name: Kouroussa
+  names:
+  - Kouroussa
+  code: KO
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.900237
+    minlatitude: 10.631422
+    maxlongitude: -9.866495
+    maxlatitude: 10.667103
+    latitude: 10.65
+    longitude: -9.883333
+- name: Kissidougou
+  names:
+  - Kissidougou
+  code: KS
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.144157
+    minlatitude: 9.145825
+    maxlongitude: -10.05764
+    maxlatitude: 9.234621
+    latitude: 9.183333
+    longitude: -10.1
+- name: Lélouma
+  names:
+  - Lélouma
+  code: LE
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.027551
+    minlatitude: 11.102719
+    maxlongitude: -12.424321
+    maxlatitude: 11.831968
+    latitude: 11.473997
+    longitude: -12.667558
+- name: Pita
+  names:
+  - Pita
+  code: PI
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.415538
+    minlatitude: 11.028273
+    maxlongitude: -12.370305
+    maxlatitude: 11.079037
+    latitude: 11.059568
+    longitude: -12.395582
+- name: Dinguiraye
+  names:
+  - Dinguiraye
+  code: DI
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.728364
+    minlatitude: 11.277197
+    maxlongitude: -10.694246
+    maxlatitude: 11.305225
+    latitude: 11.3
+    longitude: -10.716667
+- name: Forécariah
+  names:
+  - Forécaria
+  code: FO
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.103272
+    minlatitude: 9.421163
+    maxlongitude: -13.072547
+    maxlatitude: 9.444089
+    latitude: 9.433333
+    longitude: -13.083333
+- name: Mandiana
+  names:
+  - Mandiana
+  code: MD
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.705807
+    minlatitude: 10.602486
+    maxlongitude: -8.683062
+    maxlatitude: 10.640026
+    latitude: 10.617283
+    longitude: -8.698571
+- name: Yomou
+  names:
+  - Yomou
+  code: YO
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.272375
+    minlatitude: 7.557696
+    maxlongitude: -9.24345
+    maxlatitude: 7.5800724
+    latitude: 7.566
+    longitude: -9.2533
 - name: Kankan
   names:
   - Kankan
@@ -110,104 +292,6 @@
     maxlatitude: 7.820481
     latitude: 7.8
     longitude: -8.533333
-- name: Yomou
-  names:
-  - Yomou
-  code: YO
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.272375
-    minlatitude: 7.557696
-    maxlongitude: -9.24345
-    maxlatitude: 7.5800724
-    latitude: 7.566
-    longitude: -9.2533
-- name: Faranah
-  names:
-  - Faranah
-  code: FA
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.783081
-    minlatitude: 10.010482
-    maxlongitude: -10.721884
-    maxlatitude: 10.075051
-    latitude: 10.033333
-    longitude: -10.733333
-- name: Koundara
-  names:
-  - Koundara
-  code: KN
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.31912
-    minlatitude: 12.469682
-    maxlongitude: -13.276634
-    maxlatitude: 12.511581
-    latitude: 12.483333
-    longitude: -13.3
-- name: Mandiana
-  names:
-  - Mandiana
-  code: MD
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.705807
-    minlatitude: 10.602486
-    maxlongitude: -8.683062
-    maxlatitude: 10.640026
-    latitude: 10.617283
-    longitude: -8.698571
-- name: Mali
-  names:
-  - Mali
-  code: ML
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -12.310524
-    minlatitude: 12.061355
-    maxlongitude: -12.284904
-    maxlatitude: 12.087919
-    latitude: 12.083333
-    longitude: -12.3
-- name: Kissidougou
-  names:
-  - Kissidougou
-  code: KS
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.144157
-    minlatitude: 9.145825
-    maxlongitude: -10.05764
-    maxlatitude: 9.234621
-    latitude: 9.183333
-    longitude: -10.1
-- name: Labé
-  names:
-  - Labé
-  code: LA
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.027551
-    minlatitude: 11.004917
-    maxlongitude: -11.109311
-    maxlatitude: 12.442837
-    latitude: 11.641159
-    longitude: -11.889173
 - name: Macenta
   names:
   - Macenta
@@ -222,202 +306,6 @@
     maxlatitude: 8.563368
     latitude: 8.55
     longitude: -9.466667
-- name: Gaoual
-  names:
-  - Gaoual
-  code: GA
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.217497
-    minlatitude: 11.740571
-    maxlongitude: -13.191104
-    maxlatitude: 11.768428
-    latitude: 11.75
-    longitude: -13.2
-- name: Kindia
-  names:
-  - Kindia
-  code: KD
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -12.897348
-    minlatitude: 10.01213
-    maxlongitude: -12.815895
-    maxlatitude: 10.082445
-    latitude: 10.066667
-    longitude: -12.85
-- name: Conakry
-  names:
-  - Conakry
-  code: C
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.727904
-    minlatitude: 9.500723
-    maxlongitude: -13.429572
-    maxlatitude: 9.770441
-    latitude: 9.509167
-    longitude: -13.712222
-- name: Dabola
-  names:
-  - Dabola
-  code: DB
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.142025
-    minlatitude: 10.710074
-    maxlongitude: -11.078253
-    maxlatitude: 10.752324
-    latitude: 10.75
-    longitude: -11.116667
-- name: Forécariah
-  names:
-  - Forécaria
-  code: FO
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.103272
-    minlatitude: 9.421163
-    maxlongitude: -13.072547
-    maxlatitude: 9.444089
-    latitude: 9.433333
-    longitude: -13.083333
-- name: Dubréka
-  names:
-  - Dubréka
-  code: DU
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.553128
-    minlatitude: 9.76993
-    maxlongitude: -13.472023
-    maxlatitude: 9.807794
-    latitude: 9.783333
-    longitude: -13.516667
-- name: Kouroussa
-  names:
-  - Kouroussa
-  code: KO
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.900237
-    minlatitude: 10.631422
-    maxlongitude: -9.866495
-    maxlatitude: 10.667103
-    latitude: 10.65
-    longitude: -9.883333
-- name: Siguiri
-  names:
-  - Siguiri
-  code: SI
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.200104
-    minlatitude: 11.392767
-    maxlongitude: -9.152042
-    maxlatitude: 11.440052
-    latitude: 11.416667
-    longitude: -9.166667
-- name: Nzérékoré
-  names:
-  - Nzérékoré
-  code: NZ
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.845367
-    minlatitude: 7.7149043
-    maxlongitude: -8.780308
-    maxlatitude: 7.803351
-    latitude: 7.75
-    longitude: -8.816667
-- name: Boké
-  names:
-  - Boké
-  code: BK
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -15.078206
-    minlatitude: 9.810391
-    maxlongitude: -12.555448
-    maxlatitude: 12.67622
-    latitude: 11.186467
-    longitude: -14.100133
-- name: Coyah
-  names:
-  - Coyah
-  code: CO
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.408581
-    minlatitude: 9.692724
-    maxlongitude: -13.372893
-    maxlatitude: 9.718692
-    latitude: 9.7
-    longitude: -13.383333
-- name: Kérouané
-  names:
-  - Kérouané
-  code: KE
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.023037
-    minlatitude: 9.256817
-    maxlongitude: -8.993769
-    maxlatitude: 9.282653
-    latitude: 9.266667
-    longitude: -9.016667
-- name: Koubia
-  names:
-  - Koubia
-  code: KB
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.905832
-    minlatitude: 11.574805
-    maxlongitude: -11.880169
-    maxlatitude: 11.594228
-    latitude: 11.583333
-    longitude: -11.9
-- name: Pita
-  names:
-  - Pita
-  code: PI
-  countryalpha2: GN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -12.415538
-    minlatitude: 11.028273
-    maxlongitude: -12.370305
-    maxlatitude: 11.079037
-    latitude: 11.059568
-    longitude: -12.395582
 - name: Tougué
   names:
   - Tougué
@@ -432,6 +320,48 @@
     maxlatitude: 11.45908
     latitude: 11.446422
     longitude: -11.664139
+- name: Coyah
+  names:
+  - Coyah
+  code: CO
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.408581
+    minlatitude: 9.692724
+    maxlongitude: -13.372893
+    maxlatitude: 9.718692
+    latitude: 9.7
+    longitude: -13.383333
+- name: Koubia
+  names:
+  - Koubia
+  code: KB
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -11.905832
+    minlatitude: 11.574805
+    maxlongitude: -11.880169
+    maxlatitude: 11.594228
+    latitude: 11.583333
+    longitude: -11.9
+- name: Siguiri
+  names:
+  - Siguiri
+  code: SI
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.200104
+    minlatitude: 11.392767
+    maxlongitude: -9.152042
+    maxlatitude: 11.440052
+    latitude: 11.416667
+    longitude: -9.166667
 - name: Beyla
   names:
   - Beyla
@@ -446,31 +376,101 @@
     maxlatitude: 8.703383
     latitude: 8.683333
     longitude: -8.633333
-- name: Dinguiraye
+- name: Dabola
   names:
-  - Dinguiraye
-  code: DI
+  - Dabola
+  code: DB
   countryalpha2: GN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -10.728364
-    minlatitude: 11.277197
-    maxlongitude: -10.694246
-    maxlatitude: 11.305225
-    latitude: 11.3
-    longitude: -10.716667
-- name: Dalaba
+    minlongitude: -11.142025
+    minlatitude: 10.710074
+    maxlongitude: -11.078253
+    maxlatitude: 10.752324
+    latitude: 10.75
+    longitude: -11.116667
+- name: Kérouané
   names:
-  - Dalaba
-  code: DL
+  - Kérouané
+  code: KE
   countryalpha2: GN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 10.166667
-    longitude: -9.383333
+    minlongitude: -9.023037
+    minlatitude: 9.256817
+    maxlongitude: -8.993769
+    maxlatitude: 9.282653
+    latitude: 9.266667
+    longitude: -9.016667
+- name: Koundara
+  names:
+  - Koundara
+  code: KN
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.31912
+    minlatitude: 12.469682
+    maxlongitude: -13.276634
+    maxlatitude: 12.511581
+    latitude: 12.483333
+    longitude: -13.3
+- name: Mali
+  names:
+  - Mali
+  code: ML
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.310524
+    minlatitude: 12.061355
+    maxlongitude: -12.284904
+    maxlatitude: 12.087919
+    latitude: 12.083333
+    longitude: -12.3
+- name: Mamou
+  names:
+  - Mamou
+  code: MM
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.976967
+    minlatitude: 9.871375
+    maxlongitude: -11.371568
+    maxlatitude: 11.335539
+    latitude: 10.573603
+    longitude: -11.889173
+- name: Nzérékoré
+  names:
+  - Nzérékoré
+  code: NZ
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.845367
+    minlatitude: 7.7149043
+    maxlongitude: -8.780308
+    maxlatitude: 7.803351
+    latitude: 7.75
+    longitude: -8.816667
+- name: Télimélé
+  names:
+  - Télimélé
+  code: TE
+  countryalpha2: GN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.048239
+    minlatitude: 10.881017
+    maxlongitude: -13.020258
+    maxlatitude: 10.9323435
+    latitude: 10.9
+    longitude: -13.033333

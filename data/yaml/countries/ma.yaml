@@ -18,34 +18,31 @@ languages:
   ara: Arabic
   ber: Berber
 translations:
-  deu:
+  DEU:
     common: Marokko
     official: Königreich Marokko
-  fin:
-    common: Marokko
-    official: Marokon kuningaskunta
-  fra:
+  FRA:
     common: Maroc
     official: Royaume du Maroc
-  hrv:
+  HRV:
     common: Maroko
     official: Kraljevina Maroko
-  ita:
+  ITA:
     common: Marocco
     official: Regno del Marocco
-  jpn:
+  JPN:
     common: モロッコ
     official: モロッコ王国
-  nld:
+  NLD:
     common: Marokko
     official: Koninkrijk Marokko
-  por:
+  POR:
     common: Marrocos
     official: Reino de Marrocos
-  rus:
+  RUS:
     common: Марокко
     official: Королевство Марокко
-  spa:
+  SPA:
     common: Marruecos
     official: Reino de Marruecos
 currencies:

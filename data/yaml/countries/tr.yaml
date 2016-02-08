@@ -13,34 +13,22 @@ tlds:
 languages:
   tur: Turkish
 translations:
-  deu:
+  DEU:
     common: Türkei
     official: Republik Türkei
-  fin:
+  FIN:
     common: Turkki
     official: Turkin tasavalta
-  fra:
-    common: Turquie
-    official: République de Turquie
-  hrv:
-    common: Turska
-    official: Republika Turska
-  ita:
+  ITA:
     common: Turchia
     official: Repubblica di Turchia
-  jpn:
-    common: トルコ
-    official: トルコ共和国
-  nld:
-    common: Turkije
-    official: Republiek Turkije
-  por:
+  POR:
     common: Turquia
     official: República da Turquia
-  rus:
+  RUS:
     common: Турция
     official: Республика Турции
-  spa:
+  SPA:
     common: Turquía
     official: República de Turquía
 currencies:

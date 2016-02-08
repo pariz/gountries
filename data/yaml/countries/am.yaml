@@ -17,37 +17,28 @@ languages:
   hye: Armenian
   rus: Russian
 translations:
-  cym:
+  CYM:
     common: Armenia
     official: Republic of Armenia
-  deu:
+  DEU:
     common: Armenien
     official: Republik Armenien
-  fin:
+  FIN:
     common: Armenia
     official: Armenian tasavalta
-  fra:
-    common: Arménie
-    official: République d'Arménie
-  hrv:
+  HRV:
     common: Armenija
     official: Republika Armenija
-  ita:
-    common: Armenia
-    official: Repubblica di Armenia
-  jpn:
+  JPN:
     common: アルメニア
     official: アルメニア共和国
-  nld:
-    common: Armenië
-    official: Republiek Armenië
-  por:
+  POR:
     common: Arménia
     official: República da Arménia
-  rus:
+  RUS:
     common: Армения
     official: Республика Армения
-  spa:
+  SPA:
     common: Armenia
     official: República de Armenia
 currencies:

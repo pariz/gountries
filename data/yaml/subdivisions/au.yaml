@@ -1,31 +1,3 @@
-- name: New South Wales
-  names:
-  - New South Wales
-  code: NSW
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.9992
-    minlatitude: -37.505276
-    maxlongitude: 153.65356
-    maxlatitude: -28.156193
-    latitude: -33.864174
-    longitude: 151.20529
-- name: Northern Territory
-  names:
-  - Northern Territory
-  code: NT
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 129.00043
-    minlatitude: -26.01687
-    maxlongitude: 137.99901
-    maxlatitude: -10.9055195
-    latitude: -19.491411
-    longitude: 132.55096
 - name: Queensland
   names:
   - Queensland
@@ -110,3 +82,31 @@
     maxlatitude: -35.12451
     latitude: -35.47347
     longitude: 149.01237
+- name: New South Wales
+  names:
+  - New South Wales
+  code: NSW
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.9992
+    minlatitude: -37.505276
+    maxlongitude: 153.65356
+    maxlatitude: -28.156193
+    latitude: -33.864174
+    longitude: 151.20529
+- name: Northern Territory
+  names:
+  - Northern Territory
+  code: NT
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 129.00043
+    minlatitude: -26.01687
+    maxlongitude: 137.99901
+    maxlatitude: -10.9055195
+    latitude: -19.491411
+    longitude: 132.55096

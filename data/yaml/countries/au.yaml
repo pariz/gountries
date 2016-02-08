@@ -13,37 +13,31 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
+  CYM:
     common: Awstralia
     official: Commonwealth of Australia
-  deu:
+  DEU:
     common: Australien
     official: Commonwealth Australien
-  fin:
+  FIN:
     common: Australia
     official: Australian liittovaltio
-  fra:
+  FRA:
     common: Australie
     official: Australie
-  hrv:
+  HRV:
     common: Australija
     official: Commonwealth of Australia
-  ita:
+  ITA:
     common: Australia
     official: Commonwealth dell'Australia
-  jpn:
-    common: オーストラリア
-    official: オーストラリア連邦
-  nld:
-    common: Australië
-    official: Gemenebest van Australië
-  por:
+  POR:
     common: Austrália
     official: Comunidade da Austrália
-  rus:
+  RUS:
     common: Австралия
     official: Содружество Австралии
-  spa:
+  SPA:
     common: Australia
     official: Mancomunidad de Australia
 currencies:

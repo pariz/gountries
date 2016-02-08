@@ -13,36 +13,21 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Guatemala
     official: Republik Guatemala
-  fin:
+  FIN:
     common: Guatemala
     official: Guatemalan tasavalta
-  fra:
-    common: Guatemala
-    official: République du Guatemala
-  hrv:
+  HRV:
     common: Gvatemala
     official: Republika Gvatemala
-  ita:
+  ITA:
     common: Guatemala
     official: Repubblica del Guatemala
-  jpn:
-    common: グアテマラ
-    official: グアテマラ共和国
-  nld:
+  NLD:
     common: Guatemala
     official: Republiek Guatemala
-  por:
-    common: Guatemala
-    official: República da Guatemala
-  rus:
-    common: Гватемала
-    official: Республика Гватемала
-  spa:
-    common: Guatemala
-    official: República de Guatemala
 currencies:
 - GTQ
 borders:

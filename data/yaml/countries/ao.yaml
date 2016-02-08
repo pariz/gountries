@@ -13,39 +13,27 @@ tlds:
 languages:
   por: Portuguese
 translations:
-  cym:
+  CYM:
     common: Angola
     official: Republic of Angola
-  deu:
+  DEU:
     common: Angola
     official: Republik Angola
-  fin:
+  FIN:
     common: Angola
     official: Angolan tasavalta
-  fra:
+  FRA:
     common: Angola
     official: République d'Angola
-  hrv:
+  HRV:
     common: Angola
     official: Republika Angola
-  ita:
-    common: Angola
-    official: Repubblica dell'Angola
-  jpn:
+  JPN:
     common: アンゴラ
     official: アンゴラ共和国
-  nld:
-    common: Angola
-    official: Republiek Angola
-  por:
-    common: Angola
-    official: República de Angola
-  rus:
+  RUS:
     common: Ангола
     official: Республика Ангола
-  spa:
-    common: Angola
-    official: República de Angola
 currencies:
 - AOA
 borders:

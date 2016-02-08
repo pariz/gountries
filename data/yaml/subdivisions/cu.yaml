@@ -12,34 +12,6 @@
     maxlatitude: 23.155577
     latitude: 22.493721
     longitude: -79.91927
-- name: Isla de la Juventud
-  names:
-  - Isla de la Juventud
-  code: "99"
-  countryalpha2: CU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -83.19254
-    minlatitude: 21.43825
-    maxlongitude: -82.54073
-    maxlatitude: 21.943502
-    latitude: 21.60664
-    longitude: -82.82098
-- name: La Habana
-  names:
-  - La Habana
-  code: "03"
-  countryalpha2: CU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -82.57429
-    minlatitude: 22.920057
-    maxlongitude: -82.09113
-    maxlatitude: 23.181273
-    latitude: 23.159166
-    longitude: -82.27106
 - name: Sancti Spíritus
   names:
   - Sancti Spíritus
@@ -54,20 +26,6 @@
     maxlatitude: 22.667719
     latitude: 21.993822
     longitude: -79.47039
-- name: Las Tunas
-  names:
-  - Las Tunas
-  code: "10"
-  countryalpha2: CU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.83183
-    minlatitude: 20.50495
-    maxlongitude: -76.310776
-    maxlatitude: 21.457783
-    latitude: 21.060516
-    longitude: -76.91821
 - name: Artemisa
   names:
   - Artemisa
@@ -82,76 +40,48 @@
     maxlatitude: 23.068672
     latitude: 22.75229
     longitude: -82.993164
-- name: Antigua provincia de La Habana
+- name: Isla de la Juventud
   names:
-  - Antigua provincia de La Habana
-  code: "02"
+  - Isla de la Juventud
+  code: "99"
   countryalpha2: CU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 23.139593
-    longitude: -82.359535
-- name: Cienfuegos
+    minlongitude: -83.19254
+    minlatitude: 21.43825
+    maxlongitude: -82.54073
+    maxlatitude: 21.943502
+    latitude: 21.60664
+    longitude: -82.82098
+- name: Matanzas
   names:
-  - Cienfuegos
-  code: "06"
+  - Matanzas
+  code: "04"
   countryalpha2: CU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -80.93571
-    minlatitude: 21.817026
-    maxlongitude: -80.01659
-    maxlatitude: 22.583227
-    latitude: 22.237978
-    longitude: -80.36587
-- name: Ciego de Ávila
+    minlongitude: -82.16041
+    minlatitude: 22.003633
+    maxlongitude: -80.47074
+    maxlatitude: 23.276752
+    latitude: 22.576712
+    longitude: -81.33994
+- name: Las Tunas
   names:
-  - Ciego de Ávila
-  code: "08"
+  - Las Tunas
+  code: "10"
   countryalpha2: CU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.45209
-    minlatitude: 20.844875
-    maxlongitude: -78.06729
-    maxlatitude: 22.61324
-    latitude: 21.932951
-    longitude: -78.566086
-- name: Holguín
-  names:
-  - Holguín
-  code: "11"
-  countryalpha2: CU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.721756
-    minlatitude: 20.392118
-    maxlongitude: -74.71559
-    maxlatitude: 21.249962
-    latitude: 20.783789
-    longitude: -75.80691
-- name: Granma
-  names:
-  - Granma
-  code: "12"
-  countryalpha2: CU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.73912
-    minlatitude: 19.828083
-    maxlongitude: -76.181046
-    maxlatitude: 20.782396
-    latitude: 20.384491
-    longitude: -76.64127
+    minlongitude: -77.83183
+    minlatitude: 20.50495
+    maxlongitude: -76.310776
+    maxlatitude: 21.457783
+    latitude: 21.060516
+    longitude: -76.91821
 - name: Santiago de Cuba
   names:
   - Santiago de Cuba
@@ -166,6 +96,62 @@
     maxlatitude: 20.091
     latitude: 20.01693
     longitude: -75.830154
+- name: Antigua provincia de La Habana
+  names:
+  - Antigua provincia de La Habana
+  code: "02"
+  countryalpha2: CU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 23.139593
+    longitude: -82.359535
+- name: La Habana
+  names:
+  - La Habana
+  code: "03"
+  countryalpha2: CU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -82.57429
+    minlatitude: 22.920057
+    maxlongitude: -82.09113
+    maxlatitude: 23.181273
+    latitude: 23.159166
+    longitude: -82.27106
+- name: Granma
+  names:
+  - Granma
+  code: "12"
+  countryalpha2: CU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.73912
+    minlatitude: 19.828083
+    maxlongitude: -76.181046
+    maxlatitude: 20.782396
+    latitude: 20.384491
+    longitude: -76.64127
+- name: Guantánamo
+  names:
+  - Guantánamo
+  code: "14"
+  countryalpha2: CU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.23674
+    minlatitude: 20.114353
+    maxlongitude: -75.16621
+    maxlatitude: 20.17965
+    latitude: 20.136667
+    longitude: -75.21389
 - name: Mayabeque
   names:
   - Mayabeque
@@ -194,6 +180,34 @@
     maxlatitude: 22.463392
     latitude: 22.412222
     longitude: -83.67194
+- name: Cienfuegos
+  names:
+  - Cienfuegos
+  code: "06"
+  countryalpha2: CU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.93571
+    minlatitude: 21.817026
+    maxlongitude: -80.01659
+    maxlatitude: 22.583227
+    latitude: 22.237978
+    longitude: -80.36587
+- name: Ciego de Ávila
+  names:
+  - Ciego de Ávila
+  code: "08"
+  countryalpha2: CU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.45209
+    minlatitude: 20.844875
+    maxlongitude: -78.06729
+    maxlatitude: 22.61324
+    latitude: 21.932951
+    longitude: -78.566086
 - name: Camagüey
   names:
   - Camagüey
@@ -208,31 +222,17 @@
     maxlatitude: 21.439728
     latitude: 21.392603
     longitude: -77.90532
-- name: Guantánamo
+- name: Holguín
   names:
-  - Guantánamo
-  code: "14"
+  - Holguín
+  code: "11"
   countryalpha2: CU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -75.23674
-    minlatitude: 20.114353
-    maxlongitude: -75.16621
-    maxlatitude: 20.17965
-    latitude: 20.136667
-    longitude: -75.21389
-- name: Matanzas
-  names:
-  - Matanzas
-  code: "04"
-  countryalpha2: CU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -82.16041
-    minlatitude: 22.003633
-    maxlongitude: -80.47074
-    maxlatitude: 23.276752
-    latitude: 22.576712
-    longitude: -81.33994
+    minlongitude: -76.721756
+    minlatitude: 20.392118
+    maxlongitude: -74.71559
+    maxlatitude: 21.249962
+    latitude: 20.783789
+    longitude: -75.80691

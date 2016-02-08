@@ -13,37 +13,25 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  cym:
+  CYM:
     common: Bahrain
     official: Kingdom of Bahrain
-  deu:
-    common: Bahrain
-    official: Königreich Bahrain
-  fin:
+  FIN:
     common: Bahrain
     official: Bahrainin kuningaskunta
-  fra:
+  FRA:
     common: Bahreïn
     official: Royaume de Bahreïn
-  hrv:
+  HRV:
     common: Bahrein
     official: Kraljevina Bahrein
-  ita:
-    common: Bahrein
-    official: Regno del Bahrain
-  jpn:
+  JPN:
     common: バーレーン
     official: バーレーン王国
-  nld:
+  NLD:
     common: Bahrein
     official: Koninkrijk Bahrein
-  por:
-    common: Bahrein
-    official: Reino do Bahrein
-  rus:
-    common: Бахрейн
-    official: Королевство Бахрейн
-  spa:
+  SPA:
     common: Bahrein
     official: Reino de Bahrein
 currencies:

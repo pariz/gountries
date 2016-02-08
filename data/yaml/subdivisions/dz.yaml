@@ -1,3 +1,31 @@
+- name: Mila
+  names:
+  - Mila
+  code: "43"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.2088203
+    minlatitude: 36.424942
+    maxlongitude: 6.288643
+    maxlatitude: 36.478035
+    latitude: 36.45028
+    longitude: 6.264444
+- name: Tizi Ouzou
+  names:
+  - Tizi-Ouzou
+  code: "15"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.975892
+    minlatitude: 36.643837
+    maxlongitude: 4.1750836
+    maxlatitude: 36.756577
+    latitude: 36.716667
+    longitude: 4.05
 - name: Annaba
   names:
   - Bona
@@ -14,24 +42,51 @@
     maxlatitude: 36.969852
     latitude: 36.9
     longitude: 7.766667
-- name: Mostaganem
+- name: Guelma
   names:
-  - Mestghanem
-  - Mustaghanam
-  - Mustaghanim
-  - Mustaġānam
-  - Mostaganem
-  code: "27"
+  - Guelma
+  code: "24"
   countryalpha2: DZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0.0536443
-    minlatitude: 35.91071
-    maxlongitude: 0.1765537
-    maxlatitude: 36.039494
-    latitude: 35.933334
-    longitude: 0.083333
+    minlongitude: 7.3975754
+    minlatitude: 36.434265
+    maxlongitude: 7.469287
+    maxlatitude: 36.479553
+    latitude: 36.45
+    longitude: 7.433333
+- name: El Oued
+  names:
+  - El Ouâdi
+  - El Wad
+  - El Oued
+  code: "39"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.820836
+    minlatitude: 33.32974
+    maxlongitude: 6.89435
+    maxlatitude: 33.412323
+    latitude: 33.371338
+    longitude: 6.847968
+- name: Khenchela
+  names:
+  - Khenchla
+  - Khenchela
+  code: "40"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.113819
+    minlatitude: 35.39185
+    maxlongitude: 7.1690083
+    maxlatitude: 35.460808
+    latitude: 35.416668
+    longitude: 7.133333
 - name: Tissemsilt
   names:
   - Tissemselt
@@ -68,6 +123,112 @@
     maxlatitude: 36.24905
     latitude: 36.166668
     longitude: 1.333333
+- name: Djelfa
+  names:
+  - El Djelfa
+  - Djelfa
+  code: "17"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.201828
+    minlatitude: 34.623566
+    maxlongitude: 3.2964778
+    maxlatitude: 34.70075
+    latitude: 34.666668
+    longitude: 3.25
+- name: Saïda
+  names:
+  - Saida
+  - Saïda
+  code: "20"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.1194763
+    minlatitude: 34.812252
+    maxlongitude: 0.1772404
+    maxlatitude: 34.871635
+    latitude: 34.8412
+    longitude: 0.1484305
+- name: Sidi Bel Abbès
+  names:
+  - Sidi bel Abbès
+  code: "22"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.6890703
+    minlatitude: 35.16097
+    maxlongitude: -0.5712032
+    maxlatitude: 35.2517
+    latitude: 35.2
+    longitude: -0.641389
+- name: Mascara
+  names:
+  - Mouaskar
+  - Mascara
+  code: "29"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.498706
+    minlatitude: 34.98422
+    maxlongitude: 0.932448
+    maxlatitude: 35.76477
+    latitude: 35.39041
+    longitude: 0.1494988
+- name: Oum el Bouaghi
+  names:
+  - Canrobert
+  - Oum el Bouaghi
+  code: "04"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.179337
+    minlatitude: 35.41222
+    maxlongitude: 7.932362
+    maxlatitude: 36.16778
+    latitude: 35.788143
+    longitude: 7.179026
+- name: Bouira
+  names:
+  - Bouira
+  code: "10"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.375708
+    minlatitude: 35.8271
+    maxlongitude: 4.47439
+    maxlatitude: 36.58975
+    latitude: 36.28353
+    longitude: 3.9878428
+- name: Constantine
+  names:
+  - Ksontina
+  - Qacentina
+  - Qoussantina
+  - Qusanţīnah
+  - Constantine
+  code: "25"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.5284057
+    minlatitude: 36.25892
+    maxlongitude: 6.766548
+    maxlatitude: 36.449055
+    latitude: 36.35
+    longitude: 6.6
 - name: Médéa
   names:
   - Lemdiyya
@@ -84,53 +245,291 @@
     maxlatitude: 36.336422
     latitude: 36.266666
     longitude: 2.75
-- name: Béchar
+- name: Boumerdès
   names:
-  - Béchar
-  code: "08"
+  - Boumerdès
+  code: "35"
   countryalpha2: DZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.9278564
-    minlatitude: 31.18248
-    maxlongitude: -1.352005
-    maxlatitude: 32.166313
-    latitude: 31.61825
-    longitude: -2.214323
-- name: Alger
+    minlongitude: 3.301881
+    minlatitude: 36.5268
+    maxlongitude: 4.117831
+    maxlatitude: 36.92459
+    latitude: 36.767597
+    longitude: 3.7029002
+- name: Tipaza
   names:
-  - Al-Jazair
-  - Al-Jazaʿir
-  - El Djazair
-  - al-Jazāʿir
-  - Algier
-  - Alger
-  code: "16"
+  - Tipaza
+  code: "42"
   countryalpha2: DZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 36.752888
-    longitude: 3.042048
-- name: Aïn Témouchent
+    minlongitude: 2.300531
+    minlatitude: 36.54774
+    maxlongitude: 2.518015
+    maxlatitude: 36.645424
+    latitude: 36.617878
+    longitude: 2.3912363
+- name: Aïn Defla
   names:
-  - Aïn Temouchent
-  code: "46"
+  - Aïn Eddefla
+  - Aïn Defla
+  code: "44"
   countryalpha2: DZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -1.1580491
-    minlatitude: 35.27924
-    maxlongitude: -1.1136531
-    maxlatitude: 35.32066
-    latitude: 35.30725
-    longitude: -1.1424514
+    minlongitude: 1.6114019
+    minlatitude: 35.83449
+    maxlongitude: 2.743101
+    maxlatitude: 36.42229
+    latitude: 36.072918
+    longitude: 1.9881527
+- name: Adrar
+  names:
+  - Adrar
+  code: "01"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.3310157
+    minlatitude: 27.768013
+    maxlongitude: -0.0769043
+    maxlatitude: 28.185217
+    latitude: 27.866667
+    longitude: -0.283333
+- name: Jijel
+  names:
+  - Djidjel
+  - Djidjelli
+  - Jijel
+  - Djidjeli
+  code: "18"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.6788826
+    minlatitude: 36.76316
+    maxlongitude: 5.82211
+    maxlatitude: 36.829323
+    latitude: 36.81674
+    longitude: 5.7490935
+- name: Skikda
+  names:
+  - Skikda
+  code: "21"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.8444824
+    minlatitude: 36.838554
+    maxlongitude: 7.0269585
+    maxlatitude: 36.91703
+    latitude: 36.86667
+    longitude: 6.9
+- name: Ouargla
+  names:
+  - Wargla
+  - Ouargla
+  code: "30"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.463196
+    minlatitude: 31.87406
+    maxlongitude: 5.450206
+    maxlatitude: 32.507446
+    latitude: 31.95
+    longitude: 5.316667
+- name: El Bayadh
+  names:
+  - El Bayadh
+  code: "32"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.8449173
+    minlatitude: 33.4893
+    maxlongitude: 1.1710738
+    maxlatitude: 33.789707
+    latitude: 33.68028
+    longitude: 1.020278
+- name: Relizane
+  names:
+  - Ghilizane
+  - Ighil Izane
+  - Rélizane
+  - Relizane
+  code: "48"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.5295754
+    minlatitude: 35.695816
+    maxlongitude: 0.5892706
+    maxlatitude: 35.763367
+    latitude: 35.733334
+    longitude: 0.55
+- name: Souk Ahras
+  names:
+  - Souq Ahras
+  - Souk Ahras
+  code: "41"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.916808
+    minlatitude: 36.244133
+    maxlongitude: 8.001652
+    maxlatitude: 36.31156
+    latitude: 36.28639
+    longitude: 7.951111
+- name: Ghardaïa
+  names:
+  - Ghardaïa
+  code: "47"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.5745049
+    minlatitude: 32.45743
+    maxlongitude: 3.916626
+    maxlatitude: 32.70469
+    latitude: 32.490223
+    longitude: 3.6738412
+- name: Laghouat
+  names:
+  - Laghouat
+  code: "03"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.8309536
+    minlatitude: 33.73967
+    maxlongitude: 2.947855
+    maxlatitude: 33.83508
+    latitude: 33.797256
+    longitude: 2.8694065
+- name: Tamanghasset
+  names:
+  - Fort-Laperrine
+  - Tamanghist
+  - Tamanrasset
+  code: "11"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.6884155
+    minlatitude: 20.898588
+    maxlongitude: 6.6625214
+    maxlatitude: 23.650658
+    latitude: 22.785
+    longitude: 5.522778
+- name: Tlemcen
+  names:
+  - Tilimsen
+  - Tlemcen
+  code: "13"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.3708879
+    minlatitude: 34.857483
+    maxlongitude: -1.2593079
+    maxlatitude: 34.934425
+    latitude: 34.882774
+    longitude: -1.31667
+- name: Mostaganem
+  names:
+  - Mestghanem
+  - Mustaghanam
+  - Mustaghanim
+  - Mustaġānam
+  - Mostaganem
+  code: "27"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.0536443
+    minlatitude: 35.91071
+    maxlongitude: 0.1765537
+    maxlatitude: 36.039494
+    latitude: 35.933334
+    longitude: 0.083333
+- name: Illizi
+  names:
+  - Illizi
+  code: "33"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.86583
+    minlatitude: 23.01514
+    maxlongitude: 11.979548
+    maxlatitude: 30.11448
+    latitude: 26.169
+    longitude: 8.484246
+- name: Tiaret
+  names:
+  - Tihert
+  - Tiaret
+  code: "14"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.2896061
+    minlatitude: 35.30868
+    maxlongitude: 1.4936256
+    maxlatitude: 35.411297
+    latitude: 35.367355
+    longitude: 1.3220322
+- name: Msila
+  names:
+  - MʿSila
+  - Msila
+  code: "28"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.4319534
+    minlatitude: 35.569935
+    maxlongitude: 4.605503
+    maxlatitude: 35.87236
+    latitude: 35.701942
+    longitude: 4.547222
+- name: Oran
+  names:
+  - Ouahran
+  - Oran
+  code: "31"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.7298183
+    minlatitude: 35.645195
+    maxlongitude: -0.5530071
+    maxlatitude: 35.769722
+    latitude: 35.697655
+    longitude: -0.6337376
 - name: Batna
   names:
   - Batna
@@ -161,541 +560,6 @@
     maxlatitude: 36.83366
     latitude: 36.75089
     longitude: 5.056733
-- name: Illizi
-  names:
-  - Illizi
-  code: "33"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.86583
-    minlatitude: 23.01514
-    maxlongitude: 11.979548
-    maxlatitude: 30.11448
-    latitude: 26.169
-    longitude: 8.484246
-- name: Tipaza
-  names:
-  - Tipaza
-  code: "42"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.300531
-    minlatitude: 36.54774
-    maxlongitude: 2.518015
-    maxlatitude: 36.645424
-    latitude: 36.617878
-    longitude: 2.3912363
-- name: Mila
-  names:
-  - Mila
-  code: "43"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.2088203
-    minlatitude: 36.424942
-    maxlongitude: 6.288643
-    maxlatitude: 36.478035
-    latitude: 36.45028
-    longitude: 6.264444
-- name: Aïn Defla
-  names:
-  - Aïn Eddefla
-  - Aïn Defla
-  code: "44"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.6114019
-    minlatitude: 35.83449
-    maxlongitude: 2.743101
-    maxlatitude: 36.42229
-    latitude: 36.072918
-    longitude: 1.9881527
-- name: Tébessa
-  names:
-  - Tbessa
-  - Tébessa
-  code: "12"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.050232
-    minlatitude: 35.38114
-    maxlongitude: 8.170858
-    maxlatitude: 35.44231
-    latitude: 35.4
-    longitude: 8.116667
-- name: Oran
-  names:
-  - Ouahran
-  - Oran
-  code: "31"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -0.7298183
-    minlatitude: 35.645195
-    maxlongitude: -0.5530071
-    maxlatitude: 35.769722
-    latitude: 35.697655
-    longitude: -0.6337376
-- name: Tizi Ouzou
-  names:
-  - Tizi-Ouzou
-  code: "15"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 3.975892
-    minlatitude: 36.643837
-    maxlongitude: 4.1750836
-    maxlatitude: 36.756577
-    latitude: 36.716667
-    longitude: 4.05
-- name: Jijel
-  names:
-  - Djidjel
-  - Djidjelli
-  - Jijel
-  - Djidjeli
-  code: "18"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.6788826
-    minlatitude: 36.76316
-    maxlongitude: 5.82211
-    maxlatitude: 36.829323
-    latitude: 36.81674
-    longitude: 5.7490935
-- name: Sidi Bel Abbès
-  names:
-  - Sidi bel Abbès
-  code: "22"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -0.6890703
-    minlatitude: 35.16097
-    maxlongitude: -0.5712032
-    maxlatitude: 35.2517
-    latitude: 35.2
-    longitude: -0.641389
-- name: Guelma
-  names:
-  - Guelma
-  code: "24"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.3975754
-    minlatitude: 36.434265
-    maxlongitude: 7.469287
-    maxlatitude: 36.479553
-    latitude: 36.45
-    longitude: 7.433333
-- name: El Bayadh
-  names:
-  - El Bayadh
-  code: "32"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.8449173
-    minlatitude: 33.4893
-    maxlongitude: 1.1710738
-    maxlatitude: 33.789707
-    latitude: 33.68028
-    longitude: 1.020278
-- name: Bordj Bou Arréridj
-  names:
-  - Bordj Bou Arreridj
-  code: "34"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.690132
-    minlatitude: 36.016685
-    maxlongitude: 4.8482323
-    maxlatitude: 36.120613
-    latitude: 36.07042
-    longitude: 4.7564044
-- name: Oum el Bouaghi
-  names:
-  - Canrobert
-  - Oum el Bouaghi
-  code: "04"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.179337
-    minlatitude: 35.41222
-    maxlongitude: 7.932362
-    maxlatitude: 36.16778
-    latitude: 35.788143
-    longitude: 7.179026
-- name: Blida
-  names:
-  - El Boulaida
-  - Blida
-  code: "09"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.7320335
-    minlatitude: 36.443398
-    maxlongitude: 2.868483
-    maxlatitude: 36.51721
-    latitude: 36.47987
-    longitude: 2.8005676
-- name: Khenchela
-  names:
-  - Khenchla
-  - Khenchela
-  code: "40"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.113819
-    minlatitude: 35.39185
-    maxlongitude: 7.1690083
-    maxlatitude: 35.460808
-    latitude: 35.416668
-    longitude: 7.133333
-- name: Souk Ahras
-  names:
-  - Souq Ahras
-  - Souk Ahras
-  code: "41"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.916808
-    minlatitude: 36.244133
-    maxlongitude: 8.001652
-    maxlatitude: 36.31156
-    latitude: 36.28639
-    longitude: 7.951111
-- name: Naama
-  names:
-  - Naama
-  code: "45"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.7384948
-    minlatitude: 32.10852
-    maxlongitude: 0.134101
-    maxlatitude: 34.2906
-    latitude: 33.435062
-    longitude: -0.9056623
-- name: Relizane
-  names:
-  - Ghilizane
-  - Ighil Izane
-  - Rélizane
-  - Relizane
-  code: "48"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.5295754
-    minlatitude: 35.695816
-    maxlongitude: 0.5892706
-    maxlatitude: 35.763367
-    latitude: 35.733334
-    longitude: 0.55
-- name: Boumerdès
-  names:
-  - Boumerdès
-  code: "35"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 3.301881
-    minlatitude: 36.5268
-    maxlongitude: 4.117831
-    maxlatitude: 36.92459
-    latitude: 36.767597
-    longitude: 3.7029002
-- name: El Tarf
-  names:
-  - El Taref
-  - at-Tarf
-  - El Tarf
-  code: "36"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.730847
-    minlatitude: 36.36993
-    maxlongitude: 8.67615
-    maxlatitude: 36.952156
-    latitude: 36.75586
-    longitude: 8.221298
-- name: Tamanghasset
-  names:
-  - Fort-Laperrine
-  - Tamanghist
-  - Tamanrasset
-  code: "11"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.6884155
-    minlatitude: 20.898588
-    maxlongitude: 6.6625214
-    maxlatitude: 23.650658
-    latitude: 22.785
-    longitude: 5.522778
-- name: Msila
-  names:
-  - MʿSila
-  - Msila
-  code: "28"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.4319534
-    minlatitude: 35.569935
-    maxlongitude: 4.605503
-    maxlatitude: 35.87236
-    latitude: 35.701942
-    longitude: 4.547222
-- name: El Oued
-  names:
-  - El Ouâdi
-  - El Wad
-  - El Oued
-  code: "39"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.820836
-    minlatitude: 33.32974
-    maxlongitude: 6.89435
-    maxlatitude: 33.412323
-    latitude: 33.371338
-    longitude: 6.847968
-- name: Ghardaïa
-  names:
-  - Ghardaïa
-  code: "47"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 3.5745049
-    minlatitude: 32.45743
-    maxlongitude: 3.916626
-    maxlatitude: 32.70469
-    latitude: 32.490223
-    longitude: 3.6738412
-- name: Laghouat
-  names:
-  - Laghouat
-  code: "03"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.8309536
-    minlatitude: 33.73967
-    maxlongitude: 2.947855
-    maxlatitude: 33.83508
-    latitude: 33.797256
-    longitude: 2.8694065
-- name: Bouira
-  names:
-  - Bouira
-  code: "10"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 3.375708
-    minlatitude: 35.8271
-    maxlongitude: 4.47439
-    maxlatitude: 36.58975
-    latitude: 36.28353
-    longitude: 3.9878428
-- name: Tiaret
-  names:
-  - Tihert
-  - Tiaret
-  code: "14"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.2896061
-    minlatitude: 35.30868
-    maxlongitude: 1.4936256
-    maxlatitude: 35.411297
-    latitude: 35.367355
-    longitude: 1.3220322
-- name: Sétif
-  names:
-  - Setif
-  - Stif
-  - Sétif
-  code: "19"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.3331866
-    minlatitude: 36.133717
-    maxlongitude: 5.5072403
-    maxlatitude: 36.24732
-    latitude: 36.196903
-    longitude: 5.415087
-- name: Saïda
-  names:
-  - Saida
-  - Saïda
-  code: "20"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.1194763
-    minlatitude: 34.812252
-    maxlongitude: 0.1772404
-    maxlatitude: 34.871635
-    latitude: 34.8412
-    longitude: 0.1484305
-- name: Constantine
-  names:
-  - Ksontina
-  - Qacentina
-  - Qoussantina
-  - Qusanţīnah
-  - Constantine
-  code: "25"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.5284057
-    minlatitude: 36.25892
-    maxlongitude: 6.766548
-    maxlatitude: 36.449055
-    latitude: 36.35
-    longitude: 6.6
-- name: Ouargla
-  names:
-  - Wargla
-  - Ouargla
-  code: "30"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.463196
-    minlatitude: 31.87406
-    maxlongitude: 5.450206
-    maxlatitude: 32.507446
-    latitude: 31.95
-    longitude: 5.316667
-- name: Tindouf
-  names:
-  - Tindouf
-  code: "37"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.666662
-    minlatitude: 25.568459
-    maxlongitude: -3.9839172
-    maxlatitude: 28.923641
-    latitude: 27.676102
-    longitude: -8.127652
-- name: Adrar
-  names:
-  - Adrar
-  code: "01"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -0.3310157
-    minlatitude: 27.768013
-    maxlongitude: -0.0769043
-    maxlatitude: 28.185217
-    latitude: 27.866667
-    longitude: -0.283333
-- name: Tlemcen
-  names:
-  - Tilimsen
-  - Tlemcen
-  code: "13"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.3708879
-    minlatitude: 34.857483
-    maxlongitude: -1.2593079
-    maxlatitude: 34.934425
-    latitude: 34.882774
-    longitude: -1.31667
-- name: Skikda
-  names:
-  - Skikda
-  code: "21"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.8444824
-    minlatitude: 36.838554
-    maxlongitude: 7.0269585
-    maxlatitude: 36.91703
-    latitude: 36.86667
-    longitude: 6.9
-- name: Mascara
-  names:
-  - Mouaskar
-  - Mascara
-  code: "29"
-  countryalpha2: DZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -0.498706
-    minlatitude: 34.98422
-    maxlongitude: 0.932448
-    maxlatitude: 35.76477
-    latitude: 35.39041
-    longitude: 0.1494988
 - name: Biskra
   names:
   - Beskra
@@ -712,18 +576,154 @@
     maxlatitude: 34.917255
     latitude: 34.85
     longitude: 5.733333
-- name: Djelfa
+- name: Béchar
   names:
-  - El Djelfa
-  - Djelfa
-  code: "17"
+  - Béchar
+  code: "08"
   countryalpha2: DZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 3.201828
-    minlatitude: 34.623566
-    maxlongitude: 3.2964778
-    maxlatitude: 34.70075
-    latitude: 34.666668
-    longitude: 3.25
+    minlongitude: -2.9278564
+    minlatitude: 31.18248
+    maxlongitude: -1.352005
+    maxlatitude: 32.166313
+    latitude: 31.61825
+    longitude: -2.214323
+- name: Tébessa
+  names:
+  - Tbessa
+  - Tébessa
+  code: "12"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.050232
+    minlatitude: 35.38114
+    maxlongitude: 8.170858
+    maxlatitude: 35.44231
+    latitude: 35.4
+    longitude: 8.116667
+- name: El Tarf
+  names:
+  - El Taref
+  - at-Tarf
+  - El Tarf
+  code: "36"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.730847
+    minlatitude: 36.36993
+    maxlongitude: 8.67615
+    maxlatitude: 36.952156
+    latitude: 36.75586
+    longitude: 8.221298
+- name: Tindouf
+  names:
+  - Tindouf
+  code: "37"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.666662
+    minlatitude: 25.568459
+    maxlongitude: -3.9839172
+    maxlatitude: 28.923641
+    latitude: 27.676102
+    longitude: -8.127652
+- name: Naama
+  names:
+  - Naama
+  code: "45"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.7384948
+    minlatitude: 32.10852
+    maxlongitude: 0.134101
+    maxlatitude: 34.2906
+    latitude: 33.435062
+    longitude: -0.9056623
+- name: Blida
+  names:
+  - El Boulaida
+  - Blida
+  code: "09"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.7320335
+    minlatitude: 36.443398
+    maxlongitude: 2.868483
+    maxlatitude: 36.51721
+    latitude: 36.47987
+    longitude: 2.8005676
+- name: Alger
+  names:
+  - Al-Jazair
+  - Al-Jazaʿir
+  - El Djazair
+  - al-Jazāʿir
+  - Algier
+  - Alger
+  code: "16"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 36.752888
+    longitude: 3.042048
+- name: Sétif
+  names:
+  - Setif
+  - Stif
+  - Sétif
+  code: "19"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.3331866
+    minlatitude: 36.133717
+    maxlongitude: 5.5072403
+    maxlatitude: 36.24732
+    latitude: 36.196903
+    longitude: 5.415087
+- name: Bordj Bou Arréridj
+  names:
+  - Bordj Bou Arreridj
+  code: "34"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.690132
+    minlatitude: 36.016685
+    maxlongitude: 4.8482323
+    maxlatitude: 36.120613
+    latitude: 36.07042
+    longitude: 4.7564044
+- name: Aïn Témouchent
+  names:
+  - Aïn Temouchent
+  code: "46"
+  countryalpha2: DZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.1580491
+    minlatitude: 35.27924
+    maxlongitude: -1.1136531
+    maxlatitude: 35.32066
+    latitude: 35.30725
+    longitude: -1.1424514

@@ -13,36 +13,27 @@ tlds:
 languages:
   isl: Icelandic
 translations:
-  deu:
+  DEU:
     common: Island
     official: Island
-  fin:
-    common: Islanti
-    official: Islanti
-  fra:
+  FRA:
     common: Islande
     official: République d'Islande
-  hrv:
+  HRV:
     common: Island
     official: Island
-  ita:
+  ITA:
     common: Islanda
     official: Islanda
-  jpn:
+  JPN:
     common: アイスランド
     official: アイスランド
-  nld:
+  NLD:
     common: IJsland
     official: IJsland
-  por:
+  POR:
     common: Islândia
     official: Islândia
-  rus:
-    common: Исландия
-    official: Исландия
-  spa:
-    common: Islandia
-    official: Islandia
 currencies:
 - ISK
 borders: []

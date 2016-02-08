@@ -1,3 +1,46 @@
+- name: Ordino
+  names:
+  - Ordino
+  code: "05"
+  countryalpha2: AD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.531403
+    minlatitude: 42.552395
+    maxlongitude: 1.5374774
+    maxlatitude: 42.559685
+    latitude: 42.555656
+    longitude: 1.5330732
+- name: Sant Julià de Lòria
+  names:
+  - Saint Julia de Loria
+  code: "06"
+  countryalpha2: AD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.4893715
+    minlatitude: 42.461395
+    maxlongitude: 1.4963642
+    maxlatitude: 42.47274
+    latitude: 42.465786
+    longitude: 1.4921277
+- name: Andorra la Vella
+  names:
+  - Andorra la Vieja
+  - Andorre-la-Vieille
+  code: "07"
+  countryalpha2: AD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.5053926
+    minlatitude: 42.496605
+    maxlongitude: 1.5353385
+    maxlatitude: 42.513565
+    latitude: 42.506317
+    longitude: 1.5218354
 - name: Escaldes-Engordany
   names:
   - Les Escaldes
@@ -54,46 +97,3 @@
     maxlatitude: 42.55017
     latitude: 42.545624
     longitude: 1.5147392
-- name: Ordino
-  names:
-  - Ordino
-  code: "05"
-  countryalpha2: AD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.531403
-    minlatitude: 42.552395
-    maxlongitude: 1.5374774
-    maxlatitude: 42.559685
-    latitude: 42.555656
-    longitude: 1.5330732
-- name: Sant Julià de Lòria
-  names:
-  - Saint Julia de Loria
-  code: "06"
-  countryalpha2: AD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.4893715
-    minlatitude: 42.461395
-    maxlongitude: 1.4963642
-    maxlatitude: 42.47274
-    latitude: 42.465786
-    longitude: 1.4921277
-- name: Andorra la Vella
-  names:
-  - Andorra la Vieja
-  - Andorre-la-Vieille
-  code: "07"
-  countryalpha2: AD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.5053926
-    minlatitude: 42.496605
-    maxlongitude: 1.5353385
-    maxlatitude: 42.513565
-    latitude: 42.506317
-    longitude: 1.5218354

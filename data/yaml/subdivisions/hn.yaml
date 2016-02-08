@@ -1,17 +1,31 @@
-- name: Islas de la Bahía
+- name: Comayagua
   names:
-  - Islas de la Bahía
-  code: IB
+  - Comayagua
+  code: CM
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -86.98986
-    minlatitude: 16.069366
-    maxlongitude: -83.928764
-    maxlatitude: 17.415834
-    latitude: 16.352608
-    longitude: -86.48955
+    minlongitude: -88.08321
+    minlatitude: 14.066805
+    maxlongitude: -87.26158
+    maxlatitude: 15.0569
+    latitude: 14.553483
+    longitude: -87.61864
+- name: El Paraíso
+  names:
+  - El Paraíso
+  code: EP
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.2356
+    minlatitude: 13.50136
+    maxlongitude: -85.57648
+    maxlatitude: 14.380148
+    latitude: 14.073693
+    longitude: -86.41873
 - name: La Paz
   names:
   - La Paz
@@ -40,34 +54,20 @@
     maxlatitude: 14.747355
     latitude: 14.517035
     longitude: -89.05615
-- name: Yoro
+- name: Valle
   names:
-  - Yoro
-  code: YO
+  - Valle
+  code: VA
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.94176
-    minlatitude: 14.790506
-    maxlongitude: -86.21965
-    maxlatitude: 15.729222
-    latitude: 15.294968
-    longitude: -87.14229
-- name: Santa Bárbara
-  names:
-  - Santa Bárbara
-  code: SB
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.751595
-    minlatitude: 14.584976
-    maxlongitude: -87.995964
-    maxlatitude: 15.53789
-    latitude: 15.120279
-    longitude: -88.4016
+    minlongitude: -87.86829
+    minlatitude: 13.248704
+    maxlongitude: -87.3612
+    maxlatitude: 13.853783
+    latitude: 13.578294
+    longitude: -87.57913
 - name: Atlántida
   names:
   - Atlántida
@@ -82,48 +82,6 @@
     maxlatitude: 15.918292
     latitude: 15.669628
     longitude: -87.14229
-- name: Choluteca
-  names:
-  - Choluteca
-  code: CH
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.227585
-    minlatitude: 13.244373
-    maxlongitude: -87.114975
-    maxlatitude: 13.357721
-    latitude: 13.319858
-    longitude: -87.16223
-- name: Comayagua
-  names:
-  - Comayagua
-  code: CM
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.08321
-    minlatitude: 14.066805
-    maxlongitude: -87.26158
-    maxlatitude: 15.0569
-    latitude: 14.553483
-    longitude: -87.61864
-- name: Olancho
-  names:
-  - Olancho
-  code: OL
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.95449
-    minlatitude: 14.046359
-    maxlongitude: -84.987854
-    maxlatitude: 15.61391
-    latitude: 14.806741
-    longitude: -85.76666
 - name: Copán
   names:
   - Copán
@@ -152,48 +110,20 @@
     maxlatitude: 14.337657
     latitude: 14.316667
     longitude: -88.166664
-- name: Lempira
+- name: Olancho
   names:
-  - Lempira
-  code: LE
+  - Olancho
+  code: OL
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.990234
-    minlatitude: 13.978775
-    maxlongitude: -88.319244
-    maxlatitude: 14.955633
-    latitude: 14.188769
-    longitude: -88.55653
-- name: Valle
-  names:
-  - Valle
-  code: VA
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.86829
-    minlatitude: 13.248704
-    maxlongitude: -87.3612
-    maxlatitude: 13.853783
-    latitude: 13.578294
-    longitude: -87.57913
-- name: Gracias a Dios
-  names:
-  - Gracias a Dios
-  code: GD
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -84.99412
-    minlatitude: 14.614529
-    maxlongitude: -83.1554
-    maxlatitude: 15.978286
-    latitude: 15.341806
-    longitude: -84.60605
+    minlongitude: -86.95449
+    minlatitude: 14.046359
+    maxlongitude: -84.987854
+    maxlatitude: 15.61391
+    latitude: 14.806741
+    longitude: -85.76666
 - name: Colón
   names:
   - Colón
@@ -222,20 +152,90 @@
     maxlatitude: 15.919812
     latitude: 15.490952
     longitude: -87.93348
-- name: El Paraíso
+- name: Islas de la Bahía
   names:
-  - El Paraíso
-  code: EP
+  - Islas de la Bahía
+  code: IB
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.2356
-    minlatitude: 13.50136
-    maxlongitude: -85.57648
-    maxlatitude: 14.380148
-    latitude: 14.073693
-    longitude: -86.41873
+    minlongitude: -86.98986
+    minlatitude: 16.069366
+    maxlongitude: -83.928764
+    maxlatitude: 17.415834
+    latitude: 16.352608
+    longitude: -86.48955
+- name: Choluteca
+  names:
+  - Choluteca
+  code: CH
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.227585
+    minlatitude: 13.244373
+    maxlongitude: -87.114975
+    maxlatitude: 13.357721
+    latitude: 13.319858
+    longitude: -87.16223
+- name: Gracias a Dios
+  names:
+  - Gracias a Dios
+  code: GD
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.99412
+    minlatitude: 14.614529
+    maxlongitude: -83.1554
+    maxlatitude: 15.978286
+    latitude: 15.341806
+    longitude: -84.60605
+- name: Lempira
+  names:
+  - Lempira
+  code: LE
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.990234
+    minlatitude: 13.978775
+    maxlongitude: -88.319244
+    maxlatitude: 14.955633
+    latitude: 14.188769
+    longitude: -88.55653
+- name: Santa Bárbara
+  names:
+  - Santa Bárbara
+  code: SB
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.751595
+    minlatitude: 14.584976
+    maxlongitude: -87.995964
+    maxlatitude: 15.53789
+    latitude: 15.120279
+    longitude: -88.4016
+- name: Yoro
+  names:
+  - Yoro
+  code: YO
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.94176
+    minlatitude: 14.790506
+    maxlongitude: -86.21965
+    maxlatitude: 15.729222
+    latitude: 15.294968
+    longitude: -87.14229
 - name: Francisco Morazán
   names:
   - Francisco Morazán

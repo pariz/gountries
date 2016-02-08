@@ -17,34 +17,25 @@ languages:
   nld: Dutch
   pap: Papiamento
 translations:
-  deu:
+  FIN:
     common: Aruba
     official: Aruba
-  fin:
+  HRV:
     common: Aruba
     official: Aruba
-  fra:
-    common: Aruba
-    official: Aruba
-  hrv:
-    common: Aruba
-    official: Aruba
-  ita:
-    common: Aruba
-    official: Aruba
-  jpn:
+  JPN:
     common: アルバ
     official: アルバ
-  nld:
+  NLD:
     common: Aruba
     official: Aruba
-  por:
+  POR:
     common: Aruba
     official: Aruba
-  rus:
+  RUS:
     common: Аруба
     official: Аруба
-  spa:
+  SPA:
     common: Aruba
     official: Aruba
 currencies:

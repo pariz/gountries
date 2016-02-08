@@ -17,34 +17,22 @@ languages:
   eng: English
   swa: Swahili
 translations:
-  deu:
-    common: Tansania
-    official: Vereinigte Republik Tansania
-  fin:
-    common: Tansania
-    official: Tansanian yhdistynyt tasavalta
-  fra:
+  FRA:
     common: Tanzanie
     official: République -Unie de Tanzanie
-  hrv:
+  HRV:
     common: Tanzanija
     official: Ujedinjena Republika Tanzanija
-  ita:
-    common: Tanzania
-    official: Repubblica Unita di Tanzania
-  jpn:
+  JPN:
     common: タンザニア
     official: タンザニア連合共和国
-  nld:
+  NLD:
     common: Tanzania
     official: Verenigde Republiek Tanzania
-  por:
+  POR:
     common: Tanzânia
     official: República Unida da Tanzânia
-  rus:
-    common: Танзания
-    official: Объединенная Республика Танзания
-  spa:
+  SPA:
     common: Tanzania
     official: República Unida de Tanzania
 currencies:

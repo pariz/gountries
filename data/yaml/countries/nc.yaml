@@ -13,36 +13,21 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
-    common: Neukaledonien
-    official: Neukaledonien
-  fin:
-    common: Uusi-Kaledonia
-    official: Uusi-Kaledonia
-  fra:
+  FRA:
     common: Nouvelle-Calédonie
     official: Nouvelle-Calédonie
-  hrv:
-    common: Nova Kaledonija
-    official: Nova Kaledonija
-  ita:
+  ITA:
     common: Nuova Caledonia
     official: Nuova Caledonia
-  jpn:
+  JPN:
     common: ニューカレドニア
     official: ニューカレドニア
-  nld:
-    common: Nieuw-Caledonië
-    official: nieuw -Caledonië
-  por:
+  POR:
     common: Nova Caledónia
     official: New Caledonia
-  rus:
+  RUS:
     common: Новая Каледония
     official: Новая Каледония
-  spa:
-    common: Nueva Caledonia
-    official: nueva Caledonia
 currencies:
 - XPF
 borders: []

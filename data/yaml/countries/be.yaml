@@ -21,39 +21,27 @@ languages:
   fra: French
   nld: Dutch
 translations:
-  cym:
+  CYM:
     common: Gwlad Belg
     official: Kingdom of Belgium
-  deu:
+  DEU:
     common: Belgien
     official: Königreich Belgien
-  fin:
+  FIN:
     common: Belgia
     official: Belgian kuningaskunta
-  fra:
+  FRA:
     common: Belgique
     official: Royaume de Belgique
-  hrv:
-    common: Belgija
-    official: Kraljevina Belgija
-  ita:
+  ITA:
     common: Belgio
     official: Regno del Belgio
-  jpn:
-    common: ベルギー
-    official: ベルギー王国
-  nld:
-    common: België
-    official: Koninkrijk België
-  por:
+  POR:
     common: Bélgica
     official: Reino da Bélgica
-  rus:
+  RUS:
     common: Бельгия
     official: Королевство Бельгия
-  spa:
-    common: Bélgica
-    official: Reino de Bélgica
 currencies:
 - EUR
 borders:

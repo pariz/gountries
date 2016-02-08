@@ -1,3 +1,17 @@
+- name: Alberta
+  names:
+  - Alberta
+  code: AB
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -120.00052
+    minlatitude: 48.996666
+    maxlongitude: -109.999855
+    maxlatitude: 60.00006
+    latitude: 53.93327
+    longitude: -116.5765
 - name: British Columbia
   names:
   - Colombie-Britannique
@@ -40,6 +54,34 @@
     maxlatitude: 48.173515
     latitude: 46.565315
     longitude: -66.461914
+- name: Ontario
+  names:
+  - Ontario
+  code: "ON"
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -95.15623
+    minlatitude: 41.681347
+    maxlongitude: -74.34388
+    maxlatitude: 56.85653
+    latitude: 51.253777
+    longitude: -85.32321
+- name: Quebec
+  names:
+  - Québec
+  code: QC
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.76234
+    minlatitude: 44.99136
+    maxlongitude: -57.105484
+    maxlatitude: 62.583054
+    latitude: 52.939915
+    longitude: -73.54913
 - name: Newfoundland and Labrador
   names:
   - Terre-Neuve-et-Labrador
@@ -84,20 +126,6 @@
     maxlatitude: 78.761345
     latitude: 64.82555
     longitude: -124.84573
-- name: Alberta
-  names:
-  - Alberta
-  code: AB
-  countryalpha2: CA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -120.00052
-    minlatitude: 48.996666
-    maxlongitude: -109.999855
-    maxlatitude: 60.00006
-    latitude: 53.93327
-    longitude: -116.5765
 - name: Nunavut
   names:
   - Nunavut
@@ -112,20 +140,6 @@
     maxlatitude: 83.095665
     latitude: 70.299774
     longitude: -83.107574
-- name: Ontario
-  names:
-  - Ontario
-  code: "ON"
-  countryalpha2: CA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -95.15623
-    minlatitude: 41.681347
-    maxlongitude: -74.34388
-    maxlatitude: 56.85653
-    latitude: 51.253777
-    longitude: -85.32321
 - name: Prince Edward Island
   names:
   - Île-du-Prince-Édouard
@@ -140,20 +154,6 @@
     maxlatitude: 47.44166
     latitude: 46.51071
     longitude: -63.416813
-- name: Quebec
-  names:
-  - Québec
-  code: QC
-  countryalpha2: CA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.76234
-    minlatitude: 44.99136
-    maxlongitude: -57.105484
-    maxlatitude: 62.583054
-    latitude: 52.939915
-    longitude: -73.54913
 - name: Saskatchewan
   names:
   - Saskatchewan

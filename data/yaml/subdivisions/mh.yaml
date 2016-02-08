@@ -12,104 +12,6 @@
     maxlatitude: 4.679086
     latitude: 4.6166115
     longitude: 168.72495
-- name: Jaluit
-  names:
-  - Jālwōj
-  code: JAL
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 169.63368
-    minlatitude: 5.904506
-    maxlongitude: 169.64081
-    maxlatitude: 5.9135237
-    latitude: 5.9092584
-    longitude: 169.63725
-- name: Kwajalein
-  names:
-  - Kuwajleen
-  code: KWA
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.81091
-    minlatitude: 8.712679
-    maxlongitude: 167.77702
-    maxlatitude: 9.409775
-    latitude: 9.189823
-    longitude: 167.4243
-- name: Lae
-  names:
-  - Lae
-  code: LAE
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.20898
-    minlatitude: 8.915005
-    maxlongitude: 166.27773
-    maxlatitude: 8.967658
-    latitude: 8.941108
-    longitude: 166.23633
-- name: Maloelap
-  names:
-  - Maloelap
-  code: MAL
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 170.82745
-    minlatitude: 8.48171
-    maxlongitude: 171.24493
-    maxlatitude: 8.911868
-    latitude: 8.773517
-    longitude: 171.0313
-- name: Ujae
-  names:
-  - Ujae
-  code: UJA
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 165.51811
-    minlatitude: 8.922806
-    maxlongitude: 165.77039
-    maxlatitude: 9.226254
-    latitude: 9.058217
-    longitude: 165.64409
-- name: Ailinglapalap
-  names:
-  - Ailinglaplap
-  code: ALL
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 7.2833333
-    longitude: 168.78334
-- name: Eniwetok
-  names:
-  - Eniwetok
-  code: ENI
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 162.31763
-    minlatitude: 11.335714
-    maxlongitude: 162.34778
-    maxlatitude: 11.360302
-    latitude: 11.341566
-    longitude: 162.32668
 - name: Jabat
   names:
   - Jabat
@@ -124,6 +26,204 @@
     maxlatitude: 0
     latitude: 7.7517
     longitude: 168.9767
+- name: Kwajalein
+  names:
+  - Kuwajleen
+  code: KWA
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.81091
+    minlatitude: 8.712679
+    maxlongitude: 167.77702
+    maxlatitude: 9.409775
+    latitude: 9.189823
+    longitude: 167.4243
+- name: Likiep
+  names:
+  - Likiep
+  code: LIK
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 9.816944
+    longitude: 169.30528
+- name: Rongelap
+  names:
+  - Rongelap
+  code: RON
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.61183
+    minlatitude: 11.1462345
+    maxlongitude: 167.06523
+    maxlatitude: 11.504416
+    latitude: 11.360392
+    longitude: 166.77982
+- name: Ujae
+  names:
+  - Ujae
+  code: UJA
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 165.51811
+    minlatitude: 8.922806
+    maxlongitude: 165.77039
+    maxlatitude: 9.226254
+    latitude: 9.058217
+    longitude: 165.64409
+- name: Aur
+  names:
+  - Aur
+  code: AUR
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 171.00958
+    minlatitude: 8.1297455
+    maxlongitude: 171.18156
+    maxlatitude: 8.371929
+    latitude: 8.27509
+    longitude: 171.09753
+- name: Eniwetok
+  names:
+  - Eniwetok
+  code: ENI
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 162.31763
+    minlatitude: 11.335714
+    maxlongitude: 162.34778
+    maxlatitude: 11.360302
+    latitude: 11.341566
+    longitude: 162.32668
+- name: Lib
+  names:
+  - Ellep
+  code: LIB
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 167.37448
+    minlatitude: 8.3119955
+    maxlongitude: 167.37672
+    maxlatitude: 8.315562
+    latitude: 8.313183
+    longitude: 167.37587
+- name: Utirik
+  names:
+  - Utirik
+  - Utrōk
+  - Utrōnk
+  code: UTI
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 169.8475
+    minlatitude: 11.221424
+    maxlongitude: 169.85635
+    maxlatitude: 11.223322
+    latitude: 11.222611
+    longitude: 169.85448
+- name: Ailuk
+  names:
+  - Ailuk
+  code: ALK
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 169.8528
+    minlatitude: 10.211037
+    maxlongitude: 169.99188
+    maxlatitude: 10.477094
+    latitude: 10.304809
+    longitude: 169.94165
+- name: Ailinglapalap
+  names:
+  - Ailinglaplap
+  code: ALL
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 7.2833333
+    longitude: 168.78334
+- name: Arno
+  names:
+  - Arno
+  code: ARN
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 7.063889
+    longitude: 171.55833
+- name: Jaluit
+  names:
+  - Jālwōj
+  code: JAL
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 169.63368
+    minlatitude: 5.904506
+    maxlongitude: 169.64081
+    maxlatitude: 5.9135237
+    latitude: 5.9092584
+    longitude: 169.63725
+- name: Kili
+  names:
+  - Kōle
+  code: KIL
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 169.11134
+    minlatitude: 5.63734
+    maxlongitude: 169.1323
+    maxlatitude: 5.651519
+    latitude: 5.640549
+    longitude: 169.11816
+- name: Maloelap
+  names:
+  - Maloelap
+  code: MAL
+  countryalpha2: MH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 170.82745
+    minlatitude: 8.48171
+    maxlongitude: 171.24493
+    maxlatitude: 8.911868
+    latitude: 8.773517
+    longitude: 171.0313
 - name: Mejit
   names:
   - Mājeej
@@ -152,20 +252,6 @@
     maxlatitude: 5.6431985
     latitude: 5.617255
     longitude: 168.12936
-- name: Rongelap
-  names:
-  - Rongelap
-  code: RON
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.61183
-    minlatitude: 11.1462345
-    maxlongitude: 167.06523
-    maxlatitude: 11.504416
-    latitude: 11.360392
-    longitude: 166.77982
 - name: Wotje
   names:
   - Wotje
@@ -180,62 +266,34 @@
     maxlatitude: 0
     latitude: 9.452367
     longitude: 170.23721
-- name: Aur
+- name: Lae
   names:
-  - Aur
-  code: AUR
+  - Lae
+  code: LAE
   countryalpha2: MH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 171.00958
-    minlatitude: 8.1297455
-    maxlongitude: 171.18156
-    maxlatitude: 8.371929
-    latitude: 8.27509
-    longitude: 171.09753
-- name: Kili
+    minlongitude: 166.20898
+    minlatitude: 8.915005
+    maxlongitude: 166.27773
+    maxlatitude: 8.967658
+    latitude: 8.941108
+    longitude: 166.23633
+- name: Majuro
   names:
-  - Kōle
-  code: KIL
+  - Mājro
+  code: MAJ
   countryalpha2: MH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 169.11134
-    minlatitude: 5.63734
-    maxlongitude: 169.1323
-    maxlatitude: 5.651519
-    latitude: 5.640549
-    longitude: 169.11816
-- name: Lib
-  names:
-  - Ellep
-  code: LIB
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 167.37448
-    minlatitude: 8.3119955
-    maxlongitude: 167.37672
-    maxlatitude: 8.315562
-    latitude: 8.313183
-    longitude: 167.37587
-- name: Likiep
-  names:
-  - Likiep
-  code: LIK
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 9.816944
-    longitude: 169.30528
+    minlongitude: 171.02592
+    minlatitude: 7.0525503
+    maxlongitude: 171.38498
+    maxlatitude: 7.2235613
+    latitude: 7.116421
+    longitude: 171.18578
 - name: Mili
   names:
   - Mili
@@ -278,64 +336,6 @@
     maxlatitude: 0
     latitude: 9.77
     longitude: 160.97528
-- name: Utirik
-  names:
-  - Utirik
-  - Utrōk
-  - Utrōnk
-  code: UTI
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 169.8475
-    minlatitude: 11.221424
-    maxlongitude: 169.85635
-    maxlatitude: 11.223322
-    latitude: 11.222611
-    longitude: 169.85448
-- name: Ailuk
-  names:
-  - Ailuk
-  code: ALK
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 169.8528
-    minlatitude: 10.211037
-    maxlongitude: 169.99188
-    maxlatitude: 10.477094
-    latitude: 10.304809
-    longitude: 169.94165
-- name: Arno
-  names:
-  - Arno
-  code: ARN
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 7.063889
-    longitude: 171.55833
-- name: Majuro
-  names:
-  - Mājro
-  code: MAJ
-  countryalpha2: MH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 171.02592
-    minlatitude: 7.0525503
-    maxlongitude: 171.38498
-    maxlatitude: 7.2235613
-    latitude: 7.116421
-    longitude: 171.18578
 - name: Wotho
   names:
   - Wōtto

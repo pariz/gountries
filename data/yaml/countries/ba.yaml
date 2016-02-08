@@ -21,37 +21,31 @@ languages:
   hrv: Croatian
   srp: Serbian
 translations:
-  cym:
+  CYM:
     common: Bosnia a Hercegovina
     official: Bosnia and Herzegovina
-  deu:
+  DEU:
     common: Bosnien und Herzegowina
     official: Bosnien und Herzegowina
-  fin:
-    common: Bosnia ja Hertsegovina
-    official: Bosnia ja Hertsegovina
-  fra:
+  FRA:
     common: Bosnie-Herzégovine
     official: Bosnie-et-Herzégovine
-  hrv:
+  HRV:
     common: Bosna i Hercegovina
     official: Bosna i Hercegovina
-  ita:
+  ITA:
     common: Bosnia ed Erzegovina
     official: Bosnia-Erzegovina
-  jpn:
+  JPN:
     common: ボスニア・ヘルツェゴビナ
     official: ボスニア·ヘルツェゴビナ
-  nld:
+  NLD:
     common: Bosnië en Herzegovina
     official: Bosnië-Herzegovina
-  por:
+  POR:
     common: Bósnia e Herzegovina
     official: Bósnia e Herzegovina
-  rus:
-    common: Босния и Герцеговина
-    official: Босния и Герцеговина
-  spa:
+  SPA:
     common: Bosnia y Herzegovina
     official: Bosnia y Herzegovina
 currencies:

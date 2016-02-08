@@ -1,31 +1,31 @@
-- name: Centre
+- name: Adamaoua
   names:
-  - Centre
-  code: CE
+  - Adamawa
+  code: AD
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.261895
-    minlatitude: 3.139809
-    maxlongitude: 13.248086
-    maxlatitude: 6.262234
-    latitude: 4.6298413
-    longitude: 11.706829
-- name: North
+    minlongitude: 11.173742
+    minlatitude: 5.992985
+    maxlongitude: 15.249244
+    maxlatitude: 8.1690445
+    latitude: 6.9181952
+    longitude: 12.805475
+- name: Littoral
   names:
-  - Bénoué
-  code: "NO"
+  - Littoral
+  code: LT
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.2255
-    minlatitude: 7.029079
-    maxlongitude: 15.598204
-    maxlatitude: 10.219281
-    latitude: 8.580901
-    longitude: 13.914399
+    minlongitude: 9.328249
+    minlatitude: 3.2601087
+    maxlongitude: 11.133462
+    maxlatitude: 5.34718
+    latitude: 4.168214
+    longitude: 10.0807295
 - name: North-West
   names:
   - North-West
@@ -40,6 +40,20 @@
     maxlatitude: 7.161691
     latitude: 6.470374
     longitude: 10.439656
+- name: West
+  names:
+  - West
+  code: OU
+  countryalpha2: CM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.881679
+    minlatitude: 4.897808
+    maxlongitude: 11.321056
+    maxlatitude: 6.271624
+    latitude: 5.4638157
+    longitude: 10.800005
 - name: South
   names:
   - South
@@ -68,20 +82,20 @@
     maxlatitude: 6.530784
     latitude: 5.157349
     longitude: 9.367309
-- name: Adamaoua
+- name: Centre
   names:
-  - Adamawa
-  code: AD
+  - Centre
+  code: CE
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 11.173742
-    minlatitude: 5.992985
-    maxlongitude: 15.249244
-    maxlatitude: 8.1690445
-    latitude: 6.9181952
-    longitude: 12.805475
+    minlongitude: 10.261895
+    minlatitude: 3.139809
+    maxlongitude: 13.248086
+    maxlatitude: 6.262234
+    latitude: 4.6298413
+    longitude: 11.706829
 - name: Far North
   names:
   - Far North
@@ -110,31 +124,17 @@
     maxlatitude: 6.0856643
     latitude: 3.950513
     longitude: 13.914399
-- name: Littoral
+- name: North
   names:
-  - Littoral
-  code: LT
+  - Bénoué
+  code: "NO"
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.328249
-    minlatitude: 3.2601087
-    maxlongitude: 11.133462
-    maxlatitude: 5.34718
-    latitude: 4.168214
-    longitude: 10.0807295
-- name: West
-  names:
-  - West
-  code: OU
-  countryalpha2: CM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.881679
-    minlatitude: 4.897808
-    maxlongitude: 11.321056
-    maxlatitude: 6.271624
-    latitude: 5.4638157
-    longitude: 10.800005
+    minlongitude: 12.2255
+    minlatitude: 7.029079
+    maxlongitude: 15.598204
+    maxlatitude: 10.219281
+    latitude: 8.580901
+    longitude: 13.914399

@@ -18,34 +18,10 @@ languages:
   rus: Russian
   ukr: Ukrainian
 translations:
-  deu:
-    common: Ukraine
-    official: Ukraine
-  fin:
-    common: Ukraina
-    official: Ukraina
-  fra:
-    common: Ukraine
-    official: Ukraine
-  hrv:
-    common: Ukrajina
-    official: Ukrajina
-  ita:
-    common: Ucraina
-    official: Ucraina
-  jpn:
-    common: ウクライナ
-    official: ウクライナ
-  nld:
+  NLD:
     common: Oekraïne
     official: Oekraïne
-  por:
-    common: Ucrânia
-    official: Ucrânia
-  rus:
-    common: Украина
-    official: Украина
-  spa:
+  SPA:
     common: Ucrania
     official: Ucrania
 currencies:

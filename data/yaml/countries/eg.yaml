@@ -14,39 +14,27 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  cym:
-    common: Yr Aifft
-    official: Arab Republic of Egypt
-  deu:
+  DEU:
     common: Ägypten
     official: Arabische Republik Ägypten
-  fin:
+  FIN:
     common: Egypti
     official: Egyptin arabitasavalta
-  fra:
-    common: Égypte
-    official: République arabe d'Égypte
-  hrv:
+  HRV:
     common: Egipat
     official: Arapska Republika Egipat
-  ita:
-    common: Egitto
-    official: Repubblica araba d'Egitto
-  jpn:
+  JPN:
     common: エジプト
     official: エジプト·アラブ共和国
-  nld:
+  NLD:
     common: Egypte
     official: Arabische Republiek Egypte
-  por:
+  POR:
     common: Egito
     official: República Árabe do Egipto
-  rus:
+  RUS:
     common: Египет
     official: Арабская Республика Египет
-  spa:
-    common: Egipto
-    official: República Árabe de Egipto
 currencies:
 - EGP
 borders:

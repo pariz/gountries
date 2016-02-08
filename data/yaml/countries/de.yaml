@@ -13,36 +13,30 @@ tlds:
 languages:
   deu: German
 translations:
-  deu:
+  DEU:
     common: Deutschland
     official: Bundesrepublik Deutschland
-  fin:
+  FIN:
     common: Saksa
     official: Saksan liittotasavalta
-  fra:
+  FRA:
     common: Allemagne
     official: République fédérale d'Allemagne
-  hrv:
+  HRV:
     common: Njemačka
     official: Njemačka Federativna Republika
-  ita:
+  ITA:
     common: Germania
     official: Repubblica federale di Germania
-  jpn:
+  JPN:
     common: ドイツ
     official: ドイツ連邦共和国
-  nld:
+  NLD:
     common: Duitsland
     official: Bondsrepubliek Duitsland
-  por:
+  POR:
     common: Alemanha
     official: República Federal da Alemanha
-  rus:
-    common: Германия
-    official: Федеративная Республика Германия
-  spa:
-    common: Alemania
-    official: República Federal de Alemania
 currencies:
 - EUR
 borders:

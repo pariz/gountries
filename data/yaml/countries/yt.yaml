@@ -13,34 +13,25 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
-    common: Mayotte
-    official: Übersee-Département Mayotte
-  fin:
-    common: Mayotte
-    official: Mayotte
-  fra:
+  FRA:
     common: Mayotte
     official: Département de Mayotte
-  hrv:
+  HRV:
     common: Mayotte
     official: Odjel Mayotte
-  ita:
-    common: Mayotte
-    official: Dipartimento di Mayotte
-  jpn:
+  JPN:
     common: マヨット
     official: マヨット科
-  nld:
+  NLD:
     common: Mayotte
     official: Afdeling Mayotte
-  por:
+  POR:
     common: Mayotte
     official: Departamento de Mayotte
-  rus:
+  RUS:
     common: Майотта
     official: Департамент Майотта
-  spa:
+  SPA:
     common: Mayotte
     official: Departamento de Mayotte
 currencies:

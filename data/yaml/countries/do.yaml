@@ -13,37 +13,28 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Gweriniaeth_Dominica
     official: Dominican Republic
-  deu:
-    common: Dominikanische Republik
-    official: Dominikanische Republik
-  fin:
+  FIN:
     common: Dominikaaninen tasavalta
     official: Dominikaaninen tasavalta
-  fra:
+  FRA:
     common: République dominicaine
     official: République Dominicaine
-  hrv:
-    common: Dominikanska Republika
-    official: Dominikanska Republika
-  ita:
+  ITA:
     common: Repubblica Dominicana
     official: Repubblica Dominicana
-  jpn:
+  JPN:
     common: ドミニカ共和国
     official: ドミニカ共和国
-  nld:
-    common: Dominicaanse Republiek
-    official: Dominicaanse Republiek
-  por:
+  POR:
     common: República Dominicana
     official: República Dominicana
-  rus:
+  RUS:
     common: Доминиканская Республика
     official: Доминиканская Республика
-  spa:
+  SPA:
     common: República Dominicana
     official: República Dominicana
 currencies:

@@ -29,36 +29,27 @@ languages:
   oci: Occitan
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Spanien
     official: Königreich Spanien
-  fin:
-    common: Espanja
-    official: Espanjan kuningaskunta
-  fra:
+  FRA:
     common: Espagne
     official: Royaume d'Espagne
-  hrv:
+  HRV:
     common: Španjolska
     official: Kraljevina Španjolska
-  ita:
+  ITA:
     common: Spagna
     official: Regno di Spagna
-  jpn:
+  JPN:
     common: スペイン
     official: スペイン王国
-  nld:
+  NLD:
     common: Spanje
     official: Koninkrijk Spanje
-  por:
+  POR:
     common: Espanha
     official: Reino de Espanha
-  rus:
-    common: Испания
-    official: Королевство Испания
-  spa:
-    common: España
-    official: Reino de España
 currencies:
 - EUR
 borders:

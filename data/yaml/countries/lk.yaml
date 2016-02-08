@@ -19,34 +19,22 @@ languages:
   sin: Sinhala
   tam: Tamil
 translations:
-  deu:
-    common: Sri Lanka
-    official: Demokratische Sozialistische Republik Sri Lanka
-  fin:
-    common: Sri Lanka
-    official: Sri Lankan demokraattinen sosialistinen tasavalta
-  fra:
-    common: Sri Lanka
-    official: République démocratique socialiste du Sri Lanka
-  hrv:
+  HRV:
     common: Šri Lanka
     official: Demokratska Socijalističke Republike Šri Lanke
-  ita:
+  ITA:
     common: Sri Lanka
     official: Repubblica democratica socialista dello Sri Lanka
-  jpn:
+  JPN:
     common: スリランカ
     official: スリランカ民主社会主義共和国
-  nld:
-    common: Sri Lanka
-    official: Democratische Socialistische Republiek Sri Lanka
-  por:
+  POR:
     common: Sri Lanka
     official: República Democrática Socialista do Sri Lanka
-  rus:
+  RUS:
     common: Шри-Ланка
     official: Демократическая Социалистическая Республика Шри-Ланка
-  spa:
+  SPA:
     common: Sri Lanka
     official: República Democrática Socialista de Sri Lanka
 currencies:

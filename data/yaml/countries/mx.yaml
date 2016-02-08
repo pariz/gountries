@@ -13,36 +13,27 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Mexiko
     official: Vereinigte Mexikanische Staaten
-  fin:
+  FIN:
     common: Meksiko
     official: Meksikon yhdysvallat
-  fra:
+  FRA:
     common: Mexique
     official: États-Unis du Mexique
-  hrv:
+  HRV:
     common: Meksiko
     official: Sjedinjene Meksičke Države
-  ita:
+  ITA:
     common: Messico
     official: Stati Uniti del Messico
-  jpn:
-    common: メキシコ
-    official: メキシコ合衆国
-  nld:
+  NLD:
     common: Mexico
     official: Verenigde Mexicaanse Staten
-  por:
-    common: México
-    official: Estados Unidos Mexicanos
-  rus:
+  RUS:
     common: Мексика
     official: Мексиканских Соединенных Штатов
-  spa:
-    common: México
-    official: Estados Unidos Mexicanos
 currencies:
 - MXN
 borders:

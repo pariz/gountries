@@ -1,32 +1,3 @@
-- name: Būr Sa`īd
-  names:
-  - Bur Said
-  - Būr Saʿīd
-  code: PTS
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.249027
-    minlatitude: 31.198885
-    maxlongitude: 32.321312
-    maxlatitude: 31.278471
-    latitude: 31.26529
-    longitude: 32.301865
-- name: Al Bahr al Ahmar
-  names:
-  - El Bahr el Ahmar
-  code: BA
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.741446
-    minlatitude: 21.999638
-    maxlongitude: 36.894516
-    maxlatitude: 29.392338
-    latitude: 25.107683
-    longitude: 33.796463
 - name: Al Iskandariyah
   names:
   - El Iskandariya
@@ -46,71 +17,23 @@
     maxlatitude: 31.330904
     latitude: 31.200092
     longitude: 29.91874
-- name: Aswan
+- name: Shamal Sina'
   names:
-  - Aswān
-  - Assuan
-  - Assouan
-  code: ASN
+  - Shamal Sina
+  - Sina aš-Šamālīyah
+  - Sinai ash-Shamaliyah
+  - Šamāl Sīna
+  code: SIN
   countryalpha2: EG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 32.87944
-    minlatitude: 24.071476
-    maxlongitude: 32.920773
-    maxlatitude: 24.113194
-    latitude: 24.088938
-    longitude: 32.89983
-- name: Al Fayyum
-  names:
-  - El Faiyūm
-  - al-Fayyum
-  - al-Fayyūm
-  code: FYM
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.820688
-    minlatitude: 29.291826
-    maxlongitude: 30.863886
-    maxlatitude: 29.329967
-    latitude: 29.308403
-    longitude: 30.84285
-- name: Suhaj
-  names:
-  - Sawhaj
-  - Suhag
-  - Suhaj
-  - Sūhaj
-  - Sawhāj
-  code: SHG
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.341541
-    minlatitude: 26.15182
-    maxlongitude: 32.170708
-    maxlatitude: 26.934395
-    latitude: 26.501348
-    longitude: 31.765137
-- name: As Suways
-  names:
-  - El Suweiz
-  - as-Suways
-  code: SUZ
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.437492
-    minlatitude: 29.932945
-    maxlongitude: 32.585495
-    maxlatitude: 30.021181
-    latitude: 29.966835
-    longitude: 32.54981
+    minlongitude: 32.554565
+    minlatitude: 29.593273
+    maxlongitude: 34.87746
+    maxlatitude: 31.33141
+    latitude: 30.608473
+    longitude: 33.617577
 - name: Al Qahirah
   names:
   - El Qahira
@@ -130,38 +53,193 @@
     maxlatitude: 30.110603
     latitude: 30.04442
     longitude: 31.235712
-- name: Ash Sharqiyah
+- name: Janub Sina'
   names:
-  - ash-Sharqiyah
-  - aš-Šarqīyah
-  code: SHR
+  - Sina al-Janūbīyah
+  - Sinai al-Janubiyah
+  - South Sinai
+  code: JS
   countryalpha2: EG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 31.260767
-    minlatitude: 30.288689
-    maxlongitude: 32.178257
-    maxlatitude: 31.168795
-    latitude: 30.732662
-    longitude: 31.719545
-- name: Shamal Sina'
+    minlongitude: 32.60945
+    minlatitude: 27.724028
+    maxlongitude: 34.90767
+    maxlatitude: 29.949446
+    latitude: 29.310183
+    longitude: 34.153194
+- name: Qina
   names:
-  - Shamal Sina
-  - Sina aš-Šamālīyah
-  - Sinai ash-Shamaliyah
-  - Šamāl Sīna
-  code: SIN
+  - Qina
+  - Qinā
+  code: KN
   countryalpha2: EG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 32.554565
-    minlatitude: 29.593273
-    maxlongitude: 34.87746
-    maxlatitude: 31.33141
-    latitude: 30.608473
-    longitude: 33.617577
+    minlongitude: 32.682827
+    minlatitude: 26.132048
+    maxlongitude: 32.760136
+    maxlatitude: 26.210442
+    latitude: 26.155062
+    longitude: 32.71601
+- name: Aswan
+  names:
+  - Aswān
+  - Assuan
+  - Assouan
+  code: ASN
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.87944
+    minlatitude: 24.071476
+    maxlongitude: 32.920773
+    maxlatitude: 24.113194
+    latitude: 24.088938
+    longitude: 32.89983
+- name: Ad Daqahliyah
+  names:
+  - Dakahlia
+  - El Daqahliya
+  - ad-Daqahliyah
+  code: DK
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.208607
+    minlatitude: 30.576979
+    maxlongitude: 32.0836
+    maxlatitude: 31.545258
+    latitude: 31.083202
+    longitude: 31.491318
+- name: Al Minufiyah
+  names:
+  - El Minufiya
+  - Menufiya
+  - al-Minufiyah
+  - al-Minūfīyah
+  code: MNF
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.474556
+    minlatitude: 30.182901
+    maxlongitude: 31.255932
+    maxlatitude: 30.748089
+    latitude: 30.597246
+    longitude: 30.987633
+- name: Būr Sa`īd
+  names:
+  - Bur Said
+  - Būr Saʿīd
+  code: PTS
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.249027
+    minlatitude: 31.198885
+    maxlongitude: 32.321312
+    maxlatitude: 31.278471
+    latitude: 31.26529
+    longitude: 32.301865
+- name: Al Fayyum
+  names:
+  - El Faiyūm
+  - al-Fayyum
+  - al-Fayyūm
+  code: FYM
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.820688
+    minlatitude: 29.291826
+    maxlongitude: 30.863886
+    maxlatitude: 29.329967
+    latitude: 29.308403
+    longitude: 30.84285
+- name: al-Uqsur
+  names:
+  - al-Uqsur
+  - al-Uqşur
+  - Luxor
+  - Louxor
+  code: LX
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.62251
+    minlatitude: 25.654078
+    maxlongitude: 32.696426
+    maxlatitude: 25.735806
+    latitude: 25.687243
+    longitude: 32.639637
+- name: Matrūh
+  names:
+  - Matrah
+  - Matrūh
+  code: MT
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.156233
+    minlatitude: 31.297096
+    maxlongitude: 27.354433
+    maxlatitude: 31.376177
+    latitude: 31.354345
+    longitude: 27.237316
+- name: Al Wadi al Jadid
+  names:
+  - El Wadi el Jadid
+  - El Wadi el Jedid
+  code: WAD
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.00031
+    minlatitude: 21.991552
+    maxlongitude: 32.92243
+    maxlatitude: 27.696629
+    latitude: 24.545565
+    longitude: 27.173532
+- name: Al Bahr al Ahmar
+  names:
+  - El Bahr el Ahmar
+  code: BA
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.741446
+    minlatitude: 21.999638
+    maxlongitude: 36.894516
+    maxlatitude: 29.392338
+    latitude: 25.107683
+    longitude: 33.796463
+- name: Bani Suwayf
+  names:
+  - Bani Suwayf
+  - Banī Suwayf
+  code: BNS
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.061626
+    minlatitude: 29.005884
+    maxlongitude: 31.142342
+    maxlatitude: 29.0959
+    latitude: 29.066128
+    longitude: 31.099384
 - name: Al Ismā`īlīyah
   names:
   - El Ismailia
@@ -179,102 +257,21 @@
     maxlatitude: 31.005959
     latitude: 30.583094
     longitude: 32.26539
-- name: Janub Sina'
+- name: As Suways
   names:
-  - Sina al-Janūbīyah
-  - Sinai al-Janubiyah
-  - South Sinai
-  code: JS
+  - El Suweiz
+  - as-Suways
+  code: SUZ
   countryalpha2: EG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 32.60945
-    minlatitude: 27.724028
-    maxlongitude: 34.90767
-    maxlatitude: 29.949446
-    latitude: 29.310183
-    longitude: 34.153194
-- name: Al Qalyubiyah
-  names:
-  - El Qalubiya
-  - al-Qalyubiyah
-  code: KB
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.054266
-    minlatitude: 30.104055
-    maxlongitude: 31.41573
-    maxlatitude: 30.60766
-    latitude: 30.329237
-    longitude: 31.216846
-- name: Bani Suwayf
-  names:
-  - Bani Suwayf
-  - Banī Suwayf
-  code: BNS
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.061626
-    minlatitude: 29.005884
-    maxlongitude: 31.142342
-    maxlatitude: 29.0959
-    latitude: 29.066128
-    longitude: 31.099384
-- name: Ad Daqahliyah
-  names:
-  - Dakahlia
-  - El Daqahliya
-  - ad-Daqahliyah
-  code: DK
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.208607
-    minlatitude: 30.576979
-    maxlongitude: 32.0836
-    maxlatitude: 31.545258
-    latitude: 31.083202
-    longitude: 31.491318
-- name: Al Gharbiyah
-  names:
-  - El Gharbiya
-  - Gharbiya
-  - al-Garbiyah
-  - al-Ġarbīyah
-  code: GH
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.746536
-    minlatitude: 30.574793
-    maxlongitude: 31.310526
-    maxlatitude: 31.158354
-    latitude: 30.875355
-    longitude: 31.03351
-- name: Al Minya
-  names:
-  - El Minya
-  - Minia
-  - al-Minya
-  - al-Minyā
-  code: MN
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.71707
-    minlatitude: 28.058605
-    maxlongitude: 30.784372
-    maxlatitude: 28.13184
-    latitude: 28.087097
-    longitude: 30.761839
+    minlongitude: 32.437492
+    minlatitude: 29.932945
+    maxlongitude: 32.585495
+    maxlatitude: 30.021181
+    latitude: 29.966835
+    longitude: 32.54981
 - name: Asyut
   names:
   - Asiut
@@ -294,132 +291,23 @@
     maxlatitude: 27.196016
     latitude: 27.178312
     longitude: 31.185926
-- name: Al Wadi al Jadid
+- name: Al Gharbiyah
   names:
-  - El Wadi el Jadid
-  - El Wadi el Jedid
-  code: WAD
+  - El Gharbiya
+  - Gharbiya
+  - al-Garbiyah
+  - al-Ġarbīyah
+  code: GH
   countryalpha2: EG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.00031
-    minlatitude: 21.991552
-    maxlongitude: 32.92243
-    maxlatitude: 27.696629
-    latitude: 24.545565
-    longitude: 27.173532
-- name: Al Buhayrah
-  names:
-  - El Buhayra
-  - al-Buh̨ayrah
-  code: BH
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 29.533878
-    minlatitude: 29.93393
-    maxlongitude: 30.851368
-    maxlatitude: 31.4683
-    latitude: 30.848099
-    longitude: 30.34355
-- name: Kafr ash Shaykh
-  names:
-  - Kafr-ash-Shaykh
-  - Kafr-aš-Šayẖ
-  code: KFS
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.365398
-    minlatitude: 30.994247
-    maxlongitude: 31.31223
-    maxlatitude: 31.601622
-    latitude: 31.308544
-    longitude: 30.803947
-- name: al-Uqsur
-  names:
-  - al-Uqsur
-  - al-Uqşur
-  - Luxor
-  - Louxor
-  code: LX
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.62251
-    minlatitude: 25.654078
-    maxlongitude: 32.696426
-    maxlatitude: 25.735806
-    latitude: 25.687243
-    longitude: 32.639637
-- name: Al Minufiyah
-  names:
-  - El Minufiya
-  - Menufiya
-  - al-Minufiyah
-  - al-Minūfīyah
-  code: MNF
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.474556
-    minlatitude: 30.182901
-    maxlongitude: 31.255932
-    maxlatitude: 30.748089
-    latitude: 30.597246
-    longitude: 30.987633
-- name: Matrūh
-  names:
-  - Matrah
-  - Matrūh
-  code: MT
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.156233
-    minlatitude: 31.297096
-    maxlongitude: 27.354433
-    maxlatitude: 31.376177
-    latitude: 31.354345
-    longitude: 27.237316
-- name: Qina
-  names:
-  - Qina
-  - Qinā
-  code: KN
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.682827
-    minlatitude: 26.132048
-    maxlongitude: 32.760136
-    maxlatitude: 26.210442
-    latitude: 26.155062
-    longitude: 32.71601
-- name: Dumyat
-  names:
-  - Damiat
-  - Dumyat
-  - Dumyāţ
-  - Damiette
-  code: DT
-  countryalpha2: EG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.781609
-    minlatitude: 31.393484
-    maxlongitude: 31.828007
-    maxlatitude: 31.441782
-    latitude: 31.41754
-    longitude: 31.814444
+    minlongitude: 30.746536
+    minlatitude: 30.574793
+    maxlongitude: 31.310526
+    maxlatitude: 31.158354
+    latitude: 30.875355
+    longitude: 31.03351
 - name: Al Jizah
   names:
   - El Giza
@@ -442,3 +330,115 @@
     maxlatitude: 30.071405
     latitude: 30.013056
     longitude: 31.208853
+- name: Ash Sharqiyah
+  names:
+  - ash-Sharqiyah
+  - aš-Šarqīyah
+  code: SHR
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.260767
+    minlatitude: 30.288689
+    maxlongitude: 32.178257
+    maxlatitude: 31.168795
+    latitude: 30.732662
+    longitude: 31.719545
+- name: Dumyat
+  names:
+  - Damiat
+  - Dumyat
+  - Dumyāţ
+  - Damiette
+  code: DT
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.781609
+    minlatitude: 31.393484
+    maxlongitude: 31.828007
+    maxlatitude: 31.441782
+    latitude: 31.41754
+    longitude: 31.814444
+- name: Kafr ash Shaykh
+  names:
+  - Kafr-ash-Shaykh
+  - Kafr-aš-Šayẖ
+  code: KFS
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.365398
+    minlatitude: 30.994247
+    maxlongitude: 31.31223
+    maxlatitude: 31.601622
+    latitude: 31.308544
+    longitude: 30.803947
+- name: Suhaj
+  names:
+  - Sawhaj
+  - Suhag
+  - Suhaj
+  - Sūhaj
+  - Sawhāj
+  code: SHG
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.341541
+    minlatitude: 26.15182
+    maxlongitude: 32.170708
+    maxlatitude: 26.934395
+    latitude: 26.501348
+    longitude: 31.765137
+- name: Al Buhayrah
+  names:
+  - El Buhayra
+  - al-Buh̨ayrah
+  code: BH
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.533878
+    minlatitude: 29.93393
+    maxlongitude: 30.851368
+    maxlatitude: 31.4683
+    latitude: 30.848099
+    longitude: 30.34355
+- name: Al Qalyubiyah
+  names:
+  - El Qalubiya
+  - al-Qalyubiyah
+  code: KB
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.054266
+    minlatitude: 30.104055
+    maxlongitude: 31.41573
+    maxlatitude: 30.60766
+    latitude: 30.329237
+    longitude: 31.216846
+- name: Al Minya
+  names:
+  - El Minya
+  - Minia
+  - al-Minya
+  - al-Minyā
+  code: MN
+  countryalpha2: EG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.71707
+    minlatitude: 28.058605
+    maxlongitude: 30.784372
+    maxlatitude: 28.13184
+    latitude: 28.087097
+    longitude: 30.761839

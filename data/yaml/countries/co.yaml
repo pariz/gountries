@@ -13,39 +13,30 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Colombia
     official: Republic of Colombia
-  deu:
+  DEU:
     common: Kolumbien
     official: Republik Kolumbien
-  fin:
+  FIN:
     common: Kolumbia
     official: Kolumbian tasavalta
-  fra:
+  FRA:
     common: Colombie
     official: République de Colombie
-  hrv:
+  HRV:
     common: Kolumbija
     official: Republika Kolumbija
-  ita:
+  ITA:
     common: Colombia
     official: Repubblica di Colombia
-  jpn:
+  JPN:
     common: コロンビア
     official: コロンビア共和国
-  nld:
-    common: Colombia
-    official: Republiek Colombia
-  por:
+  POR:
     common: Colômbia
     official: República da Colômbia
-  rus:
-    common: Колумбия
-    official: Республика Колумбия
-  spa:
-    common: Colombia
-    official: República de Colombia
 currencies:
 - COP
 borders:

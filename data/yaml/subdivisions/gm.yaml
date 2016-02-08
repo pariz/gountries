@@ -1,17 +1,3 @@
-- name: Western
-  names:
-  - Western
-  code: W
-  countryalpha2: GM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -16.813631
-    minlatitude: 13.066817
-    maxlongitude: -15.810324
-    maxlatitude: 13.452582
-    latitude: 13.22292
-    longitude: -16.58198
 - name: Banjul
   names:
   - Banjul
@@ -82,3 +68,17 @@
     maxlatitude: 13.5734005
     latitude: 13.425736
     longitude: -14.007235
+- name: Western
+  names:
+  - Western
+  code: W
+  countryalpha2: GM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.813631
+    minlatitude: 13.066817
+    maxlongitude: -15.810324
+    maxlatitude: 13.452582
+    latitude: 13.22292
+    longitude: -16.58198

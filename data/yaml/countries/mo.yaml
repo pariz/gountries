@@ -17,36 +17,26 @@ languages:
   por: Portuguese
   zho: Chinese
 translations:
-  deu:
+  DEU:
     common: Macao
     official: Sonderverwaltungsregion Macau der Volksrepublik China
-  fin:
+  FIN:
     common: Macao
     official: Macaon Kiinan kansantasavallan erityishallintoalue
-  fra:
-    common: Macao
-    official: Région administrative spéciale de Macao de la République populaire de
-      Chine
-  hrv:
+  HRV:
     common: Makao
     official: Makao Posebnog upravnog područjaNarodne Republike Kine
-  ita:
-    common: Macao
-    official: Macao Regione amministrativa speciale della Repubblica Popolare Cinese
-  jpn:
-    common: マカオ
-    official: 中華人民共和国マカオ特別行政区
-  nld:
+  NLD:
     common: Macao
     official: Speciale Administratieve Regio Macau van de Volksrepubliek China
-  por:
+  POR:
     common: Macau
     official: Macau Região Administrativa Especial da República Popular da China
-  rus:
+  RUS:
     common: Макао
     official: Специальный административный район Макао Китайской Народной Республики
       Китай
-  spa:
+  SPA:
     common: Macao
     official: Macao, Región Administrativa Especial de la República Popular China
 currencies:

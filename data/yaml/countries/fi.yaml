@@ -17,34 +17,28 @@ languages:
   fin: Finnish
   swe: Swedish
 translations:
-  deu:
-    common: Finnland
-    official: Republik Finnland
-  fin:
-    common: Suomi
-    official: Suomen tasavalta
-  fra:
+  FRA:
     common: Finlande
     official: République de Finlande
-  hrv:
+  HRV:
     common: Finska
     official: Republika Finska
-  ita:
+  ITA:
     common: Finlandia
     official: Repubblica di Finlandia
-  jpn:
+  JPN:
     common: フィンランド
     official: フィンランド共和国
-  nld:
+  NLD:
     common: Finland
     official: Republiek Finland
-  por:
+  POR:
     common: Finlândia
     official: República da Finlândia
-  rus:
+  RUS:
     common: Финляндия
     official: Финляндская Республика
-  spa:
+  SPA:
     common: Finlandia
     official: República de Finlandia
 currencies:

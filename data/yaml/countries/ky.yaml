@@ -13,39 +13,24 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
+  CYM:
     common: Ynysoedd_Cayman
     official: Cayman Islands
-  deu:
+  DEU:
     common: Kaimaninseln
     official: Cayman-Inseln
-  fin:
+  FIN:
     common: Caymansaaret
     official: Caymansaaret
-  fra:
-    common: Îles Caïmans
-    official: Îles Caïmans
-  hrv:
-    common: Kajmanski otoci
-    official: Kajmanski otoci
-  ita:
+  ITA:
     common: Isole Cayman
     official: Isole Cayman
-  jpn:
-    common: ケイマン諸島
-    official: ケイマン諸島
-  nld:
+  NLD:
     common: Caymaneilanden
     official: Caymaneilanden
-  por:
+  POR:
     common: Ilhas Caimão
     official: Ilhas Cayman
-  rus:
-    common: Каймановы острова
-    official: Каймановы острова
-  spa:
-    common: Islas Caimán
-    official: Islas Caimán
 currencies:
 - KYD
 borders: []

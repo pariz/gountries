@@ -13,34 +13,22 @@ tlds:
 languages:
   ell: Greek
 translations:
-  deu:
+  DEU:
     common: Griechenland
     official: Hellenische Republik
-  fin:
+  FIN:
     common: Kreikka
     official: Helleenien tasavalta
-  fra:
+  FRA:
     common: Grèce
     official: République hellénique
-  hrv:
-    common: Grčka
-    official: Helenska Republika
-  ita:
+  ITA:
     common: Grecia
     official: Repubblica ellenica
-  jpn:
-    common: ギリシャ
-    official: ギリシャ共和国
-  nld:
-    common: Griekenland
-    official: Helleense Republiek
-  por:
+  POR:
     common: Grécia
     official: República Helénica
-  rus:
-    common: Греция
-    official: Греческая Республика
-  spa:
+  SPA:
     common: Grecia
     official: República Helénica
 currencies:

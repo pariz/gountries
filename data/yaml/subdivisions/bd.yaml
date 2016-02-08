@@ -1,50 +1,46 @@
-- name: Barguna zila
+- name: Feni zila
   names:
-  - Barguna zila
-  code: "02"
+  - Feni
+  code: "16"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 89.90181
-    minlatitude: 21.860224
-    maxlongitude: 90.375336
-    maxlatitude: 22.483335
-    latitude: 22.095291
-    longitude: 90.11207
-- name: Chittagong zila
+    minlongitude: 91.24935
+    minlatitude: 22.772066
+    maxlongitude: 91.58349
+    maxlatitude: 23.279669
+    latitude: 22.947357
+    longitude: 91.40482
+- name: Munshiganj zila
   names:
-  - Chattagam
-  - Chittagong
-  code: "10"
+  - Munshiganj zila
+  code: "35"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 91.83676
-    minlatitude: 22.337858
-    maxlongitude: 91.83771
-    maxlatitude: 22.342127
-    latitude: 22.341782
-    longitude: 91.83681
-- name: Jhenaidah zila
+    minlongitude: 90.17982
+    minlatitude: 23.3774
+    maxlongitude: 90.713
+    maxlatitude: 23.674398
+    latitude: 23.524868
+    longitude: 90.33719
+- name: Cox's Bazar zila
   names:
-  - Jhanaydah
-  - Jhanidah
-  - Jhanīdāh
-  - Jhenaida
-  - Jhenida
-  code: "23"
+  - Coxʿs Bazar
+  - Koks Bazar
+  code: "11"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 88.69675
-    minlatitude: 23.215712
-    maxlongitude: 89.37863
-    maxlatitude: 23.769674
-    latitude: 23.475416
-    longitude: 89.1706
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 21.440401
+    longitude: 91.97434
 - name: Magura zila
   names:
   - Magura
@@ -59,35 +55,49 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Chandpur zila
+- name: Naogaon zila
   names:
-  - Chandipur
-  - Chandpur
-  code: "09"
+  - Naogaon
+  - Naugaon
+  code: "48"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 23.224676
-    longitude: 90.65624
-- name: Sherpur zila
+    minlongitude: 88.940796
+    minlatitude: 24.812315
+    maxlongitude: 88.94238
+    maxlatitude: 24.81343
+    latitude: 24.812778
+    longitude: 88.941536
+- name: Panchagarh zila
   names:
-  - Sherpur
-  code: "57"
+  - Panchagarh zila
+  code: "52"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 89.88078
-    minlatitude: 24.88371
-    maxlongitude: 90.30968
-    maxlatitude: 25.302673
-    latitude: 25.046556
-    longitude: 90.11207
+    minlongitude: 88.544136
+    minlatitude: 26.317228
+    maxlongitude: 88.56852
+    maxlatitude: 26.3445
+    latitude: 26.335377
+    longitude: 88.5517
+- name: Shariatpur zila
+  names:
+  - Shariatpur
+  code: "62"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.20196
+    minlatitude: 23.010386
+    maxlongitude: 90.61386
+    maxlatitude: 23.463562
+    latitude: 23.28664
+    longitude: 90.37483
 - name: Bogra zila
   names:
   - Bogora
@@ -104,507 +114,64 @@
     maxlatitude: 24.847761
     latitude: 24.84739
     longitude: 89.377144
-- name: Cox's Bazar zila
+- name: Manikganj zila
   names:
-  - Coxʿs Bazar
-  - Koks Bazar
-  code: "11"
+  - Manikganj
+  code: "33"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 21.440401
-    longitude: 91.97434
-- name: Lakshmipur zila
+    minlongitude: 89.69247
+    minlatitude: 23.630371
+    maxlongitude: 90.25638
+    maxlatitude: 24.030159
+    latitude: 23.858456
+    longitude: 89.92532
+- name: Satkhira zila
   names:
-  - Lakshmipur
-  - Laksmipur
-  code: "31"
+  - Satkhira
+  code: "58"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 22.933933
-    longitude: 90.83217
-- name: Nilphamari zila
+    minlongitude: 88.90324
+    minlatitude: 21.637962
+    maxlongitude: 89.35962
+    maxlatitude: 22.949146
+    latitude: 21.950169
+    longitude: 89.1706
+- name: Comilla zila
   names:
-  - Nilphamari
-  code: "46"
+  - Comilla
+  - Komilla
+  code: "08"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 88.737946
-    minlatitude: 25.739216
-    maxlongitude: 89.196625
-    maxlatitude: 26.313036
-    latitude: 25.989962
-    longitude: 88.90306
-- name: Bhola zila
+    minlongitude: 91.1801
+    minlatitude: 23.461554
+    maxlongitude: 91.18206
+    maxlatitude: 23.463625
+    latitude: 23.462894
+    longitude: 91.18174
+- name: Chittagong zila
   names:
-  - Bhola
-  code: "07"
+  - Chattagam
+  - Chittagong
+  code: "10"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 90.64671
-    minlatitude: 22.684742
-    maxlongitude: 90.6476
-    maxlatitude: 22.685522
-    latitude: 22.685131
-    longitude: 90.647156
-- name: Kishoreganj zila
-  names:
-  - Kishoreganj
-  code: "26"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.576614
-    minlatitude: 24.038391
-    maxlongitude: 91.25553
-    maxlatitude: 24.634535
-    latitude: 24.426046
-    longitude: 90.98206
-- name: Rajshahi zila
-  names:
-  - Rajshahi
-  - Rampur Boalia
-  code: "54"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.981514
-    minlatitude: 24.4117
-    maxlongitude: 88.98306
-    maxlatitude: 24.41457
-    latitude: 24.41306
-    longitude: 88.98226
-- name: Dinajpur zila
-  names:
-  - Dinajpur
-  code: "14"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 25.622093
-    longitude: 88.63703
-- name: Moulvibazar zila
-  names:
-  - Maulvi Bazar
-  - Moulvi Bazar
-  code: "38"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 91.59714
-    minlatitude: 24.137081
-    maxlongitude: 92.29769
-    maxlatitude: 24.834648
-    latitude: 24.419107
-    longitude: 91.75388
-- name: Meherpur zila
-  names:
-  - Meherpur zila
-  code: "39"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.55959
-    minlatitude: 23.599503
-    maxlongitude: 88.889565
-    maxlatitude: 23.978685
-    latitude: 23.805199
-    longitude: 88.672356
-- name: Rangamati zila
-  names:
-  - Rangamati
-  code: "56"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 25.158978
-    longitude: 91.6851
-- name: Sunamganj zila
-  names:
-  - Shunamganj
-  - Sunamganj
-  code: "61"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.935425
-    minlatitude: 24.566172
-    maxlongitude: 91.73983
-    maxlatitude: 25.204165
-    latitude: 24.993591
-    longitude: 91.2891
-- name: Bandarban zila
-  names:
-  - Bandarban
-  code: "01"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 92.066284
-    minlatitude: 21.197256
-    maxlongitude: 92.67362
-    maxlatitude: 22.373888
-    latitude: 21.744427
-    longitude: 92.38136
-- name: Gaibandha zila
-  names:
-  - Gaibanda
-  - Gaibandah
-  - Gaibandha
-  - Gaybanda
-  - Gaybandah
-  code: "19"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.18461
-    minlatitude: 25.03514
-    maxlongitude: 89.75847
-    maxlatitude: 25.644003
-    latitude: 25.187986
-    longitude: 89.47422
-- name: Natore zila
-  names:
-  - Nator
-  - Natore
-  code: "44"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.845795
-    minlatitude: 24.105236
-    maxlongitude: 89.34056
-    maxlatitude: 24.655441
-    latitude: 24.426046
-    longitude: 89.01794
-- name: Sylhet zila
-  names:
-  - Silhat
-  - Sylhet
-  code: "60"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 91.863396
-    minlatitude: 24.890045
-    maxlongitude: 91.86404
-    maxlatitude: 24.890509
-    latitude: 24.890278
-    longitude: 91.863716
-- name: Feni zila
-  names:
-  - Feni
-  code: "16"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 91.24935
-    minlatitude: 22.772066
-    maxlongitude: 91.58349
-    maxlatitude: 23.279669
-    latitude: 22.947357
-    longitude: 91.40482
-- name: Netrakona zila
-  names:
-  - Netrakona
-  - Netrokana
-  code: "41"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 24.883497
-    longitude: 90.73125
-- name: Naogaon zila
-  names:
-  - Naogaon
-  - Naugaon
-  code: "48"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.940796
-    minlatitude: 24.812315
-    maxlongitude: 88.94238
-    maxlatitude: 24.81343
-    latitude: 24.812778
-    longitude: 88.941536
-- name: Kushtia zila
-  names:
-  - Kushtia
-  - Kushtiya
-  code: "30"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.69417
-    minlatitude: 23.689962
-    maxlongitude: 89.370514
-    maxlatitude: 24.209707
-    latitude: 23.903183
-    longitude: 89.05615
-- name: Narayanganj zila
-  names:
-  - Narayanganj
-  code: "40"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.431946
-    minlatitude: 23.542585
-    maxlongitude: 90.75789
-    maxlatitude: 23.95849
-    latitude: 23.71466
-    longitude: 90.56361
-- name: Narsingdi zila
-  names:
-  - Narsinghdi
-  code: "42"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.56035
-    minlatitude: 23.784166
-    maxlongitude: 90.98575
-    maxlatitude: 24.25033
-    latitude: 23.999195
-    longitude: 90.79132
-- name: Gopalganj zila
-  names:
-  - Gopalganj
-  code: "17"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Habiganj zila
-  names:
-  - Habiganj
-  - Hobiganj
-  - Hobigonj
-  code: "20"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 91.41627
-    minlatitude: 24.372726
-    maxlongitude: 91.41688
-    maxlatitude: 24.373468
-    latitude: 24.372963
-    longitude: 91.41652
-- name: Jhalakati zila
-  names:
-  - Jhalakati
-  - Jhalokati
-  code: "25"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.02086
-    minlatitude: 22.344677
-    maxlongitude: 90.3907
-    maxlatitude: 22.78445
-    latitude: 22.57208
-    longitude: 90.186966
-- name: Sirajganj zila
-  names:
-  - Serajgonj
-  - Sirajganj
-  code: "59"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Shariatpur zila
-  names:
-  - Shariatpur
-  code: "62"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.20196
-    minlatitude: 23.010386
-    maxlongitude: 90.61386
-    maxlatitude: 23.463562
-    latitude: 23.28664
-    longitude: 90.37483
-- name: Brahmanbaria zila
-  names:
-  - Brahman Bariya
-  - Brahmanbaria
-  code: "04"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.7208
-    minlatitude: 23.647354
-    maxlongitude: 91.32977
-    maxlatitude: 24.270048
-    latitude: 24.044615
-    longitude: 91.1353
-- name: Noakhali zila
-  names:
-  - Noakhali
-  code: "47"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.84228
-    minlatitude: 22.027887
-    maxlongitude: 91.4193
-    maxlatitude: 23.13294
-    latitude: 22.520529
-    longitude: 91.1353
-- name: Pirojpur zila
-  names:
-  - Perojpur
-  - Pirojpur
-  code: "50"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.126
-    minlatitude: 25.65372
-    maxlongitude: 88.14895
-    maxlatitude: 25.6812
-    latitude: 25.665792
-    longitude: 88.13646
-- name: Panchagarh zila
-  names:
-  - Panchagarh zila
-  code: "52"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.544136
-    minlatitude: 26.317228
-    maxlongitude: 88.56852
-    maxlatitude: 26.3445
-    latitude: 26.335377
-    longitude: 88.5517
-- name: Lalmonirhat zila
-  names:
-  - Lalmanir Hat
-  - Lalmonirhat
-  code: "32"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.911064
-    minlatitude: 25.790308
-    maxlongitude: 89.563034
-    maxlatitude: 26.462967
-    latitude: 25.99234
-    longitude: 89.28472
-- name: Rajbari zila
-  names:
-  - Rajbari
-  code: "53"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.29885
-    minlatitude: 23.567017
-    maxlongitude: 89.86958
-    maxlatitude: 23.908125
-    latitude: 23.715134
-    longitude: 89.58748
-- name: Thakurgaon zila
-  names:
-  - Thakurgaon
-  code: "64"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.0882
-    minlatitude: 25.665821
-    maxlongitude: 88.642075
-    maxlatitude: 26.214745
-    latitude: 25.984884
-    longitude: 88.362785
-- name: Bagerhat zila
-  names:
-  - Bagarhat
-  - Bagerhat
-  - Bagherhat
-  - Basabari
-  - Bāsābāri
-  code: "05"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.529625
-    minlatitude: 21.714254
-    maxlongitude: 89.96441
-    maxlatitude: 22.98218
-    latitude: 22.333622
-    longitude: 89.775536
+    minlongitude: 91.83676
+    minlatitude: 22.337858
+    maxlongitude: 91.83771
+    maxlatitude: 22.342127
+    latitude: 22.341782
+    longitude: 91.83681
 - name: Jaipurhat zila
   names:
   - Jaipur Hat
@@ -621,91 +188,35 @@
     maxlatitude: 25.279936
     latitude: 25.138494
     longitude: 89.05615
-- name: Khulna zila
+- name: Moulvibazar zila
   names:
-  - Khulna
-  code: "27"
+  - Maulvi Bazar
+  - Moulvi Bazar
+  code: "38"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 22.814636
-    longitude: 89.57056
-- name: Khagrachari zila
+    minlongitude: 91.59714
+    minlatitude: 24.137081
+    maxlongitude: 92.29769
+    maxlatitude: 24.834648
+    latitude: 24.419107
+    longitude: 91.75388
+- name: Faridpur zila
   names:
-  - Khagrachari zila
-  code: "29"
+  - Faridpur
+  code: "15"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 91.71657
-    minlatitude: 22.693102
-    maxlongitude: 92.173744
-    maxlatitude: 23.73118
-    latitude: 23.132175
-    longitude: 91.94902
-- name: Chuadanga zila
-  names:
-  - Chuadanga
-  code: "12"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.62422
-    minlatitude: 23.371332
-    maxlongitude: 89.019646
-    maxlatitude: 23.839449
-    latitude: 23.61605
-    longitude: 88.8263
-- name: Madaripur zila
-  names:
-  - Madaripur
-  code: "36"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.20482
-    minlatitude: 23.166502
-    maxlongitude: 90.20508
-    maxlatitude: 23.166874
-    latitude: 23.166683
-    longitude: 90.20494
-- name: Narail zila
-  names:
-  - Narail
-  - Naral
-  code: "43"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.37713
-    minlatitude: 22.953888
-    maxlongitude: 89.79255
-    maxlatitude: 23.314592
-    latitude: 23.14362
-    longitude: 89.58748
-- name: Rangpur zila
-  names:
-  - Rangpur
-  code: "55"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.24313
-    minlatitude: 25.758541
-    maxlongitude: 89.243614
-    maxlatitude: 25.758965
-    latitude: 25.7588
-    longitude: 89.24338
+    minlongitude: 89.84296
+    minlatitude: 23.608269
+    maxlongitude: 89.843575
+    maxlatitude: 23.609043
+    latitude: 23.608576
+    longitude: 89.84326
 - name: Gazipur zila
   names:
   - Gajipur
@@ -735,6 +246,370 @@
     maxlatitude: 23.373459
     latitude: 23.09434
     longitude: 89.1706
+- name: Kushtia zila
+  names:
+  - Kushtia
+  - Kushtiya
+  code: "30"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.69417
+    minlatitude: 23.689962
+    maxlongitude: 89.370514
+    maxlatitude: 24.209707
+    latitude: 23.903183
+    longitude: 89.05615
+- name: Meherpur zila
+  names:
+  - Meherpur zila
+  code: "39"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.55959
+    minlatitude: 23.599503
+    maxlongitude: 88.889565
+    maxlatitude: 23.978685
+    latitude: 23.805199
+    longitude: 88.672356
+- name: Barguna zila
+  names:
+  - Barguna zila
+  code: "02"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.90181
+    minlatitude: 21.860224
+    maxlongitude: 90.375336
+    maxlatitude: 22.483335
+    latitude: 22.095291
+    longitude: 90.11207
+- name: Barisal zila
+  names:
+  - Barisal
+  code: "06"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.01811
+    minlatitude: 22.454266
+    maxlongitude: 90.651794
+    maxlatitude: 23.07156
+    latitude: 22.857862
+    longitude: 90.33719
+- name: Dinajpur zila
+  names:
+  - Dinajpur
+  code: "14"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 25.622093
+    longitude: 88.63703
+- name: Nilphamari zila
+  names:
+  - Nilphamari
+  code: "46"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.737946
+    minlatitude: 25.739216
+    maxlongitude: 89.196625
+    maxlatitude: 26.313036
+    latitude: 25.989962
+    longitude: 88.90306
+- name: Rangamati zila
+  names:
+  - Rangamati
+  code: "56"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 25.158978
+    longitude: 91.6851
+- name: Bandarban zila
+  names:
+  - Bandarban
+  code: "01"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.066284
+    minlatitude: 21.197256
+    maxlongitude: 92.67362
+    maxlatitude: 22.373888
+    latitude: 21.744427
+    longitude: 92.38136
+- name: Gopalganj zila
+  names:
+  - Gopalganj
+  code: "17"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nawabganj zila
+  names:
+  - Nawabganj
+  - Nawabgonj
+  code: "45"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 29.9688
+    longitude: 77.5495
+- name: Pirojpur zila
+  names:
+  - Perojpur
+  - Pirojpur
+  code: "50"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.126
+    minlatitude: 25.65372
+    maxlongitude: 88.14895
+    maxlatitude: 25.6812
+    latitude: 25.665792
+    longitude: 88.13646
+- name: Rajbari zila
+  names:
+  - Rajbari
+  code: "53"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.29885
+    minlatitude: 23.567017
+    maxlongitude: 89.86958
+    maxlatitude: 23.908125
+    latitude: 23.715134
+    longitude: 89.58748
+- name: Dhaka zila
+  names:
+  - Dacca
+  - Dakka
+  - Dhaka
+  code: "13"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.31222
+    minlatitude: 22.844599
+    maxlongitude: 91.27691
+    maxlatitude: 25.409475
+    latitude: 24.523968
+    longitude: 90.299576
+- name: Kishoreganj zila
+  names:
+  - Kishoreganj
+  code: "26"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.576614
+    minlatitude: 24.038391
+    maxlongitude: 91.25553
+    maxlatitude: 24.634535
+    latitude: 24.426046
+    longitude: 90.98206
+- name: Lakshmipur zila
+  names:
+  - Lakshmipur
+  - Laksmipur
+  code: "31"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 22.933933
+    longitude: 90.83217
+- name: Narayanganj zila
+  names:
+  - Narayanganj
+  code: "40"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.431946
+    minlatitude: 23.542585
+    maxlongitude: 90.75789
+    maxlatitude: 23.95849
+    latitude: 23.71466
+    longitude: 90.56361
+- name: Narail zila
+  names:
+  - Narail
+  - Naral
+  code: "43"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.37713
+    minlatitude: 22.953888
+    maxlongitude: 89.79255
+    maxlatitude: 23.314592
+    latitude: 23.14362
+    longitude: 89.58748
+- name: Natore zila
+  names:
+  - Nator
+  - Natore
+  code: "44"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.845795
+    minlatitude: 24.105236
+    maxlongitude: 89.34056
+    maxlatitude: 24.655441
+    latitude: 24.426046
+    longitude: 89.01794
+- name: Sirajganj zila
+  names:
+  - Serajgonj
+  - Sirajganj
+  code: "59"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Jhalakati zila
+  names:
+  - Jhalakati
+  - Jhalokati
+  code: "25"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.02086
+    minlatitude: 22.344677
+    maxlongitude: 90.3907
+    maxlatitude: 22.78445
+    latitude: 22.57208
+    longitude: 90.186966
+- name: Mymensingh zila
+  names:
+  - Mymensingh
+  - Nasirabad
+  - Nasirābād
+  code: "34"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.08703
+    minlatitude: 24.247807
+    maxlongitude: 90.81951
+    maxlatitude: 25.19733
+    latitude: 24.618826
+    longitude: 90.37483
+- name: Bhola zila
+  names:
+  - Bhola
+  code: "07"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.64671
+    minlatitude: 22.684742
+    maxlongitude: 90.6476
+    maxlatitude: 22.685522
+    latitude: 22.685131
+    longitude: 90.647156
+- name: Chuadanga zila
+  names:
+  - Chuadanga
+  code: "12"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.62422
+    minlatitude: 23.371332
+    maxlongitude: 89.019646
+    maxlatitude: 23.839449
+    latitude: 23.61605
+    longitude: 88.8263
+- name: Habiganj zila
+  names:
+  - Habiganj
+  - Hobiganj
+  - Hobigonj
+  code: "20"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.41627
+    minlatitude: 24.372726
+    maxlongitude: 91.41688
+    maxlatitude: 24.373468
+    latitude: 24.372963
+    longitude: 91.41652
+- name: Khulna zila
+  names:
+  - Khulna
+  code: "27"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 22.814636
+    longitude: 89.57056
 - name: Pabna zila
   names:
   - Pabna
@@ -763,83 +638,11 @@
     maxlatitude: 22.610525
     latitude: 21.951824
     longitude: 90.37483
-- name: Barisal zila
+- name: Chandpur zila
   names:
-  - Barisal
-  code: "06"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.01811
-    minlatitude: 22.454266
-    maxlongitude: 90.651794
-    maxlatitude: 23.07156
-    latitude: 22.857862
-    longitude: 90.33719
-- name: Munshiganj zila
-  names:
-  - Munshiganj zila
-  code: "35"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.17982
-    minlatitude: 23.3774
-    maxlongitude: 90.713
-    maxlatitude: 23.674398
-    latitude: 23.524868
-    longitude: 90.33719
-- name: Satkhira zila
-  names:
-  - Satkhira
-  code: "58"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.90324
-    minlatitude: 21.637962
-    maxlongitude: 89.35962
-    maxlatitude: 22.949146
-    latitude: 21.950169
-    longitude: 89.1706
-- name: Faridpur zila
-  names:
-  - Faridpur
-  code: "15"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.84296
-    minlatitude: 23.608269
-    maxlongitude: 89.843575
-    maxlatitude: 23.609043
-    latitude: 23.608576
-    longitude: 89.84326
-- name: Mymensingh zila
-  names:
-  - Mymensingh
-  - Nasirabad
-  - Nasirābād
-  code: "34"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 90.08703
-    minlatitude: 24.247807
-    maxlongitude: 90.81951
-    maxlatitude: 25.19733
-    latitude: 24.618826
-    longitude: 90.37483
-- name: Nawabganj zila
-  names:
-  - Nawabganj
-  - Nawabgonj
-  code: "45"
+  - Chandipur
+  - Chandpur
+  code: "09"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
@@ -848,8 +651,36 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 29.9688
-    longitude: 77.5495
+    latitude: 23.224676
+    longitude: 90.65624
+- name: Narsingdi zila
+  names:
+  - Narsinghdi
+  code: "42"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.56035
+    minlatitude: 23.784166
+    maxlongitude: 90.98575
+    maxlatitude: 24.25033
+    latitude: 23.999195
+    longitude: 90.79132
+- name: Noakhali zila
+  names:
+  - Noakhali
+  code: "47"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.84228
+    minlatitude: 22.027887
+    maxlongitude: 91.4193
+    maxlatitude: 23.13294
+    latitude: 22.520529
+    longitude: 91.1353
 - name: Tangail zila
   names:
   - Tangail
@@ -865,51 +696,24 @@
     maxlatitude: 24.264225
     latitude: 24.257462
     longitude: 89.91729
-- name: Manikganj zila
+- name: Bagerhat zila
   names:
-  - Manikganj
-  code: "33"
+  - Bagarhat
+  - Bagerhat
+  - Bagherhat
+  - Basabari
+  - Bāsābāri
+  code: "05"
   countryalpha2: BD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 89.69247
-    minlatitude: 23.630371
-    maxlongitude: 90.25638
-    maxlatitude: 24.030159
-    latitude: 23.858456
-    longitude: 89.92532
-- name: Comilla zila
-  names:
-  - Comilla
-  - Komilla
-  code: "08"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 91.1801
-    minlatitude: 23.461554
-    maxlongitude: 91.18206
-    maxlatitude: 23.463625
-    latitude: 23.462894
-    longitude: 91.18174
-- name: Dhaka zila
-  names:
-  - Dacca
-  - Dakka
-  - Dhaka
-  code: "13"
-  countryalpha2: BD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 89.31222
-    minlatitude: 22.844599
-    maxlongitude: 91.27691
-    maxlatitude: 25.409475
-    latitude: 24.523968
-    longitude: 90.299576
+    minlongitude: 89.529625
+    minlatitude: 21.714254
+    maxlongitude: 89.96441
+    maxlatitude: 22.98218
+    latitude: 22.333622
+    longitude: 89.775536
 - name: Jamalpur zila
   names:
   - Jamalpur
@@ -924,6 +728,38 @@
     maxlatitude: 24.93864
     latitude: 24.937767
     longitude: 89.93423
+- name: Rangpur zila
+  names:
+  - Rangpur
+  code: "55"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.24313
+    minlatitude: 25.758541
+    maxlongitude: 89.243614
+    maxlatitude: 25.758965
+    latitude: 25.7588
+    longitude: 89.24338
+- name: Gaibandha zila
+  names:
+  - Gaibanda
+  - Gaibandah
+  - Gaibandha
+  - Gaybanda
+  - Gaybandah
+  code: "19"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.18461
+    minlatitude: 25.03514
+    maxlongitude: 89.75847
+    maxlatitude: 25.644003
+    latitude: 25.187986
+    longitude: 89.47422
 - name: Kurigram zila
   names:
   - Kurigram
@@ -938,3 +774,167 @@
     maxlatitude: 26.235535
     latitude: 25.75704
     longitude: 89.62517
+- name: Madaripur zila
+  names:
+  - Madaripur
+  code: "36"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.20482
+    minlatitude: 23.166502
+    maxlongitude: 90.20508
+    maxlatitude: 23.166874
+    latitude: 23.166683
+    longitude: 90.20494
+- name: Rajshahi zila
+  names:
+  - Rajshahi
+  - Rampur Boalia
+  code: "54"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.981514
+    minlatitude: 24.4117
+    maxlongitude: 88.98306
+    maxlatitude: 24.41457
+    latitude: 24.41306
+    longitude: 88.98226
+- name: Sylhet zila
+  names:
+  - Silhat
+  - Sylhet
+  code: "60"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.863396
+    minlatitude: 24.890045
+    maxlongitude: 91.86404
+    maxlatitude: 24.890509
+    latitude: 24.890278
+    longitude: 91.863716
+- name: Lalmonirhat zila
+  names:
+  - Lalmanir Hat
+  - Lalmonirhat
+  code: "32"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.911064
+    minlatitude: 25.790308
+    maxlongitude: 89.563034
+    maxlatitude: 26.462967
+    latitude: 25.99234
+    longitude: 89.28472
+- name: Sherpur zila
+  names:
+  - Sherpur
+  code: "57"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 89.88078
+    minlatitude: 24.88371
+    maxlongitude: 90.30968
+    maxlatitude: 25.302673
+    latitude: 25.046556
+    longitude: 90.11207
+- name: Sunamganj zila
+  names:
+  - Shunamganj
+  - Sunamganj
+  code: "61"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.935425
+    minlatitude: 24.566172
+    maxlongitude: 91.73983
+    maxlatitude: 25.204165
+    latitude: 24.993591
+    longitude: 91.2891
+- name: Brahmanbaria zila
+  names:
+  - Brahman Bariya
+  - Brahmanbaria
+  code: "04"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 90.7208
+    minlatitude: 23.647354
+    maxlongitude: 91.32977
+    maxlatitude: 24.270048
+    latitude: 24.044615
+    longitude: 91.1353
+- name: Jhenaidah zila
+  names:
+  - Jhanaydah
+  - Jhanidah
+  - Jhanīdāh
+  - Jhenaida
+  - Jhenida
+  code: "23"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.69675
+    minlatitude: 23.215712
+    maxlongitude: 89.37863
+    maxlatitude: 23.769674
+    latitude: 23.475416
+    longitude: 89.1706
+- name: Netrakona zila
+  names:
+  - Netrakona
+  - Netrokana
+  code: "41"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 24.883497
+    longitude: 90.73125
+- name: Khagrachari zila
+  names:
+  - Khagrachari zila
+  code: "29"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 91.71657
+    minlatitude: 22.693102
+    maxlongitude: 92.173744
+    maxlatitude: 23.73118
+    latitude: 23.132175
+    longitude: 91.94902
+- name: Thakurgaon zila
+  names:
+  - Thakurgaon
+  code: "64"
+  countryalpha2: BD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.0882
+    minlatitude: 25.665821
+    maxlongitude: 88.642075
+    maxlatitude: 26.214745
+    latitude: 25.984884
+    longitude: 88.362785

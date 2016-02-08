@@ -17,36 +17,24 @@ languages:
   ita: Italian
   lat: Latin
 translations:
-  deu:
+  DEU:
     common: Vatikanstadt
     official: Staat Vatikanstadt
-  fin:
+  FIN:
     common: Vatikaani
     official: Vatikaanin kaupunkivaltio
-  fra:
+  FRA:
     common: Cité du Vatican
     official: Cité du Vatican
-  hrv:
+  HRV:
     common: Vatikan
     official: Vatikan
-  ita:
-    common: Città del Vaticano
-    official: Città del Vaticano
-  jpn:
-    common: バチカン市国
-    official: バチカン市国の状態
-  nld:
-    common: Vaticaanstad
-    official: Vaticaanstad
-  por:
+  POR:
     common: Cidade do Vaticano
     official: Cidade do Vaticano
-  rus:
+  RUS:
     common: Ватикан
     official: Город-государство Ватикан
-  spa:
-    common: Ciudad del Vaticano
-    official: Ciudad del Vaticano
 currencies:
 - EUR
 borders:

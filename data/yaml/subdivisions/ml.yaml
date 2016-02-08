@@ -1,3 +1,17 @@
+- name: Mopti
+  names:
+  - Mopti
+  code: "5"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.204553
+    minlatitude: 14.452631
+    maxlongitude: -4.1471443
+    maxlatitude: 14.517884
+    latitude: 14.495833
+    longitude: -4.198611
 - name: Tombouctou
   names:
   - Tombouctou
@@ -54,34 +68,6 @@
     maxlatitude: 12.732974
     latitude: 12.65
     longitude: 0
-- name: Kayes
-  names:
-  - Kayes
-  code: "1"
-  countryalpha2: ML
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.471919
-    minlatitude: 14.418658
-    maxlongitude: -11.371622
-    maxlatitude: 14.490281
-    latitude: 14.436788
-    longitude: -11.4452715
-- name: Koulikoro
-  names:
-  - Koulikoro
-  code: "2"
-  countryalpha2: ML
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.5719233
-    minlatitude: 12.851362
-    maxlongitude: -7.545719
-    maxlatitude: 12.878957
-    latitude: 12.861111
-    longitude: -7.558333
 - name: Sikasso
   names:
   - Sikasso
@@ -96,6 +82,20 @@
     maxlatitude: 11.353821
     latitude: 11.316667
     longitude: -5.666667
+- name: Koulikoro
+  names:
+  - Koulikoro
+  code: "2"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.5719233
+    minlatitude: 12.851362
+    maxlongitude: -7.545719
+    maxlatitude: 12.878957
+    latitude: 12.861111
+    longitude: -7.558333
 - name: Ségou
   names:
   - Ségou
@@ -110,17 +110,17 @@
     maxlatitude: 13.458913
     latitude: 13.45
     longitude: -6.266667
-- name: Mopti
+- name: Kayes
   names:
-  - Mopti
-  code: "5"
+  - Kayes
+  code: "1"
   countryalpha2: ML
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -4.204553
-    minlatitude: 14.452631
-    maxlongitude: -4.1471443
-    maxlatitude: 14.517884
-    latitude: 14.495833
-    longitude: -4.198611
+    minlongitude: -11.471919
+    minlatitude: 14.418658
+    maxlongitude: -11.371622
+    maxlatitude: 14.490281
+    latitude: 14.436788
+    longitude: -11.4452715

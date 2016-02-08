@@ -1,31 +1,3 @@
-- name: Balti
-  names:
-  - Balti
-  code: BA
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.834463
-    minlatitude: 47.7227
-    maxlongitude: 27.968294
-    maxlatitude: 47.811195
-    latitude: 47.753994
-    longitude: 27.918415
-- name: Chisinau City
-  names:
-  - Chisinau City
-  code: CH
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.02401
-    longitude: 28.831316
 - name: Soroca
   names:
   - Soroca
@@ -54,48 +26,6 @@
     maxlatitude: 46.582745
     latitude: 46.5703
     longitude: 29.1156
-- name: Ungheni
-  names:
-  - Ungheni
-  code: UN
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.759275
-    minlatitude: 47.169014
-    maxlongitude: 27.82792
-    maxlatitude: 47.249348
-    latitude: 47.216667
-    longitude: 27.816668
-- name: Cahul
-  names:
-  - Cahul
-  code: CA
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.17416
-    minlatitude: 45.873665
-    maxlongitude: 28.231709
-    maxlatitude: 45.942303
-    latitude: 45.89394
-    longitude: 28.189028
-- name: Chisinau
-  names:
-  - Chisinau
-  code: CU
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.02401
-    longitude: 28.831316
 - name: Edinet
   names:
   - Edinet
@@ -124,20 +54,6 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Lapusna
-  names:
-  - Lapusna
-  code: LA
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.39159
-    minlatitude: 46.86961
-    maxlongitude: 28.431374
-    maxlatitude: 46.901756
-    latitude: 46.88333
-    longitude: 28.416668
 - name: Orhei
   names:
   - Orhei
@@ -166,6 +82,20 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
+- name: Lapusna
+  names:
+  - Lapusna
+  code: LA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.39159
+    minlatitude: 46.86961
+    maxlongitude: 28.431374
+    maxlatitude: 46.901756
+    latitude: 46.88333
+    longitude: 28.416668
 - name: Tighina [Bender]
   names:
   - Tighina [Bender]
@@ -180,3 +110,73 @@
     maxlatitude: 46.875328
     latitude: 46.846336
     longitude: 29.453442
+- name: Ungheni
+  names:
+  - Ungheni
+  code: UN
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.759275
+    minlatitude: 47.169014
+    maxlongitude: 27.82792
+    maxlatitude: 47.249348
+    latitude: 47.216667
+    longitude: 27.816668
+- name: Balti
+  names:
+  - Balti
+  code: BA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.834463
+    minlatitude: 47.7227
+    maxlongitude: 27.968294
+    maxlatitude: 47.811195
+    latitude: 47.753994
+    longitude: 27.918415
+- name: Cahul
+  names:
+  - Cahul
+  code: CA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.17416
+    minlatitude: 45.873665
+    maxlongitude: 28.231709
+    maxlatitude: 45.942303
+    latitude: 45.89394
+    longitude: 28.189028
+- name: Chisinau City
+  names:
+  - Chisinau City
+  code: CH
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.02401
+    longitude: 28.831316
+- name: Chisinau
+  names:
+  - Chisinau
+  code: CU
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.02401
+    longitude: 28.831316

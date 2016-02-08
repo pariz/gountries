@@ -13,37 +13,25 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Costa Rica
     official: Republic of Costa Rica
-  deu:
-    common: Costa Rica
-    official: Republik Costa Rica
-  fin:
-    common: Costa Rica
-    official: Costa Rican tasavalta
-  fra:
-    common: Costa Rica
-    official: République du Costa Rica
-  hrv:
+  HRV:
     common: Kostarika
     official: Republika Kostarika
-  ita:
+  ITA:
     common: Costa Rica
     official: Repubblica di Costa Rica
-  jpn:
+  JPN:
     common: コスタリカ
     official: コスタリカ共和国
-  nld:
+  NLD:
     common: Costa Rica
     official: Republiek Costa Rica
-  por:
+  POR:
     common: Costa Rica
     official: República da Costa Rica
-  rus:
-    common: Коста-Рика
-    official: Республика Коста-Рика
-  spa:
+  SPA:
     common: Costa Rica
     official: República de Costa Rica
 currencies:

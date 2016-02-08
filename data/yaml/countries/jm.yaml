@@ -17,34 +17,16 @@ languages:
   eng: English
   jam: Jamaican Patois
 translations:
-  deu:
+  FIN:
     common: Jamaika
     official: Jamaika
-  fin:
-    common: Jamaika
-    official: Jamaika
-  fra:
-    common: Jamaïque
-    official: Jamaïque
-  hrv:
-    common: Jamajka
-    official: Jamajka
-  ita:
-    common: Giamaica
-    official: Giamaica
-  jpn:
-    common: ジャマイカ
-    official: ジャマイカ
-  nld:
+  POR:
     common: Jamaica
     official: Jamaica
-  por:
-    common: Jamaica
-    official: Jamaica
-  rus:
+  RUS:
     common: Ямайка
     official: Ямайка
-  spa:
+  SPA:
     common: Jamaica
     official: Jamaica
 currencies:

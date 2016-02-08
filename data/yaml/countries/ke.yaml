@@ -17,34 +17,31 @@ languages:
   eng: English
   swa: Swahili
 translations:
-  deu:
+  DEU:
     common: Kenia
     official: Republik Kenia
-  fin:
+  FIN:
     common: Kenia
     official: Kenian tasavalta
-  fra:
+  FRA:
     common: Kenya
     official: République du Kenya
-  hrv:
+  HRV:
     common: Kenija
     official: Republika Kenija
-  ita:
+  ITA:
     common: Kenya
     official: Repubblica del Kenya
-  jpn:
-    common: ケニア
-    official: ケニア共和国
-  nld:
+  NLD:
     common: Kenia
     official: Republiek Kenia
-  por:
+  POR:
     common: Quénia
     official: República do Quénia
-  rus:
+  RUS:
     common: Кения
     official: Республика Кения
-  spa:
+  SPA:
     common: Kenia
     official: República de Kenya
 currencies:

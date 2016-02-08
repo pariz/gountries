@@ -13,34 +13,25 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
-    common: Saint-Barthélemy
-    official: Gebietskörperschaft Saint -Barthélemy
-  fin:
-    common: Saint-Barthélemy
-    official: Saint-Barthélemyn yhteisö
-  fra:
+  FRA:
     common: Saint-Barthélemy
     official: Collectivité de Saint-Barthélemy
-  hrv:
-    common: Saint Barthélemy
-    official: Kolektivnost sv Barthélemy
-  ita:
+  ITA:
     common: Antille Francesi
     official: Collettività di Saint Barthélemy
-  jpn:
+  JPN:
     common: サン・バルテルミー
     official: サン·バルテルミー島の集合体
-  nld:
+  NLD:
     common: Saint Barthélemy
     official: Gemeenschap Saint Barthélemy
-  por:
+  POR:
     common: São Bartolomeu
     official: Coletividade de Saint Barthélemy
-  rus:
+  RUS:
     common: Сен-Бартелеми
     official: Коллективность Санкт -Бартельми
-  spa:
+  SPA:
     common: San Bartolomé
     official: Colectividad de San Barthélemy
 currencies:

@@ -17,39 +17,30 @@ languages:
   eng: English
   fra: French
 translations:
-  cym:
-    common: Camerŵn
-    official: Republic of Cameroon
-  deu:
+  DEU:
     common: Kamerun
     official: Republik Kamerun
-  fin:
-    common: Kamerun
-    official: Kamerunin tasavalta
-  fra:
+  FRA:
     common: Cameroun
     official: République du Cameroun
-  hrv:
+  HRV:
     common: Kamerun
     official: Republika Kamerun
-  ita:
+  ITA:
     common: Camerun
     official: Repubblica del Camerun
-  jpn:
+  JPN:
     common: カメルーン
     official: カメルーン共和国
-  nld:
+  NLD:
     common: Kameroen
     official: Republiek Kameroen
-  por:
+  POR:
     common: Camarões
     official: República dos Camarões
-  rus:
+  RUS:
     common: Камерун
     official: Республика Камерун
-  spa:
-    common: Camerún
-    official: República de Camerún
 currencies:
 - XAF
 borders:

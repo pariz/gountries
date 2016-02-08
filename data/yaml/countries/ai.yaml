@@ -13,34 +13,22 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  DEU:
     common: Anguilla
     official: Anguilla
-  fin:
+  FRA:
     common: Anguilla
     official: Anguilla
-  fra:
-    common: Anguilla
-    official: Anguilla
-  hrv:
+  HRV:
     common: Angvila
     official: Anguilla
-  ita:
+  POR:
     common: Anguilla
     official: Anguilla
-  jpn:
-    common: アンギラ
-    official: アングィラ
-  nld:
-    common: Anguilla
-    official: Anguilla
-  por:
-    common: Anguilla
-    official: Anguilla
-  rus:
+  RUS:
     common: Ангилья
     official: Ангилья
-  spa:
+  SPA:
     common: Anguilla
     official: Anguila
 currencies:

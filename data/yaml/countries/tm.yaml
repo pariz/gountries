@@ -17,34 +17,22 @@ languages:
   rus: Russian
   tuk: Turkmen
 translations:
-  deu:
+  DEU:
     common: Turkmenistan
     official: Turkmenistan
-  fin:
-    common: Turkmenistan
-    official: Turkmenistan
-  fra:
+  FRA:
     common: Turkménistan
     official: Turkménistan
-  hrv:
+  ITA:
     common: Turkmenistan
     official: Turkmenistan
-  ita:
-    common: Turkmenistan
-    official: Turkmenistan
-  jpn:
+  JPN:
     common: トルクメニスタン
     official: トルクメニスタン
-  nld:
-    common: Turkmenistan
-    official: Turkmenistan
-  por:
-    common: Turquemenistão
-    official: Turcomenistão
-  rus:
+  RUS:
     common: Туркмения
     official: Туркменистан
-  spa:
+  SPA:
     common: Turkmenistán
     official: Turkmenistán
 currencies:

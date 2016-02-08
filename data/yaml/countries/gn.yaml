@@ -13,34 +13,28 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
-    common: Guinea
-    official: Republik Guinea
-  fin:
+  FIN:
     common: Guinea
     official: Guinean tasavalta
-  fra:
+  FRA:
     common: Guinée
     official: République de Guinée
-  hrv:
+  HRV:
     common: Gvineja
     official: Republika Gvineja
-  ita:
-    common: Guinea
-    official: Repubblica di Guinea
-  jpn:
+  JPN:
     common: ギニア
     official: ギニア共和国
-  nld:
+  NLD:
     common: Guinee
     official: Republiek Guinee
-  por:
+  POR:
     common: Guiné
     official: República da Guiné
-  rus:
+  RUS:
     common: Гвинея
     official: Республика Гвинея
-  spa:
+  SPA:
     common: Guinea
     official: República de Guinea
 currencies:

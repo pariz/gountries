@@ -1,3 +1,17 @@
+- name: Pomeroon-Supenaam
+  names:
+  - Pomeroon-Supenaam
+  code: PM
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.17711
+    minlatitude: 6.760108
+    maxlongitude: -58.473015
+    maxlatitude: 7.68286
+    latitude: 7.1294165
+    longitude: -58.920628
 - name: Cuyuni-Mazaruni
   names:
   - Cuyuni-Mazaruni
@@ -12,90 +26,6 @@
     maxlatitude: 7.233457
     latitude: 6.4642143
     longitude: -60.211075
-- name: East Berbice-Corentyne
-  names:
-  - East Berbice-Corentyne
-  code: EB
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.518757
-    minlatitude: 1.452054
-    maxlongitude: -56.48025
-    maxlatitude: 6.325151
-    latitude: 2.7477922
-    longitude: -57.462727
-- name: Mahaica-Berbice
-  names:
-  - Mahaica-Berbice
-  code: MA
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.13182
-    minlatitude: 5.855623
-    maxlongitude: -57.53081
-    maxlatitude: 6.701213
-    latitude: 6.238496
-    longitude: -57.916256
-- name: Potaro-Siparuni
-  names:
-  - Potaro-Siparuni
-  code: PT
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.16332
-    minlatitude: 3.989301
-    maxlongitude: -58.272823
-    maxlatitude: 5.733892
-    latitude: 4.7855854
-    longitude: -59.288
-- name: Upper Demerara-Berbice
-  names:
-  - Upper Demerara-Berbice
-  code: UD
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.870636
-    minlatitude: 4.601077
-    maxlongitude: -57.631374
-    maxlatitude: 6.508296
-    latitude: 5.306488
-    longitude: -58.189293
-- name: Upper Takutu-Upper Essequibo
-  names:
-  - Upper Takutu-Upper Essequibo
-  code: UT
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -59.992054
-    minlatitude: 1.17508
-    maxlongitude: -57.93003
-    maxlatitude: 4.521402
-    latitude: 2.9239595
-    longitude: -58.737362
-- name: Barima-Waini
-  names:
-  - Barima-Waini
-  code: BA
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.712597
-    minlatitude: 6.981004
-    maxlongitude: -58.804104
-    maxlatitude: 8.5480995
-    latitude: 7.4882417
-    longitude: -59.65645
 - name: Demerara-Mahaica
   names:
   - Demerara-Mahaica
@@ -124,17 +54,87 @@
     maxlatitude: 7.0862865
     latitude: 6.5720134
     longitude: -58.463
-- name: Pomeroon-Supenaam
+- name: Mahaica-Berbice
   names:
-  - Pomeroon-Supenaam
-  code: PM
+  - Mahaica-Berbice
+  code: MA
   countryalpha2: GY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.17711
-    minlatitude: 6.760108
-    maxlongitude: -58.473015
-    maxlatitude: 7.68286
-    latitude: 7.1294165
-    longitude: -58.920628
+    minlongitude: -58.13182
+    minlatitude: 5.855623
+    maxlongitude: -57.53081
+    maxlatitude: 6.701213
+    latitude: 6.238496
+    longitude: -57.916256
+- name: Upper Takutu-Upper Essequibo
+  names:
+  - Upper Takutu-Upper Essequibo
+  code: UT
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.992054
+    minlatitude: 1.17508
+    maxlongitude: -57.93003
+    maxlatitude: 4.521402
+    latitude: 2.9239595
+    longitude: -58.737362
+- name: Barima-Waini
+  names:
+  - Barima-Waini
+  code: BA
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -60.712597
+    minlatitude: 6.981004
+    maxlongitude: -58.804104
+    maxlatitude: 8.5480995
+    latitude: 7.4882417
+    longitude: -59.65645
+- name: East Berbice-Corentyne
+  names:
+  - East Berbice-Corentyne
+  code: EB
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.518757
+    minlatitude: 1.452054
+    maxlongitude: -56.48025
+    maxlatitude: 6.325151
+    latitude: 2.7477922
+    longitude: -57.462727
+- name: Potaro-Siparuni
+  names:
+  - Potaro-Siparuni
+  code: PT
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -60.16332
+    minlatitude: 3.989301
+    maxlongitude: -58.272823
+    maxlatitude: 5.733892
+    latitude: 4.7855854
+    longitude: -59.288
+- name: Upper Demerara-Berbice
+  names:
+  - Upper Demerara-Berbice
+  code: UD
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.870636
+    minlatitude: 4.601077
+    maxlongitude: -57.631374
+    maxlatitude: 6.508296
+    latitude: 5.306488
+    longitude: -58.189293

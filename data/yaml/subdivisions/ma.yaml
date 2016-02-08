@@ -1,31 +1,3 @@
-- name: Sidi Kacem
-  names:
-  - Sidi Kacem
-  code: SIK
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.7565784
-    minlatitude: 34.209248
-    maxlongitude: -5.687742
-    maxlatitude: 34.270267
-    latitude: 34.216667
-    longitude: -5.7
-- name: Laâyoune* (EH)
-  names:
-  - Laâyoune* (EH)
-  code: LAA
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.254147
-    minlatitude: 27.081137
-    maxlongitude: -13.096991
-    maxlatitude: 27.166943
-    latitude: 27.125286
-    longitude: -13.1625
 - name: Larache
   names:
   - Larache
@@ -40,300 +12,34 @@
     maxlatitude: 35.206146
     latitude: 35.183334
     longitude: -6.15
-- name: Zagora
+- name: Rabat-Salé*
   names:
-  - Zagora
-  code: ZAG
+  - Rabat-Salé*
+  code: RBA
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -5.8603477
-    minlatitude: 30.317396
-    maxlongitude: -5.8262925
-    maxlatitude: 30.368525
-    latitude: 30.330557
-    longitude: -5.838056
-- name: Jerada
+    minlongitude: -6.9228835
+    minlatitude: 33.903492
+    maxlongitude: -6.791642
+    maxlatitude: 34.034824
+    latitude: 33.971592
+    longitude: -6.849813
+- name: Tan-Tan
   names:
-  - Jerada
-  code: JRA
+  - Tan-Tan
+  code: TNT
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.2159767
-    minlatitude: 34.289738
-    maxlongitude: -2.1487284
-    maxlatitude: 34.326496
-    latitude: 34.31167
-    longitude: -2.163611
-- name: Boulemane
-  names:
-  - Boulemane
-  code: BOM
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -4.7400856
-    minlatitude: 33.353687
-    maxlongitude: -4.720602
-    maxlatitude: 33.374046
-    latitude: 33.362514
-    longitude: -4.7303395
-- name: Casablanca [Dar el Beïda]*
-  names:
-  - Casablanca [Dar el Beïda]*
-  code: CAS
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.716461
-    minlatitude: 33.495277
-    maxlongitude: -7.458276
-    maxlatitude: 33.64966
-    latitude: 33.57311
-    longitude: -7.5898433
-- name: Assa-Zag
-  names:
-  - Assa-Zag
-  code: ASZ
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.730896
-    minlatitude: 27.662115
-    maxlongitude: -8.670276
-    maxlatitude: 28.813337
-    latitude: 28.14024
-    longitude: -9.723268
-- name: Berkane
-  names:
-  - Berkane
-  code: BER
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -2.3526192
-    minlatitude: 34.898743
-    maxlongitude: -2.2930527
-    maxlatitude: 34.95518
-    latitude: 34.916668
-    longitude: -2.316667
-- name: Chtouka-Ait Baha
-  names:
-  - Chtouka-Ait Baha
-  code: CHT
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.166396
-    minlatitude: 30.06481
-    maxlongitude: -9.148822
-    maxlatitude: 30.073875
-    latitude: 30.068876
-    longitude: -9.152534
-- name: Al Haouz
-  names:
-  - Al Haouz
-  code: HAO
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.558006
-    minlatitude: 30.862741
-    maxlongitude: -7.088928
-    maxlatitude: 31.70524
-    latitude: 31.295673
-    longitude: -7.87216
-- name: Marrakech*
-  names:
-  - Marrakech*
-  code: MAR
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.12808
-    minlatitude: 31.552977
-    maxlongitude: -7.8876257
-    maxlatitude: 31.716267
-    latitude: 31.63
-    longitude: -8.008889
-- name: Meknès*
-  names:
-  - Meknès*
-  code: MEK
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.609626
-    minlatitude: 33.833893
-    maxlongitude: -5.4664145
-    maxlatitude: 33.92812
-    latitude: 33.895
-    longitude: -5.554722
-- name: Oujda*
-  names:
-  - Oujda*
-  code: OUJ
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.963159
-    minlatitude: 34.64183
-    maxlongitude: -1.8517972
-    maxlatitude: 34.72731
-    latitude: 34.68667
-    longitude: -1.911389
-- name: Salé
-  names:
-  - Salé
-  code: SAL
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.834943
-    minlatitude: 33.979115
-    maxlongitude: -6.7093587
-    maxlatitude: 34.09644
-    latitude: 34.033695
-    longitude: -6.770814
-- name: Beni Mellal
-  names:
-  - Beni Mellal
-  code: BEM
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.4301777
-    minlatitude: 32.29417
-    maxlongitude: -6.3162804
-    maxlatitude: 32.367638
-    latitude: 32.339443
-    longitude: -6.360833
-- name: Taounate
-  names:
-  - Taounate
-  code: TAO
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -4.658791
-    minlatitude: 34.52469
-    maxlongitude: -4.624277
-    maxlatitude: 34.555447
-    latitude: 34.53583
-    longitude: -4.64
-- name: Sidi Youssef Ben Ali
-  names:
-  - Sidi Youssef Ben Ali
-  code: SYB
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.9787884
-    minlatitude: 31.552885
-    maxlongitude: -7.920499
-    maxlatitude: 31.625614
-    latitude: 31.608437
-    longitude: -7.9653068
-- name: Ben Slimane
-  names:
-  - Ben Slimane
-  code: BES
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.1562243
-    minlatitude: 33.593716
-    maxlongitude: -7.101378
-    maxlatitude: 33.63381
-    latitude: 33.61667
-    longitude: -7.116667
-- name: Ouarzazate
-  names:
-  - Ouarzazate
-  code: OUA
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.99224
-    minlatitude: 30.915295
-    maxlongitude: -6.8729386
-    maxlatitude: 30.955751
-    latitude: 30.933544
-    longitude: -6.937016
-- name: Sefrou
-  names:
-  - Sefrou
-  code: SEF
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -4.854927
-    minlatitude: 33.80989
-    maxlongitude: -4.802141
-    maxlatitude: 33.849247
-    latitude: 33.830524
-    longitude: -4.835315
-- name: Tanger
-  names:
-  - Tanger
-  code: TNG
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.9487486
-    minlatitude: 35.7008
-    maxlongitude: -5.7185555
-    maxlatitude: 35.825737
-    latitude: 35.759464
-    longitude: -5.8339543
-- name: Laayoune-Boujdour-Sakia El Hamra
-  names:
-  - Laayoune-Boujdour-Sakia El Hamra
-  code: X1~
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.172966
-    minlatitude: 27.666582
-    maxlongitude: -11.50715
-    maxlatitude: 28.216227
-    latitude: 27.852167
-    longitude: -12.163272
-- name: Aousserd
-  names:
-  - Aousserd
-  code: AOU
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.566052
-    minlatitude: 30.39161
-    maxlongitude: -9.56208
-    maxlatitude: 30.392313
-    latitude: 30.392035
-    longitude: -9.564496
+    minlongitude: -11.125803
+    minlatitude: 28.408916
+    maxlongitude: -11.0713005
+    maxlatitude: 28.452393
+    latitude: 28.438042
+    longitude: -11.098738
 - name: Ifrane
   names:
   - Ifrane
@@ -348,34 +54,20 @@
     maxlatitude: 33.554913
     latitude: 33.522808
     longitude: -5.110955
-- name: Khemisset
+- name: Casablanca [Dar el Beïda]*
   names:
-  - Khemisset
-  code: KHE
+  - Casablanca [Dar el Beïda]*
+  code: CAS
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -6.1040726
-    minlatitude: 33.798996
-    maxlongitude: -6.0419216
-    maxlatitude: 33.848522
-    latitude: 33.816666
-    longitude: -6.066667
-- name: Settat
-  names:
-  - Settat
-  code: SET
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.6637273
-    minlatitude: 32.968384
-    maxlongitude: -7.5755906
-    maxlatitude: 33.017345
-    latitude: 0
-    longitude: -7.6167
+    minlongitude: -7.716461
+    minlatitude: 33.495277
+    maxlongitude: -7.458276
+    maxlatitude: 33.64966
+    latitude: 33.57311
+    longitude: -7.5898433
 - name: Taourirt
   names:
   - Taourirt
@@ -404,6 +96,160 @@
     maxlatitude: 30.497608
     latitude: 30.466944
     longitude: -8.88
+- name: Skhirate-Témara
+  names:
+  - Skhirate-Témara
+  code: SKH
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.0053396
+    minlatitude: 33.86197
+    maxlongitude: -6.877098
+    maxlatitude: 33.958626
+    latitude: 33.927834
+    longitude: -6.905182
+- name: Sidi Youssef Ben Ali
+  names:
+  - Sidi Youssef Ben Ali
+  code: SYB
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.9787884
+    minlatitude: 31.552885
+    maxlongitude: -7.920499
+    maxlatitude: 31.625614
+    latitude: 31.608437
+    longitude: -7.9653068
+- name: Chtouka-Ait Baha
+  names:
+  - Chtouka-Ait Baha
+  code: CHT
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.166396
+    minlatitude: 30.06481
+    maxlongitude: -9.148822
+    maxlatitude: 30.073875
+    latitude: 30.068876
+    longitude: -9.152534
+- name: Laâyoune* (EH)
+  names:
+  - Laâyoune* (EH)
+  code: LAA
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.254147
+    minlatitude: 27.081137
+    maxlongitude: -13.096991
+    maxlatitude: 27.166943
+    latitude: 27.125286
+    longitude: -13.1625
+- name: Nador
+  names:
+  - Nador
+  code: NAD
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.9779408
+    minlatitude: 35.12377
+    maxlongitude: -2.9002643
+    maxlatitude: 35.20652
+    latitude: 35.166668
+    longitude: -2.933333
+- name: Sefrou
+  names:
+  - Sefrou
+  code: SEF
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.854927
+    minlatitude: 33.80989
+    maxlongitude: -4.802141
+    maxlatitude: 33.849247
+    latitude: 33.830524
+    longitude: -4.835315
+- name: Meknès*
+  names:
+  - Meknès*
+  code: MEK
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.609626
+    minlatitude: 33.833893
+    maxlongitude: -5.4664145
+    maxlatitude: 33.92812
+    latitude: 33.895
+    longitude: -5.554722
+- name: Ouarzazate
+  names:
+  - Ouarzazate
+  code: OUA
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.99224
+    minlatitude: 30.915295
+    maxlongitude: -6.8729386
+    maxlatitude: 30.955751
+    latitude: 30.933544
+    longitude: -6.937016
+- name: Salé
+  names:
+  - Salé
+  code: SAL
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.834943
+    minlatitude: 33.979115
+    maxlongitude: -6.7093587
+    maxlatitude: 34.09644
+    latitude: 34.033695
+    longitude: -6.770814
+- name: Tanger
+  names:
+  - Tanger
+  code: TNG
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.9487486
+    minlatitude: 35.7008
+    maxlongitude: -5.7185555
+    maxlatitude: 35.825737
+    latitude: 35.759464
+    longitude: -5.8339543
+- name: Es Smara (EH)
+  names:
+  - Es Smara (EH)
+  code: ESM
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -11.128103
+    minlatitude: 27.666666
+    maxlongitude: -6.263147
+    maxlatitude: 30.40735
+    latitude: 28.708206
+    longitude: -9.545097
 - name: Fahs-Beni Makada
   names:
   - Fahs-Beni Makada
@@ -432,48 +278,76 @@
     maxlatitude: 34.07538
     latitude: 34.033333
     longitude: 0
-- name: Khouribga
+- name: Al Haouz
   names:
-  - Khouribga
-  code: KHO
+  - Al Haouz
+  code: HAO
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -6.963607
-    minlatitude: 32.843403
-    maxlongitude: -6.87098
-    maxlatitude: 32.91822
-    latitude: 32.886024
-    longitude: -6.9208655
-- name: Tata
+    minlongitude: -8.558006
+    minlatitude: 30.862741
+    maxlongitude: -7.088928
+    maxlatitude: 31.70524
+    latitude: 31.295673
+    longitude: -7.87216
+- name: Al Hoceïma
   names:
-  - Tata
-  code: TAT
+  - Al Hoceïma
+  code: HOC
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -7.9965878
-    minlatitude: 29.73375
-    maxlongitude: -7.9531574
-    maxlatitude: 29.783152
-    latitude: 29.742779
-    longitude: -7.9725
-- name: Chefchaouene
+    minlongitude: -3.9659865
+    minlatitude: 35.217804
+    maxlongitude: -3.9094572
+    maxlatitude: 35.261852
+    latitude: 35.25
+    longitude: -3.933333
+- name: Kelaat Sraghna
   names:
-  - Chefchaouene
-  code: CHE
+  - Kelaat Sraghna
+  code: KES
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -5.287149
-    minlatitude: 35.15218
-    maxlongitude: -5.2556705
-    maxlatitude: 35.18556
-    latitude: 35.17139
-    longitude: -5.269722
+    minlongitude: -7.4314785
+    minlatitude: 32.03103
+    maxlongitude: -7.3746576
+    maxlatitude: 32.071033
+    latitude: 32.048058
+    longitude: -7.408333
+- name: Zagora
+  names:
+  - Zagora
+  code: ZAG
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.8603477
+    minlatitude: 30.317396
+    maxlongitude: -5.8262925
+    maxlatitude: 30.368525
+    latitude: 30.330557
+    longitude: -5.838056
+- name: Assa-Zag
+  names:
+  - Assa-Zag
+  code: ASZ
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.730896
+    minlatitude: 27.662115
+    maxlongitude: -8.670276
+    maxlatitude: 28.813337
+    latitude: 28.14024
+    longitude: -9.723268
 - name: Aït Baha
   names:
   - Aït Baha
@@ -488,6 +362,146 @@
     maxlatitude: 30.073875
     latitude: 30.068876
     longitude: -9.152534
+- name: Boulemane
+  names:
+  - Boulemane
+  code: BOM
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.7400856
+    minlatitude: 33.353687
+    maxlongitude: -4.720602
+    maxlatitude: 33.374046
+    latitude: 33.362514
+    longitude: -4.7303395
+- name: Essaouira
+  names:
+  - Essaouira
+  code: ESI
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.775521
+    minlatitude: 31.49507
+    maxlongitude: -9.749244
+    maxlatitude: 31.526817
+    latitude: 31.508493
+    longitude: -9.759504
+- name: Tiznit
+  names:
+  - Tiznit
+  code: TIZ
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.758133
+    minlatitude: 29.672644
+    maxlongitude: -9.702921
+    maxlatitude: 29.72905
+    latitude: 29.693392
+    longitude: -9.732157
+- name: Boujdour (EH)
+  names:
+  - Boujdour (EH)
+  code: BOD
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.172966
+    minlatitude: 27.666582
+    maxlongitude: -11.50715
+    maxlatitude: 28.216227
+    latitude: 27.852167
+    longitude: -12.163272
+- name: El Jadida
+  names:
+  - El Jadida
+  code: JDI
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.541351
+    minlatitude: 33.202793
+    maxlongitude: -8.465978
+    maxlatitude: 33.26411
+    latitude: 33.233334
+    longitude: -8.5
+- name: Safi
+  names:
+  - Safi
+  code: SAF
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.279634
+    minlatitude: 32.24315
+    maxlongitude: -9.19365
+    maxlatitude: 32.343006
+    latitude: 32.300816
+    longitude: -9.227203
+- name: Tata
+  names:
+  - Tata
+  code: TAT
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.9965878
+    minlatitude: 29.73375
+    maxlongitude: -7.9531574
+    maxlatitude: 29.783152
+    latitude: 29.742779
+    longitude: -7.9725
+- name: Laayoune-Boujdour-Sakia El Hamra
+  names:
+  - Laayoune-Boujdour-Sakia El Hamra
+  code: X1~
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.172966
+    minlatitude: 27.666582
+    maxlongitude: -11.50715
+    maxlatitude: 28.216227
+    latitude: 27.852167
+    longitude: -12.163272
+- name: Azilal
+  names:
+  - Azilal
+  code: AZI
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.6000795
+    minlatitude: 31.938725
+    maxlongitude: -6.552186
+    maxlatitude: 31.982527
+    latitude: 31.966944
+    longitude: -6.569444
+- name: Ben Slimane
+  names:
+  - Ben Slimane
+  code: BES
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.1562243
+    minlatitude: 33.593716
+    maxlongitude: -7.101378
+    maxlatitude: 33.63381
+    latitude: 33.61667
+    longitude: -7.116667
 - name: Figuig
   names:
   - Figuig
@@ -516,76 +530,34 @@
     maxlatitude: 33.46221
     latitude: 33.4525
     longitude: -7.514722
-- name: Skhirate-Témara
+- name: Taounate
   names:
-  - Skhirate-Témara
-  code: SKH
+  - Taounate
+  code: TAO
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -7.0053396
-    minlatitude: 33.86197
-    maxlongitude: -6.877098
-    maxlatitude: 33.958626
-    latitude: 33.927834
-    longitude: -6.905182
-- name: Taza
+    minlongitude: -4.658791
+    minlatitude: 34.52469
+    maxlongitude: -4.624277
+    maxlatitude: 34.555447
+    latitude: 34.53583
+    longitude: -4.64
+- name: Beni Mellal
   names:
-  - Taza
-  code: TAZ
+  - Beni Mellal
+  code: BEM
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -4.0451145
-    minlatitude: 34.194553
-    maxlongitude: -3.9336207
-    maxlatitude: 34.245296
-    latitude: 34.216667
-    longitude: -4.016667
-- name: Tan-Tan
-  names:
-  - Tan-Tan
-  code: TNT
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.125803
-    minlatitude: 28.408916
-    maxlongitude: -11.0713005
-    maxlatitude: 28.452393
-    latitude: 28.438042
-    longitude: -11.098738
-- name: Azilal
-  names:
-  - Azilal
-  code: AZI
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.6000795
-    minlatitude: 31.938725
-    maxlongitude: -6.552186
-    maxlatitude: 31.982527
-    latitude: 31.966944
-    longitude: -6.569444
-- name: El Jadida
-  names:
-  - El Jadida
-  code: JDI
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.541351
-    minlatitude: 33.202793
-    maxlongitude: -8.465978
-    maxlatitude: 33.26411
-    latitude: 33.233334
-    longitude: -8.5
+    minlongitude: -6.4301777
+    minlatitude: 32.29417
+    maxlongitude: -6.3162804
+    maxlatitude: 32.367638
+    latitude: 32.339443
+    longitude: -6.360833
 - name: Kénitra
   names:
   - Kénitra
@@ -600,216 +572,6 @@
     maxlatitude: 34.31003
     latitude: 34.25
     longitude: -6.583333
-- name: Rabat-Salé*
-  names:
-  - Rabat-Salé*
-  code: RBA
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.9228835
-    minlatitude: 33.903492
-    maxlongitude: -6.791642
-    maxlatitude: 34.034824
-    latitude: 33.971592
-    longitude: -6.849813
-- name: Errachidia
-  names:
-  - Errachidia
-  code: ERR
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -4.476886
-    minlatitude: 31.907764
-    maxlongitude: -4.375305
-    maxlatitude: 31.962357
-    latitude: 31.931944
-    longitude: -4.424444
-- name: Es Smara (EH)
-  names:
-  - Es Smara (EH)
-  code: ESM
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.128103
-    minlatitude: 27.666666
-    maxlongitude: -6.263147
-    maxlatitude: 30.40735
-    latitude: 28.708206
-    longitude: -9.545097
-- name: Al Hoceïma
-  names:
-  - Al Hoceïma
-  code: HOC
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -3.9659865
-    minlatitude: 35.217804
-    maxlongitude: -3.9094572
-    maxlatitude: 35.261852
-    latitude: 35.25
-    longitude: -3.933333
-- name: Chichaoua
-  names:
-  - Chichaoua
-  code: CHI
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.779621
-    minlatitude: 31.516216
-    maxlongitude: -8.740525
-    maxlatitude: 31.554146
-    latitude: 31.533333
-    longitude: -8.766667
-- name: Oued ed Dahab (EH)
-  names:
-  - Oued ed Dahab (EH)
-  code: OUD
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -16.957897
-    minlatitude: 21.36862
-    maxlongitude: -16.956469
-    maxlatitude: 21.369665
-    latitude: 21.369211
-    longitude: -16.957073
-- name: Tiznit
-  names:
-  - Tiznit
-  code: TIZ
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.758133
-    minlatitude: 29.672644
-    maxlongitude: -9.702921
-    maxlatitude: 29.72905
-    latitude: 29.693392
-    longitude: -9.732157
-- name: El Hajeb
-  names:
-  - El Hajeb
-  code: HAJ
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.3847213
-    minlatitude: 33.66183
-    maxlongitude: -5.358757
-    maxlatitude: 33.702675
-    latitude: 33.69278
-    longitude: -5.371111
-- name: Boujdour (EH)
-  names:
-  - Boujdour (EH)
-  code: BOD
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.172966
-    minlatitude: 27.666582
-    maxlongitude: -11.50715
-    maxlatitude: 28.216227
-    latitude: 27.852167
-    longitude: -12.163272
-- name: Essaouira
-  names:
-  - Essaouira
-  code: ESI
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.775521
-    minlatitude: 31.49507
-    maxlongitude: -9.749244
-    maxlatitude: 31.526817
-    latitude: 31.508493
-    longitude: -9.759504
-- name: Moulay Yacoub
-  names:
-  - Moulay Yacoub
-  code: MOU
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.1857185
-    minlatitude: 34.082165
-    maxlongitude: -5.1716423
-    maxlatitude: 34.092617
-    latitude: 34.0878
-    longitude: -5.1811
-- name: Nador
-  names:
-  - Nador
-  code: NAD
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -2.9779408
-    minlatitude: 35.12377
-    maxlongitude: -2.9002643
-    maxlatitude: 35.20652
-    latitude: 35.166668
-    longitude: -2.933333
-- name: Nouaceur
-  names:
-  - Nouaceur
-  code: NOU
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 33.372185
-    longitude: -7.5470066
-- name: Agadir*
-  names:
-  - Agadir*
-  code: AGD
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.668268
-    minlatitude: 30.369284
-    maxlongitude: -9.487134
-    maxlatitude: 30.470211
-    latitude: 30.427755
-    longitude: -9.598107
-- name: Khenifra
-  names:
-  - Khenifra
-  code: KHN
-  countryalpha2: MA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.6912613
-    minlatitude: 32.906326
-    maxlongitude: -5.621567
-    maxlatitude: 32.96136
-    latitude: 32.939445
-    longitude: -5.6675
 - name: Aït Melloul
   names:
   - Aït Melloul
@@ -824,6 +586,34 @@
     maxlatitude: 30.375542
     latitude: 30.334167
     longitude: -9.497222
+- name: Oued ed Dahab (EH)
+  names:
+  - Oued ed Dahab (EH)
+  code: OUD
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.957897
+    minlatitude: 21.36862
+    maxlongitude: -16.956469
+    maxlatitude: 21.369665
+    latitude: 21.369211
+    longitude: -16.957073
+- name: Berkane
+  names:
+  - Berkane
+  code: BER
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.3526192
+    minlatitude: 34.898743
+    maxlongitude: -2.2930527
+    maxlatitude: 34.95518
+    latitude: 34.916668
+    longitude: -2.316667
 - name: Guelmim
   names:
   - Guelmim
@@ -838,6 +628,62 @@
     maxlatitude: 29.015533
     latitude: 28.983334
     longitude: -10.066667
+- name: Khenifra
+  names:
+  - Khenifra
+  code: KHN
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.6912613
+    minlatitude: 32.906326
+    maxlongitude: -5.621567
+    maxlatitude: 32.96136
+    latitude: 32.939445
+    longitude: -5.6675
+- name: Errachidia
+  names:
+  - Errachidia
+  code: ERR
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.476886
+    minlatitude: 31.907764
+    maxlongitude: -4.375305
+    maxlatitude: 31.962357
+    latitude: 31.931944
+    longitude: -4.424444
+- name: Nouaceur
+  names:
+  - Nouaceur
+  code: NOU
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 33.372185
+    longitude: -7.5470066
+- name: Taza
+  names:
+  - Taza
+  code: TAZ
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.0451145
+    minlatitude: 34.194553
+    maxlongitude: -3.9336207
+    maxlatitude: 34.245296
+    latitude: 34.216667
+    longitude: -4.016667
 - name: Tétouan*
   names:
   - Tétouan*
@@ -852,31 +698,185 @@
     maxlatitude: 35.613907
     latitude: 35.566666
     longitude: -5.366667
-- name: Kelaat Sraghna
+- name: Aousserd
   names:
-  - Kelaat Sraghna
-  code: KES
+  - Aousserd
+  code: AOU
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -7.4314785
-    minlatitude: 32.03103
-    maxlongitude: -7.3746576
-    maxlatitude: 32.071033
-    latitude: 32.048058
-    longitude: -7.408333
-- name: Safi
+    minlongitude: -9.566052
+    minlatitude: 30.39161
+    maxlongitude: -9.56208
+    maxlatitude: 30.392313
+    latitude: 30.392035
+    longitude: -9.564496
+- name: Chefchaouene
   names:
-  - Safi
-  code: SAF
+  - Chefchaouene
+  code: CHE
   countryalpha2: MA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -9.279634
-    minlatitude: 32.24315
-    maxlongitude: -9.19365
-    maxlatitude: 32.343006
-    latitude: 32.300816
-    longitude: -9.227203
+    minlongitude: -5.287149
+    minlatitude: 35.15218
+    maxlongitude: -5.2556705
+    maxlatitude: 35.18556
+    latitude: 35.17139
+    longitude: -5.269722
+- name: Chichaoua
+  names:
+  - Chichaoua
+  code: CHI
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.779621
+    minlatitude: 31.516216
+    maxlongitude: -8.740525
+    maxlatitude: 31.554146
+    latitude: 31.533333
+    longitude: -8.766667
+- name: Settat
+  names:
+  - Settat
+  code: SET
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.6637273
+    minlatitude: 32.968384
+    maxlongitude: -7.5755906
+    maxlatitude: 33.017345
+    latitude: 0
+    longitude: -7.6167
+- name: Jerada
+  names:
+  - Jerada
+  code: JRA
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.2159767
+    minlatitude: 34.289738
+    maxlongitude: -2.1487284
+    maxlatitude: 34.326496
+    latitude: 34.31167
+    longitude: -2.163611
+- name: Khouribga
+  names:
+  - Khouribga
+  code: KHO
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.963607
+    minlatitude: 32.843403
+    maxlongitude: -6.87098
+    maxlatitude: 32.91822
+    latitude: 32.886024
+    longitude: -6.9208655
+- name: Moulay Yacoub
+  names:
+  - Moulay Yacoub
+  code: MOU
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.1857185
+    minlatitude: 34.082165
+    maxlongitude: -5.1716423
+    maxlatitude: 34.092617
+    latitude: 34.0878
+    longitude: -5.1811
+- name: Sidi Kacem
+  names:
+  - Sidi Kacem
+  code: SIK
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.7565784
+    minlatitude: 34.209248
+    maxlongitude: -5.687742
+    maxlatitude: 34.270267
+    latitude: 34.216667
+    longitude: -5.7
+- name: Oujda*
+  names:
+  - Oujda*
+  code: OUJ
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.963159
+    minlatitude: 34.64183
+    maxlongitude: -1.8517972
+    maxlatitude: 34.72731
+    latitude: 34.68667
+    longitude: -1.911389
+- name: Agadir*
+  names:
+  - Agadir*
+  code: AGD
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.668268
+    minlatitude: 30.369284
+    maxlongitude: -9.487134
+    maxlatitude: 30.470211
+    latitude: 30.427755
+    longitude: -9.598107
+- name: El Hajeb
+  names:
+  - El Hajeb
+  code: HAJ
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.3847213
+    minlatitude: 33.66183
+    maxlongitude: -5.358757
+    maxlatitude: 33.702675
+    latitude: 33.69278
+    longitude: -5.371111
+- name: Khemisset
+  names:
+  - Khemisset
+  code: KHE
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.1040726
+    minlatitude: 33.798996
+    maxlongitude: -6.0419216
+    maxlatitude: 33.848522
+    latitude: 33.816666
+    longitude: -6.066667
+- name: Marrakech*
+  names:
+  - Marrakech*
+  code: MAR
+  countryalpha2: MA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.12808
+    minlatitude: 31.552977
+    maxlongitude: -7.8876257
+    maxlatitude: 31.716267
+    latitude: 31.63
+    longitude: -8.008889

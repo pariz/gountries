@@ -17,35 +17,26 @@ languages:
   por: Portuguese
   tet: Tetum
 translations:
-  deu:
+  DEU:
     common: Timor-Leste
     official: Demokratische Republik Timor-Leste
-  fin:
+  FIN:
     common: Itä-Timor
     official: Itä-Timorin demokraattinen tasavalta
-  fra:
-    common: Timor oriental
-    official: République démocratique du Timor oriental
-  hrv:
+  HRV:
     common: Istočni Timor
     official: Demokratska Republika Timor-Leste
-  ita:
+  ITA:
     common: Timor Est
     official: Repubblica Democratica di Timor Est
-  jpn:
+  JPN:
     common: 東ティモール
     official: 東ティモール民主共和国
-  nld:
+  NLD:
     common: Oost-Timor
     official: Democratische Republiek Oost-Timor
-  por:
+  POR:
     common: Timor-Leste
-    official: República Democrática de Timor-Leste
-  rus:
-    common: Восточный Тимор
-    official: Демократическая Республика Тимор -Лешти
-  spa:
-    common: Timor Oriental
     official: República Democrática de Timor-Leste
 currencies:
 - USD

@@ -13,34 +13,28 @@ tlds:
 languages:
   kor: Korean
 translations:
-  deu:
+  DEU:
     common: Nordkorea
     official: Demokratische Volksrepublik Korea
-  fin:
+  FIN:
     common: Pohjois-Korea
     official: Korean demokraattinen kansantasavalta
-  fra:
-    common: Corée du Nord
-    official: République populaire démocratique de Corée
-  hrv:
+  HRV:
     common: Sjeverna Koreja
     official: Demokratska Narodna Republika Koreja
-  ita:
+  ITA:
     common: Corea del Nord
     official: Repubblica democratica popolare di Corea
-  jpn:
+  JPN:
     common: 朝鮮民主主義人民共和国
     official: 朝鮮民主主義人民共和国
-  nld:
+  NLD:
     common: Noord-Korea
     official: Democratische Volksrepubliek Korea
-  por:
+  POR:
     common: Coreia do Norte
     official: República Popular Democrática da Coreia
-  rus:
-    common: Северная Корея
-    official: Корейская Народно-Демократическая Республика Корея
-  spa:
+  SPA:
     common: Corea del Norte
     official: República Popular Democrática de Corea
 currencies:

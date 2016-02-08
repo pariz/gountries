@@ -1,31 +1,3 @@
-- name: Saint Andrew
-  names:
-  - Saint Andrew
-  code: "02"
-  countryalpha2: DM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.442722
-    minlatitude: 15.453767
-    maxlongitude: -61.272358
-    maxlatitude: 15.639894
-    latitude: 15.554244
-    longitude: -61.350185
-- name: Saint George
-  names:
-  - Saint George
-  code: "04"
-  countryalpha2: DM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.39267
-    minlatitude: 15.263895
-    maxlongitude: -61.29876
-    maxlatitude: 15.354619
-    latitude: 15.3087845
-    longitude: -61.33852
 - name: Saint Mark
   names:
   - Saint Mark
@@ -40,6 +12,48 @@
     maxlatitude: 15.254047
     latitude: 15.219592
     longitude: -61.344353
+- name: Saint Paul
+  names:
+  - Saint Paul
+  code: "10"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.421955
+    minlatitude: 15.319361
+    maxlongitude: -61.31986
+    maxlatitude: 15.415029
+    latitude: 15.3756075
+    longitude: -61.361855
+- name: Saint Peter
+  names:
+  - Saint Peter
+  code: "11"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.478264
+    minlatitude: 15.46307
+    maxlongitude: -61.39977
+    maxlatitude: 15.541238
+    latitude: 15.509829
+    longitude: -61.449383
+- name: Saint Andrew
+  names:
+  - Saint Andrew
+  code: "02"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.442722
+    minlatitude: 15.453767
+    maxlongitude: -61.272358
+    maxlatitude: 15.639894
+    latitude: 15.554244
+    longitude: -61.350185
 - name: Saint David
   names:
   - Saint David
@@ -96,6 +110,20 @@
     maxlatitude: 15.272726
     latitude: 15.254587
     longitude: -61.367687
+- name: Saint George
+  names:
+  - Saint George
+  code: "04"
+  countryalpha2: DM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.39267
+    minlatitude: 15.263895
+    maxlongitude: -61.29876
+    maxlatitude: 15.354619
+    latitude: 15.3087845
+    longitude: -61.33852
 - name: Saint Patrick
   names:
   - Saint Patrick
@@ -110,31 +138,3 @@
     maxlatitude: 15.345993
     latitude: 15.281112
     longitude: -61.291862
-- name: Saint Paul
-  names:
-  - Saint Paul
-  code: "10"
-  countryalpha2: DM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.421955
-    minlatitude: 15.319361
-    maxlongitude: -61.31986
-    maxlatitude: 15.415029
-    latitude: 15.3756075
-    longitude: -61.361855
-- name: Saint Peter
-  names:
-  - Saint Peter
-  code: "11"
-  countryalpha2: DM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.478264
-    minlatitude: 15.46307
-    maxlongitude: -61.39977
-    maxlatitude: 15.541238
-    latitude: 15.509829
-    longitude: -61.449383

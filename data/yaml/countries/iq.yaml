@@ -21,34 +21,28 @@ languages:
   arc: Aramaic
   ckb: Sorani
 translations:
-  deu:
+  DEU:
     common: Irak
     official: Republik Irak
-  fin:
-    common: Irak
-    official: Irakin tasavalta
-  fra:
+  FRA:
     common: Irak
     official: République d'Irak
-  hrv:
-    common: Irak
-    official: Republika Irak
-  ita:
+  ITA:
     common: Iraq
     official: Repubblica dell'Iraq
-  jpn:
+  JPN:
     common: イラク
     official: イラク共和国
-  nld:
+  NLD:
     common: Irak
     official: Republiek Irak
-  por:
+  POR:
     common: Iraque
     official: República do Iraque
-  rus:
+  RUS:
     common: Ирак
     official: Республика Ирак
-  spa:
+  SPA:
     common: Irak
     official: República de Irak
 currencies:

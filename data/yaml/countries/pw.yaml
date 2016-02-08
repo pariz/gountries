@@ -17,36 +17,15 @@ languages:
   eng: English
   pau: Palauan
 translations:
-  deu:
-    common: Palau
-    official: Palau
-  fin:
+  FIN:
     common: Palau
     official: Palaun tasavalta
-  fra:
-    common: Palaos (Palau)
-    official: République des Palaos (Palau)
-  hrv:
+  HRV:
     common: Palau
     official: Republika Palau
-  ita:
-    common: Palau
-    official: Repubblica di Palau
-  jpn:
-    common: パラオ
-    official: パラオ共和国
-  nld:
+  NLD:
     common: Palau
     official: Republiek van Palau
-  por:
-    common: Palau
-    official: República de Palau
-  rus:
-    common: Палау
-    official: Республика Палау
-  spa:
-    common: Palau
-    official: República de Palau
 currencies:
 - USD
 borders: []

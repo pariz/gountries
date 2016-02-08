@@ -21,19 +21,19 @@ languages:
   nld: Dutch
   pap: Papiamento
 translations:
-  fin:
+  FIN:
     common: Curaçao
     official: Curaçao
-  nld:
+  NLD:
     common: Curaçao
     official: Land Curaçao
-  por:
+  POR:
     common: ilha da Curação
     official: País de Curaçao
-  rus:
+  RUS:
     common: Кюрасао
     official: Страна Кюрасао
-  spa:
+  SPA:
     common: Curazao
     official: País de Curazao
 currencies:

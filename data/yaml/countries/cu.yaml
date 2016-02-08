@@ -13,37 +13,28 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Ciwba
     official: Republic of Cuba
-  deu:
+  DEU:
     common: Kuba
     official: Republik Kuba
-  fin:
+  FIN:
     common: Kuuba
     official: Kuuban tasavalta
-  fra:
-    common: Cuba
-    official: République de Cuba
-  hrv:
+  HRV:
     common: Kuba
     official: Republika Kuba
-  ita:
+  ITA:
     common: Cuba
     official: Repubblica di Cuba
-  jpn:
+  JPN:
     common: キューバ
     official: キューバ共和国
-  nld:
+  NLD:
     common: Cuba
     official: Republiek Cuba
-  por:
-    common: Cuba
-    official: República de Cuba
-  rus:
-    common: Куба
-    official: Республика Куба
-  spa:
+  POR:
     common: Cuba
     official: República de Cuba
 currencies:

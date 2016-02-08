@@ -13,37 +13,31 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
+  CYM:
     common: Ynysoedd Cocos
     official: Territory of the Cocos (Keeling) Islands
-  deu:
+  DEU:
     common: Kokosinseln
     official: Gebiet der Cocos (Keeling) Islands
-  fin:
-    common: Kookossaaret
-    official: Kookossaaret
-  fra:
+  FRA:
     common: Îles Cocos
     official: Territoire des îles Cocos (Keeling)
-  hrv:
+  HRV:
     common: Kokosovi Otoci
     official: Teritoriju Kokosovi (Keeling) Islands
-  ita:
+  ITA:
     common: Isole Cocos e Keeling
     official: Territorio della (Keeling) Isole Cocos
-  jpn:
-    common: ココス（キーリング）諸島
-    official: ココス諸島の領土
-  nld:
+  NLD:
     common: Cocoseilanden
     official: Grondgebied van de Eilanden Cocos (Keeling )
-  por:
+  POR:
     common: Ilhas Cocos (Keeling)
     official: Território dos Cocos (Keeling)
-  rus:
+  RUS:
     common: Кокосовые острова
     official: Территория Кокосовые (Килинг) острова
-  spa:
+  SPA:
     common: Islas Cocos o Islas Keeling
     official: Territorio de los (Keeling) Islas Cocos
 currencies:

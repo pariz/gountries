@@ -13,34 +13,31 @@ tlds:
 languages:
   slk: Slovak
 translations:
-  deu:
+  DEU:
     common: Slowakei
     official: Slowakische Republik
-  fin:
-    common: Slovakia
-    official: Slovakian tasavalta
-  fra:
+  FRA:
     common: Slovaquie
     official: République slovaque
-  hrv:
+  HRV:
     common: Slovačka
     official: slovačka
-  ita:
+  ITA:
     common: Slovacchia
     official: Repubblica slovacca
-  jpn:
+  JPN:
     common: スロバキア
     official: スロバキア共和国
-  nld:
+  NLD:
     common: Slowakije
     official: Slowaakse Republiek
-  por:
+  POR:
     common: Eslováquia
     official: República Eslovaca
-  rus:
+  RUS:
     common: Словакия
     official: Словацкая Республика
-  spa:
+  SPA:
     common: República Eslovaca
     official: República Eslovaca
 currencies:

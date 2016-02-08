@@ -13,34 +13,28 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  DEU:
     common: Trinidad und Tobago
     official: Republik Trinidad und Tobago
-  fin:
+  FIN:
     common: Trinidad ja Tobago
     official: Trinidadin ja Tobagon tasavalta
-  fra:
+  FRA:
     common: Trinité-et-Tobago
     official: République de Trinité-et-Tobago
-  hrv:
-    common: Trinidad i Tobago
-    official: Republika Trinidad i Tobago
-  ita:
+  ITA:
     common: Trinidad e Tobago
     official: Repubblica di Trinidad e Tobago
-  jpn:
+  JPN:
     common: トリニダード・トバゴ
     official: トリニダード·トバゴ共和国
-  nld:
+  NLD:
     common: Trinidad en Tobago
     official: Republiek Trinidad en Tobago
-  por:
-    common: Trinidade e Tobago
-    official: República de Trinidad e Tobago
-  rus:
+  RUS:
     common: Тринидад и Тобаго
     official: Республика Тринидад и Тобаго
-  spa:
+  SPA:
     common: Trinidad y Tobago
     official: República de Trinidad y Tobago
 currencies:

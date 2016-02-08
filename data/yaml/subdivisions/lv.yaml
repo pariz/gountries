@@ -1,105 +1,7 @@
-- name: Jelgavas Aprinkis
+- name: Cesu Aprinkis
   names:
-  - Jelgavas Aprinkis
-  code: JL
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.623268
-    minlatitude: 56.596752
-    maxlongitude: 23.800278
-    maxlatitude: 56.691635
-    latitude: 56.651108
-    longitude: 23.721354
-- name: Ventspils Aprinkis
-  names:
-  - Ventspils Aprinkis
-  code: VE
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.515726
-    minlatitude: 57.348095
-    maxlongitude: 21.673664
-    maxlatitude: 57.470722
-    latitude: 57.393723
-    longitude: 21.564707
-- name: Tukuma Aprinkis
-  names:
-  - Tukuma Aprinkis
-  code: TU
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.101654
-    minlatitude: 56.949627
-    maxlongitude: 23.205055
-    maxlatitude: 56.988052
-    latitude: 56.969666
-    longitude: 23.15319
-- name: Valmieras Aprinkis
-  names:
-  - Valmieras Aprinkis
-  code: VM
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.374672
-    minlatitude: 57.508907
-    maxlongitude: 25.46843
-    maxlatitude: 57.555218
-    latitude: 57.538467
-    longitude: 25.426361
-- name: Dobeles Aprinkis
-  names:
-  - Dobeles Aprinkis
-  code: DO
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.253553
-    minlatitude: 56.60041
-    maxlongitude: 23.31283
-    maxlatitude: 56.644936
-    latitude: 56.624905
-    longitude: 23.279106
-- name: Jurmala
-  names:
-  - Jurmala
-  code: JUR
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.47297
-    minlatitude: 56.923885
-    maxlongitude: 23.969347
-    maxlatitude: 57.007046
-    latitude: 56.94708
-    longitude: 23.616848
-- name: Liepaja
-  names:
-  - Liepaja
-  code: LPX
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.971237
-    minlatitude: 56.46469
-    maxlongitude: 21.105734
-    maxlatitude: 56.6092
-    latitude: 56.50467
-    longitude: 21.010805
-- name: Rigas Aprinkis
-  names:
-  - Rigas Aprinkis
-  code: RI
+  - Cesu Aprinkis
+  code: CE
   countryalpha2: LV
   coordinates:
     longitudestring: ""
@@ -124,146 +26,34 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Rezeknes Aprinkis
+- name: Talsu Aprinkis
   names:
-  - Rezeknes Aprinkis
-  code: RE
+  - Talsu Aprinkis
+  code: TA
   countryalpha2: LV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Daugavpils Aprinkis
+    minlongitude: 22.553785
+    minlatitude: 57.227596
+    maxlongitude: 22.621593
+    maxlatitude: 57.265102
+    latitude: 57.24804
+    longitude: 22.587385
+- name: Valmieras Aprinkis
   names:
-  - Daugavpils Aprinkis
-  code: DA
+  - Valmieras Aprinkis
+  code: VM
   countryalpha2: LV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.438293
-    minlatitude: 55.836143
-    maxlongitude: 26.636137
-    maxlatitude: 55.95554
-    latitude: 55.874737
-    longitude: 26.536179
-- name: Jelgava
-  names:
-  - Jelgava
-  code: JEL
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.623268
-    minlatitude: 56.596752
-    maxlongitude: 23.800278
-    maxlatitude: 56.691635
-    latitude: 56.651108
-    longitude: 23.721354
-- name: Jekabpils Aprinkis
-  names:
-  - Jekabpils Aprinkis
-  code: JK
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Limbažu Aprinkis
-  names:
-  - Limbažu Aprinkis
-  code: LM
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Kraslavas Aprinkis
-  names:
-  - Kraslavas Aprinkis
-  code: KR
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Saldus Aprinkis
-  names:
-  - Saldus Aprinkis
-  code: SA
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.45961
-    minlatitude: 56.64567
-    maxlongitude: 22.525232
-    maxlatitude: 56.685524
-    latitude: 56.665302
-    longitude: 22.492168
-- name: Valkas Aprinkis
-  names:
-  - Valkas Aprinkis
-  code: VK
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Bauskas Aprinkis
-  names:
-  - Bauskas Aprinkis
-  code: BU
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Daugavpils
-  names:
-  - Daugavpils
-  code: DGV
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.438293
-    minlatitude: 55.836143
-    maxlongitude: 26.636137
-    maxlatitude: 55.95554
-    latitude: 55.874737
-    longitude: 26.536179
+    minlongitude: 25.374672
+    minlatitude: 57.508907
+    maxlongitude: 25.46843
+    maxlatitude: 57.555218
+    latitude: 57.538467
+    longitude: 25.426361
 - name: Gulbenes Aprinkis
   names:
   - Gulbenes Aprinkis
@@ -278,24 +68,10 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Madonas Aprinkis
+- name: Rigas Aprinkis
   names:
-  - Madonas Aprinkis
-  code: MA
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 49.84987
-    longitude: 18.272385
-- name: Aizkraukles Aprinkis
-  names:
-  - Aizkraukles Aprinkis
-  code: AI
+  - Rigas Aprinkis
+  code: RI
   countryalpha2: LV
   coordinates:
     longitudestring: ""
@@ -306,94 +82,10 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Balvu Aprinkis
+- name: Ventspils Aprinkis
   names:
-  - Balvu Aprinkis
-  code: BL
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Preilu Aprinkis
-  names:
-  - Preiju
-  code: PR
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Kuldigas Aprinkis
-  names:
-  - Kuldigas Aprinkis
-  code: KU
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Liepajas Aprinkis
-  names:
-  - Liepajas Aprinkis
-  code: LE
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Rezekne
-  names:
-  - Rezekne
-  code: REZ
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.30385
-    minlatitude: 56.47755
-    maxlongitude: 27.379452
-    maxlatitude: 56.53846
-    latitude: 56.509922
-    longitude: 27.333136
-- name: Riga
-  names:
-  - Riga
-  code: RIX
-  countryalpha2: LV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.933659
-    minlatitude: 56.85703
-    maxlongitude: 24.324665
-    maxlatitude: 57.085922
-    latitude: 56.94965
-    longitude: 24.105186
-- name: Ventspils
-  names:
-  - Ventspils
-  code: VEN
+  - Ventspils Aprinkis
+  code: VE
   countryalpha2: LV
   coordinates:
     longitudestring: ""
@@ -418,10 +110,178 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Cesu Aprinkis
+- name: Kuldigas Aprinkis
   names:
-  - Cesu Aprinkis
-  code: CE
+  - Kuldigas Aprinkis
+  code: KU
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Liepaja
+  names:
+  - Liepaja
+  code: LPX
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.971237
+    minlatitude: 56.46469
+    maxlongitude: 21.105734
+    maxlatitude: 56.6092
+    latitude: 56.50467
+    longitude: 21.010805
+- name: Rezekne
+  names:
+  - Rezekne
+  code: REZ
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.30385
+    minlatitude: 56.47755
+    maxlongitude: 27.379452
+    maxlatitude: 56.53846
+    latitude: 56.509922
+    longitude: 27.333136
+- name: Aizkraukles Aprinkis
+  names:
+  - Aizkraukles Aprinkis
+  code: AI
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Dobeles Aprinkis
+  names:
+  - Dobeles Aprinkis
+  code: DO
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.253553
+    minlatitude: 56.60041
+    maxlongitude: 23.31283
+    maxlatitude: 56.644936
+    latitude: 56.624905
+    longitude: 23.279106
+- name: Kraslavas Aprinkis
+  names:
+  - Kraslavas Aprinkis
+  code: KR
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Jelgava
+  names:
+  - Jelgava
+  code: JEL
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.623268
+    minlatitude: 56.596752
+    maxlongitude: 23.800278
+    maxlatitude: 56.691635
+    latitude: 56.651108
+    longitude: 23.721354
+- name: Limbažu Aprinkis
+  names:
+  - Limbažu Aprinkis
+  code: LM
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Madonas Aprinkis
+  names:
+  - Madonas Aprinkis
+  code: MA
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.84987
+    longitude: 18.272385
+- name: Rezeknes Aprinkis
+  names:
+  - Rezeknes Aprinkis
+  code: RE
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Riga
+  names:
+  - Riga
+  code: RIX
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.933659
+    minlatitude: 56.85703
+    maxlongitude: 24.324665
+    maxlatitude: 57.085922
+    latitude: 56.94965
+    longitude: 24.105186
+- name: Tukuma Aprinkis
+  names:
+  - Tukuma Aprinkis
+  code: TU
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.101654
+    minlatitude: 56.949627
+    maxlongitude: 23.205055
+    maxlatitude: 56.988052
+    latitude: 56.969666
+    longitude: 23.15319
+- name: Jekabpils Aprinkis
+  names:
+  - Jekabpils Aprinkis
+  code: JK
   countryalpha2: LV
   coordinates:
     longitudestring: ""
@@ -446,17 +306,157 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Talsu Aprinkis
+- name: Jelgavas Aprinkis
   names:
-  - Talsu Aprinkis
-  code: TA
+  - Jelgavas Aprinkis
+  code: JL
   countryalpha2: LV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.553785
-    minlatitude: 57.227596
-    maxlongitude: 22.621593
-    maxlatitude: 57.265102
-    latitude: 57.24804
-    longitude: 22.587385
+    minlongitude: 23.623268
+    minlatitude: 56.596752
+    maxlongitude: 23.800278
+    maxlatitude: 56.691635
+    latitude: 56.651108
+    longitude: 23.721354
+- name: Jurmala
+  names:
+  - Jurmala
+  code: JUR
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.47297
+    minlatitude: 56.923885
+    maxlongitude: 23.969347
+    maxlatitude: 57.007046
+    latitude: 56.94708
+    longitude: 23.616848
+- name: Liepajas Aprinkis
+  names:
+  - Liepajas Aprinkis
+  code: LE
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Preilu Aprinkis
+  names:
+  - Preiju
+  code: PR
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Valkas Aprinkis
+  names:
+  - Valkas Aprinkis
+  code: VK
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Balvu Aprinkis
+  names:
+  - Balvu Aprinkis
+  code: BL
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bauskas Aprinkis
+  names:
+  - Bauskas Aprinkis
+  code: BU
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Daugavpils Aprinkis
+  names:
+  - Daugavpils Aprinkis
+  code: DA
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.438293
+    minlatitude: 55.836143
+    maxlongitude: 26.636137
+    maxlatitude: 55.95554
+    latitude: 55.874737
+    longitude: 26.536179
+- name: Daugavpils
+  names:
+  - Daugavpils
+  code: DGV
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.438293
+    minlatitude: 55.836143
+    maxlongitude: 26.636137
+    maxlatitude: 55.95554
+    latitude: 55.874737
+    longitude: 26.536179
+- name: Saldus Aprinkis
+  names:
+  - Saldus Aprinkis
+  code: SA
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.45961
+    minlatitude: 56.64567
+    maxlongitude: 22.525232
+    maxlatitude: 56.685524
+    latitude: 56.665302
+    longitude: 22.492168
+- name: Ventspils
+  names:
+  - Ventspils
+  code: VEN
+  countryalpha2: LV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.515726
+    minlatitude: 57.348095
+    maxlongitude: 21.673664
+    maxlatitude: 57.470722
+    latitude: 57.393723
+    longitude: 21.564707

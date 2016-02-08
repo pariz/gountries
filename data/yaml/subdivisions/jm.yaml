@@ -1,31 +1,3 @@
-- name: Saint Thomas
-  names:
-  - Saint Thomas
-  code: "03"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.66407
-    minlatitude: 17.850225
-    maxlongitude: -76.18316
-    maxlatitude: 18.087992
-    latitude: 17.970026
-    longitude: -76.43317
-- name: Kingston
-  names:
-  - Kingston
-  code: "01"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.87194
-    minlatitude: 17.963467
-    maxlongitude: -76.72937
-    maxlatitude: 18.072407
-    latitude: 17.983334
-    longitude: -76.8
 - name: Saint Andrew
   names:
   - Saint Andrew
@@ -40,90 +12,20 @@
     maxlatitude: 18.011791
     latitude: 18.002892
     longitude: -76.84183
-- name: Saint Mary
+- name: Saint Thomas
   names:
-  - Saint Mary
-  code: "05"
+  - Saint Thomas
+  code: "03"
   countryalpha2: JM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -77.0712
-    minlatitude: 18.138811
-    maxlongitude: -76.70118
-    maxlatitude: 18.422186
-    latitude: 18.30927
-    longitude: -76.96431
-- name: Trelawny
-  names:
-  - Trelawny
-  code: "07"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.77746
-    minlatitude: 18.202322
-    maxlongitude: -77.44148
-    maxlatitude: 18.511423
-    latitude: 18.352613
-    longitude: -77.60779
-- name: Saint Ann
-  names:
-  - Saint Ann
-  code: "06"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.49265
-    minlatitude: 18.179688
-    maxlongitude: -77.00159
-    maxlatitude: 18.478876
-    latitude: 18.328142
-    longitude: -77.24052
-- name: Hanover
-  names:
-  - Hanover
-  code: "09"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.34311
-    minlatitude: 18.305162
-    maxlongitude: -77.9131
-    maxlatitude: 18.462881
-    latitude: 18.409771
-    longitude: -78.13364
-- name: Saint Elizabeth
-  names:
-  - Saint Elizabeth
-  code: "11"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.95635
-    minlatitude: 17.85439
-    maxlongitude: -77.56239
-    maxlatitude: 18.24978
-    latitude: 18.078846
-    longitude: -77.69942
-- name: Clarendon
-  names:
-  - Clarendon
-  code: "13"
-  countryalpha2: JM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.49265
-    minlatitude: 17.705725
-    maxlongitude: -77.12531
-    maxlatitude: 18.217482
-    latitude: 17.955719
-    longitude: -77.24052
+    minlongitude: -76.66407
+    minlatitude: 17.850225
+    maxlongitude: -76.18316
+    maxlatitude: 18.087992
+    latitude: 17.970026
+    longitude: -76.43317
 - name: Saint Catherine
   names:
   - Saint Catherine
@@ -138,6 +40,62 @@
     maxlatitude: 18.258774
     latitude: 18.036413
     longitude: -77.05645
+- name: Kingston
+  names:
+  - Kingston
+  code: "01"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.87194
+    minlatitude: 17.963467
+    maxlongitude: -76.72937
+    maxlatitude: 18.072407
+    latitude: 17.983334
+    longitude: -76.8
+- name: Saint Ann
+  names:
+  - Saint Ann
+  code: "06"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.49265
+    minlatitude: 18.179688
+    maxlongitude: -77.00159
+    maxlatitude: 18.478876
+    latitude: 18.328142
+    longitude: -77.24052
+- name: Trelawny
+  names:
+  - Trelawny
+  code: "07"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.77746
+    minlatitude: 18.202322
+    maxlongitude: -77.44148
+    maxlatitude: 18.511423
+    latitude: 18.352613
+    longitude: -77.60779
+- name: Manchester
+  names:
+  - Manchester
+  code: "12"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.63701
+    minlatitude: 17.838772
+    maxlongitude: -77.344826
+    maxlatitude: 18.249247
+    latitude: 18.066965
+    longitude: -77.516075
 - name: Portland
   names:
   - Portland
@@ -152,6 +110,20 @@
     maxlatitude: 18.267006
     latitude: 18.084427
     longitude: -76.41003
+- name: Hanover
+  names:
+  - Hanover
+  code: "09"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.34311
+    minlatitude: 18.305162
+    maxlongitude: -77.9131
+    maxlatitude: 18.462881
+    latitude: 18.409771
+    longitude: -78.13364
 - name: Saint James
   names:
   - Saint James
@@ -180,17 +152,45 @@
     maxlatitude: 18.360146
     latitude: 18.294437
     longitude: -78.15644
-- name: Manchester
+- name: Saint Elizabeth
   names:
-  - Manchester
-  code: "12"
+  - Saint Elizabeth
+  code: "11"
   countryalpha2: JM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -77.63701
-    minlatitude: 17.838772
-    maxlongitude: -77.344826
-    maxlatitude: 18.249247
-    latitude: 18.066965
-    longitude: -77.516075
+    minlongitude: -77.95635
+    minlatitude: 17.85439
+    maxlongitude: -77.56239
+    maxlatitude: 18.24978
+    latitude: 18.078846
+    longitude: -77.69942
+- name: Clarendon
+  names:
+  - Clarendon
+  code: "13"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.49265
+    minlatitude: 17.705725
+    maxlongitude: -77.12531
+    maxlatitude: 18.217482
+    latitude: 17.955719
+    longitude: -77.24052
+- name: Saint Mary
+  names:
+  - Saint Mary
+  code: "05"
+  countryalpha2: JM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.0712
+    minlatitude: 18.138811
+    maxlongitude: -76.70118
+    maxlatitude: 18.422186
+    latitude: 18.30927
+    longitude: -76.96431

@@ -13,36 +13,18 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  deu:
-    common: Nicaragua
-    official: Republik Nicaragua
-  fin:
+  FIN:
     common: Nicaragua
     official: Nicaraguan tasavalta
-  fra:
-    common: Nicaragua
-    official: République du Nicaragua
-  hrv:
-    common: Nikaragva
-    official: Republika Nikaragva
-  ita:
+  ITA:
     common: Nicaragua
     official: Repubblica del Nicaragua
-  jpn:
+  JPN:
     common: ニカラグア
     official: ニカラグア共和国
-  nld:
-    common: Nicaragua
-    official: Republiek Nicaragua
-  por:
+  POR:
     common: Nicarágua
     official: República da Nicarágua
-  rus:
-    common: Никарагуа
-    official: Республика Никарагуа
-  spa:
-    common: Nicaragua
-    official: República de Nicaragua
 currencies:
 - NIO
 borders:

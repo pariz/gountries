@@ -1,59 +1,3 @@
-- name: Aiga-i-le-Tai
-  names:
-  - Aiga-i-le-Tai
-  code: AL
-  countryalpha2: WS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -172.04652
-    minlatitude: -13.887839
-    maxlongitude: -172.00877
-    maxlatitude: -13.837026
-    latitude: -13.851379
-    longitude: -172.03255
-- name: Atua
-  names:
-  - Atua
-  code: AT
-  countryalpha2: WS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -171.7275
-    minlatitude: -14.040728
-    maxlongitude: -171.41772
-    maxlatitude: -13.861028
-    latitude: -13.978705
-    longitude: -171.62543
-- name: Fa'asaleleaga
-  names:
-  - Fa'asaleleaga
-  code: FA
-  countryalpha2: WS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -172.33635
-    minlatitude: -13.797492
-    maxlongitude: -172.17389
-    maxlatitude: -13.551286
-    latitude: -13.630764
-    longitude: -172.2366
-- name: Gaga'emauga
-  names:
-  - Gaga'emauga
-  code: GE
-  countryalpha2: WS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -172.41928
-    minlatitude: -14.00063
-    maxlongitude: -171.87703
-    maxlatitude: -13.440033
-    latitude: -13.542867
-    longitude: -172.36688
 - name: Satupa'itea
   names:
   - Satupa'itea
@@ -68,20 +12,6 @@
     maxlatitude: -13.751153
     latitude: -13.773117
     longitude: -172.33026
-- name: Tuamasaga
-  names:
-  - Tuamasaga
-  code: TU
-  countryalpha2: WS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -171.9204
-    minlatitude: -14.040928
-    maxlongitude: -171.69647
-    maxlatitude: -13.79293
-    latitude: -13.916359
-    longitude: -171.82243
 - name: Va'a-o-Fonoti
   names:
   - Va'a-o-Fonoti
@@ -96,20 +26,6 @@
     maxlatitude: -13.87306
     latitude: -13.94709
     longitude: -171.54318
-- name: Vaisigano
-  names:
-  - Vaisigano
-  code: VS
-  countryalpha2: WS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -172.7986
-    minlatitude: -13.607275
-    maxlongitude: -172.61214
-    maxlatitude: -13.490292
-    latitude: -13.541383
-    longitude: -172.70233
 - name: A'ana
   names:
   - A'ana
@@ -138,6 +54,34 @@
     maxlatitude: -13.445993
     latitude: -13.546801
     longitude: -172.49693
+- name: Fa'asaleleaga
+  names:
+  - Fa'asaleleaga
+  code: FA
+  countryalpha2: WS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -172.33635
+    minlatitude: -13.797492
+    maxlongitude: -172.17389
+    maxlatitude: -13.551286
+    latitude: -13.630764
+    longitude: -172.2366
+- name: Gaga'emauga
+  names:
+  - Gaga'emauga
+  code: GE
+  countryalpha2: WS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -172.41928
+    minlatitude: -14.00063
+    maxlongitude: -171.87703
+    maxlatitude: -13.440033
+    latitude: -13.542867
+    longitude: -172.36688
 - name: Palauli
   names:
   - Palauli
@@ -152,3 +96,59 @@
     maxlatitude: -13.61528
     latitude: -13.729458
     longitude: -172.45361
+- name: Tuamasaga
+  names:
+  - Tuamasaga
+  code: TU
+  countryalpha2: WS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -171.9204
+    minlatitude: -14.040928
+    maxlongitude: -171.69647
+    maxlatitude: -13.79293
+    latitude: -13.916359
+    longitude: -171.82243
+- name: Vaisigano
+  names:
+  - Vaisigano
+  code: VS
+  countryalpha2: WS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -172.7986
+    minlatitude: -13.607275
+    maxlongitude: -172.61214
+    maxlatitude: -13.490292
+    latitude: -13.541383
+    longitude: -172.70233
+- name: Aiga-i-le-Tai
+  names:
+  - Aiga-i-le-Tai
+  code: AL
+  countryalpha2: WS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -172.04652
+    minlatitude: -13.887839
+    maxlongitude: -172.00877
+    maxlatitude: -13.837026
+    latitude: -13.851379
+    longitude: -172.03255
+- name: Atua
+  names:
+  - Atua
+  code: AT
+  countryalpha2: WS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -171.7275
+    minlatitude: -14.040728
+    maxlongitude: -171.41772
+    maxlatitude: -13.861028
+    latitude: -13.978705
+    longitude: -171.62543

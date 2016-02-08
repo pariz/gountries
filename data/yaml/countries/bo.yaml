@@ -25,37 +25,28 @@ languages:
   que: Quechua
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Bolifia
     official: Plurinational State of Bolivia
-  deu:
-    common: Bolivien
-    official: Multinationaler Staat von Bolivien
-  fin:
-    common: Bolivia
-    official: Bolivian monikansainen valtio
-  fra:
+  FRA:
     common: Bolivie
     official: État plurinational de Bolivie
-  hrv:
+  HRV:
     common: Bolivija
     official: Plurinational State of Bolivia
-  ita:
+  ITA:
     common: Bolivia
     official: Stato Plurinazionale della Bolivia
-  jpn:
+  JPN:
     common: ボリビア多民族国
     official: ボリビアの多民族国
-  nld:
-    common: Bolivia
-    official: Plurinationale Staat van Bolivia
-  por:
+  POR:
     common: Bolívia
     official: Estado Plurinacional da Bolívia
-  rus:
+  RUS:
     common: Боливия
     official: Многонациональное Государство Боливия
-  spa:
+  SPA:
     common: Bolivia
     official: Estado Plurinacional de Bolivia
 currencies:

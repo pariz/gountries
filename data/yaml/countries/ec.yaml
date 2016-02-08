@@ -13,39 +13,24 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Ecwador
     official: Republic of Ecuador
-  deu:
-    common: Ecuador
-    official: Republik Ecuador
-  fin:
-    common: Ecuador
-    official: Ecuadorin tasavalta
-  fra:
+  FRA:
     common: Équateur
     official: République de l'Équateur
-  hrv:
+  HRV:
     common: Ekvador
     official: Republika Ekvador
-  ita:
-    common: Ecuador
-    official: Repubblica dell'Ecuador
-  jpn:
-    common: エクアドル
-    official: エクアドル共和国
-  nld:
+  NLD:
     common: Ecuador
     official: Republiek Ecuador
-  por:
+  POR:
     common: Equador
     official: República do Equador
-  rus:
+  RUS:
     common: Эквадор
     official: Республика Эквадор
-  spa:
-    common: Ecuador
-    official: República del Ecuador
 currencies:
 - USD
 borders:

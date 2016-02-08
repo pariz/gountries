@@ -13,37 +13,25 @@ tlds:
 languages:
   fra: French
 translations:
-  cym:
+  DEU:
     common: Burkina Faso
     official: Burkina Faso
-  deu:
-    common: Burkina Faso
-    official: Burkina Faso
-  fin:
-    common: Burkina Faso
-    official: Burkina Faso
-  fra:
+  FRA:
     common: Burkina Faso
     official: République du Burkina
-  hrv:
+  HRV:
     common: Burkina Faso
     official: Burkina Faso
-  ita:
+  ITA:
     common: Burkina Faso
     official: Burkina Faso
-  jpn:
-    common: ブルキナファソ
-    official: ブルキナファソ
-  nld:
+  NLD:
     common: Burkina Faso
     official: Burkina Faso
-  por:
-    common: Burkina Faso
-    official: Burkina Faso
-  rus:
+  RUS:
     common: Буркина-Фасо
     official: Буркина -Фасо
-  spa:
+  SPA:
     common: Burkina Faso
     official: Burkina Faso
 currencies:

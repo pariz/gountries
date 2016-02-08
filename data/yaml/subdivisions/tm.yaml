@@ -1,3 +1,17 @@
+- name: Balkan
+  names:
+  - Balkan
+  code: B
+  countryalpha2: TM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 52.444603
+    minlatitude: 37.30918
+    maxlongitude: 57.199726
+    maxlatitude: 42.3435
+    latitude: 40.946888
+    longitude: 54.495243
 - name: Dasoguz
   names:
   - Dashhovuz
@@ -78,17 +92,3 @@
     maxlatitude: 40.197323
     latitude: 38.63994
     longitude: 59.47209
-- name: Balkan
-  names:
-  - Balkan
-  code: B
-  countryalpha2: TM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 52.444603
-    minlatitude: 37.30918
-    maxlongitude: 57.199726
-    maxlatitude: 42.3435
-    latitude: 40.946888
-    longitude: 54.495243

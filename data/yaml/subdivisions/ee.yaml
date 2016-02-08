@@ -1,3 +1,32 @@
+- name: Hiiumaa
+  names:
+  - Dagden
+  - Dagö
+  code: "39"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.038816
+    minlatitude: 58.68709
+    maxlongitude: 23.180132
+    maxlatitude: 59.09294
+    latitude: 58.923954
+    longitude: 22.591948
+- name: Põlvamaa
+  names:
+  - Polvamaa
+  code: "65"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.566257
+    minlatitude: 57.81741
+    maxlongitude: 27.818998
+    maxlatitude: 58.268238
+    latitude: 58.116062
+    longitude: 27.20664
 - name: Pärnumaa
   names:
   - Pärnumaa
@@ -26,20 +55,6 @@
     maxlatitude: 59.227985
     latitude: 58.849262
     longitude: 24.734657
-- name: Tartumaa
-  names:
-  - Tartumaa
-  code: "78"
-  countryalpha2: EE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.078548
-    minlatitude: 58.11304
-    maxlongitude: 27.532303
-    maxlatitude: 58.682793
-    latitude: 58.405712
-    longitude: 26.801577
 - name: Järvamaa
   names:
   - Järvamaa
@@ -54,34 +69,6 @@
     maxlatitude: 59.269653
     latitude: 58.886673
     longitude: 25.500063
-- name: Läänemaa
-  names:
-  - Läänemaa
-  code: "57"
-  countryalpha2: EE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.077835
-    minlatitude: 58.534504
-    maxlongitude: 24.192596
-    maxlatitude: 59.304363
-    latitude: 58.89072
-    longitude: 23.79258
-- name: Lääne-Virumaa
-  names:
-  - Lääne-Virumaa
-  code: "59"
-  countryalpha2: EE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.536398
-    minlatitude: 58.87693
-    maxlongitude: 26.952736
-    maxlatitude: 59.822018
-    latitude: 59.30188
-    longitude: 26.328032
 - name: Saaremaa
   names:
   - Saare
@@ -97,35 +84,6 @@
     maxlatitude: 58.642124
     latitude: 58.484974
     longitude: 22.61364
-- name: Hiiumaa
-  names:
-  - Dagden
-  - Dagö
-  code: "39"
-  countryalpha2: EE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.038816
-    minlatitude: 58.68709
-    maxlongitude: 23.180132
-    maxlatitude: 59.09294
-    latitude: 58.923954
-    longitude: 22.591948
-- name: Jõgevamaa
-  names:
-  - Jogevamaa
-  code: "49"
-  countryalpha2: EE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.750229
-    minlatitude: 58.470867
-    maxlongitude: 27.163391
-    maxlatitude: 58.96892
-    latitude: 58.69472
-    longitude: 26.39023
 - name: Valgamaa
   names:
   - Valgamaa
@@ -154,20 +112,34 @@
     maxlatitude: 59.500565
     latitude: 59.259266
     longitude: 27.413654
-- name: Põlvamaa
+- name: Jõgevamaa
   names:
-  - Polvamaa
-  code: "65"
+  - Jogevamaa
+  code: "49"
   countryalpha2: EE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.566257
-    minlatitude: 57.81741
-    maxlongitude: 27.818998
-    maxlatitude: 58.268238
-    latitude: 58.116062
-    longitude: 27.20664
+    minlongitude: 25.750229
+    minlatitude: 58.470867
+    maxlongitude: 27.163391
+    maxlatitude: 58.96892
+    latitude: 58.69472
+    longitude: 26.39023
+- name: Tartumaa
+  names:
+  - Tartumaa
+  code: "78"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.078548
+    minlatitude: 58.11304
+    maxlongitude: 27.532303
+    maxlatitude: 58.682793
+    latitude: 58.405712
+    longitude: 26.801577
 - name: Viljandimaa
   names:
   - Viljandimaa
@@ -210,3 +182,31 @@
     maxlatitude: 59.685703
     latitude: 59.333424
     longitude: 25.246696
+- name: Läänemaa
+  names:
+  - Läänemaa
+  code: "57"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.077835
+    minlatitude: 58.534504
+    maxlongitude: 24.192596
+    maxlatitude: 59.304363
+    latitude: 58.89072
+    longitude: 23.79258
+- name: Lääne-Virumaa
+  names:
+  - Lääne-Virumaa
+  code: "59"
+  countryalpha2: EE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.536398
+    minlatitude: 58.87693
+    maxlongitude: 26.952736
+    maxlatitude: 59.822018
+    latitude: 59.30188
+    longitude: 26.328032

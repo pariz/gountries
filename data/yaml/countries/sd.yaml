@@ -17,36 +17,18 @@ languages:
   ara: Arabic
   eng: English
 translations:
-  deu:
-    common: Sudan
-    official: Republik Sudan
-  fin:
+  FIN:
     common: Sudan
     official: Sudanin tasavalta
-  fra:
+  FRA:
     common: Soudan
     official: République du Soudan
-  hrv:
+  HRV:
     common: Sudan
     official: Republika Sudan
-  ita:
-    common: Sudan
-    official: Repubblica del Sudan
-  jpn:
+  JPN:
     common: スーダン
     official: スーダン共和国
-  nld:
-    common: Soedan
-    official: Republiek Soedan
-  por:
-    common: Sudão
-    official: República do Sudão
-  rus:
-    common: Судан
-    official: Республика Судан
-  spa:
-    common: Sudán
-    official: República de Sudán
 currencies:
 - SDG
 borders:

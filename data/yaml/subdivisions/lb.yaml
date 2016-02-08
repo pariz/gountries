@@ -1,31 +1,3 @@
-- name: Loubnâne ej Jnoûbi
-  names:
-  - South
-  code: JA
-  countryalpha2: LB
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Jabal Loubnâne
-  names:
-  - Mount Lebanon
-  code: JL
-  countryalpha2: LB
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.38587
-    minlatitude: 33.491684
-    maxlongitude: 36.015064
-    maxlatitude: 34.21135
-    latitude: 33.904663
-    longitude: 35.697
 - name: Nabatîyé
   names:
   - Nabatiyeh
@@ -88,3 +60,31 @@
     maxlatitude: 0
     latitude: 33.761604
     longitude: 35.883545
+- name: Loubnâne ej Jnoûbi
+  names:
+  - South
+  code: JA
+  countryalpha2: LB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Jabal Loubnâne
+  names:
+  - Mount Lebanon
+  code: JL
+  countryalpha2: LB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.38587
+    minlatitude: 33.491684
+    maxlongitude: 36.015064
+    maxlatitude: 34.21135
+    latitude: 33.904663
+    longitude: 35.697

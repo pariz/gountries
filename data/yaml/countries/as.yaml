@@ -17,34 +17,25 @@ languages:
   eng: English
   smo: Samoan
 translations:
-  deu:
-    common: Amerikanisch-Samoa
-    official: Amerikanisch-Samoa
-  fin:
+  FIN:
     common: Amerikan Samoa
     official: Amerikan Samoa
-  fra:
+  FRA:
     common: Samoa américaines
     official: Samoa américaines
-  hrv:
-    common: Američka Samoa
-    official: američka Samoa
-  ita:
+  ITA:
     common: Samoa Americane
     official: Samoa americane
-  jpn:
+  JPN:
     common: アメリカ領サモア
     official: 米サモア
-  nld:
+  NLD:
     common: Amerikaans Samoa
     official: Amerikaans Samoa
-  por:
-    common: Samoa Americana
-    official: Samoa americana
-  rus:
+  RUS:
     common: Американское Самоа
     official: американское Самоа
-  spa:
+  SPA:
     common: Samoa Americana
     official: Samoa Americana
 currencies:

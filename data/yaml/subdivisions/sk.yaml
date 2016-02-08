@@ -1,3 +1,45 @@
+- name: Košický kraj
+  names:
+  - Košický kraj
+  code: KI
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.181139
+    minlatitude: 48.332516
+    maxlongitude: 22.387726
+    maxlatitude: 49.019753
+    latitude: 48.637573
+    longitude: 21.083422
+- name: Nitriansky kraj
+  names:
+  - Nitriansky kraj
+  code: NI
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.707273
+    minlatitude: 47.731377
+    maxlongitude: 19.072407
+    maxlatitude: 48.714523
+    latitude: 48.014378
+    longitude: 18.54165
+- name: Prešovský kraj
+  names:
+  - Prešovský kraj
+  code: PV
+  countryalpha2: SK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.869034
+    minlatitude: 48.762623
+    maxlongitude: 22.56586
+    maxlatitude: 49.460823
+    latitude: 49.171677
+    longitude: 21.3742
 - name: Trnavský kraj
   names:
   - Trnavský kraj
@@ -68,45 +110,3 @@
     maxlatitude: 48.654396
     latitude: 48.31183
     longitude: 17.19733
-- name: Košický kraj
-  names:
-  - Košický kraj
-  code: KI
-  countryalpha2: SK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.181139
-    minlatitude: 48.332516
-    maxlongitude: 22.387726
-    maxlatitude: 49.019753
-    latitude: 48.637573
-    longitude: 21.083422
-- name: Nitriansky kraj
-  names:
-  - Nitriansky kraj
-  code: NI
-  countryalpha2: SK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.707273
-    minlatitude: 47.731377
-    maxlongitude: 19.072407
-    maxlatitude: 48.714523
-    latitude: 48.014378
-    longitude: 18.54165
-- name: Prešovský kraj
-  names:
-  - Prešovský kraj
-  code: PV
-  countryalpha2: SK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.869034
-    minlatitude: 48.762623
-    maxlongitude: 22.56586
-    maxlatitude: 49.460823
-    latitude: 49.171677
-    longitude: 21.3742

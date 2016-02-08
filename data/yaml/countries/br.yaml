@@ -13,39 +13,24 @@ tlds:
 languages:
   por: Portuguese
 translations:
-  cym:
-    common: Brasil
-    official: Federative Republic of Brazil
-  deu:
+  DEU:
     common: Brasilien
     official: Föderative Republik Brasilien
-  fin:
-    common: Brasilia
-    official: Brasilian liittotasavalta
-  fra:
+  FRA:
     common: Brésil
     official: République fédérative du Brésil
-  hrv:
-    common: Brazil
-    official: Savezne Republike Brazil
-  ita:
+  ITA:
     common: Brasile
     official: Repubblica federativa del Brasile
-  jpn:
+  JPN:
     common: ブラジル
     official: ブラジル連邦共和国
-  nld:
+  NLD:
     common: Brazilië
     official: Federale Republiek Brazilië
-  por:
-    common: Brasil
-    official: República Federativa do Brasil
-  rus:
+  RUS:
     common: Бразилия
     official: Федеративная Республика Бразилия
-  spa:
-    common: Brasil
-    official: República Federativa del Brasil
 currencies:
 - BRL
 borders:

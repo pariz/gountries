@@ -13,37 +13,16 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
-    common: Bermiwda
-    official: Bermuda
-  deu:
-    common: Bermuda
-    official: Bermuda
-  fin:
-    common: Bermuda
-    official: Bermuda
-  fra:
+  FRA:
     common: Bermudes
     official: Bermudes
-  hrv:
-    common: Bermudi
-    official: Bermuda
-  ita:
+  ITA:
     common: Bermuda
     official: Bermuda
-  jpn:
+  JPN:
     common: バミューダ
     official: バミューダ
-  nld:
-    common: Bermuda
-    official: Bermuda
-  por:
-    common: Bermudas
-    official: Bermudas
-  rus:
-    common: Бермудские Острова
-    official: Бермудские острова
-  spa:
+  SPA:
     common: Bermudas
     official: Bermuda
 currencies:

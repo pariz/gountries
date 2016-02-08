@@ -13,37 +13,25 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: El Salvador
     official: Republic of El Salvador
-  deu:
+  DEU:
     common: El Salvador
     official: Republik El Salvador
-  fin:
+  FIN:
     common: El Salvador
     official: El Salvadorin tasavalta
-  fra:
-    common: Salvador
-    official: République du Salvador
-  hrv:
+  HRV:
     common: Salvador
     official: Republika El Salvador
-  ita:
-    common: El Salvador
-    official: Repubblica di El Salvador
-  jpn:
+  JPN:
     common: エルサルバドル
     official: エルサルバドル共和国
-  nld:
+  NLD:
     common: El Salvador
     official: Republiek El Salvador
-  por:
-    common: El Salvador
-    official: República de El Salvador
-  rus:
-    common: Сальвадор
-    official: Республика Эль-Сальвадор
-  spa:
+  POR:
     common: El Salvador
     official: República de El Salvador
 currencies:

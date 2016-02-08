@@ -13,34 +13,25 @@ tlds:
 languages:
   lao: Lao
 translations:
-  deu:
+  DEU:
     common: Laos
     official: Laos, Demokratische Volksrepublik
-  fin:
-    common: Laos
-    official: Laosin demokraattinen kansantasavalta
-  fra:
+  FRA:
     common: Laos
     official: République démocratique populaire lao
-  hrv:
-    common: Laos
-    official: Narodna Demokratska Republika
-  ita:
+  ITA:
     common: Laos
     official: Repubblica democratica popolare del Laos
-  jpn:
+  JPN:
     common: ラオス人民民主共和国
     official: ラオス人民民主共和国
-  nld:
+  NLD:
     common: Laos
     official: Lao Democratische Volksrepubliek
-  por:
+  POR:
     common: Laos
     official: Laos, República Democrática
-  rus:
-    common: Лаос
-    official: Лаосская Народно-Демократическая Республика
-  spa:
+  SPA:
     common: Laos
     official: República Democrática Popular Lao
 currencies:

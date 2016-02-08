@@ -21,37 +21,28 @@ languages:
   por: Portuguese
   spa: Spanish
 translations:
-  cym:
-    common: Gini Gyhydeddol
-    official: Republic of Equatorial Guinea
-  deu:
+  DEU:
     common: Äquatorialguinea
     official: Republik Äquatorialguinea
-  fin:
-    common: Päiväntasaajan Guinea
-    official: Päiväntasaajan Guinean tasavalta
-  fra:
+  FRA:
     common: Guinée équatoriale
     official: République de Guinée équatoriale
-  hrv:
-    common: Ekvatorijalna Gvineja
-    official: Republika Ekvatorska Gvineja
-  ita:
+  ITA:
     common: Guinea Equatoriale
     official: Repubblica della Guinea Equatoriale
-  jpn:
+  JPN:
     common: 赤道ギニア
     official: 赤道ギニア共和国
-  nld:
+  NLD:
     common: Equatoriaal-Guinea
     official: Republiek Equatoriaal-Guinea
-  por:
+  POR:
     common: Guiné Equatorial
     official: República da Guiné Equatorial
-  rus:
+  RUS:
     common: Экваториальная Гвинея
     official: Республика Экваториальная Гвинея
-  spa:
+  SPA:
     common: Guinea Ecuatorial
     official: República de Guinea Ecuatorial
 currencies:

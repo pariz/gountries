@@ -14,34 +14,28 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
+  DEU:
     common: Palästina
     official: Staat Palästina
-  fin:
+  FIN:
     common: Palestiina
     official: Palestiinan valtio
-  fra:
-    common: Palestine
-    official: État de Palestine
-  hrv:
+  HRV:
     common: Palestina
     official: State of Palestine
-  ita:
+  ITA:
     common: Palestina
     official: Stato di Palestina
-  jpn:
+  JPN:
     common: パレスチナ
     official: パレスチナ自治政府
-  nld:
+  NLD:
     common: Palestijnse gebieden
     official: Staat Palestina
-  por:
+  POR:
     common: Palestina
     official: Estado da Palestina
-  rus:
-    common: Палестина
-    official: Государство Палестина
-  spa:
+  SPA:
     common: Palestina
     official: Estado de Palestina
 currencies:

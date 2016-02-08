@@ -17,36 +17,18 @@ languages:
   eng: English
   sot: Sotho
 translations:
-  deu:
+  DEU:
     common: Lesotho
     official: Königreich Lesotho
-  fin:
+  FIN:
     common: Lesotho
     official: Lesothon kuningaskunta
-  fra:
-    common: Lesotho
-    official: Royaume du Lesotho
-  hrv:
-    common: Lesoto
-    official: Kraljevina Lesoto
-  ita:
+  ITA:
     common: Lesotho
     official: Regno del Lesotho
-  jpn:
-    common: レソト
-    official: レソト王国
-  nld:
+  NLD:
     common: Lesotho
     official: Koninkrijk Lesotho
-  por:
-    common: Lesoto
-    official: Reino do Lesoto
-  rus:
-    common: Лесото
-    official: Королевство Лесото
-  spa:
-    common: Lesotho
-    official: Reino de Lesotho
 currencies:
 - LSL
 - ZAR

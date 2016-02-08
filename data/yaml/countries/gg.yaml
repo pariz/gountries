@@ -21,34 +21,19 @@ languages:
   fra: French
   nfr: Guernésiais
 translations:
-  deu:
-    common: Guernsey
-    official: Guernsey
-  fin:
-    common: Guernsey
-    official: Guernsey
-  fra:
+  FRA:
     common: Guernesey
     official: Bailliage de Guernesey
-  hrv:
+  HRV:
     common: Guernsey
     official: Struka Guernsey
-  ita:
-    common: Guernsey
-    official: Baliato di Guernsey
-  jpn:
+  JPN:
     common: ガーンジー
     official: ガーンジーの得意分野
-  nld:
+  NLD:
     common: Guernsey
     official: Baljuwschap Guernsey
-  por:
-    common: Guernsey
-    official: Bailiado de Guernsey
-  rus:
-    common: Гернси
-    official: Коронное владение Гернси
-  spa:
+  SPA:
     common: Guernsey
     official: Bailía de Guernsey
 currencies:

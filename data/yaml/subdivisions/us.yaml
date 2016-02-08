@@ -1,326 +1,3 @@
-- name: Virginia
-  names:
-  - Virginia
-  code: VA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -83.675415
-    minlatitude: 36.54076
-    maxlongitude: -75.24216
-    maxlatitude: 39.46601
-    latitude: 37.431572
-    longitude: -78.65689
-- name: American Samoa
-  names:
-  - American Samoa
-  code: AS
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 21.323973
-    longitude: -157.8765
-- name: Connecticut
-  names:
-  - Connecticut
-  code: CT
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.727776
-    minlatitude: 40.98698
-    maxlongitude: -71.78724
-    maxlatitude: 42.050587
-    latitude: 41.60322
-    longitude: -73.087746
-- name: Kansas
-  names:
-  - Kansas
-  code: KS
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -102.051765
-    minlatitude: 36.993015
-    maxlongitude: -94.58839
-    maxlatitude: 40.004543
-    latitude: 39.0119
-    longitude: -98.484245
-- name: Maine
-  names:
-  - Maine
-  code: ME
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.084335
-    minlatitude: 42.974705
-    maxlongitude: -66.9454
-    maxlatitude: 47.459675
-    latitude: 45.253784
-    longitude: -69.445465
-- name: Oklahoma
-  names:
-  - Oklahoma
-  code: OK
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -103.00246
-    minlatitude: 33.615788
-    maxlongitude: -94.430664
-    maxlatitude: 37.00231
-    latitude: 35.00775
-    longitude: -97.09288
-- name: South Dakota
-  names:
-  - South Dakota
-  code: SD
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -104.05774
-    minlatitude: 42.479687
-    maxlongitude: -96.43659
-    maxlatitude: 45.945713
-    latitude: 43.969513
-    longitude: -99.90181
-- name: Armed Forces Europe
-  names:
-  - Armed Forces Europe
-  code: AE
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 59.90442
-    longitude: 10.740809
-- name: Hawaii
-  names:
-  - Hawaii
-  code: HI
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -178.30592
-    minlatitude: 18.91081
-    maxlongitude: -154.80678
-    maxlatitude: 28.40146
-    latitude: 19.896767
-    longitude: -155.58278
-- name: New Hampshire
-  names:
-  - New Hampshire
-  code: NH
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.55718
-    minlatitude: 42.696983
-    maxlongitude: -70.60265
-    maxlatitude: 45.305477
-    latitude: 43.19385
-    longitude: -71.572395
-- name: Puerto Rico
-  names:
-  - Puerto Rico
-  code: PR
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 32.72908
-    longitude: -117.1517
-- name: Armed Forces Americas
-  names:
-  - Armed Forces Americas
-  code: AA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -117.2985
-    minlatitude: 33.84033
-    maxlongitude: -117.2498
-    maxlatitude: 33.946068
-    latitude: 33.893497
-    longitude: -117.273254
-- name: New Mexico
-  names:
-  - New Mexico
-  code: NM
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -109.05017
-    minlatitude: 31.332172
-    maxlongitude: -103.00196
-    maxlatitude: 37.000294
-    latitude: 34.51994
-    longitude: -105.87009
-- name: Virgin Islands, U.S.
-  names:
-  - Virgin Islands, U.S.
-  code: VI
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 33.856987
-    longitude: -84.59041
-- name: West Virginia
-  names:
-  - West Virginia
-  code: WV
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -82.64442
-    minlatitude: 37.201538
-    maxlongitude: -77.71897
-    maxlatitude: 40.6388
-    latitude: 38.597626
-    longitude: -80.4549
-- name: California
-  names:
-  - Californie
-  - Kalifornien
-  code: CA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -124.40962
-    minlatitude: 32.534233
-    maxlongitude: -114.13121
-    maxlatitude: 42.009518
-    latitude: 36.77826
-    longitude: -119.41793
-- name: Ohio
-  names:
-  - Ohio
-  code: OH
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -84.820305
-    minlatitude: 38.403423
-    maxlongitude: -80.5182
-    maxlatitude: 41.977303
-    latitude: 40.417286
-    longitude: -82.90712
-- name: Colorado
-  names:
-  - Colorado
-  code: CO
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -109.06026
-    minlatitude: 36.992424
-    maxlongitude: -102.04088
-    maxlatitude: 41.003445
-    latitude: 39.55005
-    longitude: -105.78207
-- name: Illinois
-  names:
-  - Illinois
-  code: IL
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -91.51308
-    minlatitude: 36.9703
-    maxlongitude: -87.4952
-    maxlatitude: 42.50834
-    latitude: 40.633125
-    longitude: -89.39853
-- name: Alabama
-  names:
-  - Alabama
-  code: AL
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.47323
-    minlatitude: 30.194134
-    maxlongitude: -84.888245
-    maxlatitude: 35.00789
-    latitude: 32.31823
-    longitude: -86.9023
-- name: Missouri
-  names:
-  - Missouri
-  code: MO
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -95.774704
-    minlatitude: 35.99568
-    maxlongitude: -89.099495
-    maxlatitude: 40.61364
-    latitude: 37.964252
-    longitude: -91.83183
-- name: Armed Forces Pacific
-  names:
-  - Armed Forces Pacific
-  code: AP
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Arkansas
-  names:
-  - Arkansas
-  code: AR
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -94.61792
-    minlatitude: 33.004105
-    maxlongitude: -89.64484
-    maxlatitude: 36.49975
-    latitude: 35.20105
-    longitude: -91.83183
 - name: Florida
   names:
   - Florida
@@ -335,90 +12,20 @@
     maxlatitude: 0
     latitude: 27.664827
     longitude: -81.515755
-- name: Mississippi
+- name: Michigan
   names:
-  - Mississippi
-  code: MS
+  - Michigan
+  code: MI
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -91.65501
-    minlatitude: 30.174103
-    maxlongitude: -88.099434
-    maxlatitude: 34.99611
-    latitude: 32.354668
-    longitude: -89.39853
-- name: South Carolina
-  names:
-  - South Carolina
-  code: SC
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -83.35326
-    minlatitude: 32.03456
-    maxlongitude: -78.54082
-    maxlatitude: 35.21554
-    latitude: 33.836082
-    longitude: -81.16373
-- name: Delaware
-  names:
-  - Delaware
-  code: DE
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.78915
-    minlatitude: 38.45102
-    maxlongitude: -75.04869
-    maxlatitude: 39.839485
-    latitude: 38.91083
-    longitude: -75.52767
-- name: Idaho
-  names:
-  - Idaho
-  code: ID
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -117.24136
-    minlatitude: 41.988007
-    maxlongitude: -111.043495
-    maxlatitude: 49.001144
-    latitude: 44.068203
-    longitude: -114.74204
-- name: Montana
-  names:
-  - Montana
-  code: MT
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -116.05
-    minlatitude: 44.358208
-    maxlongitude: -104.039566
-    maxlatitude: 49.00139
-    latitude: 46.87968
-    longitude: -110.362564
-- name: Nevada
-  names:
-  - Nevada
-  code: NV
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -120.00647
-    minlatitude: 35.001858
-    maxlongitude: -114.03965
-    maxlatitude: 42.00221
-    latitude: 38.80261
-    longitude: -116.41939
+    minlongitude: -90.41814
+    minlatitude: 41.696117
+    maxlongitude: -82.39904
+    maxlatitude: 48.198647
+    latitude: 44.314846
+    longitude: -85.60236
 - name: Tennessee
   names:
   - Tennessee
@@ -433,24 +40,10 @@
     maxlatitude: 36.67812
     latitude: 35.51749
     longitude: -86.580444
-- name: Alaska
+- name: Armed Forces Pacific
   names:
-  - Alaska
-  code: AK
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 172.44452
-    minlatitude: 51.214767
-    maxlongitude: -129.99455
-    maxlatitude: 71.38687
-    latitude: 64.20084
-    longitude: -149.49367
-- name: Northern Mariana Islands
-  names:
-  - Northern Mariana Islands
-  code: MP
+  - Armed Forces Pacific
+  code: AP
   countryalpha2: US
   coordinates:
     longitudestring: ""
@@ -459,8 +52,36 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 15.146644
-    longitude: 145.7023
+    latitude: 0
+    longitude: 0
+- name: New Hampshire
+  names:
+  - New Hampshire
+  code: NH
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.55718
+    minlatitude: 42.696983
+    maxlongitude: -70.60265
+    maxlatitude: 45.305477
+    latitude: 43.19385
+    longitude: -71.572395
+- name: New Jersey
+  names:
+  - New Jersey
+  code: NJ
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.55979
+    minlatitude: 38.92856
+    maxlongitude: -73.902435
+    maxlatitude: 41.35742
+    latitude: 40.058323
+    longitude: -74.40566
 - name: Nebraska
   names:
   - Nebraska
@@ -475,90 +96,62 @@
     maxlatitude: 43.001705
     latitude: 41.49254
     longitude: -99.90181
-- name: Rhode Island
+- name: Armed Forces Americas
   names:
-  - Rhode Island
-  code: RI
+  - Armed Forces Americas
+  code: AA
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -71.89234
-    minlatitude: 41.146656
-    maxlongitude: -71.120544
-    maxlatitude: 42.0188
-    latitude: 41.580093
-    longitude: -71.47743
-- name: Vermont
+    minlongitude: -117.2985
+    minlatitude: 33.84033
+    maxlongitude: -117.2498
+    maxlatitude: 33.946068
+    latitude: 33.893497
+    longitude: -117.273254
+- name: Arizona
   names:
-  - Vermont
-  code: VT
+  - Arizona
+  code: AZ
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -73.43056
-    minlatitude: 42.72685
-    maxlongitude: -71.46504
-    maxlatitude: 45.01666
-    latitude: 44.558804
-    longitude: -72.57784
-- name: Washington
+    minlongitude: -114.81659
+    minlatitude: 31.332176
+    maxlongitude: -109.04522
+    maxlatitude: 37.00426
+    latitude: 34.048927
+    longitude: -111.093735
+- name: Delaware
   names:
-  - Washington
-  code: WA
+  - Delaware
+  code: DE
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -124.78571
-    minlatitude: 45.5486
-    maxlongitude: -116.91558
-    maxlatitude: 49.00243
-    latitude: 47.751076
-    longitude: -120.740135
-- name: Kentucky
+    minlongitude: -75.78915
+    minlatitude: 38.45102
+    maxlongitude: -75.04869
+    maxlatitude: 39.839485
+    latitude: 38.91083
+    longitude: -75.52767
+- name: Northern Mariana Islands
   names:
-  - Kentucky
-  code: KY
+  - Northern Mariana Islands
+  code: MP
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -89.57151
-    minlatitude: 36.497128
-    maxlongitude: -81.96497
-    maxlatitude: 39.147457
-    latitude: 37.839333
-    longitude: -84.27002
-- name: Louisiana
-  names:
-  - Louisiana
-  code: LA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -94.04335
-    minlatitude: 28.92543
-    maxlongitude: -88.81624
-    maxlatitude: 33.019543
-    latitude: 30.984297
-    longitude: -91.96233
-- name: New York
-  names:
-  - New York
-  code: NY
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.762146
-    minlatitude: 40.491367
-    maxlongitude: -71.85628
-    maxlatitude: 45.015865
-    latitude: 43.299427
-    longitude: -74.21793
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 15.146644
+    longitude: 145.7023
 - name: Georgia
   names:
   - Georgia
@@ -587,132 +180,34 @@
     maxlatitude: 41.760696
     latitude: 40.267193
     longitude: -86.1349
-- name: New Jersey
+- name: Kansas
   names:
-  - New Jersey
-  code: NJ
+  - Kansas
+  code: KS
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -75.55979
-    minlatitude: 38.92856
-    maxlongitude: -73.902435
-    maxlatitude: 41.35742
-    latitude: 40.058323
-    longitude: -74.40566
-- name: Oregon
+    minlongitude: -102.051765
+    minlatitude: 36.993015
+    maxlongitude: -94.58839
+    maxlatitude: 40.004543
+    latitude: 39.0119
+    longitude: -98.484245
+- name: Virginia
   names:
-  - Oregon
-  code: OR
+  - Virginia
+  code: VA
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -124.61294
-    minlatitude: 41.991795
-    maxlongitude: -116.463264
-    maxlatitude: 46.292015
-    latitude: 43.804134
-    longitude: -120.5542
-- name: Wisconsin
-  names:
-  - Wisconsin
-  code: WI
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -92.889435
-    minlatitude: 42.491863
-    maxlongitude: -86.76398
-    maxlatitude: 47.08073
-    latitude: 43.78444
-    longitude: -88.787865
-- name: Wyoming
-  names:
-  - Wyoming
-  code: WY
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -111.05689
-    minlatitude: 40.994747
-    maxlongitude: -104.052246
-    maxlatitude: 45.005905
-    latitude: 43.07597
-    longitude: -107.29028
-- name: Iowa
-  names:
-  - Iowa
-  code: IA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -96.639534
-    minlatitude: 40.37544
-    maxlongitude: -90.14006
-    maxlatitude: 43.501198
-    latitude: 41.878002
-    longitude: -93.0977
-- name: Massachusetts
-  names:
-  - Massachusetts
-  code: MA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.50814
-    minlatitude: 41.239044
-    maxlongitude: -69.92855
-    maxlatitude: 42.88679
-    latitude: 42.40721
-    longitude: -71.38244
-- name: Arizona
-  names:
-  - Arizona
-  code: AZ
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -114.81659
-    minlatitude: 31.332176
-    maxlongitude: -109.04522
-    maxlatitude: 37.00426
-    latitude: 34.048927
-    longitude: -111.093735
-- name: Pennsylvania
-  names:
-  - Pennsylvania
-  code: PA
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.5199
-    minlatitude: 39.7198
-    maxlongitude: -74.6895
-    maxlatitude: 42.269386
-    latitude: 41.203323
-    longitude: -77.19453
-- name: Guam
-  names:
-  - Guam
-  code: GU
-  countryalpha2: US
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 36.90194
-    longitude: -89.82361
+    minlongitude: -83.675415
+    minlatitude: 36.54076
+    maxlongitude: -75.24216
+    maxlatitude: 39.46601
+    latitude: 37.431572
+    longitude: -78.65689
 - name: Minnesota
   names:
   - Minnesota
@@ -727,20 +222,90 @@
     maxlatitude: 49.38282
     latitude: 46.729553
     longitude: -94.6859
-- name: Texas
+- name: Virgin Islands, U.S.
   names:
-  - Texas
-  code: TX
+  - Virgin Islands, U.S.
+  code: VI
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -106.645645
-    minlatitude: 25.837164
-    maxlongitude: -93.50804
-    maxlatitude: 36.500706
-    latitude: 31.9686
-    longitude: -99.90181
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 33.856987
+    longitude: -84.59041
+- name: Vermont
+  names:
+  - Vermont
+  code: VT
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.43056
+    minlatitude: 42.72685
+    maxlongitude: -71.46504
+    maxlatitude: 45.01666
+    latitude: 44.558804
+    longitude: -72.57784
+- name: New Mexico
+  names:
+  - New Mexico
+  code: NM
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -109.05017
+    minlatitude: 31.332172
+    maxlongitude: -103.00196
+    maxlatitude: 37.000294
+    latitude: 34.51994
+    longitude: -105.87009
+- name: Oklahoma
+  names:
+  - Oklahoma
+  code: OK
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -103.00246
+    minlatitude: 33.615788
+    maxlongitude: -94.430664
+    maxlatitude: 37.00231
+    latitude: 35.00775
+    longitude: -97.09288
+- name: South Carolina
+  names:
+  - South Carolina
+  code: SC
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -83.35326
+    minlatitude: 32.03456
+    maxlongitude: -78.54082
+    maxlatitude: 35.21554
+    latitude: 33.836082
+    longitude: -81.16373
+- name: Armed Forces Europe
+  names:
+  - Armed Forces Europe
+  code: AE
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 59.90442
+    longitude: 10.740809
 - name: Maryland
   names:
   - Maryland
@@ -755,34 +320,118 @@
     maxlatitude: 39.723038
     latitude: 39.045753
     longitude: -76.64127
-- name: Michigan
+- name: Maine
   names:
-  - Michigan
-  code: MI
+  - Maine
+  code: ME
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -90.41814
-    minlatitude: 41.696117
-    maxlongitude: -82.39904
-    maxlatitude: 48.198647
-    latitude: 44.314846
-    longitude: -85.60236
-- name: North Carolina
+    minlongitude: -71.084335
+    minlatitude: 42.974705
+    maxlongitude: -66.9454
+    maxlatitude: 47.459675
+    latitude: 45.253784
+    longitude: -69.445465
+- name: Mississippi
   names:
-  - North Carolina
-  code: NC
+  - Mississippi
+  code: MS
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -84.32187
-    minlatitude: 33.84097
-    maxlongitude: -75.45995
-    maxlatitude: 36.588158
-    latitude: 35.759575
-    longitude: -79.0193
+    minlongitude: -91.65501
+    minlatitude: 30.174103
+    maxlongitude: -88.099434
+    maxlatitude: 34.99611
+    latitude: 32.354668
+    longitude: -89.39853
+- name: Alaska
+  names:
+  - Alaska
+  code: AK
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 172.44452
+    minlatitude: 51.214767
+    maxlongitude: -129.99455
+    maxlatitude: 71.38687
+    latitude: 64.20084
+    longitude: -149.49367
+- name: Hawaii
+  names:
+  - Hawaii
+  code: HI
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -178.30592
+    minlatitude: 18.91081
+    maxlongitude: -154.80678
+    maxlatitude: 28.40146
+    latitude: 19.896767
+    longitude: -155.58278
+- name: Louisiana
+  names:
+  - Louisiana
+  code: LA
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -94.04335
+    minlatitude: 28.92543
+    maxlongitude: -88.81624
+    maxlatitude: 33.019543
+    latitude: 30.984297
+    longitude: -91.96233
+- name: Texas
+  names:
+  - Texas
+  code: TX
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -106.645645
+    minlatitude: 25.837164
+    maxlongitude: -93.50804
+    maxlatitude: 36.500706
+    latitude: 31.9686
+    longitude: -99.90181
+- name: Guam
+  names:
+  - Guam
+  code: GU
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 36.90194
+    longitude: -89.82361
+- name: Missouri
+  names:
+  - Missouri
+  code: MO
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -95.774704
+    minlatitude: 35.99568
+    maxlongitude: -89.099495
+    maxlatitude: 40.61364
+    latitude: 37.964252
+    longitude: -91.83183
 - name: United States Minor Outlying Islands
   names:
   - United States Minor Outlying Islands
@@ -797,34 +446,119 @@
     maxlatitude: 28.215097
     latitude: 28.202122
     longitude: -177.38045
-- name: Utah
+- name: Wisconsin
   names:
-  - Utah
-  code: UT
+  - Wisconsin
+  code: WI
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -114.053
-    minlatitude: 36.997902
-    maxlongitude: -109.04106
-    maxlatitude: 42.001617
-    latitude: 39.32098
-    longitude: -111.093735
-- name: District of Columbia
+    minlongitude: -92.889435
+    minlatitude: 42.491863
+    maxlongitude: -86.76398
+    maxlatitude: 47.08073
+    latitude: 43.78444
+    longitude: -88.787865
+- name: Alabama
   names:
-  - District of Columbia
-  code: DC
+  - Alabama
+  code: AL
   countryalpha2: US
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -77.11974
-    minlatitude: 38.80315
-    maxlongitude: -76.90939
-    maxlatitude: 38.99555
-    latitude: 38.907192
-    longitude: -77.03687
+    minlongitude: -88.47323
+    minlatitude: 30.194134
+    maxlongitude: -84.888245
+    maxlatitude: 35.00789
+    latitude: 32.31823
+    longitude: -86.9023
+- name: Kentucky
+  names:
+  - Kentucky
+  code: KY
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.57151
+    minlatitude: 36.497128
+    maxlongitude: -81.96497
+    maxlatitude: 39.147457
+    latitude: 37.839333
+    longitude: -84.27002
+- name: Ohio
+  names:
+  - Ohio
+  code: OH
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.820305
+    minlatitude: 38.403423
+    maxlongitude: -80.5182
+    maxlatitude: 41.977303
+    latitude: 40.417286
+    longitude: -82.90712
+- name: Puerto Rico
+  names:
+  - Puerto Rico
+  code: PR
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 32.72908
+    longitude: -117.1517
+- name: Oregon
+  names:
+  - Oregon
+  code: OR
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -124.61294
+    minlatitude: 41.991795
+    maxlongitude: -116.463264
+    maxlatitude: 46.292015
+    latitude: 43.804134
+    longitude: -120.5542
+- name: California
+  names:
+  - Californie
+  - Kalifornien
+  code: CA
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -124.40962
+    minlatitude: 32.534233
+    maxlongitude: -114.13121
+    maxlatitude: 42.009518
+    latitude: 36.77826
+    longitude: -119.41793
+- name: North Carolina
+  names:
+  - North Carolina
+  code: NC
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.32187
+    minlatitude: 33.84097
+    maxlongitude: -75.45995
+    maxlatitude: 36.588158
+    latitude: 35.759575
+    longitude: -79.0193
 - name: North Dakota
   names:
   - North Dakota
@@ -839,3 +573,269 @@
     maxlatitude: 49.00069
     latitude: 47.55149
     longitude: -101.002014
+- name: Nevada
+  names:
+  - Nevada
+  code: NV
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -120.00647
+    minlatitude: 35.001858
+    maxlongitude: -114.03965
+    maxlatitude: 42.00221
+    latitude: 38.80261
+    longitude: -116.41939
+- name: Utah
+  names:
+  - Utah
+  code: UT
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -114.053
+    minlatitude: 36.997902
+    maxlongitude: -109.04106
+    maxlatitude: 42.001617
+    latitude: 39.32098
+    longitude: -111.093735
+- name: Colorado
+  names:
+  - Colorado
+  code: CO
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -109.06026
+    minlatitude: 36.992424
+    maxlongitude: -102.04088
+    maxlatitude: 41.003445
+    latitude: 39.55005
+    longitude: -105.78207
+- name: Connecticut
+  names:
+  - Connecticut
+  code: CT
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.727776
+    minlatitude: 40.98698
+    maxlongitude: -71.78724
+    maxlatitude: 42.050587
+    latitude: 41.60322
+    longitude: -73.087746
+- name: Illinois
+  names:
+  - Illinois
+  code: IL
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -91.51308
+    minlatitude: 36.9703
+    maxlongitude: -87.4952
+    maxlatitude: 42.50834
+    latitude: 40.633125
+    longitude: -89.39853
+- name: South Dakota
+  names:
+  - South Dakota
+  code: SD
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -104.05774
+    minlatitude: 42.479687
+    maxlongitude: -96.43659
+    maxlatitude: 45.945713
+    latitude: 43.969513
+    longitude: -99.90181
+- name: American Samoa
+  names:
+  - American Samoa
+  code: AS
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 21.323973
+    longitude: -157.8765
+- name: Iowa
+  names:
+  - Iowa
+  code: IA
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -96.639534
+    minlatitude: 40.37544
+    maxlongitude: -90.14006
+    maxlatitude: 43.501198
+    latitude: 41.878002
+    longitude: -93.0977
+- name: Washington
+  names:
+  - Washington
+  code: WA
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -124.78571
+    minlatitude: 45.5486
+    maxlongitude: -116.91558
+    maxlatitude: 49.00243
+    latitude: 47.751076
+    longitude: -120.740135
+- name: Wyoming
+  names:
+  - Wyoming
+  code: WY
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -111.05689
+    minlatitude: 40.994747
+    maxlongitude: -104.052246
+    maxlatitude: 45.005905
+    latitude: 43.07597
+    longitude: -107.29028
+- name: New York
+  names:
+  - New York
+  code: NY
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.762146
+    minlatitude: 40.491367
+    maxlongitude: -71.85628
+    maxlatitude: 45.015865
+    latitude: 43.299427
+    longitude: -74.21793
+- name: West Virginia
+  names:
+  - West Virginia
+  code: WV
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -82.64442
+    minlatitude: 37.201538
+    maxlongitude: -77.71897
+    maxlatitude: 40.6388
+    latitude: 38.597626
+    longitude: -80.4549
+- name: Arkansas
+  names:
+  - Arkansas
+  code: AR
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -94.61792
+    minlatitude: 33.004105
+    maxlongitude: -89.64484
+    maxlatitude: 36.49975
+    latitude: 35.20105
+    longitude: -91.83183
+- name: Idaho
+  names:
+  - Idaho
+  code: ID
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -117.24136
+    minlatitude: 41.988007
+    maxlongitude: -111.043495
+    maxlatitude: 49.001144
+    latitude: 44.068203
+    longitude: -114.74204
+- name: Massachusetts
+  names:
+  - Massachusetts
+  code: MA
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.50814
+    minlatitude: 41.239044
+    maxlongitude: -69.92855
+    maxlatitude: 42.88679
+    latitude: 42.40721
+    longitude: -71.38244
+- name: Montana
+  names:
+  - Montana
+  code: MT
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -116.05
+    minlatitude: 44.358208
+    maxlongitude: -104.039566
+    maxlatitude: 49.00139
+    latitude: 46.87968
+    longitude: -110.362564
+- name: District of Columbia
+  names:
+  - District of Columbia
+  code: DC
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.11974
+    minlatitude: 38.80315
+    maxlongitude: -76.90939
+    maxlatitude: 38.99555
+    latitude: 38.907192
+    longitude: -77.03687
+- name: Pennsylvania
+  names:
+  - Pennsylvania
+  code: PA
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.5199
+    minlatitude: 39.7198
+    maxlongitude: -74.6895
+    maxlatitude: 42.269386
+    latitude: 41.203323
+    longitude: -77.19453
+- name: Rhode Island
+  names:
+  - Rhode Island
+  code: RI
+  countryalpha2: US
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.89234
+    minlatitude: 41.146656
+    maxlongitude: -71.120544
+    maxlatitude: 42.0188
+    latitude: 41.580093
+    longitude: -71.47743

@@ -1,17 +1,87 @@
-- name: Lima Metropolitana
+- name: El Callao
   names:
-  - Lima Metropolitana
-  code: X1~
+  - El Callao
+  code: CAL
   countryalpha2: PE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -77.08834
-    minlatitude: -12.079825
-    maxlongitude: -77.00203
-    maxlatitude: -12.030863
-    latitude: -12.046374
-    longitude: -77.04279
+    minlongitude: -77.15848
+    minlatitude: -12.070399
+    maxlongitude: -77.07682
+    maxlatitude: -11.936904
+    latitude: -12.050849
+    longitude: -77.125984
+- name: Huánuco
+  names:
+  - Huánuco
+  code: HUC
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.405624
+    minlatitude: -9.944271
+    maxlongitude: -76.18091
+    maxlatitude: -9.838303
+    latitude: -9.929846
+    longitude: -76.24326
+- name: Huancavelica
+  names:
+  - Huancavelica
+  code: HUV
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.999756
+    minlatitude: -12.791233
+    maxlongitude: -74.95118
+    maxlatitude: -12.774366
+    latitude: -12.786389
+    longitude: -74.975555
+- name: Moquegua
+  names:
+  - Moquegua
+  code: MOQ
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.97176
+    minlatitude: -17.217545
+    maxlongitude: -70.88821
+    maxlatitude: -17.164124
+    latitude: -17.192736
+    longitude: -70.932816
+- name: Tacna
+  names:
+  - Tacna
+  code: TAC
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.31422
+    minlatitude: -18.090054
+    maxlongitude: -70.18088
+    maxlatitude: -17.9557
+    latitude: -18.006567
+    longitude: -70.24628
+- name: Ucayali
+  names:
+  - Ucayali
+  code: UCA
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.96401
+    minlatitude: -11.442833
+    maxlongitude: -70.49636
+    maxlatitude: -7.292605
+    latitude: -9.825118
+    longitude: -73.087746
 - name: Apurímac
   names:
   - Apurímac
@@ -40,20 +110,132 @@
     maxlatitude: -13.119257
     latitude: -13.163874
     longitude: -74.223564
-- name: Huánuco
+- name: La Libertad
   names:
-  - Huánuco
-  code: HUC
+  - La Libertad
+  code: LAL
   countryalpha2: PE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -76.405624
-    minlatitude: -9.944271
-    maxlongitude: -76.18091
-    maxlatitude: -9.838303
-    latitude: -9.929846
-    longitude: -76.24326
+    minlongitude: -79.68024
+    minlatitude: -8.977443
+    maxlongitude: -76.89797
+    maxlatitude: -6.95362
+    latitude: -8.143593
+    longitude: -78.4752
+- name: Lambayeque
+  names:
+  - Lambayeque
+  code: LAM
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.60235
+    minlatitude: -7.178574
+    maxlongitude: -79.13194
+    maxlatitude: -5.540026
+    latitude: -6.477653
+    longitude: -79.91927
+- name: Puno
+  names:
+  - Puno
+  code: PUN
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.14517
+    minlatitude: -17.294243
+    maxlongitude: -68.82681
+    maxlatitude: -13.044418
+    latitude: -15.234875
+    longitude: -70.050316
+- name: Tumbes
+  names:
+  - Tumbes
+  code: TUM
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -81.033936
+    minlatitude: -4.2320952
+    maxlongitude: -80.15361
+    maxlatitude: -3.404815
+    latitude: -3.9338255
+    longitude: -80.543846
+- name: Pasco
+  names:
+  - Pasco
+  code: PAS
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.70467
+    minlatitude: -11.134321
+    maxlongitude: -74.12669
+    maxlatitude: -9.431508
+    latitude: -10.447576
+    longitude: -75.15454
+- name: Piura
+  names:
+  - Piura
+  code: PIU
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.71834
+    minlatitude: -5.24667
+    maxlongitude: -80.61527
+    maxlatitude: -5.139502
+    latitude: -5.2
+    longitude: -80.63333
+- name: Amazonas
+  names:
+  - Amazonas
+  code: AMA
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.712204
+    minlatitude: -6.976671
+    maxlongitude: -77.13442
+    maxlatitude: -2.990077
+    latitude: -5.115146
+    longitude: -78.110825
+- name: Arequipa
+  names:
+  - Areqepa
+  code: ARE
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.56468
+    minlatitude: -16.432833
+    maxlongitude: -71.51334
+    maxlatitude: -16.37527
+    latitude: -16.409048
+    longitude: -71.53745
+- name: Junín
+  names:
+  - Junín
+  code: JUN
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.513084
+    minlatitude: -12.681774
+    maxlongitude: -73.3523
+    maxlatitude: -10.665596
+    latitude: -11.335798
+    longitude: -75.34122
 - name: Lima
   names:
   - Lima
@@ -82,161 +264,6 @@
     maxlatitude: -0.012977
     latitude: -4.232473
     longitude: -74.21793
-- name: Tacna
-  names:
-  - Tacna
-  code: TAC
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.31422
-    minlatitude: -18.090054
-    maxlongitude: -70.18088
-    maxlatitude: -17.9557
-    latitude: -18.006567
-    longitude: -70.24628
-- name: Tumbes
-  names:
-  - Tumbes
-  code: TUM
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -81.033936
-    minlatitude: -4.2320952
-    maxlongitude: -80.15361
-    maxlatitude: -3.404815
-    latitude: -3.9338255
-    longitude: -80.543846
-- name: Cuzco [Cusco]
-  names:
-  - Cuzco
-  - Qosqo
-  code: CUS
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.02517
-    minlatitude: -13.562648
-    maxlongitude: -71.85333
-    maxlatitude: -13.497391
-    latitude: -13.53195
-    longitude: -71.96746
-- name: Junín
-  names:
-  - Junín
-  code: JUN
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.513084
-    minlatitude: -12.681774
-    maxlongitude: -73.3523
-    maxlatitude: -10.665596
-    latitude: -11.335798
-    longitude: -75.34122
-- name: Piura
-  names:
-  - Piura
-  code: PIU
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.71834
-    minlatitude: -5.24667
-    maxlongitude: -80.61527
-    maxlatitude: -5.139502
-    latitude: -5.2
-    longitude: -80.63333
-- name: Puno
-  names:
-  - Puno
-  code: PUN
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.14517
-    minlatitude: -17.294243
-    maxlongitude: -68.82681
-    maxlatitude: -13.044418
-    latitude: -15.234875
-    longitude: -70.050316
-- name: Ucayali
-  names:
-  - Ucayali
-  code: UCA
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.96401
-    minlatitude: -11.442833
-    maxlongitude: -70.49636
-    maxlatitude: -7.292605
-    latitude: -9.825118
-    longitude: -73.087746
-- name: Amazonas
-  names:
-  - Amazonas
-  code: AMA
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.712204
-    minlatitude: -6.976671
-    maxlongitude: -77.13442
-    maxlatitude: -2.990077
-    latitude: -5.115146
-    longitude: -78.110825
-- name: Huancavelica
-  names:
-  - Huancavelica
-  code: HUV
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.999756
-    minlatitude: -12.791233
-    maxlongitude: -74.95118
-    maxlatitude: -12.774366
-    latitude: -12.786389
-    longitude: -74.975555
-- name: Ica
-  names:
-  - Ica
-  code: ICA
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.46672
-    minlatitude: -15.435346
-    maxlongitude: -74.65894
-    maxlatitude: -12.965776
-    latitude: -13.937938
-    longitude: -75.80071
-- name: Lambayeque
-  names:
-  - Lambayeque
-  code: LAM
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.60235
-    minlatitude: -7.178574
-    maxlongitude: -79.13194
-    maxlatitude: -5.540026
-    latitude: -6.477653
-    longitude: -79.91927
 - name: Madre de Dios
   names:
   - Madre de Dios
@@ -265,6 +292,20 @@
     maxlatitude: -5.394637
     latitude: -7.2444882
     longitude: -76.825966
+- name: Lima Metropolitana
+  names:
+  - Lima Metropolitana
+  code: X1~
+  countryalpha2: PE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.08834
+    minlatitude: -12.079825
+    maxlongitude: -77.00203
+    maxlatitude: -12.030863
+    latitude: -12.046374
+    longitude: -77.04279
 - name: Ancash
   names:
   - Anqas
@@ -279,20 +320,6 @@
     maxlatitude: -8.013484
     latitude: -9.325049
     longitude: -77.56194
-- name: Arequipa
-  names:
-  - Areqepa
-  code: ARE
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.56468
-    minlatitude: -16.432833
-    maxlongitude: -71.51334
-    maxlatitude: -16.37527
-    latitude: -16.409048
-    longitude: -71.53745
 - name: Cajamarca
   names:
   - Cajamarca
@@ -307,59 +334,32 @@
     maxlatitude: -4.627273
     latitude: -6.4549675
     longitude: -78.838264
-- name: El Callao
+- name: Cuzco [Cusco]
   names:
-  - El Callao
-  code: CAL
+  - Cuzco
+  - Qosqo
+  code: CUS
   countryalpha2: PE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -77.15848
-    minlatitude: -12.070399
-    maxlongitude: -77.07682
-    maxlatitude: -11.936904
-    latitude: -12.050849
-    longitude: -77.125984
-- name: La Libertad
+    minlongitude: -72.02517
+    minlatitude: -13.562648
+    maxlongitude: -71.85333
+    maxlatitude: -13.497391
+    latitude: -13.53195
+    longitude: -71.96746
+- name: Ica
   names:
-  - La Libertad
-  code: LAL
+  - Ica
+  code: ICA
   countryalpha2: PE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.68024
-    minlatitude: -8.977443
-    maxlongitude: -76.89797
-    maxlatitude: -6.95362
-    latitude: -8.143593
-    longitude: -78.4752
-- name: Moquegua
-  names:
-  - Moquegua
-  code: MOQ
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.97176
-    minlatitude: -17.217545
-    maxlongitude: -70.88821
-    maxlatitude: -17.164124
-    latitude: -17.192736
-    longitude: -70.932816
-- name: Pasco
-  names:
-  - Pasco
-  code: PAS
-  countryalpha2: PE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.70467
-    minlatitude: -11.134321
-    maxlongitude: -74.12669
-    maxlatitude: -9.431508
-    latitude: -10.447576
-    longitude: -75.15454
+    minlongitude: -76.46672
+    minlatitude: -15.435346
+    maxlongitude: -74.65894
+    maxlatitude: -12.965776
+    latitude: -13.937938
+    longitude: -75.80071

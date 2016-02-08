@@ -21,34 +21,19 @@ languages:
   eng: English
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Guam
     official: Guam
-  fin:
+  FRA:
     common: Guam
     official: Guam
-  fra:
+  HRV:
     common: Guam
     official: Guam
-  hrv:
+  ITA:
     common: Guam
     official: Guam
-  ita:
-    common: Guam
-    official: Guam
-  jpn:
-    common: グアム
-    official: グアム
-  nld:
-    common: Guam
-    official: Guam
-  por:
-    common: Guam
-    official: Guam
-  rus:
-    common: Гуам
-    official: Гуам
-  spa:
+  SPA:
     common: Guam
     official: Guam
 currencies:

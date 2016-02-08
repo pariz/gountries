@@ -17,37 +17,25 @@ languages:
   ell: Greek
   tur: Turkish
 translations:
-  cym:
-    common: Cyprus
-    official: Republic of Cyprus
-  deu:
-    common: Zypern
-    official: Republik Zypern
-  fin:
+  FIN:
     common: Kypros
     official: Kyproksen tasavalta
-  fra:
+  FRA:
     common: Chypre
     official: République de Chypre
-  hrv:
+  HRV:
     common: Cipar
     official: Republika Cipar
-  ita:
+  ITA:
     common: Cipro
     official: Repubblica di Cipro
-  jpn:
+  JPN:
     common: キプロス
     official: キプロス共和国
-  nld:
-    common: Cyprus
-    official: Republiek Cyprus
-  por:
-    common: Chipre
-    official: República de Chipre
-  rus:
+  RUS:
     common: Кипр
     official: Республика Кипр
-  spa:
+  SPA:
     common: Chipre
     official: República de Chipre
 currencies:

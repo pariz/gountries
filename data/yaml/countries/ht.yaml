@@ -17,36 +17,27 @@ languages:
   fra: French
   hat: Haitian Creole
 translations:
-  deu:
+  DEU:
     common: Haiti
     official: Republik Haiti
-  fin:
-    common: Haiti
-    official: Haitin tasavalta
-  fra:
+  FRA:
     common: Haïti
     official: République d'Haïti
-  hrv:
-    common: Haiti
-    official: Republika Haiti
-  ita:
+  ITA:
     common: Haiti
     official: Repubblica di Haiti
-  jpn:
+  JPN:
     common: ハイチ
     official: ハイチ共和国
-  nld:
+  NLD:
     common: Haïti
     official: Republiek Haïti
-  por:
+  POR:
     common: Haiti
     official: República do Haiti
-  rus:
+  RUS:
     common: Гаити
     official: Республика Гаити
-  spa:
-    common: Haiti
-    official: República de Haití
 currencies:
 - HTG
 - USD

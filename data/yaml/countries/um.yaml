@@ -13,34 +13,22 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
-    common: Kleinere Inselbesitzungen der Vereinigten Staaten
-    official: USA, kleinere ausgelagerte Inseln
-  fin:
+  FIN:
     common: Yhdysvaltain asumattomat saaret
     official: Yhdysvaltain asumattomat saaret
-  fra:
+  FRA:
     common: Îles mineures éloignées des États-Unis
     official: Îles mineures éloignées des États-Unis
-  hrv:
+  HRV:
     common: Mali udaljeni otoci SAD-a
     official: Mali udaljeni otoci SAD-a
-  ita:
+  ITA:
     common: Isole minori esterne degli Stati Uniti d'America
     official: Stati Uniti Isole Minori
-  jpn:
-    common: 合衆国領有小離島
-    official: アメリカ合衆国外諸島
-  nld:
-    common: Kleine afgelegen eilanden van de Verenigde Staten
-    official: Kleine afgelegen eilanden van de Verenigde Staten
-  por:
-    common: Ilhas Menores Distantes dos Estados Unidos
-    official: Estados Unidos Ilhas Menores Distantes
-  rus:
+  RUS:
     common: Внешние малые острова США
     official: Внешние малые острова США
-  spa:
+  SPA:
     common: Islas Ultramarinas Menores de Estados Unidos
     official: Estados Unidos Islas menores alejadas de
 currencies:

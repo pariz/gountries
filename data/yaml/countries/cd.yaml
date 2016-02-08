@@ -29,37 +29,31 @@ languages:
   lua: Tshiluba
   swa: Swahili
 translations:
-  cym:
+  CYM:
     common: Gweriniaeth Ddemocrataidd Congo
     official: Democratic Republic of the Congo
-  deu:
+  DEU:
     common: Kongo (Dem. Rep.)
     official: Demokratische Republik Kongo
-  fin:
-    common: Kongon demokraattinen tasavalta
-    official: Kongon demokraattinen tasavalta
-  fra:
-    common: Congo (Rép. dém.)
-    official: République démocratique du Congo
-  hrv:
+  HRV:
     common: Kongo, Demokratska Republika
     official: Demokratska Republika Kongo
-  ita:
+  ITA:
     common: Congo (Rep. Dem.)
     official: Repubblica Democratica del Congo
-  jpn:
+  JPN:
     common: コンゴ民主共和国
     official: コンゴ民主共和国
-  nld:
+  NLD:
     common: Congo (DRC)
     official: Democratische Republiek Congo
-  por:
+  POR:
     common: República Democrática do Congo
     official: República Democrática do Congo
-  rus:
+  RUS:
     common: Демократическая Республика Конго
     official: Демократическая Республика Конго
-  spa:
+  SPA:
     common: Congo (Rep. Dem.)
     official: República Democrática del Congo
 currencies:

@@ -1,87 +1,3 @@
-- name: Serravalle
-  names:
-  - Serravalle
-  code: "09"
-  countryalpha2: SM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.448919
-    minlatitude: 43.95659
-    maxlongitude: 12.5159
-    maxlatitude: 43.992077
-    latitude: 43.969036
-    longitude: 12.47741
-- name: Fiorentino
-  names:
-  - Fiorentino
-  code: "05"
-  countryalpha2: SM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.43162
-    minlatitude: 43.89368
-    maxlongitude: 12.47782
-    maxlatitude: 43.922234
-    latitude: 43.907833
-    longitude: 12.458121
-- name: Borgo Maggiore
-  names:
-  - Borgo Maggiore
-  code: "06"
-  countryalpha2: SM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.428586
-    minlatitude: 43.918148
-    maxlongitude: 12.482757
-    maxlatitude: 43.96818
-    latitude: 43.95749
-    longitude: 12.455255
-- name: San Marino
-  names:
-  - Saint Marin
-  code: "07"
-  countryalpha2: SM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.438343
-    minlatitude: 43.92428
-    maxlongitude: 12.452966
-    maxlatitude: 43.94038
-    latitude: 43.93559
-    longitude: 12.447281
-- name: Montegiardino
-  names:
-  - Montegiardino
-  code: "08"
-  countryalpha2: SM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.480268
-    minlatitude: 43.906166
-    maxlongitude: 12.489835
-    maxlatitude: 43.91191
-    latitude: 43.909733
-    longitude: 12.486335
-- name: Acquaviva
-  names:
-  - Acquaviva
-  code: "01"
-  countryalpha2: SM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.403482
-    minlatitude: 43.933395
-    maxlongitude: 12.440807
-    maxlatitude: 43.95785
-    latitude: 43.945152
-    longitude: 12.417999
 - name: Chiesanuova
   names:
   - Poggio di Chiesanuova
@@ -110,6 +26,90 @@
     maxlatitude: 43.95311
     latitude: 43.95019
     longitude: 12.468154
+- name: Fiorentino
+  names:
+  - Fiorentino
+  code: "05"
+  countryalpha2: SM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.43162
+    minlatitude: 43.89368
+    maxlongitude: 12.47782
+    maxlatitude: 43.922234
+    latitude: 43.907833
+    longitude: 12.458121
+- name: San Marino
+  names:
+  - Saint Marin
+  code: "07"
+  countryalpha2: SM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.438343
+    minlatitude: 43.92428
+    maxlongitude: 12.452966
+    maxlatitude: 43.94038
+    latitude: 43.93559
+    longitude: 12.447281
+- name: Montegiardino
+  names:
+  - Montegiardino
+  code: "08"
+  countryalpha2: SM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.480268
+    minlatitude: 43.906166
+    maxlongitude: 12.489835
+    maxlatitude: 43.91191
+    latitude: 43.909733
+    longitude: 12.486335
+- name: Serravalle
+  names:
+  - Serravalle
+  code: "09"
+  countryalpha2: SM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.448919
+    minlatitude: 43.95659
+    maxlongitude: 12.5159
+    maxlatitude: 43.992077
+    latitude: 43.969036
+    longitude: 12.47741
+- name: Acquaviva
+  names:
+  - Acquaviva
+  code: "01"
+  countryalpha2: SM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.403482
+    minlatitude: 43.933395
+    maxlongitude: 12.440807
+    maxlatitude: 43.95785
+    latitude: 43.945152
+    longitude: 12.417999
+- name: Borgo Maggiore
+  names:
+  - Borgo Maggiore
+  code: "06"
+  countryalpha2: SM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.428586
+    minlatitude: 43.918148
+    maxlongitude: 12.482757
+    maxlatitude: 43.96818
+    latitude: 43.95749
+    longitude: 12.455255
 - name: Faetano
   names:
   - Faetano

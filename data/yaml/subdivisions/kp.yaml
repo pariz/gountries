@@ -1,117 +1,3 @@
-- name: Hamgyongnam-do
-  names:
-  - Hamgyongnamdo
-  - South Hamgyong
-  code: HAN
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.665306
-    minlatitude: 39.20133
-    maxlongitude: 129.16776
-    maxlatitude: 41.188465
-    latitude: 40.372536
-    longitude: 128.29889
-- name: Hwanghaebuk-do
-  names:
-  - North Hwanghae
-  code: HWB
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Kaesong-si
-  names:
-  - Kaesong-si
-  code: KAE
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.50482
-    minlatitude: 37.884068
-    maxlongitude: 126.69571
-    maxlatitude: 38.01564
-    latitude: 37.938194
-    longitude: 126.58779
-- name: Najin Sonbong-si
-  names:
-  - Najin Sonbong-si
-  code: NAJ
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 130.36964
-    minlatitude: 42.329464
-    maxlongitude: 130.40839
-    maxlatitude: 42.360542
-    latitude: 42.338394
-    longitude: 130.38748
-- name: Pyongyang-si
-  names:
-  - Pyongyang
-  code: PYO
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.5909
-    minlatitude: 38.951797
-    maxlongitude: 125.893326
-    maxlatitude: 39.106476
-    latitude: 39.03922
-    longitude: 125.76253
-- name: Chagang-do
-  names:
-  - Chagang
-  - Jagang
-  code: CHA
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.42604
-    minlatitude: 39.991375
-    maxlongitude: 127.49549
-    maxlatitude: 41.808517
-    latitude: 40.72028
-    longitude: 126.56211
-- name: Hwanghaenam-do
-  names:
-  - South Hwanghae
-  code: HWN
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.609215
-    minlatitude: 37.600483
-    maxlongitude: 126.436104
-    maxlatitude: 38.70929
-    latitude: 38.20072
-    longitude: 125.478195
-- name: Nampo-si
-  names:
-  - Nampo-si
-  code: NAM
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.507225
-    minlatitude: 36.250023
-    maxlongitude: 126.63478
-    maxlatitude: 36.33178
-    latitude: 36.304558
-    longitude: 126.60508
 - name: Pyonganbuk-do
   names:
   - North Phyongan
@@ -128,36 +14,6 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Yanggang-do
-  names:
-  - Ryanggang
-  code: YAN
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.902534
-    minlatitude: 40.416164
-    maxlongitude: 129.05037
-    maxlatitude: 42.095005
-    latitude: 41.23189
-    longitude: 128.50763
-- name: Kangwon-do
-  names:
-  - Gangweon
-  - Kangweon
-  - Kangwon
-  code: KAN
-  countryalpha2: KP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.67632
-    minlatitude: 38.14318
-    maxlongitude: 128.36293
-    maxlatitude: 39.407528
-    latitude: 38.84324
-    longitude: 127.55971
 - name: Pyongannam-do
   names:
   - Pyongannamdo
@@ -189,6 +45,91 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
+- name: Hwanghaebuk-do
+  names:
+  - North Hwanghae
+  code: HWB
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nampo-si
+  names:
+  - Nampo-si
+  code: NAM
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.507225
+    minlatitude: 36.250023
+    maxlongitude: 126.63478
+    maxlatitude: 36.33178
+    latitude: 36.304558
+    longitude: 126.60508
+- name: Yanggang-do
+  names:
+  - Ryanggang
+  code: YAN
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.902534
+    minlatitude: 40.416164
+    maxlongitude: 129.05037
+    maxlatitude: 42.095005
+    latitude: 41.23189
+    longitude: 128.50763
+- name: Chagang-do
+  names:
+  - Chagang
+  - Jagang
+  code: CHA
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.42604
+    minlatitude: 39.991375
+    maxlongitude: 127.49549
+    maxlatitude: 41.808517
+    latitude: 40.72028
+    longitude: 126.56211
+- name: Kaesong-si
+  names:
+  - Kaesong-si
+  code: KAE
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.50482
+    minlatitude: 37.884068
+    maxlongitude: 126.69571
+    maxlatitude: 38.01564
+    latitude: 37.938194
+    longitude: 126.58779
+- name: Pyongyang-si
+  names:
+  - Pyongyang
+  code: PYO
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.5909
+    minlatitude: 38.951797
+    maxlongitude: 125.893326
+    maxlatitude: 39.106476
+    latitude: 39.03922
+    longitude: 125.76253
 - name: Rason
   names:
   - Rason
@@ -203,3 +144,62 @@
     maxlatitude: 42.273678
     latitude: 42.256905
     longitude: 130.29771
+- name: Najin Sonbong-si
+  names:
+  - Najin Sonbong-si
+  code: NAJ
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 130.36964
+    minlatitude: 42.329464
+    maxlongitude: 130.40839
+    maxlatitude: 42.360542
+    latitude: 42.338394
+    longitude: 130.38748
+- name: Hamgyongnam-do
+  names:
+  - Hamgyongnamdo
+  - South Hamgyong
+  code: HAN
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.665306
+    minlatitude: 39.20133
+    maxlongitude: 129.16776
+    maxlatitude: 41.188465
+    latitude: 40.372536
+    longitude: 128.29889
+- name: Hwanghaenam-do
+  names:
+  - South Hwanghae
+  code: HWN
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.609215
+    minlatitude: 37.600483
+    maxlongitude: 126.436104
+    maxlatitude: 38.70929
+    latitude: 38.20072
+    longitude: 125.478195
+- name: Kangwon-do
+  names:
+  - Gangweon
+  - Kangweon
+  - Kangwon
+  code: KAN
+  countryalpha2: KP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.67632
+    minlatitude: 38.14318
+    maxlongitude: 128.36293
+    maxlatitude: 39.407528
+    latitude: 38.84324
+    longitude: 127.55971

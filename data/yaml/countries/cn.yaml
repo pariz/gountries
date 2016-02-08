@@ -17,37 +17,25 @@ tlds:
 languages:
   cmn: Mandarin
 translations:
-  cym:
-    common: Tsieina
-    official: People's Republic of China
-  deu:
-    common: China
-    official: Volksrepublik China
-  fin:
-    common: Kiina
-    official: Kiinan kansantasavalta
-  fra:
+  FRA:
     common: Chine
     official: République populaire de Chine
-  hrv:
-    common: Kina
-    official: Narodna Republika Kina
-  ita:
+  ITA:
     common: Cina
     official: Repubblica popolare cinese
-  jpn:
+  JPN:
     common: 中国
     official: 中華人民共和国
-  nld:
+  NLD:
     common: China
     official: Volksrepubliek China
-  por:
+  POR:
     common: China
     official: República Popular da China
-  rus:
+  RUS:
     common: Китай
     official: Народная Республика Китай
-  spa:
+  SPA:
     common: China
     official: República Popular de China
 currencies:

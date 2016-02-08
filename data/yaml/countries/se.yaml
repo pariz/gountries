@@ -13,34 +13,25 @@ tlds:
 languages:
   swe: Swedish
 translations:
-  deu:
+  DEU:
     common: Schweden
     official: Königreich Schweden
-  fin:
+  FIN:
     common: Ruotsi
     official: Ruotsin kuningaskunta
-  fra:
+  FRA:
     common: Suède
     official: Royaume de Suède
-  hrv:
-    common: Švedska
-    official: Kraljevina Švedska
-  ita:
+  ITA:
     common: Svezia
     official: Regno di Svezia
-  jpn:
+  JPN:
     common: スウェーデン
     official: スウェーデン王国
-  nld:
-    common: Zweden
-    official: Koninkrijk Zweden
-  por:
+  POR:
     common: Suécia
     official: Reino da Suécia
-  rus:
-    common: Швеция
-    official: Королевство Швеция
-  spa:
+  SPA:
     common: Suecia
     official: Reino de Suecia
 currencies:

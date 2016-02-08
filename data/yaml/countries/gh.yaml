@@ -13,34 +13,22 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  DEU:
     common: Ghana
     official: Republik Ghana
-  fin:
-    common: Ghana
-    official: Ghanan tasavalta
-  fra:
+  FRA:
     common: Ghana
     official: République du Ghana
-  hrv:
+  HRV:
     common: Gana
     official: Republika Gana
-  ita:
-    common: Ghana
-    official: Repubblica del Ghana
-  jpn:
+  JPN:
     common: ガーナ
     official: ガーナ共和国
-  nld:
-    common: Ghana
-    official: Republiek Ghana
-  por:
+  POR:
     common: Gana
     official: República do Gana
-  rus:
-    common: Гана
-    official: Республика Гана
-  spa:
+  SPA:
     common: Ghana
     official: República de Ghana
 currencies:

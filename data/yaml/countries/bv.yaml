@@ -13,34 +13,22 @@ tlds:
 languages:
   nor: Norwegian
 translations:
-  deu:
-    common: Bouvetinsel
-    official: Bouvet-Insel
-  fin:
+  FIN:
     common: Bouvet'nsaari
     official: Bouvet'nsaari
-  fra:
+  FRA:
     common: Île Bouvet
     official: Île Bouvet
-  hrv:
+  HRV:
     common: Otok Bouvet
     official: Bouvet Island
-  ita:
-    common: Isola Bouvet
-    official: Isola Bouvet
-  jpn:
-    common: ブーベ島
-    official: ブーヴェ島
-  nld:
+  NLD:
     common: Bouveteiland
     official: Bouvet Island
-  por:
+  POR:
     common: Ilha Bouvet
     official: Ilha Bouvet
-  rus:
-    common: Остров Буве
-    official: Остров Буве
-  spa:
+  SPA:
     common: Isla Bouvet
     official: Isla Bouvet
 currencies:

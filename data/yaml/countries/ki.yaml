@@ -17,34 +17,31 @@ languages:
   eng: English
   gil: Gilbertese
 translations:
-  deu:
+  DEU:
     common: Kiribati
     official: Unabhängige und souveräne Republik Kiribati
-  fin:
+  FIN:
     common: Kiribati
     official: Kiribatin tasavalta
-  fra:
+  FRA:
     common: Kiribati
     official: République de Kiribati
-  hrv:
-    common: Kiribati
-    official: Samostalne i suverene Republike Kiribati
-  ita:
+  ITA:
     common: Kiribati
     official: Repubblica indipendente e sovrano di Kiribati
-  jpn:
+  JPN:
     common: キリバス
     official: キリバスの独立と主権共和国
-  nld:
+  NLD:
     common: Kiribati
     official: Onafhankelijke en soevereine republiek Kiribati
-  por:
+  POR:
     common: Kiribati
     official: Independente e soberano República de Kiribati
-  rus:
+  RUS:
     common: Кирибати
     official: Независимой и суверенной Республики Кирибати
-  spa:
+  SPA:
     common: Kiribati
     official: República Independiente y Soberano de Kiribati
 currencies:

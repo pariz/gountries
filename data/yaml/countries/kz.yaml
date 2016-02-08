@@ -18,34 +18,22 @@ languages:
   kaz: Kazakh
   rus: Russian
 translations:
-  deu:
+  DEU:
     common: Kasachstan
     official: Republik Kasachstan
-  fin:
-    common: Kazakstan
-    official: Kazakstanin tasavalta
-  fra:
-    common: Kazakhstan
-    official: République du Kazakhstan
-  hrv:
-    common: Kazahstan
-    official: Republika Kazahstan
-  ita:
+  ITA:
     common: Kazakistan
     official: Repubblica del Kazakhstan
-  jpn:
+  JPN:
     common: カザフスタン
     official: カザフスタン共和国
-  nld:
-    common: Kazachstan
-    official: Republiek Kazachstan
-  por:
+  POR:
     common: Cazaquistão
     official: República do Cazaquistão
-  rus:
+  RUS:
     common: Казахстан
     official: Республика Казахстан
-  spa:
+  SPA:
     common: Kazajistán
     official: República de Kazajstán
 currencies:

@@ -13,37 +13,31 @@ tlds:
 languages:
   sqi: Albanian
 translations:
-  cym:
+  CYM:
     common: Albania
     official: Republic of Albania
-  deu:
+  DEU:
     common: Albanien
     official: Republik Albanien
-  fin:
+  FIN:
     common: Albania
     official: Albanian tasavalta
-  fra:
-    common: Albanie
-    official: République d'Albanie
-  hrv:
+  HRV:
     common: Albanija
     official: Republika Albanija
-  ita:
-    common: Albania
-    official: Repubblica d'Albania
-  jpn:
+  JPN:
     common: アルバニア
     official: アルバニア共和国
-  nld:
+  NLD:
     common: Albanië
     official: Republiek Albanië
-  por:
+  POR:
     common: Albânia
     official: República da Albânia
-  rus:
+  RUS:
     common: Албания
     official: Республика Албания
-  spa:
+  SPA:
     common: Albania
     official: República de Albania
 currencies:

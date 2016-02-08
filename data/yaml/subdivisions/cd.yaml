@@ -12,63 +12,20 @@
     maxlatitude: -4.2934484
     latitude: -4.325
     longitude: 15.322222
-- name: Orientale
+- name: Kasai-Occidental
   names:
-  - Haut-Zaire
-  - Orientale
-  code: OR
+  - Kasai-Occidental
+  code: KW
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.290453
-    minlatitude: -2.1170778
-    maxlongitude: 31.276947
-    maxlatitude: 5.386098
-    latitude: 1.6406296
-    longitude: 26.41939
-- name: Bas-Congo
-  names:
-  - Bas-Zaire
-  code: BC
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.206631
-    minlatitude: -6.0573
-    maxlongitude: 16.258595
-    maxlatitude: -4.279238
-    latitude: -5.2365685
-    longitude: 13.914399
-- name: Bandundu
-  names:
-  - Bandundu
-  code: BN
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.357605
-    minlatitude: -3.3406136
-    maxlongitude: 17.404497
-    maxlatitude: -3.2987835
-    latitude: -3.316667
-    longitude: 17.366667
-- name: Katanga
-  names:
-  - Shaba
-  code: KA
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.744753
-    minlatitude: -13.455676
-    maxlongitude: 30.592884
-    maxlatitude: -4.999066
-    latitude: -8.885115
-    longitude: 26.41939
+    minlongitude: 19.680138
+    minlatitude: -7.902227
+    maxlongitude: 23.742882
+    maxlatitude: -2.338351
+    latitude: -5.320547
+    longitude: 21.85686
 - name: Maniema
   names:
   - Maniema
@@ -97,20 +54,20 @@
     maxlatitude: 0.9623669
     latitude: -0.7917729
     longitude: 29.045992
-- name: Sud-Kivu
+- name: Bas-Congo
   names:
-  - Sud-Kivu
-  code: SK
+  - Bas-Zaire
+  code: BC
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.798393
-    minlatitude: -4.999978
-    maxlongitude: 29.264492
-    maxlatitude: -1.568222
-    latitude: -3.011658
-    longitude: 28.299435
+    minlongitude: 12.206631
+    minlatitude: -6.0573
+    maxlongitude: 16.258595
+    maxlatitude: -4.279238
+    latitude: -5.2365685
+    longitude: 13.914399
 - name: Équateur
   names:
   - Équateur
@@ -125,6 +82,20 @@
     maxlatitude: 5.14574
     latitude: 0.5640036
     longitude: 20.330881
+- name: Katanga
+  names:
+  - Shaba
+  code: KA
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.744753
+    minlatitude: -13.455676
+    maxlongitude: 30.592884
+    maxlatitude: -4.999066
+    latitude: -8.885115
+    longitude: 26.41939
 - name: Kasai-Oriental
   names:
   - Kasai-Oriental
@@ -139,17 +110,46 @@
     maxlatitude: -1.738482
     latitude: -2.8437452
     longitude: 23.382355
-- name: Kasai-Occidental
+- name: Sud-Kivu
   names:
-  - Kasai-Occidental
-  code: KW
+  - Sud-Kivu
+  code: SK
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.680138
-    minlatitude: -7.902227
-    maxlongitude: 23.742882
-    maxlatitude: -2.338351
-    latitude: -5.320547
-    longitude: 21.85686
+    minlongitude: 26.798393
+    minlatitude: -4.999978
+    maxlongitude: 29.264492
+    maxlatitude: -1.568222
+    latitude: -3.011658
+    longitude: 28.299435
+- name: Bandundu
+  names:
+  - Bandundu
+  code: BN
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.357605
+    minlatitude: -3.3406136
+    maxlongitude: 17.404497
+    maxlatitude: -3.2987835
+    latitude: -3.316667
+    longitude: 17.366667
+- name: Orientale
+  names:
+  - Haut-Zaire
+  - Orientale
+  code: OR
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.290453
+    minlatitude: -2.1170778
+    maxlongitude: 31.276947
+    maxlatitude: 5.386098
+    latitude: 1.6406296
+    longitude: 26.41939

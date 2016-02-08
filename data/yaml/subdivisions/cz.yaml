@@ -1,88 +1,3 @@
-- name: Zlínský kraj
-  names:
-  - Zlínský kraj
-  code: ZL
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.110859
-    minlatitude: 48.85423
-    maxlongitude: 18.415531
-    maxlatitude: 49.539978
-    latitude: 49.21623
-    longitude: 17.772036
-- name: Karlovarský kraj
-  names:
-  - Karlovarský kraj
-  code: KA
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.090627
-    minlatitude: 49.891136
-    maxlongitude: 13.301197
-    maxlatitude: 50.4603
-    latitude: 50.1435
-    longitude: 12.75019
-- name: Královéhradecký kraj
-  names:
-  - Královéhradecký kraj
-  code: KR
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.105162
-    minlatitude: 50.038807
-    maxlongitude: 16.585526
-    maxlatitude: 50.78044
-    latitude: 50.35125
-    longitude: 15.797646
-- name: Moravskoslezský kraj
-  names:
-  - Ostravský
-  code: MO
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.146263
-    minlatitude: 49.39261
-    maxlongitude: 18.859255
-    maxlatitude: 50.327957
-    latitude: 49.730534
-    longitude: 18.233263
-- name: Ústecký kraj
-  names:
-  - Ústecký kraj
-  code: US
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.940246
-    minlatitude: 50.07743
-    maxlongitude: 14.652859
-    maxlatitude: 51.055775
-    latitude: 50.611904
-    longitude: 13.787008
-- name: Jihočeský kraj
-  names:
-  - Budějovický
-  - Českobudějovický
-  code: JC
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.536321
-    minlatitude: 48.551807
-    maxlongitude: 15.604129
-    maxlatitude: 49.621254
-    latitude: 48.945778
-    longitude: 14.441606
 - name: Pardubický kraj
   names:
   - Pardubický kraj
@@ -158,34 +73,20 @@
     maxlatitude: 49.633255
     latitude: 48.954453
     longitude: 16.76769
-- name: Liberecký kraj
+- name: Karlovarský kraj
   names:
-  - Liberecký kraj
-  code: LI
+  - Karlovarský kraj
+  code: KA
   countryalpha2: CZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.343535
-    minlatitude: 50.472095
-    maxlongitude: 15.633029
-    maxlatitude: 51.023197
-    latitude: 50.659424
-    longitude: 14.763243
-- name: Olomoucký kraj
-  names:
-  - Olomoucký kraj
-  code: OL
-  countryalpha2: CZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.711597
-    minlatitude: 49.266975
-    maxlongitude: 17.917221
-    maxlatitude: 50.449436
-    latitude: 49.658653
-    longitude: 17.08114
+    minlongitude: 12.090627
+    minlatitude: 49.891136
+    maxlongitude: 13.301197
+    maxlatitude: 50.4603
+    latitude: 50.1435
+    longitude: 12.75019
 - name: Plzeňský kraj
   names:
   - Plzeňský kraj
@@ -200,3 +101,102 @@
     maxlatitude: 50.103333
     latitude: 49.413483
     longitude: 13.315724
+- name: Jihočeský kraj
+  names:
+  - Budějovický
+  - Českobudějovický
+  code: JC
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.536321
+    minlatitude: 48.551807
+    maxlongitude: 15.604129
+    maxlatitude: 49.621254
+    latitude: 48.945778
+    longitude: 14.441606
+- name: Olomoucký kraj
+  names:
+  - Olomoucký kraj
+  code: OL
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.711597
+    minlatitude: 49.266975
+    maxlongitude: 17.917221
+    maxlatitude: 50.449436
+    latitude: 49.658653
+    longitude: 17.08114
+- name: Ústecký kraj
+  names:
+  - Ústecký kraj
+  code: US
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.940246
+    minlatitude: 50.07743
+    maxlongitude: 14.652859
+    maxlatitude: 51.055775
+    latitude: 50.611904
+    longitude: 13.787008
+- name: Zlínský kraj
+  names:
+  - Zlínský kraj
+  code: ZL
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.110859
+    minlatitude: 48.85423
+    maxlongitude: 18.415531
+    maxlatitude: 49.539978
+    latitude: 49.21623
+    longitude: 17.772036
+- name: Moravskoslezský kraj
+  names:
+  - Ostravský
+  code: MO
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.146263
+    minlatitude: 49.39261
+    maxlongitude: 18.859255
+    maxlatitude: 50.327957
+    latitude: 49.730534
+    longitude: 18.233263
+- name: Liberecký kraj
+  names:
+  - Liberecký kraj
+  code: LI
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.343535
+    minlatitude: 50.472095
+    maxlongitude: 15.633029
+    maxlatitude: 51.023197
+    latitude: 50.659424
+    longitude: 14.763243
+- name: Královéhradecký kraj
+  names:
+  - Královéhradecký kraj
+  code: KR
+  countryalpha2: CZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.105162
+    minlatitude: 50.038807
+    maxlongitude: 16.585526
+    maxlatitude: 50.78044
+    latitude: 50.35125
+    longitude: 15.797646

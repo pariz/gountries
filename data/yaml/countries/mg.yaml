@@ -17,34 +17,28 @@ languages:
   fra: French
   mlg: Malagasy
 translations:
-  deu:
-    common: Madagaskar
-    official: Republik Madagaskar
-  fin:
+  FIN:
     common: Madagaskar
     official: Madagaskarin tasavalta
-  fra:
+  FRA:
     common: Madagascar
     official: République de Madagascar
-  hrv:
+  HRV:
     common: Madagaskar
     official: Republika Madagaskar
-  ita:
+  ITA:
     common: Madagascar
     official: Repubblica del Madagascar
-  jpn:
+  JPN:
     common: マダガスカル
     official: マダガスカル共和国
-  nld:
+  NLD:
     common: Madagaskar
     official: Republiek Madagaskar
-  por:
+  POR:
     common: Madagáscar
     official: República de Madagáscar
-  rus:
-    common: Мадагаскар
-    official: Республика Мадагаскар
-  spa:
+  SPA:
     common: Madagascar
     official: República de Madagascar
 currencies:

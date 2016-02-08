@@ -13,37 +13,25 @@ tlds:
 languages:
   khm: Khmer
 translations:
-  cym:
+  CYM:
     common: Cambodia
     official: Kingdom of Cambodia
-  deu:
-    common: Kambodscha
-    official: Königreich Kambodscha
-  fin:
+  FIN:
     common: Kambodža
     official: Kambodžan kuningaskunta
-  fra:
+  FRA:
     common: Cambodge
     official: Royaume du Cambodge
-  hrv:
+  HRV:
     common: Kambodža
     official: Kraljevina Kambodža
-  ita:
+  ITA:
     common: Cambogia
     official: Regno di Cambogia
-  jpn:
+  JPN:
     common: カンボジア
     official: カンボジア王国
-  nld:
-    common: Cambodja
-    official: Koninkrijk Cambodja
-  por:
-    common: Camboja
-    official: Reino do Camboja
-  rus:
-    common: Камбоджа
-    official: Королевство Камбоджа
-  spa:
+  SPA:
     common: Camboya
     official: Reino de Camboya
 currencies:

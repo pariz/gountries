@@ -1,59 +1,3 @@
-- name: Gyeonggido [Kyonggi-do]
-  names:
-  - Gyeonggido [Kyonggi-do]
-  code: "41"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.37639
-    minlatitude: 36.893967
-    maxlongitude: 127.85825
-    maxlatitude: 38.30267
-    latitude: 37.4138
-    longitude: 127.5183
-- name: Gyeongsangbugdo [Kyongsangbuk-do]
-  names:
-  - North Kyongsang
-  code: "47"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 127.793884
-    minlatitude: 35.566475
-    maxlongitude: 130.92322
-    maxlatitude: 37.542778
-    latitude: 36.4919
-    longitude: 128.8889
-- name: Daegu Gwang'yeogsi [Taegu-Kwangyokshi]
-  names:
-  - Daegu
-  code: "27"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 128.34972
-    minlatitude: 35.60717
-    maxlongitude: 128.76321
-    maxlatitude: 36.017284
-    latitude: 35.871437
-    longitude: 128.60144
-- name: Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]
-  names:
-  - Gwangju
-  code: "29"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.644905
-    minlatitude: 35.050816
-    maxlongitude: 127.02294
-    maxlatitude: 35.25894
-    latitude: 35.159546
-    longitude: 126.8526
 - name: Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]
   names:
   - Incheon
@@ -69,22 +13,20 @@
     maxlatitude: 37.982666
     latitude: 37.456257
     longitude: 126.70521
-- name: Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]
+- name: Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]
   names:
-  - Daejeon
-  - Taejeon
-  - Taejon
-  code: "30"
+  - Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]
+  code: "31"
   countryalpha2: KR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 127.24645
-    minlatitude: 36.183372
-    maxlongitude: 127.559044
-    maxlatitude: 36.499947
-    latitude: 36.35041
-    longitude: 127.384544
+    minlongitude: 128.97568
+    minlatitude: 35.321865
+    maxlongitude: 129.46661
+    maxlatitude: 35.725246
+    latitude: 35.538376
+    longitude: 129.31136
 - name: Gang'weondo [Kang-won-do]
   names:
   - Kangwon
@@ -99,6 +41,21 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
+- name: Jejudo [Cheju-do]
+  names:
+  - Jeju
+  - Quelpart
+  code: "49"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.16372
+    minlatitude: 33.10611
+    maxlongitude: 126.97428
+    maxlatitude: 34.00622
+    latitude: 33.48901
+    longitude: 126.4983
 - name: Jeonranamdo [Chollanam-do]
   names:
   - South Cholla
@@ -127,78 +84,6 @@
     maxlatitude: 35.909958
     latitude: 35.4606
     longitude: 128.2132
-- name: Busan Gwang'yeogsi [Pusan-Kwangyokshi]
-  names:
-  - Busan
-  code: "26"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 128.7872
-    minlatitude: 34.98358
-    maxlongitude: 129.31004
-    maxlatitude: 35.38744
-    latitude: 35.179554
-    longitude: 129.07564
-- name: Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]
-  names:
-  - Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]
-  code: "31"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 128.97568
-    minlatitude: 35.321865
-    maxlongitude: 129.46661
-    maxlatitude: 35.725246
-    latitude: 35.538376
-    longitude: 129.31136
-- name: Chungcheongnamdo [Ch'ungch'ongnam-do]
-  names:
-  - South Chungchong
-  code: "44"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.95814
-    minlatitude: 35.980656
-    maxlongitude: 127.63963
-    maxlatitude: 37.06189
-    latitude: 36.5184
-    longitude: 126.8
-- name: Jeonrabugdo[Chollabuk-do]
-  names:
-  - Chollapuk
-  - North Cholla
-  code: "45"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Jejudo [Cheju-do]
-  names:
-  - Jeju
-  - Quelpart
-  code: "49"
-  countryalpha2: KR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 126.16372
-    minlatitude: 33.10611
-    maxlongitude: 126.97428
-    maxlatitude: 34.00622
-    latitude: 33.48901
-    longitude: 126.4983
 - name: Seoul Teugbyeolsi [Seoul-T'ukpyolshi]
   names:
   - Seoul
@@ -228,3 +113,118 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
+- name: Chungcheongnamdo [Ch'ungch'ongnam-do]
+  names:
+  - South Chungchong
+  code: "44"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.95814
+    minlatitude: 35.980656
+    maxlongitude: 127.63963
+    maxlatitude: 37.06189
+    latitude: 36.5184
+    longitude: 126.8
+- name: Jeonrabugdo[Chollabuk-do]
+  names:
+  - Chollapuk
+  - North Cholla
+  code: "45"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Gyeonggido [Kyonggi-do]
+  names:
+  - Gyeonggido [Kyonggi-do]
+  code: "41"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.37639
+    minlatitude: 36.893967
+    maxlongitude: 127.85825
+    maxlatitude: 38.30267
+    latitude: 37.4138
+    longitude: 127.5183
+- name: Gyeongsangbugdo [Kyongsangbuk-do]
+  names:
+  - North Kyongsang
+  code: "47"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 127.793884
+    minlatitude: 35.566475
+    maxlongitude: 130.92322
+    maxlatitude: 37.542778
+    latitude: 36.4919
+    longitude: 128.8889
+- name: Busan Gwang'yeogsi [Pusan-Kwangyokshi]
+  names:
+  - Busan
+  code: "26"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 128.7872
+    minlatitude: 34.98358
+    maxlongitude: 129.31004
+    maxlatitude: 35.38744
+    latitude: 35.179554
+    longitude: 129.07564
+- name: Daegu Gwang'yeogsi [Taegu-Kwangyokshi]
+  names:
+  - Daegu
+  code: "27"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 128.34972
+    minlatitude: 35.60717
+    maxlongitude: 128.76321
+    maxlatitude: 36.017284
+    latitude: 35.871437
+    longitude: 128.60144
+- name: Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]
+  names:
+  - Gwangju
+  code: "29"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 126.644905
+    minlatitude: 35.050816
+    maxlongitude: 127.02294
+    maxlatitude: 35.25894
+    latitude: 35.159546
+    longitude: 126.8526
+- name: Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]
+  names:
+  - Daejeon
+  - Taejeon
+  - Taejon
+  code: "30"
+  countryalpha2: KR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 127.24645
+    minlatitude: 36.183372
+    maxlongitude: 127.559044
+    maxlatitude: 36.499947
+    latitude: 36.35041
+    longitude: 127.384544

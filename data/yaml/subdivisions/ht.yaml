@@ -1,59 +1,3 @@
-- name: Grande-Anse
-  names:
-  - Grande Anse
-  code: GA
-  countryalpha2: HT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.4769
-    minlatitude: 18.357681
-    maxlongitude: -73.6987
-    maxlatitude: 18.675987
-    latitude: 18.548925
-    longitude: -74.07701
-- name: Nord
-  names:
-  - Nord
-  code: ND
-  countryalpha2: HT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.678825
-    minlatitude: 19.24739
-    maxlongitude: -71.96107
-    maxlatitude: 19.88288
-    latitude: 19.568771
-    longitude: -72.189
-- name: Ouest
-  names:
-  - Ouest
-  code: OU
-  countryalpha2: HT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.299515
-    minlatitude: 18.246012
-    maxlongitude: -71.692856
-    maxlatitude: 18.969692
-    latitude: 18.4957
-    longitude: -72.47315
-- name: Artibonite
-  names:
-  - LʿArtibonite
-  code: AR
-  countryalpha2: HT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.13482
-    minlatitude: 18.839392
-    maxlongitude: -72.18431
-    maxlatitude: 19.81222
-    latitude: 19.362902
-    longitude: -72.42581
 - name: Nord-Est
   names:
   - Nord-Est
@@ -82,6 +26,20 @@
     maxlatitude: 20.087769
     latitude: 19.8374
     longitude: -73.04053
+- name: Ouest
+  names:
+  - Ouest
+  code: OU
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.299515
+    minlatitude: 18.246012
+    maxlongitude: -71.692856
+    maxlatitude: 18.969692
+    latitude: 18.4957
+    longitude: -72.47315
 - name: Sud
   names:
   - Sud
@@ -124,3 +82,45 @@
     maxlatitude: 19.327566
     latitude: 18.958275
     longitude: -72.046814
+- name: Nord
+  names:
+  - Nord
+  code: ND
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.678825
+    minlatitude: 19.24739
+    maxlongitude: -71.96107
+    maxlatitude: 19.88288
+    latitude: 19.568771
+    longitude: -72.189
+- name: Artibonite
+  names:
+  - LʿArtibonite
+  code: AR
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.13482
+    minlatitude: 18.839392
+    maxlongitude: -72.18431
+    maxlatitude: 19.81222
+    latitude: 19.362902
+    longitude: -72.42581
+- name: Grande-Anse
+  names:
+  - Grande Anse
+  code: GA
+  countryalpha2: HT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.4769
+    minlatitude: 18.357681
+    maxlongitude: -73.6987
+    maxlatitude: 18.675987
+    latitude: 18.548925
+    longitude: -74.07701

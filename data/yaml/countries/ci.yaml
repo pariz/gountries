@@ -13,34 +13,25 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Elfenbeinküste
     official: Republik Côte d'Ivoire
-  fin:
+  FIN:
     common: Norsunluurannikko
     official: Norsunluurannikon tasavalta
-  fra:
+  FRA:
     common: Côte d'Ivoire
     official: République de Côte d' Ivoire
-  hrv:
+  HRV:
     common: Obala Bjelokosti
     official: Republika Côte d'Ivoire
-  ita:
-    common: Costa d'Avorio
-    official: Repubblica della Costa d'Avorio
-  jpn:
+  JPN:
     common: コートジボワール
     official: コートジボワール共和国
-  nld:
-    common: Ivoorkust
-    official: Republiek Ivoorkust
-  por:
+  POR:
     common: Costa do Marfim
     official: República da Côte d'Ivoire
-  rus:
-    common: Кот-д’Ивуар
-    official: Республика Кот-д'Ивуаре
-  spa:
+  SPA:
     common: Costa de Marfil
     official: República de Côte d'Ivoire
 currencies:

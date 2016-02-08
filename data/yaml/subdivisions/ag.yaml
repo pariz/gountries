@@ -1,59 +1,3 @@
-- name: Saint George
-  names:
-  - Saint George
-  code: "03"
-  countryalpha2: AG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.81049
-    minlatitude: 17.08282
-    maxlongitude: -61.74657
-    maxlatitude: 17.169527
-    latitude: 17.10785
-    longitude: -61.788273
-- name: Saint John’s
-  names:
-  - Saint John’s
-  code: "04"
-  countryalpha2: AG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.861458
-    minlatitude: 17.10798
-    maxlongitude: -61.82719
-    maxlatitude: 17.140995
-    latitude: 17.116667
-    longitude: -61.85
-- name: Saint Mary
-  names:
-  - Saint Mary
-  code: "05"
-  countryalpha2: AG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.905933
-    minlatitude: 17.003769
-    maxlongitude: -61.805473
-    maxlatitude: 17.10528
-    latitude: 17.051207
-    longitude: -61.87603
-- name: Saint Paul
-  names:
-  - Saint Paul
-  code: "06"
-  countryalpha2: AG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.81293
-    minlatitude: 16.99795
-    maxlongitude: -61.73061
-    maxlatitude: 17.065935
-    latitude: 17.037159
-    longitude: -61.782425
 - name: Saint Peter
   names:
   - Saint Peter
@@ -110,3 +54,59 @@
     maxlatitude: 16.943024
     latitude: 16.938416
     longitude: -62.345516
+- name: Saint George
+  names:
+  - Saint George
+  code: "03"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.81049
+    minlatitude: 17.08282
+    maxlongitude: -61.74657
+    maxlatitude: 17.169527
+    latitude: 17.10785
+    longitude: -61.788273
+- name: Saint John’s
+  names:
+  - Saint John’s
+  code: "04"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.861458
+    minlatitude: 17.10798
+    maxlongitude: -61.82719
+    maxlatitude: 17.140995
+    latitude: 17.116667
+    longitude: -61.85
+- name: Saint Mary
+  names:
+  - Saint Mary
+  code: "05"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.905933
+    minlatitude: 17.003769
+    maxlongitude: -61.805473
+    maxlatitude: 17.10528
+    latitude: 17.051207
+    longitude: -61.87603
+- name: Saint Paul
+  names:
+  - Saint Paul
+  code: "06"
+  countryalpha2: AG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.81293
+    minlatitude: 16.99795
+    maxlongitude: -61.73061
+    maxlatitude: 17.065935
+    latitude: 17.037159
+    longitude: -61.782425

@@ -17,34 +17,25 @@ languages:
   eng: English
   smo: Samoan
 translations:
-  deu:
+  DEU:
     common: Samoa
     official: Unabhängige Staat Samoa
-  fin:
+  FIN:
     common: Samoa
     official: Samoan itsenäinen valtio
-  fra:
+  FRA:
     common: Samoa
     official: Samoa
-  hrv:
+  HRV:
     common: Samoa
     official: Nezavisna Država Samoa
-  ita:
-    common: Samoa
-    official: Stato indipendente di Samoa
-  jpn:
-    common: サモア
-    official: サモア独立国
-  nld:
+  NLD:
     common: Samoa
     official: Onafhankelijke Staat Samoa
-  por:
+  POR:
     common: Samoa
     official: Estado Independente de Samoa
-  rus:
-    common: Самоа
-    official: Независимое Государство Самоа
-  spa:
+  SPA:
     common: Samoa
     official: Estado Independiente de Samoa
 currencies:

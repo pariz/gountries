@@ -1,17 +1,3 @@
-- name: Western
-  names:
-  - Western
-  code: W
-  countryalpha2: FJ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 176.92113
-    minlatitude: -18.598341
-    maxlongitude: 178.45468
-    maxlatitude: -16.696295
-    latitude: -17.751085
-    longitude: 177.77634
 - name: Central
   names:
   - Central
@@ -68,3 +54,17 @@
     maxlatitude: -12.479535
     latitude: -12.502507
     longitude: 177.07242
+- name: Western
+  names:
+  - Western
+  code: W
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 176.92113
+    minlatitude: -18.598341
+    maxlongitude: 178.45468
+    maxlatitude: -16.696295
+    latitude: -17.751085
+    longitude: 177.77634

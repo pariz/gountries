@@ -1,45 +1,3 @@
-- name: Tel-Aviv
-  names:
-  - Tel-Aviv
-  code: TA
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.742516
-    minlatitude: 32.029255
-    maxlongitude: 34.851974
-    maxlatitude: 32.146507
-    latitude: 32.0853
-    longitude: 34.78177
-- name: HaZafon
-  names:
-  - Northern
-  code: Z
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.027298
-    minlatitude: 32.386967
-    maxlongitude: 35.896244
-    maxlatitude: 33.332806
-    latitude: 32.897224
-    longitude: 35.302723
-- name: HaDarom
-  names:
-  - Southern
-  code: D
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.267387
-    minlatitude: 29.490646
-    maxlongitude: 35.454918
-    maxlatitude: 31.87795
-    latitude: 30.829561
-    longitude: 35.038815
 - name: Haifa
   names:
   - Hefa
@@ -90,3 +48,45 @@
     maxlatitude: 32.4126
     latitude: 31.95211
     longitude: 34.90655
+- name: Tel-Aviv
+  names:
+  - Tel-Aviv
+  code: TA
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.742516
+    minlatitude: 32.029255
+    maxlongitude: 34.851974
+    maxlatitude: 32.146507
+    latitude: 32.0853
+    longitude: 34.78177
+- name: HaZafon
+  names:
+  - Northern
+  code: Z
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.027298
+    minlatitude: 32.386967
+    maxlongitude: 35.896244
+    maxlatitude: 33.332806
+    latitude: 32.897224
+    longitude: 35.302723
+- name: HaDarom
+  names:
+  - Southern
+  code: D
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.267387
+    minlatitude: 29.490646
+    maxlongitude: 35.454918
+    maxlatitude: 31.87795
+    latitude: 30.829561
+    longitude: 35.038815

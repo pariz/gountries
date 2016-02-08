@@ -13,36 +13,24 @@ tlds:
 languages:
   nep: Nepali
 translations:
-  deu:
+  DEU:
     common: Népal
     official: Demokratischen Bundesrepublik Nepal
-  fin:
+  FIN:
     common: Nepal
     official: Nepalin demokraattinen liittotasavalta
-  fra:
+  FRA:
     common: Népal
     official: République du Népal
-  hrv:
+  HRV:
     common: Nepal
     official: Savezna Demokratska Republika Nepal
-  ita:
+  ITA:
     common: Nepal
     official: Repubblica federale democratica del Nepal
-  jpn:
-    common: ネパール
-    official: ネパール連邦民主共和国
-  nld:
+  NLD:
     common: Nepal
     official: Federale Democratische Republiek Nepal
-  por:
-    common: Nepal
-    official: República Democrática Federal do Nepal
-  rus:
-    common: Непал
-    official: Федеративная Демократическая Республика Непал
-  spa:
-    common: Nepal
-    official: República Democrática Federal de Nepal
 currencies:
 - NPR
 borders:

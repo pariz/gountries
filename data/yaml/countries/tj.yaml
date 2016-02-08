@@ -17,34 +17,22 @@ languages:
   rus: Russian
   tgk: Tajik
 translations:
-  deu:
-    common: Tadschikistan
-    official: Republik Tadschikistan
-  fin:
+  FIN:
     common: Tadžikistan
     official: Tadžikistanin tasavalta
-  fra:
-    common: Tadjikistan
-    official: République du Tadjikistan
-  hrv:
-    common: Tađikistan
-    official: Republika Tadžikistan
-  ita:
-    common: Tagikistan
-    official: Repubblica del Tajikistan
-  jpn:
+  JPN:
     common: タジキスタン
     official: タジキスタン共和国
-  nld:
+  NLD:
     common: Tadzjikistan
     official: Tadzjikistan
-  por:
+  POR:
     common: Tajiquistão
     official: República do Tajiquistão
-  rus:
+  RUS:
     common: Таджикистан
     official: Республика Таджикистан
-  spa:
+  SPA:
     common: Tayikistán
     official: República de Tayikistán
 currencies:

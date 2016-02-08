@@ -14,36 +14,24 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
-    common: Heard und die McDonaldinseln
-    official: Heard und McDonaldinseln
-  fin:
+  FIN:
     common: Heard ja McDonaldinsaaret
     official: Heard ja McDonaldinsaaret
-  fra:
+  FRA:
     common: Îles Heard-et-MacDonald
     official: Des îles Heard et McDonald
-  hrv:
-    common: Otok Heard i otočje McDonald
-    official: Otok Heard i otočje McDonald
-  ita:
+  ITA:
     common: Isole Heard e McDonald
     official: Isole Heard e McDonald
-  jpn:
-    common: ハード島とマクドナルド諸島
-    official: ハード島とマクドナルド諸島
-  nld:
+  NLD:
     common: Heard-en McDonaldeilanden
     official: Heard en McDonaldeilanden
-  por:
+  POR:
     common: Ilha Heard e Ilhas McDonald
     official: Ilha Heard e Ilhas McDonald
-  rus:
+  RUS:
     common: Остров Херд и острова Макдональд
     official: Остров Херд и острова Макдональд
-  spa:
-    common: Islas Heard y McDonald
-    official: Islas Heard y McDonald
 currencies:
 - AUD
 borders: []

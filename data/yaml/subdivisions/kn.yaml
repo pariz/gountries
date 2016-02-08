@@ -12,132 +12,6 @@
     maxlatitude: 17.386147
     latitude: 17.360481
     longitude: -62.761784
-- name: Saint Paul Capisterre
-  names:
-  - Saint Paul Capisterre
-  code: "09"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.862553
-    minlatitude: 17.368374
-    maxlongitude: -62.80663
-    maxlatitude: 17.417187
-    latitude: 17.39248
-    longitude: -62.83235
-- name: Saint Anne Sandy Point
-  names:
-  - Saint Anne Sandy Point
-  code: "02"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.864048
-    minlatitude: 17.341444
-    maxlongitude: -62.806633
-    maxlatitude: 17.388191
-    latitude: 17.372534
-    longitude: -62.844112
-- name: Saint James Windward
-  names:
-  - Saint James Windward
-  code: "05"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.615414
-    minlatitude: 17.139666
-    maxlongitude: -62.53994
-    maxlatitude: 17.20772
-    latitude: 17.176964
-    longitude: -62.5796
-- name: Saint Mary Cayon
-  names:
-  - Saint Mary Cayon
-  code: "08"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.75748
-    minlatitude: 17.328829
-    maxlongitude: -62.705425
-    maxlatitude: 17.371466
-    latitude: 17.346207
-    longitude: -62.738266
-- name: Saint Peter Basseterre
-  names:
-  - Saint Peter Basseterre
-  code: "11"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.751236
-    minlatitude: 17.287304
-    maxlongitude: -62.68312
-    maxlatitude: 17.335674
-    latitude: 17.310291
-    longitude: -62.714752
-- name: Saint Thomas Lowland
-  names:
-  - Saint Thomas Lowland
-  code: "12"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.63007
-    minlatitude: 17.137173
-    maxlongitude: -62.587345
-    maxlatitude: 17.194733
-    latitude: 17.16505
-    longitude: -62.608974
-- name: Saint George Gingerland
-  names:
-  - Saint George Gingerland
-  code: "04"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.587345
-    minlatitude: 17.103373
-    maxlongitude: -62.541477
-    maxlatitude: 17.15274
-    latitude: 17.125776
-    longitude: -62.56198
-- name: Saint Thomas Middle Island
-  names:
-  - Saint Thomas Middle Island
-  code: "13"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.838615
-    minlatitude: 17.306534
-    maxlongitude: -62.763294
-    maxlatitude: 17.368374
-    latitude: 17.33488
-    longitude: -62.808826
-- name: Saint George Basseterre
-  names:
-  - Saint George Basseterre
-  code: "03"
-  countryalpha2: KN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.75124
-    minlatitude: 17.213127
-    maxlongitude: -62.622215
-    maxlatitude: 17.320862
-    latitude: 17.235062
-    longitude: -62.64423
 - name: Saint John Capisterre
   names:
   - Saint John Capisterre
@@ -166,6 +40,62 @@
     maxlatitude: 17.15274
     latitude: 17.115574
     longitude: -62.6031
+- name: Saint Peter Basseterre
+  names:
+  - Saint Peter Basseterre
+  code: "11"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.751236
+    minlatitude: 17.287304
+    maxlongitude: -62.68312
+    maxlatitude: 17.335674
+    latitude: 17.310291
+    longitude: -62.714752
+- name: Saint Anne Sandy Point
+  names:
+  - Saint Anne Sandy Point
+  code: "02"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.864048
+    minlatitude: 17.341444
+    maxlongitude: -62.806633
+    maxlatitude: 17.388191
+    latitude: 17.372534
+    longitude: -62.844112
+- name: Saint George Gingerland
+  names:
+  - Saint George Gingerland
+  code: "04"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.587345
+    minlatitude: 17.103373
+    maxlongitude: -62.541477
+    maxlatitude: 17.15274
+    latitude: 17.125776
+    longitude: -62.56198
+- name: Saint Mary Cayon
+  names:
+  - Saint Mary Cayon
+  code: "08"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.75748
+    minlatitude: 17.328829
+    maxlongitude: -62.705425
+    maxlatitude: 17.371466
+    latitude: 17.346207
+    longitude: -62.738266
 - name: Saint Paul Charlestown
   names:
   - Saint Paul Charlestown
@@ -180,6 +110,20 @@
     maxlatitude: 17.15274
     latitude: 17.13463
     longitude: -62.61338
+- name: Saint Thomas Lowland
+  names:
+  - Saint Thomas Lowland
+  code: "12"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.63007
+    minlatitude: 17.137173
+    maxlongitude: -62.587345
+    maxlatitude: 17.194733
+    latitude: 17.16505
+    longitude: -62.608974
 - name: Trinity Palmetto Point
   names:
   - Trinity Palmetto Point
@@ -194,3 +138,59 @@
     maxlatitude: 17.331379
     latitude: 17.306353
     longitude: -62.761784
+- name: Saint George Basseterre
+  names:
+  - Saint George Basseterre
+  code: "03"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.75124
+    minlatitude: 17.213127
+    maxlongitude: -62.622215
+    maxlatitude: 17.320862
+    latitude: 17.235062
+    longitude: -62.64423
+- name: Saint James Windward
+  names:
+  - Saint James Windward
+  code: "05"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.615414
+    minlatitude: 17.139666
+    maxlongitude: -62.53994
+    maxlatitude: 17.20772
+    latitude: 17.176964
+    longitude: -62.5796
+- name: Saint Paul Capisterre
+  names:
+  - Saint Paul Capisterre
+  code: "09"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.862553
+    minlatitude: 17.368374
+    maxlongitude: -62.80663
+    maxlatitude: 17.417187
+    latitude: 17.39248
+    longitude: -62.83235
+- name: Saint Thomas Middle Island
+  names:
+  - Saint Thomas Middle Island
+  code: "13"
+  countryalpha2: KN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.838615
+    minlatitude: 17.306534
+    maxlongitude: -62.763294
+    maxlatitude: 17.368374
+    latitude: 17.33488
+    longitude: -62.808826

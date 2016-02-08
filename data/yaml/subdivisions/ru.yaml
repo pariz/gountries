@@ -1,166 +1,152 @@
-- name: Mordoviya, Respublika
+- name: Bashkortostan, Respublika
   names:
-  - Mordovian Republic
-  - Mordovija
-  code: MO
+  - Baškortostan
+  code: BA
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 42.170383
-    minlatitude: 53.654297
-    maxlongitude: 46.711376
-    maxlatitude: 55.188244
-    latitude: 54.236942
-    longitude: 44.068398
-- name: Omskaya oblast'
+    minlongitude: 53.157997
+    minlatitude: 51.571224
+    maxlongitude: 60.00295
+    maxlatitude: 56.53352
+    latitude: 54.231216
+    longitude: 56.164524
+- name: Chuvashskaya Respublika
   names:
-  - Omskaja Oblast
-  code: OMS
+  - Chuvash Republic
+  - Chuvashskaya Respublika
+  - Čuvašskaja Respublika
+  - Čuvašija
+  code: CU
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 70.35474
-    minlatitude: 53.435123
-    maxlongitude: 76.303764
-    maxlatitude: 58.57415
-    latitude: 55.055466
-    longitude: 73.316734
-- name: Primorskiy kray
+    minlongitude: 45.910572
+    minlatitude: 54.62605
+    maxlongitude: 48.416763
+    maxlatitude: 56.329967
+    latitude: 55.5596
+    longitude: 46.928352
+- name: Krasnoyarskiy kray
   names:
-  - Primorskij
-  - Primorskij Kraj
-  - Primorje
-  code: PRI
+  - Krasnojarsk
+  - Krasnojarskij Kraj
+  - Krasnojarsk
+  code: KYA
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 130.39465
-    minlatitude: 42.28838
-    maxlongitude: 139.0215
-    maxlatitude: 48.458706
-    latitude: 45.052563
-    longitude: 0
-- name: Samarskaya oblast'
+    minlongitude: 76.111755
+    minlatitude: 51.773457
+    maxlongitude: 113.91628
+    maxlatitude: 81.26631
+    latitude: 64.24798
+    longitude: 95.11042
+- name: Nenetskiy avtonomnyy okrug
   names:
-  - Samarskaja Oblast
-  code: SAM
+  - Nenetskij Avtonomnyj Okrug
+  code: NEN
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.924686
-    minlatitude: 51.773956
-    maxlongitude: 52.55545
-    maxlatitude: 54.678024
-    latitude: 53.418385
-    longitude: 50.472553
-- name: Voronezhskaya oblast'
+    minlongitude: 43.27035
+    minlatitude: 65.82347
+    maxlongitude: 65.67778
+    maxlatitude: 70.464905
+    latitude: 67.607834
+    longitude: 57.633835
+- name: Sakhalinskaya oblast'
   names:
-  - Voronežskaja Oblast
-  - Voronež
-  code: VOR
+  - Sahalinskaya Oblast
+  - Sahalin
+  code: SAK
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 38.13708
-    minlatitude: 49.556057
-    maxlongitude: 42.944786
-    maxlatitude: 52.10243
-    latitude: 50.85897
-    longitude: 39.864437
-- name: Yamalo-Nenetskiy avtonomnyy okrug
+    minlongitude: 141.19646
+    minlatitude: 43.360855
+    maxlongitude: 156.51167
+    maxlatitude: 54.416035
+    latitude: 49.980785
+    longitude: 143.37381
+- name: Tomskaya oblast'
   names:
-  - Jamalija
-  - Jamalo-Nenetskij Avtonomnyj Okrug
-  - Jamalo-Nenets
-  code: YAN
+  - Tomskaja Oblast
+  code: TOM
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 62.012115
-    minlatitude: 62.190002
-    maxlongitude: 86.01397
-    maxlatitude: 73.52249
-    latitude: 66.06531
-    longitude: 76.93452
-- name: Amurskaya oblast'
+    minlongitude: 75.05746
+    minlatitude: 55.66864
+    maxlongitude: 89.37533
+    maxlatitude: 61.03353
+    latitude: 58.896988
+    longitude: 82.67655
+- name: Altay, Respublika
   names:
-  - Amurskaja Oblast
-  code: AMU
+  - Altaj
+  - Altay
+  - Gorno-Altaj
+  code: AL
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 119.66795
-    minlatitude: 48.852264
-    maxlongitude: 134.92026
-    maxlatitude: 57.058533
-    latitude: 54.603508
-    longitude: 127.48017
-- name: Kabardino-Balkarskaya Respublika
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.767193
+    longitude: 37.60616
+- name: Komi, Respublika
   names:
-  - Kabardino-Balkarian Republic
-  - Kabardino-Balkarskaja Respublika
-  - Kabardino-Balkarija
-  code: KB
+  - Komi, Respublika
+  code: KO
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 42.39812
-    minlatitude: 42.8891
-    maxlongitude: 44.47055
-    maxlatitude: 44.022816
-    latitude: 43.393246
-    longitude: 43.56285
-- name: Kostromskaya oblast'
+    minlongitude: 45.404655
+    minlatitude: 59.196102
+    maxlongitude: 66.25232
+    maxlatitude: 68.422874
+    latitude: 63.863052
+    longitude: 54.83127
+- name: Kareliya, Respublika
   names:
-  - Kostromskaja Oblast
-  code: KOS
+  - Karelian Republic
+  - Karelija
+  code: KR
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 40.39976
-    minlatitude: 57.27783
-    maxlongitude: 47.644646
-    maxlatitude: 59.62038
-    latitude: 58.550106
-    longitude: 43.95411
-- name: Mariy El, Respublika
+    minlongitude: 29.310291
+    minlatitude: 60.68577
+    maxlongitude: 37.932053
+    maxlatitude: 66.67326
+    latitude: 63.15587
+    longitude: 32.990555
+- name: Leningradskaya oblast'
   names:
-  - Mariy El
-  - Marij El
-  code: ME
+  - Leningradskaja Oblast
+  code: LEN
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 45.61973
-    minlatitude: 55.826694
-    maxlongitude: 50.200066
-    maxlatitude: 57.34363
-    latitude: 56.438457
-    longitude: 47.960777
-- name: Rostovskaya oblast'
-  names:
-  - Rostovskaja Oblast
-  code: ROS
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 38.222374
-    minlatitude: 45.95212
-    maxlongitude: 44.322544
-    maxlatitude: 50.212326
-    latitude: 47.685326
-    longitude: 41.825893
+    minlongitude: 27.740038
+    minlatitude: 58.41472
+    maxlongitude: 35.69598
+    maxlatitude: 61.32977
+    latitude: 60.07932
+    longitude: 31.892664
 - name: Sankt-Peterburg
   names:
   - San Pietroburgo
@@ -179,81 +165,94 @@
     maxlatitude: 60.089676
     latitude: 59.93428
     longitude: 30.335098
-- name: Tomskaya oblast'
+- name: Amurskaya oblast'
   names:
-  - Tomskaja Oblast
-  code: TOM
+  - Amurskaja Oblast
+  code: AMU
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 75.05746
-    minlatitude: 55.66864
-    maxlongitude: 89.37533
-    maxlatitude: 61.03353
-    latitude: 58.896988
-    longitude: 82.67655
-- name: Udmurtskaya Respublika
+    minlongitude: 119.66795
+    minlatitude: 48.852264
+    maxlongitude: 134.92026
+    maxlatitude: 57.058533
+    latitude: 54.603508
+    longitude: 127.48017
+- name: Kemerovskaya oblast'
   names:
-  - Udmurt Republic
-  - Udmurtskaya Respublika
-  - Udmurtija
-  code: UD
+  - Kemerovskaja Oblast
+  code: KEM
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 51.1226
-    minlatitude: 55.864273
-    maxlongitude: 54.427547
-    maxlatitude: 58.54504
-    latitude: 57.06702
-    longitude: 53.027794
-- name: Chukotskiy avtonomnyy okrug
+    minlongitude: 84.450096
+    minlatitude: 52.160545
+    maxlongitude: 89.399605
+    maxlatitude: 56.83512
+    latitude: 54.757465
+    longitude: 87.405525
+- name: Khanty-Mansiyskiy avtonomnyy okrug [Yugra]
   names:
-  - Chuckchi
-  - Čukotskij Avtonomnyj Okrug
-  - Čukči
-  - Čukotka
-  code: CHU
+  - Hanty-Mansijskij Avtonomnyj Okrug
+  - Hanty-Mansija
+  code: KHM
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 157.7321
-    minlatitude: 61.809666
-    maxlongitude: -168.99968
-    maxlatitude: 71.59401
-    latitude: 65.62984
-    longitude: 171.69522
-- name: Kurganskaya oblast'
+    minlongitude: 59.19748
+    minlatitude: 58.57642
+    maxlongitude: 85.97285
+    maxlatitude: 65.7107
+    latitude: 62.228706
+    longitude: 70.64101
+- name: Khakasiya, Respublika
   names:
-  - Kurganskaja Oblast
-  code: KGN
+  - Khakass Republic
+  - Hakasija
+  code: KK
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 61.966103
-    minlatitude: 54.187428
-    maxlongitude: 68.72171
-    maxlatitude: 56.842083
-    latitude: 55.448154
-    longitude: 65.118095
-- name: Kurskaya oblast'
+    minlongitude: 87.87584
+    minlatitude: 51.28421
+    maxlongitude: 91.92491
+    maxlatitude: 55.43189
+    latitude: 53.045227
+    longitude: 90.39822
+- name: Kaluzhskaya oblast'
   names:
-  - Kurskaja Oblast
-  code: KRS
+  - Kaluzhskaya Oblast
+  - Kalužskaja Oblast
+  code: KLU
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 34.082188
-    minlatitude: 50.903423
-    maxlongitude: 38.525757
-    maxlatitude: 52.44051
-    latitude: 51.7634
-    longitude: 35.38118
+    minlongitude: 33.44658
+    minlatitude: 53.275997
+    maxlongitude: 37.27565
+    maxlatitude: 55.340263
+    latitude: 54.387268
+    longitude: 35.188908
+- name: Mordoviya, Respublika
+  names:
+  - Mordovian Republic
+  - Mordovija
+  code: MO
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.170383
+    minlatitude: 53.654297
+    maxlongitude: 46.711376
+    maxlatitude: 55.188244
+    latitude: 54.236942
+    longitude: 44.068398
 - name: Pskovskaya oblast'
   names:
   - Pihkva
@@ -270,130 +269,20 @@
     maxlatitude: 59.018852
     latitude: 56.77086
     longitude: 29.09401
-- name: Sakha, Respublika [Yakutiya]
+- name: Magadanskaya oblast'
   names:
-  - Jakutija
-  - Sakha
-  - Yakutsk-Sakha
-  - Saha
-  code: SA
+  - Magadanskaja Oblast
+  code: MAG
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 105.52935
-    minlatitude: 55.49066
-    maxlongitude: 162.85843
-    maxlatitude: 76.75813
-    latitude: 66.761345
-    longitude: 124.12376
-- name: Chuvashskaya Respublika
-  names:
-  - Chuvash Republic
-  - Chuvashskaya Respublika
-  - Čuvašskaja Respublika
-  - Čuvašija
-  code: CU
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.910572
-    minlatitude: 54.62605
-    maxlongitude: 48.416763
-    maxlatitude: 56.329967
-    latitude: 55.5596
-    longitude: 46.928352
-- name: Kemerovskaya oblast'
-  names:
-  - Kemerovskaja Oblast
-  code: KEM
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 84.450096
-    minlatitude: 52.160545
-    maxlongitude: 89.399605
-    maxlatitude: 56.83512
-    latitude: 54.757465
-    longitude: 87.405525
-- name: Kaluzhskaya oblast'
-  names:
-  - Kaluzhskaya Oblast
-  - Kalužskaja Oblast
-  code: KLU
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.44658
-    minlatitude: 53.275997
-    maxlongitude: 37.27565
-    maxlatitude: 55.340263
-    latitude: 54.387268
-    longitude: 35.188908
-- name: Moskovskaya oblast'
-  names:
-  - Moskva
-  - Moskau
-  - Moscou
-  - Moscú
-  code: MOS
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.14902
-    minlatitude: 54.25426
-    maxlongitude: 40.20601
-    maxlatitude: 56.962833
-    latitude: 55.340397
-    longitude: 38.291763
-- name: Sakhalinskaya oblast'
-  names:
-  - Sahalinskaya Oblast
-  - Sahalin
-  code: SAK
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 141.19646
-    minlatitude: 43.360855
-    maxlongitude: 156.51167
-    maxlatitude: 54.416035
-    latitude: 49.980785
-    longitude: 143.37381
-- name: Ul'yanovskaya oblast'
-  names:
-  - Uljanovskaja Oblast
-  - Uljanovsk
-  code: ULY
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.794926
-    minlatitude: 52.53809
-    maxlongitude: 50.239166
-    maxlatitude: 54.89197
-    latitude: 53.979336
-    longitude: 47.77624
-- name: Leningradskaya oblast'
-  names:
-  - Leningradskaja Oblast
-  code: LEN
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.740038
-    minlatitude: 58.41472
-    maxlongitude: 35.69598
-    maxlatitude: 61.32977
-    latitude: 60.07932
-    longitude: 31.892664
+    minlongitude: 144.72221
+    minlatitude: 58.83735
+    maxlongitude: 163.48279
+    maxlatitude: 66.33609
+    latitude: 62.66434
+    longitude: 153.915
 - name: Novosibirskaya oblast'
   names:
   - Novosibirskaja Oblast
@@ -408,6 +297,277 @@
     maxlatitude: 57.236195
     latitude: 55.446712
     longitude: 80.10439
+- name: Tverskaya oblast'
+  names:
+  - Tverskaja Oblast
+  code: TVE
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.776834
+    minlatitude: 55.63227
+    maxlongitude: 38.31839
+    maxlatitude: 58.872112
+    latitude: 57.002167
+    longitude: 33.985313
+- name: Arkhangel'skaya oblast'
+  names:
+  - Arhangelskaja Oblast
+  - Arhangelsk
+  code: ARK
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.502945
+    minlatitude: 60.632122
+    maxlongitude: 69.04823
+    maxlatitude: 81.85812
+    latitude: 63.285282
+    longitude: 42.58842
+- name: Kalmykiya, Respublika
+  names:
+  - Halmg-Tangč
+  - Kalmyk Republic
+  - Khalmg-Tangch
+  - Kalmykija
+  code: KL
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.632717
+    minlatitude: 44.763935
+    maxlongitude: 47.601116
+    maxlatitude: 48.27432
+    latitude: 46.567684
+    longitude: 45.773163
+- name: Lipetskaya oblast'
+  names:
+  - Lipeckaja Oblast
+  - Lipeck
+  code: LIP
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.722446
+    minlatitude: 51.88678
+    maxlongitude: 40.76488
+    maxlatitude: 53.584866
+    latitude: 52.52647
+    longitude: 39.203228
+- name: Mariy El, Respublika
+  names:
+  - Mariy El
+  - Marij El
+  code: ME
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.61973
+    minlatitude: 55.826694
+    maxlongitude: 50.200066
+    maxlatitude: 57.34363
+    latitude: 56.438457
+    longitude: 47.960777
+- name: Perm
+  names:
+  - Permskaja Oblast
+  code: PER
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.811745
+    minlatitude: 57.864017
+    maxlongitude: 56.656807
+    maxlatitude: 58.176956
+    latitude: 58
+    longitude: 56.316666
+- name: Yevreyskaya avtonomnaya oblast'
+  names:
+  - Jevrejskaja Oblast
+  - Jevrejskaja Respublika
+  - Jewish Autonomous Oblast
+  - Yevreyskaya Oblast
+  - Jevrej
+  code: YEV
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 130.52124
+    minlatitude: 47.65944
+    maxlongitude: 134.99536
+    maxlatitude: 49.49388
+    latitude: 48.480816
+    longitude: 131.76573
+- name: Irkutskaya oblast'
+  names:
+  - Irkutskaja Oblast
+  code: IRK
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 95.65774
+    minlatitude: 51.137318
+    maxlongitude: 119.13069
+    maxlatitude: 64.316956
+    latitude: 56.13214
+    longitude: 103.94862
+- name: Kabardino-Balkarskaya Respublika
+  names:
+  - Kabardino-Balkarian Republic
+  - Kabardino-Balkarskaja Respublika
+  - Kabardino-Balkarija
+  code: KB
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.39812
+    minlatitude: 42.8891
+    maxlongitude: 44.47055
+    maxlatitude: 44.022816
+    latitude: 43.393246
+    longitude: 43.56285
+- name: Tatarstan, Respublika
+  names:
+  - Tatarstan, Respublika
+  code: TA
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.258648
+    minlatitude: 53.976025
+    maxlongitude: 54.26029
+    maxlatitude: 56.677216
+    latitude: 55.180237
+    longitude: 50.726395
+- name: Zabaykal'skij kray
+  names:
+  - Zabajkal'skij kraj
+  - Zabajkal'skij
+  - Zabaykal'skij kray
+  code: ZAB
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 107.736145
+    minlatitude: 49.1551
+    maxlongitude: 122.130325
+    maxlatitude: 58.435146
+    latitude: 53.092876
+    longitude: 116.96766
+- name: Buryatiya, Respublika
+  names:
+  - Buryat Republic
+  - Burjatija
+  code: BU
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.768517
+    longitude: 37.642574
+- name: Kamchatskaya oblast'
+  names:
+  - Kamchatskaya Oblast
+  - Kamčatskaja Oblast
+  - Kamčatka
+  code: KAM
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 55.743584
+    longitude: 37.58802
+- name: Krasnodarskiy kray
+  names:
+  - Krasnodarskij Kraj
+  code: KDA
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.598053
+    minlatitude: 43.384865
+    maxlongitude: 41.747643
+    maxlatitude: 46.880238
+    latitude: 45.64153
+    longitude: 39.705597
+- name: Orlovskaya oblast'
+  names:
+  - Orlovskaja Oblast
+  - Orjol
+  code: ORL
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.791767
+    minlatitude: 51.936745
+    maxlongitude: 38.06448
+    maxlatitude: 53.637215
+    latitude: 52.745018
+    longitude: 36.484962
+- name: Tambovskaya oblast'
+  names:
+  - Tambovskaja Oblast
+  code: TAM
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.917095
+    minlatitude: 51.589638
+    maxlongitude: 43.244816
+    maxlatitude: 53.822887
+    latitude: 52.64166
+    longitude: 41.421646
+- name: Tyva, Respublika [Tuva]
+  names:
+  - Tuva
+  code: TY
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.79853
+    minlatitude: 49.741714
+    maxlongitude: 99.26967
+    maxlatitude: 53.727432
+    latitude: 51.887268
+    longitude: 95.626015
+- name: Yaroslavskaya oblast'
+  names:
+  - Jaroslavskaja Oblast
+  - Jaroslavl
+  code: YAR
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.324326
+    minlatitude: 56.540108
+    maxlongitude: 41.178673
+    maxlatitude: 58.95002
+    latitude: 57.89915
+    longitude: 38.838863
 - name: Chechenskaya Respublika
   names:
   - Chechen
@@ -442,20 +602,227 @@
     maxlatitude: 0
     latitude: 55.75996
     longitude: 37.650436
-- name: Magadanskaya oblast'
+- name: Khabarovskiy kray
   names:
-  - Magadanskaja Oblast
-  code: MAG
+  - Habarovskij Kray
+  - Habarovsk
+  code: KHA
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 144.72221
-    minlatitude: 58.83735
-    maxlongitude: 163.48279
-    maxlatitude: 66.33609
-    latitude: 62.66434
-    longitude: 153.915
+    minlongitude: 130.38864
+    minlatitude: 46.63472
+    maxlongitude: 147.20386
+    maxlatitude: 62.524612
+    latitude: 50.588844
+    longitude: 0
+- name: Moskva
+  names:
+  - Moskovskaja Oblast
+  code: MOW
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.31933
+    minlatitude: 55.489925
+    maxlongitude: 37.94566
+    maxlatitude: 56.00966
+    latitude: 55.755825
+    longitude: 37.6173
+- name: Vladimirskaya oblast'
+  names:
+  - Vladimirskaja Oblast
+  code: VLA
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.27286
+    minlatitude: 55.10319
+    maxlongitude: 42.977177
+    maxlatitude: 56.81697
+    latitude: 56.155346
+    longitude: 40.592667
+- name: Vologodskaya oblast'
+  names:
+  - Vologodskaja Oblast
+  code: VLG
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.716118
+    minlatitude: 58.483177
+    maxlongitude: 47.157887
+    maxlatitude: 61.607277
+    latitude: 59.87067
+    longitude: 40.65554
+- name: Sverdlovskaya oblast'
+  names:
+  - Sverdlovskaja Oblast
+  code: SVE
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.236015
+    minlatitude: 56.056232
+    maxlongitude: 66.17865
+    maxlatitude: 61.945904
+    latitude: 59.007736
+    longitude: 61.93162
+- name: Bryanskaya oblast'
+  names:
+  - Brjanskaja Oblast
+  - Brjansk
+  code: BRY
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.242105
+    minlatitude: 51.844036
+    maxlongitude: 35.321278
+    maxlatitude: 54.0363
+    latitude: 53.04086
+    longitude: 33.26909
+- name: Ingushskaya Respublika [Respublika Ingushetiya]
+  names:
+  - Ingushetija
+  - Ingušetija
+  code: IN
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.476933
+    minlatitude: 42.61483
+    maxlongitude: 45.190235
+    maxlatitude: 43.610794
+    latitude: 43.40517
+    longitude: 44.8203
+- name: Ivanovskaya oblast'
+  names:
+  - Ivanovskaja Oblast
+  code: IVA
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.377953
+    minlatitude: 56.350395
+    maxlongitude: 43.30587
+    maxlatitude: 57.74272
+    latitude: 57.105686
+    longitude: 41.48301
+- name: Moskovskaya oblast'
+  names:
+  - Moskva
+  - Moskau
+  - Moscou
+  - Moscú
+  code: MOS
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.14902
+    minlatitude: 54.25426
+    maxlongitude: 40.20601
+    maxlatitude: 56.962833
+    latitude: 55.340397
+    longitude: 38.291763
+- name: Novgorodskaya oblast'
+  names:
+  - Novgorodskaja Oblast
+  code: NGR
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.623056
+    minlatitude: 56.917885
+    maxlongitude: 36.21953
+    maxlatitude: 59.445152
+    latitude: 58.242756
+    longitude: 32.56652
+- name: Rostovskaya oblast'
+  names:
+  - Rostovskaja Oblast
+  code: ROS
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.222374
+    minlatitude: 45.95212
+    maxlongitude: 44.322544
+    maxlatitude: 50.212326
+    latitude: 47.685326
+    longitude: 41.825893
+- name: Smolenskaya oblast'
+  names:
+  - Smolenskaja Oblast
+  code: SMO
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.748674
+    minlatitude: 53.414513
+    maxlongitude: 35.392044
+    maxlatitude: 56.070942
+    latitude: 54.9883
+    longitude: 32.667736
+- name: Yamalo-Nenetskiy avtonomnyy okrug
+  names:
+  - Jamalija
+  - Jamalo-Nenetskij Avtonomnyj Okrug
+  - Jamalo-Nenets
+  code: YAN
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 62.012115
+    minlatitude: 62.190002
+    maxlongitude: 86.01397
+    maxlatitude: 73.52249
+    latitude: 66.06531
+    longitude: 76.93452
+- name: Astrakhanskaya oblast'
+  names:
+  - Astrahanska Oblast
+  - Astrahan
+  code: AST
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.97076
+    minlatitude: 45.172554
+    maxlongitude: 49.2794
+    maxlatitude: 48.865345
+    latitude: 46.13212
+    longitude: 48.061012
+- name: Chelyabinskaya oblast'
+  names:
+  - Cheljabinsk
+  - Čeljabinskaja Oblast
+  - Čeljabinsk
+  code: CHE
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.13007
+    minlatitude: 51.99064
+    maxlongitude: 63.34929
+    maxlatitude: 56.364883
+    latitude: 54.431942
+    longitude: 60.878895
 - name: Nizhegorodskaya oblast'
   names:
   - Gorki
@@ -475,196 +842,53 @@
     maxlatitude: 58.088993
     latitude: 55.799515
     longitude: 44.02968
-- name: Tambovskaya oblast'
+- name: Sakha, Respublika [Yakutiya]
   names:
-  - Tambovskaja Oblast
-  code: TAM
+  - Jakutija
+  - Sakha
+  - Yakutsk-Sakha
+  - Saha
+  code: SA
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 39.917095
-    minlatitude: 51.589638
-    maxlongitude: 43.244816
-    maxlatitude: 53.822887
-    latitude: 52.64166
-    longitude: 41.421646
-- name: Yaroslavskaya oblast'
+    minlongitude: 105.52935
+    minlatitude: 55.49066
+    maxlongitude: 162.85843
+    maxlatitude: 76.75813
+    latitude: 66.761345
+    longitude: 124.12376
+- name: Udmurtskaya Respublika
   names:
-  - Jaroslavskaja Oblast
-  - Jaroslavl
-  code: YAR
+  - Udmurt Republic
+  - Udmurtskaya Respublika
+  - Udmurtija
+  code: UD
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 37.324326
-    minlatitude: 56.540108
-    maxlongitude: 41.178673
-    maxlatitude: 58.95002
-    latitude: 57.89915
-    longitude: 38.838863
-- name: Altay, Respublika
+    minlongitude: 51.1226
+    minlatitude: 55.864273
+    maxlongitude: 54.427547
+    maxlatitude: 58.54504
+    latitude: 57.06702
+    longitude: 53.027794
+- name: Volgogradskaya oblast'
   names:
-  - Altaj
-  - Altay
-  - Gorno-Altaj
-  code: AL
+  - Volgogradskaja Oblast
+  code: VGG
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 55.767193
-    longitude: 37.60616
-- name: Tatarstan, Respublika
-  names:
-  - Tatarstan, Respublika
-  code: TA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.258648
-    minlatitude: 53.976025
-    maxlongitude: 54.26029
-    maxlatitude: 56.677216
-    latitude: 55.180237
-    longitude: 50.726395
-- name: Bashkortostan, Respublika
-  names:
-  - Baškortostan
-  code: BA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 53.157997
-    minlatitude: 51.571224
-    maxlongitude: 60.00295
-    maxlatitude: 56.53352
-    latitude: 54.231216
-    longitude: 56.164524
-- name: Karachayevo-Cherkesskaya Respublika
-  names:
-  - Karachay-Cherkessian
-  - Karačajevo-Čerkesskaja Respublika
-  - Karačaj-Čerkessija
-  code: KC
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 40.68337
-    minlatitude: 43.187435
-    maxlongitude: 42.678032
-    maxlatitude: 44.49698
-    latitude: 43.884514
-    longitude: 41.730392
-- name: Krasnoyarskiy kray
-  names:
-  - Krasnojarsk
-  - Krasnojarskij Kraj
-  - Krasnojarsk
-  code: KYA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 76.111755
-    minlatitude: 51.773457
-    maxlongitude: 113.91628
-    maxlatitude: 81.26631
-    latitude: 64.24798
-    longitude: 95.11042
-- name: Lipetskaya oblast'
-  names:
-  - Lipeckaja Oblast
-  - Lipeck
-  code: LIP
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 37.722446
-    minlatitude: 51.88678
-    maxlongitude: 40.76488
-    maxlatitude: 53.584866
-    latitude: 52.52647
-    longitude: 39.203228
-- name: Nenetskiy avtonomnyy okrug
-  names:
-  - Nenetskij Avtonomnyj Okrug
-  code: NEN
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.27035
-    minlatitude: 65.82347
-    maxlongitude: 65.67778
-    maxlatitude: 70.464905
-    latitude: 67.607834
-    longitude: 57.633835
-- name: Penzenskaya oblast'
-  names:
-  - Penzenskaja Oblast
-  code: PNZ
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 42.091743
-    minlatitude: 52.304836
-    maxlongitude: 46.9853
-    maxlatitude: 54.02811
-    latitude: 53.14121
-    longitude: 44.094006
-- name: Saratovskaya oblast'
-  names:
-  - Saratovskaja Oblast
-  code: SAR
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 42.513298
-    minlatitude: 49.80098
-    maxlongitude: 50.83309
-    maxlatitude: 52.81455
-    latitude: 51.836926
-    longitude: 46.75394
-- name: Sverdlovskaya oblast'
-  names:
-  - Sverdlovskaja Oblast
-  code: SVE
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.236015
-    minlatitude: 56.056232
-    maxlongitude: 66.17865
-    maxlatitude: 61.945904
-    latitude: 59.007736
-    longitude: 61.93162
-- name: Tul'skaya oblast'
-  names:
-  - Tulskaja Oblast
-  code: TUL
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.896328
-    minlatitude: 52.9556
-    maxlongitude: 38.95297
-    maxlatitude: 54.85057
-    latitude: 54.16377
-    longitude: 37.56495
+    minlongitude: 41.167564
+    minlatitude: 47.44146
+    maxlongitude: 47.431286
+    maxlatitude: 51.244305
+    latitude: 49.760452
+    longitude: 0
 - name: Altayskiy kray
   names:
   - Altai Kray
@@ -682,346 +906,34 @@
     maxlatitude: 54.45086
     latitude: 51.79363
     longitude: 82.67586
-- name: Kamchatskaya oblast'
+- name: Kurskaya oblast'
   names:
-  - Kamchatskaya Oblast
-  - Kamčatskaja Oblast
-  - Kamčatka
-  code: KAM
+  - Kurskaja Oblast
+  code: KRS
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 55.743584
-    longitude: 37.58802
-- name: Kalmykiya, Respublika
+    minlongitude: 34.082188
+    minlatitude: 50.903423
+    maxlongitude: 38.525757
+    maxlatitude: 52.44051
+    latitude: 51.7634
+    longitude: 35.38118
+- name: Samarskaya oblast'
   names:
-  - Halmg-Tangč
-  - Kalmyk Republic
-  - Khalmg-Tangch
-  - Kalmykija
-  code: KL
+  - Samarskaja Oblast
+  code: SAM
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 41.632717
-    minlatitude: 44.763935
-    maxlongitude: 47.601116
-    maxlatitude: 48.27432
-    latitude: 46.567684
-    longitude: 45.773163
-- name: Smolenskaya oblast'
-  names:
-  - Smolenskaja Oblast
-  code: SMO
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.748674
-    minlatitude: 53.414513
-    maxlongitude: 35.392044
-    maxlatitude: 56.070942
-    latitude: 54.9883
-    longitude: 32.667736
-- name: Ingushskaya Respublika [Respublika Ingushetiya]
-  names:
-  - Ingushetija
-  - Ingušetija
-  code: IN
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.476933
-    minlatitude: 42.61483
-    maxlongitude: 45.190235
-    maxlatitude: 43.610794
-    latitude: 43.40517
-    longitude: 44.8203
-- name: Khakasiya, Respublika
-  names:
-  - Khakass Republic
-  - Hakasija
-  code: KK
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 87.87584
-    minlatitude: 51.28421
-    maxlongitude: 91.92491
-    maxlatitude: 55.43189
-    latitude: 53.045227
-    longitude: 90.39822
-- name: Komi, Respublika
-  names:
-  - Komi, Respublika
-  code: KO
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.404655
-    minlatitude: 59.196102
-    maxlongitude: 66.25232
-    maxlatitude: 68.422874
-    latitude: 63.863052
-    longitude: 54.83127
-- name: Novgorodskaya oblast'
-  names:
-  - Novgorodskaja Oblast
-  code: NGR
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 29.623056
-    minlatitude: 56.917885
-    maxlongitude: 36.21953
-    maxlatitude: 59.445152
-    latitude: 58.242756
-    longitude: 32.56652
-- name: Orlovskaya oblast'
-  names:
-  - Orlovskaja Oblast
-  - Orjol
-  code: ORL
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.791767
-    minlatitude: 51.936745
-    maxlongitude: 38.06448
-    maxlatitude: 53.637215
-    latitude: 52.745018
-    longitude: 36.484962
-- name: Volgogradskaya oblast'
-  names:
-  - Volgogradskaja Oblast
-  code: VGG
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 41.167564
-    minlatitude: 47.44146
-    maxlongitude: 47.431286
-    maxlatitude: 51.244305
-    latitude: 49.760452
-    longitude: 0
-- name: Bryanskaya oblast'
-  names:
-  - Brjanskaja Oblast
-  - Brjansk
-  code: BRY
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.242105
-    minlatitude: 51.844036
-    maxlongitude: 35.321278
-    maxlatitude: 54.0363
-    latitude: 53.04086
-    longitude: 33.26909
-- name: Buryatiya, Respublika
-  names:
-  - Buryat Republic
-  - Burjatija
-  code: BU
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 55.768517
-    longitude: 37.642574
-- name: Krasnodarskiy kray
-  names:
-  - Krasnodarskij Kraj
-  code: KDA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 36.598053
-    minlatitude: 43.384865
-    maxlongitude: 41.747643
-    maxlatitude: 46.880238
-    latitude: 45.64153
-    longitude: 39.705597
-- name: Kaliningradskaya oblast'
-  names:
-  - Kaliningradskaja Oblast
-  code: KGD
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.638853
-    minlatitude: 54.318844
-    maxlongitude: 22.886889
-    maxlatitude: 55.294445
-    latitude: 54.82353
-    longitude: 21.481617
-- name: Perm
-  names:
-  - Permskaja Oblast
-  code: PER
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 55.811745
-    minlatitude: 57.864017
-    maxlongitude: 56.656807
-    maxlatitude: 58.176956
-    latitude: 58
-    longitude: 56.316666
-- name: Tverskaya oblast'
-  names:
-  - Tverskaja Oblast
-  code: TVE
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.776834
-    minlatitude: 55.63227
-    maxlongitude: 38.31839
-    maxlatitude: 58.872112
-    latitude: 57.002167
-    longitude: 33.985313
-- name: Vladimirskaya oblast'
-  names:
-  - Vladimirskaja Oblast
-  code: VLA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 38.27286
-    minlatitude: 55.10319
-    maxlongitude: 42.977177
-    maxlatitude: 56.81697
-    latitude: 56.155346
-    longitude: 40.592667
-- name: Arkhangel'skaya oblast'
-  names:
-  - Arhangelskaja Oblast
-  - Arhangelsk
-  code: ARK
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.502945
-    minlatitude: 60.632122
-    maxlongitude: 69.04823
-    maxlatitude: 81.85812
-    latitude: 63.285282
-    longitude: 42.58842
-- name: Kareliya, Respublika
-  names:
-  - Karelian Republic
-  - Karelija
-  code: KR
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 29.310291
-    minlatitude: 60.68577
-    maxlongitude: 37.932053
-    maxlatitude: 66.67326
-    latitude: 63.15587
-    longitude: 32.990555
-- name: Tyumenskaya oblast'
-  names:
-  - Tjumenskaja Oblast
-  - Tumen
-  - Tjumen
-  code: TYU
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 64.8278
-    minlatitude: 55.145466
-    maxlongitude: 75.1942
-    maxlatitude: 59.989635
-    latitude: 56.96344
-    longitude: 66.94828
-- name: Zabaykal'skij kray
-  names:
-  - Zabajkal'skij kraj
-  - Zabajkal'skij
-  - Zabaykal'skij kray
-  code: ZAB
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 107.736145
-    minlatitude: 49.1551
-    maxlongitude: 122.130325
-    maxlatitude: 58.435146
-    latitude: 53.092876
-    longitude: 116.96766
-- name: Adygeya, Respublika
-  names:
-  - Adygei Republic
-  - Adygeja
-  code: AD
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 38.681854
-    minlatitude: 43.75768
-    maxlongitude: 40.774498
-    maxlatitude: 45.21684
-    latitude: 44.822914
-    longitude: 40.175446
-- name: Irkutskaya oblast'
-  names:
-  - Irkutskaja Oblast
-  code: IRK
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 95.65774
-    minlatitude: 51.137318
-    maxlongitude: 119.13069
-    maxlatitude: 64.316956
-    latitude: 56.13214
-    longitude: 103.94862
-- name: Khabarovskiy kray
-  names:
-  - Habarovskij Kray
-  - Habarovsk
-  code: KHA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 130.38864
-    minlatitude: 46.63472
-    maxlongitude: 147.20386
-    maxlatitude: 62.524612
-    latitude: 50.588844
-    longitude: 0
+    minlongitude: 47.924686
+    minlatitude: 51.773956
+    maxlongitude: 52.55545
+    maxlatitude: 54.678024
+    latitude: 53.418385
+    longitude: 50.472553
 - name: Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]
   names:
   - Alania
@@ -1039,51 +951,21 @@
     maxlatitude: 43.839756
     latitude: 43.04513
     longitude: 44.287098
-- name: Belgorodskaya oblast'
+- name: Voronezhskaya oblast'
   names:
-  - Belgorodskaja Oblast
-  code: BEL
+  - Voronežskaja Oblast
+  - Voronež
+  code: VOR
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 35.328526
-    minlatitude: 49.796402
-    maxlongitude: 39.275127
-    maxlatitude: 51.432564
-    latitude: 50.710693
-    longitude: 37.753338
-- name: Chelyabinskaya oblast'
-  names:
-  - Cheljabinsk
-  - Čeljabinskaja Oblast
-  - Čeljabinsk
-  code: CHE
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.13007
-    minlatitude: 51.99064
-    maxlongitude: 63.34929
-    maxlatitude: 56.364883
-    latitude: 54.431942
-    longitude: 60.878895
-- name: Khanty-Mansiyskiy avtonomnyy okrug [Yugra]
-  names:
-  - Hanty-Mansijskij Avtonomnyj Okrug
-  - Hanty-Mansija
-  code: KHM
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 59.19748
-    minlatitude: 58.57642
-    maxlongitude: 85.97285
-    maxlatitude: 65.7107
-    latitude: 62.228706
-    longitude: 70.64101
+    minlongitude: 38.13708
+    minlatitude: 49.556057
+    maxlongitude: 42.944786
+    maxlatitude: 52.10243
+    latitude: 50.85897
+    longitude: 39.864437
 - name: Kirovskaya oblast'
   names:
   - Kirovskaja Oblast
@@ -1098,90 +980,34 @@
     maxlatitude: 61.062916
     latitude: 58.419853
     longitude: 50.209724
-- name: Murmanskaya oblast'
+- name: Kostromskaya oblast'
   names:
-  - Murmanskaja Oblast
-  code: MUR
+  - Kostromskaja Oblast
+  code: KOS
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.416386
-    minlatitude: 66.05654
-    maxlongitude: 41.40171
-    maxlatitude: 69.95209
-    latitude: 67.84427
-    longitude: 35.08841
-- name: Stavropol'skiy kray
+    minlongitude: 40.39976
+    minlatitude: 57.27783
+    maxlongitude: 47.644646
+    maxlatitude: 59.62038
+    latitude: 58.550106
+    longitude: 43.95411
+- name: Penzenskaya oblast'
   names:
-  - Stavropolskij Kraj
-  code: STA
+  - Penzenskaja Oblast
+  code: PNZ
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 40.843063
-    minlatitude: 43.65807
-    maxlongitude: 45.718975
-    maxlatitude: 46.22991
-    latitude: 44.6681
-    longitude: 43.520214
-- name: Tyva, Respublika [Tuva]
-  names:
-  - Tuva
-  code: TY
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 88.79853
-    minlatitude: 49.741714
-    maxlongitude: 99.26967
-    maxlatitude: 53.727432
-    latitude: 51.887268
-    longitude: 95.626015
-- name: Vologodskaya oblast'
-  names:
-  - Vologodskaja Oblast
-  code: VLG
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.716118
-    minlatitude: 58.483177
-    maxlongitude: 47.157887
-    maxlatitude: 61.607277
-    latitude: 59.87067
-    longitude: 40.65554
-- name: Ivanovskaya oblast'
-  names:
-  - Ivanovskaja Oblast
-  code: IVA
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 39.377953
-    minlatitude: 56.350395
-    maxlongitude: 43.30587
-    maxlatitude: 57.74272
-    latitude: 57.105686
-    longitude: 41.48301
-- name: Orenburgskaya oblast'
-  names:
-  - Orenburgskaja Oblast
-  code: ORE
-  countryalpha2: RU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.768383
-    minlatitude: 50.49496
-    maxlongitude: 61.690746
-    maxlatitude: 54.36583
-    latitude: 51.7634
-    longitude: 54.61882
+    minlongitude: 42.091743
+    minlatitude: 52.304836
+    maxlongitude: 46.9853
+    maxlatitude: 54.02811
+    latitude: 53.14121
+    longitude: 44.094006
 - name: Ryazanskaya oblast'
   names:
   - Rjazanskaja Oblast
@@ -1197,50 +1023,224 @@
     maxlatitude: 55.36611
     latitude: 54.387596
     longitude: 41.259567
-- name: Astrakhanskaya oblast'
+- name: Tul'skaya oblast'
   names:
-  - Astrahanska Oblast
-  - Astrahan
-  code: AST
+  - Tulskaja Oblast
+  code: TUL
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 44.97076
-    minlatitude: 45.172554
-    maxlongitude: 49.2794
-    maxlatitude: 48.865345
-    latitude: 46.13212
-    longitude: 48.061012
-- name: Moskva
+    minlongitude: 35.896328
+    minlatitude: 52.9556
+    maxlongitude: 38.95297
+    maxlatitude: 54.85057
+    latitude: 54.16377
+    longitude: 37.56495
+- name: Tyumenskaya oblast'
   names:
-  - Moskovskaja Oblast
-  code: MOW
+  - Tjumenskaja Oblast
+  - Tumen
+  - Tjumen
+  code: TYU
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 37.31933
-    minlatitude: 55.489925
-    maxlongitude: 37.94566
-    maxlatitude: 56.00966
-    latitude: 55.755825
-    longitude: 37.6173
-- name: Yevreyskaya avtonomnaya oblast'
+    minlongitude: 64.8278
+    minlatitude: 55.145466
+    maxlongitude: 75.1942
+    maxlatitude: 59.989635
+    latitude: 56.96344
+    longitude: 66.94828
+- name: Adygeya, Respublika
   names:
-  - Jevrejskaja Oblast
-  - Jevrejskaja Respublika
-  - Jewish Autonomous Oblast
-  - Yevreyskaya Oblast
-  - Jevrej
-  code: YEV
+  - Adygei Republic
+  - Adygeja
+  code: AD
   countryalpha2: RU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 130.52124
-    minlatitude: 47.65944
-    maxlongitude: 134.99536
-    maxlatitude: 49.49388
-    latitude: 48.480816
-    longitude: 131.76573
+    minlongitude: 38.681854
+    minlatitude: 43.75768
+    maxlongitude: 40.774498
+    maxlatitude: 45.21684
+    latitude: 44.822914
+    longitude: 40.175446
+- name: Omskaya oblast'
+  names:
+  - Omskaja Oblast
+  code: OMS
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 70.35474
+    minlatitude: 53.435123
+    maxlongitude: 76.303764
+    maxlatitude: 58.57415
+    latitude: 55.055466
+    longitude: 73.316734
+- name: Stavropol'skiy kray
+  names:
+  - Stavropolskij Kraj
+  code: STA
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.843063
+    minlatitude: 43.65807
+    maxlongitude: 45.718975
+    maxlatitude: 46.22991
+    latitude: 44.6681
+    longitude: 43.520214
+- name: Ul'yanovskaya oblast'
+  names:
+  - Uljanovskaja Oblast
+  - Uljanovsk
+  code: ULY
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.794926
+    minlatitude: 52.53809
+    maxlongitude: 50.239166
+    maxlatitude: 54.89197
+    latitude: 53.979336
+    longitude: 47.77624
+- name: Chukotskiy avtonomnyy okrug
+  names:
+  - Chuckchi
+  - Čukotskij Avtonomnyj Okrug
+  - Čukči
+  - Čukotka
+  code: CHU
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 157.7321
+    minlatitude: 61.809666
+    maxlongitude: -168.99968
+    maxlatitude: 71.59401
+    latitude: 65.62984
+    longitude: 171.69522
+- name: Orenburgskaya oblast'
+  names:
+  - Orenburgskaja Oblast
+  code: ORE
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.768383
+    minlatitude: 50.49496
+    maxlongitude: 61.690746
+    maxlatitude: 54.36583
+    latitude: 51.7634
+    longitude: 54.61882
+- name: Primorskiy kray
+  names:
+  - Primorskij
+  - Primorskij Kraj
+  - Primorje
+  code: PRI
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 130.39465
+    minlatitude: 42.28838
+    maxlongitude: 139.0215
+    maxlatitude: 48.458706
+    latitude: 45.052563
+    longitude: 0
+- name: Kaliningradskaya oblast'
+  names:
+  - Kaliningradskaja Oblast
+  code: KGD
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.638853
+    minlatitude: 54.318844
+    maxlongitude: 22.886889
+    maxlatitude: 55.294445
+    latitude: 54.82353
+    longitude: 21.481617
+- name: Kurganskaya oblast'
+  names:
+  - Kurganskaja Oblast
+  code: KGN
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 61.966103
+    minlatitude: 54.187428
+    maxlongitude: 68.72171
+    maxlatitude: 56.842083
+    latitude: 55.448154
+    longitude: 65.118095
+- name: Murmanskaya oblast'
+  names:
+  - Murmanskaja Oblast
+  code: MUR
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.416386
+    minlatitude: 66.05654
+    maxlongitude: 41.40171
+    maxlatitude: 69.95209
+    latitude: 67.84427
+    longitude: 35.08841
+- name: Belgorodskaya oblast'
+  names:
+  - Belgorodskaja Oblast
+  code: BEL
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.328526
+    minlatitude: 49.796402
+    maxlongitude: 39.275127
+    maxlatitude: 51.432564
+    latitude: 50.710693
+    longitude: 37.753338
+- name: Karachayevo-Cherkesskaya Respublika
+  names:
+  - Karachay-Cherkessian
+  - Karačajevo-Čerkesskaja Respublika
+  - Karačaj-Čerkessija
+  code: KC
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.68337
+    minlatitude: 43.187435
+    maxlongitude: 42.678032
+    maxlatitude: 44.49698
+    latitude: 43.884514
+    longitude: 41.730392
+- name: Saratovskaya oblast'
+  names:
+  - Saratovskaja Oblast
+  code: SAR
+  countryalpha2: RU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.513298
+    minlatitude: 49.80098
+    maxlongitude: 50.83309
+    maxlatitude: 52.81455
+    latitude: 51.836926
+    longitude: 46.75394

@@ -17,37 +17,28 @@ languages:
   ara: Arabic
   fra: French
 translations:
-  cym:
-    common: Tsiad
-    official: Republic of Chad
-  deu:
+  DEU:
     common: Tschad
     official: Republik Tschad
-  fin:
+  FIN:
     common: Tšad
     official: Tšadin tasavalta
-  fra:
-    common: Tchad
-    official: République du Tchad
-  hrv:
+  HRV:
     common: Čad
     official: Čadu
-  ita:
+  ITA:
     common: Ciad
     official: Repubblica del Ciad
-  jpn:
+  JPN:
     common: チャド
     official: チャド共和国
-  nld:
-    common: Tsjaad
-    official: Republiek Tsjaad
-  por:
+  POR:
     common: Chade
     official: República do Chade
-  rus:
+  RUS:
     common: Чад
     official: Республика Чад
-  spa:
+  SPA:
     common: Chad
     official: República de Chad
 currencies:

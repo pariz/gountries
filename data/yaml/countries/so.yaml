@@ -17,36 +17,27 @@ languages:
   ara: Arabic
   som: Somali
 translations:
-  deu:
-    common: Somalia
-    official: Bundesrepublik Somalia
-  fin:
+  FIN:
     common: Somalia
     official: Somalian liittotasavalta
-  fra:
+  FRA:
     common: Somalie
     official: République fédérale de Somalie
-  hrv:
+  HRV:
     common: Somalija
     official: Savezna Republika Somaliji
-  ita:
+  ITA:
     common: Somalia
     official: Repubblica federale di Somalia
-  jpn:
+  JPN:
     common: ソマリア
     official: ソマリア連邦共和国
-  nld:
+  NLD:
     common: Somalië
     official: Federale Republiek Somalië
-  por:
+  POR:
     common: Somália
     official: República Federal da Somália
-  rus:
-    common: Сомали
-    official: Федеративная Республика Сомали
-  spa:
-    common: Somalia
-    official: República Federal de Somalia
 currencies:
 - SOS
 borders:

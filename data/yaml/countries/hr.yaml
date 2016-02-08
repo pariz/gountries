@@ -13,37 +13,25 @@ tlds:
 languages:
   hrv: Croatian
 translations:
-  cym:
+  CYM:
     common: Croatia
     official: Republic of Croatia
-  deu:
-    common: Kroatien
-    official: Republik Kroatien
-  fin:
+  FIN:
     common: Kroatia
     official: Kroatian tasavalta
-  fra:
+  FRA:
     common: Croatie
     official: République de Croatie
-  hrv:
+  HRV:
     common: Hrvatska
     official: Republika Hrvatska
-  ita:
-    common: Croazia
-    official: Repubblica di Croazia
-  jpn:
-    common: クロアチア
-    official: クロアチア共和国
-  nld:
+  NLD:
     common: Kroatië
     official: Republiek Kroatië
-  por:
-    common: Croácia
-    official: República da Croácia
-  rus:
+  RUS:
     common: Хорватия
     official: Республика Хорватия
-  spa:
+  SPA:
     common: Croacia
     official: República de Croacia
 currencies:

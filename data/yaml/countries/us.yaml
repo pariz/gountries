@@ -13,34 +13,25 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
-    common: Vereinigte Staaten von Amerika
-    official: Vereinigte Staaten von Amerika
-  fin:
-    common: Yhdysvallat
-    official: Amerikan yhdysvallat
-  fra:
+  FRA:
     common: États-Unis
     official: Les états-unis d'Amérique
-  hrv:
+  HRV:
     common: Sjedinjene Američke Države
     official: Sjedinjene Države Amerike
-  ita:
+  ITA:
     common: Stati Uniti d'America
     official: Stati Uniti d'America
-  jpn:
+  JPN:
     common: アメリカ合衆国
     official: アメリカ合衆国
-  nld:
+  NLD:
     common: Verenigde Staten
     official: Verenigde Staten van Amerika
-  por:
-    common: Estados Unidos
-    official: Estados Unidos da América
-  rus:
+  RUS:
     common: Соединённые Штаты Америки
     official: Соединенные Штаты Америки
-  spa:
+  SPA:
     common: Estados Unidos
     official: Estados Unidos de América
 currencies:

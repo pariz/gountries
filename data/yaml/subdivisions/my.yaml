@@ -1,73 +1,3 @@
-- name: Terengganu
-  names:
-  - Terengganu
-  code: "11"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.37905
-    minlatitude: 3.880863
-    maxlongitude: 103.690575
-    maxlatitude: 5.964046
-    latitude: 5.3116918
-    longitude: 103.132416
-- name: Sabah
-  names:
-  - Sabah
-  code: "12"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 115.34158
-    minlatitude: 4.102767
-    maxlongitude: 119.2675
-    maxlatitude: 7.362708
-    latitude: 5.97884
-    longitude: 116.07532
-- name: Johor
-  names:
-  - Johor
-  code: "01"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.468124
-    minlatitude: 1.2657421
-    maxlongitude: 104.551155
-    maxlatitude: 2.833292
-    latitude: 1.4853683
-    longitude: 103.76182
-- name: Negeri Sembilan
-  names:
-  - Negri Sembilan
-  code: "05"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.70214
-    minlatitude: 2.3897717
-    maxlongitude: 102.70207
-    maxlatitude: 3.289874
-    latitude: 2.7258058
-    longitude: 101.942375
-- name: Pahang
-  names:
-  - Pahang
-  code: "06"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 101.33241
-    minlatitude: 2.4593608
-    maxlongitude: 104.22351
-    maxlatitude: 4.779313
-    latitude: 3.8126318
-    longitude: 103.32562
 - name: Kelantan
   names:
   - Kelantan
@@ -82,62 +12,34 @@
     maxlatitude: 6.243909
     latitude: 6.1253967
     longitude: 102.23807
-- name: Melaka
+- name: Sabah
   names:
-  - Melaka
-  code: "04"
+  - Sabah
+  code: "12"
   countryalpha2: MY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 102.15571
-    minlatitude: 2.1544178
-    maxlongitude: 102.43279
-    maxlatitude: 2.309435
-    latitude: 2.189594
-    longitude: 102.250084
-- name: Pulau Pinang
+    minlongitude: 115.34158
+    minlatitude: 4.102767
+    maxlongitude: 119.2675
+    maxlatitude: 7.362708
+    latitude: 5.97884
+    longitude: 116.07532
+- name: Negeri Sembilan
   names:
-  - Pulau Pinang
-  code: "07"
+  - Negri Sembilan
+  code: "05"
   countryalpha2: MY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 100.17513
-    minlatitude: 5.122673
-    maxlongitude: 100.55062
-    maxlatitude: 5.585335
-    latitude: 5.4141674
-    longitude: 100.32876
-- name: Perak
-  names:
-  - Perak
-  code: "08"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 100.36062
-    minlatitude: 3.6678984
-    maxlongitude: 101.752655
-    maxlatitude: 5.93451
-    latitude: 4.5921125
-    longitude: 101.09011
-- name: Sarawak
-  names:
-  - Sarawak
-  code: "13"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 109.53904
-    minlatitude: 0.8640901
-    maxlongitude: 115.68341
-    maxlatitude: 4.981567
-    latitude: 1.5532783
-    longitude: 110.359215
+    minlongitude: 101.70214
+    minlatitude: 2.3897717
+    maxlongitude: 102.70207
+    maxlatitude: 3.289874
+    latitude: 2.7258058
+    longitude: 101.942375
 - name: Wilayah Persekutuan Putrajaya
   names:
   - Wilayah Persekutuan Putrajaya
@@ -152,48 +54,20 @@
     maxlatitude: 2.976518
     latitude: 2.9353557
     longitude: 101.691284
-- name: Wilayah Persekutuan Kuala Lumpur
+- name: Perak
   names:
-  - Wilayah Persekutuan Kuala Lumpur
-  code: "14"
+  - Perak
+  code: "08"
   countryalpha2: MY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 101.61545
-    minlatitude: 3.033633
-    maxlongitude: 101.75853
-    maxlatitude: 3.2433789
-    latitude: 3.1569486
-    longitude: 101.7123
-- name: Wilayah Persekutuan Labuan
-  names:
-  - Wilayah Persekutuan Labuan
-  code: "15"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 115.12098
-    minlatitude: 5.217824
-    maxlongitude: 115.32631
-    maxlatitude: 5.3877616
-    latitude: 5.277017
-    longitude: 115.243576
-- name: Kedah
-  names:
-  - Kedah
-  code: "02"
-  countryalpha2: MY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 99.64065
-    minlatitude: 5.076441
-    maxlongitude: 101.12723
-    maxlatitude: 6.545039
-    latitude: 6.1183963
-    longitude: 100.36846
+    minlongitude: 100.36062
+    minlatitude: 3.6678984
+    maxlongitude: 101.752655
+    maxlatitude: 5.93451
+    latitude: 4.5921125
+    longitude: 101.09011
 - name: Perlis
   names:
   - Perlis
@@ -208,6 +82,118 @@
     maxlatitude: 6.726748
     latitude: 6.444913
     longitude: 100.204765
+- name: Terengganu
+  names:
+  - Terengganu
+  code: "11"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.37905
+    minlatitude: 3.880863
+    maxlongitude: 103.690575
+    maxlatitude: 5.964046
+    latitude: 5.3116918
+    longitude: 103.132416
+- name: Sarawak
+  names:
+  - Sarawak
+  code: "13"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 109.53904
+    minlatitude: 0.8640901
+    maxlongitude: 115.68341
+    maxlatitude: 4.981567
+    latitude: 1.5532783
+    longitude: 110.359215
+- name: Wilayah Persekutuan Kuala Lumpur
+  names:
+  - Wilayah Persekutuan Kuala Lumpur
+  code: "14"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.61545
+    minlatitude: 3.033633
+    maxlongitude: 101.75853
+    maxlatitude: 3.2433789
+    latitude: 3.1569486
+    longitude: 101.7123
+- name: Johor
+  names:
+  - Johor
+  code: "01"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.468124
+    minlatitude: 1.2657421
+    maxlongitude: 104.551155
+    maxlatitude: 2.833292
+    latitude: 1.4853683
+    longitude: 103.76182
+- name: Kedah
+  names:
+  - Kedah
+  code: "02"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 99.64065
+    minlatitude: 5.076441
+    maxlongitude: 101.12723
+    maxlatitude: 6.545039
+    latitude: 6.1183963
+    longitude: 100.36846
+- name: Melaka
+  names:
+  - Melaka
+  code: "04"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.15571
+    minlatitude: 2.1544178
+    maxlongitude: 102.43279
+    maxlatitude: 2.309435
+    latitude: 2.189594
+    longitude: 102.250084
+- name: Pahang
+  names:
+  - Pahang
+  code: "06"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 101.33241
+    minlatitude: 2.4593608
+    maxlongitude: 104.22351
+    maxlatitude: 4.779313
+    latitude: 3.8126318
+    longitude: 103.32562
+- name: Pulau Pinang
+  names:
+  - Pulau Pinang
+  code: "07"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.17513
+    minlatitude: 5.122673
+    maxlongitude: 100.55062
+    maxlatitude: 5.585335
+    latitude: 5.4141674
+    longitude: 100.32876
 - name: Selangor
   names:
   - Selangor
@@ -222,3 +208,17 @@
     maxlatitude: 3.8683527
     latitude: 3.073838
     longitude: 101.51835
+- name: Wilayah Persekutuan Labuan
+  names:
+  - Wilayah Persekutuan Labuan
+  code: "15"
+  countryalpha2: MY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 115.12098
+    minlatitude: 5.217824
+    maxlongitude: 115.32631
+    maxlatitude: 5.3877616
+    latitude: 5.277017
+    longitude: 115.243576

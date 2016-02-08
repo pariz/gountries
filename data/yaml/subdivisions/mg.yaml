@@ -1,32 +1,3 @@
-- name: Toliara
-  names:
-  - Toliara
-  - Tuléar
-  code: U
-  countryalpha2: MG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.639328
-    minlatitude: -23.397015
-    maxlongitude: 43.736015
-    maxlatitude: -23.314592
-    latitude: -23.35
-    longitude: 43.666668
-- name: Toamasina
-  names:
-  - Tamatave
-  code: A
-  countryalpha2: MG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.353607
-    minlatitude: -18.190224
-    maxlongitude: 49.430557
-    maxlatitude: -18.070843
-    latitude: -18.15
-    longitude: 49.416668
 - name: Antsiranana
   names:
   - Antseranana
@@ -84,3 +55,32 @@
     maxlatitude: -18.747587
     latitude: -18.933332
     longitude: 47.516666
+- name: Toliara
+  names:
+  - Toliara
+  - Tuléar
+  code: U
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.639328
+    minlatitude: -23.397015
+    maxlongitude: 43.736015
+    maxlatitude: -23.314592
+    latitude: -23.35
+    longitude: 43.666668
+- name: Toamasina
+  names:
+  - Tamatave
+  code: A
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.353607
+    minlatitude: -18.190224
+    maxlongitude: 49.430557
+    maxlatitude: -18.070843
+    latitude: -18.15
+    longitude: 49.416668

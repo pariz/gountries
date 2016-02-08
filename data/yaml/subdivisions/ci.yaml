@@ -1,143 +1,17 @@
-- name: Lacs (Région des)
+- name: Vallée du Bandama (Région de la)
   names:
-  - Lacs (Région des)
-  code: "07"
+  - Vallée du Bandama (Région de la)
+  code: "04"
   countryalpha2: CI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -5.65884
-    minlatitude: 6.2271767
-    maxlongitude: -4.618318
-    maxlatitude: 7.549775
-    latitude: 6.8924146
-    longitude: -5.2266674
-- name: Agnébi (Région de l')
-  names:
-  - Agnébi (Région de l')
-  code: "16"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Haut-Sassandra (Région du)
-  names:
-  - Haut-Sassandra (Région du)
-  code: "02"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.0862303
-    minlatitude: 6.239088
-    maxlongitude: -5.933794
-    maxlatitude: 7.791552
-    latitude: 6.875785
-    longitude: -6.5783386
-- name: Savanes (Région des)
-  names:
-  - Savanes (Région des)
-  code: "03"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.939717
-    minlatitude: 8.546114
-    maxlongitude: -3.781529
-    maxlatitude: 10.736642
-    latitude: 9.678361
-    longitude: -5.561728
-- name: Moyen-Comoé (Région du)
-  names:
-  - Moyen-Comoé (Région du)
-  code: "05"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 6.7419877
-    longitude: -3.5073638
-- name: Worodougou (Région du)
-  names:
-  - Worodougou (Région du)
-  code: "14"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.232738
-    minlatitude: 7.626987
-    maxlongitude: -5.3441
-    maxlatitude: 9.213116
-    latitude: 8.254896
-    longitude: -6.5783386
-- name: Bafing (Région du)
-  names:
-  - Bafing (Région du)
-  code: "17"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.248767
-    minlatitude: 7.830135
-    maxlongitude: -7.065941
-    maxlatitude: 9.082188
-    latitude: 8.325205
-    longitude: -7.5247245
-- name: Marahoué (Région de la)
-  names:
-  - Marahoué (Région de la)
-  code: "12"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.4365788
-    minlatitude: 6.474551
-    maxlongitude: -5.405745
-    maxlatitude: 7.743432
-    latitude: 6.8846207
-    longitude: -5.898714
-- name: Sud-Bandama (Région du)
-  names:
-  - Sud-Bandama (Région du)
-  code: "15"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.044564
-    minlatitude: 5.032087
-    maxlongitude: -4.917969
-    maxlatitude: 6.2457023
-    latitude: 5.5357084
-    longitude: -5.561728
-- name: Moyen-Cavally (Région du)
-  names:
-  - Moyen-Cavally (Région du)
-  code: "19"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.599302
-    minlatitude: 5.637331
-    maxlongitude: -6.971872
-    maxlatitude: 6.967223
-    latitude: 6.5208793
-    longitude: -7.6114216
+    minlongitude: -5.787452
+    minlatitude: 7.222045
+    maxlongitude: -3.90265
+    maxlatitude: 9.398031
+    latitude: 8.278978
+    longitude: -4.893563
 - name: 18 Montagnes (Région des)
   names:
   - 18 Montagnes (Région des)
@@ -152,6 +26,132 @@
     maxlatitude: 8.142352
     latitude: 7.3762374
     longitude: -7.4381356
+- name: Bas-Sassandra (Région du)
+  names:
+  - Bas-Sassandra (Région du)
+  code: "09"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.5960402
+    minlatitude: 5.7840333
+    maxlongitude: -6.59541
+    maxlatitude: 5.784247
+    latitude: 5.78413
+    longitude: -6.5957327
+- name: Worodougou (Région du)
+  names:
+  - Worodougou (Région du)
+  code: "14"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.232738
+    minlatitude: 7.626987
+    maxlongitude: -5.3441
+    maxlatitude: 9.213116
+    latitude: 8.254896
+    longitude: -6.5783386
+- name: Agnébi (Région de l')
+  names:
+  - Agnébi (Région de l')
+  code: "16"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Moyen-Cavally (Région du)
+  names:
+  - Moyen-Cavally (Région du)
+  code: "19"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.599302
+    minlatitude: 5.637331
+    maxlongitude: -6.971872
+    maxlatitude: 6.967223
+    latitude: 6.5208793
+    longitude: -7.6114216
+- name: Haut-Sassandra (Région du)
+  names:
+  - Haut-Sassandra (Région du)
+  code: "02"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.0862303
+    minlatitude: 6.239088
+    maxlongitude: -5.933794
+    maxlatitude: 7.791552
+    latitude: 6.875785
+    longitude: -6.5783386
+- name: Nzi-Comoé (Région)
+  names:
+  - Nzi-Comoé (Région)
+  code: "11"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.976705
+    minlatitude: 6.168739
+    maxlongitude: -3.5027292
+    maxlatitude: 8.040118
+    latitude: 7.245675
+    longitude: -4.2333355
+- name: Marahoué (Région de la)
+  names:
+  - Marahoué (Région de la)
+  code: "12"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.4365788
+    minlatitude: 6.474551
+    maxlongitude: -5.405745
+    maxlatitude: 7.743432
+    latitude: 6.8846207
+    longitude: -5.898714
+- name: Savanes (Région des)
+  names:
+  - Savanes (Région des)
+  code: "03"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.939717
+    minlatitude: 8.546114
+    maxlongitude: -3.781529
+    maxlatitude: 10.736642
+    latitude: 9.678361
+    longitude: -5.561728
+- name: Lacs (Région des)
+  names:
+  - Lacs (Région des)
+  code: "07"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.65884
+    minlatitude: 6.2271767
+    maxlongitude: -4.618318
+    maxlatitude: 7.549775
+    latitude: 6.8924146
+    longitude: -5.2266674
 - name: Zanzan (Région du)
   names:
   - Zanzan (Région du)
@@ -180,34 +180,20 @@
     maxlatitude: 10.488119
     latitude: 9.466237
     longitude: -7.4381356
-- name: Nzi-Comoé (Région)
+- name: Sud-Bandama (Région du)
   names:
-  - Nzi-Comoé (Région)
-  code: "11"
+  - Sud-Bandama (Région du)
+  code: "15"
   countryalpha2: CI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -4.976705
-    minlatitude: 6.168739
-    maxlongitude: -3.5027292
-    maxlatitude: 8.040118
-    latitude: 7.245675
-    longitude: -4.2333355
-- name: Sud-Comoé (Région du)
-  names:
-  - Sud-Comoé (Région du)
-  code: "13"
-  countryalpha2: CI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -3.806113
-    minlatitude: 5.079289
-    maxlongitude: -2.72626
-    maxlatitude: 6.244889
-    latitude: 5.552793
-    longitude: -3.2583625
+    minlongitude: -6.044564
+    minlatitude: 5.032087
+    maxlongitude: -4.917969
+    maxlatitude: 6.2457023
+    latitude: 5.5357084
+    longitude: -5.561728
 - name: Fromager (Région du)
   names:
   - Fromager (Région du)
@@ -236,31 +222,45 @@
     maxlatitude: 6.385651
     latitude: 5.461146
     longitude: -4.479976
-- name: Vallée du Bandama (Région de la)
+- name: Moyen-Comoé (Région du)
   names:
-  - Vallée du Bandama (Région de la)
-  code: "04"
+  - Moyen-Comoé (Région du)
+  code: "05"
   countryalpha2: CI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -5.787452
-    minlatitude: 7.222045
-    maxlongitude: -3.90265
-    maxlatitude: 9.398031
-    latitude: 8.278978
-    longitude: -4.893563
-- name: Bas-Sassandra (Région du)
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 6.7419877
+    longitude: -3.5073638
+- name: Sud-Comoé (Région du)
   names:
-  - Bas-Sassandra (Région du)
-  code: "09"
+  - Sud-Comoé (Région du)
+  code: "13"
   countryalpha2: CI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -6.5960402
-    minlatitude: 5.7840333
-    maxlongitude: -6.59541
-    maxlatitude: 5.784247
-    latitude: 5.78413
-    longitude: -6.5957327
+    minlongitude: -3.806113
+    minlatitude: 5.079289
+    maxlongitude: -2.72626
+    maxlatitude: 6.244889
+    latitude: 5.552793
+    longitude: -3.2583625
+- name: Bafing (Région du)
+  names:
+  - Bafing (Région du)
+  code: "17"
+  countryalpha2: CI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.248767
+    minlatitude: 7.830135
+    maxlongitude: -7.065941
+    maxlatitude: 9.082188
+    latitude: 8.325205
+    longitude: -7.5247245

@@ -17,34 +17,28 @@ languages:
   eng: English
   ton: Tongan
 translations:
-  deu:
+  DEU:
     common: Tonga
     official: Königreich Tonga
-  fin:
+  FIN:
     common: Tonga
     official: Tongan kuningaskunta
-  fra:
+  FRA:
     common: Tonga
     official: Royaume des Tonga
-  hrv:
+  HRV:
     common: Tonga
     official: Kraljevina Tonga
-  ita:
+  ITA:
     common: Tonga
     official: Regno di Tonga
-  jpn:
+  JPN:
     common: トンガ
     official: トンガ王国
-  nld:
-    common: Tonga
-    official: Koninkrijk Tonga
-  por:
+  POR:
     common: Tonga
     official: Reino de Tonga
-  rus:
-    common: Тонга
-    official: Королевство Тонга
-  spa:
+  SPA:
     common: Tonga
     official: Reino de Tonga
 currencies:

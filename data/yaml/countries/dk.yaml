@@ -13,37 +13,31 @@ tlds:
 languages:
   dan: Danish
 translations:
-  cym:
-    common: Denmarc
-    official: Kingdom of Denmark
-  deu:
-    common: Dänemark
-    official: Königreich Dänemark
-  fin:
+  FIN:
     common: Tanska
     official: Tanskan kuningaskunta
-  fra:
+  FRA:
     common: Danemark
     official: Royaume du Danemark
-  hrv:
+  HRV:
     common: Danska
     official: Kraljevina Danska
-  ita:
+  ITA:
     common: Danimarca
     official: Regno di Danimarca
-  jpn:
+  JPN:
     common: デンマーク
     official: デンマーク王国
-  nld:
+  NLD:
     common: Denemarken
     official: Koninkrijk Denemarken
-  por:
+  POR:
     common: Dinamarca
     official: Reino da Dinamarca
-  rus:
+  RUS:
     common: Дания
     official: Королевство Дания
-  spa:
+  SPA:
     common: Dinamarca
     official: Reino de Dinamarca
 currencies:

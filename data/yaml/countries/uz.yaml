@@ -17,36 +17,24 @@ languages:
   rus: Russian
   uzb: Uzbek
 translations:
-  deu:
+  DEU:
     common: Usbekistan
     official: Republik Usbekistan
-  fin:
+  FIN:
     common: Uzbekistan
     official: Uzbekistanin tasavalta
-  fra:
+  FRA:
     common: Ouzbékistan
     official: République d'Ouzbékistan
-  hrv:
+  HRV:
     common: Uzbekistan
     official: Republika Uzbekistan
-  ita:
-    common: Uzbekistan
-    official: Repubblica di Uzbekistan
-  jpn:
-    common: ウズベキスタン
-    official: ウズベキスタン共和国
-  nld:
-    common: Oezbekistan
-    official: Republiek Oezbekistan
-  por:
+  POR:
     common: Uzbequistão
     official: República do Usbequistão
-  rus:
+  RUS:
     common: Узбекистан
     official: Республика Узбекистан
-  spa:
-    common: Uzbekistán
-    official: República de Uzbekistán
 currencies:
 - UZS
 borders:

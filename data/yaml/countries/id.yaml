@@ -13,36 +13,30 @@ tlds:
 languages:
   ind: Indonesian
 translations:
-  deu:
+  DEU:
     common: Indonesien
     official: Republik Indonesien
-  fin:
+  FIN:
     common: Indonesia
     official: Indonesian tasavalta
-  fra:
+  FRA:
     common: Indonésie
     official: République d'Indonésie
-  hrv:
-    common: Indonezija
-    official: Republika Indonezija
-  ita:
+  ITA:
     common: Indonesia
     official: Repubblica di Indonesia
-  jpn:
+  JPN:
     common: インドネシア
     official: インドネシア共和国
-  nld:
+  NLD:
     common: Indonesië
     official: Republiek Indonesië
-  por:
+  POR:
     common: Indonésia
     official: República da Indonésia
-  rus:
+  RUS:
     common: Индонезия
     official: Республика Индонезия
-  spa:
-    common: Indonesia
-    official: República de Indonesia
 currencies:
 - IDR
 borders:

@@ -21,34 +21,19 @@ languages:
   que: Quechua
   spa: Spanish
 translations:
-  deu:
-    common: Peru
-    official: Republik Peru
-  fin:
-    common: Peru
-    official: Perun tasavalta
-  fra:
+  FRA:
     common: Pérou
     official: République du Pérou
-  hrv:
+  HRV:
     common: Peru
     official: Republika Peru
-  ita:
+  ITA:
     common: Perù
     official: Repubblica del Perù
-  jpn:
-    common: ペルー
-    official: ペルー共和国
-  nld:
-    common: Peru
-    official: Republiek Peru
-  por:
+  POR:
     common: Perú
     official: República do Peru
-  rus:
-    common: Перу
-    official: Республика Перу
-  spa:
+  SPA:
     common: Perú
     official: República de Perú
 currencies:

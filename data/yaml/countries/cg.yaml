@@ -21,37 +21,31 @@ languages:
   kon: Kikongo
   lin: Lingala
 translations:
-  cym:
+  CYM:
     common: Gweriniaeth y Congo
     official: Republic of the Congo
-  deu:
+  DEU:
     common: Kongo
     official: Republik Kongo
-  fin:
-    common: Kongo-Brazzaville
-    official: Kongon tasavalta
-  fra:
+  FRA:
     common: Congo
     official: République du Congo
-  hrv:
+  HRV:
     common: Kongo
     official: Republika Kongo
-  ita:
-    common: Congo
-    official: Repubblica del Congo
-  jpn:
+  JPN:
     common: コンゴ共和国
     official: コンゴ共和国
-  nld:
+  NLD:
     common: Congo
     official: Republiek Congo
-  por:
+  POR:
     common: Congo
     official: República do Congo
-  rus:
+  RUS:
     common: Республика Конго
     official: Республика Конго
-  spa:
+  SPA:
     common: Congo
     official: República del Congo
 currencies:

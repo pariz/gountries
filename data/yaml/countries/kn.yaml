@@ -13,34 +13,28 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  DEU:
     common: Saint Christopher und Nevis
     official: Föderation von Saint Kitts und Nevisa
-  fin:
+  FIN:
     common: Saint Kitts ja Nevis
     official: Saint Christopherin ja Nevisin federaatio
-  fra:
+  FRA:
     common: Saint-Christophe-et-Niévès
     official: Fédération de Saint -Christophe-et Nevisa
-  hrv:
+  HRV:
     common: Sveti Kristof i Nevis
     official: Federacija Sv.Kristofora i Nevisa
-  ita:
-    common: Saint Kitts e Nevis
-    official: Federazione di Saint Christopher e Nevisa
-  jpn:
+  JPN:
     common: セントクリストファー・ネイビス
     official: セントクリストファーNevisa連盟
-  nld:
-    common: Saint Kitts en Nevis
-    official: Federatie van Saint Kitts en Nevisa
-  por:
+  POR:
     common: São Cristóvão e Nevis
     official: Federação de São Cristóvão e Nevisa
-  rus:
+  RUS:
     common: Сент-Китс и Невис
     official: Федерация Сент-Кристофер и Nevisa
-  spa:
+  SPA:
     common: San Cristóbal y Nieves
     official: Federación de San Cristóbal y Nevisa
 currencies:

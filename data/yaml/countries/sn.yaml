@@ -13,36 +13,27 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Senegal
     official: Republik Senegal
-  fin:
+  FIN:
     common: Senegal
     official: Senegalin tasavalta
-  fra:
+  FRA:
     common: Sénégal
     official: République du Sénégal
-  hrv:
+  HRV:
     common: Senegal
     official: Republika Senegal
-  ita:
+  ITA:
     common: Senegal
     official: Repubblica del Senegal
-  jpn:
-    common: セネガル
-    official: セネガル共和国
-  nld:
+  NLD:
     common: Senegal
     official: Republiek Senegal
-  por:
-    common: Senegal
-    official: República do Senegal
-  rus:
+  RUS:
     common: Сенегал
     official: Республика Сенегал
-  spa:
-    common: Senegal
-    official: República de Senegal
 currencies:
 - XOF
 borders:

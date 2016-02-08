@@ -14,34 +14,22 @@ tlds:
 languages:
   tha: Thai
 translations:
-  deu:
-    common: Thailand
-    official: Königreich Thailand
-  fin:
+  FIN:
     common: Thaimaa
     official: Thaimaan kuningaskunta
-  fra:
+  FRA:
     common: Thaïlande
     official: Royaume de Thaïlande
-  hrv:
-    common: Tajland
-    official: Kraljevina Tajland
-  ita:
-    common: Tailandia
-    official: Regno di Thailandia
-  jpn:
+  JPN:
     common: タイ
     official: タイ王国
-  nld:
+  NLD:
     common: Thailand
     official: Koninkrijk Thailand
-  por:
+  POR:
     common: Tailândia
     official: Reino da Tailândia
-  rus:
-    common: Таиланд
-    official: Королевство Таиланд
-  spa:
+  SPA:
     common: Tailandia
     official: Reino de Tailandia
 currencies:

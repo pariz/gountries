@@ -15,34 +15,25 @@ tlds:
 languages:
   cmn: Mandarin
 translations:
-  deu:
+  DEU:
     common: Taiwan
     official: Republik China (Taiwan)
-  fin:
+  FIN:
     common: Taiwan
     official: Kiinan tasavalta
-  fra:
+  FRA:
     common: Taïwan
     official: République de Chine (Taïwan)
-  hrv:
-    common: Tajvan
-    official: Republika Kina
-  ita:
-    common: Taiwan
-    official: Repubblica cinese (Taiwan)
-  jpn:
+  JPN:
     common: 台湾（台湾省/中華民国）
     official: 中華民国
-  nld:
+  NLD:
     common: Taiwan
     official: Republiek China (Taiwan)
-  por:
-    common: Ilha Formosa
-    official: República da China
-  rus:
+  RUS:
     common: Тайвань
     official: Китайская Республика
-  spa:
+  SPA:
     common: Taiwán
     official: República de China en Taiwán
 currencies:

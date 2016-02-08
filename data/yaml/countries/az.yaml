@@ -17,37 +17,22 @@ languages:
   aze: Azerbaijani
   rus: Russian
 translations:
-  cym:
-    common: Aserbaijan
-    official: Republic of Azerbaijan
-  deu:
+  DEU:
     common: Aserbaidschan
     official: Republik Aserbaidschan
-  fin:
-    common: Azerbaidzan
-    official: Azerbaidzanin tasavalta
-  fra:
-    common: Azerbaïdjan
-    official: République d'Azerbaïdjan
-  hrv:
-    common: Azerbajdžan
-    official: Republika Azerbajdžan
-  ita:
+  ITA:
     common: Azerbaijan
     official: Repubblica dell'Azerbaigian
-  jpn:
+  JPN:
     common: アゼルバイジャン
     official: アゼルバイジャン共和国
-  nld:
-    common: Azerbeidzjan
-    official: Republiek Azerbeidzjan
-  por:
+  POR:
     common: Azerbeijão
     official: República do Azerbaijão
-  rus:
+  RUS:
     common: Азербайджан
     official: Азербайджанская Республика
-  spa:
+  SPA:
     common: Azerbaiyán
     official: República de Azerbaiyán
 currencies:

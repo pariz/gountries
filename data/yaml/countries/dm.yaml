@@ -13,39 +13,24 @@ tlds:
 languages:
   eng: English
 translations:
-  cym:
+  CYM:
     common: Dominica
     official: Commonwealth of Dominica
-  deu:
+  DEU:
     common: Dominica
     official: Commonwealth von Dominica
-  fin:
+  FIN:
     common: Dominica
     official: Dominican liittovaltio
-  fra:
-    common: Dominique
-    official: Commonwealth de la Dominique
-  hrv:
+  HRV:
     common: Dominika
     official: Zajednica Dominika
-  ita:
+  ITA:
     common: Dominica
     official: Commonwealth di Dominica
-  jpn:
+  JPN:
     common: ドミニカ国
     official: ドミニカ国
-  nld:
-    common: Dominica
-    official: Gemenebest Dominica
-  por:
-    common: Dominica
-    official: Comunidade da Dominica
-  rus:
-    common: Доминика
-    official: Содружество Доминики
-  spa:
-    common: Dominica
-    official: Mancomunidad de Dominica
 currencies:
 - XCD
 borders: []

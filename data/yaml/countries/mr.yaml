@@ -13,36 +13,18 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
-    common: Mauretanien
-    official: Islamische Republik Mauretanien
-  fin:
+  FIN:
     common: Mauritania
     official: Mauritanian islamilainen tasavalta
-  fra:
+  FRA:
     common: Mauritanie
     official: République islamique de Mauritanie
-  hrv:
-    common: Mauritanija
-    official: Islamska Republika Mauritanija
-  ita:
+  ITA:
     common: Mauritania
     official: Repubblica islamica di Mauritania
-  jpn:
-    common: モーリタニア
-    official: モーリタニア·イスラム共和国
-  nld:
-    common: Mauritanië
-    official: Islamitische Republiek Mauritanië
-  por:
-    common: Mauritânia
-    official: República Islâmica da Mauritânia
-  rus:
+  RUS:
     common: Мавритания
     official: Исламская Республика Мавритания
-  spa:
-    common: Mauritania
-    official: República Islámica de Mauritania
 currencies:
 - MRO
 borders:

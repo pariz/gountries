@@ -17,34 +17,19 @@ languages:
   eng: English
   pih: Norfuk
 translations:
-  deu:
+  DEU:
     common: Norfolkinsel
     official: Gebiet der Norfolk-Insel
-  fin:
-    common: Norfolkinsaari
-    official: Norfolkinsaaren territorio
-  fra:
+  FRA:
     common: Île Norfolk
     official: Territoire de l'île Norfolk
-  hrv:
-    common: Otok Norfolk
-    official: Teritorij Norfolk Island
-  ita:
-    common: Isola Norfolk
-    official: Territorio di Norfolk Island
-  jpn:
-    common: ノーフォーク島
-    official: ノーフォーク島の領土
-  nld:
+  NLD:
     common: Norfolkeiland
     official: Grondgebied van Norfolk Island
-  por:
-    common: Ilha Norfolk
-    official: Território da Ilha Norfolk
-  rus:
+  RUS:
     common: Норфолк
     official: Территория острова Норфолк
-  spa:
+  SPA:
     common: Isla de Norfolk
     official: Territorio de la Isla Norfolk
 currencies:

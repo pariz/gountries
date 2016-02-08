@@ -14,34 +14,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
-    common: Vereinigte Arabische Emirate
-    official: Vereinigte Arabische Emirate
-  fin:
+  FIN:
     common: Arabiemiraatit
     official: Yhdistyneet arabiemiirikunnat
-  fra:
+  FRA:
     common: Émirats arabes unis
     official: Émirats arabes unis
-  hrv:
-    common: Ujedinjeni Arapski Emirati
-    official: Ujedinjeni Arapski Emirati
-  ita:
+  ITA:
     common: Emirati Arabi Uniti
     official: Emirati Arabi Uniti
-  jpn:
+  JPN:
     common: アラブ首長国連邦
     official: アラブ首長国連邦
-  nld:
-    common: Verenigde Arabische Emiraten
-    official: Verenigde Arabische Emiraten
-  por:
-    common: Emirados Árabes Unidos
-    official: Emirados Árabes Unidos
-  rus:
+  RUS:
     common: Объединённые Арабские Эмираты
     official: Объединенные Арабские Эмираты
-  spa:
+  SPA:
     common: Emiratos Árabes Unidos
     official: Emiratos Árabes Unidos
 currencies:

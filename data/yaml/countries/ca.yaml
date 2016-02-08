@@ -17,37 +17,22 @@ languages:
   eng: English
   fra: French
 translations:
-  cym:
+  FRA:
     common: Canada
     official: Canada
-  deu:
+  HRV:
     common: Kanada
     official: Kanada
-  fin:
-    common: Kanada
-    official: Kanada
-  fra:
-    common: Canada
-    official: Canada
-  hrv:
-    common: Kanada
-    official: Kanada
-  ita:
-    common: Canada
-    official: Canada
-  jpn:
+  JPN:
     common: カナダ
     official: カナダ
-  nld:
+  NLD:
     common: Canada
     official: Canada
-  por:
-    common: Canadá
-    official: Canadá
-  rus:
+  RUS:
     common: Канада
     official: Канада
-  spa:
+  SPA:
     common: Canadá
     official: Canadá
 currencies:

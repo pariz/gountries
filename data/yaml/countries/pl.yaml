@@ -13,34 +13,25 @@ tlds:
 languages:
   pol: Polish
 translations:
-  deu:
+  DEU:
     common: Polen
     official: Republik Polen
-  fin:
-    common: Puola
-    official: Puolan tasavalta
-  fra:
+  FRA:
     common: Pologne
     official: République de Pologne
-  hrv:
-    common: Poljska
-    official: Republika Poljska
-  ita:
-    common: Polonia
-    official: Repubblica di Polonia
-  jpn:
+  JPN:
     common: ポーランド
     official: ポーランド共和国
-  nld:
+  NLD:
     common: Polen
     official: Republiek Polen
-  por:
+  POR:
     common: Polónia
     official: República da Polónia
-  rus:
+  RUS:
     common: Польша
     official: Республика Польша
-  spa:
+  SPA:
     common: Polonia
     official: República de Polonia
 currencies:

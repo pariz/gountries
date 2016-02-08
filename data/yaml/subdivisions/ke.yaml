@@ -1,3 +1,45 @@
+- name: Central
+  names:
+  - Central
+  code: "200"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.696007
+    minlatitude: -1.8022581
+    maxlongitude: 37.704605
+    maxlatitude: -1.7872058
+    latitude: -1.795973
+    longitude: 37.702076
+- name: Coast
+  names:
+  - Coast
+  code: "300"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.749454
+    minlatitude: -1.2908067
+    maxlongitude: 36.750446
+    maxlatitude: -1.2882341
+    latitude: -1.2896281
+    longitude: 36.749916
+- name: Eastern
+  names:
+  - Eastern
+  code: "400"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.846516
+    minlatitude: -0.1933874
+    maxlongitude: 34.82976
+    maxlatitude: 2.421396
+    latitude: 1.2692186
+    longitude: 33.438354
 - name: North-Eastern
   names:
   - North-Eastern
@@ -68,45 +110,3 @@
     maxlatitude: 0
     latitude: -1.286577
     longitude: 36.821938
-- name: Central
-  names:
-  - Central
-  code: "200"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 37.696007
-    minlatitude: -1.8022581
-    maxlongitude: 37.704605
-    maxlatitude: -1.7872058
-    latitude: -1.795973
-    longitude: 37.702076
-- name: Coast
-  names:
-  - Coast
-  code: "300"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 36.749454
-    minlatitude: -1.2908067
-    maxlongitude: 36.750446
-    maxlatitude: -1.2882341
-    latitude: -1.2896281
-    longitude: 36.749916
-- name: Eastern
-  names:
-  - Eastern
-  code: "400"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.846516
-    minlatitude: -0.1933874
-    maxlongitude: 34.82976
-    maxlatitude: 2.421396
-    latitude: 1.2692186
-    longitude: 33.438354

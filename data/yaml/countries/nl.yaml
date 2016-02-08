@@ -13,34 +13,19 @@ tlds:
 languages:
   nld: Dutch
 translations:
-  deu:
-    common: Niederlande
-    official: Niederlande
-  fin:
+  FIN:
     common: Alankomaat
     official: Alankomaat
-  fra:
+  FRA:
     common: Pays-Bas
     official: Pays-Bas
-  hrv:
+  HRV:
     common: Nizozemska
     official: Holandija
-  ita:
-    common: Paesi Bassi
-    official: Paesi Bassi
-  jpn:
+  JPN:
     common: オランダ
     official: オランダ
-  nld:
-    common: Nederland
-    official: Nederland
-  por:
-    common: Holanda
-    official: Holanda
-  rus:
-    common: Нидерланды
-    official: Нидерланды
-  spa:
+  SPA:
     common: Países Bajos
     official: Países Bajos
 currencies:

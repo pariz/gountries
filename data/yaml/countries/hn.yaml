@@ -13,36 +13,27 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Honduras
     official: Republik Honduras
-  fin:
+  FIN:
     common: Honduras
     official: Hondurasin tasavalta
-  fra:
+  FRA:
     common: Honduras
     official: République du Honduras
-  hrv:
-    common: Honduras
-    official: Republika Honduras
-  ita:
+  ITA:
     common: Honduras
     official: Repubblica di Honduras
-  jpn:
+  JPN:
     common: ホンジュラス
     official: ホンジュラス共和国
-  nld:
+  NLD:
     common: Honduras
     official: Republiek Honduras
-  por:
-    common: Honduras
-    official: República de Honduras
-  rus:
+  RUS:
     common: Гондурас
     official: Республика Гондурас
-  spa:
-    common: Honduras
-    official: República de Honduras
 currencies:
 - HNL
 borders:

@@ -17,34 +17,28 @@ languages:
   eng: English
   spa: Spanish
 translations:
-  deu:
+  DEU:
     common: Puerto Rico
     official: Commonwealth von Puerto Rico
-  fin:
+  FIN:
     common: Puerto Rico
     official: Puerto Rico
-  fra:
+  FRA:
     common: Porto Rico
     official: Porto Rico
-  hrv:
+  HRV:
     common: Portoriko
     official: Zajednica Puerto Rico
-  ita:
-    common: Porto Rico
-    official: Commonwealth di Porto Rico
-  jpn:
-    common: プエルトリコ
-    official: プエルトリコのコモンウェルス
-  nld:
+  NLD:
     common: Puerto Rico
     official: Gemenebest van Puerto Rico
-  por:
+  POR:
     common: Porto Rico
     official: Commonwealth of Puerto Rico
-  rus:
+  RUS:
     common: Пуэрто-Рико
     official: Содружество Пуэрто-Рико
-  spa:
+  SPA:
     common: Puerto Rico
     official: Asociado de Puerto Rico
 currencies:

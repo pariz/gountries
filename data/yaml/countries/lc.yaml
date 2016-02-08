@@ -13,34 +13,28 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
+  DEU:
     common: Saint Lucia
     official: St. Lucia
-  fin:
+  FIN:
     common: Saint Lucia
     official: Saint Lucia
-  fra:
+  FRA:
     common: Sainte-Lucie
     official: Sainte-Lucie
-  hrv:
+  HRV:
     common: Sveta Lucija
     official: Sveta Lucija
-  ita:
-    common: Santa Lucia
-    official: Santa Lucia
-  jpn:
+  JPN:
     common: セントルシア
     official: セントルシア
-  nld:
+  NLD:
     common: Saint Lucia
     official: Saint Lucia
-  por:
+  POR:
     common: Santa Lúcia
     official: Santa Lúcia
-  rus:
-    common: Сент-Люсия
-    official: Сент-Люсия
-  spa:
+  SPA:
     common: Santa Lucía
     official: Santa Lucía
 currencies:

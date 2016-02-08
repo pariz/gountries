@@ -13,37 +13,31 @@ tlds:
 languages:
   spa: Spanish
 translations:
-  cym:
+  CYM:
     common: Chile
     official: Republic of Chile
-  deu:
+  DEU:
     common: Chile
     official: Republik Chile
-  fin:
+  FIN:
     common: Chile
     official: Chilen tasavalta
-  fra:
+  FRA:
     common: Chili
     official: République du Chili
-  hrv:
+  HRV:
     common: Čile
     official: Republika Čile
-  ita:
+  ITA:
     common: Cile
     official: Repubblica del Cile
-  jpn:
-    common: チリ
-    official: チリ共和国
-  nld:
+  NLD:
     common: Chili
     official: Republiek Chili
-  por:
-    common: Chile
-    official: República do Chile
-  rus:
+  RUS:
     common: Чили
     official: Республика Чили
-  spa:
+  SPA:
     common: Chile
     official: República de Chile
 currencies:

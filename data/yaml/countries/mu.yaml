@@ -21,36 +21,24 @@ languages:
   fra: French
   mfe: Mauritian Creole
 translations:
-  deu:
+  DEU:
     common: Mauritius
     official: Republik Mauritius
-  fin:
-    common: Mauritius
-    official: Mauritiuksen tasavalta
-  fra:
+  FRA:
     common: Île Maurice
     official: République de Maurice
-  hrv:
-    common: Mauricijus
-    official: Republika Mauricijus
-  ita:
-    common: Mauritius
-    official: Repubblica di Mauritius
-  jpn:
+  JPN:
     common: モーリシャス
     official: モーリシャス共和国
-  nld:
+  NLD:
     common: Mauritius
     official: Republiek Mauritius
-  por:
+  POR:
     common: Maurício
     official: República das Maurícias
-  rus:
+  RUS:
     common: Маврикий
     official: Республика Маврикий
-  spa:
-    common: Mauricio
-    official: República de Mauricio
 currencies:
 - MUR
 borders: []

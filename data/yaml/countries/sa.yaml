@@ -14,34 +14,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
-    common: Saudi-Arabien
-    official: Königreich Saudi-Arabien
-  fin:
-    common: Saudi-Arabia
-    official: Saudi-Arabian kuningaskunta
-  fra:
+  FRA:
     common: Arabie Saoudite
     official: Royaume d'Arabie Saoudite
-  hrv:
+  HRV:
     common: Saudijska Arabija
     official: Kraljevina Saudijska Arabija
-  ita:
-    common: Arabia Saudita
-    official: Arabia Saudita
-  jpn:
+  JPN:
     common: サウジアラビア
     official: サウジアラビア王国
-  nld:
-    common: Saoedi-Arabië
-    official: Koninkrijk van Saoedi-Arabië
-  por:
+  POR:
     common: Arábia Saudita
     official: Reino da Arábia Saudita
-  rus:
+  RUS:
     common: Саудовская Аравия
     official: Королевство Саудовская Аравия
-  spa:
+  SPA:
     common: Arabia Saudí
     official: Reino de Arabia Saudita
 currencies:

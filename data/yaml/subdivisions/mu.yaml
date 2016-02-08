@@ -1,45 +1,3 @@
-- name: Port Louis City
-  names:
-  - Port Louis City
-  code: PL
-  countryalpha2: MU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.42769
-    minlatitude: -20.201675
-    maxlongitude: 57.565998
-    maxlatitude: -20.124287
-    latitude: -20.166668
-    longitude: 57.516666
-- name: Beau Bassin-Rose Hill
-  names:
-  - Beau Bassin-Rose Hill
-  code: BR
-  countryalpha2: MU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.447716
-    minlatitude: -20.26441
-    maxlongitude: 57.480247
-    maxlatitude: -20.189894
-    latitude: -20.239805
-    longitude: 57.471695
-- name: Curepipe
-  names:
-  - Curepipe
-  code: CU
-  countryalpha2: MU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.497776
-    minlatitude: -20.339235
-    maxlongitude: 57.548466
-    maxlatitude: -20.297169
-    latitude: -20.317087
-    longitude: 57.526527
 - name: Grand Port
   names:
   - Grand Port
@@ -54,6 +12,20 @@
     maxlatitude: -20.313135
     latitude: -20.385155
     longitude: 57.666573
+- name: Vacoas-Phoenix
+  names:
+  - Vacoas-Phoenix
+  code: VP
+  countryalpha2: MU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.4674
+    minlatitude: -20.348112
+    maxlongitude: 57.551365
+    maxlatitude: -20.25808
+    latitude: -20.300047
+    longitude: 57.474506
 - name: Plaines Wilhems
   names:
   - Plaines Wilhems
@@ -82,6 +54,20 @@
     maxlatitude: -20.238638
     latitude: -20.265358
     longitude: 57.479053
+- name: Rodrigues Island
+  names:
+  - Rodrigues Island
+  code: RO
+  countryalpha2: MU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 63.328884
+    minlatitude: -19.774336
+    maxlongitude: 63.503593
+    maxlatitude: -19.665705
+    latitude: -19.724539
+    longitude: 63.42722
 - name: Cargados Carajos Shoals [Saint Brandon Islands]
   names:
   - Cargados Carajos Shoals [Saint Brandon Islands]
@@ -96,6 +82,34 @@
     maxlatitude: 0
     latitude: -16.633333
     longitude: 59.633335
+- name: Pamplemousses
+  names:
+  - Pamplemousses
+  code: PA
+  countryalpha2: MU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.567043
+    minlatitude: -20.121035
+    maxlongitude: 57.59561
+    maxlatitude: -20.09487
+    latitude: -20.116667
+    longitude: 57.583332
+- name: Port Louis City
+  names:
+  - Port Louis City
+  code: PL
+  countryalpha2: MU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.42769
+    minlatitude: -20.201675
+    maxlongitude: 57.565998
+    maxlatitude: -20.124287
+    latitude: -20.166668
+    longitude: 57.516666
 - name: Rivière du Rempart
   names:
   - Rivière du Rempart
@@ -110,20 +124,20 @@
     maxlatitude: -20.073627
     latitude: -20.090534
     longitude: 57.69492
-- name: Savanne
+- name: Agalega Islands
   names:
-  - Savanne
-  code: SA
+  - Agalega Islands
+  code: AG
   countryalpha2: MU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 57.37087
-    minlatitude: -20.5255
-    maxlongitude: 57.619377
-    maxlatitude: -20.396973
-    latitude: -20.473953
-    longitude: 57.485355
+    minlongitude: 56.586136
+    minlatitude: -10.490894
+    maxlongitude: 56.703873
+    maxlatitude: -10.343819
+    latitude: -10.468199
+    longitude: 56.690674
 - name: Black River
   names:
   - Black River
@@ -138,6 +152,34 @@
     maxlatitude: -20.333986
     latitude: -20.34756
     longitude: 57.36519
+- name: Beau Bassin-Rose Hill
+  names:
+  - Beau Bassin-Rose Hill
+  code: BR
+  countryalpha2: MU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.447716
+    minlatitude: -20.26441
+    maxlongitude: 57.480247
+    maxlatitude: -20.189894
+    latitude: -20.239805
+    longitude: 57.471695
+- name: Curepipe
+  names:
+  - Curepipe
+  code: CU
+  countryalpha2: MU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 57.497776
+    minlatitude: -20.339235
+    maxlongitude: 57.548466
+    maxlatitude: -20.297169
+    latitude: -20.317087
+    longitude: 57.526527
 - name: Flacq
   names:
   - Flacq
@@ -166,20 +208,6 @@
     maxlatitude: -20.212147
     latitude: -20.219
     longitude: 57.496
-- name: Pamplemousses
-  names:
-  - Pamplemousses
-  code: PA
-  countryalpha2: MU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.567043
-    minlatitude: -20.121035
-    maxlongitude: 57.59561
-    maxlatitude: -20.09487
-    latitude: -20.116667
-    longitude: 57.583332
 - name: Port Louis District
   names:
   - Port Louis District
@@ -194,45 +222,17 @@
     maxlatitude: -20.124287
     latitude: -20.166668
     longitude: 57.516666
-- name: Rodrigues Island
+- name: Savanne
   names:
-  - Rodrigues Island
-  code: RO
+  - Savanne
+  code: SA
   countryalpha2: MU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 63.328884
-    minlatitude: -19.774336
-    maxlongitude: 63.503593
-    maxlatitude: -19.665705
-    latitude: -19.724539
-    longitude: 63.42722
-- name: Vacoas-Phoenix
-  names:
-  - Vacoas-Phoenix
-  code: VP
-  countryalpha2: MU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.4674
-    minlatitude: -20.348112
-    maxlongitude: 57.551365
-    maxlatitude: -20.25808
-    latitude: -20.300047
-    longitude: 57.474506
-- name: Agalega Islands
-  names:
-  - Agalega Islands
-  code: AG
-  countryalpha2: MU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 56.586136
-    minlatitude: -10.490894
-    maxlongitude: 56.703873
-    maxlatitude: -10.343819
-    latitude: -10.468199
-    longitude: 56.690674
+    minlongitude: 57.37087
+    minlatitude: -20.5255
+    maxlongitude: 57.619377
+    maxlatitude: -20.396973
+    latitude: -20.473953
+    longitude: 57.485355

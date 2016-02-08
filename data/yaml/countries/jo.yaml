@@ -14,34 +14,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
-    common: Jordanien
-    official: Haschemitisches Königreich Jordanien
-  fin:
+  FIN:
     common: Jordania
     official: Jordanian hašemiittinen kunigaskunta
-  fra:
+  FRA:
     common: Jordanie
     official: Royaume hachémite de Jordanie
-  hrv:
+  HRV:
     common: Jordan
     official: Hašemitske Kraljevine Jordan
-  ita:
-    common: Giordania
-    official: Regno hascemita di Giordania
-  jpn:
-    common: ヨルダン
-    official: ヨルダン·ハシミテ王国
-  nld:
+  NLD:
     common: Jordanië
     official: Hasjemitisch Koninkrijk Jordanië
-  por:
-    common: Jordânia
-    official: Reino Hachemita da Jordânia
-  rus:
+  RUS:
     common: Иордания
     official: Иорданского Хашимитского Королевства
-  spa:
+  SPA:
     common: Jordania
     official: Reino Hachemita de Jordania
 currencies:

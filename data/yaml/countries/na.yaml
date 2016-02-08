@@ -45,34 +45,25 @@ languages:
   ndo: Ndonga
   tsn: Tswana
 translations:
-  deu:
+  DEU:
     common: Namibia
     official: Republik Namibia
-  fin:
+  FIN:
     common: Namibia
     official: Namibian tasavalta
-  fra:
-    common: Namibie
-    official: République de Namibie
-  hrv:
+  HRV:
     common: Namibija
     official: Republika Namibija
-  ita:
-    common: Namibia
-    official: Repubblica di Namibia
-  jpn:
+  JPN:
     common: ナミビア
     official: ナミビア共和国
-  nld:
+  NLD:
     common: Namibië
     official: Republiek Namibië
-  por:
-    common: Namíbia
-    official: República da Namíbia
-  rus:
+  RUS:
     common: Намибия
     official: Республика Намибия
-  spa:
+  SPA:
     common: Namibia
     official: República de Namibia
 currencies:

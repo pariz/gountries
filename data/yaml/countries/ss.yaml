@@ -13,34 +13,25 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
-    common: Südsudan
-    official: Republik Südsudan
-  fin:
+  FIN:
     common: Etelä-Sudan
     official: Etelä-Sudanin tasavalta
-  fra:
+  FRA:
     common: Soudan du Sud
     official: République du Soudan du Sud
-  hrv:
+  HRV:
     common: Južni Sudan
     official: Republika Južni Sudan
-  ita:
+  ITA:
     common: Sudan del sud
     official: Repubblica del Sudan del Sud
-  jpn:
-    common: 南スーダン
-    official: 南スーダン共和国
-  nld:
-    common: Zuid-Soedan
-    official: Republiek Zuid-Soedan
-  por:
+  POR:
     common: Sudão do Sul
     official: República do Sudão do Sul
-  rus:
+  RUS:
     common: Южный Судан
     official: Республика Южный Судан
-  spa:
+  SPA:
     common: Sudán del Sur
     official: República de Sudán del Sur
 currencies:

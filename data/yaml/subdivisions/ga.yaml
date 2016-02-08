@@ -1,45 +1,3 @@
-- name: Haut-Ogooué
-  names:
-  - Haut-Ogooué
-  code: "2"
-  countryalpha2: GA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.763475
-    minlatitude: -2.481633
-    maxlongitude: 14.501671
-    maxlatitude: 0.036923
-    latitude: -1.4762543
-    longitude: 13.914399
-- name: Ogooué-Lolo
-  names:
-  - Ogooué-Lolo
-  code: "7"
-  countryalpha2: GA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.497758
-    minlatitude: -1.90136
-    maxlongitude: 13.569687
-    maxlatitude: 0.2900861
-    latitude: -0.8844093
-    longitude: 12.438058
-- name: Ogooué-Maritime
-  names:
-  - Ogooué-Maritime
-  code: "8"
-  countryalpha2: GA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.699053
-    minlatitude: -2.733783
-    maxlongitude: 10.6113405
-    maxlatitude: -0.2787572
-    latitude: -1.3465976
-    longitude: 9.723268
 - name: Woleu-Ntem
   names:
   - Woleu-Nʿtem
@@ -68,6 +26,20 @@
     maxlatitude: 1.0599096
     latitude: 0.4432864
     longitude: 10.0807295
+- name: Haut-Ogooué
+  names:
+  - Haut-Ogooué
+  code: "2"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.763475
+    minlatitude: -2.481633
+    maxlongitude: 14.501671
+    maxlatitude: 0.036923
+    latitude: -1.4762543
+    longitude: 13.914399
 - name: Moyen-Ogooué
   names:
   - Moyen-Ogooué
@@ -110,6 +82,20 @@
     maxlatitude: -2.250405
     latitude: -2.8821032
     longitude: 11.161736
+- name: Ogooué-Maritime
+  names:
+  - Ogooué-Maritime
+  code: "8"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.699053
+    minlatitude: -2.733783
+    maxlongitude: 10.6113405
+    maxlatitude: -0.2787572
+    latitude: -1.3465976
+    longitude: 9.723268
 - name: Ogooué-Ivindo
   names:
   - Ogooué-Ivindo
@@ -124,3 +110,17 @@
     maxlatitude: 1.438241
     latitude: 0.8818311
     longitude: 13.174035
+- name: Ogooué-Lolo
+  names:
+  - Ogooué-Lolo
+  code: "7"
+  countryalpha2: GA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.497758
+    minlatitude: -1.90136
+    maxlongitude: 13.569687
+    maxlatitude: 0.2900861
+    latitude: -0.8844093
+    longitude: 12.438058

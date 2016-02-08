@@ -21,39 +21,27 @@ languages:
   eng: English
   tir: Tigrinya
 translations:
-  cym:
+  CYM:
     common: Eritrea
     official: State of Eritrea
-  deu:
+  DEU:
     common: Eritrea
     official: Staat Eritrea
-  fin:
-    common: Eritrea
-    official: Eritrean valtio
-  fra:
+  FRA:
     common: Érythrée
     official: État d'Érythrée
-  hrv:
-    common: Eritreja
-    official: Država Eritreji
-  ita:
+  ITA:
     common: Eritrea
     official: Stato di Eritrea
-  jpn:
+  JPN:
     common: エリトリア
     official: エリトリア国
-  nld:
+  NLD:
     common: Eritrea
     official: Staat Eritrea
-  por:
-    common: Eritreia
-    official: Estado da Eritreia
-  rus:
+  RUS:
     common: Эритрея
     official: Государство Эритрея
-  spa:
-    common: Eritrea
-    official: Estado de Eritrea
 currencies:
 - ERN
 borders:

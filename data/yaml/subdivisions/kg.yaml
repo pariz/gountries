@@ -1,3 +1,49 @@
+- name: Batken
+  names:
+  - Batken
+  code: B
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 70.79745
+    minlatitude: 40.03169
+    maxlongitude: 70.8492
+    maxlatitude: 40.08343
+    latitude: 40.066666
+    longitude: 70.833336
+- name: Chü
+  names:
+  - Chu
+  - Chui
+  - Chuy
+  - Çüy
+  code: C
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 75.82733
+    minlatitude: 42.505947
+    maxlongitude: 75.83318
+    maxlatitude: 42.509914
+    latitude: 42.50793
+    longitude: 75.83025
+- name: Bishkek
+  names:
+  - Bishkek
+  - Kenesh Bishkek
+  code: GB
+  countryalpha2: KG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 74.464905
+    minlatitude: 42.803146
+    maxlongitude: 74.717674
+    maxlatitude: 42.948986
+    latitude: 42.87472
+    longitude: 74.61222
 - name: Jalal-Abad
   names:
   - Jalal-Abad
@@ -71,49 +117,3 @@
     maxlatitude: 42.951714
     latitude: 42.185944
     longitude: 77.56194
-- name: Batken
-  names:
-  - Batken
-  code: B
-  countryalpha2: KG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 70.79745
-    minlatitude: 40.03169
-    maxlongitude: 70.8492
-    maxlatitude: 40.08343
-    latitude: 40.066666
-    longitude: 70.833336
-- name: Chü
-  names:
-  - Chu
-  - Chui
-  - Chuy
-  - Çüy
-  code: C
-  countryalpha2: KG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 75.82733
-    minlatitude: 42.505947
-    maxlongitude: 75.83318
-    maxlatitude: 42.509914
-    latitude: 42.50793
-    longitude: 75.83025
-- name: Bishkek
-  names:
-  - Bishkek
-  - Kenesh Bishkek
-  code: GB
-  countryalpha2: KG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 74.464905
-    minlatitude: 42.803146
-    maxlongitude: 74.717674
-    maxlatitude: 42.948986
-    latitude: 42.87472
-    longitude: 74.61222

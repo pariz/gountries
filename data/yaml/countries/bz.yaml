@@ -21,37 +21,34 @@ languages:
   eng: English
   spa: Spanish
 translations:
-  cym:
+  DEU:
     common: Belize
     official: Belize
-  deu:
+  FIN:
     common: Belize
     official: Belize
-  fin:
+  FRA:
     common: Belize
     official: Belize
-  fra:
+  HRV:
     common: Belize
     official: Belize
-  hrv:
+  ITA:
     common: Belize
     official: Belize
-  ita:
-    common: Belize
-    official: Belize
-  jpn:
+  JPN:
     common: ベリーズ
     official: ベリーズ
-  nld:
+  NLD:
     common: Belize
     official: Belize
-  por:
+  POR:
     common: Belize
     official: Belize
-  rus:
+  RUS:
     common: Белиз
     official: Белиз
-  spa:
+  SPA:
     common: Belice
     official: Belice
 currencies:

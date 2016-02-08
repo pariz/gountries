@@ -17,36 +17,21 @@ languages:
   ara: Arabic
   heb: Hebrew
 translations:
-  deu:
+  DEU:
     common: Israel
     official: Staat Israel
-  fin:
-    common: Israel
-    official: Israelin valtio
-  fra:
+  FRA:
     common: Israël
     official: État d'Israël
-  hrv:
+  HRV:
     common: Izrael
     official: Država Izrael
-  ita:
+  ITA:
     common: Israele
     official: Stato di Israele
-  jpn:
-    common: イスラエル
-    official: イスラエル国
-  nld:
+  NLD:
     common: Israël
     official: Staat Israël
-  por:
-    common: Israel
-    official: Estado de Israel
-  rus:
-    common: Израиль
-    official: Государство Израиль
-  spa:
-    common: Israel
-    official: Estado de Israel
 currencies:
 - ILS
 borders:

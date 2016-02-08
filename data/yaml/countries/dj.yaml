@@ -17,37 +17,28 @@ languages:
   ara: Arabic
   fra: French
 translations:
-  cym:
-    common: Djibouti
-    official: Republic of Djibouti
-  deu:
+  DEU:
     common: Dschibuti
     official: Republik Dschibuti
-  fin:
+  FIN:
     common: Dijibouti
     official: Dijiboutin tasavalta
-  fra:
+  FRA:
     common: Djibouti
     official: République de Djibouti
-  hrv:
+  HRV:
     common: Džibuti
     official: Republika Džibuti
-  ita:
-    common: Gibuti
-    official: Repubblica di Gibuti
-  jpn:
-    common: ジブチ
-    official: ジブチ共和国
-  nld:
+  NLD:
     common: Djibouti
     official: Republiek Djibouti
-  por:
+  POR:
     common: Djibouti
     official: República do Djibouti
-  rus:
+  RUS:
     common: Джибути
     official: Республика Джибути
-  spa:
+  SPA:
     common: Djibouti
     official: República de Djibouti
 currencies:

@@ -13,36 +13,33 @@ tlds:
 languages:
   hun: Hungarian
 translations:
-  deu:
+  DEU:
     common: Ungarn
     official: Ungarn
-  fin:
+  FIN:
     common: Unkari
     official: Unkari
-  fra:
+  FRA:
     common: Hongrie
     official: Hongrie
-  hrv:
+  HRV:
     common: Mađarska
     official: Madžarska
-  ita:
+  ITA:
     common: Ungheria
     official: Ungheria
-  jpn:
+  JPN:
     common: ハンガリー
     official: ハンガリー
-  nld:
+  NLD:
     common: Hongarije
     official: Hongarije
-  por:
+  POR:
     common: Hungria
     official: Hungria
-  rus:
+  RUS:
     common: Венгрия
     official: Венгрия
-  spa:
-    common: Hungría
-    official: Hungría
 currencies:
 - HUF
 borders:

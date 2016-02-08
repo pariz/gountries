@@ -13,34 +13,22 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
-    common: Mali
-    official: Republik Mali
-  fin:
+  FIN:
     common: Mali
     official: Malin tasavalta
-  fra:
-    common: Mali
-    official: République du Mali
-  hrv:
+  HRV:
     common: Mali
     official: Republika Mali
-  ita:
+  ITA:
     common: Mali
     official: Repubblica del Mali
-  jpn:
-    common: マリ
-    official: マリ共和国
-  nld:
+  NLD:
     common: Mali
     official: Republiek Mali
-  por:
-    common: Mali
-    official: República do Mali
-  rus:
+  RUS:
     common: Мали
     official: Республика Мали
-  spa:
+  SPA:
     common: Mali
     official: República de Malí
 currencies:

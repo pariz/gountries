@@ -21,33 +21,21 @@ languages:
   fra: French
   nld: Dutch
 translations:
-  deu:
+  DEU:
     common: Sint Maarten
     official: Sint Maarten
-  fin:
-    common: Sint Maarten
-    official: Sint Maarten
-  fra:
+  FRA:
     common: Saint-Martin
     official: Sint Maarten
-  ita:
+  NLD:
     common: Sint Maarten
     official: Sint Maarten
-  jpn:
-    common: シント・マールテン
-    official: シントマールテン島
-  nld:
-    common: Sint Maarten
-    official: Sint Maarten
-  por:
+  POR:
     common: São Martinho
     official: Sint Maarten
-  rus:
+  RUS:
     common: Синт-Мартен
     official: Синт-Маартен
-  spa:
-    common: Sint Maarten
-    official: Sint Maarten
 currencies:
 - ANG
 borders:

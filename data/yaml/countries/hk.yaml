@@ -19,39 +19,23 @@ languages:
   eng: English
   zho: Chinese
 translations:
-  deu:
+  DEU:
     common: Hongkong
     official: Sonderverwaltungszone der Volksrepublik China
-  fin:
+  FIN:
     common: Hongkong
     official: Hong Kongin erityishallintoalue
-  fra:
+  FRA:
     common: Hong Kong
     official: Région administrative spéciale de Hong Kong de la République populaire
       de Chine
-  hrv:
-    common: Hong Kong
-    official: Hong Kong Posebnog upravnog područjaNarodne Republike Kine
-  ita:
+  ITA:
     common: Hong Kong
     official: Hong Kong Regione amministrativa speciale della Repubblica Popolare
       Cinese
-  jpn:
-    common: 香港
-    official: 中華人民共和国香港特別行政区
-  nld:
-    common: Hongkong
-    official: Hong Kong Speciale Administratieve Regio van de Volksrepubliek China
-  por:
+  POR:
     common: Hong Kong
     official: Hong Kong Região Administrativa Especial da República Popular da China
-  rus:
-    common: Гонконг
-    official: Hong Kong Специальный административный район Китайской Народной Республики
-      Китая
-  spa:
-    common: Hong Kong
-    official: Hong Kong Región Administrativa Especial de la República Popular China
 currencies:
 - HKD
 borders:

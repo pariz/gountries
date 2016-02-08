@@ -14,36 +14,27 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Saint Martin
     official: St. Martin
-  fin:
+  FRA:
     common: Saint-Martin
     official: Saint-Martin
-  fra:
-    common: Saint-Martin
-    official: Saint-Martin
-  hrv:
+  HRV:
     common: Sveti Martin
     official: Saint Martin
-  ita:
+  ITA:
     common: Saint Martin
     official: saint Martin
-  jpn:
+  JPN:
     common: サン・マルタン（フランス領）
     official: サンマルタン島
-  nld:
-    common: Saint-Martin
-    official: Saint Martin
-  por:
+  POR:
     common: São Martinho
     official: saint Martin
-  rus:
+  RUS:
     common: Сен-Мартен
     official: Сен-Мартен
-  spa:
-    common: Saint Martin
-    official: Saint Martin
 currencies:
 - EUR
 borders:

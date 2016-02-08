@@ -13,39 +13,27 @@ tlds:
 languages:
   amh: Amharic
 translations:
-  cym:
+  CYM:
     common: Ethiopia
     official: Federal Democratic Republic of Ethiopia
-  deu:
-    common: Äthiopien
-    official: Demokratische Bundesrepublik Äthiopien
-  fin:
+  FIN:
     common: Etiopia
     official: Etiopian demokraattinen liittotasavalta
-  fra:
+  FRA:
     common: Éthiopie
     official: République fédérale démocratique d'Éthiopie
-  hrv:
+  HRV:
     common: Etiopija
     official: Savezna Demokratska Republika Etiopija
-  ita:
+  ITA:
     common: Etiopia
     official: Repubblica federale democratica di Etiopia
-  jpn:
+  JPN:
     common: エチオピア
     official: エチオピア連邦民主共和国
-  nld:
-    common: Ethiopië
-    official: Federale Democratische Republiek Ethiopië
-  por:
+  POR:
     common: Etiópia
     official: República Federal Democrática da Etiópia
-  rus:
-    common: Эфиопия
-    official: Федеративная Демократическая Республика Эфиопия
-  spa:
-    common: Etiopía
-    official: República Democrática Federal de Etiopía
 currencies:
 - ETB
 borders:

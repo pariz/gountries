@@ -1,3 +1,17 @@
+- name: Alajuela
+  names:
+  - Alajuela
+  code: A
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.43864
+    minlatitude: 9.821506
+    maxlongitude: -84.14951
+    maxlatitude: 11.079316
+    latitude: 10.391583
+    longitude: -84.43827
 - name: Cartago
   names:
   - Cartago
@@ -82,17 +96,3 @@
     maxlatitude: 9.97126
     latitude: 9.928069
     longitude: -84.09072
-- name: Alajuela
-  names:
-  - Alajuela
-  code: A
-  countryalpha2: CR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.43864
-    minlatitude: 9.821506
-    maxlongitude: -84.14951
-    maxlatitude: 11.079316
-    latitude: 10.391583
-    longitude: -84.43827

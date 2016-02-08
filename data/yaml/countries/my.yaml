@@ -17,34 +17,16 @@ languages:
   eng: English
   msa: Malay
 translations:
-  deu:
-    common: Malaysia
-    official: Malaysia
-  fin:
-    common: Malesia
-    official: Malesia
-  fra:
+  FRA:
     common: Malaisie
     official: Fédération de Malaisie
-  hrv:
-    common: Malezija
-    official: Malezija
-  ita:
-    common: Malesia
-    official: Malaysia
-  jpn:
+  JPN:
     common: マレーシア
     official: マレーシア
-  nld:
-    common: Maleisië
-    official: Maleisië
-  por:
+  POR:
     common: Malásia
     official: Malásia
-  rus:
-    common: Малайзия
-    official: Малайзия
-  spa:
+  SPA:
     common: Malasia
     official: Malasia
 currencies:

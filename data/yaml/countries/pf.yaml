@@ -13,34 +13,25 @@ tlds:
 languages:
   fra: French
 translations:
-  deu:
+  DEU:
     common: Französisch-Polynesien
     official: Französisch-Polynesien
-  fin:
+  FIN:
     common: Ranskan Polynesia
     official: Ranskan Polynesia
-  fra:
-    common: Polynésie française
-    official: Polynésie française
-  hrv:
+  HRV:
     common: Francuska Polinezija
     official: Francuska Polinezija
-  ita:
+  ITA:
     common: Polinesia Francese
     official: Polinesia Francese
-  jpn:
-    common: フランス領ポリネシア
-    official: フランス領ポリネシア
-  nld:
+  NLD:
     common: Frans-Polynesië
     official: Frans-Polynesië
-  por:
-    common: Polinésia Francesa
-    official: Polinésia Francesa
-  rus:
+  RUS:
     common: Французская Полинезия
     official: Французская Полинезия
-  spa:
+  SPA:
     common: Polinesia Francesa
     official: Polinesia francés
 currencies:

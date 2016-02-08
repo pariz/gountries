@@ -17,36 +17,24 @@ languages:
   kir: Kyrgyz
   rus: Russian
 translations:
-  deu:
+  DEU:
     common: Kirgisistan
     official: Kirgisische Republik
-  fin:
+  FIN:
     common: Kirgisia
     official: Kirgisian tasavalta
-  fra:
-    common: Kirghizistan
-    official: République kirghize
-  hrv:
-    common: Kirgistan
-    official: Kirgistanu
-  ita:
+  ITA:
     common: Kirghizistan
     official: Kirghizistan
-  jpn:
+  JPN:
     common: キルギス
     official: キルギス共和国
-  nld:
-    common: Kirgizië
-    official: Kirgizische Republiek
-  por:
+  POR:
     common: Quirguistão
     official: República do Quirguistão
-  rus:
+  RUS:
     common: Киргизия
     official: Кыргызская Республика
-  spa:
-    common: Kirguizistán
-    official: República Kirguisa
 currencies:
 - KGS
 borders:

@@ -13,34 +13,31 @@ tlds:
 languages:
   eng: English
 translations:
-  deu:
-    common: Liberia
-    official: Republik Liberia
-  fin:
+  FIN:
     common: Liberia
     official: Liberian tasavalta
-  fra:
+  FRA:
     common: Liberia
     official: République du Libéria
-  hrv:
+  HRV:
     common: Liberija
     official: Republika Liberija
-  ita:
+  ITA:
     common: Liberia
     official: Repubblica di Liberia
-  jpn:
+  JPN:
     common: リベリア
     official: リベリア共和国
-  nld:
+  NLD:
     common: Liberia
     official: Republiek Liberia
-  por:
+  POR:
     common: Libéria
     official: República da Libéria
-  rus:
+  RUS:
     common: Либерия
     official: Республика Либерия
-  spa:
+  SPA:
     common: Liberia
     official: República de Liberia
 currencies:

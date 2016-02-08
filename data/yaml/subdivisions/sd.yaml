@@ -1,17 +1,3 @@
-- name: An Nil
-  names:
-  - River Nile
-  code: "04"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.85348
-    minlatitude: 15.964263
-    maxlongitude: 35.697292
-    maxlatitude: 22.006193
-    latitude: 17.114252
-    longitude: 33.796463
 - name: Janub Darfur
   names:
   - South Darfur
@@ -40,20 +26,6 @@
     maxlatitude: 14.972213
     latitude: 12.846356
     longitude: 23.0012
-- name: Janub Kurdufan
-  names:
-  - South Kordofan
-  code: "13"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.255672
-    minlatitude: 9.345832
-    maxlongitude: 32.473743
-    maxlatitude: 12.750007
-    latitude: 11.199019
-    longitude: 29.417933
 - name: Shamal Ba?r al Ghazal
   names:
   - North Bahr al Ghazal
@@ -68,97 +40,6 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Ba?r al Jabal
-  names:
-  - Bahr al Jebel
-  code: "17"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 15.952222
-    longitude: 26.96889
-- name: Shamal Darfur
-  names:
-  - North Darfur
-  - Shimal Darfur
-  code: "02"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.75691
-    minlatitude: 11.722497
-    maxlongitude: 27.532602
-    maxlatitude: 20.006495
-    latitude: 15.766197
-    longitude: 24.90422
-- name: Al Khartum
-  names:
-  - al-Khartum
-  - al-H̱arţūm
-  - Khartum
-  - Khartoum
-  - Jartum
-  code: "03"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.459248
-    minlatitude: 15.387094
-    maxlongitude: 32.685944
-    maxlatitude: 15.615997
-    latitude: 15.500654
-    longitude: 32.5599
-- name: Al Bu?ayrat
-  names:
-  - Bihār
-  - Lakes
-  code: "18"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 29.933332
-    longitude: 31.383333
-- name: Warab
-  names:
-  - Warap
-  code: "21"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.740973
-    minlatitude: 6.389609
-    maxlongitude: 29.69921
-    maxlatitude: 9.34868
-    latitude: 8.220931
-    longitude: 28.85968
-- name: Shamal Kurdufan
-  names:
-  - North Kordofan
-  - Shimal Kurdufan
-  code: "09"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.94969
-    minlatitude: 11.338815
-    maxlongitude: 32.35684
-    maxlatitude: 16.606045
-    latitude: 13.830644
-    longitude: 29.417933
 - name: Gharb al Istiwa'iyah
   names:
   - Garb-al-Istiwaiyyah
@@ -175,98 +56,6 @@
     maxlatitude: 6.799301
     latitude: 5.34718
     longitude: 28.299435
-- name: An Nil al Azraq
-  names:
-  - Blue Nile
-  code: "24"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.13598
-    minlatitude: 9.500348
-    maxlongitude: 35.09243
-    maxlatitude: 12.56568
-    latitude: 11.586008
-    longitude: 34.153194
-- name: Ash Shamaliyah
-  names:
-  - Northern
-  - Shamaliyah
-  code: "01"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 16.511393
-    maxlongitude: 32.63746
-    maxlatitude: 22.176529
-    latitude: 18.444897
-    longitude: 30.15893
-- name: Al Qa?arif
-  names:
-  - Gadaref
-  - Gedaref
-  - Qadārif
-  - al-Qadarif
-  code: "06"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
-- name: Sharq al Istiwa'iyah
-  names:
-  - East Equatoria
-  - Sharq al Istiwaiyya
-  - Šarq-al-Istiwaiyyah
-  code: "19"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.722189
-    minlatitude: 3.5150318
-    maxlongitude: 35.29818
-    maxlatitude: 6.000196
-    latitude: 5.0692997
-    longitude: 33.438354
-- name: Junqali
-  names:
-  - Jonglei
-  - Jongli
-  code: "20"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.209986
-    minlatitude: 5.724213
-    maxlongitude: 35.01957
-    maxlatitude: 9.51895
-    latitude: 7.181962
-    longitude: 32.356094
-- name: Al Wa?dah
-  names:
-  - Ittihād
-  - Unity
-  code: "22"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.64084
-    minlatitude: 7.067644
-    maxlongitude: 30.781872
-    maxlatitude: 10.289822
-    latitude: 8.927721
-    longitude: 29.788925
 - name: A?ali an Nil
   names:
   - Upper Nile
@@ -297,6 +86,68 @@
     maxlatitude: 13.583923
     latitude: 13.567469
     longitude: 33.567204
+- name: Al Khartum
+  names:
+  - al-Khartum
+  - al-H̱arţūm
+  - Khartum
+  - Khartoum
+  - Jartum
+  code: "03"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.459248
+    minlatitude: 15.387094
+    maxlongitude: 32.685944
+    maxlatitude: 15.615997
+    latitude: 15.500654
+    longitude: 32.5599
+- name: Shamal Kurdufan
+  names:
+  - North Kordofan
+  - Shimal Kurdufan
+  code: "09"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.94969
+    minlatitude: 11.338815
+    maxlongitude: 32.35684
+    maxlatitude: 16.606045
+    latitude: 13.830644
+    longitude: 29.417933
+- name: Junqali
+  names:
+  - Jonglei
+  - Jongli
+  code: "20"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.209986
+    minlatitude: 5.724213
+    maxlongitude: 35.01957
+    maxlatitude: 9.51895
+    latitude: 7.181962
+    longitude: 32.356094
+- name: Warab
+  names:
+  - Warap
+  code: "21"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.740973
+    minlatitude: 6.389609
+    maxlongitude: 29.69921
+    maxlatitude: 9.34868
+    latitude: 8.220931
+    longitude: 28.85968
 - name: Al Ba?r al A?mar
   names:
   - Red Sea
@@ -311,6 +162,20 @@
     maxlatitude: 22.006378
     latitude: 19.455606
     longitude: 35.214848
+- name: An Nil al Abya?
+  names:
+  - White Nile
+  code: "08"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.525822
+    minlatitude: 11.946541
+    maxlongitude: 33.254955
+    maxlatitude: 15.250874
+    latitude: 13.240388
+    longitude: 32.537273
 - name: Gharb Kurdufan
   names:
   - Gharb al Kurdufan
@@ -326,34 +191,6 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Gharb Ba?r al Ghazal
-  names:
-  - West Bahr al Ghazal
-  code: "14"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.151928
-    minlatitude: 6.643824
-    maxlongitude: 28.536482
-    maxlatitude: 10.438414
-    latitude: 8.64524
-    longitude: 25.283758
-- name: An Nil al Abya?
-  names:
-  - White Nile
-  code: "08"
-  countryalpha2: SD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.525822
-    minlatitude: 11.946541
-    maxlongitude: 33.254955
-    maxlatitude: 15.250874
-    latitude: 13.240388
-    longitude: 32.537273
 - name: Kassala
   names:
   - Kassala
@@ -368,6 +205,23 @@
     maxlatitude: 15.499425
     latitude: 15.45
     longitude: 36.4
+- name: Al Qa?arif
+  names:
+  - Gadaref
+  - Gedaref
+  - Qadārif
+  - al-Qadarif
+  code: "06"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Al Jazirah
   names:
   - Al Jazira
@@ -383,3 +237,149 @@
     maxlatitude: 15.476725
     latitude: 14.885962
     longitude: 33.438354
+- name: Janub Kurdufan
+  names:
+  - South Kordofan
+  code: "13"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.255672
+    minlatitude: 9.345832
+    maxlongitude: 32.473743
+    maxlatitude: 12.750007
+    latitude: 11.199019
+    longitude: 29.417933
+- name: Gharb Ba?r al Ghazal
+  names:
+  - West Bahr al Ghazal
+  code: "14"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.151928
+    minlatitude: 6.643824
+    maxlongitude: 28.536482
+    maxlatitude: 10.438414
+    latitude: 8.64524
+    longitude: 25.283758
+- name: Sharq al Istiwa'iyah
+  names:
+  - East Equatoria
+  - Sharq al Istiwaiyya
+  - Šarq-al-Istiwaiyyah
+  code: "19"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.722189
+    minlatitude: 3.5150318
+    maxlongitude: 35.29818
+    maxlatitude: 6.000196
+    latitude: 5.0692997
+    longitude: 33.438354
+- name: Ash Shamaliyah
+  names:
+  - Northern
+  - Shamaliyah
+  code: "01"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 16.511393
+    maxlongitude: 32.63746
+    maxlatitude: 22.176529
+    latitude: 18.444897
+    longitude: 30.15893
+- name: Shamal Darfur
+  names:
+  - North Darfur
+  - Shimal Darfur
+  code: "02"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.75691
+    minlatitude: 11.722497
+    maxlongitude: 27.532602
+    maxlatitude: 20.006495
+    latitude: 15.766197
+    longitude: 24.90422
+- name: Al Wa?dah
+  names:
+  - Ittihād
+  - Unity
+  code: "22"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.64084
+    minlatitude: 7.067644
+    maxlongitude: 30.781872
+    maxlatitude: 10.289822
+    latitude: 8.927721
+    longitude: 29.788925
+- name: An Nil al Azraq
+  names:
+  - Blue Nile
+  code: "24"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.13598
+    minlatitude: 9.500348
+    maxlongitude: 35.09243
+    maxlatitude: 12.56568
+    latitude: 11.586008
+    longitude: 34.153194
+- name: Al Bu?ayrat
+  names:
+  - Bihār
+  - Lakes
+  code: "18"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 29.933332
+    longitude: 31.383333
+- name: An Nil
+  names:
+  - River Nile
+  code: "04"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.85348
+    minlatitude: 15.964263
+    maxlongitude: 35.697292
+    maxlatitude: 22.006193
+    latitude: 17.114252
+    longitude: 33.796463
+- name: Ba?r al Jabal
+  names:
+  - Bahr al Jebel
+  code: "17"
+  countryalpha2: SD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 15.952222
+    longitude: 26.96889

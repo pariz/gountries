@@ -17,34 +17,28 @@ languages:
   ara: Arabic
   fra: French
 translations:
-  deu:
-    common: Libanon
-    official: Libanesische Republik
-  fin:
+  FIN:
     common: Libanon
     official: Libanonin tasavalta
-  fra:
+  FRA:
     common: Liban
     official: République libanaise
-  hrv:
+  HRV:
     common: Libanon
     official: Libanonska Republika
-  ita:
+  ITA:
     common: Libano
     official: Repubblica libanese
-  jpn:
+  JPN:
     common: レバノン
     official: レバノン共和国
-  nld:
-    common: Libanon
-    official: Libanese Republiek
-  por:
+  POR:
     common: Líbano
     official: República Libanesa
-  rus:
+  RUS:
     common: Ливан
     official: Ливанская Республика
-  spa:
+  SPA:
     common: Líbano
     official: República Libanesa
 currencies:

@@ -1,33 +1,46 @@
-- name: Salah ad Din
+- name: Dhi Qar
   names:
-  - Salah-ad-Din
-  code: SD
+  - Dhi Qar
+  - Thi Qar
+  code: DQ
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 42.45049
-    minlatitude: 33.41486
-    maxlongitude: 44.955273
-    maxlatitude: 35.675014
-    latitude: 34.533752
-    longitude: 43.483738
-- name: Al Basrah
+    minlongitude: 45.643673
+    minlatitude: 30.564833
+    maxlongitude: 47.19875
+    maxlatitude: 31.997545
+    latitude: 31.104229
+    longitude: 46.36247
+- name: Wasit
   names:
-  - Basra
-  - Bassora
-  - al-Basrah
-  code: BA
+  - Wasit
+  code: WA
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.614147
-    minlatitude: 30.43032
-    maxlongitude: 47.929916
-    maxlatitude: 30.63215
-    latitude: 30.5
-    longitude: 47.816666
+    minlongitude: 44.5098
+    minlatitude: 31.911861
+    maxlongitude: 46.60658
+    maxlatitude: 33.47649
+    latitude: 32.60241
+    longitude: 45.752098
+- name: Al Anbar
+  names:
+  - al-Anbar
+  code: AN
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 38.795887
+    minlatitude: 30.58966
+    maxlongitude: 44.30726
+    maxlatitude: 35.101223
+    latitude: 32.55976
+    longitude: 41.919647
 - name: Babil
   names:
   - Babil
@@ -43,80 +56,21 @@
     maxlatitude: 33.233322
     latitude: 32.46819
     longitude: 44.550194
-- name: Baghdad
+- name: Ninawá
   names:
-  - Baġdād
-  - Bagdad
-  - Bagdad
-  code: BG
+  - Nineveh
+  - Niniveh
+  code: NI
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 44.155983
-    minlatitude: 33.188313
-    maxlongitude: 44.555824
-    maxlatitude: 33.43506
-    latitude: 33.325
-    longitude: 44.422
-- name: Dahuk
-  names:
-  - Dahuk
-  code: DA
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 42.362213
-    minlatitude: 36.696167
-    maxlongitude: 44.110214
-    maxlatitude: 37.37804
-    latitude: 37.13339
-    longitude: 43.13099
-- name: Diyalá
-  names:
-  - Diyala
-  code: DI
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.292854
-    minlatitude: 33.00698
-    maxlongitude: 46.01852
-    maxlatitude: 35.11539
-    latitude: 33.77335
-    longitude: 45.149452
-- name: Karbala'
-  names:
-  - Karbala
-  - Kerbala
-  - Kerbela
-  code: KA
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.955868
-    minlatitude: 32.557503
-    maxlongitude: 44.067364
-    maxlatitude: 32.6573
-    latitude: 32.61667
-    longitude: 44.033333
-- name: Al Qadisiyah
-  names:
-  - al-Qadisiyah
-  code: QA
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.376614
-    minlatitude: 31.254454
-    maxlongitude: 45.826492
-    maxlatitude: 32.420094
-    latitude: 32.04369
-    longitude: 45.149452
+    minlongitude: 41.218105
+    minlatitude: 34.881165
+    maxlongitude: 44.309753
+    maxlatitude: 37.06718
+    latitude: 36.229572
+    longitude: 42.236244
 - name: As Sulaymaniyah
   names:
   - Sulaymaniya
@@ -133,50 +87,6 @@
     maxlatitude: 35.60295
     latitude: 35.55
     longitude: 45.433334
-- name: Al Anbar
-  names:
-  - al-Anbar
-  code: AN
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 38.795887
-    minlatitude: 30.58966
-    maxlongitude: 44.30726
-    maxlatitude: 35.101223
-    latitude: 32.55976
-    longitude: 41.919647
-- name: Al Muthanná
-  names:
-  - al-Muthanna
-  code: MU
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.807404
-    minlatitude: 29.078844
-    maxlongitude: 46.648624
-    maxlatitude: 31.699816
-    latitude: 29.913317
-    longitude: 45.299385
-- name: An Najaf
-  names:
-  - Najaf
-  - Nedjef
-  - Nejef
-  code: NA
-  countryalpha2: IQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.273617
-    minlatitude: 31.9676
-    maxlongitude: 44.38537
-    maxlatitude: 32.076115
-    latitude: 0
-    longitude: 44.33
 - name: Arbil
   names:
   - Arbil
@@ -193,64 +103,66 @@
     maxlatitude: 36.266144
     latitude: 36.191113
     longitude: 44.009167
-- name: Dhi Qar
+- name: Dahuk
   names:
-  - Dhi Qar
-  - Thi Qar
-  code: DQ
+  - Dahuk
+  code: DA
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 45.643673
-    minlatitude: 30.564833
-    maxlongitude: 47.19875
-    maxlatitude: 31.997545
-    latitude: 31.104229
-    longitude: 46.36247
-- name: Maysan
+    minlongitude: 42.362213
+    minlatitude: 36.696167
+    maxlongitude: 44.110214
+    maxlatitude: 37.37804
+    latitude: 37.13339
+    longitude: 43.13099
+- name: Karbala'
   names:
-  - Maysan
-  code: MA
+  - Karbala
+  - Kerbala
+  - Kerbela
+  code: KA
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.301785
-    minlatitude: 31.142853
-    maxlongitude: 47.864384
-    maxlatitude: 32.840252
-    latitude: 31.8734
-    longitude: 47.13621
-- name: Wasit
+    minlongitude: 43.955868
+    minlatitude: 32.557503
+    maxlongitude: 44.067364
+    maxlatitude: 32.6573
+    latitude: 32.61667
+    longitude: 44.033333
+- name: An Najaf
   names:
-  - Wasit
-  code: WA
+  - Najaf
+  - Nedjef
+  - Nejef
+  code: NA
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 44.5098
-    minlatitude: 31.911861
-    maxlongitude: 46.60658
-    maxlatitude: 33.47649
-    latitude: 32.60241
-    longitude: 45.752098
-- name: Ninawá
+    minlongitude: 44.273617
+    minlatitude: 31.9676
+    maxlongitude: 44.38537
+    maxlatitude: 32.076115
+    latitude: 0
+    longitude: 44.33
+- name: Al Qadisiyah
   names:
-  - Nineveh
-  - Niniveh
-  code: NI
+  - al-Qadisiyah
+  code: QA
   countryalpha2: IQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 41.218105
-    minlatitude: 34.881165
-    maxlongitude: 44.309753
-    maxlatitude: 37.06718
-    latitude: 36.229572
-    longitude: 42.236244
+    minlongitude: 44.376614
+    minlatitude: 31.254454
+    maxlongitude: 45.826492
+    maxlatitude: 32.420094
+    latitude: 32.04369
+    longitude: 45.149452
 - name: At Ta'mim
   names:
   - at-Tamim
@@ -265,3 +177,91 @@
     maxlatitude: 35.906433
     latitude: 35.3292
     longitude: 43.94368
+- name: Al Basrah
+  names:
+  - Basra
+  - Bassora
+  - al-Basrah
+  code: BA
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.614147
+    minlatitude: 30.43032
+    maxlongitude: 47.929916
+    maxlatitude: 30.63215
+    latitude: 30.5
+    longitude: 47.816666
+- name: Diyalá
+  names:
+  - Diyala
+  code: DI
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.292854
+    minlatitude: 33.00698
+    maxlongitude: 46.01852
+    maxlatitude: 35.11539
+    latitude: 33.77335
+    longitude: 45.149452
+- name: Maysan
+  names:
+  - Maysan
+  code: MA
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.301785
+    minlatitude: 31.142853
+    maxlongitude: 47.864384
+    maxlatitude: 32.840252
+    latitude: 31.8734
+    longitude: 47.13621
+- name: Al Muthanná
+  names:
+  - al-Muthanna
+  code: MU
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.807404
+    minlatitude: 29.078844
+    maxlongitude: 46.648624
+    maxlatitude: 31.699816
+    latitude: 29.913317
+    longitude: 45.299385
+- name: Salah ad Din
+  names:
+  - Salah-ad-Din
+  code: SD
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.45049
+    minlatitude: 33.41486
+    maxlongitude: 44.955273
+    maxlatitude: 35.675014
+    latitude: 34.533752
+    longitude: 43.483738
+- name: Baghdad
+  names:
+  - Baġdād
+  - Bagdad
+  - Bagdad
+  code: BG
+  countryalpha2: IQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.155983
+    minlatitude: 33.188313
+    maxlongitude: 44.555824
+    maxlatitude: 33.43506
+    latitude: 33.325
+    longitude: 44.422

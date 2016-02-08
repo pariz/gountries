@@ -1,34 +1,3 @@
-- name: Al Wustá
-  names:
-  - Central
-  - al-Mintaqah al-Wusta
-  code: "16"
-  countryalpha2: BH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.509594
-    minlatitude: 26.096567
-    maxlongitude: 50.671665
-    maxlatitude: 26.193289
-    latitude: 26.142609
-    longitude: 50.56533
-- name: Ash Shamaliyah
-  names:
-  - Northern
-  - al-Mintaqa ash Shamaliyah
-  - ash Shamaliyah
-  code: "17"
-  countryalpha2: BH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.378826
-    minlatitude: 26.04768
-    maxlongitude: 50.566463
-    maxlatitude: 26.235592
-    latitude: 26.155191
-    longitude: 50.482517
 - name: Al Manamah (Al ‘Asimah)
   names:
   - Manāmah
@@ -80,3 +49,34 @@
     maxlatitude: 0
     latitude: 26.266941
     longitude: 50.63839
+- name: Al Wustá
+  names:
+  - Central
+  - al-Mintaqah al-Wusta
+  code: "16"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.509594
+    minlatitude: 26.096567
+    maxlongitude: 50.671665
+    maxlatitude: 26.193289
+    latitude: 26.142609
+    longitude: 50.56533
+- name: Ash Shamaliyah
+  names:
+  - Northern
+  - al-Mintaqa ash Shamaliyah
+  - ash Shamaliyah
+  code: "17"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.378826
+    minlatitude: 26.04768
+    maxlongitude: 50.566463
+    maxlatitude: 26.235592
+    latitude: 26.155191
+    longitude: 50.482517

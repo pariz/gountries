@@ -14,36 +14,21 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  deu:
+  DEU:
     common: Syrien
     official: Arabische Republik Syrien
-  fin:
-    common: Syyria
-    official: Syyrian arabitasavalta
-  fra:
-    common: Syrie
-    official: République arabe syrienne
-  hrv:
+  HRV:
     common: Sirija
     official: Sirijska Arapska Republika
-  ita:
-    common: Siria
-    official: Repubblica araba siriana
-  jpn:
+  JPN:
     common: シリア・アラブ共和国
     official: シリアアラブ共和国
-  nld:
+  NLD:
     common: Syrië
     official: Syrische Arabische Republiek
-  por:
-    common: Síria
-    official: República Árabe Síria
-  rus:
+  RUS:
     common: Сирия
     official: Сирийская Арабская Республика
-  spa:
-    common: Siria
-    official: República Árabe Siria
 currencies:
 - SYP
 borders:

@@ -1,73 +1,17 @@
-- name: Primorsko-goranska županija
+- name: Zadarska županija
   names:
-  - Primorje-Gorski Kotar
-  code: "08"
+  - Zadar
+  code: "13"
   countryalpha2: HR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.10789
-    minlatitude: 44.440697
-    maxlongitude: 15.2352705
-    maxlatitude: 45.673447
-    latitude: 45.317398
-    longitude: 14.816747
-- name: Krapinsko-zagorska županija
-  names:
-  - Krapina-Zagorje
-  code: "02"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.59547
-    minlatitude: 45.902317
-    maxlongitude: 16.257124
-    maxlatitude: 46.280014
-    latitude: 46.101337
-    longitude: 15.880969
-- name: Virovitičko-podravska županija
-  names:
-  - Virovitica-Podravina
-  code: "10"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.119738
-    minlatitude: 45.47257
-    maxlongitude: 18.067827
-    maxlatitude: 45.996212
-    latitude: 45.6558
-    longitude: 17.793247
-- name: Vukovarsko-srijemska županija
-  names:
-  - Vukovar-Sirmium
-  code: "16"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.49484
-    minlatitude: 44.84975
-    maxlongitude: 19.448051
-    maxlatitude: 45.485634
-    latitude: 45.177357
-    longitude: 18.805353
-- name: Istarska županija
-  names:
-  - Istria
-  code: "18"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.489687
-    minlatitude: 44.757553
-    maxlongitude: 14.22859
-    maxlatitude: 45.519604
-    latitude: 45.128647
-    longitude: 13.901542
+    minlongitude: 14.567019
+    minlatitude: 43.822807
+    maxlongitude: 16.220242
+    maxlatitude: 44.53845
+    latitude: 44.14694
+    longitude: 15.616494
 - name: Zagrebačka županija
   names:
   - Zagreb County
@@ -82,132 +26,6 @@
     maxlatitude: 46.069504
     latitude: 45.870663
     longitude: 16.39549
-- name: Koprivničko-križevačka županija
-  names:
-  - Koprivnica-Križevci
-  code: "06"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.341705
-    minlatitude: 45.880272
-    maxlongitude: 17.305712
-    maxlatitude: 46.355198
-    latitude: 46.15689
-    longitude: 16.839083
-- name: Bjelovarsko-bilogorska županija
-  names:
-  - Bjelovar-Bilogora
-  code: "07"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.488863
-    minlatitude: 45.466194
-    maxlongitude: 17.498674
-    maxlatitude: 46.08876
-    latitude: 45.781
-    longitude: 16.993658
-- name: Ličko-senjska županija
-  names:
-  - Lika-Senj
-  code: "09"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.682855
-    minlatitude: 44.27123
-    maxlongitude: 16.140818
-    maxlatitude: 45.122894
-    latitude: 44.61922
-    longitude: 15.4701605
-- name: Požeško-slavonska županija
-  names:
-  - Požega-Slavonia
-  code: "11"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.928493
-    minlatitude: 45.18233
-    maxlongitude: 18.114182
-    maxlatitude: 45.580162
-    latitude: 45.341785
-    longitude: 17.811436
-- name: Osječko-baranjska županija
-  names:
-  - Osijek-Baranja
-  code: "14"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.884062
-    minlatitude: 45.204285
-    maxlongitude: 19.10257
-    maxlatitude: 45.9218
-    latitude: 45.557644
-    longitude: 18.394215
-- name: Splitsko-dalmatinska županija
-  names:
-  - Split-Dalmatia
-  code: "17"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.709013
-    minlatitude: 42.387135
-    maxlongitude: 17.451069
-    maxlatitude: 43.973618
-    latitude: 43.524033
-    longitude: 16.817837
-- name: Dubrovačko-neretvanska županija
-  names:
-  - Dubrovnik-Neretva
-  code: "19"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.487616
-    minlatitude: 42.39224
-    maxlongitude: 18.533747
-    maxlatitude: 43.17751
-    latitude: 43.07666
-    longitude: 17.526848
-- name: Međimurska županija
-  names:
-  - Međimurje
-  code: "20"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.238453
-    minlatitude: 46.287758
-    maxlongitude: 16.85801
-    maxlatitude: 46.55522
-    latitude: 46.376663
-    longitude: 16.42133
-- name: Sisačko-moslavačka županija
-  names:
-  - Sisak-Moslavina
-  code: "03"
-  countryalpha2: HR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.7676525
-    minlatitude: 44.99591
-    maxlongitude: 17.194914
-    maxlatitude: 45.669918
-    latitude: 45.383793
-    longitude: 16.5381
 - name: Karlovačka županija
   names:
   - Karlovac
@@ -236,48 +54,48 @@
     maxlatitude: 46.404835
     latitude: 46.231747
     longitude: 16.336056
-- name: Brodsko-posavska županija
+- name: Bjelovarsko-bilogorska županija
   names:
-  - Brod-Posavina
-  code: "12"
+  - Bjelovar-Bilogora
+  code: "07"
   countryalpha2: HR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 17.073662
-    minlatitude: 45.043457
-    maxlongitude: 18.574629
-    maxlatitude: 45.39236
-    latitude: 45.263794
-    longitude: 17.326456
-- name: Zadarska županija
+    minlongitude: 16.488863
+    minlatitude: 45.466194
+    maxlongitude: 17.498674
+    maxlatitude: 46.08876
+    latitude: 45.781
+    longitude: 16.993658
+- name: Ličko-senjska županija
   names:
-  - Zadar
-  code: "13"
+  - Lika-Senj
+  code: "09"
   countryalpha2: HR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.567019
-    minlatitude: 43.822807
-    maxlongitude: 16.220242
-    maxlatitude: 44.53845
-    latitude: 44.14694
-    longitude: 15.616494
-- name: Šibensko-kninska županija
+    minlongitude: 14.682855
+    minlatitude: 44.27123
+    maxlongitude: 16.140818
+    maxlatitude: 45.122894
+    latitude: 44.61922
+    longitude: 15.4701605
+- name: Istarska županija
   names:
-  - Šibenik-Knin
-  code: "15"
+  - Istria
+  code: "18"
   countryalpha2: HR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.206828
-    minlatitude: 43.486828
-    maxlongitude: 16.542622
-    maxlatitude: 44.2165
-    latitude: 43.92815
-    longitude: 16.10377
+    minlongitude: 13.489687
+    minlatitude: 44.757553
+    maxlongitude: 14.22859
+    maxlatitude: 45.519604
+    latitude: 45.128647
+    longitude: 13.901542
 - name: Grad Zagreb
   names:
   - City of Zagreb
@@ -292,3 +110,185 @@
     maxlatitude: 45.93954
     latitude: 45.81501
     longitude: 15.981919
+- name: Krapinsko-zagorska županija
+  names:
+  - Krapina-Zagorje
+  code: "02"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.59547
+    minlatitude: 45.902317
+    maxlongitude: 16.257124
+    maxlatitude: 46.280014
+    latitude: 46.101337
+    longitude: 15.880969
+- name: Sisačko-moslavačka županija
+  names:
+  - Sisak-Moslavina
+  code: "03"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.7676525
+    minlatitude: 44.99591
+    maxlongitude: 17.194914
+    maxlatitude: 45.669918
+    latitude: 45.383793
+    longitude: 16.5381
+- name: Šibensko-kninska županija
+  names:
+  - Šibenik-Knin
+  code: "15"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.206828
+    minlatitude: 43.486828
+    maxlongitude: 16.542622
+    maxlatitude: 44.2165
+    latitude: 43.92815
+    longitude: 16.10377
+- name: Vukovarsko-srijemska županija
+  names:
+  - Vukovar-Sirmium
+  code: "16"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.49484
+    minlatitude: 44.84975
+    maxlongitude: 19.448051
+    maxlatitude: 45.485634
+    latitude: 45.177357
+    longitude: 18.805353
+- name: Međimurska županija
+  names:
+  - Međimurje
+  code: "20"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.238453
+    minlatitude: 46.287758
+    maxlongitude: 16.85801
+    maxlatitude: 46.55522
+    latitude: 46.376663
+    longitude: 16.42133
+- name: Brodsko-posavska županija
+  names:
+  - Brod-Posavina
+  code: "12"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.073662
+    minlatitude: 45.043457
+    maxlongitude: 18.574629
+    maxlatitude: 45.39236
+    latitude: 45.263794
+    longitude: 17.326456
+- name: Osječko-baranjska županija
+  names:
+  - Osijek-Baranja
+  code: "14"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.884062
+    minlatitude: 45.204285
+    maxlongitude: 19.10257
+    maxlatitude: 45.9218
+    latitude: 45.557644
+    longitude: 18.394215
+- name: Virovitičko-podravska županija
+  names:
+  - Virovitica-Podravina
+  code: "10"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.119738
+    minlatitude: 45.47257
+    maxlongitude: 18.067827
+    maxlatitude: 45.996212
+    latitude: 45.6558
+    longitude: 17.793247
+- name: Požeško-slavonska županija
+  names:
+  - Požega-Slavonia
+  code: "11"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.928493
+    minlatitude: 45.18233
+    maxlongitude: 18.114182
+    maxlatitude: 45.580162
+    latitude: 45.341785
+    longitude: 17.811436
+- name: Splitsko-dalmatinska županija
+  names:
+  - Split-Dalmatia
+  code: "17"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.709013
+    minlatitude: 42.387135
+    maxlongitude: 17.451069
+    maxlatitude: 43.973618
+    latitude: 43.524033
+    longitude: 16.817837
+- name: Dubrovačko-neretvanska županija
+  names:
+  - Dubrovnik-Neretva
+  code: "19"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.487616
+    minlatitude: 42.39224
+    maxlongitude: 18.533747
+    maxlatitude: 43.17751
+    latitude: 43.07666
+    longitude: 17.526848
+- name: Koprivničko-križevačka županija
+  names:
+  - Koprivnica-Križevci
+  code: "06"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.341705
+    minlatitude: 45.880272
+    maxlongitude: 17.305712
+    maxlatitude: 46.355198
+    latitude: 46.15689
+    longitude: 16.839083
+- name: Primorsko-goranska županija
+  names:
+  - Primorje-Gorski Kotar
+  code: "08"
+  countryalpha2: HR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.10789
+    minlatitude: 44.440697
+    maxlongitude: 15.2352705
+    maxlatitude: 45.673447
+    latitude: 45.317398
+    longitude: 14.816747

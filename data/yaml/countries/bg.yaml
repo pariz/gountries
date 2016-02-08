@@ -13,37 +13,28 @@ tlds:
 languages:
   bul: Bulgarian
 translations:
-  cym:
-    common: Bwlgaria
-    official: Republic of Bulgaria
-  deu:
+  DEU:
     common: Bulgarien
     official: Republik Bulgarien
-  fin:
+  FIN:
     common: Bulgaria
     official: Bulgarian tasavalta
-  fra:
+  FRA:
     common: Bulgarie
     official: République de Bulgarie
-  hrv:
+  HRV:
     common: Bugarska
     official: Republika Bugarska
-  ita:
+  ITA:
     common: Bulgaria
     official: Repubblica di Bulgaria
-  jpn:
-    common: ブルガリア
-    official: ブルガリア共和国
-  nld:
+  NLD:
     common: Bulgarije
     official: Republiek Bulgarije
-  por:
-    common: Bulgária
-    official: República da Bulgária
-  rus:
+  RUS:
     common: Болгария
     official: Республика Болгария
-  spa:
+  SPA:
     common: Bulgaria
     official: República de Bulgaria
 currencies:

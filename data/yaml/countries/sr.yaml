@@ -13,34 +13,25 @@ tlds:
 languages:
   nld: Dutch
 translations:
-  deu:
-    common: Suriname
-    official: Republik Suriname
-  fin:
+  FIN:
     common: Suriname
     official: Surinamen tasavalta
-  fra:
+  FRA:
     common: Surinam
     official: République du Suriname
-  hrv:
-    common: Surinam
-    official: Republika Surinam
-  ita:
+  ITA:
     common: Suriname
     official: Repubblica del Suriname
-  jpn:
+  JPN:
     common: スリナム
     official: スリナム共和国
-  nld:
-    common: Suriname
-    official: Republiek Suriname
-  por:
+  POR:
     common: Suriname
     official: República do Suriname
-  rus:
+  RUS:
     common: Суринам
     official: Республика Суринам
-  spa:
+  SPA:
     common: Surinam
     official: República de Suriname
 currencies:

@@ -25,34 +25,25 @@ languages:
   ita: Italian
   roh: Romansh
 translations:
-  deu:
-    common: Schweiz
-    official: Schweizerische Eidgenossenschaft
-  fin:
-    common: Sveitsi
-    official: Sveitsin valaliitto
-  fra:
+  FRA:
     common: Suisse
     official: Confédération suisse
-  hrv:
-    common: Švicarska
-    official: švicarska Konfederacija
-  ita:
+  ITA:
     common: Svizzera
     official: Confederazione svizzera
-  jpn:
+  JPN:
     common: スイス
     official: スイス連邦
-  nld:
+  NLD:
     common: Zwitserland
     official: Zwitserse Confederatie
-  por:
+  POR:
     common: Suíça
     official: Confederação Suíça
-  rus:
+  RUS:
     common: Швейцария
     official: Швейцарская Конфедерация
-  spa:
+  SPA:
     common: Suiza
     official: Confederación Suiza
 currencies:

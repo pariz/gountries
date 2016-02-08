@@ -1,59 +1,3 @@
-- name: Kjustendil
-  names:
-  - Kjustendil
-  code: "10"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.659458
-    minlatitude: 42.271122
-    maxlongitude: 22.727333
-    maxlatitude: 42.302288
-    latitude: 42.28688
-    longitude: 22.693932
-- name: Razgrad
-  names:
-  - Razgrad
-  code: "17"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.494596
-    minlatitude: 43.508915
-    maxlongitude: 26.563686
-    maxlatitude: 43.550488
-    latitude: 43.533672
-    longitude: 26.541117
-- name: Sliven
-  names:
-  - Sliven
-  code: "20"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.259886
-    minlatitude: 42.619637
-    maxlongitude: 26.39024
-    maxlatitude: 42.711124
-    latitude: 42.681652
-    longitude: 26.322868
-- name: Burgas
-  names:
-  - Burgas
-  code: "02"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.358076
-    minlatitude: 42.43912
-    maxlongitude: 27.545856
-    maxlatitude: 42.613922
-    latitude: 42.50479
-    longitude: 27.462637
 - name: Veliko Tarnovo
   names:
   - Veliko Tarnovo
@@ -68,244 +12,6 @@
     maxlatitude: 43.110306
     latitude: 43.075672
     longitude: 25.617151
-- name: Lovech
-  names:
-  - Lovech
-  code: "11"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.675367
-    minlatitude: 43.106968
-    maxlongitude: 24.746721
-    maxlatitude: 43.18198
-    latitude: 43.136955
-    longitude: 24.714191
-- name: Haskovo
-  names:
-  - Haskovo
-  code: "26"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.494247
-    minlatitude: 41.9114
-    maxlongitude: 25.60307
-    maxlatitude: 41.95415
-    latitude: 41.934437
-    longitude: 25.555447
-- name: Varna
-  names:
-  - Varna
-  code: "03"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.829908
-    minlatitude: 43.10023
-    maxlongitude: 28.055908
-    maxlatitude: 43.309452
-    latitude: 43.21405
-    longitude: 27.914734
-- name: Pleven
-  names:
-  - Pleven
-  code: "15"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.569002
-    minlatitude: 43.39186
-    maxlongitude: 24.660065
-    maxlatitude: 43.450497
-    latitude: 43.41704
-    longitude: 24.606686
-- name: Silistra
-  names:
-  - Silistra
-  code: "19"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.225437
-    minlatitude: 44.097588
-    maxlongitude: 27.284075
-    maxlatitude: 44.124836
-    latitude: 44.114727
-    longitude: 27.26719
-- name: Šumen
-  names:
-  - Šumen
-  code: "27"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.897226
-    minlatitude: 43.22509
-    maxlongitude: 27.050634
-    maxlatitude: 43.31441
-    latitude: 43.27124
-    longitude: 26.936129
-- name: Blagoevgrad
-  names:
-  - Blagoevgrad
-  code: "01"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.069895
-    minlatitude: 41.997894
-    maxlongitude: 23.119589
-    maxlatitude: 42.02967
-    latitude: 42.02086
-    longitude: 23.09434
-- name: Smolyan
-  names:
-  - Smolyan
-  code: "21"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.668447
-    minlatitude: 41.5643
-    maxlongitude: 24.813862
-    maxlatitude: 41.593872
-    latitude: 41.577423
-    longitude: 24.701115
-- name: Ruse
-  names:
-  - Ruse
-  code: "18"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.870485
-    minlatitude: 43.754234
-    maxlongitude: 26.049099
-    maxlatitude: 43.889
-    latitude: 43.83557
-    longitude: 25.965656
-- name: Montana
-  names:
-  - Montana
-  code: "12"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.20738
-    minlatitude: 43.376423
-    maxlongitude: 23.247425
-    maxlatitude: 43.451984
-    latitude: 43.408516
-    longitude: 23.225729
-- name: Plovdiv
-  names:
-  - Plovdiv
-  code: "16"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.65772
-    minlatitude: 42.090008
-    maxlongitude: 24.824028
-    maxlatitude: 42.198235
-    latitude: 42.135406
-    longitude: 24.74529
-- name: Gabrovo
-  names:
-  - Gabrovo
-  code: "07"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.262114
-    minlatitude: 42.78277
-    maxlongitude: 25.38844
-    maxlatitude: 42.9151
-    latitude: 42.87422
-    longitude: 25.318684
-- name: Dobrich
-  names:
-  - Dobrich
-  code: "08"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.763096
-    minlatitude: 43.541847
-    maxlongitude: 27.860744
-    maxlatitude: 43.608704
-    latitude: 43.57259
-    longitude: 27.827261
-- name: Pazardzhik
-  names:
-  - Pazardzhik
-  code: "13"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.298048
-    minlatitude: 42.16326
-    maxlongitude: 24.362633
-    maxlatitude: 42.214264
-    latitude: 42.192764
-    longitude: 24.333567
-- name: Sofia-Grad
-  names:
-  - Sofia-Grad
-  code: "22"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.190989
-    minlatitude: 42.49001
-    maxlongitude: 23.456905
-    maxlatitude: 42.787777
-    latitude: 42.69771
-    longitude: 23.321867
-- name: Yambol
-  names:
-  - Yambol
-  code: "28"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.464636
-    minlatitude: 42.447536
-    maxlongitude: 26.541264
-    maxlatitude: 42.50674
-    latitude: 42.4842
-    longitude: 26.503502
-- name: Vidin
-  names:
-  - Vidin
-  code: "05"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.839066
-    minlatitude: 43.943798
-    maxlongitude: 22.915682
-    maxlatitude: 44.01545
-    latitude: 43.99616
-    longitude: 22.86793
 - name: Kardzhali
   names:
   - Kardzhali
@@ -320,6 +26,188 @@
     maxlatitude: 41.65972
     latitude: 41.633842
     longitude: 25.377712
+- name: Lovech
+  names:
+  - Lovech
+  code: "11"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.675367
+    minlatitude: 43.106968
+    maxlongitude: 24.746721
+    maxlatitude: 43.18198
+    latitude: 43.136955
+    longitude: 24.714191
+- name: Montana
+  names:
+  - Montana
+  code: "12"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.20738
+    minlatitude: 43.376423
+    maxlongitude: 23.247425
+    maxlatitude: 43.451984
+    latitude: 43.408516
+    longitude: 23.225729
+- name: Blagoevgrad
+  names:
+  - Blagoevgrad
+  code: "01"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.069895
+    minlatitude: 41.997894
+    maxlongitude: 23.119589
+    maxlatitude: 42.02967
+    latitude: 42.02086
+    longitude: 23.09434
+- name: Burgas
+  names:
+  - Burgas
+  code: "02"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.358076
+    minlatitude: 42.43912
+    maxlongitude: 27.545856
+    maxlatitude: 42.613922
+    latitude: 42.50479
+    longitude: 27.462637
+- name: Kjustendil
+  names:
+  - Kjustendil
+  code: "10"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.659458
+    minlatitude: 42.271122
+    maxlongitude: 22.727333
+    maxlatitude: 42.302288
+    latitude: 42.28688
+    longitude: 22.693932
+- name: Pleven
+  names:
+  - Pleven
+  code: "15"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.569002
+    minlatitude: 43.39186
+    maxlongitude: 24.660065
+    maxlatitude: 43.450497
+    latitude: 43.41704
+    longitude: 24.606686
+- name: Varna
+  names:
+  - Varna
+  code: "03"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.829908
+    minlatitude: 43.10023
+    maxlongitude: 28.055908
+    maxlatitude: 43.309452
+    latitude: 43.21405
+    longitude: 27.914734
+- name: Gabrovo
+  names:
+  - Gabrovo
+  code: "07"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.262114
+    minlatitude: 42.78277
+    maxlongitude: 25.38844
+    maxlatitude: 42.9151
+    latitude: 42.87422
+    longitude: 25.318684
+- name: Ruse
+  names:
+  - Ruse
+  code: "18"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.870485
+    minlatitude: 43.754234
+    maxlongitude: 26.049099
+    maxlatitude: 43.889
+    latitude: 43.83557
+    longitude: 25.965656
+- name: Sofia-Grad
+  names:
+  - Sofia-Grad
+  code: "22"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.190989
+    minlatitude: 42.49001
+    maxlongitude: 23.456905
+    maxlatitude: 42.787777
+    latitude: 42.69771
+    longitude: 23.321867
+- name: Silistra
+  names:
+  - Silistra
+  code: "19"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.225437
+    minlatitude: 44.097588
+    maxlongitude: 27.284075
+    maxlatitude: 44.124836
+    latitude: 44.114727
+    longitude: 27.26719
+- name: Vidin
+  names:
+  - Vidin
+  code: "05"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.839066
+    minlatitude: 43.943798
+    maxlongitude: 22.915682
+    maxlatitude: 44.01545
+    latitude: 43.99616
+    longitude: 22.86793
+- name: Pernik
+  names:
+  - Pernik
+  code: "14"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.975527
+    minlatitude: 42.568188
+    maxlongitude: 23.127367
+    maxlatitude: 42.624397
+    latitude: 42.605186
+    longitude: 23.037836
 - name: Sofia
   names:
   - Sofia
@@ -348,20 +236,6 @@
     maxlatitude: 42.44571
     latitude: 42.425777
     longitude: 25.634464
-- name: Targovishte
-  names:
-  - Targovishte
-  code: "25"
-  countryalpha2: BG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.519508
-    minlatitude: 43.227528
-    maxlongitude: 26.607256
-    maxlatitude: 43.285645
-    latitude: 43.249355
-    longitude: 26.572735
 - name: Vratsa
   names:
   - Vratsa
@@ -376,17 +250,143 @@
     maxlatitude: 43.22971
     latitude: 43.210236
     longitude: 23.552881
-- name: Pernik
+- name: Smolyan
   names:
-  - Pernik
-  code: "14"
+  - Smolyan
+  code: "21"
   countryalpha2: BG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.975527
-    minlatitude: 42.568188
-    maxlongitude: 23.127367
-    maxlatitude: 42.624397
-    latitude: 42.605186
-    longitude: 23.037836
+    minlongitude: 24.668447
+    minlatitude: 41.5643
+    maxlongitude: 24.813862
+    maxlatitude: 41.593872
+    latitude: 41.577423
+    longitude: 24.701115
+- name: Haskovo
+  names:
+  - Haskovo
+  code: "26"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.494247
+    minlatitude: 41.9114
+    maxlongitude: 25.60307
+    maxlatitude: 41.95415
+    latitude: 41.934437
+    longitude: 25.555447
+- name: Šumen
+  names:
+  - Šumen
+  code: "27"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.897226
+    minlatitude: 43.22509
+    maxlongitude: 27.050634
+    maxlatitude: 43.31441
+    latitude: 43.27124
+    longitude: 26.936129
+- name: Razgrad
+  names:
+  - Razgrad
+  code: "17"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.494596
+    minlatitude: 43.508915
+    maxlongitude: 26.563686
+    maxlatitude: 43.550488
+    latitude: 43.533672
+    longitude: 26.541117
+- name: Sliven
+  names:
+  - Sliven
+  code: "20"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.259886
+    minlatitude: 42.619637
+    maxlongitude: 26.39024
+    maxlatitude: 42.711124
+    latitude: 42.681652
+    longitude: 26.322868
+- name: Dobrich
+  names:
+  - Dobrich
+  code: "08"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.763096
+    minlatitude: 43.541847
+    maxlongitude: 27.860744
+    maxlatitude: 43.608704
+    latitude: 43.57259
+    longitude: 27.827261
+- name: Pazardzhik
+  names:
+  - Pazardzhik
+  code: "13"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.298048
+    minlatitude: 42.16326
+    maxlongitude: 24.362633
+    maxlatitude: 42.214264
+    latitude: 42.192764
+    longitude: 24.333567
+- name: Yambol
+  names:
+  - Yambol
+  code: "28"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.464636
+    minlatitude: 42.447536
+    maxlongitude: 26.541264
+    maxlatitude: 42.50674
+    latitude: 42.4842
+    longitude: 26.503502
+- name: Plovdiv
+  names:
+  - Plovdiv
+  code: "16"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.65772
+    minlatitude: 42.090008
+    maxlongitude: 24.824028
+    maxlatitude: 42.198235
+    latitude: 42.135406
+    longitude: 24.74529
+- name: Targovishte
+  names:
+  - Targovishte
+  code: "25"
+  countryalpha2: BG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.519508
+    minlatitude: 43.227528
+    maxlongitude: 26.607256
+    maxlatitude: 43.285645
+    latitude: 43.249355
+    longitude: 26.572735

@@ -9,37 +9,34 @@ tlds:
 - .aq
 languages: {}
 translations:
-  cym:
+  CYM:
     common: Antarctica
     official: Antarctica
-  deu:
+  DEU:
     common: Antarktis
     official: Antarktika
-  fin:
+  FIN:
     common: Etelämanner
     official: Etelämanner
-  fra:
+  FRA:
     common: Antarctique
     official: Antarctique
-  hrv:
+  HRV:
     common: Antarktika
     official: Antarktika
-  ita:
+  ITA:
     common: Antartide
     official: Antartide
-  jpn:
+  JPN:
     common: 南極
     official: 南極大陸
-  nld:
-    common: Antarctica
-    official: Antarctica
-  por:
+  POR:
     common: Antártida
     official: Antártica
-  rus:
+  RUS:
     common: Антарктида
     official: Антарктида
-  spa:
+  SPA:
     common: Antártida
     official: Antártida
 currencies: []

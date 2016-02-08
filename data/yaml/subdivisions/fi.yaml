@@ -1,3 +1,31 @@
+- name: Ahvenanmaan lääni
+  names:
+  - Åland
+  code: AL
+  countryalpha2: FI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.461393
+    minlatitude: 59.968643
+    maxlongitude: 21.111132
+    maxlatitude: 60.654774
+    latitude: 60.177002
+    longitude: 19.915003
+- name: Etelä-Suomen lääni
+  names:
+  - Etelä-Suomen lääni
+  code: ES
+  countryalpha2: FI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Itä-Suomen lääni
   names:
   - Östra Nyland
@@ -59,31 +87,3 @@
     maxlatitude: 0
     latitude: 65.62343
     longitude: 25.148241
-- name: Ahvenanmaan lääni
-  names:
-  - Åland
-  code: AL
-  countryalpha2: FI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.461393
-    minlatitude: 59.968643
-    maxlongitude: 21.111132
-    maxlatitude: 60.654774
-    latitude: 60.177002
-    longitude: 19.915003
-- name: Etelä-Suomen lääni
-  names:
-  - Etelä-Suomen lääni
-  code: ES
-  countryalpha2: FI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0

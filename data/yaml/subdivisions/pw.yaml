@@ -1,31 +1,87 @@
-- name: Hatobohei
+- name: Ngchesar
   names:
-  - Hatobohei
-  code: "050"
+  - Ngchesar
+  code: "226"
   countryalpha2: PW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 131.12032
-    minlatitude: 3.0008771
-    maxlongitude: 131.12448
-    maxlatitude: 3.007413
-    latitude: 3.0048866
-    longitude: 131.12141
-- name: Airai
+    minlongitude: 134.5492
+    minlatitude: 7.4116454
+    maxlongitude: 134.62299
+    maxlatitude: 7.502811
+    latitude: 7.452328
+    longitude: 134.57843
+- name: Sonsorol
   names:
-  - Airai
-  code: "004"
+  - Sonsorol
+  code: "370"
   countryalpha2: PW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 134.5077
-    minlatitude: 7.3503366
-    maxlongitude: 134.56569
-    maxlatitude: 7.390301
-    latitude: 7.3641844
-    longitude: 134.53607
+    minlongitude: 131.94792
+    minlatitude: 4.3124723
+    maxlongitude: 132.3141
+    maxlatitude: 4.658357
+    latitude: 4.319972
+    longitude: 132.31264
+- name: Ngaraard
+  names:
+  - Ngaraard
+  code: "214"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.5937
+    minlatitude: 7.572298
+    maxlongitude: 134.6466
+    maxlatitude: 7.6869354
+    latitude: 7.60794
+    longitude: 134.63486
+- name: Ngarchelong
+  names:
+  - Ngarchelong
+  code: "218"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.60933
+    minlatitude: 7.686335
+    maxlongitude: 134.64575
+    maxlatitude: 7.7316628
+    latitude: 7.710547
+    longitude: 134.63016
+- name: Ngatpang
+  names:
+  - Ngatpang
+  code: "224"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.48424
+    minlatitude: 7.417311
+    maxlongitude: 134.56067
+    maxlatitude: 7.50694
+    latitude: 7.4710994
+    longitude: 134.52664
+- name: Kayangel
+  names:
+  - Kayangel
+  code: "100"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.6808
+    minlatitude: 8.037898
+    maxlongitude: 134.72388
+    maxlatitude: 8.103503
+    latitude: 8.088947
+    longitude: 134.70999
 - name: Melekeok
   names:
   - Melekeok
@@ -54,48 +110,6 @@
     maxlatitude: 7.6205106
     latitude: 7.5850487
     longitude: 134.55962
-- name: Ngatpang
-  names:
-  - Ngatpang
-  code: "224"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.48424
-    minlatitude: 7.417311
-    maxlongitude: 134.56067
-    maxlatitude: 7.50694
-    latitude: 7.4710994
-    longitude: 134.52664
-- name: Ngchesar
-  names:
-  - Ngchesar
-  code: "226"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.5492
-    minlatitude: 7.4116454
-    maxlongitude: 134.62299
-    maxlatitude: 7.502811
-    latitude: 7.452328
-    longitude: 134.57843
-- name: Ngeremlengui
-  names:
-  - Ngeremlengui
-  code: "227"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.49916
-    minlatitude: 7.464199
-    maxlongitude: 134.59944
-    maxlatitude: 7.577442
-    latitude: 7.51984
-    longitude: 134.55962
 - name: Peleliu
   names:
   - Peleliu
@@ -110,62 +124,6 @@
     maxlatitude: 7.049378
     latitude: 7.0022907
     longitude: 134.24316
-- name: Angaur
-  names:
-  - Angaur
-  code: "010"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.12184
-    minlatitude: 6.8877425
-    maxlongitude: 134.15396
-    maxlatitude: 6.9251065
-    latitude: 6.909223
-    longitude: 134.1388
-- name: Kayangel
-  names:
-  - Kayangel
-  code: "100"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.6808
-    minlatitude: 8.037898
-    maxlongitude: 134.72388
-    maxlatitude: 8.103503
-    latitude: 8.088947
-    longitude: 134.70999
-- name: Ngarchelong
-  names:
-  - Ngarchelong
-  code: "218"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 134.60933
-    minlatitude: 7.686335
-    maxlongitude: 134.64575
-    maxlatitude: 7.7316628
-    latitude: 7.710547
-    longitude: 134.63016
-- name: Sonsorol
-  names:
-  - Sonsorol
-  code: "370"
-  countryalpha2: PW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 131.94792
-    minlatitude: 4.3124723
-    maxlongitude: 132.3141
-    maxlatitude: 4.658357
-    latitude: 4.319972
-    longitude: 132.31264
 - name: Aimeliik
   names:
   - Aimeliik
@@ -180,34 +138,34 @@
     maxlatitude: 7.479571
     latitude: 7.4455857
     longitude: 134.50308
-- name: Koror
+- name: Angaur
   names:
-  - Koror
-  code: "150"
+  - Angaur
+  code: "010"
   countryalpha2: PW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 7.341944
-    longitude: 134.47917
-- name: Ngaraard
+    minlongitude: 134.12184
+    minlatitude: 6.8877425
+    maxlongitude: 134.15396
+    maxlatitude: 6.9251065
+    latitude: 6.909223
+    longitude: 134.1388
+- name: Hatobohei
   names:
-  - Ngaraard
-  code: "214"
+  - Hatobohei
+  code: "050"
   countryalpha2: PW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 134.5937
-    minlatitude: 7.572298
-    maxlongitude: 134.6466
-    maxlatitude: 7.6869354
-    latitude: 7.60794
-    longitude: 134.63486
+    minlongitude: 131.12032
+    minlatitude: 3.0008771
+    maxlongitude: 131.12448
+    maxlatitude: 3.007413
+    latitude: 3.0048866
+    longitude: 131.12141
 - name: Ngiwal
   names:
   - Ngiwal
@@ -222,3 +180,45 @@
     maxlatitude: 7.580033
     latitude: 7.561476
     longitude: 134.61606
+- name: Airai
+  names:
+  - Airai
+  code: "004"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.5077
+    minlatitude: 7.3503366
+    maxlongitude: 134.56569
+    maxlatitude: 7.390301
+    latitude: 7.3641844
+    longitude: 134.53607
+- name: Koror
+  names:
+  - Koror
+  code: "150"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 7.341944
+    longitude: 134.47917
+- name: Ngeremlengui
+  names:
+  - Ngeremlengui
+  code: "227"
+  countryalpha2: PW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 134.49916
+    minlatitude: 7.464199
+    maxlongitude: 134.59944
+    maxlatitude: 7.577442
+    latitude: 7.51984
+    longitude: 134.55962

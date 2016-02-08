@@ -13,34 +13,25 @@ tlds:
 languages:
   por: Portuguese
 translations:
-  deu:
-    common: Mosambik
-    official: Republik Mosambik
-  fin:
+  FIN:
     common: Mosambik
     official: Mosambikin tasavalta
-  fra:
+  FRA:
     common: Mozambique
     official: République du Mozambique
-  hrv:
-    common: Mozambik
-    official: Republika Mozambiku
-  ita:
+  ITA:
     common: Mozambico
     official: Repubblica del Mozambico
-  jpn:
+  JPN:
     common: モザンビーク
     official: モザンビーク共和国
-  nld:
+  NLD:
     common: Mozambique
     official: Republiek Mozambique
-  por:
-    common: Moçambique
-    official: República de Moçambique
-  rus:
+  RUS:
     common: Мозамбик
     official: Республика Мозамбик
-  spa:
+  SPA:
     common: Mozambique
     official: República de Mozambique
 currencies:
