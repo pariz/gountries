@@ -1,5 +1,7 @@
 # gountries
 
+[![wercker status](https://app.wercker.com/status/909d6a059d7d0b49b74ec8b658f97df4/s/master "wercker status")](https://app.wercker.com/project/bykey/909d6a059d7d0b49b74ec8b658f97df4)
+
 Inspired by the [countries](https://github.com/hexorx/countries) gem for ruby.
 
 Countries (ISO-3166-1), Country Subdivisions(ISO-3166-2), Currencies (ISO 4217), Geo Coordinates(ISO-6709) as well as translations, country borders and other stuff exposed as struct data.
