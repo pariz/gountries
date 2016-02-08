@@ -29,7 +29,25 @@ type Coordinates struct {
 	Longitude    float64
 }
 
+func MeasureDistancePythagoras(m1 Measurer, m2 Measurer) (distance float64) {
+
+	m1Long, m1Lat := m1.MeasurableCoordinates()
+	m2Long, m2Lat := m2.MeasurableCoordinates()
+
+	return PythagorasEquirectangular(m1Lat, m1Long, m2Lat, m2Long)
+
+}
+
+func MeasureDistanceHaversine(m1 Measurer, m2 Measurer) (distance float64) {
+
+	m1Long, m1Lat := m1.MeasurableCoordinates()
+	m2Long, m2Lat := m2.MeasurableCoordinates()
+
+	return Haversine(m1Lat, m1Long, m2Lat, m2Long)
+
+}
+
 // Measurer provides coordinates for measurements
 type Measurer interface {
-	Coordinates() (minLong, minLat, maxLong, maxLat float64)
+	MeasurableCoordinates() (lat, long float64)
 }

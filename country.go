@@ -29,6 +29,13 @@ type Country struct {
 	subdivisions []SubDivision
 }
 
+// MeasurableCoordinates provides long/lat for country struct
+func (c Country) MeasurableCoordinates() (lat, long float64) {
+
+	return c.Latitude, c.Longitude
+
+}
+
 // BorderingCountries gets the bordering countries for this country
 func (c *Country) BorderingCountries() (countries []Country) {
 
