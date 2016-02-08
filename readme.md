@@ -22,118 +22,117 @@ go get github.com/pariz/gountries
 ## Basic
 ```go
 
+import (
+  "github.com/pariz/gountries"
+  "fmt"
+)
 
-  import (
-    "github.com/pariz/gountries"
-    "fmt"
-  )
 
+query := gountries.New()
 
-  query := gountries.New()
+/////////////////
+// Find sweden //
+/////////////////
 
-  /////////////////
-  // Find sweden //
-  /////////////////
+sweden, _ := query.FindCountryByName("sweden")
+// sweden, _ := query.FindCountryByAlpha("SE")
+// sweden, _ := query.FindCountryByAlpha("SWE")
 
-  sweden, _ := query.FindCountryByName("sweden")
-  // sweden, _ := query.FindCountryByAlpha("SE")
-  // sweden, _ := query.FindCountryByAlpha("SWE")
+fmt.Println(sweden.Name.Common) // Output: Sweden
+fmt.Println(sweden.Name.Official) // Output: Konungariket Sverige
 
-  fmt.Println(sweden.Name.Common) // Output: Sweden
-  fmt.Println(sweden.Name.Official) // Output: Konungariket Sverige
-
-  fmt.Println(sweden.Translations["DEU"].Common) // Output: Schweden
-  fmt.Println(sweden.Translations["DEU"].Official) // Output: Königreich Schweden
+fmt.Println(sweden.Translations["DEU"].Common) // Output: Schweden
+fmt.Println(sweden.Translations["DEU"].Official) // Output: Königreich Schweden
 
 
 ```
 ## A bit more advanced
 ```go
 
-  import (
-    "github.com/pariz/gountries"
-    "fmt"
-  )
+import (
+  "github.com/pariz/gountries"
+  "fmt"
+)
 
-  query := gountries.New()
+query := gountries.New()
 
-  ////////////////////////////////////////////
-  // Find the bordering countries of Sweden //
-  ////////////////////////////////////////////
+////////////////////////////////////////////
+// Find the bordering countries of Sweden //
+////////////////////////////////////////////
 
-  sweden, _ := query.FindCountryByAlpha("SWE") // "SE" also works..
+sweden, _ := query.FindCountryByAlpha("SWE") // "SE" also works..
 
-  // Get the bordering countries of sweden
-  for _, country := range sweden.BorderingCountries() {
-		fmt.Println(country.Name.Common)
-	}
+// Get the bordering countries of sweden
+for _, country := range sweden.BorderingCountries() {
+	fmt.Println(country.Name.Common)
+}
 
-  // Output:
-  // Finland
-  // Norway
+// Output:
+// Finland
+// Norway
 
-  ////////////////////////////////////
-  // Find all subdivisons for Sweden //
-  ////////////////////////////////////
+////////////////////////////////////
+// Find all subdivisons for Sweden //
+////////////////////////////////////
 
-  subdivisions := sweden.SubDivisions()
+subdivisions := sweden.SubDivisions()
 
-	for _, subdivision := range subdivisions {
-		fmt.Println(subdivision.Name)
-	}
+for _, subdivision := range subdivisions {
+	fmt.Println(subdivision.Name)
+}
 
-  // Output:
-  // Västerbottens län
-  // Uppsala län
-  // Södermanlands län
-  // Gotlands län
-  // Dalarnas län
-  // ...
+// Output:
+// Västerbottens län
+// Uppsala län
+// Södermanlands län
+// Gotlands län
+// Dalarnas län
+// ...
 
-  //////////////////////////////////////////////////////////
-  // Find all countries bordering Germany and Switzerland //
-  //////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+// Find all countries bordering Germany and Switzerland //
+//////////////////////////////////////////////////////////
 
-  countryQuery := Country{
-  	Borders: []string{
-  		"DEU",
-  		"CHE",
-  	},
-  }
+countryQuery := Country{
+	Borders: []string{
+		"DEU",
+		"CHE",
+	},
+}
 
-  countries := query.FindCountries(countryQuery)
+countries := query.FindCountries(countryQuery)
 
-  for _, c := range countries {
-  	fmt.Println(c.Name.Common)
-  }
+for _, c := range countries {
+	fmt.Println(c.Name.Common)
+}
 
-  // Output:
-  // Austria
-  // France
+// Output:
+// Austria
+// France
 
-  ///////////////////////////////////////////////////////////////////
-  // Calculate distance between Sweden and Germany (in Kilometers) //
-  ///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+// Calculate distance between Sweden and Germany (in Kilometers) //
+///////////////////////////////////////////////////////////////////
 
-  se, _ := query.FindCountryByAlpha("SWE")
-  de, _ := query.FindCountryByAlpha("DEU")
+se, _ := query.FindCountryByAlpha("SWE")
+de, _ := query.FindCountryByAlpha("DEU")
 
-  distance := MeasureDistanceHaversine(se, de)
-  //distance := MeasureDistancePythagoras(se, de)
+distance := MeasureDistanceHaversine(se, de)
+//distance := MeasureDistancePythagoras(se, de)
 
-  fmt.Println(distance)
+fmt.Println(distance)
 
-  // Output:
-  // 1430.1937864547901
+// Output:
+// 1430.1937864547901
 
-  distance = CalculateHaversine(
-  	se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
-  	de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
+distance = CalculateHaversine(
+	se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
+	de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
 
-  fmt.Println(distance)
+fmt.Println(distance)
 
-  // Output:
-  // 2641.26145088825
+// Output:
+// 2641.26145088825
 
 
 ```
