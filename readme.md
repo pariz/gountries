@@ -73,7 +73,7 @@ go get github.com/pariz/gountries
   // Norway
 
   ////////////////////////////////////
-  // Find all subdivions for Sweden //
+  // Find all subdivisons for Sweden //
   ////////////////////////////////////
 
   subdivisions := sweden.SubDivisions()
