@@ -6,7 +6,7 @@ func Deg2Rad(deg float64) float64 {
 	return deg * math.Pi / 180
 }
 
-func PythagorasEquirectangular(lat1, lon1, lat2, lon2 float64) (d float64) {
+func CalculatePythagorasEquirectangular(lat1, lon1, lat2, lon2 float64) (d float64) {
 	lat1 = Deg2Rad(lat1)
 	lat2 = Deg2Rad(lat2)
 	lon1 = Deg2Rad(lon1)
@@ -20,7 +20,7 @@ func PythagorasEquirectangular(lat1, lon1, lat2, lon2 float64) (d float64) {
 	return
 }
 
-func Haversine(lat1, lon1, lat2, lon2 float64) (d float64) {
+func CalculateHaversine(lat1, lon1, lat2, lon2 float64) (d float64) {
 	var R = 6372.8 // Earth Radius in Kilometers
 
 	var dLat = Deg2Rad(lat2 - lat1)

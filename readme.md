@@ -109,6 +109,32 @@ go get github.com/pariz/gountries
 	// Austria
 	// France
 
+  ///////////////////////////////////////////////////////////////////
+  // Calculate distance between Sweden and Germany (in Kilometers) //
+  ///////////////////////////////////////////////////////////////////
+
+  se, _ := query.FindCountryByAlpha("SWE")
+  de, _ := query.FindCountryByAlpha("DEU")
+
+  distance := MeasureDistanceHaversine(se, de)
+  //distance := MeasureDistancePythagoras(se, de)
+  //
+
+  fmt.Println(distance)
+
+  // Output:
+  // 1430.1937864547901
+
+  distance = CalculateHaversine(
+		se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
+		de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
+
+	fmt.Println(distance)
+
+	// Output:
+	// 2641.26145088825
+
+
 ```
 
 # Testing

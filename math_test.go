@@ -11,9 +11,15 @@ func ExamplePythagorasEquirectangular() {
 
 	fmt.Println(distance)
 
+	distance = CalculatePythagorasEquirectangular(
+		se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
+		de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
+
+	fmt.Println(distance)
+
 	// Output:
 	// 1430.5502701671583
-
+	// 2667.2283097795016
 }
 
 func ExampleHaversine() {
@@ -25,7 +31,14 @@ func ExampleHaversine() {
 
 	fmt.Println(distance)
 
+	distance = CalculateHaversine(
+		se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
+		de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
+
+	fmt.Println(distance)
+
 	// Output:
 	// 1430.1937864547901
+	// 2641.26145088825
 
 }

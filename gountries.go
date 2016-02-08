@@ -29,21 +29,25 @@ type Coordinates struct {
 	Longitude    float64
 }
 
+// MeasureDistancePythagoras measures distances betweeen two countries using
+// Pythagoras equirect angular equation
 func MeasureDistancePythagoras(m1 Measurer, m2 Measurer) (distance float64) {
 
 	m1Long, m1Lat := m1.MeasurableCoordinates()
 	m2Long, m2Lat := m2.MeasurableCoordinates()
 
-	return PythagorasEquirectangular(m1Lat, m1Long, m2Lat, m2Long)
+	return CalculatePythagorasEquirectangular(m1Lat, m1Long, m2Lat, m2Long)
 
 }
 
+// MeasureDistanceHaversine measures distances betweeen two countries using
+// Havesine equation
 func MeasureDistanceHaversine(m1 Measurer, m2 Measurer) (distance float64) {
 
 	m1Long, m1Lat := m1.MeasurableCoordinates()
 	m2Long, m2Lat := m2.MeasurableCoordinates()
 
-	return Haversine(m1Lat, m1Long, m2Lat, m2Long)
+	return CalculateHaversine(m1Lat, m1Long, m2Lat, m2Long)
 
 }
 
