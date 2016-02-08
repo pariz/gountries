@@ -26,6 +26,9 @@ build:
     # at the right place in the workspace tree
     - setup-go-workspace
 
+    - add-ssh-key:
+      keyname: wercker
+
     # Gets the dependencies
     - script:
         name: go get
