@@ -61,7 +61,7 @@ go get github.com/pariz/gountries
   // Find the bordering countries of Sweden //
   ////////////////////////////////////////////
 
-  sweden, _ := query.FindCountryByAlpha("SWE") // "swe" also works..
+  sweden, _ := query.FindCountryByAlpha("SWE") // "SE" also works..
 
   // Get the bordering countries of sweden
   for _, country := range sweden.BorderingCountries() {
@@ -95,21 +95,21 @@ go get github.com/pariz/gountries
   //////////////////////////////////////////////////////////
 
   countryQuery := Country{
-		Borders: []string{
-			"DEU",
-			"CHE",
-		},
-	}
+  	Borders: []string{
+  		"DEU",
+  		"CHE",
+  	},
+  }
 
-	countries := query.FindCountries(countryQuery)
+  countries := query.FindCountries(countryQuery)
 
-	for _, c := range countries {
-		fmt.Println(c.Name.Common)
-	}
+  for _, c := range countries {
+  	fmt.Println(c.Name.Common)
+  }
 
-	// Output:
-	// Austria
-	// France
+  // Output:
+  // Austria
+  // France
 
   ///////////////////////////////////////////////////////////////////
   // Calculate distance between Sweden and Germany (in Kilometers) //
@@ -120,7 +120,6 @@ go get github.com/pariz/gountries
 
   distance := MeasureDistanceHaversine(se, de)
   //distance := MeasureDistancePythagoras(se, de)
-  //
 
   fmt.Println(distance)
 
@@ -128,13 +127,13 @@ go get github.com/pariz/gountries
   // 1430.1937864547901
 
   distance = CalculateHaversine(
-		se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
-		de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
+  	se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
+  	de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
 
-	fmt.Println(distance)
+  fmt.Println(distance)
 
-	// Output:
-	// 2641.26145088825
+  // Output:
+  // 2641.26145088825
 
 
 ```
