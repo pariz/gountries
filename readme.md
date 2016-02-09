@@ -117,7 +117,7 @@ for _, c := range countries {
 se, _ := query.FindCountryByAlpha("SWE")
 de, _ := query.FindCountryByAlpha("DEU")
 
-distance := MeasureDistanceHaversine(se, de)
+distance := gountries.MeasureDistanceHaversine(se, de)
 //distance := MeasureDistancePythagoras(se, de)
 
 fmt.Println(distance)
@@ -125,7 +125,7 @@ fmt.Println(distance)
 // Output:
 // 1430.1937864547901
 
-distance = CalculateHaversine(
+distance = gountries.CalculateHaversine(
 	se.Coordinates.MaxLatitude, se.Coordinates.MaxLongitude,
 	de.Coordinates.MinLatitude, de.Coordinates.MinLongitude)
 
