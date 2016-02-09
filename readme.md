@@ -142,9 +142,7 @@ fmt.Println(distance)
 Has a pretty solid test coverage but is constantly improving.
 
 # Todo
-
-
-- [ ] (partially complete) Province/County querying
+- [ ] Province/County querying (partially complete)
 - [x] Measurement between coordinates
 - [ ] GeoJSON information
 - [ ] Suggestions?
