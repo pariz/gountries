@@ -144,7 +144,7 @@ Has a pretty solid test coverage but is constantly improving.
 # Todo
 
 
-* (partially complete) Province/County querying
-* Measurement between coordinates
-* GeoJSON information
-* Suggestions?
+- [-] (partially complete) Province/County querying
+- [x] Measurement between coordinates
+- [ ] GeoJSON information
+- [ ] Suggestions?
