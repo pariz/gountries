@@ -32,7 +32,7 @@ type Country struct {
 // MeasurableCoordinates provides long/lat for country struct
 func (c Country) MeasurableCoordinates() (lat, long float64) {
 
-	return c.Latitude, c.Longitude
+	return c.Coordinates.Latitude, c.Coordinates.Longitude
 
 }
 

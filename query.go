@@ -135,7 +135,6 @@ func (q Query) FindCountries(c Country) (countries []Country) {
 		//
 
 		countries = append(countries, country)
-		//countries = append(countries, matchBorderingCountries...)
 
 	}
 

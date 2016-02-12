@@ -10,3 +10,10 @@ type SubDivision struct {
 
 	Coordinates
 }
+
+// MeasurableCoordinates provides long/lat for country struct
+func (sd SubDivision) MeasurableCoordinates() (lat, long float64) {
+
+	return sd.Coordinates.Latitude, sd.Coordinates.Longitude
+
+}

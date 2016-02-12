@@ -1,6 +1,6 @@
 # gountries
 
-[![wercker status](https://app.wercker.com/status/909d6a059d7d0b49b74ec8b658f97df4/s/master "wercker status")](https://app.wercker.com/project/bykey/909d6a059d7d0b49b74ec8b658f97df4)
+[![wercker status](https://app.wercker.com/status/909d6a059d7d0b49b74ec8b658f97df4/s/master "wercker status")](https://app.wercker.com/project/bykey/909d6a059d7d0b49b74ec8b658f97df4) [![codecov.io](https://codecov.io/github/pariz/gountries/coverage.svg?branch=master)](https://codecov.io/github/pariz/gountries?branch=master)
 
 Inspired by the [countries](https://github.com/hexorx/countries) gem for ruby.
 
