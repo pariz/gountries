@@ -1,6 +1,7 @@
 package gountries
 
 import (
+	"fmt"
 	"io/ioutil"
 	"path/filepath"
 	"strings"
@@ -54,7 +55,7 @@ func populateCountries() (countries []Country) {
 		}
 
 	} else {
-		panic("Error loading Countries")
+		panic(fmt.Errorf("Error loading Countries: %s", err))
 	}
 	return
 }
