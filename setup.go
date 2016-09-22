@@ -3,6 +3,7 @@ package gountries
 import (
 	"fmt"
 	"io/ioutil"
+	"path"
 	"path/filepath"
 	"strings"
 
@@ -12,10 +13,18 @@ import (
 // New creates an Query object and unmarshals the json file.
 func New() *Query {
 
+	dataPath := filepath.Join("data", "yaml")
+
+	return NewFromPath(dataPath)
+}
+
+// NewFromPath creates a Query object from data folder in provided path
+func NewFromPath(dataPath string) *Query {
+
 	if queryInited == false {
 		queryInstance = &Query{
-			Countries:    populateCountries(),
-			Subdivisions: populateSubdivisions(),
+			Countries:    populateCountries(dataPath),
+			Subdivisions: populateSubdivisions(dataPath),
 		}
 		queryInited = true
 	}
@@ -23,14 +32,14 @@ func New() *Query {
 	return queryInstance
 }
 
-func populateCountries() (countries []Country) {
+func populateCountries(dataPath string) (countries []Country) {
 
 	// Load countries into memory
 	//
 	//
 	countries = []Country{}
 
-	countriesPath := filepath.Join("data", "yaml", "countries")
+	countriesPath := path.Join(dataPath, "countries")
 
 	if info, err := ioutil.ReadDir(countriesPath); err == nil {
 
@@ -60,14 +69,14 @@ func populateCountries() (countries []Country) {
 	return
 }
 
-func populateSubdivisions() (list map[string][]SubDivision) {
+func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 
 	// Load countries into memory
 	//
 
 	list = map[string][]SubDivision{}
 
-	subdivisionsPath := filepath.Join("data", "yaml", "subdivisions")
+	subdivisionsPath := path.Join(dataPath, "subdivisions")
 
 	if info, err := ioutil.ReadDir(subdivisionsPath); err == nil {
 
