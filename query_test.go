@@ -2,9 +2,9 @@ package gountries
 
 import (
 	"fmt"
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"sort"
+	"testing"
 )
 
 func TestFindCountryByName(t *testing.T) {
@@ -184,21 +184,25 @@ func ExampleFindCountriesBorderingCountries() {
 	}
 
 	countries := query.FindCountries(country)
-
-	for _, c := range countries {
-		fmt.Println(c.Name.Common)
+	var c []string
+	for _, country := range countries {
+		c = append(c, country.Name.Common)
+	}
+	sort.Strings(c)
+	for _, name := range c {
+		fmt.Println(name)
 	}
 
 	// Output:
 	//Austria
 	//Belgium
-	//Switzerland
 	//Czech Republic
 	//Denmark
 	//France
 	//Luxembourg
 	//Netherlands
 	//Poland
+	//Switzerland
 
 }
 
@@ -212,9 +216,13 @@ func ExampleFindCountriesBorderingCountries2() {
 	}
 
 	countries := query.FindCountries(country)
-
-	for _, c := range countries {
-		fmt.Println(c.Name.Common)
+	var c []string
+	for _, country := range countries {
+		c = append(c, country.Name.Common)
+	}
+	sort.Strings(c)
+	for _, name := range c {
+		fmt.Println(name)
 	}
 
 	// Output:

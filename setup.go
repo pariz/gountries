@@ -41,6 +41,11 @@ func populateCountries(dataPath string) (countries []Country) {
 
 	countriesPath := path.Join(dataPath, "countries")
 
+	// Try packed data first before custom data directory
+	if yamlFileList, err := AssetDir("data/yaml/countries"); err == nil {
+		return populateCountriesFromPackedData(yamlFileList, "data/yaml/countries")
+	}
+
 	if info, err := ioutil.ReadDir(countriesPath); err == nil {
 
 		for _, v := range info {
@@ -69,6 +74,24 @@ func populateCountries(dataPath string) (countries []Country) {
 	return
 }
 
+func populateCountriesFromPackedData(fileList []string, path string) (countries []Country) {
+	var data []byte
+	var err error
+
+	for _, yamlFile := range fileList {
+		var country Country
+		data, err = Asset(filepath.Join(path, yamlFile))
+		if err != nil {
+			continue
+		}
+		if err = yaml.Unmarshal(data, &country); err != nil {
+			continue
+		}
+		countries = append(countries, country)
+	}
+	return countries
+}
+
 func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 
 	// Load countries into memory
@@ -77,6 +100,11 @@ func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 	list = map[string][]SubDivision{}
 
 	subdivisionsPath := path.Join(dataPath, "subdivisions")
+
+	// Try packed data first before custom data directory
+	if yamlFileList, err := AssetDir("data/yaml/subdivisions"); err == nil {
+		return populateSubdivisionsFromPackedData(yamlFileList, "data/yaml/subdivisions")
+	}
 
 	if info, err := ioutil.ReadDir(subdivisionsPath); err == nil {
 
@@ -93,7 +121,6 @@ func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 
 						// Save
 						//subdivisions = append(subdivisions, subdivision...)
-
 						list[strings.Split(v.Name(), ".")[0]] = subdivisions
 					}
 
@@ -108,4 +135,25 @@ func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 	}
 
 	return
+}
+
+func populateSubdivisionsFromPackedData(fileList []string, path string) map[string][]SubDivision {
+	var data []byte
+	var err error
+	sd := make(map[string][]SubDivision)
+
+	for _, yamlFile := range fileList {
+		data, err = Asset(filepath.Join(path, yamlFile))
+		if err != nil {
+			continue
+		}
+		var subdivisions []SubDivision
+		if err = yaml.Unmarshal(data, &subdivisions); err != nil {
+			continue
+		}
+		alpha2 := strings.Split(yamlFile, ".")[0]
+
+		sd[alpha2] = subdivisions
+	}
+	return sd
 }
