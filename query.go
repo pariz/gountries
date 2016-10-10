@@ -11,46 +11,41 @@ var queryInstance *Query
 
 // Query contains queries for countries, cities, etc.
 type Query struct {
-	Countries    []Country
-	Subdivisions map[string][]SubDivision
+	Countries      map[string]Country
+	Subdivisions   map[string][]SubDivision
+	NameToAlpha2   map[string]string
+	Alpha3ToAlpha2 map[string]string
 }
 
 // FindCountryByName fincs a country by given name
 func (q *Query) FindCountryByName(name string) (result Country, err error) {
-
-	for _, country := range q.Countries {
-
-		if strings.ToLower(country.Name.Common) == strings.ToLower(name) {
-			return country, nil
-		}
+	lowerName := strings.ToLower(name)
+	alpha2, exists := q.NameToAlpha2[lowerName]
+	if !exists {
+		return Country{}, fmt.Errorf("Could not find country with name %s", name)
 	}
-
-	return Country{}, fmt.Errorf("Could not find country with name %s", name)
-
+	return q.Countries[alpha2], nil
 }
 
-// FindCountryByCode fincs a country by given code
+// FindCountryByAlpha fincs a country by given code
 func (q *Query) FindCountryByAlpha(code string) (result Country, err error) {
-
-	for _, country := range q.Countries {
-		var countryCode = country.Alpha2
-
-		// If code is 2 characters, its CCA2, if 3 its CCA3
-		if len(code) == 2 {
-			countryCode = country.Alpha2
-		} else if len(code) == 3 {
-			countryCode = country.Alpha3
-		} else {
-			return Country{}, fmt.Errorf("%s is an invalid code format", code)
+	codeU := strings.ToUpper(code)
+	switch {
+	case len(code) == 2:
+		country, exists := q.Countries[codeU]
+		if !exists {
+			return Country{}, fmt.Errorf("Could not find country with code %s", code)
 		}
-
-		if strings.ToLower(countryCode) == strings.ToLower(code) {
-			return country, nil
+		return country, nil
+	case len(code) == 3:
+		alpha2, exists := q.Alpha3ToAlpha2[codeU]
+		if !exists {
+			return Country{}, fmt.Errorf("Could not find country with code %s", code)
 		}
+		return q.Countries[alpha2], nil
+	default:
+		return Country{}, fmt.Errorf("%s is an invalid code format", code)
 	}
-
-	return Country{}, fmt.Errorf("Could not find country with code %s", code)
-
 }
 
 func (q Query) FindCountries(c Country) (countries []Country) {

@@ -26,18 +26,37 @@ func NewFromPath(dataPath string) *Query {
 			Countries:    populateCountries(dataPath),
 			Subdivisions: populateSubdivisions(dataPath),
 		}
+		queryInstance.NameToAlpha2 = populateNameIndex(queryInstance.Countries)
+		queryInstance.Alpha3ToAlpha2 = populateAlphaIndex(queryInstance.Countries)
 		queryInited = true
 	}
 
 	return queryInstance
 }
 
-func populateCountries(dataPath string) (countries []Country) {
+func populateNameIndex(countries map[string]Country) map[string]string {
+	index := make(map[string]string)
+	for alpha2, country := range countries {
+		name := strings.ToLower(country.Name.Common)
+		index[name] = alpha2
+	}
+	return index
+}
+
+func populateAlphaIndex(countries map[string]Country) map[string]string {
+	index := make(map[string]string)
+	for alpha2, country := range countries {
+		index[country.Codes.Alpha3] = alpha2
+	}
+	return index
+}
+
+func populateCountries(dataPath string) map[string]Country {
 
 	// Load countries into memory
 	//
 	//
-	countries = []Country{}
+	var countries = make(map[string]Country)
 
 	countriesPath := path.Join(dataPath, "countries")
 
@@ -58,7 +77,7 @@ func populateCountries(dataPath string) (countries []Country) {
 					if err := yaml.Unmarshal(file, &country); err == nil {
 
 						// Save
-						countries = append(countries, country)
+						countries[country.Codes.Alpha2] = country
 
 					}
 
@@ -71,12 +90,13 @@ func populateCountries(dataPath string) (countries []Country) {
 	} else {
 		panic(fmt.Errorf("Error loading Countries: %s", err))
 	}
-	return
+	return countries
 }
 
-func populateCountriesFromPackedData(fileList []string, path string) (countries []Country) {
+func populateCountriesFromPackedData(fileList []string, path string) map[string]Country {
 	var data []byte
 	var err error
+	var countries = make(map[string]Country)
 
 	for _, yamlFile := range fileList {
 		var country Country
@@ -87,7 +107,7 @@ func populateCountriesFromPackedData(fileList []string, path string) (countries 
 		if err = yaml.Unmarshal(data, &country); err != nil {
 			continue
 		}
-		countries = append(countries, country)
+		countries[country.Codes.Alpha2] = country
 	}
 	return countries
 }

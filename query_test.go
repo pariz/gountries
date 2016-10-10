@@ -237,9 +237,13 @@ var result Country
 func BenchmarkCountryLookupByName(b *testing.B) {
 
 	q := New()
+	var names []string
+	for key := range q.Countries {
+		names = append(names, q.Countries[key].Name.Common)
+	}
 	for n := 0; n <= b.N; n++ {
 		randIndex := rand.Intn(len(q.Countries))
-		c, err := q.FindCountryByName(q.Countries[randIndex].Name.Common)
+		c, err := q.FindCountryByName(names[randIndex])
 		if err != nil {
 			b.Fail()
 		}
