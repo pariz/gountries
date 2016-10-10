@@ -3,6 +3,7 @@ package gountries
 import (
 	"fmt"
 	"github.com/stretchr/testify/assert"
+	"math/rand"
 	"sort"
 	"testing"
 )
@@ -229,4 +230,19 @@ func ExampleFindCountriesBorderingCountries2() {
 	//Austria
 	//France
 
+}
+
+var result Country
+
+func BenchmarkCountryLookupByName(b *testing.B) {
+
+	q := New()
+	for n := 0; n <= b.N; n++ {
+		randIndex := rand.Intn(len(q.Countries))
+		c, err := q.FindCountryByName(q.Countries[randIndex].Name.Common)
+		if err != nil {
+			b.Fail()
+		}
+		result = c
+	}
 }
