@@ -2,9 +2,10 @@ package gountries
 
 import (
 	"fmt"
-	"testing"
-
 	"github.com/stretchr/testify/assert"
+	"math/rand"
+	"sort"
+	"testing"
 )
 
 func TestFindCountryByName(t *testing.T) {
@@ -184,21 +185,25 @@ func ExampleFindCountriesBorderingCountries() {
 	}
 
 	countries := query.FindCountries(country)
-
-	for _, c := range countries {
-		fmt.Println(c.Name.Common)
+	var c []string
+	for _, country := range countries {
+		c = append(c, country.Name.Common)
+	}
+	sort.Strings(c)
+	for _, name := range c {
+		fmt.Println(name)
 	}
 
 	// Output:
 	//Austria
 	//Belgium
-	//Switzerland
 	//Czech Republic
 	//Denmark
 	//France
 	//Luxembourg
 	//Netherlands
 	//Poland
+	//Switzerland
 
 }
 
@@ -212,13 +217,36 @@ func ExampleFindCountriesBorderingCountries2() {
 	}
 
 	countries := query.FindCountries(country)
-
-	for _, c := range countries {
-		fmt.Println(c.Name.Common)
+	var c []string
+	for _, country := range countries {
+		c = append(c, country.Name.Common)
+	}
+	sort.Strings(c)
+	for _, name := range c {
+		fmt.Println(name)
 	}
 
 	// Output:
 	//Austria
 	//France
 
+}
+
+var result Country
+
+func BenchmarkCountryLookupByName(b *testing.B) {
+
+	q := New()
+	var names []string
+	for key := range q.Countries {
+		names = append(names, q.Countries[key].Name.Common)
+	}
+	for n := 0; n <= b.N; n++ {
+		randIndex := rand.Intn(len(q.Countries))
+		c, err := q.FindCountryByName(names[randIndex])
+		if err != nil {
+			b.Fail()
+		}
+		result = c
+	}
 }
