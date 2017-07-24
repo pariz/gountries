@@ -2,10 +2,11 @@ package gountries
 
 import (
 	"fmt"
-	"github.com/stretchr/testify/assert"
 	"math/rand"
 	"sort"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestFindCountryByName(t *testing.T) {
@@ -23,6 +24,24 @@ func TestFindCountryByName(t *testing.T) {
 	}
 
 	assert.Equal(t, result.Alpha2, "SE", "Lowercase country names should match")
+
+	// Test for common name
+	result, err = query.FindCountryByName("United States")
+
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, result.Alpha2, "US", "Lowercase country names should match")
+
+	// Test for official name
+	result, err = query.FindCountryByName("United States of America")
+
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, result.Alpha2, "US", "Lowercase country names should match")
 
 	// Test for uppercase
 	//
