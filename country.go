@@ -32,6 +32,8 @@ type Country struct {
 }
 
 // MeasurableCoordinates provides long/lat for country struct
+// it does not store a pointer receiver to Country, as it needs to implement the
+// Measurer interface
 func (c Country) MeasurableCoordinates() (lat, long float64) {
 
 	return c.Coordinates.Latitude, c.Coordinates.Longitude
