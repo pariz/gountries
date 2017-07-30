@@ -69,14 +69,16 @@ func populateCountries(dataPath string) map[string]Country {
 
 	if info, err := ioutil.ReadDir(countriesPath); err == nil {
 
+		var file []byte
+
 		for _, v := range info {
 
 			if !v.IsDir() {
 
-				if file, err := ioutil.ReadFile(filepath.Join(countriesPath, v.Name())); err == nil {
+				if file, err = ioutil.ReadFile(filepath.Join(countriesPath, v.Name())); err == nil {
 
 					country := Country{}
-					if err := yaml.Unmarshal(file, &country); err == nil {
+					if err = yaml.Unmarshal(file, &country); err == nil {
 
 						// Save
 						countries[country.Codes.Alpha2] = country
@@ -131,7 +133,6 @@ func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 	if info, err := ioutil.ReadDir(subdivisionsPath); err == nil {
 
 		for _, v := range info {
-			//fmt.Println(v.IsDir())
 
 			if !v.IsDir() {
 

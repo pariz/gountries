@@ -117,7 +117,7 @@ func TestFindCountryByAlpha(t *testing.T) {
 	result, err = query.FindCountryByAlpha("SEE")
 
 	if err != nil {
-		assert.EqualError(t, err, "Could not find country with code SEE")
+		assert.EqualError(t, err, "gountries error. Could not find country with code: SEE")
 
 	} else {
 		t.Fail()
@@ -129,7 +129,7 @@ func TestFindCountryByAlpha(t *testing.T) {
 	result, err = query.FindCountryByAlpha("SEEE")
 
 	if err != nil {
-		assert.EqualError(t, err, "SEEE is an invalid code format")
+		assert.EqualError(t, err, "gountries error. Invalid code format: SEEE")
 
 	} else {
 		t.Fail()
@@ -141,7 +141,7 @@ func TestFindCountryByAlpha(t *testing.T) {
 	result, err = query.FindCountryByAlpha("S")
 
 	if err != nil {
-		assert.EqualError(t, err, "S is an invalid code format")
+		assert.EqualError(t, err, "gountries error. Invalid code format: S")
 
 	} else {
 		t.Fail()

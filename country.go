@@ -1,6 +1,8 @@
 package gountries
 
-import "strings"
+import (
+	"strings"
+)
 
 // Country contains all countries and their country codes
 type Country struct {
@@ -36,7 +38,7 @@ func (c Country) MeasurableCoordinates() (lat, long float64) {
 
 }
 
-// BorderingCountries gets the bordering countries for this country
+// BorderingCountries returns the bordering countries the given Country
 func (c *Country) BorderingCountries() (countries []Country) {
 
 	query := New()
@@ -53,6 +55,7 @@ func (c *Country) BorderingCountries() (countries []Country) {
 
 }
 
+// SubDivisions returns the subdivisions for the given Country
 func (c *Country) SubDivisions() (subdivisions []SubDivision) {
 
 	query := New()

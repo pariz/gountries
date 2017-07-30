@@ -142,7 +142,7 @@ fmt.Println(distance)
 The data in the `data/yaml` subdirectory is embedded using go-bindata.  Once you include this library in your project, you won't need to access the data directory.  To add or update the data, make changes to the YAML files then run:
 
 ```
-go-bindata data/yaml/*
+go-bindata -pkg gountries data/yaml/*
 ```
 
 # Testing

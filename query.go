@@ -1,7 +1,6 @@
 package gountries
 
 import (
-	"fmt"
 	"strings"
 )
 
@@ -22,7 +21,7 @@ func (q *Query) FindCountryByName(name string) (result Country, err error) {
 	lowerName := strings.ToLower(name)
 	alpha2, exists := q.NameToAlpha2[lowerName]
 	if !exists {
-		return Country{}, fmt.Errorf("Could not find country with name %s", name)
+		return Country{}, makeError("Could not find country with name", name)
 	}
 	return q.Countries[alpha2], nil
 }
@@ -34,20 +33,21 @@ func (q *Query) FindCountryByAlpha(code string) (result Country, err error) {
 	case len(code) == 2:
 		country, exists := q.Countries[codeU]
 		if !exists {
-			return Country{}, fmt.Errorf("Could not find country with code %s", code)
+			return Country{}, makeError("Could not find country with code %s", code)
 		}
 		return country, nil
 	case len(code) == 3:
 		alpha2, exists := q.Alpha3ToAlpha2[codeU]
 		if !exists {
-			return Country{}, fmt.Errorf("Could not find country with code %s", code)
+			return Country{}, makeError("Could not find country with code", code)
 		}
 		return q.Countries[alpha2], nil
 	default:
-		return Country{}, fmt.Errorf("%s is an invalid code format", code)
+		return Country{}, makeError("Invalid code format", code)
 	}
 }
 
+// FindCountries finds a Country based on the given struct data
 func (q Query) FindCountries(c Country) (countries []Country) {
 
 	for _, country := range q.Countries {
