@@ -47,6 +47,11 @@ func (q *Query) FindCountryByAlpha(code string) (result Country, err error) {
 	}
 }
 
+// FindAllCountries returns a list of all countries
+func (q *Query) FindAllCountries() (countries map[string]Country) {
+	return q.Countries
+}
+
 // FindCountries finds a Country based on the given struct data
 func (q Query) FindCountries(c Country) (countries []Country) {
 
