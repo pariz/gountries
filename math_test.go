@@ -2,7 +2,7 @@ package gountries
 
 import "fmt"
 
-func ExamplePythagorasEquirectangular() {
+func ExampleCalculatePythagorasEquirectangular() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
 	de, _ := query.FindCountryByAlpha("DEU")
@@ -22,7 +22,7 @@ func ExamplePythagorasEquirectangular() {
 	// 2667.2283097795016
 }
 
-func ExampleHaversine() {
+func ExampleCalculateHaversine() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
 	de, _ := query.FindCountryByAlpha("DEU")
