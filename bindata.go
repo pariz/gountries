@@ -522,7 +522,7 @@ func dataYamlCountriesAdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ad.yaml", size: 1219, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ad.yaml", size: 1219, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -542,7 +542,7 @@ func dataYamlCountriesAeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ae.yaml", size: 1327, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ae.yaml", size: 1327, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -562,7 +562,7 @@ func dataYamlCountriesAfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/af.yaml", size: 1255, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/af.yaml", size: 1255, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -582,7 +582,7 @@ func dataYamlCountriesAgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ag.yaml", size: 1213, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ag.yaml", size: 1213, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -602,7 +602,7 @@ func dataYamlCountriesAiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ai.yaml", size: 989, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ai.yaml", size: 989, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -622,7 +622,7 @@ func dataYamlCountriesAlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/al.yaml", size: 1305, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/al.yaml", size: 1305, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -642,7 +642,7 @@ func dataYamlCountriesAmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/am.yaml", size: 1374, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/am.yaml", size: 1374, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -662,7 +662,7 @@ func dataYamlCountriesAoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ao.yaml", size: 1142, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ao.yaml", size: 1142, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -682,7 +682,7 @@ func dataYamlCountriesAqYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/aq.yaml", size: 1128, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/aq.yaml", size: 1128, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -702,7 +702,7 @@ func dataYamlCountriesArYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ar.yaml", size: 1520, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ar.yaml", size: 1520, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -722,7 +722,7 @@ func dataYamlCountriesAsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/as.yaml", size: 1295, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/as.yaml", size: 1295, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -742,7 +742,7 @@ func dataYamlCountriesAtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/at.yaml", size: 1202, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/at.yaml", size: 1202, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -762,7 +762,7 @@ func dataYamlCountriesAuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/au.yaml", size: 1360, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/au.yaml", size: 1360, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -782,7 +782,7 @@ func dataYamlCountriesAwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/aw.yaml", size: 1067, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/aw.yaml", size: 1067, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -802,7 +802,7 @@ func dataYamlCountriesAxYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ax.yaml", size: 1272, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ax.yaml", size: 1272, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -822,7 +822,7 @@ func dataYamlCountriesAzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/az.yaml", size: 1343, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/az.yaml", size: 1343, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -842,7 +842,7 @@ func dataYamlCountriesBaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ba.yaml", size: 1676, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ba.yaml", size: 1676, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -862,7 +862,7 @@ func dataYamlCountriesBbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bb.yaml", size: 1087, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bb.yaml", size: 1087, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -882,7 +882,7 @@ func dataYamlCountriesBdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bd.yaml", size: 1312, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bd.yaml", size: 1312, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -902,7 +902,7 @@ func dataYamlCountriesBeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/be.yaml", size: 1317, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/be.yaml", size: 1317, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -922,7 +922,7 @@ func dataYamlCountriesBfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bf.yaml", size: 1175, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bf.yaml", size: 1175, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -942,7 +942,7 @@ func dataYamlCountriesBgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bg.yaml", size: 1265, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bg.yaml", size: 1265, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -962,7 +962,7 @@ func dataYamlCountriesBhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bh.yaml", size: 1121, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bh.yaml", size: 1121, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -982,7 +982,7 @@ func dataYamlCountriesBiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bi.yaml", size: 1365, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bi.yaml", size: 1365, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1002,7 +1002,7 @@ func dataYamlCountriesBjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bj.yaml", size: 1169, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bj.yaml", size: 1169, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1022,7 +1022,7 @@ func dataYamlCountriesBlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bl.yaml", size: 1382, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bl.yaml", size: 1382, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1042,7 +1042,7 @@ func dataYamlCountriesBmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bm.yaml", size: 898, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bm.yaml", size: 898, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1062,7 +1062,7 @@ func dataYamlCountriesBnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bn.yaml", size: 1307, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bn.yaml", size: 1307, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1082,12 +1082,12 @@ func dataYamlCountriesBoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bo.yaml", size: 1646, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bo.yaml", size: 1646, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
 
-var _dataYamlCountriesBrYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x6c\x53\xcd\x6e\xd3\x4a\x14\xde\xcf\x53\x1c\x65\x7b\x65\xcb\x8e\xeb\x38\xd7\xbb\xf4\xb6\xa9\x2e\xaa\x4a\xe5\x10\x10\xcb\x89\x3d\x71\x47\x9d\xcc\x84\xb1\x8d\x4a\x57\xa5\x11\x3b\xa4\x0a\x16\x6c\xd8\x20\x81\x90\x22\x84\xd4\x22\x0a\x51\x51\xc5\xc2\x2f\x30\x79\x86\xa8\x8b\xbe\x05\x1a\xe7\xa7\x76\x4a\x16\x23\xcf\xf9\x7e\xce\xe7\x93\x63\x8e\x07\xc4\x47\x00\xa1\x18\x0c\x04\xf7\x61\x53\xe2\x63\xca\x10\x80\xe8\xf7\x69\x48\x31\xf3\xa1\x4d\x22\x22\x71\x4a\x9f\x13\x08\xc8\x30\xeb\x31\x1a\x82\xe8\xdf\x31\x79\x81\x69\x13\x80\xa1\x90\xf3\x87\x8a\x63\x52\xf0\xf4\xef\xce\x35\x20\xc3\xfc\x4a\x7b\xe1\xbb\x06\x18\x22\xb1\xe4\x93\x6c\x40\x06\x3d\x22\x7d\xe8\x63\x96\x10\xc4\x30\x8f\x98\x08\x0f\x49\xb4\xac\xe8\xbe\x82\x63\x46\xd3\x17\x3e\xd4\x6a\x28\x65\x51\xe2\x23\x03\xcc\x9e\xd4\xec\x38\xc3\x31\x49\x74\x1a\x1d\x0a\xf6\x85\x4c\xb3\x38\x23\x09\x41\xa9\xc4\x3c\x61\x85\xba\xc0\xb7\xb6\xbb\xf3\xd0\xd5\xc8\x94\x70\x54\xcd\xdc\xce\x7f\xac\x8f\xe2\xb0\x42\x6e\x07\xad\x75\xa7\x7c\xbc\x7c\xfb\xd2\xbb\xe7\xe3\x42\xfc\x2c\x23\xd0\xcf\xc7\x51\x3e\x5e\x98\x46\x59\x49\xf1\xff\xa3\x7b\x66\xba\x13\x59\x37\xd3\x41\xe6\x83\xec\x97\x06\x49\x58\x89\xff\x60\x7f\xaf\x6a\x35\x1b\xbd\x9b\x8d\xc6\xb3\xd3\xc9\x6c\xf4\x65\xcd\xaf\x0c\xdd\x9e\x7c\xbc\x3d\xfd\x7c\xf3\xea\xe2\xe6\xed\xeb\x9b\xf7\xd7\x08\x60\x6f\x77\xeb\x5e\xa8\x63\xca\x68\xbe\x6e\x33\xff\x53\xd9\x6a\x50\xe4\xb0\x42\x0d\xba\x9d\xaa\x8f\x7a\x33\x3d\x51\xe7\xea\xa7\x9a\xa8\x5f\x6a\x32\x3d\x5b\xb3\x53\x9f\xd4\xa5\xfa\xae\x2e\x35\x69\x7a\xaa\x26\xea\x9b\xba\x56\xe7\xd3\x33\x50\x1f\xd4\xe5\xf4\xa5\xfa\x3d\x1d\xa9\x0b\xad\x54\x57\xea\xfc\xbe\x59\x98\x49\x49\x78\x48\x49\xb1\x21\x9b\xc1\x2e\xea\x09\x19\x11\x59\x5c\x5b\xc1\x8e\x2e\x3e\xdc\x45\x06\xfc\x57\x9c\x3b\xdd\x76\x71\x3e\x45\x06\xec\x07\xc5\xb9\x1d\x20\x03\x3a\x5d\x7d\x76\x8b\xca\xe3\xed\x3d\x14\x8a\x68\xbe\x62\x98\x0d\x0f\x70\xdd\x87\xcd\x60\x79\x71\xf4\xa5\xa5\xbf\x2c\x2a\xc2\xd5\x73\xc8\x1d\x1f\x6a\x96\xd7\xa8\xe9\x1b\x66\x8c\xf2\x78\x65\x62\x40\xcd\x75\x35\x40\x79\x4a\xe4\x72\xbd\x87\x92\xf4\xe9\x91\x56\x59\xf6\x46\x0d\xc5\x44\x68\xae\x24\x31\xd5\x63\x6b\x0d\x88\xa4\x21\x4e\x10\x40\x92\xf5\x96\xd5\x8e\xc8\xd2\x83\x25\x56\x7c\xdd\x3c\xa5\x9c\xf0\xf4\x2f\x10\x1e\xd2\x54\x4f\x58\x6f\x4b\xfe\x95\x51\x5d\xc4\x92\x60\x1f\x9a\xa6\x6b\xbb\x5e\xc3\x23\xff\x58\x0d\x14\x0a\x21\x23\xca\x71\x3a\xcf\xca\x04\x8f\x69\x9a\x45\x24\x49\x25\xe5\xb1\x0f\xae\x0b\x96\x05\x4f\x34\x84\xd3\x0a\x62\x5b\x1a\xe9\x20\x80\x01\xe5\x2b\x9d\x0f\x86\xe7\x98\x9e\xbb\x28\x2f\x34\x3e\x18\x8e\x63\x7a\x8e\xe3\x38\x1b\x1a\xc1\x47\x65\x41\xbd\x69\x36\xdd\x45\x79\x25\x70\xcd\x7a\xa3\xd1\x68\x78\xa5\xce\x3e\x18\xb6\x65\x36\x6d\x6b\xc3\xb5\xdd\x72\x58\x1f\x0c\xb7\x6e\xfe\xeb\x39\xb6\xdd\x44\x7f\x02\x00\x00\xff\xff\x80\x5a\x2a\x22\xfb\x04\x00\x00")
+var _dataYamlCountriesBrYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x6c\x54\xcf\x6e\xe3\x44\x18\xbf\xcf\x53\x7c\xca\x15\xd9\xb2\xe3\x3a\x0e\xbe\xa5\x6c\xb3\x02\x55\x25\x72\x08\x88\xe3\xc4\xfe\xe2\x1d\x75\x32\x13\xc6\x36\x5a\xf6\xb4\x34\xe2\x86\xb4\x82\x03\x17\x2e\x48\x20\xa4\x08\x21\x75\x11\x85\x68\xd1\x8a\x83\x5f\x60\xf2\x0c\x51\x0f\xfb\x16\xab\x71\xe2\xd4\x4e\xd3\xc3\xc8\xf3\xfd\xfe\xcc\xcf\xbf\x8e\x23\xe8\x1c\x43\x02\x10\xcb\xf9\x5c\x8a\x10\xce\x15\x7d\xc1\x38\x01\x90\xb3\x19\x8b\x19\xe5\x21\x0c\x31\x41\x45\x73\xf6\x35\x42\x84\x8b\x62\xca\x59\x0c\x72\xf6\xc0\x14\x15\x66\x4c\x00\x16\x52\xed\x1e\x5a\x8e\x59\xc5\x33\x7f\x0f\xae\x11\x2e\xca\x37\xc6\x8b\x3e\x1c\x40\x21\x91\x35\x1f\x8b\x39\xce\xa7\xa8\x42\x98\x51\x9e\x21\xe1\x54\x24\x5c\xc6\xd7\x98\xd4\x13\x73\xae\x14\x94\xb3\xfc\x9b\x10\x3a\x1d\x92\xf3\x24\x0b\x89\x05\xf6\x54\x19\x76\x5a\xd0\x14\x33\x93\xc6\x84\x82\x91\x54\x79\x91\x16\x98\x21\xc9\x15\x15\x19\xaf\xd4\x15\xfe\xe4\x62\xb2\x0b\xdd\x8e\xcc\x50\x90\x76\xe6\x61\xf9\xcf\x71\x15\xd7\x2d\xf2\x30\x1a\x1c\x3b\x95\xab\xfa\xed\x1b\xef\x5e\xae\x2a\xf1\x57\x05\xc2\xac\x5c\x25\xe5\x6a\x6f\x9a\x14\x0d\xc5\xc7\x9f\x3d\x32\x33\x27\xe1\xb1\x99\x09\xb2\x2b\x72\xd6\x28\x12\x79\x83\xff\xc9\xe8\xaa\x6d\xb5\x5d\xfe\xb4\x5d\xae\xb6\x37\xeb\xed\xf2\x8f\x23\xbf\x26\xf4\xee\xe5\xaf\xef\x6e\x7e\xbf\xff\xee\xf5\xfd\x8f\xdf\xdf\xff\xfc\x96\x00\x5c\x5d\x3e\x79\x14\xea\x05\xe3\xac\x3c\xb6\xd9\xfd\x53\xf9\xa1\x28\xbc\x6e\x51\xa3\xc9\xb8\xed\xa3\x7f\xd8\xbc\xd4\xb7\xfa\x5f\xbd\xd6\xff\xe9\xf5\xe6\xd5\x91\x9d\xfe\x4d\xdf\xe9\xbf\xf5\x9d\x21\x6d\x6e\xf4\x5a\xff\xa5\xdf\xea\xdb\xcd\x2b\xd0\xbf\xe8\xbb\xcd\xb7\xfa\xff\xcd\x52\xbf\x36\x4a\xfd\x46\xdf\x9e\x32\x1b\x8f\x4e\xb6\xf9\xb8\xcc\x53\xb7\x12\x6b\x76\x5c\x28\x85\x22\x66\x58\xdd\xb4\xf3\xe8\x92\x4c\xa5\x4a\x50\x55\xdb\x41\xf4\xd4\x0c\x3f\xbd\x24\x16\x7c\x54\xad\x4f\x27\xc3\x6a\xfd\x92\x58\x30\x8a\xaa\xf5\x22\x22\x16\x8c\x27\x66\x9d\x54\x93\xcf\x2f\xae\x48\x2c\x93\xdd\x55\xa5\x7c\xf1\x8c\x76\x43\x38\x8f\xea\x8d\x67\x36\x03\xf3\x85\x32\x19\x1f\x9e\x63\xe1\x85\xd0\x71\x82\x5e\xc7\xec\x28\xe7\x4c\xa4\x07\x13\x0b\x3a\xbe\x6f\x00\x26\x72\x54\xf5\x67\xb2\x50\x38\x63\xcf\x8d\xca\x71\xcf\x3a\x24\x45\x69\xb8\x0a\x53\x66\xda\x18\xcc\x51\xb1\x98\x66\x04\x20\x2b\xa6\xf5\x74\x2c\x8b\xfc\x59\x8d\x55\xbf\x12\x22\x67\x02\x45\x7e\x02\xa2\x0b\x96\x9b\x0a\x4d\x53\xe5\x9f\x9c\x99\x21\x55\x48\x43\xe8\xdb\xbe\xeb\x07\xbd\x00\x3f\x70\x7a\x24\x96\x52\x25\x4c\xd0\x7c\x97\x95\x4b\x91\xb2\xbc\x48\x30\xcb\x15\x13\x69\x08\xbe\x0f\x8e\x03\x5f\x18\x88\xe6\x2d\xc4\x75\x0c\x32\x26\x00\x73\x26\x0e\xba\x10\xac\xc0\xb3\x03\x7f\x3f\xde\x6b\x42\xb0\x3c\xcf\x0e\x3c\xcf\xf3\xce\x0c\x42\x9f\x37\x05\xdd\xbe\xdd\xf7\xf7\xe3\x83\xc0\xb7\xbb\xbd\x5e\xaf\x17\x34\x4e\x0e\xc1\x72\x1d\xbb\xef\x3a\x67\xbe\xeb\x37\xc3\x86\x60\xf9\x5d\xfb\xc3\xc0\x73\xdd\x3e\x79\x1f\x00\x00\xff\xff\x80\xe2\x14\xd4\x43\x05\x00\x00")
 
 func dataYamlCountriesBrYamlBytes() ([]byte, error) {
 	return bindataRead(
@@ -1102,7 +1102,7 @@ func dataYamlCountriesBrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/br.yaml", size: 1275, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/br.yaml", size: 1347, mode: os.FileMode(493), modTime: time.Unix(1518096439, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1122,7 +1122,7 @@ func dataYamlCountriesBsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bs.yaml", size: 1275, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bs.yaml", size: 1275, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1142,7 +1142,7 @@ func dataYamlCountriesBtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bt.yaml", size: 1224, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bt.yaml", size: 1224, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1162,7 +1162,7 @@ func dataYamlCountriesBvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bv.yaml", size: 1012, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bv.yaml", size: 1012, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1182,7 +1182,7 @@ func dataYamlCountriesBwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bw.yaml", size: 1120, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bw.yaml", size: 1120, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1202,7 +1202,7 @@ func dataYamlCountriesByYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/by.yaml", size: 1566, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/by.yaml", size: 1566, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1222,7 +1222,7 @@ func dataYamlCountriesBzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/bz.yaml", size: 1316, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/bz.yaml", size: 1316, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1242,7 +1242,7 @@ func dataYamlCountriesCaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ca.yaml", size: 1047, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ca.yaml", size: 1047, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1262,7 +1262,7 @@ func dataYamlCountriesCcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cc.yaml", size: 1629, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cc.yaml", size: 1629, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1282,7 +1282,7 @@ func dataYamlCountriesCdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cd.yaml", size: 2110, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cd.yaml", size: 2110, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1302,7 +1302,7 @@ func dataYamlCountriesCfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cf.yaml", size: 1637, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cf.yaml", size: 1637, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1322,7 +1322,7 @@ func dataYamlCountriesCgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cg.yaml", size: 1523, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cg.yaml", size: 1523, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1342,7 +1342,7 @@ func dataYamlCountriesChYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ch.yaml", size: 1463, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ch.yaml", size: 1463, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1362,7 +1362,7 @@ func dataYamlCountriesCiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ci.yaml", size: 1303, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ci.yaml", size: 1303, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1382,7 +1382,7 @@ func dataYamlCountriesCkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ck.yaml", size: 1253, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ck.yaml", size: 1253, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1402,7 +1402,7 @@ func dataYamlCountriesClYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cl.yaml", size: 1246, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cl.yaml", size: 1246, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1422,7 +1422,7 @@ func dataYamlCountriesCmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cm.yaml", size: 1336, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cm.yaml", size: 1336, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1442,7 +1442,7 @@ func dataYamlCountriesCnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cn.yaml", size: 1305, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cn.yaml", size: 1305, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1462,7 +1462,7 @@ func dataYamlCountriesCoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/co.yaml", size: 1261, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/co.yaml", size: 1261, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1482,7 +1482,7 @@ func dataYamlCountriesCrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cr.yaml", size: 1193, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cr.yaml", size: 1193, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1502,7 +1502,7 @@ func dataYamlCountriesCuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cu.yaml", size: 1146, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cu.yaml", size: 1146, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1522,7 +1522,7 @@ func dataYamlCountriesCvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cv.yaml", size: 1224, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cv.yaml", size: 1224, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1542,7 +1542,7 @@ func dataYamlCountriesCwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cw.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cw.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1562,7 +1562,7 @@ func dataYamlCountriesCxYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cx.yaml", size: 1106, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cx.yaml", size: 1106, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1582,7 +1582,7 @@ func dataYamlCountriesCyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cy.yaml", size: 1226, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cy.yaml", size: 1226, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1602,12 +1602,12 @@ func dataYamlCountriesCzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/cz.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/cz.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
 
-var _dataYamlCountriesDeYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x8c\x53\xbb\x6e\xdb\x48\x14\xed\xe7\x2b\x2e\xd4\x6c\x45\x81\x7a\xd0\x5e\x4f\x67\xaf\xe8\xc7\xae\x21\x1b\x5a\x6b\x77\xb1\xdd\x15\xe7\x8a\x9e\xd5\x70\x46\x3b\x1c\x1a\x76\x17\xd8\x49\x11\x20\x69\xd2\xa6\x4c\x10\xc0\x65\xda\x00\xa9\x94\x3f\x31\x5c\xf8\x2f\x82\x21\xf5\xa0\x08\x07\x08\x2b\xce\xbd\xe7\x9c\x39\xf7\x31\x1a\x33\xe2\x0c\x20\x31\x59\x66\x34\x87\x23\xb2\x19\xea\x1b\x06\x60\xa6\x53\x99\x48\x54\x1c\x0e\x49\x90\x45\x05\x23\x9a\x17\x13\x25\x13\x30\xd3\x1a\x4e\xa3\x93\x57\xa5\x06\x80\xa0\xa2\xfa\xd9\x08\x0e\xa8\x70\x79\x72\xa9\x50\x8b\x65\x66\x23\x7c\x50\x68\x41\xb9\xad\x64\x67\x5b\x50\x2a\x32\xca\x26\x64\x39\x38\x5b\x10\xf3\x31\x65\x92\x19\x09\x0e\x53\x54\x39\x31\x7f\xad\xd1\xa8\xa4\xbb\xe1\xd0\x6a\x31\xa7\x44\xce\x59\x00\x6d\x51\xa2\xd3\x02\x53\xca\xbd\x19\xef\x69\x69\x97\x39\x8b\x3a\x57\x25\xb3\xcc\x0d\xe2\x71\xe5\xf7\x47\x6e\x7f\xca\x2b\xc0\xe1\xc9\x70\x5b\xe7\x4f\x9c\xe5\xd8\x50\x28\x63\x1a\x94\x94\xce\x19\x87\x39\x5e\xa1\x72\x1e\x74\x38\xda\xdf\x66\xef\x2b\x45\x19\xa6\x9a\x1a\x0a\xa3\xc5\x7d\x79\xfd\xff\x05\xc1\x74\x71\x2f\x16\xf7\x16\x15\x81\xf8\xa5\x4e\x38\x1e\xfd\xb5\xad\x36\xfc\x8f\x32\xfc\xf6\x76\xd6\xf4\xb3\x8e\x2f\x07\xec\xe4\x95\xc6\xd5\x90\x4b\xf4\xc9\x45\xc3\x58\xd5\x46\xd9\x54\x2a\x39\x7e\x33\x10\xa6\xd5\xae\x10\x08\x59\x47\xff\x7e\xde\x68\xd0\xc3\xdd\xeb\x87\xdb\x8f\x0f\x77\x2f\x1b\x52\xeb\xf8\xd3\x8b\x0f\x4f\xb7\x9f\x1e\x5f\x7d\x7e\x7c\xf7\xe6\xf1\xfd\x57\x06\x30\x3c\x1d\x34\x86\x55\x48\x97\x3f\x37\x2a\xa3\xc5\x6a\x52\x34\xdb\x82\x9d\x9f\x8d\x9a\xad\xa6\x0c\xf5\xe5\x33\x15\x2d\xbe\x54\x15\xad\xb6\x5f\xe0\x06\x9c\x14\xd6\x92\x4e\x24\x95\x2b\x17\x8f\x47\x6c\x62\xac\x20\x5b\x1e\xf7\xc7\x17\x2c\x80\x83\xf8\x94\x05\xf0\xdb\xbf\x31\x0b\x60\x30\xfc\x83\x05\x7e\xcc\x2c\x80\xd3\xf1\x3f\x2c\xf0\xb5\xb0\x00\xce\xcf\x4a\xcc\x71\xcc\x12\x23\xaa\x6d\x45\x35\xbf\xc4\x2e\x87\x41\xbc\x3a\xf4\xfc\x61\xec\x9f\xa8\x34\x09\x87\xa3\x78\xe4\xff\x13\xdd\xe3\xd0\xea\xee\xee\xb4\xfc\x09\x95\x92\x3a\x5d\x8b\x04\xd0\xea\xef\xf9\x84\xd4\x8e\xec\xea\xa5\xcc\x2d\x4d\xe5\x35\x87\x56\x18\xb6\x58\x4a\xc6\x23\x2d\xa5\xd2\xb7\x21\x2e\xac\x99\xfb\xed\xc9\x8b\xc9\x2a\xf6\x37\xe5\x9e\xbd\xc9\x25\x46\x3b\xa9\x49\xbb\x1a\x3e\xc1\xb9\x74\x65\xd3\xc9\x2a\xa9\xbd\x69\x4b\xc8\xa1\x17\xed\x76\x3a\x7d\x96\x18\x63\x85\xd4\xe8\x2a\x63\xca\xe8\x54\xba\x42\x50\xee\xac\xd4\x29\x87\x3d\x08\x43\xf0\xa5\xfa\x47\x59\x4f\x44\x1d\x9f\x19\x32\x80\x4c\xea\x35\x8d\x43\xd4\xde\x5b\xc6\x96\x04\x0e\xfd\xdd\x76\x77\xc7\x7f\x3e\x81\xd7\x35\x70\x27\x6a\x87\x3d\xff\x2d\x33\x6b\x4a\x14\xb5\xc3\xa8\x76\xab\xbf\xaf\xdd\x0d\xbb\xfd\x9d\xa8\xee\x92\x43\x27\x6c\xf7\x7e\xed\x76\xc3\x1e\xfb\x1e\x00\x00\xff\xff\xb8\x4e\x61\x87\x29\x05\x00\x00")
+var _dataYamlCountriesDeYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x8c\x53\x3d\x6f\xd4\x40\x10\xed\xf7\x57\x8c\xae\xa1\xf2\xc9\xf7\xe1\x84\x6c\x97\x70\xce\x07\x44\x97\xd3\x25\x07\x88\x6e\xcf\x3b\x76\x96\x5b\xef\x1e\xeb\x75\x94\x74\x28\x81\x02\x09\x1a\x5a\x4a\x10\x52\x4a\x5a\x24\xaa\xe3\x9f\x44\x29\xf2\x2f\xd0\xda\xf7\xe1\x73\x12\x09\x57\xde\x99\xf7\xde\xbc\x9d\x99\x55\x2c\x45\x4a\x00\x22\x9d\xa6\x5a\x51\xd8\x43\x93\x32\x75\x41\x00\x74\x1c\x8b\x48\x30\x49\x61\x17\x39\x1a\x26\x61\x88\xd3\x7c\x2c\x45\x04\x3a\xae\xe0\x14\xb3\xe2\xac\xd0\x00\xe0\x98\x97\x3f\x2b\xc1\x1e\xe6\x36\x8b\x4e\x25\x53\x7c\x9e\x59\x09\xef\xe4\x8a\x63\x66\x4a\xd9\xc9\x1a\x14\xf3\x14\xd3\x31\x1a\x0a\xd6\xe4\x48\x5c\x4c\xea\x68\x82\x9c\x42\xcc\x64\x86\xc4\x95\xd5\x8a\x49\x61\x2f\x28\x34\x1a\xc4\x4a\x9e\x51\xe2\x41\x93\x17\xe8\x24\x67\x09\x66\xce\x8c\xf3\x34\xb7\x4b\xac\x61\x2a\x93\x05\xb3\xc8\xf5\xc2\x51\xe9\xf7\x31\xb7\xff\xe5\x15\x60\xf7\xa0\xbf\xae\x73\xcc\x26\x19\xab\x29\x14\x31\x05\x52\x08\x6b\xb5\x65\x19\x3b\x63\xd2\x3a\xd0\xee\x70\x7b\x9d\xbd\x2d\x25\xa6\x2c\x51\x58\x53\x18\xce\xae\x8b\xf2\xef\x72\x84\x78\x76\xcd\x67\xd7\x86\x49\x04\xfe\xa4\x4a\xd8\x1f\xbe\x5c\x57\xeb\xbf\xc5\x94\xfd\xfd\x32\xa9\xfb\x59\xc6\xe7\x03\xb6\xe2\x4c\xb1\xc5\x90\x0b\xf4\xc1\x49\xcd\x58\xd9\x46\x51\x57\x2a\x38\x6e\x33\x18\xc4\xe5\xae\x20\x70\x51\x45\x3f\x1f\xd4\x1a\x74\x73\xf5\xe9\xe6\xf2\xc7\xcd\xd5\x87\x9a\xd4\x32\x7e\xf7\xfe\xfb\xdd\xe5\xcf\xdb\x8f\xbf\x6e\xbf\x7e\xbe\xfd\xf6\x87\x00\xf4\x0f\x7b\xb5\x61\xe5\xc2\x66\x0f\x8d\x4a\x2b\xbe\x98\x14\x4e\xd6\x60\x83\xa3\x61\xbd\xd5\x98\x32\x75\xfa\xc0\x8d\x66\xbf\xcb\x1b\x2d\xb6\x9f\xb3\x2a\xf8\x78\x70\x6f\x66\xf8\x48\x6b\xee\x09\xe1\x0a\x1c\xe5\xc6\xa0\x8a\x04\x16\xbb\x1b\x8e\x86\x64\xac\x0d\x47\x53\x1c\xb7\x47\x27\xc4\x83\x9d\xf0\x90\x78\xf0\xec\x4d\x48\x3c\xe8\xf5\x5f\x10\xcf\xed\x0b\xf1\xe0\x70\xf4\x9a\x78\xae\x29\xc4\x83\xc1\x51\x81\xd9\x0f\x49\xa4\x79\xb9\xf6\x4c\x4e\x4f\x59\x9b\x42\x2f\x5c\x1c\x3a\xee\x30\x72\x6f\x5d\xe8\x88\xc2\x5e\x38\x74\xff\x91\xea\x50\x68\xb4\x37\x37\x1a\xee\xc4\xa4\x14\x2a\x59\x8a\x78\xd0\xe8\x6e\xb9\x84\x50\x16\xcd\xe2\xc9\x4d\x0d\xc6\xe2\x9c\x42\xc3\xf7\x1b\x24\x41\xed\x90\x06\x13\xe1\xda\x10\xe6\x46\x4f\xdd\x1a\x66\xf9\x78\x11\x7b\x85\x99\x63\xaf\x72\x91\x56\x56\x28\x54\xb6\x82\x8f\xd8\x54\xd8\x62\x7a\x68\xa4\x50\xce\xb4\x41\x46\xa1\x13\x6c\xb6\x5a\x5d\x12\x69\x6d\xb8\x50\xcc\x96\xc6\xa4\x56\x89\xb0\x39\xc7\xcc\x1a\xa1\x12\x0a\x5b\xe0\xfb\xe0\xae\xea\x5e\x77\x35\x11\xb4\x5c\xa6\x4f\x00\x52\xa1\x96\x34\x0a\x41\x73\x6b\x1e\x9b\x13\x28\x74\x37\x9b\xed\x0d\xf7\xb9\x04\x3b\xaf\x80\x5b\x41\xd3\xef\xb8\x6f\x9e\x59\x52\x82\xa0\xe9\x07\x95\xaa\xae\x5e\xb3\xed\xb7\xbb\x1b\x41\xd5\x25\x85\x96\xdf\xec\x3c\x6d\xb7\xfd\x0e\xf9\x17\x00\x00\xff\xff\x0e\x80\xf3\x50\x72\x05\x00\x00")
 
 func dataYamlCountriesDeYamlBytes() ([]byte, error) {
 	return bindataRead(
@@ -1622,7 +1622,7 @@ func dataYamlCountriesDeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/de.yaml", size: 1321, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/de.yaml", size: 1394, mode: os.FileMode(493), modTime: time.Unix(1518096294, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1642,7 +1642,7 @@ func dataYamlCountriesDjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/dj.yaml", size: 1325, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/dj.yaml", size: 1325, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1662,7 +1662,7 @@ func dataYamlCountriesDkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/dk.yaml", size: 1263, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/dk.yaml", size: 1263, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1682,7 +1682,7 @@ func dataYamlCountriesDmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/dm.yaml", size: 1096, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/dm.yaml", size: 1096, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1702,7 +1702,7 @@ func dataYamlCountriesDoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/do.yaml", size: 1434, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/do.yaml", size: 1434, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1722,7 +1722,7 @@ func dataYamlCountriesDzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/dz.yaml", size: 1477, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/dz.yaml", size: 1477, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1742,7 +1742,7 @@ func dataYamlCountriesEcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ec.yaml", size: 1095, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ec.yaml", size: 1095, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1762,7 +1762,7 @@ func dataYamlCountriesEeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ee.yaml", size: 1116, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ee.yaml", size: 1116, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1782,7 +1782,7 @@ func dataYamlCountriesEgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/eg.yaml", size: 1243, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/eg.yaml", size: 1243, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1802,7 +1802,7 @@ func dataYamlCountriesEhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/eh.yaml", size: 1862, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/eh.yaml", size: 1862, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1822,12 +1822,12 @@ func dataYamlCountriesErYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/er.yaml", size: 1326, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/er.yaml", size: 1326, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
 
-var _dataYamlCountriesEsYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x7c\x52\xbb\x6e\xeb\x46\x10\xed\xf7\x2b\x06\x6a\x52\x51\xa0\x45\x89\xbe\x62\xa7\x1b\x2b\x37\x37\xce\x95\x05\xda\x4e\xea\xf1\x72\x45\x8d\xb4\x9c\x65\x96\x4b\xc3\x6e\xed\x32\x40\x3e\x20\x69\x52\xe4\x07\x82\x00\x01\x52\xa4\x32\xf2\x25\x42\x90\xdf\x08\x96\x7a\x51\x8f\x84\x15\x77\xcf\x9c\xb3\x67\x66\x0e\x63\xa1\x12\x01\x20\x4d\x51\x18\x4e\xe0\xb6\x44\x62\x01\x60\x66\x33\x92\x84\x3a\x81\x6b\xe2\x3c\x33\x05\x98\xd9\x0e\x64\x74\xf4\xd8\xd0\x00\x24\xba\xf5\xcf\x5e\x63\x5c\x95\xc8\xcf\xb8\xb9\xdd\x2b\xa5\x2a\x67\x05\xd9\x67\x6d\x5c\xd5\xd5\x39\x3a\x31\x9d\xf2\xb7\xc0\xd2\xc0\xd8\x5a\x55\xd5\xc5\xba\x26\xd7\xf9\xb1\x46\xa7\x73\xe6\x75\x62\x03\x99\x6a\x64\xde\x7e\x5d\x53\x8d\xa4\xb3\xee\xe7\xe7\xdc\x13\xea\x62\xe7\x7f\x53\x51\x95\x78\x4e\x60\xab\xff\xbf\x06\x54\x5d\xa8\xe2\x41\xd9\x04\x9c\xad\x95\xd0\xc8\x99\x36\x72\xa9\xb2\x04\x66\xa8\x2b\x25\xfc\x9c\x0d\xa3\x26\xf7\xdc\xb4\xe4\x74\x56\x25\x22\x80\xae\xaa\x7c\x75\x5e\x63\xae\x9a\xf1\xf9\x25\xc0\xe7\xe8\x50\xa3\xdf\x8f\x1f\x2a\xbc\xc7\xea\xbb\x5a\x89\xf5\x78\xe0\x03\x6a\x6f\xa3\x59\xad\xa4\x04\x6e\xa4\x24\xd7\x1c\x7d\x07\x7e\xb3\x4c\xd5\x5c\x38\x8b\x5c\xe9\xe6\xd9\x46\xf8\x6a\x7c\xbf\x59\xf3\x3e\x1f\x4c\x8a\xc5\x61\x6b\xd7\x6f\xbf\x33\xe5\x56\x91\x9c\xb7\x2a\xbe\x48\x47\x87\x64\xdf\x78\xce\xea\x88\x9c\x9a\x67\xac\x77\x83\x5d\xe3\x5f\xa6\xdf\x1c\x52\xff\xfa\xb9\x44\x5e\x18\x5d\x2d\xf1\xf8\x6d\x8b\x7a\xa1\x1e\x89\xf1\xa8\xe8\xe3\xdd\xe8\xc4\x7b\xce\xc7\x74\x1f\x4a\x03\x19\xed\xd1\xaf\xa6\x93\x43\xde\xea\xe5\x8f\xd5\xeb\x8f\xab\x97\x5f\x56\xaf\xbf\x1d\xb1\xdb\xd0\x3f\x3f\x7c\xff\xf7\x4f\x7f\x0a\x80\xc9\xd7\x57\xa7\x43\x5b\x1c\xb7\x7d\x6d\x98\x78\x69\x69\xb1\xdc\xe3\xd3\x9b\xf4\x74\x62\xdb\xa8\xfd\x47\x92\x3c\x2c\x6b\x6b\x15\x4b\x52\x4d\x3c\xc6\xf7\xa9\x78\x30\x36\x53\xb6\x39\x8e\x26\x57\x22\xf0\xcb\x10\x01\x7c\xf8\xf8\x5e\x04\x30\x4d\xef\x44\x00\x9f\x46\xa9\x90\x26\x5b\x27\x08\x75\x39\xc7\x5e\x02\xe3\xdb\xed\x21\xf2\x87\xa9\x0f\x17\x19\xb9\xfb\x97\x1c\x25\xd0\xb9\xec\xf5\x3b\x4d\xec\xb4\x26\xce\x77\x22\x01\x74\xa2\x06\x20\x76\xca\x6e\xd3\x5b\x5a\x35\xa3\xa7\x04\x3a\x61\xd8\x11\xb9\x32\xbe\xd2\xaa\x9c\x9a\xfe\x6a\x6b\x4a\xdf\x79\x55\x3f\x6c\xef\x6e\x4d\xed\xe6\xca\xf2\x1e\x94\x86\x1d\xb1\x62\xd7\x22\x48\x2c\xc9\xf9\x61\x7c\xc2\xcc\x52\xe6\x5d\x5b\x85\x09\x0c\xc2\xc1\x70\xd8\x13\xd2\x18\x9b\x11\xa3\x5b\x3b\xd3\x86\x73\x72\x75\xa6\x2a\x67\x89\xf3\x04\xfa\x10\x86\xf0\xad\x47\xd0\x1d\x02\xa1\x47\x26\x02\xa0\x20\xde\xd1\x12\x08\x2e\xde\x75\x2f\xe2\x38\x8e\xdf\x6d\xa0\x0d\x2f\x81\xde\x65\x37\x8e\xfc\xe7\x01\x7c\x6a\x71\xfa\xdd\xa8\x0d\xec\x18\xfd\xa8\x3b\xbc\xd8\x48\xb5\x6e\xc3\x6e\x34\x8c\xc3\xde\x65\xdb\x6f\x02\x41\xd4\x1d\x0c\xc2\x78\xd8\x8b\xc5\xbf\x01\x00\x00\xff\xff\x4e\x81\x1a\x10\xad\x05\x00\x00")
+var _dataYamlCountriesEsYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x7c\x52\xbd\x8e\xdb\x46\x10\xee\xf7\x29\x06\x6a\x52\x51\xe0\x89\x77\x3c\x8b\x9d\x9c\x53\x1c\xe7\x62\x59\xa0\xec\xa4\x9e\x5b\xae\xa8\x91\x96\xb3\xcc\x72\x69\xf8\x5a\xbb\x0c\x90\x07\x48\x9a\x14\x79\x81\x20\x40\x80\x14\xa9\x8c\x3c\x89\x10\xe4\x35\x82\x25\x25\x8a\xfa\x39\xb3\xe2\xee\x37\xdf\xec\x37\xdf\x7c\x8c\x85\x4a\x04\x80\x34\x45\x61\x38\x81\x45\x89\xc4\x02\xc0\x2c\x97\x24\x09\x75\x02\xf7\xc4\x79\x66\x0a\x30\xcb\x0e\x64\x74\xf4\xae\xa1\x01\x48\x74\xed\xcf\xa1\xc7\xb4\x2a\x91\x1f\x71\x77\x7b\xe8\x94\xaa\x9c\x15\x64\x5f\xf4\x71\x55\x57\x97\xe8\xc4\x74\xce\xdf\x03\x1b\x03\x53\x6b\x55\x55\x17\x6d\x4d\xae\xf3\xd3\x1e\x83\xc1\x85\xd7\x89\x0d\x64\xaa\x69\xf3\xe9\xf7\x96\x6a\x24\x5d\x54\xbf\xba\xa4\x9e\x50\x17\x9d\xfe\x5d\x45\x55\xe2\xa5\x06\xfb\xfe\x9f\x15\xa0\xea\x42\x15\x0f\xca\x26\xe0\x6c\xad\x84\x46\xce\xb4\x91\x1b\x95\x25\xb0\x44\x5d\x29\xe1\x7d\x36\x8c\x9a\xdc\x63\x33\x92\xd3\x59\x95\x88\x00\x86\xaa\xf2\xd5\x79\x8d\xb9\x6a\xec\xf3\x4b\x80\x2f\xd1\xa1\x46\xbf\x1f\x6f\x2a\x3c\xc7\xea\x87\x5a\x89\xd6\x1e\x78\x81\xda\xcb\x68\x56\x2b\x29\x81\xd7\x52\x92\x6b\x8e\x7e\x02\xbf\x59\xa6\x6a\x25\x9c\x45\xae\x74\xf3\x6c\xd3\xf8\x6e\xfa\x76\xb7\xe6\x43\x3e\x98\x14\x8b\xe3\xd1\xee\x3f\xfd\xc9\x94\x5b\x45\x72\xd5\xab\xf8\x2a\x9d\x1c\x93\xfd\xe0\x39\xab\x13\x72\x6a\x1e\xb1\xee\x8c\x6d\xf1\xaf\xd3\xef\x8e\xa9\xff\xfc\x5a\x22\xaf\x8d\xae\x36\x78\xfa\xb6\x45\xbd\x56\xef\x88\xf1\xa4\xe8\xe5\x9b\xc9\x99\xf6\x9c\x4f\xe9\x3e\x94\x06\x32\x3a\xa0\xdf\xcc\x67\xc7\xbc\xed\x87\xbf\xb6\x1f\x7f\xde\x7e\xf8\x6d\xfb\xf1\x8f\x13\x76\x1f\xfa\xef\xa7\x1f\xff\xfd\xe5\x6f\x01\x30\xfb\xf6\xee\xdc\xb4\xf5\xe9\xd8\xf7\x86\x89\x37\x96\xd6\x9b\x03\x3e\x7f\x9d\x9e\x3b\xb6\x8f\xda\x13\x49\x6a\xe1\xc5\xfc\x82\xd7\x5d\xca\x9f\xce\xa0\xac\xad\x55\x2c\x49\x35\xc1\x9a\xbe\x4d\xc5\x83\xb1\x99\xb2\xcd\x71\x32\xbb\x13\x81\x5f\xa3\x08\xe0\xc5\xcb\xe7\x22\x80\x79\xfa\x46\x04\xf0\x6a\x92\x0a\x69\xb2\x36\x7b\xa8\xcb\x15\x8e\x12\x98\x2e\xf6\x87\xc8\x1f\xe6\x3e\x96\x64\x64\xf7\x2f\x39\x4a\x60\x70\x3b\xba\x1e\x34\x81\xd5\x9a\x38\xef\x9a\x04\x30\x88\x1a\x80\xd8\x29\xbb\xcf\x7d\x69\xd5\x92\xde\x27\x30\x08\xc3\x81\xc8\x95\xf1\x95\x56\xe5\xd4\xcc\x57\x5b\x53\x7a\xcf\xaa\xfa\x61\x7f\xb7\x30\xb5\x5b\x29\xcb\x07\x50\x1a\x76\xc4\x8a\x5d\x8f\x20\xb1\x24\xe7\xcd\x78\x85\x99\xa5\xcc\xab\xb6\x0a\x13\xb8\x09\x6f\xc6\xe3\x91\x90\xc6\xd8\x8c\x18\x5d\xab\x4c\x1b\xce\xc9\xd5\x99\xaa\x9c\x25\xce\x13\xb8\x86\x30\x84\xef\x3d\x82\xee\x18\x08\x3d\x32\x13\x00\x05\x71\x47\x4b\x20\xb8\x7a\x36\xbc\x8a\xe3\x38\x7e\xb6\x83\x76\xbc\x04\x46\xb7\xc3\x38\xf2\x9f\x07\xf0\x7d\x8f\x73\x3d\x8c\xfa\x40\xc7\xb8\x8e\x86\xe3\xab\x5d\xab\xde\x6d\x38\x8c\xc6\x71\x38\xba\xed\xeb\x4d\x20\x88\x86\x37\x37\x61\x3c\x1e\xc5\xe2\xff\x00\x00\x00\xff\xff\x3f\x1f\xa7\xc4\xe7\x05\x00\x00")
 
 func dataYamlCountriesEsYamlBytes() ([]byte, error) {
 	return bindataRead(
@@ -1842,7 +1842,7 @@ func dataYamlCountriesEsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/es.yaml", size: 1453, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/es.yaml", size: 1511, mode: os.FileMode(493), modTime: time.Unix(1518096168, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1862,7 +1862,7 @@ func dataYamlCountriesEtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/et.yaml", size: 1403, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/et.yaml", size: 1403, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1882,7 +1882,7 @@ func dataYamlCountriesFiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/fi.yaml", size: 1330, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/fi.yaml", size: 1330, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1902,7 +1902,7 @@ func dataYamlCountriesFjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/fj.yaml", size: 1288, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/fj.yaml", size: 1288, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1922,7 +1922,7 @@ func dataYamlCountriesFkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/fk.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/fk.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1942,7 +1942,7 @@ func dataYamlCountriesFmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/fm.yaml", size: 1332, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/fm.yaml", size: 1332, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -1962,12 +1962,12 @@ func dataYamlCountriesFoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/fo.yaml", size: 1201, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/fo.yaml", size: 1201, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
 
-var _dataYamlCountriesFrYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x84\x53\xc1\x6e\xd3\x40\x10\xbd\xef\x57\x8c\x72\x77\x94\xc4\x75\x68\xf7\x56\xda\x44\xad\x54\x42\xe5\x12\xe0\xba\x59\x4f\x9c\x25\xce\x6e\xd8\x5d\x57\x85\x13\x55\x25\xae\xfd\x05\x0e\x48\x88\x5b\x39\x00\x15\x08\x71\xe8\x0f\xd8\x7f\x84\xc6\x49\xdc\xa4\x8d\x44\x4e\x3b\xf3\xe6\xcd\x7b\x79\xbb\xd6\x62\x86\x9c\x01\x48\x33\x9b\x19\xcd\xa1\x6f\x85\x96\xc8\x00\xcc\x78\xac\xa4\x12\x19\xb5\x50\xcb\x09\xc4\x38\xcf\x47\x99\x92\x0c\x40\x0b\xaf\xce\x2b\x1a\xc0\xd8\x8a\xc5\x61\xcb\x0e\xfa\xdd\xef\x89\xef\xbe\x56\x1b\xde\xe6\x48\x2c\x7d\xf7\x45\x28\x87\x0c\xf3\x19\xce\x46\x68\x39\x78\x9b\x23\xcb\x84\x4e\x32\x23\xa7\x98\x70\x18\x8b\xcc\x21\x23\x35\xa3\x45\xa6\xfc\x3b\x0e\x8d\x06\xf3\x59\xe2\x38\x0b\xa0\x39\xb6\x34\x9d\xe6\x22\x45\x47\x1e\xc8\xca\xd2\x2d\xf3\x56\x68\x97\x55\xcc\x0a\x3b\xec\x0d\x17\x36\xd7\x4d\x4e\x2d\x2a\x39\x61\x9b\x36\x09\x78\x7f\xf7\xc3\x29\x27\x27\xb8\xfa\xd7\x53\x06\xd0\x3f\x1e\x6c\xae\x88\x85\x76\x53\xf1\x80\xbe\x68\x6a\xf0\xc2\x89\x73\x91\x79\xc2\xfb\xf1\xfe\x63\xf1\x65\x42\xff\xcd\x07\xe0\x28\x7e\xb9\x85\x9e\x3f\xd6\xae\xfb\xb5\x6d\x9a\x38\x7e\xb1\x4d\x5d\x3d\x32\x4e\x14\xba\x60\x51\xa9\x4b\xac\xb4\x07\x27\x87\xdb\x72\x53\x6f\xa6\x5b\xb4\x5d\x9d\x17\x12\x1c\x0f\xcf\x36\xb9\xc5\xe7\xf2\x43\x71\x53\xfc\x29\x3f\x16\xb7\xe5\xf5\x83\x05\xf7\x60\x79\x55\xfc\x2c\x2f\x8b\x5f\xc5\x4d\x79\x0d\xc5\xa7\xe2\x7b\x79\x59\xfc\x2d\xaf\x8a\x6f\xc5\xef\xe2\x96\xda\x4c\xe6\x96\xae\x59\x61\xf5\x10\x7a\xc3\x98\x8d\x8c\x4d\xd0\x56\xe5\xfe\xe0\x90\x05\xf0\xb4\x77\xc2\x02\xba\x76\x16\x50\x02\x2c\x80\x93\xe1\x6b\x16\xc0\xb3\x83\xe7\x44\x39\x3b\x65\x01\x1c\x1c\xf5\x98\x34\xc9\xe2\xf5\x88\x6c\x3e\x11\x1d\x0e\xfd\x78\x55\x84\x54\xec\xd3\xc7\xa1\x8c\xac\xcf\x52\x87\x1c\x1a\x9d\xa8\xd5\xa0\x4a\x64\x99\xd2\x69\xbd\x24\x80\x46\x18\x12\xa0\xb4\x47\xbb\x7a\xb9\x73\x8b\x63\x75\xc1\xa1\xd1\x6a\x35\x58\x8a\x86\x26\x2d\xa6\x8a\x32\xe9\xe5\xd6\xcc\x29\x69\x97\x8f\x56\xbd\x57\xe8\x88\x7d\x8f\x49\xa3\xbd\xd2\xa8\xfd\xda\xbc\x14\x73\xe5\x29\xb8\x53\x61\x95\x23\xcf\x16\x05\x87\x28\x6a\x77\xf7\x22\x26\x8d\xb1\x89\xd2\xc2\x2f\x7c\x65\x46\xa7\xca\xe7\x09\x3a\x6f\x95\x4e\x39\x74\xa0\xd5\x82\x1e\x21\xc2\x6f\x00\x3b\x5d\x42\x06\x0c\x60\xa6\x74\x4d\xe3\x10\x44\xcd\xf6\xce\xb2\xbb\xa4\x70\xd8\x69\x37\xc3\xaa\x29\x2e\xd6\x46\xf7\x9a\x51\x77\xd9\xac\x27\xa3\x76\xb3\xb5\xb7\x26\x47\x42\xcd\x6e\xf8\xa4\xb3\xbb\xee\x8e\x43\xa7\x19\x86\xbb\x9d\x6e\x27\x64\xff\x02\x00\x00\xff\xff\x48\x4f\x42\x92\x9a\x04\x00\x00")
+var _dataYamlCountriesFrYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x8c\x53\xc1\x6e\xd3\x40\x10\xbd\xef\x57\x8c\x7c\xb7\x95\xd8\x75\x68\xf7\x56\xda\x44\xad\x54\x42\xe5\x12\xe0\xba\x59\x6f\x9c\x25\xce\x6e\xd8\x5d\x57\x85\x13\x55\x25\xae\xfd\x05\x0e\x48\x88\x5b\x39\x00\x55\x11\xe2\x90\x1f\xb0\xff\x08\x8d\x93\xb8\x49\x1b\x09\x72\xf2\xbe\x37\x6f\xde\xdb\xd9\x89\x62\x53\x41\x09\x00\xd7\xd3\xa9\x56\x14\x7a\x86\x29\x2e\x08\x80\x1e\x8d\x24\x97\x2c\x47\x48\x28\x3e\x86\x44\xcc\x8a\x61\x2e\x39\x01\x50\xcc\xc9\xf3\x5a\x06\x30\x32\x6c\xf1\xb1\xa5\x07\xfe\xee\xfb\x24\xf3\xaf\x75\x87\xb7\x85\x40\x95\x9a\x7f\x61\xd2\x0a\x22\x8a\xa9\x98\x0e\x85\xa1\xe0\x4c\x21\x48\xce\x54\x9a\x6b\x3e\x11\x29\x85\x11\xcb\xad\x20\xe8\xa6\x15\xcb\xa5\x7b\x47\xc1\xf3\x88\xcb\x53\x4b\x89\x0f\xc1\xc8\x60\x75\x56\xb0\x4c\x58\xcc\x80\x51\x96\x69\x89\x33\x4c\xd9\xbc\x56\xd6\xdc\x61\x77\xb0\x88\xb9\x1e\x72\x62\x84\xe4\x63\xb2\x19\x13\x89\xf7\xf3\x1f\x56\x5a\x3e\x16\xab\x5b\x4f\x08\x40\xef\xb8\xbf\xd9\x22\x61\xca\x4e\xd8\x03\xf9\x02\x54\xe0\x98\x65\xe7\x2c\x77\xc8\xf7\x92\xfd\xc7\xe6\xcb\x09\xfd\x73\x3e\x00\x47\xc9\xcb\x2d\xf2\xe2\xb1\x77\x83\x37\xb1\xb1\xe2\xf8\xc5\x36\x77\xf9\x28\x38\x4a\xf0\x81\x59\xed\xce\x45\xed\xdd\x3f\x39\xdc\x36\x37\xf9\x66\xb2\xc5\xdb\x36\xf3\x12\x48\x27\x83\xb3\x4d\x6d\xf9\xb9\xfa\x50\xde\x94\xbf\xab\x8f\xe5\x6d\x75\xfd\xa0\xc1\x3d\x59\x5d\x95\x3f\xab\xcb\xf2\xae\xbc\xa9\xae\xa1\xfc\x54\x7e\xaf\x2e\xcb\x3f\xd5\x55\xf9\xad\xfc\x55\xde\x22\x4c\x00\xce\x4e\xff\xf7\x52\xf3\xbb\x8d\x4b\x31\xc2\x0b\x83\x3b\x22\x45\xbd\x45\xdd\x41\x42\x86\xda\xa4\xc2\xd4\xc7\xfd\xfe\x21\xf1\xe1\x69\xf7\x84\xf8\xb8\x33\xc4\xc7\xf1\x11\x1f\x4e\x06\xaf\x89\x0f\xcf\x0e\x9e\xa3\xe4\xec\x94\xf8\x70\x70\xd4\x25\x5c\xa7\x8b\xd5\x63\xf9\x6c\xcc\x42\x0a\xbd\x64\x75\x88\xf0\xb0\x8f\xff\x2c\xa9\x79\xf3\xcd\x55\x44\xc1\x0b\xe3\x96\x87\x27\x96\xe7\x52\x65\x4d\x13\x1f\xbc\x28\x42\x42\x2a\x27\xcc\x6a\xed\x67\x46\x8c\xe4\x05\x05\xaf\xd5\xf2\x48\x26\x34\x56\x1a\x91\x49\xbc\x74\xb7\x30\x7a\x86\xcf\x64\x8b\xe1\x0a\x7b\x25\x2c\xaa\xef\x39\xae\x95\x93\x4a\x28\xb7\x56\xcf\xd9\x4c\x3a\x1c\xd0\x29\x33\xd2\x62\x66\x23\x18\x85\x38\x6e\x77\xf6\x62\xc2\xb5\x36\xa9\x54\xcc\x2d\x72\xe5\x5a\x65\xd2\x15\xa9\xb0\xce\x48\x95\x51\x08\xa1\xd5\x82\x2e\x32\xcc\x6d\x10\x3b\x1d\x64\xfa\x04\x60\x2a\x55\x23\xa3\xe0\xc7\x41\x7b\x67\x89\x2e\x25\x14\x76\xda\x41\x54\x83\xec\x62\xad\x74\x2f\x88\x3b\x4b\xb0\xa9\x8c\xdb\x41\x6b\x6f\xcd\x0e\x8d\x82\x4e\xf4\x24\xdc\x5d\x4f\x47\x21\x0c\xa2\x68\x37\xec\x84\x11\xf9\x1b\x00\x00\xff\xff\xf9\x5d\xe6\xa9\xd7\x04\x00\x00")
 
 func dataYamlCountriesFrYamlBytes() ([]byte, error) {
 	return bindataRead(
@@ -1982,7 +1982,7 @@ func dataYamlCountriesFrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/fr.yaml", size: 1178, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/fr.yaml", size: 1239, mode: os.FileMode(493), modTime: time.Unix(1518096364, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2002,7 +2002,7 @@ func dataYamlCountriesGaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ga.yaml", size: 1120, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ga.yaml", size: 1120, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2022,7 +2022,7 @@ func dataYamlCountriesGbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gb.yaml", size: 1543, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gb.yaml", size: 1543, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2042,7 +2042,7 @@ func dataYamlCountriesGdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gd.yaml", size: 977, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gd.yaml", size: 977, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2062,7 +2062,7 @@ func dataYamlCountriesGeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ge.yaml", size: 1044, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ge.yaml", size: 1044, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2082,7 +2082,7 @@ func dataYamlCountriesGfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gf.yaml", size: 1102, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gf.yaml", size: 1102, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2102,7 +2102,7 @@ func dataYamlCountriesGgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gg.yaml", size: 1198, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gg.yaml", size: 1198, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2122,7 +2122,7 @@ func dataYamlCountriesGhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gh.yaml", size: 1032, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gh.yaml", size: 1032, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2142,7 +2142,7 @@ func dataYamlCountriesGiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gi.yaml", size: 1074, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gi.yaml", size: 1074, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2162,7 +2162,7 @@ func dataYamlCountriesGlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gl.yaml", size: 1133, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gl.yaml", size: 1133, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2182,7 +2182,7 @@ func dataYamlCountriesGmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gm.yaml", size: 947, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gm.yaml", size: 947, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2202,7 +2202,7 @@ func dataYamlCountriesGnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gn.yaml", size: 1217, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gn.yaml", size: 1217, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2222,7 +2222,7 @@ func dataYamlCountriesGpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gp.yaml", size: 1031, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gp.yaml", size: 1031, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2242,7 +2242,7 @@ func dataYamlCountriesGqYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gq.yaml", size: 1667, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gq.yaml", size: 1667, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2262,7 +2262,7 @@ func dataYamlCountriesGrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gr.yaml", size: 1096, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gr.yaml", size: 1096, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2282,7 +2282,7 @@ func dataYamlCountriesGsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gs.yaml", size: 1846, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gs.yaml", size: 1846, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2302,7 +2302,7 @@ func dataYamlCountriesGtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gt.yaml", size: 1063, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gt.yaml", size: 1063, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2322,7 +2322,7 @@ func dataYamlCountriesGuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gu.yaml", size: 1010, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gu.yaml", size: 1010, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2342,7 +2342,7 @@ func dataYamlCountriesGwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gw.yaml", size: 1182, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gw.yaml", size: 1182, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2362,7 +2362,7 @@ func dataYamlCountriesGyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/gy.yaml", size: 1288, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/gy.yaml", size: 1288, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2382,7 +2382,7 @@ func dataYamlCountriesHkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/hk.yaml", size: 1472, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/hk.yaml", size: 1472, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2402,7 +2402,7 @@ func dataYamlCountriesHmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/hm.yaml", size: 1318, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/hm.yaml", size: 1318, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2422,7 +2422,7 @@ func dataYamlCountriesHnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/hn.yaml", size: 1207, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/hn.yaml", size: 1207, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2442,7 +2442,7 @@ func dataYamlCountriesHrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/hr.yaml", size: 1179, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/hr.yaml", size: 1179, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2462,7 +2462,7 @@ func dataYamlCountriesHtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ht.yaml", size: 1220, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ht.yaml", size: 1220, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2482,7 +2482,7 @@ func dataYamlCountriesHuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/hu.yaml", size: 1196, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/hu.yaml", size: 1196, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2502,7 +2502,7 @@ func dataYamlCountriesIdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/id.yaml", size: 1288, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/id.yaml", size: 1288, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2522,7 +2522,7 @@ func dataYamlCountriesIeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ie.yaml", size: 1139, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ie.yaml", size: 1139, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2542,7 +2542,7 @@ func dataYamlCountriesIlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/il.yaml", size: 1080, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/il.yaml", size: 1080, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2562,7 +2562,7 @@ func dataYamlCountriesImYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/im.yaml", size: 992, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/im.yaml", size: 992, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2582,7 +2582,7 @@ func dataYamlCountriesInYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/in.yaml", size: 1441, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/in.yaml", size: 1441, mode: os.FileMode(493), modTime: time.Unix(1518096014, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2602,7 +2602,7 @@ func dataYamlCountriesIoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/io.yaml", size: 1667, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/io.yaml", size: 1667, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2622,7 +2622,7 @@ func dataYamlCountriesIqYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/iq.yaml", size: 1388, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/iq.yaml", size: 1388, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2642,7 +2642,7 @@ func dataYamlCountriesIrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ir.yaml", size: 1050, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ir.yaml", size: 1050, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2662,12 +2662,12 @@ func dataYamlCountriesIsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/is.yaml", size: 1047, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/is.yaml", size: 1047, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
 
-var _dataYamlCountriesItYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x94\x52\x31\x6f\xdb\x3c\x10\xdd\xf9\x2b\x0e\xda\x25\x38\xa6\x9d\xcf\xe1\xe6\xaf\x70\xdb\x0c\xcd\x60\x3b\xd9\xcf\xd4\x59\x21\x22\x91\x2e\x45\x05\xc9\x98\x76\x2d\x90\xb5\x63\xd7\x6e\xe9\x50\x20\x68\x51\x74\xe8\x1f\x90\xfe\x51\x71\x92\xed\xda\xae\x97\x2e\x02\xef\xde\xbd\xc7\x77\x4f\xb4\x58\x90\x12\x00\xda\x15\x85\xb3\x0a\xce\x03\xe6\xf7\x02\xc0\x2d\x97\x46\x1b\xcc\xbb\x8e\x41\x0b\x53\x5a\x55\x8b\xdc\x68\x01\x60\x31\x98\xdb\x96\x06\xb0\x40\xdf\x1d\xf6\x35\x0c\xd9\x75\xf7\x40\x89\xac\x29\xf5\x35\x6d\xe4\x6e\xda\x29\x13\xf0\xa8\x08\xfe\xa5\xd1\xd2\xd8\x06\x32\x89\x8d\x75\x33\xa5\x4f\xff\x49\xc1\x1b\x8d\xb6\xda\xcc\x50\x55\x50\xb1\x20\xaf\x20\xf8\x8a\x44\x8e\x36\xcd\x9d\xbe\xa1\x54\xc1\x12\xf3\x92\x04\x6f\xec\x2c\xe6\x26\xdc\x2b\x88\x22\x11\xf2\xb4\x54\x22\x86\xc4\x04\x9e\xce\x2a\xcc\xa8\x64\x03\x1c\x07\x8c\xab\x32\x78\x17\xff\x8f\xb7\xe8\x39\xba\x57\xe4\x0b\xe4\x3c\x78\xcf\x4d\xa0\xa2\x33\x0d\x33\xf4\xa9\xb1\xdc\x08\x1e\x6d\x99\xb7\x37\xb5\x5a\x2f\xa7\xe3\x6e\xa7\xfd\x60\xc5\xc1\x3e\xbf\x3e\xb7\x49\xbe\xad\xa8\x8b\x84\xac\xe5\x99\xf3\xf9\x31\x36\x1e\xb2\x8f\xe6\x39\xbd\x9c\xed\x73\xeb\x8f\xcd\xbb\xfa\xa9\xfe\x5e\x3f\x37\x8f\x07\x0a\xf5\x73\x07\x35\x1f\x9a\xc7\xfa\x47\xf3\x50\x7f\xab\x9f\x9a\x47\xa8\x3f\xd5\x5f\x9b\x87\xfa\x67\xf3\xbe\xfe\xc2\x3c\x6e\x0b\x5d\x79\x4f\x56\x1b\x6a\xc3\x9b\x5c\x4e\xc5\xc2\xf9\x94\x7c\x5b\x8e\x2f\xe7\x22\xe6\xa5\x45\x0c\xb3\x37\x53\xfe\x5e\x5d\x88\x18\x5e\xbc\x9e\x88\x18\xae\xc6\x73\xa1\x5d\xda\xa5\x8c\xf9\xea\x1a\xfb\x0a\xce\xe7\x9b\x42\x72\x31\xe6\x87\x6c\x9c\xde\x9e\xb5\x95\x0a\x22\x39\xea\x45\x5c\x61\x9e\x1b\x9b\x6d\x45\x62\x88\xe4\x19\x03\xc6\x06\xf2\x9b\x3f\xbc\xf2\xb4\x34\x77\x0a\xa2\x5e\x2f\x12\x19\x39\x9e\xf4\x94\x19\x4e\x61\x52\x79\xb7\xe2\x6c\xcb\x6a\xb1\xe9\xcd\x5c\x15\xae\xc9\xdb\x3f\xa0\x76\x36\x18\x4b\x36\xec\x10\x34\xae\x38\x5e\x05\x53\x57\x70\x8d\x9e\x50\x81\xec\x9d\x48\x79\x2a\xb4\x73\xfc\x04\x30\x74\xbe\x72\x67\x33\x13\xaa\x94\xca\xe0\x8d\xcd\x14\x9c\xf4\x61\xd8\x83\x09\x43\x18\xf6\x90\x41\x8b\x5c\x08\x80\xc2\xd8\x2d\x4f\xc1\x49\x22\x87\xeb\xe6\x9a\xa1\x40\x0e\x93\xc1\x48\x4a\x39\x60\x00\xef\x76\xa6\xfb\xbd\x64\x20\xa5\x94\xfd\x35\xb2\xa5\x0c\x46\xc9\x90\x01\xb9\x73\x35\x5f\x9a\xfc\x77\x7a\x7a\x36\xda\xb5\xca\x26\x93\xc1\x99\x1c\xf5\xa5\xf8\x1d\x00\x00\xff\xff\x98\xd1\xd1\x0d\x53\x04\x00\x00")
+var _dataYamlCountriesItYaml = []byte("\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x94\x53\xb1\x6e\xdb\x48\x10\xed\xf7\x2b\x06\xec\x49\xc8\x5a\xc9\x27\x6f\xa7\x3b\xe8\xee\x5c\xc4\x08\x24\xd9\xfd\x68\x39\xa2\x17\x26\x77\x95\xe5\xd2\xb0\x4b\x27\x6d\x00\xb7\x29\xd3\xa6\x73\x8a\x00\x86\x83\x20\x85\x7f\x80\xfc\xa3\x60\x48\x49\x91\x14\x17\x49\x23\x70\xe6\xcd\x7b\xfb\xe6\xed\xca\x62\x41\x4a\x00\x68\x57\x14\xce\x2a\x38\x0d\x98\xdf\x0a\x00\xb7\x5c\x1a\x6d\x30\xef\x3a\x06\x2d\x4c\x69\x55\x2d\x72\xa3\x05\x80\xc5\x60\xae\x5b\x1a\xc0\x02\x7d\xf7\xb1\xaf\x61\xc8\xae\xbb\x07\x4a\x64\x4d\xa9\x2f\x69\x23\x77\xd5\x4e\x99\x80\x2f\x8a\xe0\x2f\x1a\x2d\x8d\x6d\x20\x93\xd8\x58\x37\x53\xfa\xf4\x8f\x14\xbc\xd1\x68\xab\xcd\x0c\x55\x05\x15\x0b\xf2\x0a\x82\xaf\x48\xe4\x68\xd3\xdc\xe9\x2b\x4a\x15\x2c\x31\x2f\x49\xf0\xc6\xce\x62\x6e\xc2\xad\x82\x28\x12\x21\x4f\x4b\x25\x62\x48\x4c\xe0\xe9\xac\xc2\x8c\x4a\x36\xc0\x71\xc0\xb8\x2a\x83\x77\xf1\xdf\x78\x8d\x9e\xa3\xfb\x8f\x7c\x81\x9c\x07\xef\xb9\x09\x54\x74\xa6\x61\x86\x3e\x35\x96\x1b\xc1\xa3\x2d\xf3\xf6\xa4\x56\xeb\xdf\xe9\xb8\xdb\x69\x3f\x58\x71\xb0\xcf\xf3\xa7\x36\xc9\x37\x15\x75\x91\x90\xb5\x3c\x73\x3a\x7f\x89\x8d\x87\xec\x17\xf3\x9c\x9e\xcf\xf6\xb9\xf5\x87\xe6\x6d\xfd\x50\x7f\xad\x1f\x9b\xfb\x03\x85\xfa\xb1\x83\x9a\xf7\xcd\x7d\xfd\xad\xb9\xab\x9f\xea\x87\xe6\x1e\xea\x8f\xf5\x97\xe6\xae\xfe\xde\xbc\xab\x3f\x33\x8f\xdb\x02\x60\xf6\xfa\x37\x5d\x3d\x3f\x1d\xb8\xd2\x95\xf7\x64\xb5\xa1\x36\xf8\xc9\xf9\x54\x2c\x9c\x4f\xc9\xb7\xe5\xf8\x7c\x2e\x62\x0e\x4c\xc4\x30\x7b\x35\xe5\xdf\x8b\x33\x11\xc3\x3f\xff\x4f\x44\x0c\x17\xe3\xb9\xd0\x2e\xed\x6e\x08\xf3\xd5\x25\xf6\x15\x9c\xce\x37\x85\xe4\x62\xcc\x7f\x02\xe3\xf4\xf6\x5b\x5b\xa9\x20\x92\xa3\x5e\xc4\x15\xe6\xb9\xb1\xd9\x56\x24\x86\x48\x9e\x30\x60\x6c\x20\xbf\x79\x1d\x2b\x4f\x4b\x73\xa3\x20\xea\xf5\x22\x91\x91\xe3\x49\x4f\x99\xe1\x3d\x27\x95\x77\x2b\xbe\x97\xb2\x5a\x6c\x7a\x33\x57\x85\x4b\xf2\xf6\x27\xa8\x9d\x0d\xc6\x92\x0d\x3b\x04\x8d\x2b\x0e\x41\xc1\xd4\x15\x5c\xa3\x27\x54\x20\x7b\x47\x52\x1e\x0b\xed\x1c\x3f\x1f\x0c\x9d\xaf\xdc\xd9\xcc\x84\x2a\xa5\x32\x78\x63\x33\x05\x47\x7d\x18\xf6\x60\xc2\x10\x86\x3d\x64\xd0\x22\x67\x02\xa0\x30\x76\xcb\x53\x70\x94\xc8\xe1\xba\xb9\x66\x28\x90\xc3\x64\x30\x92\x52\x0e\x18\xc0\x9b\x9d\xe9\x7e\x2f\x19\x48\x29\x65\x7f\x8d\x6c\x29\x83\x51\x32\x64\x40\xee\x1c\xcd\x87\x26\x7f\x1d\x1f\x9f\x8c\x76\xad\xb2\xc9\x64\x70\x22\x47\x7d\x29\x7e\x04\x00\x00\xff\xff\xf7\x86\xfa\xec\x8f\x04\x00\x00")
 
 func dataYamlCountriesItYamlBytes() ([]byte, error) {
 	return bindataRead(
@@ -2682,7 +2682,7 @@ func dataYamlCountriesItYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/it.yaml", size: 1107, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/it.yaml", size: 1167, mode: os.FileMode(493), modTime: time.Unix(1518096509, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2702,7 +2702,7 @@ func dataYamlCountriesJeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/je.yaml", size: 1217, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/je.yaml", size: 1217, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2722,7 +2722,7 @@ func dataYamlCountriesJmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/jm.yaml", size: 949, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/jm.yaml", size: 949, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2742,7 +2742,7 @@ func dataYamlCountriesJoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/jo.yaml", size: 1243, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/jo.yaml", size: 1243, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2762,7 +2762,7 @@ func dataYamlCountriesJpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/jp.yaml", size: 964, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/jp.yaml", size: 964, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2782,7 +2782,7 @@ func dataYamlCountriesKeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ke.yaml", size: 1332, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ke.yaml", size: 1332, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2802,7 +2802,7 @@ func dataYamlCountriesKgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kg.yaml", size: 1266, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kg.yaml", size: 1266, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2822,7 +2822,7 @@ func dataYamlCountriesKhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kh.yaml", size: 1208, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kh.yaml", size: 1208, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2842,7 +2842,7 @@ func dataYamlCountriesKiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ki.yaml", size: 1631, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ki.yaml", size: 1631, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2862,7 +2862,7 @@ func dataYamlCountriesKmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/km.yaml", size: 1247, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/km.yaml", size: 1247, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2882,7 +2882,7 @@ func dataYamlCountriesKnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kn.yaml", size: 1600, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kn.yaml", size: 1600, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2902,7 +2902,7 @@ func dataYamlCountriesKpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kp.yaml", size: 1440, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kp.yaml", size: 1440, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2922,7 +2922,7 @@ func dataYamlCountriesKrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kr.yaml", size: 1099, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kr.yaml", size: 1099, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2942,7 +2942,7 @@ func dataYamlCountriesKwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kw.yaml", size: 1051, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kw.yaml", size: 1051, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2962,7 +2962,7 @@ func dataYamlCountriesKyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ky.yaml", size: 1066, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ky.yaml", size: 1066, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -2982,7 +2982,7 @@ func dataYamlCountriesKzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/kz.yaml", size: 1331, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/kz.yaml", size: 1331, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3002,7 +3002,7 @@ func dataYamlCountriesLaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/la.yaml", size: 1332, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/la.yaml", size: 1332, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3022,7 +3022,7 @@ func dataYamlCountriesLbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lb.yaml", size: 1308, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lb.yaml", size: 1308, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3042,7 +3042,7 @@ func dataYamlCountriesLcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lc.yaml", size: 1160, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lc.yaml", size: 1160, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3062,7 +3062,7 @@ func dataYamlCountriesLiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/li.yaml", size: 1003, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/li.yaml", size: 1003, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3082,7 +3082,7 @@ func dataYamlCountriesLkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lk.yaml", size: 1646, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lk.yaml", size: 1646, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3102,7 +3102,7 @@ func dataYamlCountriesLrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lr.yaml", size: 1284, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lr.yaml", size: 1284, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3122,7 +3122,7 @@ func dataYamlCountriesLsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ls.yaml", size: 1020, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ls.yaml", size: 1020, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3142,7 +3142,7 @@ func dataYamlCountriesLtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lt.yaml", size: 1146, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lt.yaml", size: 1146, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3162,7 +3162,7 @@ func dataYamlCountriesLuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lu.yaml", size: 1445, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lu.yaml", size: 1445, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3182,7 +3182,7 @@ func dataYamlCountriesLvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/lv.yaml", size: 1045, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/lv.yaml", size: 1045, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3202,7 +3202,7 @@ func dataYamlCountriesLyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ly.yaml", size: 1282, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ly.yaml", size: 1282, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3222,7 +3222,7 @@ func dataYamlCountriesMaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ma.yaml", size: 1405, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ma.yaml", size: 1405, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3242,7 +3242,7 @@ func dataYamlCountriesMcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mc.yaml", size: 1246, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mc.yaml", size: 1246, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3262,7 +3262,7 @@ func dataYamlCountriesMdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/md.yaml", size: 1149, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/md.yaml", size: 1149, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3282,7 +3282,7 @@ func dataYamlCountriesMeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/me.yaml", size: 913, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/me.yaml", size: 913, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3302,7 +3302,7 @@ func dataYamlCountriesMfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mf.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mf.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3322,7 +3322,7 @@ func dataYamlCountriesMgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mg.yaml", size: 1360, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mg.yaml", size: 1360, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3342,7 +3342,7 @@ func dataYamlCountriesMhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mh.yaml", size: 1516, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mh.yaml", size: 1516, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3362,7 +3362,7 @@ func dataYamlCountriesMkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mk.yaml", size: 1199, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mk.yaml", size: 1199, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3382,7 +3382,7 @@ func dataYamlCountriesMlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ml.yaml", size: 1055, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ml.yaml", size: 1055, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3402,7 +3402,7 @@ func dataYamlCountriesMmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mm.yaml", size: 1334, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mm.yaml", size: 1334, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3422,7 +3422,7 @@ func dataYamlCountriesMnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mn.yaml", size: 973, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mn.yaml", size: 973, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3442,7 +3442,7 @@ func dataYamlCountriesMoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mo.yaml", size: 1683, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mo.yaml", size: 1683, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3462,7 +3462,7 @@ func dataYamlCountriesMpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mp.yaml", size: 1640, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mp.yaml", size: 1640, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3482,7 +3482,7 @@ func dataYamlCountriesMqYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mq.yaml", size: 981, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mq.yaml", size: 981, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3502,7 +3502,7 @@ func dataYamlCountriesMrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mr.yaml", size: 1131, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mr.yaml", size: 1131, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3522,7 +3522,7 @@ func dataYamlCountriesMsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ms.yaml", size: 1031, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ms.yaml", size: 1031, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3542,7 +3542,7 @@ func dataYamlCountriesMtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mt.yaml", size: 1195, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mt.yaml", size: 1195, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3562,7 +3562,7 @@ func dataYamlCountriesMuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mu.yaml", size: 1295, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mu.yaml", size: 1295, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3582,7 +3582,7 @@ func dataYamlCountriesMvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mv.yaml", size: 1285, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mv.yaml", size: 1285, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3602,7 +3602,7 @@ func dataYamlCountriesMwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mw.yaml", size: 1171, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mw.yaml", size: 1171, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3622,7 +3622,7 @@ func dataYamlCountriesMxYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mx.yaml", size: 1244, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mx.yaml", size: 1244, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3642,7 +3642,7 @@ func dataYamlCountriesMyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/my.yaml", size: 993, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/my.yaml", size: 993, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3662,7 +3662,7 @@ func dataYamlCountriesMzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/mz.yaml", size: 1251, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/mz.yaml", size: 1251, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3682,7 +3682,7 @@ func dataYamlCountriesNaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/na.yaml", size: 1831, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/na.yaml", size: 1831, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3702,7 +3702,7 @@ func dataYamlCountriesNcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/nc.yaml", size: 1082, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/nc.yaml", size: 1082, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3722,7 +3722,7 @@ func dataYamlCountriesNeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ne.yaml", size: 1122, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ne.yaml", size: 1122, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3742,7 +3742,7 @@ func dataYamlCountriesNfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/nf.yaml", size: 1233, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/nf.yaml", size: 1233, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3762,7 +3762,7 @@ func dataYamlCountriesNgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ng.yaml", size: 1391, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ng.yaml", size: 1391, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3782,7 +3782,7 @@ func dataYamlCountriesNiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ni.yaml", size: 995, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ni.yaml", size: 995, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3802,7 +3802,7 @@ func dataYamlCountriesNlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/nl.yaml", size: 956, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/nl.yaml", size: 956, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3822,7 +3822,7 @@ func dataYamlCountriesNoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/no.yaml", size: 1280, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/no.yaml", size: 1280, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3842,7 +3842,7 @@ func dataYamlCountriesNpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/np.yaml", size: 1225, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/np.yaml", size: 1225, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3862,7 +3862,7 @@ func dataYamlCountriesNrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/nr.yaml", size: 1227, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/nr.yaml", size: 1227, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3882,7 +3882,7 @@ func dataYamlCountriesNuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/nu.yaml", size: 988, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/nu.yaml", size: 988, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3902,7 +3902,7 @@ func dataYamlCountriesNzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/nz.yaml", size: 1231, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/nz.yaml", size: 1231, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3922,7 +3922,7 @@ func dataYamlCountriesOmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/om.yaml", size: 1042, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/om.yaml", size: 1042, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3942,7 +3942,7 @@ func dataYamlCountriesPaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pa.yaml", size: 974, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pa.yaml", size: 974, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3962,7 +3962,7 @@ func dataYamlCountriesPeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pe.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pe.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -3982,7 +3982,7 @@ func dataYamlCountriesPfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pf.yaml", size: 1260, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pf.yaml", size: 1260, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4002,7 +4002,7 @@ func dataYamlCountriesPgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pg.yaml", size: 1685, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pg.yaml", size: 1685, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4022,7 +4022,7 @@ func dataYamlCountriesPhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ph.yaml", size: 1384, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ph.yaml", size: 1384, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4042,7 +4042,7 @@ func dataYamlCountriesPkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pk.yaml", size: 1531, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pk.yaml", size: 1531, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4062,7 +4062,7 @@ func dataYamlCountriesPlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pl.yaml", size: 1166, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pl.yaml", size: 1166, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4082,7 +4082,7 @@ func dataYamlCountriesPmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pm.yaml", size: 1289, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pm.yaml", size: 1289, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4102,7 +4102,7 @@ func dataYamlCountriesPnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pn.yaml", size: 1336, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pn.yaml", size: 1336, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4122,7 +4122,7 @@ func dataYamlCountriesPrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pr.yaml", size: 1393, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pr.yaml", size: 1393, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4142,7 +4142,7 @@ func dataYamlCountriesPsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ps.yaml", size: 1234, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ps.yaml", size: 1234, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4162,7 +4162,7 @@ func dataYamlCountriesPtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pt.yaml", size: 1062, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pt.yaml", size: 1062, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4182,7 +4182,7 @@ func dataYamlCountriesPwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/pw.yaml", size: 930, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/pw.yaml", size: 930, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4202,7 +4202,7 @@ func dataYamlCountriesPyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/py.yaml", size: 1134, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/py.yaml", size: 1134, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4222,7 +4222,7 @@ func dataYamlCountriesQaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/qa.yaml", size: 1140, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/qa.yaml", size: 1140, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4242,7 +4242,7 @@ func dataYamlCountriesReYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/re.yaml", size: 891, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/re.yaml", size: 891, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4262,7 +4262,7 @@ func dataYamlCountriesRoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ro.yaml", size: 966, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ro.yaml", size: 966, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4282,7 +4282,7 @@ func dataYamlCountriesRsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/rs.yaml", size: 1144, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/rs.yaml", size: 1144, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4302,7 +4302,7 @@ func dataYamlCountriesRuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ru.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ru.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4322,7 +4322,7 @@ func dataYamlCountriesRwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/rw.yaml", size: 1363, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/rw.yaml", size: 1363, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4342,7 +4342,7 @@ func dataYamlCountriesSaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sa.yaml", size: 1306, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sa.yaml", size: 1306, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4362,7 +4362,7 @@ func dataYamlCountriesSbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sb.yaml", size: 1014, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sb.yaml", size: 1014, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4382,7 +4382,7 @@ func dataYamlCountriesScYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sc.yaml", size: 1436, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sc.yaml", size: 1436, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4402,7 +4402,7 @@ func dataYamlCountriesSdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sd.yaml", size: 1081, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sd.yaml", size: 1081, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4422,7 +4422,7 @@ func dataYamlCountriesSeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/se.yaml", size: 1124, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/se.yaml", size: 1124, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4442,7 +4442,7 @@ func dataYamlCountriesSgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sg.yaml", size: 1481, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sg.yaml", size: 1481, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4462,7 +4462,7 @@ func dataYamlCountriesSiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/si.yaml", size: 1133, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/si.yaml", size: 1133, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4482,7 +4482,7 @@ func dataYamlCountriesSjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sj.yaml", size: 1259, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sj.yaml", size: 1259, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4502,7 +4502,7 @@ func dataYamlCountriesSkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sk.yaml", size: 1308, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sk.yaml", size: 1308, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4522,7 +4522,7 @@ func dataYamlCountriesSlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sl.yaml", size: 982, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sl.yaml", size: 982, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4542,7 +4542,7 @@ func dataYamlCountriesSmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sm.yaml", size: 1115, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sm.yaml", size: 1115, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4562,7 +4562,7 @@ func dataYamlCountriesSnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sn.yaml", size: 1183, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sn.yaml", size: 1183, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4582,7 +4582,7 @@ func dataYamlCountriesSoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/so.yaml", size: 1337, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/so.yaml", size: 1337, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4602,7 +4602,7 @@ func dataYamlCountriesSrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sr.yaml", size: 1176, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sr.yaml", size: 1176, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4622,7 +4622,7 @@ func dataYamlCountriesSsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ss.yaml", size: 1276, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ss.yaml", size: 1276, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4642,7 +4642,7 @@ func dataYamlCountriesStYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/st.yaml", size: 1673, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/st.yaml", size: 1673, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4662,7 +4662,7 @@ func dataYamlCountriesSvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sv.yaml", size: 1235, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sv.yaml", size: 1235, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4682,7 +4682,7 @@ func dataYamlCountriesSxYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sx.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sx.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4702,7 +4702,7 @@ func dataYamlCountriesSyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sy.yaml", size: 1145, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sy.yaml", size: 1145, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4722,7 +4722,7 @@ func dataYamlCountriesSzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/sz.yaml", size: 1414, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/sz.yaml", size: 1414, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4742,7 +4742,7 @@ func dataYamlCountriesTcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tc.yaml", size: 1411, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tc.yaml", size: 1411, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4762,7 +4762,7 @@ func dataYamlCountriesTdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/td.yaml", size: 1246, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/td.yaml", size: 1246, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4782,7 +4782,7 @@ func dataYamlCountriesTfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tf.yaml", size: 1782, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tf.yaml", size: 1782, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4802,7 +4802,7 @@ func dataYamlCountriesTgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tg.yaml", size: 1110, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tg.yaml", size: 1110, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4822,7 +4822,7 @@ func dataYamlCountriesThYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/th.yaml", size: 1141, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/th.yaml", size: 1141, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4842,7 +4842,7 @@ func dataYamlCountriesTjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tj.yaml", size: 1309, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tj.yaml", size: 1309, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4862,7 +4862,7 @@ func dataYamlCountriesTkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tk.yaml", size: 1243, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tk.yaml", size: 1243, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4882,7 +4882,7 @@ func dataYamlCountriesTlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tl.yaml", size: 1416, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tl.yaml", size: 1416, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4902,7 +4902,7 @@ func dataYamlCountriesTmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tm.yaml", size: 1199, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tm.yaml", size: 1199, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4922,7 +4922,7 @@ func dataYamlCountriesTnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tn.yaml", size: 1225, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tn.yaml", size: 1225, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4942,7 +4942,7 @@ func dataYamlCountriesToYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/to.yaml", size: 1209, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/to.yaml", size: 1209, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4962,7 +4962,7 @@ func dataYamlCountriesTrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tr.yaml", size: 1102, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tr.yaml", size: 1102, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -4982,7 +4982,7 @@ func dataYamlCountriesTtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tt.yaml", size: 1459, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tt.yaml", size: 1459, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5002,7 +5002,7 @@ func dataYamlCountriesTvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tv.yaml", size: 1020, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tv.yaml", size: 1020, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5022,7 +5022,7 @@ func dataYamlCountriesTwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tw.yaml", size: 1207, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tw.yaml", size: 1207, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5042,7 +5042,7 @@ func dataYamlCountriesTzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/tz.yaml", size: 1289, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/tz.yaml", size: 1289, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5062,7 +5062,7 @@ func dataYamlCountriesUaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ua.yaml", size: 907, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ua.yaml", size: 907, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5082,7 +5082,7 @@ func dataYamlCountriesUgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ug.yaml", size: 1028, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ug.yaml", size: 1028, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5102,7 +5102,7 @@ func dataYamlCountriesUmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/um.yaml", size: 1426, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/um.yaml", size: 1426, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5122,7 +5122,7 @@ func dataYamlCountriesUsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/us.yaml", size: 1365, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/us.yaml", size: 1365, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5142,7 +5142,7 @@ func dataYamlCountriesUyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/uy.yaml", size: 1209, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/uy.yaml", size: 1209, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5162,7 +5162,7 @@ func dataYamlCountriesUzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/uz.yaml", size: 1286, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/uz.yaml", size: 1286, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5182,7 +5182,7 @@ func dataYamlCountriesVaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/va.yaml", size: 1221, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/va.yaml", size: 1221, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5202,7 +5202,7 @@ func dataYamlCountriesVcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/vc.yaml", size: 1685, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/vc.yaml", size: 1685, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5222,7 +5222,7 @@ func dataYamlCountriesVeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ve.yaml", size: 1369, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ve.yaml", size: 1369, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5242,7 +5242,7 @@ func dataYamlCountriesVgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/vg.yaml", size: 1292, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/vg.yaml", size: 1292, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5262,7 +5262,7 @@ func dataYamlCountriesViYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/vi.yaml", size: 1336, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/vi.yaml", size: 1336, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5282,7 +5282,7 @@ func dataYamlCountriesVnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/vn.yaml", size: 1474, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/vn.yaml", size: 1474, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5302,7 +5302,7 @@ func dataYamlCountriesVuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/vu.yaml", size: 1310, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/vu.yaml", size: 1310, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5322,7 +5322,7 @@ func dataYamlCountriesWfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/wf.yaml", size: 1388, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/wf.yaml", size: 1388, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5342,7 +5342,7 @@ func dataYamlCountriesWsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ws.yaml", size: 1233, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ws.yaml", size: 1233, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5362,7 +5362,7 @@ func dataYamlCountriesYeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/ye.yaml", size: 1117, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/ye.yaml", size: 1117, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5382,7 +5382,7 @@ func dataYamlCountriesYtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/yt.yaml", size: 1157, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/yt.yaml", size: 1157, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5402,7 +5402,7 @@ func dataYamlCountriesZaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/za.yaml", size: 2204, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/za.yaml", size: 2204, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5422,7 +5422,7 @@ func dataYamlCountriesZmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/zm.yaml", size: 1275, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/zm.yaml", size: 1275, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5442,7 +5442,7 @@ func dataYamlCountriesZwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/countries/zw.yaml", size: 2376, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/countries/zw.yaml", size: 2376, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5462,7 +5462,7 @@ func dataYamlSubdivisionsAdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ad.yaml", size: 2115, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ad.yaml", size: 2115, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5482,7 +5482,7 @@ func dataYamlSubdivisionsAeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ae.yaml", size: 2310, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ae.yaml", size: 2310, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5502,7 +5502,7 @@ func dataYamlSubdivisionsAfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/af.yaml", size: 10428, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/af.yaml", size: 10428, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5522,7 +5522,7 @@ func dataYamlSubdivisionsAgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ag.yaml", size: 2386, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ag.yaml", size: 2386, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5542,7 +5542,7 @@ func dataYamlSubdivisionsAlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/al.yaml", size: 10310, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/al.yaml", size: 10310, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5562,7 +5562,7 @@ func dataYamlSubdivisionsAmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/am.yaml", size: 3067, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/am.yaml", size: 3067, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5582,7 +5582,7 @@ func dataYamlSubdivisionsAoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ao.yaml", size: 5239, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ao.yaml", size: 5239, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5602,7 +5602,7 @@ func dataYamlSubdivisionsArYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ar.yaml", size: 7082, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ar.yaml", size: 7082, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5622,7 +5622,7 @@ func dataYamlSubdivisionsAtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/at.yaml", size: 2621, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/at.yaml", size: 2621, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5642,7 +5642,7 @@ func dataYamlSubdivisionsAuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/au.yaml", size: 2454, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/au.yaml", size: 2454, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5662,7 +5662,7 @@ func dataYamlSubdivisionsAzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/az.yaml", size: 22107, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/az.yaml", size: 22107, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5682,7 +5682,7 @@ func dataYamlSubdivisionsBaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ba.yaml", size: 639, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ba.yaml", size: 639, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5702,7 +5702,7 @@ func dataYamlSubdivisionsBbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bb.yaml", size: 3328, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bb.yaml", size: 3328, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5722,7 +5722,7 @@ func dataYamlSubdivisionsBdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bd.yaml", size: 19143, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bd.yaml", size: 19143, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5742,7 +5742,7 @@ func dataYamlSubdivisionsBeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/be.yaml", size: 3614, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/be.yaml", size: 3614, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5762,7 +5762,7 @@ func dataYamlSubdivisionsBfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bf.yaml", size: 13056, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bf.yaml", size: 13056, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5782,7 +5782,7 @@ func dataYamlSubdivisionsBgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bg.yaml", size: 8125, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bg.yaml", size: 8125, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5802,7 +5802,7 @@ func dataYamlSubdivisionsBhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bh.yaml", size: 1660, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bh.yaml", size: 1660, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5822,7 +5822,7 @@ func dataYamlSubdivisionsBiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bi.yaml", size: 4594, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bi.yaml", size: 4594, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5842,7 +5842,7 @@ func dataYamlSubdivisionsBjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bj.yaml", size: 3404, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bj.yaml", size: 3404, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5862,7 +5862,7 @@ func dataYamlSubdivisionsBnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bn.yaml", size: 1127, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bn.yaml", size: 1127, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5882,7 +5882,7 @@ func dataYamlSubdivisionsBoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bo.yaml", size: 2608, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bo.yaml", size: 2608, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5902,7 +5902,7 @@ func dataYamlSubdivisionsBrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/br.yaml", size: 8006, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/br.yaml", size: 8006, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5922,7 +5922,7 @@ func dataYamlSubdivisionsBsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bs.yaml", size: 6297, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bs.yaml", size: 6297, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5942,7 +5942,7 @@ func dataYamlSubdivisionsBtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bt.yaml", size: 6146, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bt.yaml", size: 6146, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5962,7 +5962,7 @@ func dataYamlSubdivisionsBwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bw.yaml", size: 2652, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bw.yaml", size: 2652, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -5982,7 +5982,7 @@ func dataYamlSubdivisionsByYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/by.yaml", size: 3032, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/by.yaml", size: 3032, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6002,7 +6002,7 @@ func dataYamlSubdivisionsBzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/bz.yaml", size: 1742, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/bz.yaml", size: 1742, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6022,7 +6022,7 @@ func dataYamlSubdivisionsCaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ca.yaml", size: 3952, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ca.yaml", size: 3952, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6042,7 +6042,7 @@ func dataYamlSubdivisionsCdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cd.yaml", size: 3243, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cd.yaml", size: 3243, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6062,7 +6062,7 @@ func dataYamlSubdivisionsCfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cf.yaml", size: 5017, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cf.yaml", size: 5017, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6082,7 +6082,7 @@ func dataYamlSubdivisionsCgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cg.yaml", size: 3205, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cg.yaml", size: 3205, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6102,7 +6102,7 @@ func dataYamlSubdivisionsChYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ch.yaml", size: 7731, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ch.yaml", size: 7731, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6122,7 +6122,7 @@ func dataYamlSubdivisionsCiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ci.yaml", size: 6042, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ci.yaml", size: 6042, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6142,7 +6142,7 @@ func dataYamlSubdivisionsClYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cl.yaml", size: 4669, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cl.yaml", size: 4669, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6162,7 +6162,7 @@ func dataYamlSubdivisionsCmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cm.yaml", size: 2867, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cm.yaml", size: 2867, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6182,7 +6182,7 @@ func dataYamlSubdivisionsCnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cn.yaml", size: 9910, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cn.yaml", size: 9910, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6202,7 +6202,7 @@ func dataYamlSubdivisionsCoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/co.yaml", size: 9579, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/co.yaml", size: 9579, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6222,7 +6222,7 @@ func dataYamlSubdivisionsCrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cr.yaml", size: 2019, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cr.yaml", size: 2019, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6242,7 +6242,7 @@ func dataYamlSubdivisionsCuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cu.yaml", size: 5087, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cu.yaml", size: 5087, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6262,7 +6262,7 @@ func dataYamlSubdivisionsCvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cv.yaml", size: 5001, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cv.yaml", size: 5001, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6282,7 +6282,7 @@ func dataYamlSubdivisionsCyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cy.yaml", size: 1738, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cy.yaml", size: 1738, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6302,7 +6302,7 @@ func dataYamlSubdivisionsCzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/cz.yaml", size: 4363, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/cz.yaml", size: 4363, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6322,7 +6322,7 @@ func dataYamlSubdivisionsDeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/de.yaml", size: 4887, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/de.yaml", size: 4887, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6342,7 +6342,7 @@ func dataYamlSubdivisionsDjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/dj.yaml", size: 1776, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/dj.yaml", size: 1776, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6362,7 +6362,7 @@ func dataYamlSubdivisionsDkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/dk.yaml", size: 6145, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/dk.yaml", size: 6145, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6382,7 +6382,7 @@ func dataYamlSubdivisionsDmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/dm.yaml", size: 3010, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/dm.yaml", size: 3010, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6402,7 +6402,7 @@ func dataYamlSubdivisionsDoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/do.yaml", size: 9324, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/do.yaml", size: 9324, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6422,7 +6422,7 @@ func dataYamlSubdivisionsDzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/dz.yaml", size: 14577, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/dz.yaml", size: 14577, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6442,7 +6442,7 @@ func dataYamlSubdivisionsEcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ec.yaml", size: 7017, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ec.yaml", size: 7017, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6462,7 +6462,7 @@ func dataYamlSubdivisionsEeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ee.yaml", size: 4417, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ee.yaml", size: 4417, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6482,7 +6482,7 @@ func dataYamlSubdivisionsEgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/eg.yaml", size: 8906, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/eg.yaml", size: 8906, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6502,7 +6502,7 @@ func dataYamlSubdivisionsEhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/eh.yaml", size: 1427, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/eh.yaml", size: 1427, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6522,7 +6522,7 @@ func dataYamlSubdivisionsErYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/er.yaml", size: 1865, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/er.yaml", size: 1865, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6542,7 +6542,7 @@ func dataYamlSubdivisionsEsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/es.yaml", size: 15183, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/es.yaml", size: 15183, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6562,7 +6562,7 @@ func dataYamlSubdivisionsEtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/et.yaml", size: 3241, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/et.yaml", size: 3241, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6582,7 +6582,7 @@ func dataYamlSubdivisionsFiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/fi.yaml", size: 1732, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/fi.yaml", size: 1732, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6602,7 +6602,7 @@ func dataYamlSubdivisionsFjYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/fj.yaml", size: 1455, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/fj.yaml", size: 1455, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6622,7 +6622,7 @@ func dataYamlSubdivisionsFmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/fm.yaml", size: 1149, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/fm.yaml", size: 1149, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6642,7 +6642,7 @@ func dataYamlSubdivisionsFrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/fr.yaml", size: 29675, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/fr.yaml", size: 29675, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6662,7 +6662,7 @@ func dataYamlSubdivisionsGaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ga.yaml", size: 2687, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ga.yaml", size: 2687, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6682,7 +6682,7 @@ func dataYamlSubdivisionsGbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gb.yaml", size: 68224, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gb.yaml", size: 68224, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6702,7 +6702,7 @@ func dataYamlSubdivisionsGdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gd.yaml", size: 2139, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gd.yaml", size: 2139, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6722,7 +6722,7 @@ func dataYamlSubdivisionsGeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ge.yaml", size: 3613, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ge.yaml", size: 3613, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6742,7 +6742,7 @@ func dataYamlSubdivisionsGhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gh.yaml", size: 2907, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gh.yaml", size: 2907, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6762,7 +6762,7 @@ func dataYamlSubdivisionsGmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gm.yaml", size: 1782, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gm.yaml", size: 1782, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6782,7 +6782,7 @@ func dataYamlSubdivisionsGnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gn.yaml", size: 9747, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gn.yaml", size: 9747, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6802,7 +6802,7 @@ func dataYamlSubdivisionsGqYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gq.yaml", size: 2611, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gq.yaml", size: 2611, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6822,7 +6822,7 @@ func dataYamlSubdivisionsGrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gr.yaml", size: 15479, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gr.yaml", size: 15479, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6842,7 +6842,7 @@ func dataYamlSubdivisionsGtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gt.yaml", size: 6453, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gt.yaml", size: 6453, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6862,7 +6862,7 @@ func dataYamlSubdivisionsGwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gw.yaml", size: 2563, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gw.yaml", size: 2563, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6882,7 +6882,7 @@ func dataYamlSubdivisionsGyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/gy.yaml", size: 3126, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/gy.yaml", size: 3126, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6902,7 +6902,7 @@ func dataYamlSubdivisionsHnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/hn.yaml", size: 5292, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/hn.yaml", size: 5292, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6922,7 +6922,7 @@ func dataYamlSubdivisionsHrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/hr.yaml", size: 6609, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/hr.yaml", size: 6609, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6942,7 +6942,7 @@ func dataYamlSubdivisionsHtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ht.yaml", size: 2596, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ht.yaml", size: 2596, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6962,7 +6962,7 @@ func dataYamlSubdivisionsHuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/hu.yaml", size: 12595, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/hu.yaml", size: 12595, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -6982,7 +6982,7 @@ func dataYamlSubdivisionsIdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/id.yaml", size: 9922, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/id.yaml", size: 9922, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7002,7 +7002,7 @@ func dataYamlSubdivisionsIeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ie.yaml", size: 7603, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ie.yaml", size: 7603, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7022,7 +7022,7 @@ func dataYamlSubdivisionsIlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/il.yaml", size: 1824, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/il.yaml", size: 1824, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7042,7 +7042,7 @@ func dataYamlSubdivisionsInYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/in.yaml", size: 10532, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/in.yaml", size: 10532, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7062,7 +7062,7 @@ func dataYamlSubdivisionsIqYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/iq.yaml", size: 5347, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/iq.yaml", size: 5347, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7082,7 +7082,7 @@ func dataYamlSubdivisionsIrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ir.yaml", size: 9205, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ir.yaml", size: 9205, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7102,7 +7102,7 @@ func dataYamlSubdivisionsIsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/is.yaml", size: 2718, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/is.yaml", size: 2718, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7122,7 +7122,7 @@ func dataYamlSubdivisionsItYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/it.yaml", size: 31694, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/it.yaml", size: 31694, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7142,7 +7142,7 @@ func dataYamlSubdivisionsJmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/jm.yaml", size: 4162, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/jm.yaml", size: 4162, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7162,7 +7162,7 @@ func dataYamlSubdivisionsJoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/jo.yaml", size: 3295, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/jo.yaml", size: 3295, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7182,7 +7182,7 @@ func dataYamlSubdivisionsJpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/jp.yaml", size: 13695, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/jp.yaml", size: 13695, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7202,7 +7202,7 @@ func dataYamlSubdivisionsKeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ke.yaml", size: 2253, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ke.yaml", size: 2253, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7222,7 +7222,7 @@ func dataYamlSubdivisionsKgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kg.yaml", size: 2330, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kg.yaml", size: 2330, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7242,7 +7242,7 @@ func dataYamlSubdivisionsKhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kh.yaml", size: 8422, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kh.yaml", size: 8422, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7262,7 +7262,7 @@ func dataYamlSubdivisionsKiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ki.yaml", size: 996, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ki.yaml", size: 996, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7282,7 +7282,7 @@ func dataYamlSubdivisionsKmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/km.yaml", size: 941, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/km.yaml", size: 941, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7302,7 +7302,7 @@ func dataYamlSubdivisionsKnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kn.yaml", size: 4497, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kn.yaml", size: 4497, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7322,7 +7322,7 @@ func dataYamlSubdivisionsKpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kp.yaml", size: 4179, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kp.yaml", size: 4179, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7342,7 +7342,7 @@ func dataYamlSubdivisionsKrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kr.yaml", size: 5046, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kr.yaml", size: 5046, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7362,7 +7362,7 @@ func dataYamlSubdivisionsKwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kw.yaml", size: 1844, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kw.yaml", size: 1844, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7382,7 +7382,7 @@ func dataYamlSubdivisionsKzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/kz.yaml", size: 5855, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/kz.yaml", size: 5855, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7402,7 +7402,7 @@ func dataYamlSubdivisionsLaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/la.yaml", size: 5669, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/la.yaml", size: 5669, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7422,7 +7422,7 @@ func dataYamlSubdivisionsLbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/lb.yaml", size: 1681, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/lb.yaml", size: 1681, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7442,7 +7442,7 @@ func dataYamlSubdivisionsLiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/li.yaml", size: 2858, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/li.yaml", size: 2858, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7462,7 +7462,7 @@ func dataYamlSubdivisionsLkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/lk.yaml", size: 7386, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/lk.yaml", size: 7386, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7482,7 +7482,7 @@ func dataYamlSubdivisionsLrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/lr.yaml", size: 4343, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/lr.yaml", size: 4343, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7502,7 +7502,7 @@ func dataYamlSubdivisionsLsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ls.yaml", size: 2924, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ls.yaml", size: 2924, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7522,7 +7522,7 @@ func dataYamlSubdivisionsLtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/lt.yaml", size: 3024, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/lt.yaml", size: 3024, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7542,7 +7542,7 @@ func dataYamlSubdivisionsLuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/lu.yaml", size: 839, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/lu.yaml", size: 839, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7562,7 +7562,7 @@ func dataYamlSubdivisionsLvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/lv.yaml", size: 9150, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/lv.yaml", size: 9150, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7582,7 +7582,7 @@ func dataYamlSubdivisionsLyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ly.yaml", size: 9871, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ly.yaml", size: 9871, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7602,7 +7602,7 @@ func dataYamlSubdivisionsMaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ma.yaml", size: 18539, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ma.yaml", size: 18539, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7622,7 +7622,7 @@ func dataYamlSubdivisionsMdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/md.yaml", size: 3737, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/md.yaml", size: 3737, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7642,7 +7642,7 @@ func dataYamlSubdivisionsMeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/me.yaml", size: 6039, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/me.yaml", size: 6039, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7662,7 +7662,7 @@ func dataYamlSubdivisionsMgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mg.yaml", size: 1791, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mg.yaml", size: 1791, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7682,7 +7682,7 @@ func dataYamlSubdivisionsMhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mh.yaml", size: 6975, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mh.yaml", size: 6975, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7702,7 +7702,7 @@ func dataYamlSubdivisionsMkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mk.yaml", size: 24620, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mk.yaml", size: 24620, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7722,7 +7722,7 @@ func dataYamlSubdivisionsMlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ml.yaml", size: 2589, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ml.yaml", size: 2589, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7742,7 +7742,7 @@ func dataYamlSubdivisionsMmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mm.yaml", size: 4028, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mm.yaml", size: 4028, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7762,7 +7762,7 @@ func dataYamlSubdivisionsMnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mn.yaml", size: 6534, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mn.yaml", size: 6534, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7782,7 +7782,7 @@ func dataYamlSubdivisionsMrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mr.yaml", size: 4092, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mr.yaml", size: 4092, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7802,7 +7802,7 @@ func dataYamlSubdivisionsMtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mt.yaml", size: 19807, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mt.yaml", size: 19807, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7822,7 +7822,7 @@ func dataYamlSubdivisionsMuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mu.yaml", size: 5168, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mu.yaml", size: 5168, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7842,7 +7842,7 @@ func dataYamlSubdivisionsMvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mv.yaml", size: 7532, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mv.yaml", size: 7532, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7862,7 +7862,7 @@ func dataYamlSubdivisionsMwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mw.yaml", size: 7819, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mw.yaml", size: 7819, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7882,7 +7882,7 @@ func dataYamlSubdivisionsMxYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mx.yaml", size: 9422, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mx.yaml", size: 9422, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7902,7 +7902,7 @@ func dataYamlSubdivisionsMyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/my.yaml", size: 4781, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/my.yaml", size: 4781, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7922,7 +7922,7 @@ func dataYamlSubdivisionsMzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/mz.yaml", size: 3187, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/mz.yaml", size: 3187, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7942,7 +7942,7 @@ func dataYamlSubdivisionsNaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/na.yaml", size: 4087, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/na.yaml", size: 4087, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7962,7 +7962,7 @@ func dataYamlSubdivisionsNeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ne.yaml", size: 2274, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ne.yaml", size: 2274, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -7982,7 +7982,7 @@ func dataYamlSubdivisionsNgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ng.yaml", size: 10485, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ng.yaml", size: 10485, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8002,7 +8002,7 @@ func dataYamlSubdivisionsNiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ni.yaml", size: 5043, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ni.yaml", size: 5043, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8022,7 +8022,7 @@ func dataYamlSubdivisionsNlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/nl.yaml", size: 3509, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/nl.yaml", size: 3509, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8042,7 +8042,7 @@ func dataYamlSubdivisionsNoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/no.yaml", size: 6264, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/no.yaml", size: 6264, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8062,7 +8062,7 @@ func dataYamlSubdivisionsNpYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/np.yaml", size: 3932, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/np.yaml", size: 3932, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8082,7 +8082,7 @@ func dataYamlSubdivisionsNrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/nr.yaml", size: 4042, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/nr.yaml", size: 4042, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8102,7 +8102,7 @@ func dataYamlSubdivisionsNzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/nz.yaml", size: 5037, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/nz.yaml", size: 5037, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8122,7 +8122,7 @@ func dataYamlSubdivisionsOmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/om.yaml", size: 2668, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/om.yaml", size: 2668, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8142,7 +8142,7 @@ func dataYamlSubdivisionsPaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pa.yaml", size: 2884, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pa.yaml", size: 2884, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8162,7 +8162,7 @@ func dataYamlSubdivisionsPeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pe.yaml", size: 7619, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pe.yaml", size: 7619, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8182,7 +8182,7 @@ func dataYamlSubdivisionsPgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pg.yaml", size: 6073, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pg.yaml", size: 6073, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8202,7 +8202,7 @@ func dataYamlSubdivisionsPhYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ph.yaml", size: 24223, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ph.yaml", size: 24223, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8222,7 +8222,7 @@ func dataYamlSubdivisionsPkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pk.yaml", size: 2408, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pk.yaml", size: 2408, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8242,7 +8242,7 @@ func dataYamlSubdivisionsPlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pl.yaml", size: 5033, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pl.yaml", size: 5033, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8262,7 +8262,7 @@ func dataYamlSubdivisionsPtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pt.yaml", size: 5826, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pt.yaml", size: 5826, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8282,7 +8282,7 @@ func dataYamlSubdivisionsPwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/pw.yaml", size: 4625, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/pw.yaml", size: 4625, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8302,7 +8302,7 @@ func dataYamlSubdivisionsPyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/py.yaml", size: 5401, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/py.yaml", size: 5401, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8322,7 +8322,7 @@ func dataYamlSubdivisionsQaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/qa.yaml", size: 3034, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/qa.yaml", size: 3034, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8342,7 +8342,7 @@ func dataYamlSubdivisionsRoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ro.yaml", size: 12180, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ro.yaml", size: 12180, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8362,7 +8362,7 @@ func dataYamlSubdivisionsRsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/rs.yaml", size: 8635, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/rs.yaml", size: 8635, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8382,7 +8382,7 @@ func dataYamlSubdivisionsRuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ru.yaml", size: 27105, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ru.yaml", size: 27105, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8402,7 +8402,7 @@ func dataYamlSubdivisionsRwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/rw.yaml", size: 1450, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/rw.yaml", size: 1450, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8422,7 +8422,7 @@ func dataYamlSubdivisionsSaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sa.yaml", size: 3883, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sa.yaml", size: 3883, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8442,7 +8442,7 @@ func dataYamlSubdivisionsSbYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sb.yaml", size: 2972, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sb.yaml", size: 2972, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8462,7 +8462,7 @@ func dataYamlSubdivisionsScYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sc.yaml", size: 6899, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sc.yaml", size: 6899, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8482,7 +8482,7 @@ func dataYamlSubdivisionsSdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sd.yaml", size: 7864, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sd.yaml", size: 7864, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8502,7 +8502,7 @@ func dataYamlSubdivisionsSeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/se.yaml", size: 6395, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/se.yaml", size: 6395, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8522,7 +8522,7 @@ func dataYamlSubdivisionsSgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sg.yaml", size: 1472, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sg.yaml", size: 1472, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8542,7 +8542,7 @@ func dataYamlSubdivisionsSiYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/si.yaml", size: 56950, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/si.yaml", size: 56950, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8562,7 +8562,7 @@ func dataYamlSubdivisionsSkYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sk.yaml", size: 2445, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sk.yaml", size: 2445, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8582,7 +8582,7 @@ func dataYamlSubdivisionsSlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sl.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sl.yaml", size: 1192, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8602,7 +8602,7 @@ func dataYamlSubdivisionsSmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sm.yaml", size: 2667, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sm.yaml", size: 2667, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8622,7 +8622,7 @@ func dataYamlSubdivisionsSnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sn.yaml", size: 3197, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sn.yaml", size: 3197, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8642,7 +8642,7 @@ func dataYamlSubdivisionsSoYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/so.yaml", size: 5180, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/so.yaml", size: 5180, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8662,7 +8662,7 @@ func dataYamlSubdivisionsSrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sr.yaml", size: 2915, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sr.yaml", size: 2915, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8682,7 +8682,7 @@ func dataYamlSubdivisionsStYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/st.yaml", size: 580, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/st.yaml", size: 580, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8702,7 +8702,7 @@ func dataYamlSubdivisionsSvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sv.yaml", size: 4114, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sv.yaml", size: 4114, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8722,7 +8722,7 @@ func dataYamlSubdivisionsSyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sy.yaml", size: 4259, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sy.yaml", size: 4259, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8742,7 +8742,7 @@ func dataYamlSubdivisionsSzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/sz.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/sz.yaml", size: 1165, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8762,7 +8762,7 @@ func dataYamlSubdivisionsTdYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/td.yaml", size: 5300, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/td.yaml", size: 5300, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8782,7 +8782,7 @@ func dataYamlSubdivisionsTfYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tf.yaml", size: 1146, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tf.yaml", size: 1146, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8802,7 +8802,7 @@ func dataYamlSubdivisionsTgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tg.yaml", size: 1439, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tg.yaml", size: 1439, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8822,7 +8822,7 @@ func dataYamlSubdivisionsThYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/th.yaml", size: 22869, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/th.yaml", size: 22869, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8842,7 +8842,7 @@ func dataYamlSubdivisionsTlYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tl.yaml", size: 3760, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tl.yaml", size: 3760, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8862,7 +8862,7 @@ func dataYamlSubdivisionsTmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tm.yaml", size: 1820, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tm.yaml", size: 1820, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8882,7 +8882,7 @@ func dataYamlSubdivisionsTnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tn.yaml", size: 7276, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tn.yaml", size: 7276, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8902,7 +8902,7 @@ func dataYamlSubdivisionsToYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/to.yaml", size: 1498, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/to.yaml", size: 1498, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8922,7 +8922,7 @@ func dataYamlSubdivisionsTrYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tr.yaml", size: 23220, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tr.yaml", size: 23220, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8942,7 +8942,7 @@ func dataYamlSubdivisionsTtYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tt.yaml", size: 4849, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tt.yaml", size: 4849, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8962,7 +8962,7 @@ func dataYamlSubdivisionsTvYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tv.yaml", size: 2223, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tv.yaml", size: 2223, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -8982,7 +8982,7 @@ func dataYamlSubdivisionsTwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tw.yaml", size: 6717, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tw.yaml", size: 6717, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9002,7 +9002,7 @@ func dataYamlSubdivisionsTzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/tz.yaml", size: 7582, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/tz.yaml", size: 7582, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9022,7 +9022,7 @@ func dataYamlSubdivisionsUaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ua.yaml", size: 9011, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ua.yaml", size: 9011, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9042,7 +9042,7 @@ func dataYamlSubdivisionsUgYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ug.yaml", size: 22859, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ug.yaml", size: 22859, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9062,7 +9062,7 @@ func dataYamlSubdivisionsUmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/um.yaml", size: 2709, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/um.yaml", size: 2709, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9082,7 +9082,7 @@ func dataYamlSubdivisionsUsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/us.yaml", size: 17451, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/us.yaml", size: 17451, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9102,7 +9102,7 @@ func dataYamlSubdivisionsUyYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/uy.yaml", size: 4710, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/uy.yaml", size: 4710, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9122,7 +9122,7 @@ func dataYamlSubdivisionsUzYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/uz.yaml", size: 4552, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/uz.yaml", size: 4552, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9142,7 +9142,7 @@ func dataYamlSubdivisionsVcYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/vc.yaml", size: 1769, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/vc.yaml", size: 1769, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9162,7 +9162,7 @@ func dataYamlSubdivisionsVeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ve.yaml", size: 7234, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ve.yaml", size: 7234, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9182,7 +9182,7 @@ func dataYamlSubdivisionsVnYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/vn.yaml", size: 18899, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/vn.yaml", size: 18899, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9202,7 +9202,7 @@ func dataYamlSubdivisionsVuYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/vu.yaml", size: 1907, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/vu.yaml", size: 1907, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9222,7 +9222,7 @@ func dataYamlSubdivisionsWsYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ws.yaml", size: 3295, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ws.yaml", size: 3295, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9242,7 +9242,7 @@ func dataYamlSubdivisionsYeYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/ye.yaml", size: 5617, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/ye.yaml", size: 5617, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9262,7 +9262,7 @@ func dataYamlSubdivisionsZaYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/za.yaml", size: 2679, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/za.yaml", size: 2679, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9282,7 +9282,7 @@ func dataYamlSubdivisionsZmYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/zm.yaml", size: 2650, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/zm.yaml", size: 2650, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -9302,7 +9302,7 @@ func dataYamlSubdivisionsZwYaml() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "data/yaml/subdivisions/zw.yaml", size: 3021, mode: os.FileMode(493), modTime: time.Unix(1501362988, 0)}
+	info := bindataFileInfo{name: "data/yaml/subdivisions/zw.yaml", size: 3021, mode: os.FileMode(493), modTime: time.Unix(1518096015, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }

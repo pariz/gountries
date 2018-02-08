@@ -1,0 +1,72 @@
+name:
+  common: Brazil
+  official: Federative Republic of Brazil
+  native:
+    por:
+      common: Brasil
+      official: República Federativa do Brasil
+eumember: false
+landlocked: false
+nationality: ""
+tlds:
+- .br
+languages:
+  por: Portuguese
+translations:
+  DEU:
+    common: Brasilien
+    official: Föderative Republik Brasilien
+  FRA:
+    common: Brésil
+    official: République fédérative du Brésil
+  ITA:
+    common: Brasile
+    official: Repubblica federativa del Brasile
+  JPN:
+    common: ブラジル
+    official: ブラジル連邦共和国
+  NLD:
+    common: Brazilië
+    official: Federale Republiek Brazilië
+  RUS:
+    common: Бразилия
+    official: Федеративная Республика Бразилия
+  SPA:
+    common: Brasil
+    official: República Federativa de Brasil
+currencies:
+- BRL
+borders:
+- ARG
+- BOL
+- COL
+- GUF
+- GUY
+- PRY
+- PER
+- SUR
+- URY
+- VEN
+codes:
+  alpha2: BR
+  alpha3: BRA
+  cioc: BRA
+  ccn3: "076"
+  callingcodes:
+  - "55"
+  internationalprefix: "0014"
+geo:
+  region: Americas
+  subregion: South America
+  continent: South America
+  capital: Brasília
+  area: 8.515767e+06
+coordinates:
+  longitudestring: 55 00 W
+  latitudestring: 10 00 S
+  minlongitude: -73.75
+  minlatitude: -33.733334
+  maxlongitude: -28.85
+  maxlatitude: 5.266667
+  latitude: -10.8104515
+  longitude: -52.973118

@@ -1,0 +1,77 @@
+name:
+  common: Germany
+  official: Federal Republic of Germany
+  native:
+    deu:
+      common: Deutschland
+      official: Bundesrepublik Deutschland
+eumember: true
+landlocked: false
+nationality: ""
+tlds:
+- .de
+languages:
+  deu: German
+translations:
+  DEU:
+    common: Deutschland
+    official: Bundesrepublik Deutschland
+  FIN:
+    common: Saksa
+    official: Saksan liittotasavalta
+  FRA:
+    common: Allemagne
+    official: République fédérale d'Allemagne
+  HRV:
+    common: Njemačka
+    official: Njemačka Federativna Republika
+  ITA:
+    common: Germania
+    official: Repubblica federale di Germania
+  JPN:
+    common: ドイツ
+    official: ドイツ連邦共和国
+  NLD:
+    common: Duitsland
+    official: Bondsrepubliek Duitsland
+  POR:
+    common: Alemanha
+    official: República Federal da Alemanha
+  SPA:
+    common: Alemania
+    official: República Federal de Alemania
+currencies:
+- EUR
+borders:
+- AUT
+- BEL
+- CZE
+- DNK
+- FRA
+- LUX
+- NLD
+- POL
+- CHE
+codes:
+  alpha2: DE
+  alpha3: DEU
+  cioc: GER
+  ccn3: "276"
+  callingcodes:
+  - "49"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Western Europe
+  continent: Europe
+  capital: Berlin
+  area: 357114
+coordinates:
+  longitudestring: 9 00 E
+  latitudestring: 51 00 N
+  minlongitude: 5.9
+  minlatitude: 47.266666
+  maxlongitude: 15.033333
+  maxlatitude: 55.05
+  latitude: 51.202465
+  longitude: 10.382203
