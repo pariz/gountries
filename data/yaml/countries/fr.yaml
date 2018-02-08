@@ -34,6 +34,9 @@ translations:
   RUS:
     common: Франция
     official: Французская Республика
+  SPA:
+    common: Francia
+    official: República francesa
 currencies:
 - EUR
 borders:
