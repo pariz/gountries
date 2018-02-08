@@ -31,6 +31,9 @@ translations:
   RUS:
     common: Бразилия
     official: Федеративная Республика Бразилия
+  SPA:
+    common: Brasil
+    official: República Federativa de Brasil
 currencies:
 - BRL
 borders:

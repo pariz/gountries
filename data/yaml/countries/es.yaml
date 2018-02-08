@@ -50,6 +50,9 @@ translations:
   POR:
     common: Espanha
     official: Reino de Espanha
+  SPA:
+    common: España
+    official: Reino de España
 currencies:
 - EUR
 borders:
