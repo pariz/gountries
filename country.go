@@ -59,17 +59,7 @@ func (c *Country) BorderingCountries() (countries []Country) {
 
 // SubDivisions returns the subdivisions for the given Country
 func (c *Country) SubDivisions() (subdivisions []SubDivision) {
-
-	query := New()
-
-	if res := query.Subdivisions[strings.ToLower(c.Alpha2)]; res != nil {
-
-		subdivisions = res
-
-	}
-
-	return
-
+	return c.subdivisions
 }
 
 // Codes contains various code representations
