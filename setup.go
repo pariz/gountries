@@ -33,6 +33,15 @@ func NewFromPath(dataPath string) *Query {
 		for k := range queryInstance.Countries {
 			c := queryInstance.Countries[k]
 			c.subdivisions = subdivisions[strings.ToLower(c.Alpha2)]
+			c.nameToSubdivision = map[string]SubDivision{}
+			c.codeToSubdivision = map[string]SubDivision{}
+			for _, s := range c.subdivisions {
+				for _, n := range s.Names {
+					c.nameToSubdivision[strings.ToLower(n)] = s
+				}
+				c.nameToSubdivision[strings.ToLower(s.Name)] = s
+				c.codeToSubdivision[strings.ToLower(s.Code)] = s
+			}
 			queryInstance.Countries[k] = c
 		}
 
