@@ -39,8 +39,10 @@ func populateNameIndex(countries map[string]Country) map[string]string {
 	for alpha2, country := range countries {
 		name := strings.ToLower(country.Name.Common)
 		officialName := strings.ToLower(country.Name.Official)
+		alternative := strings.ToLower(country.Name.Alternative)
 		index[name] = alpha2
 		index[officialName] = alpha2
+		index[alternative] = alpha2
 	}
 	return index
 }

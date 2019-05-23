@@ -7,6 +7,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
+	"log"
 )
 
 func TestFindCountryByName(t *testing.T) {
@@ -199,6 +200,17 @@ func TestFindCountriesBySubRegion(t *testing.T) {
 
 	assert.Len(t, countries, 8) // 8 is not the exact number of countries in Eastern Asia. Fix this later
 
+}
+
+func TestAlternativeName(t *testing.T) {
+
+	vg, err := query.FindCountryByName("Virgin Islands, British")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(vg)
 }
 
 func ExampleFindCountriesBorderingCountries() {
