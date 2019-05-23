@@ -210,7 +210,7 @@ func TestAlternativeName(t *testing.T) {
 		log.Fatal(err)
 	}
 
-	fmt.Println(vg)
+	assert.Equal(t, vg.Alpha3, "VGB")
 }
 
 func ExampleFindCountriesBorderingCountries() {
