@@ -28,6 +28,7 @@ func NewFromPath(dataPath string) *Query {
 		}
 		queryInstance.NameToAlpha2 = populateNameIndex(queryInstance.Countries)
 		queryInstance.Alpha3ToAlpha2 = populateAlphaIndex(queryInstance.Countries)
+		queryInstance.NativeNameToAlpha2 = populateNativeNameIndex(queryInstance.Countries)
 		queryInited = true
 	}
 
@@ -143,7 +144,7 @@ func populateSubdivisions(dataPath string) (list map[string][]SubDivision) {
 					if err := yaml.Unmarshal(file, &subdivisions); err == nil {
 
 						// Save
-						//subdivisions = append(subdivisions, subdivision...)
+						// subdivisions = append(subdivisions, subdivision...)
 						list[strings.Split(v.Name(), ".")[0]] = subdivisions
 					}
 
@@ -179,4 +180,17 @@ func populateSubdivisionsFromPackedData(fileList []string, path string) map[stri
 		sd[alpha2] = subdivisions
 	}
 	return sd
+}
+
+func populateNativeNameIndex(countries map[string]Country) map[string]string {
+	index := make(map[string]string)
+	for alpha2, country := range countries {
+		for _, nativeNames := range country.Name.Native {
+			nativeName := strings.ToLower(nativeNames.Common)
+			officialNativeName := strings.ToLower(nativeNames.Official)
+			index[nativeName] = alpha2
+			index[officialNativeName] = alpha2
+		}
+	}
+	return index
 }

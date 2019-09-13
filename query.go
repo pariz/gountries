@@ -10,10 +10,11 @@ var queryInstance *Query
 
 // Query contains queries for countries, cities, etc.
 type Query struct {
-	Countries      map[string]Country
-	Subdivisions   map[string][]SubDivision
-	NameToAlpha2   map[string]string
-	Alpha3ToAlpha2 map[string]string
+	Countries          map[string]Country
+	Subdivisions       map[string][]SubDivision
+	NameToAlpha2       map[string]string
+	Alpha3ToAlpha2     map[string]string
+	NativeNameToAlpha2 map[string]string
 }
 
 // FindCountryByName fincs a country by given name
@@ -22,6 +23,16 @@ func (q *Query) FindCountryByName(name string) (result Country, err error) {
 	alpha2, exists := q.NameToAlpha2[lowerName]
 	if !exists {
 		return Country{}, makeError("Could not find country with name", name)
+	}
+	return q.Countries[alpha2], nil
+}
+
+// FindCountryByNativeName
+func (q *Query) FindCountryByNativeName(name string) (result Country, err error) {
+	lowerName := strings.ToLower(name)
+	alpha2, exists := q.NativeNameToAlpha2[lowerName]
+	if !exists {
+		return Country{}, makeError("Could not find country with native name", name)
 	}
 	return q.Countries[alpha2], nil
 }

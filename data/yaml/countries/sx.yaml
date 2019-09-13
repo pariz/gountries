@@ -5,9 +5,6 @@ name:
     eng:
       common: Sint Maarten
       official: Sint Maarten
-    fra:
-      common: Saint-Martin
-      official: Saint-Martin
     nld:
       common: Sint Maarten
       official: Sint Maarten
@@ -18,7 +15,6 @@ tlds:
 - .sx
 languages:
   eng: English
-  fra: French
   nld: Dutch
 translations:
   DEU:

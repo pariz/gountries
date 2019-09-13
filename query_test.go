@@ -201,6 +201,72 @@ func TestFindCountriesBySubRegion(t *testing.T) {
 
 }
 
+func TestFindCountryByNativeName(t *testing.T) {
+
+	var result Country
+	var err error
+
+	// Test for common name
+	//
+
+	result, err = query.FindCountryByNativeName("Sverige")
+
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, result.Alpha2, "SE", "Common native country names should match")
+
+	// Test for common name
+	result, err = query.FindCountryByNativeName("Konungariket Sverige")
+
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, result.Alpha2, "SE", "Official native country names should match")
+
+	// Test for lowercase
+	//
+
+	result, err = query.FindCountryByNativeName("sverige")
+
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, result.Alpha2, "SE", "Uppercase native country names should match")
+
+	// Test for uppercase
+	//
+
+	result, err = query.FindCountryByNativeName("SVERIGE")
+
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, result.Alpha2, "SE", "Uppercase native country names should match")
+
+	// Test for invariants
+	//
+
+	invariants := []string{"sVEriGE", "SveRIge", "SVErige"}
+
+	for _, invariant := range invariants {
+
+		result, err = query.FindCountryByNativeName(invariant)
+
+		if err != nil {
+			t.Fail()
+		}
+
+		assert.Equal(t, result.Alpha2, "SE", fmt.Sprintf("Invariants of native country names, eg sVEriGE,SveRIge,SVErige should match. %s did not match", invariant))
+
+	}
+
+}
+
 func ExampleFindCountriesBorderingCountries() {
 
 	country := Country{}
