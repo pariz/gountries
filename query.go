@@ -11,7 +11,6 @@ var queryInstance *Query
 // Query contains queries for countries, cities, etc.
 type Query struct {
 	Countries      map[string]Country
-	Subdivisions   map[string][]SubDivision
 	NameToAlpha2   map[string]string
 	Alpha3ToAlpha2 map[string]string
 }
