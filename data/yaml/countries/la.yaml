@@ -1,3 +1,4 @@
+---
 name:
   common: Laos
   official: Lao People's Democratic Republic
@@ -7,9 +8,9 @@ name:
       official: ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Lao, Laotian
 tlds:
-- .la
+- ".la"
 languages:
   lao: Lao
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: LA
   alpha3: LAO
   cioc: LAO
-  ccn3: "418"
+  ccn3: '418'
   callingcodes:
-  - "856"
-  internationalprefix: "00"
+  - '856'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

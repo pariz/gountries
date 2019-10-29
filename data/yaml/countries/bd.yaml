@@ -1,3 +1,4 @@
+---
 name:
   common: Bangladesh
   official: People's Republic of Bangladesh
@@ -7,9 +8,9 @@ name:
       official: বাংলাদেশ গণপ্রজাতন্ত্রী
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bangladeshi
 tlds:
-- .bd
+- ".bd"
 languages:
   ben: Bengali
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: BD
   alpha3: BGD
   cioc: BAN
-  ccn3: "050"
+  ccn3: '050'
   callingcodes:
-  - "880"
-  internationalprefix: "00"
+  - '880'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia

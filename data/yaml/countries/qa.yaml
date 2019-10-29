@@ -1,3 +1,4 @@
+---
 name:
   common: Qatar
   official: State of Qatar
@@ -7,9 +8,9 @@ name:
       official: دولة قطر
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Qatari
 tlds:
-- .qa
+- ".qa"
 - قطر.
 languages:
   ara: Arabic
@@ -46,10 +47,10 @@ codes:
   alpha2: QA
   alpha3: QAT
   cioc: QAT
-  ccn3: "634"
+  ccn3: '634'
   callingcodes:
-  - "974"
-  internationalprefix: "00"
+  - '974'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

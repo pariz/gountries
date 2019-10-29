@@ -1,3 +1,4 @@
+---
 name:
   common: Portugal
   official: Portuguese Republic
@@ -7,9 +8,9 @@ name:
       official: República português
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Portuguese
 tlds:
-- .pt
+- ".pt"
 languages:
   por: Portuguese
 translations:
@@ -36,10 +37,10 @@ codes:
   alpha2: PT
   alpha3: PRT
   cioc: POR
-  ccn3: "620"
+  ccn3: '620'
   callingcodes:
-  - "351"
-  internationalprefix: "00"
+  - '351'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

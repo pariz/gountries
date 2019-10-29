@@ -1,3 +1,4 @@
+---
 name:
   common: Azerbaijan
   official: Republic of Azerbaijan
@@ -10,9 +11,9 @@ name:
       official: Азербайджанская Республика
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Azerbaijani, Azeri
 tlds:
-- .az
+- ".az"
 languages:
   aze: Azerbaijani
   rus: Russian
@@ -47,10 +48,10 @@ codes:
   alpha2: AZ
   alpha3: AZE
   cioc: AZE
-  ccn3: "031"
+  ccn3: '031'
   callingcodes:
-  - "994"
-  internationalprefix: "810"
+  - '994'
+  internationalprefix: '810'
 geo:
   region: Asia
   subregion: Western Asia

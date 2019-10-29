@@ -1,3 +1,4 @@
+---
 name:
   common: Trinidad and Tobago
   official: Republic of Trinidad and Tobago
@@ -7,9 +8,9 @@ name:
       official: Republic of Trinidad and Tobago
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Trinidadian or Tobagonian
 tlds:
-- .tt
+- ".tt"
 languages:
   eng: English
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: TT
   alpha3: TTO
   cioc: TTO
-  ccn3: "780"
+  ccn3: '780'
   callingcodes:
-  - "1868"
-  internationalprefix: "011"
+  - '1868'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

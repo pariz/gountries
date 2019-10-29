@@ -1,3 +1,4 @@
+---
 name:
   common: Angola
   official: Republic of Angola
@@ -7,9 +8,9 @@ name:
       official: República de Angola
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Angolan
 tlds:
-- .ao
+- ".ao"
 languages:
   por: Portuguese
 translations:
@@ -45,16 +46,16 @@ codes:
   alpha2: AO
   alpha3: AGO
   cioc: ANG
-  ccn3: "024"
+  ccn3: '024'
   callingcodes:
-  - "244"
-  internationalprefix: "00"
+  - '244'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa
   continent: Africa
   capital: Luanda
-  area: 1.2467e+06
+  area: 1246700.0
 coordinates:
   longitudestring: 18 30 E
   latitudestring: 12 30 S

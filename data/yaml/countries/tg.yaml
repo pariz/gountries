@@ -1,3 +1,4 @@
+---
 name:
   common: Togo
   official: Togolese Republic
@@ -7,9 +8,9 @@ name:
       official: République togolaise
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Togolese
 tlds:
-- .tg
+- ".tg"
 languages:
   fra: French
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: TG
   alpha3: TGO
   cioc: TOG
-  ccn3: "768"
+  ccn3: '768'
   callingcodes:
-  - "228"
-  internationalprefix: "00"
+  - '228'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

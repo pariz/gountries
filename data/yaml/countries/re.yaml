@@ -1,3 +1,4 @@
+---
 name:
   common: Réunion
   official: Réunion Island
@@ -7,9 +8,9 @@ name:
       official: Ile de la Réunion
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Réunionese, Réunionnais
 tlds:
-- .re
+- ".re"
 languages:
   fra: French
 translations:
@@ -31,11 +32,11 @@ borders: []
 codes:
   alpha2: RE
   alpha3: REU
-  cioc: ""
-  ccn3: "638"
+  cioc: ''
+  ccn3: '638'
   callingcodes:
-  - "262"
-  internationalprefix: "00"
+  - '262'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa
@@ -43,8 +44,8 @@ geo:
   capital: Saint-Denis
   area: 2511
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: 55.216667
   minlatitude: -21.366667
   maxlongitude: 57

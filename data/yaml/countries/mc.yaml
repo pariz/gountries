@@ -1,3 +1,4 @@
+---
 name:
   common: Monaco
   official: Principality of Monaco
@@ -7,9 +8,9 @@ name:
       official: Principauté de Monaco
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Monégasque, Monacan
 tlds:
-- .mc
+- ".mc"
 languages:
   fra: French
 translations:
@@ -48,10 +49,10 @@ codes:
   alpha2: MC
   alpha3: MCO
   cioc: MON
-  ccn3: "492"
+  ccn3: '492'
   callingcodes:
-  - "377"
-  internationalprefix: "00"
+  - '377'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Western Europe

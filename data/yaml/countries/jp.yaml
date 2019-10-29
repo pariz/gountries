@@ -1,3 +1,4 @@
+---
 name:
   common: Japan
   official: Japan
@@ -7,10 +8,10 @@ name:
       official: 日本
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Japanese
 tlds:
-- .jp
-- .みんな
+- ".jp"
+- ".みんな"
 languages:
   jpn: Japanese
 translations:
@@ -39,10 +40,10 @@ codes:
   alpha2: JP
   alpha3: JPN
   cioc: JPN
-  ccn3: "392"
+  ccn3: '392'
   callingcodes:
-  - "81"
-  internationalprefix: "010"
+  - '81'
+  internationalprefix: '010'
 geo:
   region: Asia
   subregion: Eastern Asia

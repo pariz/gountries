@@ -1,3 +1,4 @@
+---
 name:
   common: United Arab Emirates
   official: United Arab Emirates
@@ -7,9 +8,9 @@ name:
       official: الإمارات العربية المتحدة
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Emirati, Emirian, Emiri
 tlds:
-- .ae
+- ".ae"
 - امارات.
 languages:
   ara: Arabic
@@ -41,10 +42,10 @@ codes:
   alpha2: AE
   alpha3: ARE
   cioc: UAE
-  ccn3: "784"
+  ccn3: '784'
   callingcodes:
-  - "971"
-  internationalprefix: "00"
+  - '971'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

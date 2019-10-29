@@ -1,3 +1,4 @@
+---
 name:
   common: Syria
   official: Syrian Arab Republic
@@ -7,9 +8,9 @@ name:
       official: الجمهورية العربية السورية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Syrian
 tlds:
-- .sy
+- ".sy"
 - سوريا.
 languages:
   ara: Arabic
@@ -41,10 +42,10 @@ codes:
   alpha2: SY
   alpha3: SYR
   cioc: SYR
-  ccn3: "760"
+  ccn3: '760'
   callingcodes:
-  - "963"
-  internationalprefix: "00"
+  - '963'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

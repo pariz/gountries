@@ -1,3 +1,4 @@
+---
 name:
   common: Zimbabwe
   official: Republic of Zimbabwe
@@ -49,9 +50,9 @@ name:
       official: Republic of Zimbabwe
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Zimbabwean
 tlds:
-- .zw
+- ".zw"
 languages:
   bwg: Chibarwe
   eng: English
@@ -101,10 +102,10 @@ codes:
   alpha2: ZW
   alpha3: ZWE
   cioc: ZIM
-  ccn3: "716"
+  ccn3: '716'
   callingcodes:
-  - "263"
-  internationalprefix: "00"
+  - '263'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

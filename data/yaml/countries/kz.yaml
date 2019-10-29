@@ -1,3 +1,4 @@
+---
 name:
   common: Kazakhstan
   official: Republic of Kazakhstan
@@ -10,10 +11,10 @@ name:
       official: Республика Казахстан
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Kazakhstani, Kazakh
 tlds:
-- .kz
-- .қаз
+- ".kz"
+- ".қаз"
 languages:
   kaz: Kazakh
   rus: Russian
@@ -48,17 +49,17 @@ codes:
   alpha2: KZ
   alpha3: KAZ
   cioc: KAZ
-  ccn3: "398"
+  ccn3: '398'
   callingcodes:
-  - "76"
-  - "77"
-  internationalprefix: "810"
+  - '76'
+  - '77'
+  internationalprefix: '810'
 geo:
   region: Asia
   subregion: Central Asia
   continent: Asia
   capital: Astana
-  area: 2.7249e+06
+  area: 2724900.0
 coordinates:
   longitudestring: 68 00 E
   latitudestring: 48 00 N

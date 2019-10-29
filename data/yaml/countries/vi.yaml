@@ -1,3 +1,4 @@
+---
 name:
   common: United States Virgin Islands
   official: Virgin Islands of the United States
@@ -7,9 +8,9 @@ name:
       official: Virgin Islands of the United States
 eumember: false
 landlocked: false
-nationality: ""
+nationality: U.S. Virgin Island
 tlds:
-- .vi
+- ".vi"
 languages:
   eng: English
 translations:
@@ -38,10 +39,10 @@ codes:
   alpha2: VI
   alpha3: VIR
   cioc: ISV
-  ccn3: "850"
+  ccn3: '850'
   callingcodes:
-  - "1340"
-  internationalprefix: "011"
+  - '1340'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean
@@ -49,8 +50,8 @@ geo:
   capital: Charlotte Amalie
   area: 347
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: -65.08628
   minlatitude: 17.68172
   maxlongitude: -64.56517

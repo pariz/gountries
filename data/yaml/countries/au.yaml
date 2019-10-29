@@ -1,3 +1,4 @@
+---
 name:
   common: Australia
   official: Commonwealth of Australia
@@ -7,9 +8,9 @@ name:
       official: Commonwealth of Australia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Australian
 tlds:
-- .au
+- ".au"
 languages:
   eng: English
 translations:
@@ -47,16 +48,16 @@ codes:
   alpha2: AU
   alpha3: AUS
   cioc: AUS
-  ccn3: "036"
+  ccn3: '036'
   callingcodes:
-  - "61"
-  internationalprefix: "0011"
+  - '61'
+  internationalprefix: '0011'
 geo:
   region: Oceania
   subregion: Australia and New Zealand
   continent: Australia
   capital: Canberra
-  area: 7.692024e+06
+  area: 7692024.0
 coordinates:
   longitudestring: 133 00 E
   latitudestring: 27 00 S

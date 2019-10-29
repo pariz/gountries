@@ -1,3 +1,4 @@
+---
 name:
   common: Mexico
   official: United Mexican States
@@ -7,9 +8,9 @@ name:
       official: Estados Unidos Mexicanos
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mexican
 tlds:
-- .mx
+- ".mx"
 languages:
   spa: Spanish
 translations:
@@ -44,16 +45,16 @@ codes:
   alpha2: MX
   alpha3: MEX
   cioc: MEX
-  ccn3: "484"
+  ccn3: '484'
   callingcodes:
-  - "52"
-  internationalprefix: "00"
+  - '52'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America
   continent: North America
   capital: Mexico City
-  area: 1.964375e+06
+  area: 1964375.0
 coordinates:
   longitudestring: 102 00 W
   latitudestring: 23 00 N

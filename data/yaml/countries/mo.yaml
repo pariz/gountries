@@ -1,3 +1,4 @@
+---
 name:
   common: Macau
   official: Macao Special Administrative Region of the People's Republic of China
@@ -10,9 +11,9 @@ name:
       official: 澳门特别行政区中国人民共和国
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Macanese, Chinese
 tlds:
-- .mo
+- ".mo"
 languages:
   por: Portuguese
   zho: Chinese
@@ -46,16 +47,16 @@ borders:
 codes:
   alpha2: MO
   alpha3: MAC
-  cioc: ""
-  ccn3: "446"
+  cioc: ''
+  ccn3: '446'
   callingcodes:
-  - "853"
-  internationalprefix: "00"
+  - '853'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Eastern Asia
   continent: Asia
-  capital: ""
+  capital: ''
   area: 30
 coordinates:
   longitudestring: 113 33 E

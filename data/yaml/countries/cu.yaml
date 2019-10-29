@@ -1,3 +1,4 @@
+---
 name:
   common: Cuba
   official: Republic of Cuba
@@ -7,9 +8,9 @@ name:
       official: República de Cuba
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cuban
 tlds:
-- .cu
+- ".cu"
 languages:
   spa: Spanish
 translations:
@@ -45,10 +46,10 @@ codes:
   alpha2: CU
   alpha3: CUB
   cioc: CUB
-  ccn3: "192"
+  ccn3: '192'
   callingcodes:
-  - "53"
-  internationalprefix: "119"
+  - '53'
+  internationalprefix: '119'
 geo:
   region: Americas
   subregion: Caribbean

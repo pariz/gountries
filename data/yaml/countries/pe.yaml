@@ -1,3 +1,4 @@
+---
 name:
   common: Peru
   official: Republic of Peru
@@ -13,9 +14,9 @@ name:
       official: República del Perú
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Peruvian
 tlds:
-- .pe
+- ".pe"
 languages:
   aym: Aymara
   que: Quechua
@@ -48,16 +49,16 @@ codes:
   alpha2: PE
   alpha3: PER
   cioc: PER
-  ccn3: "604"
+  ccn3: '604'
   callingcodes:
-  - "51"
-  internationalprefix: "00"
+  - '51'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America
   continent: South America
   capital: Lima
-  area: 1.285216e+06
+  area: 1285216.0
 coordinates:
   longitudestring: 76 00 W
   latitudestring: 10 00 S

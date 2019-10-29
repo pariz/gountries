@@ -1,3 +1,4 @@
+---
 name:
   common: Macedonia
   official: Republic of Macedonia
@@ -7,9 +8,9 @@ name:
       official: Република Македонија
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Macedonian
 tlds:
-- .mk
+- ".mk"
 languages:
   mkd: Macedonian
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: MK
   alpha3: MKD
   cioc: MKD
-  ccn3: "807"
+  ccn3: '807'
   callingcodes:
-  - "389"
-  internationalprefix: "00"
+  - '389'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

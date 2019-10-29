@@ -1,3 +1,4 @@
+---
 name:
   common: Iran
   official: Islamic Republic of Iran
@@ -7,9 +8,9 @@ name:
       official: جمهوری اسلامی ایران
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Iranian, Persian
 tlds:
-- .ir
+- ".ir"
 - ایران.
 languages:
   fas: Persian
@@ -40,16 +41,16 @@ codes:
   alpha2: IR
   alpha3: IRN
   cioc: IRI
-  ccn3: "364"
+  ccn3: '364'
   callingcodes:
-  - "98"
-  internationalprefix: "00"
+  - '98'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia
   continent: Asia
   capital: Tehran
-  area: 1.648195e+06
+  area: 1648195.0
 coordinates:
   longitudestring: 53 00 E
   latitudestring: 32 00 N

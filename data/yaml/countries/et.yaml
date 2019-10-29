@@ -1,3 +1,4 @@
+---
 name:
   common: Ethiopia
   official: Federal Democratic Republic of Ethiopia
@@ -7,9 +8,9 @@ name:
       official: የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Ethiopian
 tlds:
-- .et
+- ".et"
 languages:
   amh: Amharic
 translations:
@@ -47,16 +48,16 @@ codes:
   alpha2: ET
   alpha3: ETH
   cioc: ETH
-  ccn3: "231"
+  ccn3: '231'
   callingcodes:
-  - "251"
-  internationalprefix: "00"
+  - '251'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa
   continent: Africa
   capital: Addis Ababa
-  area: 1.1043e+06
+  area: 1104300.0
 coordinates:
   longitudestring: 38 00 E
   latitudestring: 8 00 N

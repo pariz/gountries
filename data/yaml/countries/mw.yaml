@@ -1,3 +1,4 @@
+---
 name:
   common: Malawi
   official: Republic of Malawi
@@ -10,9 +11,9 @@ name:
       official: Chalo cha Malawi, Dziko la Malaŵi
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Malawian
 tlds:
-- .mw
+- ".mw"
 languages:
   eng: English
   nya: Chewa
@@ -45,10 +46,10 @@ codes:
   alpha2: MW
   alpha3: MWI
   cioc: MAW
-  ccn3: "454"
+  ccn3: '454'
   callingcodes:
-  - "265"
-  internationalprefix: "00"
+  - '265'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

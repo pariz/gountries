@@ -1,3 +1,4 @@
+---
 name:
   common: Chile
   official: Republic of Chile
@@ -7,9 +8,9 @@ name:
       official: República de Chile
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Chilean
 tlds:
-- .cl
+- ".cl"
 languages:
   spa: Spanish
 translations:
@@ -51,10 +52,10 @@ codes:
   alpha2: CL
   alpha3: CHL
   cioc: CHI
-  ccn3: "152"
+  ccn3: '152'
   callingcodes:
-  - "56"
-  internationalprefix: "00"
+  - '56'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America

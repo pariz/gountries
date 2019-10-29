@@ -1,3 +1,4 @@
+---
 name:
   common: Nauru
   official: Republic of Nauru
@@ -10,9 +11,9 @@ name:
       official: Republic of Nauru
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Nauruan
 tlds:
-- .nr
+- ".nr"
 languages:
   eng: English
   nau: Nauru
@@ -48,10 +49,10 @@ codes:
   alpha2: NR
   alpha3: NRU
   cioc: NRU
-  ccn3: "520"
+  ccn3: '520'
   callingcodes:
-  - "674"
-  internationalprefix: "00"
+  - '674'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Micronesia

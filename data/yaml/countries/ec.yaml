@@ -1,3 +1,4 @@
+---
 name:
   common: Ecuador
   official: Republic of Ecuador
@@ -7,9 +8,9 @@ name:
       official: República del Ecuador
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ecuadorian
 tlds:
-- .ec
+- ".ec"
 languages:
   spa: Spanish
 translations:
@@ -40,10 +41,10 @@ codes:
   alpha2: EC
   alpha3: ECU
   cioc: ECU
-  ccn3: "218"
+  ccn3: '218'
   callingcodes:
-  - "593"
-  internationalprefix: "00"
+  - '593'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America

@@ -1,3 +1,4 @@
+---
 name:
   common: Cambodia
   official: Kingdom of Cambodia
@@ -7,9 +8,9 @@ name:
       official: ព្រះរាជាណាចក្រកម្ពុជា
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cambodian
 tlds:
-- .kh
+- ".kh"
 languages:
   khm: Khmer
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: KH
   alpha3: KHM
   cioc: CAM
-  ccn3: "116"
+  ccn3: '116'
   callingcodes:
-  - "855"
-  internationalprefix: "00"
+  - '855'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

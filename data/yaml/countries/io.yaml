@@ -1,3 +1,4 @@
+---
 name:
   common: British Indian Ocean Territory
   official: British Indian Ocean Territory
@@ -7,9 +8,9 @@ name:
       official: British Indian Ocean Territory
 eumember: false
 landlocked: false
-nationality: ""
+nationality: BIOT
 tlds:
-- .io
+- ".io"
 languages:
   eng: English
 translations:
@@ -43,11 +44,11 @@ borders: []
 codes:
   alpha2: IO
   alpha3: IOT
-  cioc: ""
-  ccn3: "086"
+  cioc: ''
+  ccn3: '086'
   callingcodes:
-  - "246"
-  internationalprefix: ""
+  - '246'
+  internationalprefix: ''
 geo:
   region: Africa
   subregion: Eastern Africa

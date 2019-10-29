@@ -1,3 +1,4 @@
+---
 name:
   common: Bosnia and Herzegovina
   official: Bosnia and Herzegovina
@@ -13,9 +14,9 @@ name:
       official: Боснa и Херцеговина
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bosnian or Herzegovinian
 tlds:
-- .ba
+- ".ba"
 languages:
   bos: Bosnian
   hrv: Croatian
@@ -58,10 +59,10 @@ codes:
   alpha2: BA
   alpha3: BIH
   cioc: BIH
-  ccn3: "070"
+  ccn3: '070'
   callingcodes:
-  - "387"
-  internationalprefix: "00"
+  - '387'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

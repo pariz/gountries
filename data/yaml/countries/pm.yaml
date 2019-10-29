@@ -1,3 +1,4 @@
+---
 name:
   common: Saint Pierre and Miquelon
   official: Saint Pierre and Miquelon
@@ -7,9 +8,9 @@ name:
       official: Collectivité territoriale de Saint-Pierre-et-Miquelon
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saint-Pierrais or Miquelonnais
 tlds:
-- .pm
+- ".pm"
 languages:
   fra: French
 translations:
@@ -37,11 +38,11 @@ borders: []
 codes:
   alpha2: PM
   alpha3: SPM
-  cioc: ""
-  ccn3: "666"
+  cioc: ''
+  ccn3: '666'
   callingcodes:
-  - "508"
-  internationalprefix: "00"
+  - '508'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Northern America

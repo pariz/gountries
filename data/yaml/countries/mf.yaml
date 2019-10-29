@@ -1,3 +1,4 @@
+---
 name:
   common: Saint Martin
   official: Saint Martin
@@ -7,10 +8,10 @@ name:
       official: Saint-Martin
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saint-Martinoise
 tlds:
-- .fr
-- .gp
+- ".fr"
+- ".gp"
 languages:
   fra: French
 translations:
@@ -42,11 +43,11 @@ borders:
 codes:
   alpha2: MF
   alpha3: MAF
-  cioc: ""
-  ccn3: "663"
+  cioc: ''
+  ccn3: '663'
   callingcodes:
-  - "590"
-  internationalprefix: ""
+  - '590'
+  internationalprefix: ''
 geo:
   region: Americas
   subregion: Caribbean

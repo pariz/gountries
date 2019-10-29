@@ -1,3 +1,4 @@
+---
 name:
   common: Finland
   official: Republic of Finland
@@ -10,9 +11,9 @@ name:
       official: Republiken Finland
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Finnish
 tlds:
-- .fi
+- ".fi"
 languages:
   fin: Finnish
   swe: Swedish
@@ -51,10 +52,10 @@ codes:
   alpha2: FI
   alpha3: FIN
   cioc: FIN
-  ccn3: "246"
+  ccn3: '246'
   callingcodes:
-  - "358"
-  internationalprefix: "00"
+  - '358'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

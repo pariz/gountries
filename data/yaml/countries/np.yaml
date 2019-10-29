@@ -1,3 +1,4 @@
+---
 name:
   common: Nepal
   official: Federal Democratic Republic of Nepal
@@ -7,9 +8,9 @@ name:
       official: नेपाल संघीय लोकतान्त्रिक गणतन्त्र
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Nepali, Nepalese
 tlds:
-- .np
+- ".np"
 languages:
   nep: Nepali
 translations:
@@ -40,10 +41,10 @@ codes:
   alpha2: NP
   alpha3: NPL
   cioc: NEP
-  ccn3: "524"
+  ccn3: '524'
   callingcodes:
-  - "977"
-  internationalprefix: "00"
+  - '977'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia

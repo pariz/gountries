@@ -1,3 +1,4 @@
+---
 name:
   common: North Korea
   official: Democratic People's Republic of Korea
@@ -7,9 +8,9 @@ name:
       official: 조선 민주주의 인민 공화국
 eumember: false
 landlocked: false
-nationality: ""
+nationality: North Korean
 tlds:
-- .kp
+- ".kp"
 languages:
   kor: Korean
 translations:
@@ -47,10 +48,10 @@ codes:
   alpha2: KP
   alpha3: PRK
   cioc: PRK
-  ccn3: "408"
+  ccn3: '408'
   callingcodes:
-  - "850"
-  internationalprefix: "00"
+  - '850'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Eastern Asia

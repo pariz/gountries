@@ -1,3 +1,4 @@
+---
 name:
   common: Austria
   official: Republic of Austria
@@ -7,9 +8,9 @@ name:
       official: Republik Österreich
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Austrian
 tlds:
-- .at
+- ".at"
 languages:
   bar: Austro-Bavarian German
 translations:
@@ -49,10 +50,10 @@ codes:
   alpha2: AT
   alpha3: AUT
   cioc: AUT
-  ccn3: "040"
+  ccn3: '040'
   callingcodes:
-  - "43"
-  internationalprefix: "00"
+  - '43'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Western Europe

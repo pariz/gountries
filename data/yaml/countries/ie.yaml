@@ -1,3 +1,4 @@
+---
 name:
   common: Ireland
   official: Republic of Ireland
@@ -10,9 +11,9 @@ name:
       official: Poblacht na hÉireann
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Irish
 tlds:
-- .ie
+- ".ie"
 languages:
   eng: English
   gle: Irish
@@ -43,10 +44,10 @@ codes:
   alpha2: IE
   alpha3: IRL
   cioc: IRL
-  ccn3: "372"
+  ccn3: '372'
   callingcodes:
-  - "353"
-  internationalprefix: "00"
+  - '353'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

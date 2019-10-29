@@ -1,3 +1,4 @@
+---
 name:
   common: Comoros
   official: Union of the Comoros
@@ -13,9 +14,9 @@ name:
       official: Udzima wa Komori
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Comoran, Comorian
 tlds:
-- .km
+- ".km"
 languages:
   ara: Arabic
   fra: French
@@ -46,10 +47,10 @@ codes:
   alpha2: KM
   alpha3: COM
   cioc: COM
-  ccn3: "174"
+  ccn3: '174'
   callingcodes:
-  - "269"
-  internationalprefix: "00"
+  - '269'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

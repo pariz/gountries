@@ -1,3 +1,4 @@
+---
 name:
   common: Aruba
   official: Aruba
@@ -10,9 +11,9 @@ name:
       official: Aruba
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Aruban
 tlds:
-- .aw
+- ".aw"
 languages:
   nld: Dutch
   pap: Papiamento
@@ -45,10 +46,10 @@ codes:
   alpha2: AW
   alpha3: ABW
   cioc: ARU
-  ccn3: "533"
+  ccn3: '533'
   callingcodes:
-  - "297"
-  internationalprefix: "00"
+  - '297'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Caribbean

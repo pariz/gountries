@@ -1,3 +1,4 @@
+---
 name:
   common: Somalia
   official: Federal Republic of Somalia
@@ -10,9 +11,9 @@ name:
       official: Jamhuuriyadda Federaalka Soomaaliya
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Somali, Somalian
 tlds:
-- .so
+- ".so"
 languages:
   ara: Arabic
   som: Somali
@@ -48,10 +49,10 @@ codes:
   alpha2: SO
   alpha3: SOM
   cioc: SOM
-  ccn3: "706"
+  ccn3: '706'
   callingcodes:
-  - "252"
-  internationalprefix: "00"
+  - '252'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

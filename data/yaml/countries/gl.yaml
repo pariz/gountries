@@ -1,3 +1,4 @@
+---
 name:
   common: Greenland
   official: Greenland
@@ -7,9 +8,9 @@ name:
       official: Kalaallit Nunaat
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Greenlandic
 tlds:
-- .gl
+- ".gl"
 languages:
   kal: Greenlandic
 translations:
@@ -40,17 +41,17 @@ borders: []
 codes:
   alpha2: GL
   alpha3: GRL
-  cioc: ""
-  ccn3: "304"
+  cioc: ''
+  ccn3: '304'
   callingcodes:
-  - "299"
-  internationalprefix: "009"
+  - '299'
+  internationalprefix: '009'
 geo:
   region: Americas
   subregion: Northern America
   continent: North America
   capital: Nuuk
-  area: 2.166086e+06
+  area: 2166086.0
 coordinates:
   longitudestring: 40 00 W
   latitudestring: 72 00 N

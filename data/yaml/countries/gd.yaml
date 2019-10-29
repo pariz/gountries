@@ -1,3 +1,4 @@
+---
 name:
   common: Grenada
   official: Grenada
@@ -7,9 +8,9 @@ name:
       official: Grenada
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Grenadian
 tlds:
-- .gd
+- ".gd"
 languages:
   eng: English
 translations:
@@ -38,10 +39,10 @@ codes:
   alpha2: GD
   alpha3: GRD
   cioc: GRN
-  ccn3: "308"
+  ccn3: '308'
   callingcodes:
-  - "1473"
-  internationalprefix: "011"
+  - '1473'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

@@ -1,3 +1,4 @@
+---
 name:
   common: Norway
   official: Kingdom of Norway
@@ -13,9 +14,9 @@ name:
       official: Norgga gonagasriika
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Norwegian
 tlds:
-- .no
+- ".no"
 languages:
   nno: Norwegian Nynorsk
   nob: Norwegian Bokmål
@@ -46,13 +47,13 @@ borders:
 - SWE
 - RUS
 codes:
-  alpha2: "NO"
+  alpha2: 'NO'
   alpha3: NOR
   cioc: NOR
-  ccn3: "578"
+  ccn3: '578'
   callingcodes:
-  - "47"
-  internationalprefix: "00"
+  - '47'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

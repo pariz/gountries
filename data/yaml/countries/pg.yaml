@@ -1,3 +1,4 @@
+---
 name:
   common: Papua New Guinea
   official: Independent State of Papua New Guinea
@@ -13,9 +14,9 @@ name:
       official: Independen Stet bilong Papua Niugini
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Papua New Guinean, Papuan
 tlds:
-- .pg
+- ".pg"
 languages:
   eng: English
   hmo: Hiri Motu
@@ -50,10 +51,10 @@ codes:
   alpha2: PG
   alpha3: PNG
   cioc: PNG
-  ccn3: "598"
+  ccn3: '598'
   callingcodes:
-  - "675"
-  internationalprefix: "05"
+  - '675'
+  internationalprefix: '05'
 geo:
   region: Oceania
   subregion: Melanesia

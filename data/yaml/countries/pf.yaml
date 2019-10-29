@@ -1,3 +1,4 @@
+---
 name:
   common: French Polynesia
   official: French Polynesia
@@ -7,9 +8,9 @@ name:
       official: Polynésie française
 eumember: false
 landlocked: false
-nationality: ""
+nationality: French Polynesian
 tlds:
-- .pf
+- ".pf"
 languages:
   fra: French
 translations:
@@ -40,11 +41,11 @@ borders: []
 codes:
   alpha2: PF
   alpha3: PYF
-  cioc: ""
-  ccn3: "258"
+  cioc: ''
+  ccn3: '258'
   callingcodes:
-  - "689"
-  internationalprefix: "00"
+  - '689'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

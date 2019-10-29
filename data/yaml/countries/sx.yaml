@@ -1,3 +1,4 @@
+---
 name:
   common: Sint Maarten
   official: Sint Maarten
@@ -13,9 +14,9 @@ name:
       official: Sint Maarten
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sint Maarten
 tlds:
-- .sx
+- ".sx"
 languages:
   eng: English
   fra: French
@@ -43,11 +44,11 @@ borders:
 codes:
   alpha2: SX
   alpha3: SXM
-  cioc: ""
-  ccn3: "534"
+  cioc: ''
+  ccn3: '534'
   callingcodes:
-  - "1721"
-  internationalprefix: "011"
+  - '1721'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean
@@ -55,8 +56,8 @@ geo:
   capital: Philipsburg
   area: 34
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: -63.137978
   minlatitude: 18.005266
   maxlongitude: -62.998245

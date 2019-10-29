@@ -1,3 +1,4 @@
+---
 name:
   common: South Sudan
   official: Republic of South Sudan
@@ -7,9 +8,9 @@ name:
       official: Republic of South Sudan
 eumember: false
 landlocked: true
-nationality: ""
+nationality: South Sudanese
 tlds:
-- .ss
+- ".ss"
 languages:
   eng: English
 translations:
@@ -46,11 +47,11 @@ borders:
 codes:
   alpha2: SS
   alpha3: SSD
-  cioc: ""
-  ccn3: "728"
+  cioc: ''
+  ccn3: '728'
   callingcodes:
-  - "211"
-  internationalprefix: "0"
+  - '211'
+  internationalprefix: '0'
 geo:
   region: Africa
   subregion: Middle Africa

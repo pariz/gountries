@@ -1,3 +1,4 @@
+---
 name:
   common: South Korea
   official: Republic of Korea
@@ -7,10 +8,10 @@ name:
       official: 한국
 eumember: false
 landlocked: false
-nationality: ""
+nationality: South Korean
 tlds:
-- .kr
-- .한국
+- ".kr"
+- ".한국"
 languages:
   kor: Korean
 translations:
@@ -40,10 +41,10 @@ codes:
   alpha2: KR
   alpha3: KOR
   cioc: KOR
-  ccn3: "410"
+  ccn3: '410'
   callingcodes:
-  - "82"
-  internationalprefix: "001"
+  - '82'
+  internationalprefix: '001'
 geo:
   region: Asia
   subregion: Eastern Asia

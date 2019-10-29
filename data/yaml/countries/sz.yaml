@@ -1,3 +1,4 @@
+---
 name:
   common: Swaziland
   official: Kingdom of Swaziland
@@ -10,9 +11,9 @@ name:
       official: Kingdom of Swaziland
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Swazi
 tlds:
-- .sz
+- ".sz"
 languages:
   eng: English
   ssw: Swazi
@@ -53,10 +54,10 @@ codes:
   alpha2: SZ
   alpha3: SWZ
   cioc: SWZ
-  ccn3: "748"
+  ccn3: '748'
   callingcodes:
-  - "268"
-  internationalprefix: "00"
+  - '268'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Southern Africa

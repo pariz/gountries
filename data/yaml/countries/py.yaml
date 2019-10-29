@@ -1,3 +1,4 @@
+---
 name:
   common: Paraguay
   official: Republic of Paraguay
@@ -10,9 +11,9 @@ name:
       official: República de Paraguay
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Paraguayan
 tlds:
-- .py
+- ".py"
 languages:
   grn: Guaraní
   spa: Spanish
@@ -42,10 +43,10 @@ codes:
   alpha2: PY
   alpha3: PRY
   cioc: PAR
-  ccn3: "600"
+  ccn3: '600'
   callingcodes:
-  - "595"
-  internationalprefix: "002"
+  - '595'
+  internationalprefix: '002'
 geo:
   region: Americas
   subregion: South America

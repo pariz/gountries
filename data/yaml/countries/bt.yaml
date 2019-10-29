@@ -1,3 +1,4 @@
+---
 name:
   common: Bhutan
   official: Kingdom of Bhutan
@@ -7,9 +8,9 @@ name:
       official: འབྲུག་རྒྱལ་ཁབ་
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Bhutanese
 tlds:
-- .bt
+- ".bt"
 languages:
   dzo: Dzongkha
 translations:
@@ -47,10 +48,10 @@ codes:
   alpha2: BT
   alpha3: BTN
   cioc: BHU
-  ccn3: "064"
+  ccn3: '064'
   callingcodes:
-  - "975"
-  internationalprefix: "00"
+  - '975'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia

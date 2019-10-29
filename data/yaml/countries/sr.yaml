@@ -1,3 +1,4 @@
+---
 name:
   common: Suriname
   official: Republic of Suriname
@@ -7,9 +8,9 @@ name:
       official: Republiek Suriname
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Surinamese
 tlds:
-- .sr
+- ".sr"
 languages:
   nld: Dutch
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: SR
   alpha3: SUR
   cioc: SUR
-  ccn3: "740"
+  ccn3: '740'
   callingcodes:
-  - "597"
-  internationalprefix: "00"
+  - '597'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America

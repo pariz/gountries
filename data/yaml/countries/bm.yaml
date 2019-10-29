@@ -1,3 +1,4 @@
+---
 name:
   common: Bermuda
   official: Bermuda
@@ -7,9 +8,9 @@ name:
       official: Bermuda
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bermudian, Bermudan
 tlds:
-- .bm
+- ".bm"
 languages:
   eng: English
 translations:
@@ -32,10 +33,10 @@ codes:
   alpha2: BM
   alpha3: BMU
   cioc: BER
-  ccn3: "060"
+  ccn3: '060'
   callingcodes:
-  - "1441"
-  internationalprefix: "011"
+  - '1441'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Northern America

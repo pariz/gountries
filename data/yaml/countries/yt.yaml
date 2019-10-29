@@ -1,3 +1,4 @@
+---
 name:
   common: Mayotte
   official: Department of Mayotte
@@ -7,9 +8,9 @@ name:
       official: Département de Mayotte
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mahoran
 tlds:
-- .yt
+- ".yt"
 languages:
   fra: French
 translations:
@@ -40,11 +41,11 @@ borders: []
 codes:
   alpha2: YT
   alpha3: MYT
-  cioc: ""
-  ccn3: "175"
+  cioc: ''
+  ccn3: '175'
   callingcodes:
-  - "262"
-  internationalprefix: "00"
+  - '262'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

@@ -1,3 +1,4 @@
+---
 name:
   common: Philippines
   official: Republic of the Philippines
@@ -10,9 +11,9 @@ name:
       official: Republic of the Philippines
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Philippine, Filipino
 tlds:
-- .ph
+- ".ph"
 languages:
   eng: English
   fil: Filipino
@@ -48,10 +49,10 @@ codes:
   alpha2: PH
   alpha3: PHL
   cioc: PHI
-  ccn3: "608"
+  ccn3: '608'
   callingcodes:
-  - "63"
-  internationalprefix: "00"
+  - '63'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

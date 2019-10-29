@@ -1,3 +1,4 @@
+---
 name:
   common: Palau
   official: Republic of Palau
@@ -10,9 +11,9 @@ name:
       official: Beluu er a Belau
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Palauan
 tlds:
-- .pw
+- ".pw"
 languages:
   eng: English
   pau: Palauan
@@ -33,10 +34,10 @@ codes:
   alpha2: PW
   alpha3: PLW
   cioc: PLW
-  ccn3: "585"
+  ccn3: '585'
   callingcodes:
-  - "680"
-  internationalprefix: "00"
+  - '680'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Micronesia

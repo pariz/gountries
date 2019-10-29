@@ -1,3 +1,4 @@
+---
 name:
   common: South Georgia
   official: South Georgia and the South Sandwich Islands
@@ -7,9 +8,9 @@ name:
       official: South Georgia and the South Sandwich Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: South Georgia or South Sandwich Islands
 tlds:
-- .gs
+- ".gs"
 languages:
   eng: English
 translations:
@@ -43,11 +44,11 @@ borders: []
 codes:
   alpha2: GS
   alpha3: SGS
-  cioc: ""
-  ccn3: "239"
+  cioc: ''
+  ccn3: '239'
   callingcodes:
-  - "500"
-  internationalprefix: ""
+  - '500'
+  internationalprefix: ''
 geo:
   region: Americas
   subregion: South America

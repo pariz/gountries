@@ -1,3 +1,4 @@
+---
 name:
   common: Cyprus
   official: Republic of Cyprus
@@ -10,9 +11,9 @@ name:
       official: Kıbrıs Cumhuriyeti
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Cypriot
 tlds:
-- .cy
+- ".cy"
 languages:
   ell: Greek
   tur: Turkish
@@ -46,10 +47,10 @@ codes:
   alpha2: CY
   alpha3: CYP
   cioc: CYP
-  ccn3: "196"
+  ccn3: '196'
   callingcodes:
-  - "357"
-  internationalprefix: "00"
+  - '357'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

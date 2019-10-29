@@ -1,3 +1,4 @@
+---
 name:
   common: Turkmenistan
   official: Turkmenistan
@@ -10,9 +11,9 @@ name:
       official: Türkmenistan
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Turkmen
 tlds:
-- .tm
+- ".tm"
 languages:
   rus: Russian
   tuk: Turkmen
@@ -46,10 +47,10 @@ codes:
   alpha2: TM
   alpha3: TKM
   cioc: TKM
-  ccn3: "795"
+  ccn3: '795'
   callingcodes:
-  - "993"
-  internationalprefix: "810"
+  - '993'
+  internationalprefix: '810'
 geo:
   region: Asia
   subregion: Central Asia

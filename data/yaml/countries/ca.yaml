@@ -1,3 +1,4 @@
+---
 name:
   common: Canada
   official: Canada
@@ -10,9 +11,9 @@ name:
       official: Canada
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Canadian
 tlds:
-- .ca
+- ".ca"
 languages:
   eng: English
   fra: French
@@ -43,16 +44,16 @@ codes:
   alpha2: CA
   alpha3: CAN
   cioc: CAN
-  ccn3: "124"
+  ccn3: '124'
   callingcodes:
-  - "1"
-  internationalprefix: "011"
+  - '1'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Northern America
   continent: North America
   capital: Ottawa
-  area: 9.98467e+06
+  area: 9984670.0
 coordinates:
   longitudestring: 95 00 W
   latitudestring: 60 00 N

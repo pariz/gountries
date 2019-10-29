@@ -1,3 +1,4 @@
+---
 name:
   common: Namibia
   official: Republic of Namibia
@@ -31,9 +32,9 @@ name:
       official: Lefatshe la Namibia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Namibian
 tlds:
-- .na
+- ".na"
 languages:
   afr: Afrikaans
   deu: German
@@ -78,10 +79,10 @@ codes:
   alpha2: NA
   alpha3: NAM
   cioc: NAM
-  ccn3: "516"
+  ccn3: '516'
   callingcodes:
-  - "264"
-  internationalprefix: "00"
+  - '264'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Southern Africa

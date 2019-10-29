@@ -1,3 +1,4 @@
+---
 name:
   common: Moldova
   official: Republic of Moldova
@@ -7,9 +8,9 @@ name:
       official: Republica Moldova
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Moldovan
 tlds:
-- .md
+- ".md"
 languages:
   ron: Moldavian
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: MD
   alpha3: MDA
   cioc: MDA
-  ccn3: "498"
+  ccn3: '498'
   callingcodes:
-  - "373"
-  internationalprefix: "00"
+  - '373'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

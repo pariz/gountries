@@ -1,3 +1,4 @@
+---
 name:
   common: Guatemala
   official: Republic of Guatemala
@@ -7,9 +8,9 @@ name:
       official: República de Guatemala
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guatemalan
 tlds:
-- .gt
+- ".gt"
 languages:
   spa: Spanish
 translations:
@@ -39,10 +40,10 @@ codes:
   alpha2: GT
   alpha3: GTM
   cioc: GUA
-  ccn3: "320"
+  ccn3: '320'
   callingcodes:
-  - "502"
-  internationalprefix: "00"
+  - '502'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America

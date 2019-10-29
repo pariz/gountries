@@ -1,3 +1,4 @@
+---
 name:
   common: Rwanda
   official: Republic of Rwanda
@@ -13,9 +14,9 @@ name:
       official: Repubulika y'u Rwanda
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Rwandan
 tlds:
-- .rw
+- ".rw"
 languages:
   eng: English
   fra: French
@@ -56,10 +57,10 @@ codes:
   alpha2: RW
   alpha3: RWA
   cioc: RWA
-  ccn3: "646"
+  ccn3: '646'
   callingcodes:
-  - "250"
-  internationalprefix: "00"
+  - '250'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

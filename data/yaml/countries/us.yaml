@@ -1,3 +1,4 @@
+---
 name:
   common: United States
   official: United States of America
@@ -7,9 +8,9 @@ name:
       official: United States of America
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American
 tlds:
-- .us
+- ".us"
 languages:
   eng: English
 translations:
@@ -45,16 +46,16 @@ codes:
   alpha2: US
   alpha3: USA
   cioc: USA
-  ccn3: "840"
+  ccn3: '840'
   callingcodes:
-  - "1"
-  internationalprefix: "011"
+  - '1'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Northern America
   continent: North America
   capital: Washington D.C.
-  area: 9.37261e+06
+  area: 9372610.0
 coordinates:
   longitudestring: 97 00 W
   latitudestring: 38 00 N

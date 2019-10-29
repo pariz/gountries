@@ -1,3 +1,4 @@
+---
 name:
   common: Samoa
   official: Independent State of Samoa
@@ -10,9 +11,9 @@ name:
       official: Malo Saʻoloto Tutoʻatasi o Sāmoa
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Samoan
 tlds:
-- .ws
+- ".ws"
 languages:
   eng: English
   smo: Samoan
@@ -45,10 +46,10 @@ codes:
   alpha2: WS
   alpha3: WSM
   cioc: SAM
-  ccn3: "882"
+  ccn3: '882'
   callingcodes:
-  - "685"
-  internationalprefix: "00"
+  - '685'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

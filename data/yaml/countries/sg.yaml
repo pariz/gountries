@@ -1,3 +1,4 @@
+---
 name:
   common: Singapore
   official: Republic of Singapore
@@ -16,11 +17,11 @@ name:
       official: சிங்கப்பூர் குடியரசு
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Singaporean
 tlds:
-- .sg
-- .新加坡
-- .சிங்கப்பூர்
+- ".sg"
+- ".新加坡"
+- ".சிங்கப்பூர்"
 languages:
   cmn: Mandarin
   eng: English
@@ -52,10 +53,10 @@ codes:
   alpha2: SG
   alpha3: SGP
   cioc: SIN
-  ccn3: "702"
+  ccn3: '702'
   callingcodes:
-  - "65"
-  internationalprefix: "001"
+  - '65'
+  internationalprefix: '001'
 geo:
   region: Asia
   subregion: South-Eastern Asia

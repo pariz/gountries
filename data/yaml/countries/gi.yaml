@@ -1,3 +1,4 @@
+---
 name:
   common: Gibraltar
   official: Gibraltar
@@ -7,9 +8,9 @@ name:
       official: Gibraltar
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Gibraltar
 tlds:
-- .gi
+- ".gi"
 languages:
   eng: English
 translations:
@@ -41,11 +42,11 @@ borders:
 codes:
   alpha2: GI
   alpha3: GIB
-  cioc: ""
-  ccn3: "292"
+  cioc: ''
+  ccn3: '292'
   callingcodes:
-  - "350"
-  internationalprefix: "00"
+  - '350'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

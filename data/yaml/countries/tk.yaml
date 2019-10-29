@@ -1,3 +1,4 @@
+---
 name:
   common: Tokelau
   official: Tokelau
@@ -13,9 +14,9 @@ name:
       official: Tokelau
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tokelauan
 tlds:
-- .tk
+- ".tk"
 languages:
   eng: English
   smo: Samoan
@@ -51,11 +52,11 @@ borders: []
 codes:
   alpha2: TK
   alpha3: TKL
-  cioc: ""
-  ccn3: "772"
+  cioc: ''
+  ccn3: '772'
   callingcodes:
-  - "690"
-  internationalprefix: "00"
+  - '690'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

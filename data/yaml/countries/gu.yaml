@@ -1,3 +1,4 @@
+---
 name:
   common: Guam
   official: Guam
@@ -13,9 +14,9 @@ name:
       official: Guam
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guamanian, Guambat
 tlds:
-- .gu
+- ".gu"
 languages:
   cha: Chamorro
   eng: English
@@ -43,10 +44,10 @@ codes:
   alpha2: GU
   alpha3: GUM
   cioc: GUM
-  ccn3: "316"
+  ccn3: '316'
   callingcodes:
-  - "1671"
-  internationalprefix: "011"
+  - '1671'
+  internationalprefix: '011'
 geo:
   region: Oceania
   subregion: Micronesia

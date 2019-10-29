@@ -1,3 +1,4 @@
+---
 name:
   common: Sri Lanka
   official: Democratic Socialist Republic of Sri Lanka
@@ -10,11 +11,11 @@ name:
       official: இலங்கை சனநாயக சோசலிசக் குடியரசு
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sri Lankan
 tlds:
-- .lk
-- .இலங்கை
-- .ලංකා
+- ".lk"
+- ".இலங்கை"
+- ".ලංකා"
 languages:
   sin: Sinhala
   tam: Tamil
@@ -45,10 +46,10 @@ codes:
   alpha2: LK
   alpha3: LKA
   cioc: SRI
-  ccn3: "144"
+  ccn3: '144'
   callingcodes:
-  - "94"
-  internationalprefix: "00"
+  - '94'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia

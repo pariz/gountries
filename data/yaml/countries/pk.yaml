@@ -1,3 +1,4 @@
+---
 name:
   common: Pakistan
   official: Islamic Republic of Pakistan
@@ -10,9 +11,9 @@ name:
       official: اسلامی جمہوریۂ پاكستان
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Pakistani
 tlds:
-- .pk
+- ".pk"
 languages:
   eng: English
   urd: Urdu
@@ -55,10 +56,10 @@ codes:
   alpha2: PK
   alpha3: PAK
   cioc: PAK
-  ccn3: "586"
+  ccn3: '586'
   callingcodes:
-  - "92"
-  internationalprefix: "00"
+  - '92'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia

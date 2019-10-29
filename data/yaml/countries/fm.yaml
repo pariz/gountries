@@ -1,3 +1,4 @@
+---
 name:
   common: Micronesia
   official: Federated States of Micronesia
@@ -7,9 +8,9 @@ name:
       official: Federated States of Micronesia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Micronesian
 tlds:
-- .fm
+- ".fm"
 languages:
   eng: English
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: FM
   alpha3: FSM
   cioc: FSM
-  ccn3: "583"
+  ccn3: '583'
   callingcodes:
-  - "691"
-  internationalprefix: "011"
+  - '691'
+  internationalprefix: '011'
 geo:
   region: Oceania
   subregion: Micronesia

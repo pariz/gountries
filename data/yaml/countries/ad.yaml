@@ -1,3 +1,4 @@
+---
 name:
   common: Andorra
   official: Principality of Andorra
@@ -7,9 +8,9 @@ name:
       official: Principat d'Andorra
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Andorran
 tlds:
-- .ad
+- ".ad"
 languages:
   cat: Catalan
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: AD
   alpha3: AND
   cioc: AND
-  ccn3: "020"
+  ccn3: '020'
   callingcodes:
-  - "376"
-  internationalprefix: "00"
+  - '376'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

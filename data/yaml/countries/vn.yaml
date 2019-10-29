@@ -1,3 +1,4 @@
+---
 name:
   common: Vietnam
   official: Socialist Republic of Vietnam
@@ -7,9 +8,9 @@ name:
       official: Cộng hòa xã hội chủ nghĩa Việt Nam
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Vietnamese
 tlds:
-- .vn
+- ".vn"
 languages:
   vie: Vietnamese
 translations:
@@ -50,10 +51,10 @@ codes:
   alpha2: VN
   alpha3: VNM
   cioc: VIE
-  ccn3: "704"
+  ccn3: '704'
   callingcodes:
-  - "84"
-  internationalprefix: "00"
+  - '84'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

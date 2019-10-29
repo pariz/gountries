@@ -1,3 +1,4 @@
+---
 name:
   common: Northern Mariana Islands
   official: Commonwealth of the Northern Mariana Islands
@@ -13,9 +14,9 @@ name:
       official: Commonwealth of the Northern Mariana Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Northern Marianan
 tlds:
-- .mp
+- ".mp"
 languages:
   cal: Carolinian
   cha: Chamorro
@@ -45,11 +46,11 @@ borders: []
 codes:
   alpha2: MP
   alpha3: MNP
-  cioc: ""
-  ccn3: "580"
+  cioc: ''
+  ccn3: '580'
   callingcodes:
-  - "1670"
-  internationalprefix: "011"
+  - '1670'
+  internationalprefix: '011'
 geo:
   region: Oceania
   subregion: Micronesia

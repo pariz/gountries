@@ -1,3 +1,4 @@
+---
 name:
   common: French Southern and Antarctic Lands
   official: Territory of the French Southern and Antarctic Lands
@@ -7,9 +8,9 @@ name:
       official: Territoire des Terres australes et antarctiques françaises
 eumember: false
 landlocked: false
-nationality: ""
+nationality: French Southern Territories
 tlds:
-- .tf
+- ".tf"
 languages:
   fra: French
 translations:
@@ -40,19 +41,19 @@ borders: []
 codes:
   alpha2: TF
   alpha3: ATF
-  cioc: ""
-  ccn3: "260"
+  cioc: ''
+  ccn3: '260'
   callingcodes: []
-  internationalprefix: ""
+  internationalprefix: ''
 geo:
-  region: ""
-  subregion: ""
+  region: ''
+  subregion: ''
   continent: Antarctica
   capital: Port-aux-Français
   area: 7747
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: 50.233334
   minlatitude: -50.016666
   maxlongitude: 77.6

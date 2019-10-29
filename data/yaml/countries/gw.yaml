@@ -1,3 +1,4 @@
+---
 name:
   common: Guinea-Bissau
   official: Republic of Guinea-Bissau
@@ -7,9 +8,9 @@ name:
       official: República da Guiné-Bissau
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bissau-Guinean
 tlds:
-- .gw
+- ".gw"
 languages:
   por: Portuguese
 translations:
@@ -40,10 +41,10 @@ codes:
   alpha2: GW
   alpha3: GNB
   cioc: GBS
-  ccn3: "624"
+  ccn3: '624'
   callingcodes:
-  - "245"
-  internationalprefix: "00"
+  - '245'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

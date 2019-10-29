@@ -1,3 +1,4 @@
+---
 name:
   common: Armenia
   official: Republic of Armenia
@@ -10,9 +11,9 @@ name:
       official: Республика Армения
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Armenian
 tlds:
-- .am
+- ".am"
 languages:
   hye: Armenian
   rus: Russian
@@ -52,10 +53,10 @@ codes:
   alpha2: AM
   alpha3: ARM
   cioc: ARM
-  ccn3: "051"
+  ccn3: '051'
   callingcodes:
-  - "374"
-  internationalprefix: "00"
+  - '374'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

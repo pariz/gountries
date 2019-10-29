@@ -1,3 +1,4 @@
+---
 name:
   common: Pitcairn Islands
   official: Pitcairn Group of Islands
@@ -7,9 +8,9 @@ name:
       official: Pitcairn Group of Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Pitcairn Island
 tlds:
-- .pn
+- ".pn"
 languages:
   eng: English
 translations:
@@ -43,11 +44,11 @@ borders: []
 codes:
   alpha2: PN
   alpha3: PCN
-  cioc: ""
-  ccn3: "612"
+  cioc: ''
+  ccn3: '612'
   callingcodes:
-  - "64"
-  internationalprefix: "00"
+  - '64'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

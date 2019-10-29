@@ -1,3 +1,4 @@
+---
 name:
   common: Mauritania
   official: Islamic Republic of Mauritania
@@ -7,9 +8,9 @@ name:
       official: الجمهورية الإسلامية الموريتانية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mauritanian
 tlds:
-- .mr
+- ".mr"
 languages:
   ara: Arabic
 translations:
@@ -36,16 +37,16 @@ codes:
   alpha2: MR
   alpha3: MRT
   cioc: MTN
-  ccn3: "478"
+  ccn3: '478'
   callingcodes:
-  - "222"
-  internationalprefix: "00"
+  - '222'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa
   continent: Africa
   capital: Nouakchott
-  area: 1.0307e+06
+  area: 1030700.0
 coordinates:
   longitudestring: 12 00 W
   latitudestring: 20 00 N

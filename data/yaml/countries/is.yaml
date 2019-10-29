@@ -1,3 +1,4 @@
+---
 name:
   common: Iceland
   official: Iceland
@@ -7,9 +8,9 @@ name:
       official: Ísland
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Icelandic
 tlds:
-- .is
+- ".is"
 languages:
   isl: Icelandic
 translations:
@@ -41,10 +42,10 @@ codes:
   alpha2: IS
   alpha3: ISL
   cioc: ISL
-  ccn3: "352"
+  ccn3: '352'
   callingcodes:
-  - "354"
-  internationalprefix: "00"
+  - '354'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

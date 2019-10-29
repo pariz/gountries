@@ -1,3 +1,4 @@
+---
 name:
   common: Poland
   official: Republic of Poland
@@ -7,9 +8,9 @@ name:
       official: Rzeczpospolita Polska
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Polish
 tlds:
-- .pl
+- ".pl"
 languages:
   pol: Polish
 translations:
@@ -48,10 +49,10 @@ codes:
   alpha2: PL
   alpha3: POL
   cioc: POL
-  ccn3: "616"
+  ccn3: '616'
   callingcodes:
-  - "48"
-  internationalprefix: "00"
+  - '48'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

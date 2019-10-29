@@ -1,3 +1,4 @@
+---
 name:
   common: Malta
   official: Republic of Malta
@@ -10,9 +11,9 @@ name:
       official: Repubblika ta ' Malta
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Maltese
 tlds:
-- .mt
+- ".mt"
 languages:
   eng: English
   mlt: Maltese
@@ -45,10 +46,10 @@ codes:
   alpha2: MT
   alpha3: MLT
   cioc: MLT
-  ccn3: "470"
+  ccn3: '470'
   callingcodes:
-  - "356"
-  internationalprefix: "00"
+  - '356'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

@@ -1,3 +1,4 @@
+---
 name:
   common: Denmark
   official: Kingdom of Denmark
@@ -7,9 +8,9 @@ name:
       official: Kongeriget Danmark
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Danish
 tlds:
-- .dk
+- ".dk"
 languages:
   dan: Danish
 translations:
@@ -48,10 +49,10 @@ codes:
   alpha2: DK
   alpha3: DNK
   cioc: DEN
-  ccn3: "208"
+  ccn3: '208'
   callingcodes:
-  - "45"
-  internationalprefix: "00"
+  - '45'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

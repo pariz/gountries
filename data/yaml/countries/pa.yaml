@@ -1,3 +1,4 @@
+---
 name:
   common: Panama
   official: Republic of Panama
@@ -7,9 +8,9 @@ name:
       official: República de Panamá
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Panamanian
 tlds:
-- .pa
+- ".pa"
 languages:
   spa: Spanish
 translations:
@@ -35,10 +36,10 @@ codes:
   alpha2: PA
   alpha3: PAN
   cioc: PAN
-  ccn3: "591"
+  ccn3: '591'
   callingcodes:
-  - "507"
-  internationalprefix: "00"
+  - '507'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America

@@ -1,3 +1,4 @@
+---
 name:
   common: Taiwan
   official: Republic of China (Taiwan)
@@ -7,11 +8,11 @@ name:
       official: 中华民国
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Chinese, Taiwanese
 tlds:
-- .tw
-- .台湾
-- .台灣
+- ".tw"
+- ".台湾"
+- ".台灣"
 languages:
   cmn: Mandarin
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: TW
   alpha3: TWN
   cioc: TPE
-  ccn3: "158"
+  ccn3: '158'
   callingcodes:
-  - "886"
-  internationalprefix: "002"
+  - '886'
+  internationalprefix: '002'
 geo:
   region: Asia
   subregion: Eastern Asia

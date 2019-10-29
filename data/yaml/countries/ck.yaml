@@ -1,3 +1,4 @@
+---
 name:
   common: Cook Islands
   official: Cook Islands
@@ -10,9 +11,9 @@ name:
       official: Kūki 'Āirani
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cook Island
 tlds:
-- .ck
+- ".ck"
 languages:
   eng: English
   rar: Cook Islands Māori
@@ -48,10 +49,10 @@ codes:
   alpha2: CK
   alpha3: COK
   cioc: COK
-  ccn3: "184"
+  ccn3: '184'
   callingcodes:
-  - "682"
-  internationalprefix: "00"
+  - '682'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

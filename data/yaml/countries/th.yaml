@@ -1,3 +1,4 @@
+---
 name:
   common: Thailand
   official: Kingdom of Thailand
@@ -7,10 +8,10 @@ name:
       official: ราชอาณาจักรไทย
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Thai
 tlds:
-- .th
-- .ไทย
+- ".th"
+- ".ไทย"
 languages:
   tha: Thai
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: TH
   alpha3: THA
   cioc: THA
-  ccn3: "764"
+  ccn3: '764'
   callingcodes:
-  - "66"
-  internationalprefix: "001"
+  - '66'
+  internationalprefix: '001'
 geo:
   region: Asia
   subregion: South-Eastern Asia

@@ -1,3 +1,4 @@
+---
 name:
   common: Jamaica
   official: Jamaica
@@ -10,9 +11,9 @@ name:
       official: Jamaica
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Jamaican
 tlds:
-- .jm
+- ".jm"
 languages:
   eng: English
   jam: Jamaican Patois
@@ -36,10 +37,10 @@ codes:
   alpha2: JM
   alpha3: JAM
   cioc: JAM
-  ccn3: "388"
+  ccn3: '388'
   callingcodes:
-  - "1876"
-  internationalprefix: "011"
+  - '1876'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

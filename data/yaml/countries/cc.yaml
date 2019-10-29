@@ -1,3 +1,4 @@
+---
 name:
   common: Cocos (Keeling) Islands
   official: Territory of the Cocos (Keeling) Islands
@@ -7,9 +8,9 @@ name:
       official: Territory of the Cocos (Keeling) Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cocos Island
 tlds:
-- .cc
+- ".cc"
 languages:
   eng: English
 translations:
@@ -46,11 +47,11 @@ borders: []
 codes:
   alpha2: CC
   alpha3: CCK
-  cioc: ""
-  ccn3: "166"
+  cioc: ''
+  ccn3: '166'
   callingcodes:
-  - "61"
-  internationalprefix: "0011"
+  - '61'
+  internationalprefix: '0011'
 geo:
   region: Oceania
   subregion: Australia and New Zealand

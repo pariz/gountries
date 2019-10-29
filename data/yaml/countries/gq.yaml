@@ -1,3 +1,4 @@
+---
 name:
   common: Equatorial Guinea
   official: Republic of Equatorial Guinea
@@ -13,9 +14,9 @@ name:
       official: República de Guinea Ecuatorial
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Equatorial Guinean, Equatoguinean
 tlds:
-- .gq
+- ".gq"
 languages:
   fra: French
   por: Portuguese
@@ -54,10 +55,10 @@ codes:
   alpha2: GQ
   alpha3: GNQ
   cioc: GEQ
-  ccn3: "226"
+  ccn3: '226'
   callingcodes:
-  - "240"
-  internationalprefix: "00"
+  - '240'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa

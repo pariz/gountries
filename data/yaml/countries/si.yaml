@@ -1,3 +1,4 @@
+---
 name:
   common: Slovenia
   official: Republic of Slovenia
@@ -7,9 +8,9 @@ name:
       official: Republika Slovenija
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Slovenian, Slovene
 tlds:
-- .si
+- ".si"
 languages:
   slv: Slovene
 translations:
@@ -42,10 +43,10 @@ codes:
   alpha2: SI
   alpha3: SVN
   cioc: SLO
-  ccn3: "705"
+  ccn3: '705'
   callingcodes:
-  - "386"
-  internationalprefix: "00"
+  - '386'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

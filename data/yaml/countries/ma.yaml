@@ -1,3 +1,4 @@
+---
 name:
   common: Morocco
   official: Kingdom of Morocco
@@ -10,9 +11,9 @@ name:
       official: ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Moroccan
 tlds:
-- .ma
+- ".ma"
 - المغرب.
 languages:
   ara: Arabic
@@ -55,10 +56,10 @@ codes:
   alpha2: MA
   alpha3: MAR
   cioc: MAR
-  ccn3: "504"
+  ccn3: '504'
   callingcodes:
-  - "212"
-  internationalprefix: "00"
+  - '212'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Northern Africa

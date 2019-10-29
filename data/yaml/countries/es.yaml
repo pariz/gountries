@@ -1,3 +1,4 @@
+---
 name:
   common: Spain
   official: Kingdom of Spain
@@ -9,7 +10,7 @@ name:
       common: Espainia
       official: Espainiako Erresuma
     glg:
-      common: ""
+      common: ''
       official: Reino de España
     oci:
       common: Espanha
@@ -19,9 +20,9 @@ name:
       official: Reino de España
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Spanish
 tlds:
-- .es
+- ".es"
 languages:
   cat: Catalan
   eus: Basque
@@ -62,10 +63,10 @@ codes:
   alpha2: ES
   alpha3: ESP
   cioc: ESP
-  ccn3: "724"
+  ccn3: '724'
   callingcodes:
-  - "34"
-  internationalprefix: "00"
+  - '34'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

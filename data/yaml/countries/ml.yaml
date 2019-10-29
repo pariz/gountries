@@ -1,3 +1,4 @@
+---
 name:
   common: Mali
   official: Republic of Mali
@@ -7,9 +8,9 @@ name:
       official: République du Mali
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Malian, Malinese
 tlds:
-- .ml
+- ".ml"
 languages:
   fra: French
 translations:
@@ -45,16 +46,16 @@ codes:
   alpha2: ML
   alpha3: MLI
   cioc: MLI
-  ccn3: "466"
+  ccn3: '466'
   callingcodes:
-  - "223"
-  internationalprefix: "00"
+  - '223'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa
   continent: Africa
   capital: Bamako
-  area: 1.240192e+06
+  area: 1240192.0
 coordinates:
   longitudestring: 4 00 W
   latitudestring: 17 00 N

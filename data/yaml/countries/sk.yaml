@@ -1,3 +1,4 @@
+---
 name:
   common: Slovakia
   official: Slovak Republic
@@ -7,9 +8,9 @@ name:
       official: Slovenská republika
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Slovak
 tlds:
-- .sk
+- ".sk"
 languages:
   slk: Slovak
 translations:
@@ -52,10 +53,10 @@ codes:
   alpha2: SK
   alpha3: SVK
   cioc: SVK
-  ccn3: "703"
+  ccn3: '703'
   callingcodes:
-  - "421"
-  internationalprefix: "00"
+  - '421'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

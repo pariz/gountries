@@ -1,3 +1,4 @@
+---
 name:
   common: Niue
   official: Niue
@@ -10,9 +11,9 @@ name:
       official: Niuē
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Niuean
 tlds:
-- .nu
+- ".nu"
 languages:
   eng: English
   niu: Niuean
@@ -41,11 +42,11 @@ borders: []
 codes:
   alpha2: NU
   alpha3: NIU
-  cioc: ""
-  ccn3: "570"
+  cioc: ''
+  ccn3: '570'
   callingcodes:
-  - "683"
-  internationalprefix: "00"
+  - '683'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

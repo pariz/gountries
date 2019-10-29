@@ -1,3 +1,4 @@
+---
 name:
   common: Dominican Republic
   official: Dominican Republic
@@ -7,9 +8,9 @@ name:
       official: República Dominicana
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Dominican
 tlds:
-- .do
+- ".do"
 languages:
   spa: Spanish
 translations:
@@ -45,12 +46,12 @@ codes:
   alpha2: DO
   alpha3: DOM
   cioc: DOM
-  ccn3: "214"
+  ccn3: '214'
   callingcodes:
-  - "1809"
-  - "1829"
-  - "1849"
-  internationalprefix: "011"
+  - '1809'
+  - '1829'
+  - '1849'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

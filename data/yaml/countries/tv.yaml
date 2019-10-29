@@ -1,3 +1,4 @@
+---
 name:
   common: Tuvalu
   official: Tuvalu
@@ -10,9 +11,9 @@ name:
       official: Tuvalu
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tuvaluan
 tlds:
-- .tv
+- ".tv"
 languages:
   eng: English
   tvl: Tuvaluan
@@ -42,10 +43,10 @@ codes:
   alpha2: TV
   alpha3: TUV
   cioc: TUV
-  ccn3: "798"
+  ccn3: '798'
   callingcodes:
-  - "688"
-  internationalprefix: "00"
+  - '688'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

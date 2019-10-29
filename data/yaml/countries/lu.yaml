@@ -1,3 +1,4 @@
+---
 name:
   common: Luxembourg
   official: Grand Duchy of Luxembourg
@@ -13,9 +14,9 @@ name:
       official: Groussherzogtum Lëtzebuerg
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Luxembourg, Luxembourgish
 tlds:
-- .lu
+- ".lu"
 languages:
   deu: German
   fra: French
@@ -52,10 +53,10 @@ codes:
   alpha2: LU
   alpha3: LUX
   cioc: LUX
-  ccn3: "442"
+  ccn3: '442'
   callingcodes:
-  - "352"
-  internationalprefix: "00"
+  - '352'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Western Europe

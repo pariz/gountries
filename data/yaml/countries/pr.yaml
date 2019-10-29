@@ -1,3 +1,4 @@
+---
 name:
   common: Puerto Rico
   official: Commonwealth of Puerto Rico
@@ -10,9 +11,9 @@ name:
       official: Estado Libre Asociado de Puerto Rico
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Puerto Rican
 tlds:
-- .pr
+- ".pr"
 languages:
   eng: English
   spa: Spanish
@@ -48,11 +49,11 @@ codes:
   alpha2: PR
   alpha3: PRI
   cioc: PUR
-  ccn3: "630"
+  ccn3: '630'
   callingcodes:
-  - "1787"
-  - "1939"
-  internationalprefix: "011"
+  - '1787'
+  - '1939'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

@@ -1,3 +1,4 @@
+---
 name:
   common: Kuwait
   official: State of Kuwait
@@ -7,9 +8,9 @@ name:
       official: دولة الكويت
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Kuwaiti
 tlds:
-- .kw
+- ".kw"
 languages:
   ara: Arabic
 translations:
@@ -40,10 +41,10 @@ codes:
   alpha2: KW
   alpha3: KWT
   cioc: KUW
-  ccn3: "414"
+  ccn3: '414'
   callingcodes:
-  - "965"
-  internationalprefix: "00"
+  - '965'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

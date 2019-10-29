@@ -1,3 +1,4 @@
+---
 name:
   common: Estonia
   official: Republic of Estonia
@@ -7,9 +8,9 @@ name:
       official: Eesti Vabariik
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Estonian
 tlds:
-- .ee
+- ".ee"
 languages:
   est: Estonian
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: EE
   alpha3: EST
   cioc: EST
-  ccn3: "233"
+  ccn3: '233'
   callingcodes:
-  - "372"
-  internationalprefix: "00"
+  - '372'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

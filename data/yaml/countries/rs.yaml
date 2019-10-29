@@ -1,3 +1,4 @@
+---
 name:
   common: Serbia
   official: Republic of Serbia
@@ -7,10 +8,10 @@ name:
       official: Република Србија
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Serbian
 tlds:
-- .rs
-- .срб
+- ".rs"
+- ".срб"
 languages:
   srp: Serbian
 translations:
@@ -47,10 +48,10 @@ codes:
   alpha2: RS
   alpha3: SRB
   cioc: SRB
-  ccn3: "688"
+  ccn3: '688'
   callingcodes:
-  - "381"
-  internationalprefix: "99"
+  - '381'
+  internationalprefix: '99'
 geo:
   region: Europe
   subregion: Southern Europe

@@ -1,3 +1,4 @@
+---
 name:
   common: Brunei
   official: Nation of Brunei, Abode of Peace
@@ -7,9 +8,9 @@ name:
       official: Nation of Brunei, Abode Damai
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bruneian
 tlds:
-- .bn
+- ".bn"
 languages:
   msa: Malay
 translations:
@@ -42,10 +43,10 @@ codes:
   alpha2: BN
   alpha3: BRN
   cioc: BRU
-  ccn3: "096"
+  ccn3: '096'
   callingcodes:
-  - "673"
-  internationalprefix: "00"
+  - '673'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

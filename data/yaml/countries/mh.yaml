@@ -1,3 +1,4 @@
+---
 name:
   common: Marshall Islands
   official: Republic of the Marshall Islands
@@ -10,9 +11,9 @@ name:
       official: Republic of the Marshall Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Marshallese
 tlds:
-- .mh
+- ".mh"
 languages:
   eng: English
   mah: Marshallese
@@ -48,10 +49,10 @@ codes:
   alpha2: MH
   alpha3: MHL
   cioc: MHL
-  ccn3: "584"
+  ccn3: '584'
   callingcodes:
-  - "692"
-  internationalprefix: "00"
+  - '692'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Micronesia

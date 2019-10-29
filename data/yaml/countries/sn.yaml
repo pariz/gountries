@@ -1,3 +1,4 @@
+---
 name:
   common: Senegal
   official: Republic of Senegal
@@ -7,9 +8,9 @@ name:
       official: République du Sénégal
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Senegalese
 tlds:
-- .sn
+- ".sn"
 languages:
   fra: French
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: SN
   alpha3: SEN
   cioc: SEN
-  ccn3: "686"
+  ccn3: '686'
   callingcodes:
-  - "221"
-  internationalprefix: "00"
+  - '221'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

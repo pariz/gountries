@@ -1,3 +1,4 @@
+---
 name:
   common: Ivory Coast
   official: Republic of Côte d'Ivoire
@@ -7,9 +8,9 @@ name:
       official: République de Côte d'Ivoire
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ivorian
 tlds:
-- .ci
+- ".ci"
 languages:
   fra: French
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: CI
   alpha3: CIV
   cioc: CIV
-  ccn3: "384"
+  ccn3: '384'
   callingcodes:
-  - "225"
-  internationalprefix: "00"
+  - '225'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

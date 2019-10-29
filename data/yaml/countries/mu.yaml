@@ -1,3 +1,4 @@
+---
 name:
   common: Mauritius
   official: Republic of Mauritius
@@ -13,9 +14,9 @@ name:
       official: Republik Moris
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mauritian
 tlds:
-- .mu
+- ".mu"
 languages:
   eng: English
   fra: French
@@ -46,10 +47,10 @@ codes:
   alpha2: MU
   alpha3: MUS
   cioc: MRI
-  ccn3: "480"
+  ccn3: '480'
   callingcodes:
-  - "230"
-  internationalprefix: "020"
+  - '230'
+  internationalprefix: '020'
 geo:
   region: Africa
   subregion: Eastern Africa
