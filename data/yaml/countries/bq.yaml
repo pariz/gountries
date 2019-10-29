@@ -1,0 +1,64 @@
+name:
+  common: Caribbean Netherlands
+  official: Bonaire, Sint Eustatius and Saba
+  native:
+    cat:
+      common: Caribisch Nederland
+      official: BES-eilanden
+eumember: false
+landlocked: false
+nationality: ''
+tlds:
+  - .nl
+  - .bq
+languages:
+  nld: Dutch
+  eng: English
+translations:
+  DEU:
+    common: Karibische Niederlande
+    official: Bonaire, Sint Eustatius und Saba
+  FRA:
+    common: Pays-Bas Caribéens
+    official: Bonaire, Saint-Eustache et Saba
+  ITA:
+    common: Paesi Bassi Caraibici
+    official: Bonaire, Sint Eustatius e Saba
+  NLD:
+    common: Caribisch Nederland
+    official: Bonaire, Sint Eustatius en Saba
+  POR:
+    common: Países Baixos Caribenhos
+    official: Bonaire, Santo Eustáquio e Saba
+  RUS:
+    common: Кари́бские Нидерла́нды
+    official: Бонэйр, Синт-Эстатиус и Саба
+  SPA:
+    common: Caribe Neerlandés
+    official: Bonaire, San Eustaquio y Saba
+currencies:
+  - USD
+borders: []
+codes:
+  alpha2: BQ
+  alpha3: BES
+  cioc: AHO
+  ccn3: '535'
+  callingcodes:
+    - '599'
+  internationalprefix: '00'
+geo:
+  region: Americas
+  subregion: Caribbean
+  continent: North America
+  capital: Kralendijk
+  area: 328
+coordinates:
+  longitudestring: 68 14 W
+  latitudestring: 12 11 N
+  minlongitude: -68.5149
+  minlatitude: 11.9641
+  maxlongitude: -62.9228
+  maxlatitude: 17.6606999
+  latitude: 12.1783611
+  longitude: -68.2385339

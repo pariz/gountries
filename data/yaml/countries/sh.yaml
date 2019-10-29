@@ -1,0 +1,65 @@
+name:
+  common: Saint Helena
+  official: Saint Helena, Ascension and Tristan da Cunha
+  native:
+    cat:
+      common: Saint Helena
+      official: Saint Helena, Ascension and Tristan da Cunha
+eumember: false
+landlocked: false
+nationality: ''
+tlds:
+  - .sh
+  - .ac
+languages:
+  eng: English
+translations:
+  DEU:
+    common: St. Helena
+    official: St. Helena, Ascension und Tristan da Cunha
+  FRA:
+    common: Sainte-Hélène
+    official: Sainte-Hélène, Ascension et Tristan da Cunha
+  ITA:
+    common: Sant'Elena
+    official: Sant'Elena, Ascensione e Tristan da Cunha
+  NLD:
+    common: Sint-Helena
+    official: Sint-Helena, Ascension en Tristan da Cunha
+  POR:
+    common: Santa Helena
+    official: Santa Helena, Ascensão e Tristão da Cunha
+  RUS:
+    common: Острова Святой Елены
+    official: Острова Святой Елены, Вознесения и Тристан-да-Кунья
+  SPA:
+    common: Santa Elena, Ascensión y Tristán de Acuña
+    official: Santa Elena
+currencies:
+  - SHP
+  - GBP
+borders: []
+codes:
+  alpha2: SH
+  alpha3: SHN
+  cioc: HEL
+  ccn3: '654'
+  callingcodes:
+    - '290'
+    - '247'
+  internationalprefix: '00'
+geo:
+  region: Africa
+  subregion: Western Africa
+  continent: Africa
+  capital: Jamestown
+  area: 394
+coordinates:
+  longitudestring: 5 42 W
+  latitudestring: 15 55 S
+  minlongitude: -15.4248047
+  minlatitude: -37.7880815
+  maxlongitude: -5.0976561
+  maxlatitude: -7.1008926
+  latitude: -15.9656004
+  longitude: -5.7115281
