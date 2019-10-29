@@ -1,3 +1,4 @@
+---
 name:
   common: Myanmar
   official: Republic of the Union of Myanmar
@@ -7,9 +8,9 @@ name:
       official: ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Burmese
 tlds:
-- .mm
+- ".mm"
 languages:
   mya: Burmese
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: MM
   alpha3: MMR
   cioc: MYA
-  ccn3: "104"
+  ccn3: '104'
   callingcodes:
-  - "95"
-  internationalprefix: "00"
+  - '95'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

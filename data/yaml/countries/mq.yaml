@@ -1,3 +1,4 @@
+---
 name:
   common: Martinique
   official: Martinique
@@ -7,9 +8,9 @@ name:
       official: Martinique
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Martiniquais, Martinican
 tlds:
-- .mq
+- ".mq"
 languages:
   fra: French
 translations:
@@ -34,11 +35,11 @@ borders: []
 codes:
   alpha2: MQ
   alpha3: MTQ
-  cioc: ""
-  ccn3: "474"
+  cioc: ''
+  ccn3: '474'
   callingcodes:
-  - "596"
-  internationalprefix: "00"
+  - '596'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Caribbean
@@ -46,8 +47,8 @@ geo:
   capital: Fort-de-France
   area: 1128
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: -61.966667
   minlatitude: 14.383333
   maxlongitude: -60.816666

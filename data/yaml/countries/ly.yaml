@@ -1,15 +1,16 @@
+---
 name:
   common: Libya
   official: State of Libya
   native:
     ara:
-      common: ‏ليبيا
+      common: "‏ليبيا"
       official: الدولة ليبيا
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Libyan
 tlds:
-- .ly
+- ".ly"
 languages:
   ara: Arabic
 translations:
@@ -53,16 +54,16 @@ codes:
   alpha2: LY
   alpha3: LBY
   cioc: LBA
-  ccn3: "434"
+  ccn3: '434'
   callingcodes:
-  - "218"
-  internationalprefix: "00"
+  - '218'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Northern Africa
   continent: Africa
   capital: Tripoli
-  area: 1.75954e+06
+  area: 1759540.0
 coordinates:
   longitudestring: 17 00 E
   latitudestring: 25 00 N

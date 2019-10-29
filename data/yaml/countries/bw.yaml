@@ -1,3 +1,4 @@
+---
 name:
   common: Botswana
   official: Republic of Botswana
@@ -10,9 +11,9 @@ name:
       official: Lefatshe la Botswana
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Motswana, Botswanan
 tlds:
-- .bw
+- ".bw"
 languages:
   eng: English
   tsn: Tswana
@@ -43,10 +44,10 @@ codes:
   alpha2: BW
   alpha3: BWA
   cioc: BOT
-  ccn3: "072"
+  ccn3: '072'
   callingcodes:
-  - "267"
-  internationalprefix: "00"
+  - '267'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Southern Africa

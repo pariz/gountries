@@ -1,3 +1,4 @@
+---
 name:
   common: Italy
   official: Italian Republic
@@ -13,9 +14,9 @@ name:
       official: Repubbricanu Italia
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Italian
 tlds:
-- .it
+- ".it"
 languages:
   bar: Austro-Bavarian German
   ita: Italian
@@ -43,10 +44,10 @@ codes:
   alpha2: IT
   alpha3: ITA
   cioc: ITA
-  ccn3: "380"
+  ccn3: '380'
   callingcodes:
-  - "39"
-  internationalprefix: "00"
+  - '39'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

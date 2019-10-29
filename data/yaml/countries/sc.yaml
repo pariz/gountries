@@ -1,3 +1,4 @@
+---
 name:
   common: Seychelles
   official: Republic of Seychelles
@@ -13,9 +14,9 @@ name:
       official: République des Seychelles
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Seychellois
 tlds:
-- .sc
+- ".sc"
 languages:
   crs: Seychellois Creole
   eng: English
@@ -52,10 +53,10 @@ codes:
   alpha2: SC
   alpha3: SYC
   cioc: SEY
-  ccn3: "690"
+  ccn3: '690'
   callingcodes:
-  - "248"
-  internationalprefix: "00"
+  - '248'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

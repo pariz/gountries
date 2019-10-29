@@ -1,3 +1,4 @@
+---
 name:
   common: San Marino
   official: Most Serene Republic of San Marino
@@ -7,9 +8,9 @@ name:
       official: Serenissima Repubblica di San Marino
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Sammarinese
 tlds:
-- .sm
+- ".sm"
 languages:
   ita: Italian
 translations:
@@ -36,10 +37,10 @@ codes:
   alpha2: SM
   alpha3: SMR
   cioc: SMR
-  ccn3: "674"
+  ccn3: '674'
   callingcodes:
-  - "378"
-  internationalprefix: "00"
+  - '378'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

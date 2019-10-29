@@ -1,3 +1,4 @@
+---
 name:
   common: Afghanistan
   official: Islamic Republic of Afghanistan
@@ -13,9 +14,9 @@ name:
       official: Owganystan Yslam Respublikasy
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Afghan
 tlds:
-- .af
+- ".af"
 languages:
   prs: Dari
   pus: Pashto
@@ -43,10 +44,10 @@ codes:
   alpha2: AF
   alpha3: AFG
   cioc: AFG
-  ccn3: "004"
+  ccn3: '004'
   callingcodes:
-  - "93"
-  internationalprefix: "00"
+  - '93'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia

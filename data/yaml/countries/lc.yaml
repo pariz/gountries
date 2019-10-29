@@ -1,3 +1,4 @@
+---
 name:
   common: Saint Lucia
   official: Saint Lucia
@@ -7,9 +8,9 @@ name:
       official: Saint Lucia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saint Lucian
 tlds:
-- .lc
+- ".lc"
 languages:
   eng: English
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: LC
   alpha3: LCA
   cioc: LCA
-  ccn3: "662"
+  ccn3: '662'
   callingcodes:
-  - "1758"
-  internationalprefix: "011"
+  - '1758'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

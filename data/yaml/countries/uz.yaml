@@ -1,3 +1,4 @@
+---
 name:
   common: Uzbekistan
   official: Republic of Uzbekistan
@@ -10,9 +11,9 @@ name:
       official: O'zbekiston Respublikasi
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Uzbekistani, Uzbek
 tlds:
-- .uz
+- ".uz"
 languages:
   rus: Russian
   uzb: Uzbek
@@ -47,10 +48,10 @@ codes:
   alpha2: UZ
   alpha3: UZB
   cioc: UZB
-  ccn3: "860"
+  ccn3: '860'
   callingcodes:
-  - "998"
-  internationalprefix: "810"
+  - '998'
+  internationalprefix: '810'
 geo:
   region: Asia
   subregion: Central Asia

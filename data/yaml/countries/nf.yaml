@@ -1,3 +1,4 @@
+---
 name:
   common: Norfolk Island
   official: Territory of Norfolk Island
@@ -10,9 +11,9 @@ name:
       official: Teratri of Norf'k Ailen
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Norfolk Island
 tlds:
-- .nf
+- ".nf"
 languages:
   eng: English
   pih: Norfuk
@@ -38,11 +39,11 @@ borders: []
 codes:
   alpha2: NF
   alpha3: NFK
-  cioc: ""
-  ccn3: "574"
+  cioc: ''
+  ccn3: '574'
   callingcodes:
-  - "672"
-  internationalprefix: "00"
+  - '672'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Australia and New Zealand

@@ -1,3 +1,4 @@
+---
 name:
   common: Saudi Arabia
   official: Kingdom of Saudi Arabia
@@ -7,10 +8,10 @@ name:
       official: المملكة العربية السعودية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saudi, Saudi Arabian
 tlds:
-- .sa
-- .السعودية
+- ".sa"
+- ".السعودية"
 languages:
   ara: Arabic
 translations:
@@ -46,16 +47,16 @@ codes:
   alpha2: SA
   alpha3: SAU
   cioc: KSA
-  ccn3: "682"
+  ccn3: '682'
   callingcodes:
-  - "966"
-  internationalprefix: "00"
+  - '966'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia
   continent: Asia
   capital: Riyadh
-  area: 2.14969e+06
+  area: 2149690.0
 coordinates:
   longitudestring: 45 00 E
   latitudestring: 25 00 N

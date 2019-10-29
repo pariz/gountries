@@ -1,3 +1,4 @@
+---
 name:
   common: Costa Rica
   official: Republic of Costa Rica
@@ -7,9 +8,9 @@ name:
       official: República de Costa Rica
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Costa Rican
 tlds:
-- .cr
+- ".cr"
 languages:
   spa: Spanish
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: CR
   alpha3: CRI
   cioc: CRC
-  ccn3: "188"
+  ccn3: '188'
   callingcodes:
-  - "506"
-  internationalprefix: "00"
+  - '506'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America

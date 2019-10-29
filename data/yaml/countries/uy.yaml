@@ -1,3 +1,4 @@
+---
 name:
   common: Uruguay
   official: Oriental Republic of Uruguay
@@ -7,9 +8,9 @@ name:
       official: República Oriental del Uruguay
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Uruguayan
 tlds:
-- .uy
+- ".uy"
 languages:
   spa: Spanish
 translations:
@@ -41,10 +42,10 @@ codes:
   alpha2: UY
   alpha3: URY
   cioc: URU
-  ccn3: "858"
+  ccn3: '858'
   callingcodes:
-  - "598"
-  internationalprefix: "00"
+  - '598'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America

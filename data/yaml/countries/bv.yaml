@@ -1,3 +1,4 @@
+---
 name:
   common: Bouvet Island
   official: Bouvet Island
@@ -7,9 +8,9 @@ name:
       official: Bouvetøya
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bouvet Island
 tlds:
-- .bv
+- ".bv"
 languages:
   nor: Norwegian
 translations:
@@ -37,15 +38,15 @@ borders: []
 codes:
   alpha2: BV
   alpha3: BVT
-  cioc: ""
-  ccn3: "074"
+  cioc: ''
+  ccn3: '074'
   callingcodes: []
-  internationalprefix: ""
+  internationalprefix: ''
 geo:
-  region: ""
-  subregion: ""
+  region: ''
+  subregion: ''
   continent: Antarctica
-  capital: ""
+  capital: ''
   area: 49
 coordinates:
   longitudestring: 3 24 E

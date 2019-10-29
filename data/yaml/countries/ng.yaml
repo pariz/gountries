@@ -1,3 +1,4 @@
+---
 name:
   common: Nigeria
   official: Federal Republic of Nigeria
@@ -7,9 +8,9 @@ name:
       official: Federal Republic of Nigeria
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Nigerian
 tlds:
-- .ng
+- ".ng"
 languages:
   eng: English
 translations:
@@ -51,10 +52,10 @@ codes:
   alpha2: NG
   alpha3: NGA
   cioc: NGR
-  ccn3: "566"
+  ccn3: '566'
   callingcodes:
-  - "234"
-  internationalprefix: "009"
+  - '234'
+  internationalprefix: '009'
 geo:
   region: Africa
   subregion: Western Africa

@@ -1,3 +1,4 @@
+---
 name:
   common: Zambia
   official: Republic of Zambia
@@ -7,9 +8,9 @@ name:
       official: Republic of Zambia
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Zambian
 tlds:
-- .zm
+- ".zm"
 languages:
   eng: English
 translations:
@@ -55,10 +56,10 @@ codes:
   alpha2: ZM
   alpha3: ZMB
   cioc: ZAM
-  ccn3: "894"
+  ccn3: '894'
   callingcodes:
-  - "260"
-  internationalprefix: "00"
+  - '260'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

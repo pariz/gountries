@@ -1,3 +1,4 @@
+---
 name:
   common: Tanzania
   official: United Republic of Tanzania
@@ -10,9 +11,9 @@ name:
       official: Jamhuri ya Muungano wa Tanzania
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tanzanian
 tlds:
-- .tz
+- ".tz"
 languages:
   eng: English
   swa: Swahili
@@ -50,10 +51,10 @@ codes:
   alpha2: TZ
   alpha3: TZA
   cioc: TAN
-  ccn3: "834"
+  ccn3: '834'
   callingcodes:
-  - "255"
-  internationalprefix: "000"
+  - '255'
+  internationalprefix: '000'
 geo:
   region: Africa
   subregion: Eastern Africa

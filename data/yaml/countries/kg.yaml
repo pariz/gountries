@@ -1,3 +1,4 @@
+---
 name:
   common: Kyrgyzstan
   official: Kyrgyz Republic
@@ -10,9 +11,9 @@ name:
       official: Кыргызская Республика
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz
 tlds:
-- .kg
+- ".kg"
 languages:
   kir: Kyrgyz
   rus: Russian
@@ -46,10 +47,10 @@ codes:
   alpha2: KG
   alpha3: KGZ
   cioc: KGZ
-  ccn3: "417"
+  ccn3: '417'
   callingcodes:
-  - "996"
-  internationalprefix: "00"
+  - '996'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Central Asia

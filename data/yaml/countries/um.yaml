@@ -1,3 +1,4 @@
+---
 name:
   common: United States Minor Outlying Islands
   official: United States Minor Outlying Islands
@@ -7,9 +8,9 @@ name:
       official: United States Minor Outlying Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American
 tlds:
-- .us
+- ".us"
 languages:
   eng: English
 translations:
@@ -37,19 +38,19 @@ borders: []
 codes:
   alpha2: UM
   alpha3: UMI
-  cioc: ""
-  ccn3: "581"
+  cioc: ''
+  ccn3: '581'
   callingcodes: []
-  internationalprefix: ""
+  internationalprefix: ''
 geo:
   region: Americas
   subregion: Northern America
   continent: Australia
-  capital: ""
+  capital: ''
   area: 34.2
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: 166.59892
   minlatitude: -0.3824678
   maxlongitude: -159.98491

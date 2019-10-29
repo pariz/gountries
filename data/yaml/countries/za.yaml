@@ -1,3 +1,4 @@
+---
 name:
   common: South Africa
   official: Republic of South Africa
@@ -37,9 +38,9 @@ name:
       official: IRiphabliki yaseNingizimu Afrika
 eumember: false
 landlocked: false
-nationality: ""
+nationality: South African
 tlds:
-- .za
+- ".za"
 languages:
   afr: Afrikaans
   eng: English
@@ -81,16 +82,16 @@ codes:
   alpha2: ZA
   alpha3: ZAF
   cioc: RSA
-  ccn3: "710"
+  ccn3: '710'
   callingcodes:
-  - "27"
-  internationalprefix: "09"
+  - '27'
+  internationalprefix: '09'
 geo:
   region: Africa
   subregion: Southern Africa
   continent: Africa
   capital: Pretoria
-  area: 1.221037e+06
+  area: 1221037.0
 coordinates:
   longitudestring: 24 00 E
   latitudestring: 29 00 S

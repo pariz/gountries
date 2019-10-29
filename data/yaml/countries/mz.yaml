@@ -1,3 +1,4 @@
+---
 name:
   common: Mozambique
   official: Republic of Mozambique
@@ -7,9 +8,9 @@ name:
       official: República de Moçambique
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mozambican
 tlds:
-- .mz
+- ".mz"
 languages:
   por: Portuguese
 translations:
@@ -47,10 +48,10 @@ codes:
   alpha2: MZ
   alpha3: MOZ
   cioc: MOZ
-  ccn3: "508"
+  ccn3: '508'
   callingcodes:
-  - "258"
-  internationalprefix: "00"
+  - '258'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

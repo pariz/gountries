@@ -1,3 +1,4 @@
+---
 name:
   common: Vatican City
   official: Vatican City State
@@ -10,9 +11,9 @@ name:
       official: Status Civitatis Vaticanæ
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Vatican
 tlds:
-- .va
+- ".va"
 languages:
   ita: Italian
   lat: Latin
@@ -42,12 +43,12 @@ borders:
 codes:
   alpha2: VA
   alpha3: VAT
-  cioc: ""
-  ccn3: "336"
+  cioc: ''
+  ccn3: '336'
   callingcodes:
-  - "3906698"
-  - "379"
-  internationalprefix: "00"
+  - '3906698'
+  - '379'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

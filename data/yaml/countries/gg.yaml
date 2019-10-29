@@ -1,3 +1,4 @@
+---
 name:
   common: Guernsey
   official: Bailiwick of Guernsey
@@ -13,9 +14,9 @@ name:
       official: Dgèrnésiais
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Channel Island
 tlds:
-- .gg
+- ".gg"
 languages:
   eng: English
   fra: French
@@ -42,11 +43,11 @@ borders: []
 codes:
   alpha2: GG
   alpha3: GGY
-  cioc: ""
-  ccn3: "831"
+  cioc: ''
+  ccn3: '831'
   callingcodes:
-  - "44"
-  internationalprefix: ""
+  - '44'
+  internationalprefix: ''
 geo:
   region: Europe
   subregion: Northern Europe

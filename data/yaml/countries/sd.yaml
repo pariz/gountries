@@ -1,3 +1,4 @@
+---
 name:
   common: Sudan
   official: Republic of the Sudan
@@ -10,9 +11,9 @@ name:
       official: Republic of the Sudan
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sudanese
 tlds:
-- .sd
+- ".sd"
 languages:
   ara: Arabic
   eng: English
@@ -43,16 +44,16 @@ codes:
   alpha2: SD
   alpha3: SDN
   cioc: SUD
-  ccn3: "729"
+  ccn3: '729'
   callingcodes:
-  - "249"
-  internationalprefix: "00"
+  - '249'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Northern Africa
   continent: Africa
   capital: Khartoum
-  area: 1.886068e+06
+  area: 1886068.0
 coordinates:
   longitudestring: 30 00 E
   latitudestring: 15 00 N

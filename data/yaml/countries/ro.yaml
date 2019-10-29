@@ -1,3 +1,4 @@
+---
 name:
   common: Romania
   official: Romania
@@ -7,9 +8,9 @@ name:
       official: România
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Romanian
 tlds:
-- .ro
+- ".ro"
 languages:
   ron: Romanian
 translations:
@@ -40,10 +41,10 @@ codes:
   alpha2: RO
   alpha3: ROU
   cioc: ROU
-  ccn3: "642"
+  ccn3: '642'
   callingcodes:
-  - "40"
-  internationalprefix: "00"
+  - '40'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

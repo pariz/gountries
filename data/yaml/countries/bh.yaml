@@ -1,15 +1,16 @@
+---
 name:
   common: Bahrain
   official: Kingdom of Bahrain
   native:
     ara:
-      common: ‏البحرين
+      common: "‏البحرين"
       official: مملكة البحرين
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bahraini
 tlds:
-- .bh
+- ".bh"
 languages:
   ara: Arabic
 translations:
@@ -41,10 +42,10 @@ codes:
   alpha2: BH
   alpha3: BHR
   cioc: BRN
-  ccn3: "048"
+  ccn3: '048'
   callingcodes:
-  - "973"
-  internationalprefix: "00"
+  - '973'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

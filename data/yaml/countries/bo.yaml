@@ -1,3 +1,4 @@
+---
 name:
   common: Bolivia
   official: Plurinational State of Bolivia
@@ -16,9 +17,9 @@ name:
       official: Estado Plurinacional de Bolivia
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Bolivian
 tlds:
-- .bo
+- ".bo"
 languages:
   aym: Aymara
   grn: Guaraní
@@ -62,16 +63,16 @@ codes:
   alpha2: BO
   alpha3: BOL
   cioc: BOL
-  ccn3: "068"
+  ccn3: '068'
   callingcodes:
-  - "591"
-  internationalprefix: "0010"
+  - '591'
+  internationalprefix: '0010'
 geo:
   region: Americas
   subregion: South America
   continent: South America
   capital: Sucre
-  area: 1.098581e+06
+  area: 1098581.0
 coordinates:
   longitudestring: 65 00 W
   latitudestring: 17 00 S

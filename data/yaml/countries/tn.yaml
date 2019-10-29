@@ -1,3 +1,4 @@
+---
 name:
   common: Tunisia
   official: Tunisian Republic
@@ -7,9 +8,9 @@ name:
       official: الجمهورية التونسية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tunisian
 tlds:
-- .tn
+- ".tn"
 languages:
   ara: Arabic
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: TN
   alpha3: TUN
   cioc: TUN
-  ccn3: "788"
+  ccn3: '788'
   callingcodes:
-  - "216"
-  internationalprefix: "00"
+  - '216'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Northern Africa

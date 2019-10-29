@@ -1,3 +1,4 @@
+---
 name:
   common: Tonga
   official: Kingdom of Tonga
@@ -10,9 +11,9 @@ name:
       official: Kingdom of Tonga
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tongan
 tlds:
-- .to
+- ".to"
 languages:
   eng: English
   ton: Tongan
@@ -48,10 +49,10 @@ codes:
   alpha2: TO
   alpha3: TON
   cioc: TGA
-  ccn3: "776"
+  ccn3: '776'
   callingcodes:
-  - "676"
-  internationalprefix: "00"
+  - '676'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Polynesia

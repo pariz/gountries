@@ -1,3 +1,4 @@
+---
 name:
   common: Latvia
   official: Republic of Latvia
@@ -7,9 +8,9 @@ name:
       official: Latvijas Republikas
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Latvian
 tlds:
-- .lv
+- ".lv"
 languages:
   lav: Latvian
 translations:
@@ -39,10 +40,10 @@ codes:
   alpha2: LV
   alpha3: LVA
   cioc: LAT
-  ccn3: "428"
+  ccn3: '428'
   callingcodes:
-  - "371"
-  internationalprefix: "00"
+  - '371'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

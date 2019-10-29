@@ -1,3 +1,4 @@
+---
 name:
   common: India
   official: Republic of India
@@ -13,9 +14,9 @@ name:
       official: இந்தியக் குடியரசு
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Indian
 tlds:
-- .in
+- ".in"
 languages:
   eng: English
   hin: Hindi
@@ -60,16 +61,16 @@ codes:
   alpha2: IN
   alpha3: IND
   cioc: IND
-  ccn3: "356"
+  ccn3: '356'
   callingcodes:
-  - "91"
-  internationalprefix: "00"
+  - '91'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Southern Asia
   continent: Asia
   capital: New Delhi
-  area: 3.28759e+06
+  area: 3287590.0
 coordinates:
   longitudestring: 77 00 E
   latitudestring: 20 00 N

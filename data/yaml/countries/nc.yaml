@@ -1,3 +1,4 @@
+---
 name:
   common: New Caledonia
   official: New Caledonia
@@ -7,9 +8,9 @@ name:
       official: Nouvelle-Calédonie
 eumember: false
 landlocked: false
-nationality: ""
+nationality: New Caledonian
 tlds:
-- .nc
+- ".nc"
 languages:
   fra: French
 translations:
@@ -34,11 +35,11 @@ borders: []
 codes:
   alpha2: NC
   alpha3: NCL
-  cioc: ""
-  ccn3: "540"
+  cioc: ''
+  ccn3: '540'
   callingcodes:
-  - "687"
-  internationalprefix: "00"
+  - '687'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Melanesia

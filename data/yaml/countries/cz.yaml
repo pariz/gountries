@@ -1,3 +1,4 @@
+---
 name:
   common: Czech Republic
   official: Czech Republic
@@ -10,9 +11,9 @@ name:
       official: Česká republika
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Czech
 tlds:
-- .cz
+- ".cz"
 languages:
   ces: Czech
   slk: Slovak
@@ -46,10 +47,10 @@ codes:
   alpha2: CZ
   alpha3: CZE
   cioc: CZE
-  ccn3: "203"
+  ccn3: '203'
   callingcodes:
-  - "420"
-  internationalprefix: "00"
+  - '420'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

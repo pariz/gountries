@@ -1,3 +1,4 @@
+---
 name:
   common: Gambia
   official: Republic of the Gambia
@@ -7,9 +8,9 @@ name:
       official: Republic of the Gambia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Gambian
 tlds:
-- .gm
+- ".gm"
 languages:
   eng: English
 translations:
@@ -33,10 +34,10 @@ codes:
   alpha2: GM
   alpha3: GMB
   cioc: GAM
-  ccn3: "270"
+  ccn3: '270'
   callingcodes:
-  - "220"
-  internationalprefix: "00"
+  - '220'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

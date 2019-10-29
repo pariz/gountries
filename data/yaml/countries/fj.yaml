@@ -1,3 +1,4 @@
+---
 name:
   common: Fiji
   official: Republic of Fiji
@@ -13,9 +14,9 @@ name:
       official: रिपब्लिक ऑफ फीजी
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Fijian
 tlds:
-- .fj
+- ".fj"
 languages:
   eng: English
   fij: Fijian
@@ -49,10 +50,10 @@ codes:
   alpha2: FJ
   alpha3: FJI
   cioc: FIJ
-  ccn3: "242"
+  ccn3: '242'
   callingcodes:
-  - "679"
-  internationalprefix: "00"
+  - '679'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Melanesia

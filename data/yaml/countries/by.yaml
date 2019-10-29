@@ -1,3 +1,4 @@
+---
 name:
   common: Belarus
   official: Republic of Belarus
@@ -10,9 +11,9 @@ name:
       official: Республика Беларусь
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Belarusian
 tlds:
-- .by
+- ".by"
 languages:
   bel: Belarusian
   rus: Russian
@@ -59,10 +60,10 @@ codes:
   alpha2: BY
   alpha3: BLR
   cioc: BLR
-  ccn3: "112"
+  ccn3: '112'
   callingcodes:
-  - "375"
-  internationalprefix: "810"
+  - '375'
+  internationalprefix: '810'
 geo:
   region: Europe
   subregion: Eastern Europe

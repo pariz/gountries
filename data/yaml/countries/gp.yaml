@@ -1,3 +1,4 @@
+---
 name:
   common: Guadeloupe
   official: Guadeloupe
@@ -7,9 +8,9 @@ name:
       official: Guadeloupe
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guadeloupe
 tlds:
-- .gp
+- ".gp"
 languages:
   fra: French
 translations:
@@ -37,11 +38,11 @@ borders: []
 codes:
   alpha2: GP
   alpha3: GLP
-  cioc: ""
-  ccn3: "312"
+  cioc: ''
+  ccn3: '312'
   callingcodes:
-  - "590"
-  internationalprefix: "00"
+  - '590'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Caribbean

@@ -1,3 +1,4 @@
+---
 name:
   common: Curaçao
   official: Country of Curaçao
@@ -13,9 +14,9 @@ name:
       official: Pais Kòrsou
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Curaçaoan
 tlds:
-- .cw
+- ".cw"
 languages:
   eng: English
   nld: Dutch
@@ -42,11 +43,11 @@ borders: []
 codes:
   alpha2: CW
   alpha3: CUW
-  cioc: ""
-  ccn3: "531"
+  cioc: ''
+  ccn3: '531'
   callingcodes:
-  - "5999"
-  internationalprefix: "00"
+  - '5999'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Caribbean

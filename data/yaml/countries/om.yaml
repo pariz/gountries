@@ -1,3 +1,4 @@
+---
 name:
   common: Oman
   official: Sultanate of Oman
@@ -7,9 +8,9 @@ name:
       official: سلطنة عمان
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Omani
 tlds:
-- .om
+- ".om"
 languages:
   ara: Arabic
 translations:
@@ -41,10 +42,10 @@ codes:
   alpha2: OM
   alpha3: OMN
   cioc: OMA
-  ccn3: "512"
+  ccn3: '512'
   callingcodes:
-  - "968"
-  internationalprefix: "00"
+  - '968'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

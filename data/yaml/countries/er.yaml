@@ -1,3 +1,4 @@
+---
 name:
   common: Eritrea
   official: State of Eritrea
@@ -13,9 +14,9 @@ name:
       official: ሃገረ ኤርትራ
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Eritrean
 tlds:
-- .er
+- ".er"
 languages:
   ara: Arabic
   eng: English
@@ -52,10 +53,10 @@ codes:
   alpha2: ER
   alpha3: ERI
   cioc: ERI
-  ccn3: "232"
+  ccn3: '232'
   callingcodes:
-  - "291"
-  internationalprefix: "00"
+  - '291'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

@@ -1,3 +1,4 @@
+---
 name:
   common: Lebanon
   official: Lebanese Republic
@@ -10,9 +11,9 @@ name:
       official: République libanaise
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Lebanese
 tlds:
-- .lb
+- ".lb"
 languages:
   ara: Arabic
   fra: French
@@ -50,10 +51,10 @@ codes:
   alpha2: LB
   alpha3: LBN
   cioc: LIB
-  ccn3: "422"
+  ccn3: '422'
   callingcodes:
-  - "961"
-  internationalprefix: "00"
+  - '961'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

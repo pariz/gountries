@@ -1,3 +1,4 @@
+---
 name:
   common: Timor-Leste
   official: Democratic Republic of Timor-Leste
@@ -10,9 +11,9 @@ name:
       official: Repúblika Demokrátika Timór-Leste
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Timorese
 tlds:
-- .tl
+- ".tl"
 languages:
   por: Portuguese
   tet: Tetum
@@ -46,9 +47,9 @@ codes:
   alpha2: TL
   alpha3: TLS
   cioc: TLS
-  ccn3: "626"
+  ccn3: '626'
   callingcodes:
-  - "670"
+  - '670'
   internationalprefix: None
 geo:
   region: Asia

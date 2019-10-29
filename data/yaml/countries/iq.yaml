@@ -1,3 +1,4 @@
+---
 name:
   common: Iraq
   official: Republic of Iraq
@@ -13,9 +14,9 @@ name:
       official: کۆماری عێراق
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Iraqi
 tlds:
-- .iq
+- ".iq"
 languages:
   ara: Arabic
   arc: Aramaic
@@ -58,10 +59,10 @@ codes:
   alpha2: IQ
   alpha3: IRQ
   cioc: IRQ
-  ccn3: "368"
+  ccn3: '368'
   callingcodes:
-  - "964"
-  internationalprefix: "00"
+  - '964'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

@@ -1,3 +1,4 @@
+---
 name:
   common: Jordan
   official: Hashemite Kingdom of Jordan
@@ -7,9 +8,9 @@ name:
       official: المملكة الأردنية الهاشمية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Jordanian
 tlds:
-- .jo
+- ".jo"
 - الاردن.
 languages:
   ara: Arabic
@@ -43,10 +44,10 @@ codes:
   alpha2: JO
   alpha3: JOR
   cioc: JOR
-  ccn3: "400"
+  ccn3: '400'
   callingcodes:
-  - "962"
-  internationalprefix: "00"
+  - '962'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

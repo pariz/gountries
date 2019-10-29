@@ -1,3 +1,4 @@
+---
 name:
   common: Wallis and Futuna
   official: Territory of the Wallis and Futuna Islands
@@ -7,9 +8,9 @@ name:
       official: Territoire des îles Wallis et Futuna
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Wallis and Futuna, Wallisian or Futunan
 tlds:
-- .wf
+- ".wf"
 languages:
   fra: French
 translations:
@@ -40,11 +41,11 @@ borders: []
 codes:
   alpha2: WF
   alpha3: WLF
-  cioc: ""
-  ccn3: "876"
+  cioc: ''
+  ccn3: '876'
   callingcodes:
-  - "681"
-  internationalprefix: "19"
+  - '681'
+  internationalprefix: '19'
 geo:
   region: Oceania
   subregion: Polynesia

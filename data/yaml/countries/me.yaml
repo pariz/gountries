@@ -1,3 +1,4 @@
+---
 name:
   common: Montenegro
   official: Montenegro
@@ -7,9 +8,9 @@ name:
       official: Црна Гора
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Montenegrin
 tlds:
-- .me
+- ".me"
 languages:
   srp: Montenegrin
 translations:
@@ -34,10 +35,10 @@ codes:
   alpha2: ME
   alpha3: MNE
   cioc: MNE
-  ccn3: "499"
+  ccn3: '499'
   callingcodes:
-  - "382"
-  internationalprefix: "99"
+  - '382'
+  internationalprefix: '99'
 geo:
   region: Europe
   subregion: Southern Europe

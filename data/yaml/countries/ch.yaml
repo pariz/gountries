@@ -1,3 +1,4 @@
+---
 name:
   common: Switzerland
   official: Swiss Confederation
@@ -16,9 +17,9 @@ name:
       official: Confederaziun svizra
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Swiss
 tlds:
-- .ch
+- ".ch"
 languages:
   fra: French
   gsw: Swiss German
@@ -60,10 +61,10 @@ codes:
   alpha2: CH
   alpha3: CHE
   cioc: SUI
-  ccn3: "756"
+  ccn3: '756'
   callingcodes:
-  - "41"
-  internationalprefix: "00"
+  - '41'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Western Europe

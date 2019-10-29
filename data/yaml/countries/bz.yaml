@@ -1,3 +1,4 @@
+---
 name:
   common: Belize
   official: Belize
@@ -13,9 +14,9 @@ name:
       official: Belice
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Belizean
 tlds:
-- .bz
+- ".bz"
 languages:
   bjz: Belizean Creole
   eng: English
@@ -60,10 +61,10 @@ codes:
   alpha2: BZ
   alpha3: BLZ
   cioc: BIZ
-  ccn3: "084"
+  ccn3: '084'
   callingcodes:
-  - "501"
-  internationalprefix: "00"
+  - '501'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America

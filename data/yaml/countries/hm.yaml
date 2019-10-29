@@ -1,3 +1,4 @@
+---
 name:
   common: Heard Island and McDonald Islands
   official: Heard Island and McDonald Islands
@@ -7,10 +8,10 @@ name:
       official: Heard Island and McDonald Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Heard Island or McDonald Islands
 tlds:
-- .hm
-- .aq
+- ".hm"
+- ".aq"
 languages:
   eng: English
 translations:
@@ -38,15 +39,15 @@ borders: []
 codes:
   alpha2: HM
   alpha3: HMD
-  cioc: ""
-  ccn3: "334"
+  cioc: ''
+  ccn3: '334'
   callingcodes: []
-  internationalprefix: ""
+  internationalprefix: ''
 geo:
-  region: ""
-  subregion: ""
+  region: ''
+  subregion: ''
   continent: Antarctica
-  capital: ""
+  capital: ''
   area: 412
 coordinates:
   longitudestring: 72 31 E

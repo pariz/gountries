@@ -1,3 +1,4 @@
+---
 name:
   common: Sweden
   official: Kingdom of Sweden
@@ -7,9 +8,9 @@ name:
       official: Konungariket Sverige
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Swedish
 tlds:
-- .se
+- ".se"
 languages:
   swe: Swedish
 translations:
@@ -43,10 +44,10 @@ codes:
   alpha2: SE
   alpha3: SWE
   cioc: SWE
-  ccn3: "752"
+  ccn3: '752'
   callingcodes:
-  - "46"
-  internationalprefix: "00"
+  - '46'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

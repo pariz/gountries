@@ -1,3 +1,4 @@
+---
 name:
   common: Haiti
   official: Republic of Haiti
@@ -10,9 +11,9 @@ name:
       official: Repiblik Ayiti
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Haitian
 tlds:
-- .ht
+- ".ht"
 languages:
   fra: French
   hat: Haitian Creole
@@ -47,10 +48,10 @@ codes:
   alpha2: HT
   alpha3: HTI
   cioc: HAI
-  ccn3: "332"
+  ccn3: '332'
   callingcodes:
-  - "509"
-  internationalprefix: "00"
+  - '509'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Caribbean

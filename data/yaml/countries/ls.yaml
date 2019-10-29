@@ -1,3 +1,4 @@
+---
 name:
   common: Lesotho
   official: Kingdom of Lesotho
@@ -10,9 +11,9 @@ name:
       official: Kingdom of Lesotho
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Basotho
 tlds:
-- .ls
+- ".ls"
 languages:
   eng: English
   sot: Sotho
@@ -38,10 +39,10 @@ codes:
   alpha2: LS
   alpha3: LSO
   cioc: LES
-  ccn3: "426"
+  ccn3: '426'
   callingcodes:
-  - "266"
-  internationalprefix: "00"
+  - '266'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Southern Africa

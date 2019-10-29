@@ -1,3 +1,4 @@
+---
 name:
   common: Saint Barthélemy
   official: Collectivity of Saint Barthélemy
@@ -7,9 +8,9 @@ name:
       official: Collectivité de Saint-Barthélemy
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Barthélemois
 tlds:
-- .bl
+- ".bl"
 languages:
   fra: French
 translations:
@@ -40,11 +41,11 @@ borders: []
 codes:
   alpha2: BL
   alpha3: BLM
-  cioc: ""
-  ccn3: "652"
+  cioc: ''
+  ccn3: '652'
   callingcodes:
-  - "590"
-  internationalprefix: ""
+  - '590'
+  internationalprefix: ''
 geo:
   region: Americas
   subregion: Caribbean

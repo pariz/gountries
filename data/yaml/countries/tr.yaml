@@ -1,3 +1,4 @@
+---
 name:
   common: Turkey
   official: Republic of Turkey
@@ -7,9 +8,9 @@ name:
       official: Türkiye Cumhuriyeti
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Turkish
 tlds:
-- .tr
+- ".tr"
 languages:
   tur: Turkish
 translations:
@@ -46,10 +47,10 @@ codes:
   alpha2: TR
   alpha3: TUR
   cioc: TUR
-  ccn3: "792"
+  ccn3: '792'
   callingcodes:
-  - "90"
-  internationalprefix: "00"
+  - '90'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia

@@ -1,3 +1,4 @@
+---
 name:
   common: Liberia
   official: Republic of Liberia
@@ -7,9 +8,9 @@ name:
       official: Republic of Liberia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Liberian
 tlds:
-- .lr
+- ".lr"
 languages:
   eng: English
 translations:
@@ -50,10 +51,10 @@ codes:
   alpha2: LR
   alpha3: LBR
   cioc: LBR
-  ccn3: "430"
+  ccn3: '430'
   callingcodes:
-  - "231"
-  internationalprefix: "00"
+  - '231'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

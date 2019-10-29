@@ -1,3 +1,4 @@
+---
 name:
   common: Montserrat
   official: Montserrat
@@ -7,9 +8,9 @@ name:
       official: Montserrat
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Montserratian
 tlds:
-- .ms
+- ".ms"
 languages:
   eng: English
 translations:
@@ -37,11 +38,11 @@ borders: []
 codes:
   alpha2: MS
   alpha3: MSR
-  cioc: ""
-  ccn3: "500"
+  cioc: ''
+  ccn3: '500'
   callingcodes:
-  - "1664"
-  internationalprefix: "011"
+  - '1664'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

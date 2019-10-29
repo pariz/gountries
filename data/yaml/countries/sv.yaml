@@ -1,3 +1,4 @@
+---
 name:
   common: El Salvador
   official: Republic of El Salvador
@@ -7,9 +8,9 @@ name:
       official: República de El Salvador
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Salvadoran
 tlds:
-- .sv
+- ".sv"
 languages:
   spa: Spanish
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: SV
   alpha3: SLV
   cioc: ESA
-  ccn3: "222"
+  ccn3: '222'
   callingcodes:
-  - "503"
-  internationalprefix: "00"
+  - '503'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America

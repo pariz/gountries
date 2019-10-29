@@ -1,3 +1,4 @@
+---
 name:
   common: São Tomé and Príncipe
   official: Democratic Republic of São Tomé and Príncipe
@@ -7,9 +8,9 @@ name:
       official: República Democrática do São Tomé e Príncipe
 eumember: false
 landlocked: false
-nationality: ""
+nationality: São Toméan
 tlds:
-- .st
+- ".st"
 languages:
   por: Portuguese
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: ST
   alpha3: STP
   cioc: STP
-  ccn3: "678"
+  ccn3: '678'
   callingcodes:
-  - "239"
-  internationalprefix: "00"
+  - '239'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa

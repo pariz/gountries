@@ -1,3 +1,4 @@
+---
 name:
   common: Western Sahara
   official: Sahrawi Arab Democratic Republic
@@ -13,9 +14,9 @@ name:
       official: República Árabe Saharaui Democrática
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sahrawi, Sahrawian, Sahraouian
 tlds:
-- .eh
+- ".eh"
 languages:
   ber: Berber
   mey: Hassaniya
@@ -59,11 +60,11 @@ borders:
 codes:
   alpha2: EH
   alpha3: ESH
-  cioc: ""
-  ccn3: "732"
+  cioc: ''
+  ccn3: '732'
   callingcodes:
-  - "212"
-  internationalprefix: ""
+  - '212'
+  internationalprefix: ''
 geo:
   region: Africa
   subregion: Northern Africa

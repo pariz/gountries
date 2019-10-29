@@ -1,3 +1,4 @@
+---
 name:
   common: United Kingdom
   official: United Kingdom of Great Britain and Northern Ireland
@@ -7,9 +8,9 @@ name:
       official: United Kingdom of Great Britain and Northern Ireland
 eumember: true
 landlocked: false
-nationality: ""
+nationality: British, UK
 tlds:
-- .uk
+- ".uk"
 languages:
   eng: English
 translations:
@@ -42,10 +43,10 @@ codes:
   alpha2: GB
   alpha3: GBR
   cioc: GBR
-  ccn3: "826"
+  ccn3: '826'
   callingcodes:
-  - "44"
-  internationalprefix: "00"
+  - '44'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

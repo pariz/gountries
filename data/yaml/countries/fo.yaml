@@ -1,3 +1,4 @@
+---
 name:
   common: Faroe Islands
   official: Faroe Islands
@@ -10,9 +11,9 @@ name:
       official: Føroyar
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Faroese
 tlds:
-- .fo
+- ".fo"
 languages:
   dan: Danish
   fao: Faroese
@@ -44,11 +45,11 @@ borders: []
 codes:
   alpha2: FO
   alpha3: FRO
-  cioc: ""
-  ccn3: "234"
+  cioc: ''
+  ccn3: '234'
   callingcodes:
-  - "298"
-  internationalprefix: "00"
+  - '298'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Northern Europe

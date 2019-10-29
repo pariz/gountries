@@ -1,3 +1,4 @@
+---
 name:
   common: Burundi
   official: Republic of Burundi
@@ -10,9 +11,9 @@ name:
       official: 'Republika y''Uburundi '
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Burundian
 tlds:
-- .bi
+- ".bi"
 languages:
   fra: French
   run: Kirundi
@@ -54,10 +55,10 @@ codes:
   alpha2: BI
   alpha3: BDI
   cioc: BDI
-  ccn3: "108"
+  ccn3: '108'
   callingcodes:
-  - "257"
-  internationalprefix: "00"
+  - '257'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

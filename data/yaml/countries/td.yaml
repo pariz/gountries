@@ -1,3 +1,4 @@
+---
 name:
   common: Chad
   official: Republic of Chad
@@ -10,9 +11,9 @@ name:
       official: République du Tchad
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Chadian
 tlds:
-- .td
+- ".td"
 languages:
   ara: Arabic
   fra: French
@@ -54,16 +55,16 @@ codes:
   alpha2: TD
   alpha3: TCD
   cioc: CHA
-  ccn3: "148"
+  ccn3: '148'
   callingcodes:
-  - "235"
-  internationalprefix: "15"
+  - '235'
+  internationalprefix: '15'
 geo:
   region: Africa
   subregion: Middle Africa
   continent: Africa
   capital: N'Djamena
-  area: 1.284e+06
+  area: 1284000.0
 coordinates:
   longitudestring: 19 00 E
   latitudestring: 15 00 N

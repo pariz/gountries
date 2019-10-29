@@ -1,3 +1,4 @@
+---
 name:
   common: Netherlands
   official: Netherlands
@@ -7,9 +8,9 @@ name:
       official: Nederland
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Dutch, Netherlandic
 tlds:
-- .nl
+- ".nl"
 languages:
   nld: Dutch
 translations:
@@ -37,10 +38,10 @@ codes:
   alpha2: NL
   alpha3: NLD
   cioc: NED
-  ccn3: "528"
+  ccn3: '528'
   callingcodes:
-  - "31"
-  internationalprefix: "00"
+  - '31'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Western Europe

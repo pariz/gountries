@@ -1,3 +1,4 @@
+---
 name:
   common: French Guiana
   official: Guiana
@@ -7,9 +8,9 @@ name:
       official: Guyanes
 eumember: false
 landlocked: false
-nationality: ""
+nationality: French Guianese
 tlds:
-- .gf
+- ".gf"
 languages:
   fra: French
 translations:
@@ -42,11 +43,11 @@ borders:
 codes:
   alpha2: GF
   alpha3: GUF
-  cioc: ""
-  ccn3: "254"
+  cioc: ''
+  ccn3: '254'
   callingcodes:
-  - "594"
-  internationalprefix: "00"
+  - '594'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America

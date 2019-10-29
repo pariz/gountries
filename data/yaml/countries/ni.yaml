@@ -1,3 +1,4 @@
+---
 name:
   common: Nicaragua
   official: Republic of Nicaragua
@@ -7,9 +8,9 @@ name:
       official: República de Nicaragua
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Nicaraguan
 tlds:
-- .ni
+- ".ni"
 languages:
   spa: Spanish
 translations:
@@ -34,10 +35,10 @@ codes:
   alpha2: NI
   alpha3: NIC
   cioc: NCA
-  ccn3: "558"
+  ccn3: '558'
   callingcodes:
-  - "505"
-  internationalprefix: "00"
+  - '505'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: Central America

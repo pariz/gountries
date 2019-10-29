@@ -1,3 +1,4 @@
+---
 name:
   common: Algeria
   official: People's Democratic Republic of Algeria
@@ -7,9 +8,9 @@ name:
       official: الجمهورية الديمقراطية الشعبية الجزائرية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Algerian
 tlds:
-- .dz
+- ".dz"
 - الجزائر.
 languages:
   ara: Arabic
@@ -52,16 +53,16 @@ codes:
   alpha2: DZ
   alpha3: DZA
   cioc: ALG
-  ccn3: "012"
+  ccn3: '012'
   callingcodes:
-  - "213"
-  internationalprefix: "00"
+  - '213'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Northern Africa
   continent: Africa
   capital: Algiers
-  area: 2.381741e+06
+  area: 2381741.0
 coordinates:
   longitudestring: 3 00 E
   latitudestring: 28 00 N

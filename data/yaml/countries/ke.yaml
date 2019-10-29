@@ -1,3 +1,4 @@
+---
 name:
   common: Kenya
   official: Republic of Kenya
@@ -10,9 +11,9 @@ name:
       official: Republic of Kenya
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Kenyan
 tlds:
-- .ke
+- ".ke"
 languages:
   eng: English
   swa: Swahili
@@ -56,10 +57,10 @@ codes:
   alpha2: KE
   alpha3: KEN
   cioc: KEN
-  ccn3: "404"
+  ccn3: '404'
   callingcodes:
-  - "254"
-  internationalprefix: "000"
+  - '254'
+  internationalprefix: '000'
 geo:
   region: Africa
   subregion: Eastern Africa

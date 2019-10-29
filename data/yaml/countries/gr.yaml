@@ -1,3 +1,4 @@
+---
 name:
   common: Greece
   official: Hellenic Republic
@@ -7,9 +8,9 @@ name:
       official: Ελληνική Δημοκρατία
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Greek, Hellenic
 tlds:
-- .gr
+- ".gr"
 languages:
   ell: Greek
 translations:
@@ -42,10 +43,10 @@ codes:
   alpha2: GR
   alpha3: GRC
   cioc: GRE
-  ccn3: "300"
+  ccn3: '300'
   callingcodes:
-  - "30"
-  internationalprefix: "00"
+  - '30'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

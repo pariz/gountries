@@ -1,3 +1,4 @@
+---
 name:
   common: British Virgin Islands
   official: Virgin Islands
@@ -7,9 +8,9 @@ name:
       official: Virgin Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: British Virgin Island
 tlds:
-- .vg
+- ".vg"
 languages:
   eng: English
 translations:
@@ -41,10 +42,10 @@ codes:
   alpha2: VG
   alpha3: VGB
   cioc: IVB
-  ccn3: "092"
+  ccn3: '092'
   callingcodes:
-  - "1284"
-  internationalprefix: "011"
+  - '1284'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean
@@ -52,8 +53,8 @@ geo:
   capital: Road Town
   area: 151
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: -64.85
   minlatitude: 18.3
   maxlongitude: -64.26667

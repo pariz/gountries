@@ -1,3 +1,4 @@
+---
 name:
   common: Georgia
   official: Georgia
@@ -7,9 +8,9 @@ name:
       official: საქართველო
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Georgian
 tlds:
-- .ge
+- ".ge"
 languages:
   kat: Georgian
 translations:
@@ -42,10 +43,10 @@ codes:
   alpha2: GE
   alpha3: GEO
   cioc: GEO
-  ccn3: "268"
+  ccn3: '268'
   callingcodes:
-  - "995"
-  internationalprefix: "810"
+  - '995'
+  internationalprefix: '810'
 geo:
   region: Asia
   subregion: Western Asia

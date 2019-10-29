@@ -1,3 +1,4 @@
+---
 name:
   common: Ukraine
   official: Ukraine
@@ -10,10 +11,10 @@ name:
       official: Україна
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ukrainian
 tlds:
-- .ua
-- .укр
+- ".ua"
+- ".укр"
 languages:
   rus: Russian
   ukr: Ukrainian
@@ -38,10 +39,10 @@ codes:
   alpha2: UA
   alpha3: UKR
   cioc: UKR
-  ccn3: "804"
+  ccn3: '804'
   callingcodes:
-  - "380"
-  internationalprefix: "810"
+  - '380'
+  internationalprefix: '810'
 geo:
   region: Europe
   subregion: Eastern Europe

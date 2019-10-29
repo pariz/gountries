@@ -1,3 +1,4 @@
+---
 name:
   common: Antigua and Barbuda
   official: Antigua and Barbuda
@@ -7,9 +8,9 @@ name:
       official: Antigua and Barbuda
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Antiguan or Barbudan
 tlds:
-- .ag
+- ".ag"
 languages:
   eng: English
 translations:
@@ -38,10 +39,10 @@ codes:
   alpha2: AG
   alpha3: ATG
   cioc: ANT
-  ccn3: "028"
+  ccn3: '028'
   callingcodes:
-  - "1268"
-  internationalprefix: "011"
+  - '1268'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

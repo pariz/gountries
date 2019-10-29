@@ -1,3 +1,4 @@
+---
 name:
   common: DR Congo
   official: Democratic Republic of the Congo
@@ -19,9 +20,9 @@ name:
       official: Jamhuri ya Kidemokrasia ya Kongo
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Congolese
 tlds:
-- .cd
+- ".cd"
 languages:
   fra: French
   kon: Kikongo
@@ -72,16 +73,16 @@ codes:
   alpha2: CD
   alpha3: COD
   cioc: COD
-  ccn3: "180"
+  ccn3: '180'
   callingcodes:
-  - "243"
-  internationalprefix: "00"
+  - '243'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa
   continent: Africa
   capital: Kinshasa
-  area: 2.344858e+06
+  area: 2344858.0
 coordinates:
   longitudestring: 25 00 E
   latitudestring: 0 00 N

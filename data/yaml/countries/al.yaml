@@ -1,3 +1,4 @@
+---
 name:
   common: Albania
   official: Republic of Albania
@@ -7,9 +8,9 @@ name:
       official: Republika e Shqipërisë
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Albanian
 tlds:
-- .al
+- ".al"
 languages:
   sqi: Albanian
 translations:
@@ -51,10 +52,10 @@ codes:
   alpha2: AL
   alpha3: ALB
   cioc: ALB
-  ccn3: "008"
+  ccn3: '008'
   callingcodes:
-  - "355"
-  internationalprefix: "00"
+  - '355'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Southern Europe

@@ -1,3 +1,4 @@
+---
 name:
   common: American Samoa
   official: American Samoa
@@ -10,9 +11,9 @@ name:
       official: Sāmoa Amelika
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American Samoan
 tlds:
-- .as
+- ".as"
 languages:
   eng: English
   smo: Samoan
@@ -45,10 +46,10 @@ codes:
   alpha2: AS
   alpha3: ASM
   cioc: ASA
-  ccn3: "016"
+  ccn3: '016'
   callingcodes:
-  - "1684"
-  internationalprefix: "011"
+  - '1684'
+  internationalprefix: '011'
 geo:
   region: Oceania
   subregion: Polynesia

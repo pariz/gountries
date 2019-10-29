@@ -1,3 +1,4 @@
+---
 name:
   common: Saint Kitts and Nevis
   official: Federation of Saint Christopher and Nevisa
@@ -7,9 +8,9 @@ name:
       official: Federation of Saint Christopher and Nevisa
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Kittitian or Nevisian
 tlds:
-- .kn
+- ".kn"
 languages:
   eng: English
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: KN
   alpha3: KNA
   cioc: SKN
-  ccn3: "659"
+  ccn3: '659'
   callingcodes:
-  - "1869"
-  internationalprefix: "011"
+  - '1869'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

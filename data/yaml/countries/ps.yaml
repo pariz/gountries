@@ -1,3 +1,4 @@
+---
 name:
   common: Palestine
   official: State of Palestine
@@ -7,9 +8,9 @@ name:
       official: دولة فلسطين
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Palestinian
 tlds:
-- .ps
+- ".ps"
 - فلسطين.
 languages:
   ara: Arabic
@@ -48,10 +49,10 @@ codes:
   alpha2: PS
   alpha3: PSE
   cioc: PLE
-  ccn3: "275"
+  ccn3: '275'
   callingcodes:
-  - "970"
-  internationalprefix: "00"
+  - '970'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Western Asia
@@ -59,8 +60,8 @@ geo:
   capital: Ramallah
   area: 6220
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: 34.218765
   minlatitude: 31.21969
   maxlongitude: 35.57405

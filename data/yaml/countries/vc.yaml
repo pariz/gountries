@@ -1,3 +1,4 @@
+---
 name:
   common: Saint Vincent and the Grenadines
   official: Saint Vincent and the Grenadines
@@ -7,9 +8,9 @@ name:
       official: Saint Vincent and the Grenadines
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saint Vincentian, Vincentian
 tlds:
-- .vc
+- ".vc"
 languages:
   eng: English
 translations:
@@ -47,10 +48,10 @@ codes:
   alpha2: VC
   alpha3: VCT
   cioc: VIN
-  ccn3: "670"
+  ccn3: '670'
   callingcodes:
-  - "1784"
-  internationalprefix: "011"
+  - '1784'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

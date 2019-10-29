@@ -1,3 +1,4 @@
+---
 name:
   common: Hungary
   official: Hungary
@@ -7,9 +8,9 @@ name:
       official: Magyarország
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Hungarian, Magyar
 tlds:
-- .hu
+- ".hu"
 languages:
   hun: Hungarian
 translations:
@@ -54,10 +55,10 @@ codes:
   alpha2: HU
   alpha3: HUN
   cioc: HUN
-  ccn3: "348"
+  ccn3: '348'
   callingcodes:
-  - "36"
-  internationalprefix: "00"
+  - '36'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

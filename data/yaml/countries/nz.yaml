@@ -1,3 +1,4 @@
+---
 name:
   common: New Zealand
   official: New Zealand
@@ -13,9 +14,9 @@ name:
       official: New Zealand
 eumember: false
 landlocked: false
-nationality: ""
+nationality: New Zealand, NZ
 tlds:
-- .nz
+- ".nz"
 languages:
   eng: English
   mri: Māori
@@ -43,10 +44,10 @@ codes:
   alpha2: NZ
   alpha3: NZL
   cioc: NZL
-  ccn3: "554"
+  ccn3: '554'
   callingcodes:
-  - "64"
-  internationalprefix: "00"
+  - '64'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Australia and New Zealand

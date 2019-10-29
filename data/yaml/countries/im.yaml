@@ -1,3 +1,4 @@
+---
 name:
   common: Isle of Man
   official: Isle of Man
@@ -10,9 +11,9 @@ name:
       official: Ellan Vannin or Mannin
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Manx
 tlds:
-- .im
+- ".im"
 languages:
   eng: English
   glv: Manx
@@ -35,11 +36,11 @@ borders: []
 codes:
   alpha2: IM
   alpha3: IMN
-  cioc: ""
-  ccn3: "833"
+  cioc: ''
+  ccn3: '833'
   callingcodes:
-  - "44"
-  internationalprefix: ""
+  - '44'
+  internationalprefix: ''
 geo:
   region: Europe
   subregion: Northern Europe

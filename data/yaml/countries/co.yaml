@@ -1,3 +1,4 @@
+---
 name:
   common: Colombia
   official: Republic of Colombia
@@ -7,9 +8,9 @@ name:
       official: República de Colombia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Colombian
 tlds:
-- .co
+- ".co"
 languages:
   spa: Spanish
 translations:
@@ -49,16 +50,16 @@ codes:
   alpha2: CO
   alpha3: COL
   cioc: COL
-  ccn3: "170"
+  ccn3: '170'
   callingcodes:
-  - "57"
-  internationalprefix: "005"
+  - '57'
+  internationalprefix: '005'
 geo:
   region: Americas
   subregion: South America
   continent: South America
   capital: Bogotá
-  area: 1.141748e+06
+  area: 1141748.0
 coordinates:
   longitudestring: 72 00 W
   latitudestring: 4 00 N

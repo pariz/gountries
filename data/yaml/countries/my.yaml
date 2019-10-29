@@ -1,3 +1,4 @@
+---
 name:
   common: Malaysia
   official: Malaysia
@@ -10,9 +11,9 @@ name:
       official: مليسيا
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Malaysian
 tlds:
-- .my
+- ".my"
 languages:
   eng: English
   msa: Malay
@@ -39,10 +40,10 @@ codes:
   alpha2: MY
   alpha3: MYS
   cioc: MAS
-  ccn3: "458"
+  ccn3: '458'
   callingcodes:
-  - "60"
-  internationalprefix: "00"
+  - '60'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: South-Eastern Asia

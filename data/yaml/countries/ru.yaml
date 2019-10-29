@@ -1,3 +1,4 @@
+---
 name:
   common: Russia
   official: Russian Federation
@@ -7,11 +8,11 @@ name:
       official: Русская Федерация
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Russian
 tlds:
-- .ru
-- .su
-- .рф
+- ".ru"
+- ".su"
+- ".рф"
 languages:
   rus: Russian
 translations:
@@ -54,16 +55,16 @@ codes:
   alpha2: RU
   alpha3: RUS
   cioc: RUS
-  ccn3: "643"
+  ccn3: '643'
   callingcodes:
-  - "7"
-  internationalprefix: "810"
+  - '7'
+  internationalprefix: '810'
 geo:
   region: Europe
   subregion: Eastern Europe
   continent: Europe
   capital: Moscow
-  area: 1.7098242e+07
+  area: 17098242.0
 coordinates:
   longitudestring: 100 00 E
   latitudestring: 60 00 N

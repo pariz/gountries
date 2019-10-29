@@ -1,3 +1,4 @@
+---
 name:
   common: Turks and Caicos Islands
   official: Turks and Caicos Islands
@@ -7,9 +8,9 @@ name:
       official: Turks and Caicos Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Turks and Caicos Island
 tlds:
-- .tc
+- ".tc"
 languages:
   eng: English
 translations:
@@ -43,11 +44,11 @@ borders: []
 codes:
   alpha2: TC
   alpha3: TCA
-  cioc: ""
-  ccn3: "796"
+  cioc: ''
+  ccn3: '796'
   callingcodes:
-  - "1649"
-  internationalprefix: "011"
+  - '1649'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

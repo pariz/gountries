@@ -1,3 +1,4 @@
+---
 name:
   common: Djibouti
   official: Republic of Djibouti
@@ -10,9 +11,9 @@ name:
       official: République de Djibouti
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Djiboutian
 tlds:
-- .dj
+- ".dj"
 languages:
   ara: Arabic
   fra: French
@@ -51,10 +52,10 @@ codes:
   alpha2: DJ
   alpha3: DJI
   cioc: DJI
-  ccn3: "262"
+  ccn3: '262'
   callingcodes:
-  - "253"
-  internationalprefix: "00"
+  - '253'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

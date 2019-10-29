@@ -1,3 +1,4 @@
+---
 name:
   common: Bulgaria
   official: Republic of Bulgaria
@@ -7,9 +8,9 @@ name:
       official: Република България
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Bulgarian
 tlds:
-- .bg
+- ".bg"
 languages:
   bul: Bulgarian
 translations:
@@ -49,10 +50,10 @@ codes:
   alpha2: BG
   alpha3: BGR
   cioc: BUL
-  ccn3: "100"
+  ccn3: '100'
   callingcodes:
-  - "359"
-  internationalprefix: "00"
+  - '359'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Eastern Europe

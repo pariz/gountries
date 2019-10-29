@@ -1,3 +1,4 @@
+---
 name:
   common: Cameroon
   official: Republic of Cameroon
@@ -10,9 +11,9 @@ name:
       official: République du Cameroun
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cameroonian
 tlds:
-- .cm
+- ".cm"
 languages:
   eng: English
   fra: French
@@ -54,10 +55,10 @@ codes:
   alpha2: CM
   alpha3: CMR
   cioc: CMR
-  ccn3: "120"
+  ccn3: '120'
   callingcodes:
-  - "237"
-  internationalprefix: "00"
+  - '237'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa

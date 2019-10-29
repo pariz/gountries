@@ -1,3 +1,4 @@
+---
 name:
   common: Liechtenstein
   official: Principality of Liechtenstein
@@ -7,9 +8,9 @@ name:
       official: Fürstentum Liechtenstein
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Liechtenstein
 tlds:
-- .li
+- ".li"
 languages:
   deu: German
 translations:
@@ -34,10 +35,10 @@ codes:
   alpha2: LI
   alpha3: LIE
   cioc: LIE
-  ccn3: "438"
+  ccn3: '438'
   callingcodes:
-  - "423"
-  internationalprefix: "00"
+  - '423'
+  internationalprefix: '00'
 geo:
   region: Europe
   subregion: Western Europe

@@ -1,3 +1,4 @@
+---
 name:
   common: Argentina
   official: Argentine Republic
@@ -10,9 +11,9 @@ name:
       official: República Argentina
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Argentine
 tlds:
-- .ar
+- ".ar"
 languages:
   grn: Guaraní
   spa: Spanish
@@ -59,16 +60,16 @@ codes:
   alpha2: AR
   alpha3: ARG
   cioc: ARG
-  ccn3: "032"
+  ccn3: '032'
   callingcodes:
-  - "54"
-  internationalprefix: "00"
+  - '54'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America
   continent: South America
   capital: Buenos Aires
-  area: 2.7804e+06
+  area: 2780400.0
 coordinates:
   longitudestring: 64 00 W
   latitudestring: 34 00 S

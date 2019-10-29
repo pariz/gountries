@@ -1,3 +1,4 @@
+---
 name:
   common: Guinea
   official: Republic of Guinea
@@ -7,9 +8,9 @@ name:
       official: République de Guinée
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guinean
 tlds:
-- .gn
+- ".gn"
 languages:
   fra: French
 translations:
@@ -50,10 +51,10 @@ codes:
   alpha2: GN
   alpha3: GIN
   cioc: GUI
-  ccn3: "324"
+  ccn3: '324'
   callingcodes:
-  - "224"
-  internationalprefix: "00"
+  - '224'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

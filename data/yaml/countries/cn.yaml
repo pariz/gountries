@@ -1,3 +1,4 @@
+---
 name:
   common: China
   official: People's Republic of China
@@ -7,13 +8,13 @@ name:
       official: 中华人民共和国
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Chinese
 tlds:
-- .cn
-- .中国
-- .中國
-- .公司
-- .网络
+- ".cn"
+- ".中国"
+- ".中國"
+- ".公司"
+- ".网络"
 languages:
   cmn: Mandarin
 translations:
@@ -60,16 +61,16 @@ codes:
   alpha2: CN
   alpha3: CHN
   cioc: CHN
-  ccn3: "156"
+  ccn3: '156'
   callingcodes:
-  - "86"
-  internationalprefix: "00"
+  - '86'
+  internationalprefix: '00'
 geo:
   region: Asia
   subregion: Eastern Asia
   continent: Asia
   capital: Beijing
-  area: 9.706961e+06
+  area: 9706961.0
 coordinates:
   longitudestring: 105 00 E
   latitudestring: 35 00 N

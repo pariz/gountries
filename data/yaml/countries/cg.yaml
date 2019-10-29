@@ -1,3 +1,4 @@
+---
 name:
   common: Republic of the Congo
   official: Republic of the Congo
@@ -13,9 +14,9 @@ name:
       official: Republíki ya Kongó
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Congolese
 tlds:
-- .cg
+- ".cg"
 languages:
   fra: French
   kon: Kikongo
@@ -60,10 +61,10 @@ codes:
   alpha2: CG
   alpha3: COG
   cioc: CGO
-  ccn3: "178"
+  ccn3: '178'
   callingcodes:
-  - "242"
-  internationalprefix: "00"
+  - '242'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa

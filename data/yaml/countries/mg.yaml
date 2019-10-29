@@ -1,3 +1,4 @@
+---
 name:
   common: Madagascar
   official: Republic of Madagascar
@@ -10,9 +11,9 @@ name:
       official: Repoblikan'i Madagasikara
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Malagasy
 tlds:
-- .mg
+- ".mg"
 languages:
   fra: French
   mlg: Malagasy
@@ -48,10 +49,10 @@ codes:
   alpha2: MG
   alpha3: MDG
   cioc: MAD
-  ccn3: "450"
+  ccn3: '450'
   callingcodes:
-  - "261"
-  internationalprefix: "00"
+  - '261'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Eastern Africa

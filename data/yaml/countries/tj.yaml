@@ -1,3 +1,4 @@
+---
 name:
   common: Tajikistan
   official: Republic of Tajikistan
@@ -10,9 +11,9 @@ name:
       official: Ҷумҳурии Тоҷикистон
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Tajikistani
 tlds:
-- .tj
+- ".tj"
 languages:
   rus: Russian
   tgk: Tajik
@@ -46,10 +47,10 @@ codes:
   alpha2: TJ
   alpha3: TJK
   cioc: TJK
-  ccn3: "762"
+  ccn3: '762'
   callingcodes:
-  - "992"
-  internationalprefix: "810"
+  - '992'
+  internationalprefix: '810'
 geo:
   region: Asia
   subregion: Central Asia

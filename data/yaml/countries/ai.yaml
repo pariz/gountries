@@ -1,3 +1,4 @@
+---
 name:
   common: Anguilla
   official: Anguilla
@@ -7,9 +8,9 @@ name:
       official: Anguilla
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Anguillan
 tlds:
-- .ai
+- ".ai"
 languages:
   eng: English
 translations:
@@ -37,11 +38,11 @@ borders: []
 codes:
   alpha2: AI
   alpha3: AIA
-  cioc: ""
-  ccn3: "660"
+  cioc: ''
+  ccn3: '660'
   callingcodes:
-  - "1264"
-  internationalprefix: "011"
+  - '1264'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

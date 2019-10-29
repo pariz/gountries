@@ -1,3 +1,4 @@
+---
 name:
   common: Vanuatu
   official: Republic of Vanuatu
@@ -13,9 +14,9 @@ name:
       official: République de Vanuatu
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ni-Vanuatu, Vanuatuan
 tlds:
-- .vu
+- ".vu"
 languages:
   bis: Bislama
   eng: English
@@ -49,10 +50,10 @@ codes:
   alpha2: VU
   alpha3: VUT
   cioc: VAN
-  ccn3: "548"
+  ccn3: '548'
   callingcodes:
-  - "678"
-  internationalprefix: "00"
+  - '678'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Melanesia

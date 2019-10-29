@@ -1,3 +1,4 @@
+---
 name:
   common: Niger
   official: Republic of Niger
@@ -7,9 +8,9 @@ name:
       official: République du Niger
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Nigerien
 tlds:
-- .ne
+- ".ne"
 languages:
   fra: French
 translations:
@@ -48,16 +49,16 @@ codes:
   alpha2: NE
   alpha3: NER
   cioc: NIG
-  ccn3: "562"
+  ccn3: '562'
   callingcodes:
-  - "227"
-  internationalprefix: "00"
+  - '227'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa
   continent: Africa
   capital: Niamey
-  area: 1.267e+06
+  area: 1267000.0
 coordinates:
   longitudestring: 8 00 E
   latitudestring: 16 00 N

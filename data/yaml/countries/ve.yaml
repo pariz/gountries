@@ -1,3 +1,4 @@
+---
 name:
   common: Venezuela
   official: Bolivarian Republic of Venezuela
@@ -7,9 +8,9 @@ name:
       official: República Bolivariana de Venezuela
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Venezuelan
 tlds:
-- .ve
+- ".ve"
 languages:
   spa: Spanish
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: VE
   alpha3: VEN
   cioc: VEN
-  ccn3: "862"
+  ccn3: '862'
   callingcodes:
-  - "58"
-  internationalprefix: "00"
+  - '58'
+  internationalprefix: '00'
 geo:
   region: Americas
   subregion: South America

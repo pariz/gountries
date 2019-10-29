@@ -1,3 +1,4 @@
+---
 name:
   common: Sierra Leone
   official: Republic of Sierra Leone
@@ -7,9 +8,9 @@ name:
       official: Republic of Sierra Leone
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sierra Leonean
 tlds:
-- .sl
+- ".sl"
 languages:
   eng: English
 translations:
@@ -34,10 +35,10 @@ codes:
   alpha2: SL
   alpha3: SLE
   cioc: SLE
-  ccn3: "694"
+  ccn3: '694'
   callingcodes:
-  - "232"
-  internationalprefix: "00"
+  - '232'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

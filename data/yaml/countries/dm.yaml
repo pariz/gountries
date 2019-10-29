@@ -1,3 +1,4 @@
+---
 name:
   common: Dominica
   official: Commonwealth of Dominica
@@ -7,9 +8,9 @@ name:
       official: Commonwealth of Dominica
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Dominican
 tlds:
-- .dm
+- ".dm"
 languages:
   eng: English
 translations:
@@ -38,10 +39,10 @@ codes:
   alpha2: DM
   alpha3: DMA
   cioc: DMA
-  ccn3: "212"
+  ccn3: '212'
   callingcodes:
-  - "1767"
-  internationalprefix: "011"
+  - '1767'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean

@@ -1,3 +1,4 @@
+---
 name:
   common: Åland Islands
   official: Åland Islands
@@ -7,9 +8,9 @@ name:
       official: Landskapet Åland
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Åland Island
 tlds:
-- .ax
+- ".ax"
 languages:
   swe: Swedish
 translations:
@@ -46,11 +47,11 @@ borders: []
 codes:
   alpha2: AX
   alpha3: ALA
-  cioc: ""
-  ccn3: "248"
+  cioc: ''
+  ccn3: '248'
   callingcodes:
-  - "358"
-  internationalprefix: ""
+  - '358'
+  internationalprefix: ''
 geo:
   region: Europe
   subregion: Northern Europe
@@ -58,8 +59,8 @@ geo:
   capital: Mariehamn
   area: 1580
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
+  longitudestring: ''
+  latitudestring: ''
   minlongitude: 19.263319
   minlatitude: 59.727222
   maxlongitude: 21.485853

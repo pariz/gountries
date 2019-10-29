@@ -1,3 +1,4 @@
+---
 name:
   common: Hong Kong
   official: Hong Kong Special Administrative Region of the People's Republic of China
@@ -11,10 +12,10 @@ name:
       official: 香港中国特别行政区的人民共和国
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Hong Kong, Hong Kongese
 tlds:
-- .hk
-- .香港
+- ".hk"
+- ".香港"
 languages:
   eng: English
   zho: Chinese
@@ -44,10 +45,10 @@ codes:
   alpha2: HK
   alpha3: HKG
   cioc: HKG
-  ccn3: "344"
+  ccn3: '344'
   callingcodes:
-  - "852"
-  internationalprefix: "001"
+  - '852'
+  internationalprefix: '001'
 geo:
   region: Asia
   subregion: Eastern Asia

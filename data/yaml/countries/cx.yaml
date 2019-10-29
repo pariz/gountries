@@ -1,3 +1,4 @@
+---
 name:
   common: Christmas Island
   official: Territory of Christmas Island
@@ -7,9 +8,9 @@ name:
       official: Territory of Christmas Island
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Christmas Island
 tlds:
-- .cx
+- ".cx"
 languages:
   eng: English
 translations:
@@ -31,11 +32,11 @@ borders: []
 codes:
   alpha2: CX
   alpha3: CXR
-  cioc: ""
-  ccn3: "162"
+  cioc: ''
+  ccn3: '162'
   callingcodes:
-  - "61"
-  internationalprefix: "0011"
+  - '61'
+  internationalprefix: '0011'
 geo:
   region: Oceania
   subregion: Australia and New Zealand

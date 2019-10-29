@@ -1,3 +1,4 @@
+---
 name:
   common: Jersey
   official: Bailiwick of Jersey
@@ -13,9 +14,9 @@ name:
       official: Bailliage dé Jèrri
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Channel Island
 tlds:
-- .je
+- ".je"
 languages:
   eng: English
   fra: French
@@ -45,11 +46,11 @@ borders: []
 codes:
   alpha2: JE
   alpha3: JEY
-  cioc: ""
-  ccn3: "832"
+  cioc: ''
+  ccn3: '832'
   callingcodes:
-  - "44"
-  internationalprefix: ""
+  - '44'
+  internationalprefix: ''
 geo:
   region: Europe
   subregion: Northern Europe

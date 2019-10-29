@@ -1,3 +1,4 @@
+---
 name:
   common: Egypt
   official: Arab Republic of Egypt
@@ -7,10 +8,10 @@ name:
       official: جمهورية مصر العربية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Egyptian
 tlds:
-- .eg
-- .مصر
+- ".eg"
+- ".مصر"
 languages:
   ara: Arabic
 translations:
@@ -45,16 +46,16 @@ codes:
   alpha2: EG
   alpha3: EGY
   cioc: EGY
-  ccn3: "818"
+  ccn3: '818'
   callingcodes:
-  - "20"
-  internationalprefix: "00"
+  - '20'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Northern Africa
   continent: Africa
   capital: Cairo
-  area: 1.00245e+06
+  area: 1002450.0
 coordinates:
   longitudestring: 30 00 E
   latitudestring: 27 00 N

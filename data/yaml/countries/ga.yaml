@@ -1,3 +1,4 @@
+---
 name:
   common: Gabon
   official: Gabonese Republic
@@ -7,9 +8,9 @@ name:
       official: République gabonaise
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Gabonese
 tlds:
-- .ga
+- ".ga"
 languages:
   fra: French
 translations:
@@ -44,10 +45,10 @@ codes:
   alpha2: GA
   alpha3: GAB
   cioc: GAB
-  ccn3: "266"
+  ccn3: '266'
   callingcodes:
-  - "241"
-  internationalprefix: "00"
+  - '241'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa

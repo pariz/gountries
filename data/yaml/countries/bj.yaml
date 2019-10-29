@@ -1,3 +1,4 @@
+---
 name:
   common: Benin
   official: Republic of Benin
@@ -7,9 +8,9 @@ name:
       official: République du Bénin
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Beninese, Beninois
 tlds:
-- .bj
+- ".bj"
 languages:
   fra: French
 translations:
@@ -48,10 +49,10 @@ codes:
   alpha2: BJ
   alpha3: BEN
   cioc: BEN
-  ccn3: "204"
+  ccn3: '204'
   callingcodes:
-  - "229"
-  internationalprefix: "00"
+  - '229'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Western Africa

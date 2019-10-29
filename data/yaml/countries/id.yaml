@@ -1,3 +1,4 @@
+---
 name:
   common: Indonesia
   official: Republic of Indonesia
@@ -7,9 +8,9 @@ name:
       official: Republik Indonesia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Indonesian
 tlds:
-- .id
+- ".id"
 languages:
   ind: Indonesian
 translations:
@@ -47,16 +48,16 @@ codes:
   alpha2: ID
   alpha3: IDN
   cioc: INA
-  ccn3: "360"
+  ccn3: '360'
   callingcodes:
-  - "62"
-  internationalprefix: "001"
+  - '62'
+  internationalprefix: '001'
 geo:
   region: Asia
   subregion: South-Eastern Asia
   continent: Asia
   capital: Jakarta
-  area: 1.904569e+06
+  area: 1904569.0
 coordinates:
   longitudestring: 120 00 E
   latitudestring: 5 00 S

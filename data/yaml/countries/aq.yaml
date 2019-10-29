@@ -1,12 +1,13 @@
+---
 name:
   common: Antarctica
   official: Antarctica
   native: {}
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Antarctic
 tlds:
-- .aq
+- ".aq"
 languages: {}
 translations:
   CYM:
@@ -44,16 +45,16 @@ borders: []
 codes:
   alpha2: AQ
   alpha3: ATA
-  cioc: ""
-  ccn3: "010"
+  cioc: ''
+  ccn3: '010'
   callingcodes: []
-  internationalprefix: ""
+  internationalprefix: ''
 geo:
-  region: ""
-  subregion: ""
+  region: ''
+  subregion: ''
   continent: Antarctica
-  capital: ""
-  area: 1.4e+07
+  capital: ''
+  area: 14000000.0
 coordinates:
   longitudestring: 0 00 E
   latitudestring: 90 00 S

@@ -1,3 +1,4 @@
+---
 name:
   common: Kiribati
   official: Independent and Sovereign Republic of Kiribati
@@ -10,9 +11,9 @@ name:
       official: Ribaberiki Kiribati
 eumember: false
 landlocked: false
-nationality: ""
+nationality: I-Kiribati
 tlds:
-- .ki
+- ".ki"
 languages:
   eng: English
   gil: Gilbertese
@@ -51,10 +52,10 @@ codes:
   alpha2: KI
   alpha3: KIR
   cioc: KIR
-  ccn3: "296"
+  ccn3: '296'
   callingcodes:
-  - "686"
-  internationalprefix: "00"
+  - '686'
+  internationalprefix: '00'
 geo:
   region: Oceania
   subregion: Micronesia

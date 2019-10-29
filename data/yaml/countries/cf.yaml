@@ -1,3 +1,4 @@
+---
 name:
   common: Central African Republic
   official: Central African Republic
@@ -10,9 +11,9 @@ name:
       official: Ködörösêse tî Bêafrîka
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Central African
 tlds:
-- .cf
+- ".cf"
 languages:
   fra: French
   sag: Sango
@@ -54,10 +55,10 @@ codes:
   alpha2: CF
   alpha3: CAF
   cioc: CAF
-  ccn3: "140"
+  ccn3: '140'
   callingcodes:
-  - "236"
-  internationalprefix: "00"
+  - '236'
+  internationalprefix: '00'
 geo:
   region: Africa
   subregion: Middle Africa

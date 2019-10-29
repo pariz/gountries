@@ -1,3 +1,4 @@
+---
 name:
   common: Cayman Islands
   official: Cayman Islands
@@ -7,9 +8,9 @@ name:
       official: Cayman Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Caymanian
 tlds:
-- .ky
+- ".ky"
 languages:
   eng: English
 translations:
@@ -38,10 +39,10 @@ codes:
   alpha2: KY
   alpha3: CYM
   cioc: CAY
-  ccn3: "136"
+  ccn3: '136'
   callingcodes:
-  - "1345"
-  internationalprefix: "011"
+  - '1345'
+  internationalprefix: '011'
 geo:
   region: Americas
   subregion: Caribbean
