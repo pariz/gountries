@@ -1,0 +1,42 @@
+- name: Bonaire
+  names:
+    - Bonaire
+  code: BO
+  countryalpha2: BQ
+  coordinates:
+    longitudestring: ''
+    latitudestring: ''
+    minlongitude: -68.4209633
+    minlatitude: 12.0245041
+    maxlongitude: -62.9457767
+    maxlatitude: 17.6502944
+    latitude: 12.1783611
+    longitude: -68.2385339
+- name: Saba
+  names:
+    - Saba
+  code: SA
+  countryalpha2: BQ
+  coordinates:
+    longitudestring: ''
+    latitudestring: ''
+    minlongitude: -63.2586893
+    minlatitude: 17.6143287
+    maxlongitude: -63.21503169999999
+    maxlatitude: 17.6502944
+    latitude: 17.6354642
+    longitude: -63.2326763
+- name: Sint Eustatius
+  names:
+    - Sint Eustatius
+  code: SE
+  countryalpha2: BQ
+  coordinates:
+    longitudestring: ''
+    latitudestring: ''
+    minlongitude: -63.002982
+    minlatitude: 17.4645198
+    maxlongitude: -62.94606899999999
+    maxlatitude: 17.5258551
+    latitude: 17.4890306
+    longitude: -62.973555

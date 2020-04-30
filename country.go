@@ -28,7 +28,9 @@ type Country struct {
 	Coordinates
 
 	// Private
-	subdivisions []SubDivision
+	subdivisions      []SubDivision
+	nameToSubdivision map[string]SubDivision
+	codeToSubdivision map[string]SubDivision
 }
 
 // MeasurableCoordinates provides long/lat for country struct
@@ -59,17 +61,25 @@ func (c *Country) BorderingCountries() (countries []Country) {
 
 // SubDivisions returns the subdivisions for the given Country
 func (c *Country) SubDivisions() (subdivisions []SubDivision) {
+	return c.subdivisions
+}
 
-	query := New()
-
-	if res := query.Subdivisions[strings.ToLower(c.Alpha2)]; res != nil {
-
-		subdivisions = res
-
+// FindSubdivisionByName fincs a country by given name
+func (c *Country) FindSubdivisionByName(name string) (result SubDivision, err error) {
+	s, exists := c.nameToSubdivision[strings.ToLower(name)]
+	if !exists {
+		return SubDivision{}, makeError("Could not find subdivision with name", name)
 	}
+	return s, nil
+}
 
-	return
-
+// FindSubdivisionByCode fincs a country by given code
+func (c *Country) FindSubdivisionByCode(code string) (result SubDivision, err error) {
+	s, exists := c.codeToSubdivision[strings.ToLower(code)]
+	if !exists {
+		return SubDivision{}, makeError("Could not find subdivision with code", code)
+	}
+	return s, nil
 }
 
 // Codes contains various code representations
