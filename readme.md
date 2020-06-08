@@ -46,16 +46,21 @@ fmt.Println(sweden.Name.Official) // Output: Konungariket Sverige
 
 fmt.Println(sweden.Translations["DEU"].Common) // Output: Schweden
 fmt.Println(sweden.Translations["DEU"].Official) // Output: Königreich Schweden
+}
 
 
 ```
 ## A bit more advanced
 ```go
 
+package main
+
 import (
   "github.com/pariz/gountries"
   "fmt"
 )
+
+func main(){
 
 query := gountries.New()
 
