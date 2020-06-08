@@ -22,12 +22,15 @@ go get github.com/pariz/gountries
 ## Basic
 ```go
 
+package main
+
 import (
   "github.com/pariz/gountries"
   "fmt"
 )
 
 
+func main(){
 query := gountries.New()
 
 /////////////////
@@ -93,7 +96,7 @@ for _, subdivision := range subdivisions {
 // Find all countries bordering Germany and Switzerland //
 //////////////////////////////////////////////////////////
 
-countryQuery := Country{
+countryQuery := gountries.Country{
 	Borders: []string{
 		"DEU",
 		"CHE",
@@ -133,6 +136,7 @@ fmt.Println(distance)
 
 // Output:
 // 2641.26145088825
+}
 
 
 ```
