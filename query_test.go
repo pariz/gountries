@@ -151,7 +151,7 @@ func TestFindCountryByAlpha(t *testing.T) {
 
 func TestFindAllCountries(t *testing.T) {
 
-	assert.Len(t, query.FindAllCountries(), 247)
+	assert.Len(t, query.FindAllCountries(), 249)
 
 }
 
