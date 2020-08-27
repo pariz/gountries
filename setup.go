@@ -21,7 +21,7 @@ func New() *Query {
 // NewFromPath creates a Query object from data folder in provided path
 func NewFromPath(dataPath string) *Query {
 
-	if queryInited == false {
+	queryInitOnce.Do(func() {
 		queryInstance = &Query{
 			Countries: populateCountries(dataPath),
 		}
@@ -45,9 +45,7 @@ func NewFromPath(dataPath string) *Query {
 			}
 			queryInstance.Countries[k] = c
 		}
-
-		queryInited = true
-	}
+	})
 
 	return queryInstance
 }
