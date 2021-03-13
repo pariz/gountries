@@ -4,7 +4,7 @@ name:
   native:
     por:
       common: Portugal
-      official: República português
+      official: República Portuguesa
 eumember: true
 landlocked: false
 nationality: ""
@@ -12,6 +12,7 @@ tlds:
 - .pt
 languages:
   por: Portuguese
+  mwl: Mirandese
 translations:
   DEU:
     common: Portugal
@@ -24,7 +25,7 @@ translations:
     official: ポルトガル共和国
   POR:
     common: Portugal
-    official: República português
+    official: República Portuguesa
   RUS:
     common: Португалия
     official: Португальская Республика
@@ -45,7 +46,7 @@ geo:
   subregion: Southern Europe
   continent: Europe
   capital: Lisbon
-  area: 92090
+  area: 92152
 coordinates:
   longitudestring: 8 00 W
   latitudestring: 39 30 N
