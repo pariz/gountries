@@ -12,6 +12,7 @@ tlds:
 - .pt
 languages:
   por: Portuguese
+  mwl: Mirandese
 translations:
   DEU:
     common: Portugal
