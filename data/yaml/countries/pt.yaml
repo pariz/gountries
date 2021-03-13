@@ -4,7 +4,7 @@ name:
   native:
     por:
       common: Portugal
-      official: República português
+      official: República Portuguesa
 eumember: true
 landlocked: false
 nationality: ""
@@ -24,7 +24,7 @@ translations:
     official: ポルトガル共和国
   POR:
     common: Portugal
-    official: República português
+    official: República Portuguesa
   RUS:
     common: Португалия
     official: Португальская Республика
