@@ -151,7 +151,7 @@ func TestFindCountryByAlpha(t *testing.T) {
 
 func TestFindAllCountries(t *testing.T) {
 
-	assert.Len(t, query.FindAllCountries(), 247)
+	assert.Len(t, query.FindAllCountries(), 249)
 
 }
 
@@ -339,5 +339,28 @@ func BenchmarkCountryLookupByName(b *testing.B) {
 			b.Fail()
 		}
 		result = c
+	}
+}
+
+func TestFindSubdivisionCountryByNameOk(t *testing.T) {
+	subdivisionName := "Braga"
+	subdivisionCountry := "Portugal"
+
+	country, err := query.FindSubdivisionCountryByName(subdivisionName)
+	if err != nil {
+		t.Fail()
+	}
+
+	assert.Equal(t, subdivisionCountry, country.Name.Common, fmt.Sprintf("Search %s subdivision country should return %s", subdivisionName, subdivisionCountry))
+}
+
+func TestFindSubdivisionCountryByNameError(t *testing.T) {
+	subdivisionName := "123-bragaaaaa-123"
+
+	_, err := query.FindSubdivisionCountryByName(subdivisionName)
+	if err != nil {
+		assert.Equal(t, "gountries error. Invalid subdivision name: " + subdivisionName, err.Error())
+	} else {
+		t.Fail()
 	}
 }
