@@ -2,10 +2,11 @@ package gountries
 
 import (
 	"strings"
+	"sync"
 )
 
 // Query holds a reference to the QueryHolder struct
-var queryInited = false
+var queryInitOnce sync.Once
 var queryInstance *Query
 
 // Query contains queries for countries, cities, etc.
