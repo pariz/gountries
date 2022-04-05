@@ -11,10 +11,11 @@ var queryInstance *Query
 
 // Query contains queries for countries, cities, etc.
 type Query struct {
-	Countries          map[string]Country
-	NameToAlpha2       map[string]string
-	Alpha3ToAlpha2     map[string]string
-	NativeNameToAlpha2 map[string]string
+	Countries           map[string]Country
+	NameToAlpha2        map[string]string
+	Alpha3ToAlpha2      map[string]string
+	NativeNameToAlpha2  map[string]string
+	CallingCodeToAlpha2 map[string]string
 }
 
 // FindCountryByName finds a country by given name
@@ -56,6 +57,14 @@ func (q *Query) FindCountryByAlpha(code string) (result Country, err error) {
 	default:
 		return Country{}, makeError("Invalid code format", code)
 	}
+}
+
+func (q *Query) FindCountryByCallingCode(callingCode string) (result Country, err error) {
+	alpha2, exists := q.CallingCodeToAlpha2[callingCode]
+	if !exists {
+		return Country{}, makeError("Could not find country with callingCode", callingCode)
+	}
+	return q.Countries[alpha2], nil
 }
 
 // FindAllCountries returns a list of all countries
