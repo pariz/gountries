@@ -3,6 +3,7 @@ package gountries
 import (
 	"fmt"
 	"math/rand"
+	"reflect"
 	"sort"
 	"testing"
 
@@ -359,8 +360,40 @@ func TestFindSubdivisionCountryByNameError(t *testing.T) {
 
 	_, err := query.FindSubdivisionCountryByName(subdivisionName)
 	if err != nil {
-		assert.Equal(t, "gountries error. Invalid subdivision name: " + subdivisionName, err.Error())
+		assert.Equal(t, "gountries error. Invalid subdivision name: "+subdivisionName, err.Error())
 	} else {
 		t.Fail()
+	}
+}
+
+func TestFindCountryByCallingCode(t *testing.T) {
+	country, _ := query.FindCountryByName("India")
+	tests := []struct {
+		name            string
+		callingCode     string
+		expectedError   error
+		expectedCountry Country
+	}{
+		{
+			name:            "Find country by valid calling code should return country when calling code is present for countries",
+			callingCode:     "91",
+			expectedError:   nil,
+			expectedCountry: country,
+		},
+		{
+			name:            "Find country by invalid country code should return error when searching for country",
+			callingCode:     "abc",
+			expectedError:   fmt.Errorf("gountries error. Could not find country with callingCode: abc"),
+			expectedCountry: Country{},
+		},
+	}
+	for _, test := range tests {
+		t.Run(test.name, func(t *testing.T) {
+			actualCountry, actualError := query.FindCountryByCallingCode(test.callingCode)
+			if !(reflect.DeepEqual(test.expectedCountry, actualCountry) &&
+				reflect.DeepEqual(test.expectedError, actualError)) {
+				t.Fail()
+			}
+		})
 	}
 }
