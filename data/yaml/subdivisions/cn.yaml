@@ -1,6 +1,8 @@
-- name: Xizang
+- name: 西藏
   names:
+  - Xizang
   - Tibet
+  - 西藏自治区
   code: "54"
   countryalpha2: CN
   coordinates:
@@ -12,9 +14,11 @@
     maxlatitude: 36.483334
     latitude: 29.646923
     longitude: 91.11721
-- name: Ningxia
+- name: 宁夏
   names:
+  - Ningxia
   - Ningxia Hui
+  - 宁夏回族自治区
   code: "64"
   countryalpha2: CN
   coordinates:
@@ -26,9 +30,10 @@
     maxlatitude: 39.38157
     latitude: 38.471317
     longitude: 106.25875
-- name: Tianjin
+- name: 天津
   names:
   - Tianjin
+  - 天津市
   code: "12"
   countryalpha2: CN
   coordinates:
@@ -40,9 +45,10 @@
     maxlatitude: 40.253216
     latitude: 39.08416
     longitude: 117.20098
-- name: Shanxi
+- name: 山西
   names:
   - Shanxi
+  - 山西省
   code: "14"
   countryalpha2: CN
   coordinates:
@@ -54,9 +60,10 @@
     maxlatitude: 40.73735
     latitude: 37.87353
     longitude: 112.5624
-- name: Heilongjiang
+- name: 黑龙江
   names:
   - Heilongjiang
+  - 黑龙江省
   code: "23"
   countryalpha2: CN
   coordinates:
@@ -68,9 +75,11 @@
     maxlatitude: 53.563625
     latitude: 45.742367
     longitude: 126.66167
-- name: Shanghai
+- name: 上海
   names:
+  - Shanghai
   - Schanghai
+  - 上海市
   code: "31"
   countryalpha2: CN
   coordinates:
@@ -82,9 +91,10 @@
     maxlatitude: 31.868217
     latitude: 31.230415
     longitude: 121.4737
-- name: Sichuan
+- name: 四川
   names:
   - Sichuan
+  - 四川省
   code: "51"
   countryalpha2: CN
   coordinates:
@@ -96,10 +106,11 @@
     maxlatitude: 34.313
     latitude: 30.651651
     longitude: 104.07593
-- name: Beijing
+- name: 北京
   names:
   - Beijing
   - Pekín
+  - 北京市
   code: "11"
   countryalpha2: CN
   coordinates:
@@ -111,9 +122,10 @@
     maxlatitude: 41.060814
     latitude: 39.90421
     longitude: 116.407394
-- name: Shaanxi
+- name: 陕西
   names:
   - Shaanxi
+  - 陕西省
   code: "61"
   countryalpha2: CN
   coordinates:
@@ -125,10 +137,12 @@
     maxlatitude: 39.58701
     latitude: 34.265472
     longitude: 108.95424
-- name: Xinjiang
+- name: 新疆
   names:
+  - Xinjiang
   - Uighur
   - Uygur
+  - 新疆维吾尔自治区
   code: "65"
   countryalpha2: CN
   coordinates:
@@ -140,10 +154,13 @@
     maxlatitude: 49.182343
     latitude: 43.793026
     longitude: 87.6277
-- name: Nei Mongol (mn)
+- name: 内蒙古
   names:
+  - Nei Mongol (mn)
+  - Neimenggu
   - Inner Mongolia
   - Nei Monggol
+  - 内蒙古自治区
   code: "15"
   countryalpha2: CN
   coordinates:
@@ -155,9 +172,10 @@
     maxlatitude: 53.337177
     latitude: 40.81739
     longitude: 111.76629
-- name: Liaoning
+- name: 辽宁
   names:
   - Liaoning
+  - 辽宁省
   code: "21"
   countryalpha2: CN
   coordinates:
@@ -169,9 +187,11 @@
     maxlatitude: 43.490986
     latitude: 41.836174
     longitude: 123.43138
-- name: Guangxi
+- name: 广西
   names:
+  - Guangxi
   - Guangxi Zhuang
+  - 广西壮族自治区
   code: "45"
   countryalpha2: CN
   coordinates:
@@ -183,9 +203,11 @@
     maxlatitude: 26.385567
     latitude: 22.815477
     longitude: 108.327545
-- name: Aomen (zh) ***
+- name: 澳门
   names:
   - Aomen (zh) ***
+  - Aomen
+  - 澳门特别行政区
   code: "92"
   countryalpha2: CN
   coordinates:
@@ -197,9 +219,10 @@
     maxlatitude: 52.07664
     latitude: 52.076633
     longitude: 4.313052
-- name: Anhui
+- name: 安徽
   names:
   - Anhui
+  - 安徽省
   code: "34"
   countryalpha2: CN
   coordinates:
@@ -211,9 +234,10 @@
     maxlatitude: 34.654232
     latitude: 31.861183
     longitude: 117.28492
-- name: Guizhou
+- name: 贵州
   names:
   - Guizhou
+  - 贵州省
   code: "52"
   countryalpha2: CN
   coordinates:
@@ -225,9 +249,10 @@
     maxlatitude: 29.221275
     latitude: 26.598194
     longitude: 106.70741
-- name: Yunnan
+- name: 云南
   names:
   - Yunnan
+  - 云南省
   code: "53"
   countryalpha2: CN
   coordinates:
@@ -239,9 +264,10 @@
     maxlatitude: 29.223328
     latitude: 25.045807
     longitude: 102.71
-- name: Gansu
+- name: 甘肃
   names:
   - Gansu
+  - 甘肃省
   code: "62"
   countryalpha2: CN
   coordinates:
@@ -253,9 +279,10 @@
     maxlatitude: 42.795162
     latitude: 36.059563
     longitude: 103.82645
-- name: Hebei
+- name: 河北
   names:
   - Hebei
+  - 河北省
   code: "13"
   countryalpha2: CN
   coordinates:
@@ -267,9 +294,10 @@
     maxlatitude: 42.619717
     latitude: 38.037056
     longitude: 114.468666
-- name: Jiangsu
+- name: 江苏
   names:
   - Jiangsu
+  - 江苏省
   code: "32"
   countryalpha2: CN
   coordinates:
@@ -281,9 +309,10 @@
     maxlatitude: 35.12451
     latitude: 32.061707
     longitude: 118.76323
-- name: Zhejiang
+- name: 浙江
   names:
   - Zhejiang
+  - 浙江省
   code: "33"
   countryalpha2: CN
   coordinates:
@@ -295,9 +324,10 @@
     maxlatitude: 31.178782
     latitude: 30.267443
     longitude: 120.152794
-- name: Jiangxi
+- name: 江西
   names:
   - Jiangxi
+  - 江西省
   code: "36"
   countryalpha2: CN
   coordinates:
@@ -309,9 +339,10 @@
     maxlatitude: 30.074945
     latitude: 28.675697
     longitude: 115.909225
-- name: Chongqing
+- name: 重庆
   names:
   - Chongqing
+  - 重庆市
   code: "50"
   countryalpha2: CN
   coordinates:
@@ -323,9 +354,10 @@
     maxlatitude: 32.201187
     latitude: 29.56301
     longitude: 106.55156
-- name: Qinghai
+- name: 青海
   names:
   - Qinghai
+  - 青海省
   code: "63"
   countryalpha2: CN
   coordinates:
@@ -337,9 +369,10 @@
     maxlatitude: 39.208344
     latitude: 36.620937
     longitude: 101.78025
-- name: Fujian
+- name: 福建
   names:
   - Fujian
+  - 福建省
   code: "35"
   countryalpha2: CN
   coordinates:
@@ -351,9 +384,10 @@
     maxlatitude: 28.3129
     latitude: 26.10078
     longitude: 119.29514
-- name: Shandong
+- name: 山东
   names:
   - Shandong
+  - 山东省
   code: "37"
   countryalpha2: CN
   coordinates:
@@ -365,9 +399,10 @@
     maxlatitude: 38.401146
     latitude: 36.66853
     longitude: 117.020355
-- name: Henan
+- name: 河南
   names:
   - Henan
+  - 河南省
   code: "41"
   countryalpha2: CN
   coordinates:
@@ -379,9 +414,10 @@
     maxlatitude: 36.36656
     latitude: 34.765514
     longitude: 113.7536
-- name: Hunan
+- name: 湖南
   names:
   - Hunan
+  - 湖南省
   code: "43"
   countryalpha2: CN
   coordinates:
@@ -393,10 +429,12 @@
     maxlatitude: 30.126364
     latitude: 28.11245
     longitude: 112.98381
-- name: Xianggang (zh) **
+- name: 香港
   names:
+  - Xianggang (zh) **
   - Xianggang
   - Hongkong
+  - 香港特别行政区
   code: "91"
   countryalpha2: CN
   coordinates:
@@ -408,9 +446,10 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Hainan
+- name: 海南
   names:
   - Hainan
+  - 海南省
   code: "46"
   countryalpha2: CN
   coordinates:
@@ -422,9 +461,11 @@
     maxlatitude: 20.158936
     latitude: 20.017378
     longitude: 110.34923
-- name: Taiwan *
+- name: 台湾
   names:
+  - Taiwan
   - Taiwan *
+  - 台湾省
   code: "71"
   countryalpha2: CN
   coordinates:
@@ -436,9 +477,10 @@
     maxlatitude: 26.383688
     latitude: 23.69781
     longitude: 120.96052
-- name: Jilin
+- name: 吉林
   names:
   - Jilin
+  - 吉林省
   code: "22"
   countryalpha2: CN
   coordinates:
@@ -450,9 +492,10 @@
     maxlatitude: 44.64816
     latitude: 43.837883
     longitude: 126.549576
-- name: Hubei
+- name: 湖北
   names:
   - Hubei
+  - 湖北省
   code: "42"
   countryalpha2: CN
   coordinates:
@@ -464,9 +507,10 @@
     maxlatitude: 33.275616
     latitude: 30.546497
     longitude: 114.341866
-- name: Guangdong
+- name: 广东
   names:
   - Guangdong
+  - 广东省
   code: "44"
   countryalpha2: CN
   coordinates:
