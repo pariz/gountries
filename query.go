@@ -16,6 +16,7 @@ type Query struct {
 	Alpha3ToAlpha2      map[string]string
 	NativeNameToAlpha2  map[string]string
 	CallingCodeToAlpha2 map[string]string
+	CurrencyToAlpha2    map[string][]Country
 }
 
 // FindCountryByName finds a country by given name
@@ -65,6 +66,20 @@ func (q *Query) FindCountryByCallingCode(callingCode string) (result Country, er
 		return Country{}, makeError("Could not find country with callingCode", callingCode)
 	}
 	return q.Countries[alpha2], nil
+}
+
+// FindCountriesByCurrency finds a Country based on the given struct data
+func (q *Query) FindCountriesByCurrency(currency string) (results []Country, err error) {
+	if len(currency) != 3 {
+		return nil, makeError("Invalid currency format", currency)
+	}
+
+	alpha2, exists := q.CurrencyToAlpha2[currency]
+	if !exists {
+		return []Country{}, makeError("Could not find countries with currency name", currency)
+	}
+
+	return alpha2, nil
 }
 
 // FindAllCountries returns a list of all countries

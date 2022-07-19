@@ -30,6 +30,7 @@ func NewFromPath(dataPath string) *Query {
 		queryInstance.Alpha3ToAlpha2 = populateAlphaIndex(queryInstance.Countries)
 		queryInstance.NativeNameToAlpha2 = populateNativeNameIndex(queryInstance.Countries)
 		queryInstance.CallingCodeToAlpha2 = populateCallingCodeIndex(queryInstance.Countries)
+		queryInstance.CurrencyToAlpha2 = populateCallingCurrencyIndex(queryInstance.Countries)
 
 		subdivisions := populateSubdivisions(dataPath)
 		for k := range queryInstance.Countries {
@@ -216,6 +217,17 @@ func populateCallingCodeIndex(countries map[string]Country) map[string]string {
 	for alpha2, country := range countries {
 		for _, callingCode := range country.CallingCodes {
 			index[callingCode] = alpha2
+		}
+	}
+	return index
+}
+
+func populateCallingCurrencyIndex(countries map[string]Country) map[string][]Country {
+	index := make(map[string][]Country)
+
+	for _, country := range countries {
+		for _, currency := range country.Currencies {
+			index[currency] = append(index[currency], country)
 		}
 	}
 	return index
