@@ -3218,3 +3218,45 @@
     maxlatitude: 50.50246
     latitude: 50.46192
     longitude: -3.525315
+- name: Wales
+  names:
+  - Wales
+  code: WLS
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Scotland
+  names:
+  - Scotland
+  code: SCT
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Northern Ireland
+  names:
+  - Northern Ireland
+  code: NIR
+  countryalpha2: GB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
