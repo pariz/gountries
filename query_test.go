@@ -5,6 +5,7 @@ import (
 	"math/rand"
 	"reflect"
 	"sort"
+	"strings"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
@@ -433,4 +434,26 @@ func TestFindCountriesByCurrency(t *testing.T) {
 			}
 		})
 	}
+}
+
+func TestFindSubdivisionCountriesByNameOk(t *testing.T) {
+	expectedCountries := map[string]interface{}{
+		"honduras":    nil,
+		"bolivia":     nil,
+		"el salvador": nil,
+	}
+
+	foundCountries, _ := query.FindSubdivisionCountriesByName("La Paz")
+
+	assert.Equal(t, len(expectedCountries), len(foundCountries), "Search La Paz subdivision countries should return Honduras, Bolivia, El Salvador")
+	for _, country := range foundCountries {
+		_, ok := expectedCountries[strings.ToLower(country.Name.Common)]
+		assert.True(t, ok, "Search La Paz subdivision countries should return Honduras, Bolivia, El Salvador")
+	}
+}
+
+func TestFindSubdivisionCountriesByNameError(t *testing.T) {
+	_, err := query.FindSubdivisionCountriesByName("sdfsf")
+
+	assert.Error(t, err, "Search sdfsf subdivision countries should return error")
 }

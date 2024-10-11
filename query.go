@@ -186,3 +186,14 @@ func (q *Query) FindSubdivisionCountryByName(subdivisionName string) (result Cou
 
 	return Country{}, makeError("Invalid subdivision name", subdivisionName)
 }
+
+// FindSubdivisionCountriesByName finds all the countries with a given subdivision name
+func (q *Query) FindSubdivisionCountriesByName(subdivisionName string) (result []Country, err error) {
+	for _, country := range q.Countries {
+		if _, ok := country.nameToSubdivision[strings.ToLower(subdivisionName)]; ok {
+			result = append(result, country)
+		}
+	}
+
+	return result, makeError("Invalid subdivision name", subdivisionName)
+}
