@@ -47,8 +47,8 @@ translations:
     common: Suiza
     official: Confederación Suiza
 currencies:
-- CHE
 - CHF
+- CHE
 - CHW
 borders:
 - AUT
