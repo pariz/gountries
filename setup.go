@@ -192,6 +192,7 @@ func populateNativeNameIndex(countries map[string]Country) map[string]string {
 			index[officialNativeName] = alpha2
 		}
 	}
+	delete(index, "")
 	return index
 }
 
