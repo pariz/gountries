@@ -266,6 +266,9 @@ func TestFindCountryByNativeName(t *testing.T) {
 
 	}
 
+	// Test for empty string
+	_, err = query.FindCountryByNativeName("")
+	assert.Error(t, err, "Could not find country with native name")
 }
 
 func ExampleFindCountriesBorderingCountries() {
