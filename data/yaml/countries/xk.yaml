@@ -1,0 +1,79 @@
+name:
+  common: Kosovo
+  official: Republic of Kosovo
+  native:
+    sqi:
+      common: Kosova
+      official: Republika e Kosovës
+    srp:
+      common: Косово
+      official: Република Косово
+eumember: false
+landlocked: true
+nationality: ""
+tlds:
+- .xk
+languages:
+  sqi: Albanian
+  srp: Serbian
+translations:
+  DEU:
+    common: Kosovo
+    official: Republik Kosovo
+  FIN:
+    common: Kosovo
+    official: Kosovon tasavalta
+  FRA:
+    common: Kosovo
+    official: République du Kosovo
+  HRV:
+    common: Kosovo
+    official: Republika Kosovo
+  ITA:
+    common: Kosovo
+    official: Repubblica del Kosovo
+  JPN:
+    common: コソボ
+    official: コソボ共和国
+  NLD:
+    common: Kosovo
+    official: Republiek Kosovo
+  POR:
+    common: Kosovo
+    official: República do Kosovo
+  RUS:
+    common: Республика Косово
+    official: Республика Косово
+  SPA:
+    common: Kosovo
+    official: República de Kosovo
+currencies:
+- EUR
+borders:
+- ALB
+- MKD
+- MNE
+- SRB
+codes:
+  alpha2: XK
+  alpha3: XKX
+  cioc: KOS
+  ccn3: ""
+  callingcodes:
+  - "383"
+  internationalprefix: "00"
+geo:
+  region: Europe
+  subregion: Southern Europe
+  continent: Europe
+  capital: Pristina
+  area: 10887
+coordinates:
+  longitudestring: 20 54 E
+  latitudestring: 42 40 N
+  minlongitude: 19.983334
+  minlatitude: 41.833332
+  maxlongitude: 21.8
+  maxlatitude: 43.25
+  latitude: 42.583332
+  longitude: 21.166666

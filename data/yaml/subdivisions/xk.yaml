@@ -1,0 +1,542 @@
+- name: Pristina
+  names:
+  - Pristina
+  - Prishtina
+  - Priština
+  code: PR
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.166667"
+    latitudestring: "42.666667"
+    minlongitude: 21.059723
+    minlatitude: 42.573303
+    maxlongitude: 21.266968
+    maxlatitude: 42.728718
+    latitude: 42.662914
+    longitude: 21.165503
+- name: Prizren
+  names:
+  - Prizren
+  code: PZ
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.741389"
+    latitudestring: "42.213889"
+    minlongitude: 20.691269
+    minlatitude: 42.172253
+    maxlongitude: 20.786118
+    maxlatitude: 42.253559
+    latitude: 42.21391
+    longitude: 20.739738
+- name: Peja
+  names:
+  - Peja
+  - Peć
+  code: PE
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.288889"
+    latitudestring: "42.659167"
+    minlongitude: 20.23156
+    minlatitude: 42.621227
+    maxlongitude: 20.339432
+    maxlatitude: 42.686661
+    latitude: 42.658913
+    longitude: 20.28835
+- name: Gjakova
+  names:
+  - Gjakova
+  - Gjakovë
+  - Đakovica
+  code: GJ
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.432778"
+    latitudestring: "42.380833"
+    minlongitude: 20.3933
+    minlatitude: 42.351379
+    maxlongitude: 20.46445
+    maxlatitude: 42.407459
+    latitude: 42.379997
+    longitude: 20.430832
+- name: Mitrovica
+  names:
+  - Mitrovica
+  - Mitrovicë
+  - Kosovska Mitrovica
+  code: MI
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.866667"
+    latitudestring: "42.883333"
+    minlongitude: 20.823975
+    minlatitude: 42.853146
+    maxlongitude: 20.908051
+    maxlatitude: 42.913849
+    latitude: 42.883377
+    longitude: 20.866411
+- name: Ferizaj
+  names:
+  - Ferizaj
+  - Uroševac
+  - Urosevac
+  code: FE
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.15"
+    latitudestring: "42.366667"
+    minlongitude: 21.111267
+    minlatitude: 42.342403
+    maxlongitude: 21.190521
+    maxlatitude: 42.390156
+    latitude: 42.370003
+    longitude: 21.148315
+- name: Gjilan
+  names:
+  - Gjilan
+  - Gnjilane
+  code: GL
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.469444"
+    latitudestring: "42.463611"
+    minlongitude: 21.427917
+    minlatitude: 42.437
+    maxlongitude: 21.508621
+    maxlatitude: 42.490658
+    latitude: 42.46368
+    longitude: 21.469482
+- name: Podujeva
+  names:
+  - Podujeva
+  - Podujevo
+  code: PD
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.2"
+    latitudestring: "42.916667"
+    minlongitude: 21.157227
+    minlatitude: 42.890388
+    maxlongitude: 21.24157
+    maxlatitude: 42.943668
+    latitude: 42.911
+    longitude: 21.193543
+- name: Vushtrri
+  names:
+  - Vushtrri
+  - Vučitrn
+  code: VU
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.968056"
+    latitudestring: "42.822222"
+    minlongitude: 20.930161
+    minlatitude: 42.796284
+    maxlongitude: 21.008583
+    maxlatitude: 42.848969
+    latitude: 42.822063
+    longitude: 20.967966
+- name: Suhareka
+  names:
+  - Suhareka
+  - Suva Reka
+  code: SU
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.8275"
+    latitudestring: "42.359722"
+    minlongitude: 20.801117
+    minlatitude: 42.341389
+    maxlongitude: 20.862137
+    maxlatitude: 42.378326
+    latitude: 42.356384
+    longitude: 20.831055
+- name: Istok
+  names:
+  - Istok
+  code: IS
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.488333"
+    latitudestring: "42.783333"
+    minlongitude: 20.466995
+    minlatitude: 42.765862
+    maxlongitude: 20.512756
+    maxlatitude: 42.800301
+    latitude: 42.7804
+    longitude: 20.487961
+- name: Deçan
+  names:
+  - Deçan
+  - Dečani
+  code: DE
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.291944"
+    latitudestring: "42.541111"
+    minlongitude: 20.272415
+    minlatitude: 42.519951
+    maxlongitude: 20.317398
+    maxlatitude: 42.561447
+    latitude: 42.541985
+    longitude: 20.293472
+- name: Dragash
+  names:
+  - Dragash
+  - Dragaš
+  code: DR
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.652778"
+    latitudestring: "42.059722"
+    minlongitude: 20.626984
+    minlatitude: 42.039551
+    maxlongitude: 20.682442
+    maxlatitude: 42.080326
+    latitude: 42.060772
+    longitude: 20.654099
+- name: Lipjan
+  names:
+  - Lipjan
+  - Lipljan
+  code: LI
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.123056"
+    latitudestring: "42.520278"
+    minlongitude: 21.097595
+    minlatitude: 42.502762
+    maxlongitude: 21.151749
+    maxlatitude: 42.539661
+    latitude: 42.520943
+    longitude: 21.124569
+- name: Malisheva
+  names:
+  - Malisheva
+  - Mališevo
+  code: MA
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.745"
+    latitudestring: "42.483611"
+    minlongitude: 20.725803
+    minlatitude: 42.464577
+    maxlongitude: 20.766296
+    maxlatitude: 42.502461
+    latitude: 42.48217
+    longitude: 20.745209
+- name: Rahovec
+  names:
+  - Rahovec
+  - Orahovac
+  code: RA
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.654444"
+    latitudestring: "42.396944"
+    minlongitude: 20.632589
+    minlatitude: 42.377335
+    maxlongitude: 20.679235
+    maxlatitude: 42.41655
+    latitude: 42.397572
+    longitude: 20.655327
+- name: Viti
+  names:
+  - Viti
+  - Vitina
+  code: VI
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.361667"
+    latitudestring: "42.320833"
+    minlongitude: 21.343155
+    minlatitude: 42.303539
+    maxlongitude: 21.382355
+    maxlatitude: 42.339031
+    latitude: 42.321201
+    longitude: 21.359455
+- name: Kamenica
+  names:
+  - Kamenica
+  - Kamenicë
+  code: KA
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.581944"
+    latitudestring: "42.577778"
+    minlongitude: 21.565208
+    minlatitude: 42.560459
+    maxlongitude: 21.599228
+    maxlatitude: 42.595528
+    latitude: 42.577698
+    longitude: 21.580727
+- name: Kline
+  names:
+  - Kline
+  - Klina
+  code: KL
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.578056"
+    latitudestring: "42.621667"
+    minlongitude: 20.561901
+    minlatitude: 42.604397
+    maxlongitude: 20.594976
+    maxlatitude: 42.638626
+    latitude: 42.620792
+    longitude: 20.578033
+- name: Novo Brdo
+  names:
+  - Novo Brdo
+  - Novobërdë
+  code: NB
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.440833"
+    latitudestring: "42.608889"
+    minlongitude: 21.424568
+    minlatitude: 42.591496
+    maxlongitude: 21.460121
+    maxlatitude: 42.625572
+    latitude: 42.609123
+    longitude: 21.441711
+- name: Shtime
+  names:
+  - Shtime
+  - Štimlje
+  code: ST
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.041111"
+    latitudestring: "42.433889"
+    minlongitude: 21.026016
+    minlatitude: 42.417793
+    maxlongitude: 21.058762
+    maxlatitude: 42.449577
+    latitude: 42.43298
+    longitude: 21.041756
+- name: Obiliq
+  names:
+  - Obiliq
+  - Obilić
+  code: OB
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.070556"
+    latitudestring: "42.688889"
+    minlongitude: 21.055115
+    minlatitude: 42.670479
+    maxlongitude: 21.08783
+    maxlatitude: 42.705944
+    latitude: 42.688038
+    longitude: 21.071098
+- name: Fushë Kosova
+  names:
+  - Fushë Kosova
+  - Kosovo Polje
+  code: FK
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.091389"
+    latitudestring: "42.636111"
+    minlongitude: 21.076641
+    minlatitude: 42.618954
+    maxlongitude: 21.105717
+    maxlatitude: 42.652805
+    latitude: 42.63588
+    longitude: 21.091026
+- name: Kaçanik
+  names:
+  - Kaçanik
+  - Kačanik
+  code: KN
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.258056"
+    latitudestring: "42.230833"
+    minlongitude: 21.242447
+    minlatitude: 42.214928
+    maxlongitude: 21.275036
+    maxlatitude: 42.246925
+    latitude: 42.231499
+    longitude: 21.258095
+- name: Skenderaj
+  names:
+  - Skenderaj
+  - Srbica
+  code: SK
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.786111"
+    latitudestring: "42.746389"
+    minlongitude: 20.771458
+    minlatitude: 42.730823
+    maxlongitude: 20.803284
+    maxlatitude: 42.762138
+    latitude: 42.746181
+    longitude: 20.786934
+- name: Shterpcë
+  names:
+  - Shterpcë
+  - Štrpce
+  code: SR
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.028889"
+    latitudestring: "42.239444"
+    minlongitude: 21.015451
+    minlatitude: 42.223244
+    maxlongitude: 21.044716
+    maxlatitude: 42.254761
+    latitude: 42.239716
+    longitude: 21.029633
+- name: Zubin Potok
+  names:
+  - Zubin Potok
+  code: ZP
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.687222"
+    latitudestring: "42.915833"
+    minlongitude: 20.672072
+    minlatitude: 42.900467
+    maxlongitude: 20.704956
+    maxlatitude: 42.930763
+    latitude: 42.915962
+    longitude: 20.688156
+- name: Zvečan
+  names:
+  - Zvečan
+  - Zveçan
+  code: ZV
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.843056"
+    latitudestring: "42.905556"
+    minlongitude: 20.8298
+    minlatitude: 42.890991
+    maxlongitude: 20.858734
+    maxlatitude: 42.919212
+    latitude: 42.905319
+    longitude: 20.843803
+- name: Leposaviq
+  names:
+  - Leposaviq
+  - Leposavić
+  code: LE
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.802222"
+    latitudestring: "43.103333"
+    minlongitude: 20.787182
+    minlatitude: 43.08659
+    maxlongitude: 20.819641
+    maxlatitude: 43.119102
+    latitude: 43.102905
+    longitude: 20.802933
+- name: Hani i Elezit
+  names:
+  - Hani i Elezit
+  - Elez Han
+  - Đeneral Janković
+  code: HE
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.293611"
+    latitudestring: "42.15"
+    minlongitude: 21.279343
+    minlatitude: 42.135551
+    maxlongitude: 21.310272
+    maxlatitude: 42.164433
+    latitude: 42.150116
+    longitude: 21.294727
+- name: Mamushë
+  names:
+  - Mamushë
+  - Mamuša
+  code: MM
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.719722"
+    latitudestring: "42.356667"
+    minlongitude: 20.708342
+    minlatitude: 42.343803
+    maxlongitude: 20.731567
+    maxlatitude: 42.368752
+    latitude: 42.356499
+    longitude: 20.719711
+- name: Junik
+  names:
+  - Junik
+  code: JU
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "20.277222"
+    latitudestring: "42.472222"
+    minlongitude: 20.264587
+    minlatitude: 42.458771
+    maxlongitude: 20.291565
+    maxlatitude: 42.485138
+    latitude: 42.472
+    longitude: 20.277903
+- name: Gracanica
+  names:
+  - Gracanica
+  - Graçanicë
+  - Gračanica
+  code: GR
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.195833"
+    latitudestring: "42.600833"
+    minlongitude: 21.182735
+    minlatitude: 42.585625
+    maxlongitude: 21.209574
+    maxlatitude: 42.615765
+    latitude: 42.600594
+    longitude: 21.196014
+- name: Ranillug
+  names:
+  - Ranillug
+  - Ranilug
+  code: RN
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.600556"
+    latitudestring: "42.508333"
+    minlongitude: 21.587093
+    minlatitude: 42.493011
+    maxlongitude: 21.613949
+    maxlatitude: 42.52385
+    latitude: 42.5084
+    longitude: 21.600418
+- name: Partesh
+  names:
+  - Partesh
+  - Parteš
+  code: PA
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.421944"
+    latitudestring: "42.364722"
+    minlongitude: 21.40906
+    minlatitude: 42.349239
+    maxlongitude: 21.435646
+    maxlatitude: 42.37991
+    latitude: 42.36467
+    longitude: 21.422279
+- name: Kllokot
+  names:
+  - Kllokot
+  - Klokot
+  code: KO
+  countryalpha2: XK
+  coordinates:
+    longitudestring: "21.378056"
+    latitudestring: "42.374444"
+    minlongitude: 21.364822
+    minlatitude: 42.359879
+    maxlongitude: 21.391918
+    maxlatitude: 42.388718
+    latitude: 42.374153
+    longitude: 21.378248
