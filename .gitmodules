@@ -1,7 +1,8 @@
-[submodule "vendor/countries"]
-	path = vendor/countries
+[submodule "third_party/countries"]
+	path = third_party/countries
 	url = https://github.com/countries/countries.git
 	branch = master
-[submodule "vendor/mledoze-countries"]
-	path = vendor/mledoze-countries
+[submodule "third_party/mledoze-countries"]
+	path = third_party/mledoze-countries
 	url = https://github.com/mledoze/countries.git
+	branch = master
