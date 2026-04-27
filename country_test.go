@@ -10,11 +10,6 @@ import (
 var query *Query
 
 func TestMain(m *testing.M) {
-	var err error
-
-	if err != nil {
-		panic(err)
-	}
 	query = New()
 	flag.Parse()
 	os.Exit(m.Run())
