@@ -1,67 +1,125 @@
 name:
-  common: Tunisia
-  official: Tunisian Republic
-  native:
-    ara:
-      common: تونس
-      official: الجمهورية التونسية
+    common: Tunisia
+    official: The Republic of Tunisia
+    native:
+        ara:
+            common: تونس
+            official: الجمهورية التونسية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tunisian
+altspellings:
+    - Tunisia
+    - تونس
+    - Tunesien
+    - Tunisie
+    - Túnez
+    - チュニジア
+    - Tunesië
+    - TN
+    - Republic of Tunisia
+    - al-Jumhūriyyah at-Tūnisiyyah
 tlds:
-- .tn
+    - .tn
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
+    fr: ""
 translations:
-  DEU:
-    common: Tunesien
-    official: Tunesische Republik
-  FIN:
-    common: Tunisia
-    official: Tunisian tasavalta
-  FRA:
-    common: Tunisie
-    official: République tunisienne
-  ITA:
-    common: Tunisia
-    official: Repubblica tunisina
-  JPN:
-    common: チュニジア
-    official: チュニジア共和国
-  NLD:
-    common: Tunesië
-    official: Republiek Tunesië
-  POR:
-    common: Tunísia
-    official: República da Tunísia
-  RUS:
-    common: Тунис
-    official: Тунисской Республики
+    ARA:
+        common: تونس
+        official: الجمهورية التونسية
+    CES:
+        common: Tunisko
+        official: Tuniská republika
+    DEU:
+        common: Tunesien
+        official: Tunesische Republik
+    EST:
+        common: Tuneesia
+        official: Tuneesia Vabariik
+    FIN:
+        common: Tunisia
+        official: Tunisian tasavalta
+    FRA:
+        common: Tunisie
+        official: République tunisienne
+    HRV:
+        common: Tunis
+        official: Tuniski Republika
+    HUN:
+        common: Tunézia
+        official: Tunéziai Köztársaság
+    ITA:
+        common: Tunisia
+        official: Repubblica tunisina
+    JPN:
+        common: チュニジア
+        official: チュニジア共和国
+    KOR:
+        common: 튀니지
+        official: 튀니지 공화국
+    NLD:
+        common: Tunesië
+        official: Republiek Tunesië
+    PER:
+        common: تونس
+        official: جمهوری تونس
+    POL:
+        common: Tunezja
+        official: Republika Tunezyjska
+    POR:
+        common: Tunísia
+        official: República da Tunísia
+    RUS:
+        common: Тунис
+        official: Тунисской Республики
+    SLK:
+        common: Tunisko
+        official: Tuniská republika
+    SPA:
+        common: Túnez
+        official: República de Túnez
+    SRP:
+        common: Tunis
+        official: Republika Tunis
+    SWE:
+        common: Tunisien
+        official: Republiken Tunisien
+    TUR:
+        common: Tunus
+        official: Tunus Cumhuriyeti
+    URD:
+        common: تونس
+        official: جمہوریہ تونس
+    ZHO:
+        common: 突尼斯
+        official: 突尼斯共和国
 currencies:
-- TND
+    - TND
 borders:
-- DZA
-- LBY
+    - DZA
+    - LBY
 codes:
-  alpha2: TN
-  alpha3: TUN
-  cioc: TUN
-  ccn3: "788"
-  callingcodes:
-  - "216"
-  internationalprefix: "00"
+    alpha2: TN
+    alpha3: TUN
+    cioc: TUN
+    ccn3: "788"
+    callingcodes:
+        - "216"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Northern Africa
-  continent: Africa
-  capital: Tunis
-  area: 163610
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: Tunis
+    area: 163610
 coordinates:
-  longitudestring: 9 00 E
-  latitudestring: 34 00 N
-  minlongitude: 7
-  minlatitude: 26
-  maxlongitude: 13
-  maxlatitude: 37.566666
-  latitude: 34.335285
-  longitude: 9.245259
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.522311
+    minlatitude: 30.2280339
+    maxlongitude: 11.599217
+    maxlatitude: 37.5359
+    latitude: 33.886917
+    longitude: 9.537499

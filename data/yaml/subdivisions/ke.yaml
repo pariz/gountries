@@ -1,49 +1,5 @@
-- name: Central
-  names:
-  - Central
-  code: "200"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 37.696007
-    minlatitude: -1.8022581
-    maxlongitude: 37.704605
-    maxlatitude: -1.7872058
-    latitude: -1.795973
-    longitude: 37.702076
-- name: Coast
-  names:
-  - Coast
-  code: "300"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 36.749454
-    minlatitude: -1.2908067
-    maxlongitude: 36.750446
-    maxlatitude: -1.2882341
-    latitude: -1.2896281
-    longitude: 36.749916
-- name: Eastern
-  names:
-  - Eastern
-  code: "400"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.846516
-    minlatitude: -0.1933874
-    maxlongitude: 34.82976
-    maxlatitude: 2.421396
-    latitude: 1.2692186
-    longitude: 33.438354
-- name: North-Eastern
-  names:
-  - North-Eastern
-  code: "500"
+- name: Baringo
+  code: "01"
   countryalpha2: KE
   coordinates:
     longitudestring: ""
@@ -52,12 +8,10 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: -0.0190061
-    longitude: 37.648083
-- name: Nyanza
-  names:
-  - Nyanza
-  code: "600"
+    latitude: 0
+    longitude: 0
+- name: Bomet
+  code: "02"
   countryalpha2: KE
   coordinates:
     longitudestring: ""
@@ -66,12 +20,10 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: -1.2849963
-    longitude: 36.82723
-- name: Rift Valley
-  names:
-  - Rift Valley
-  code: "700"
+    latitude: 0
+    longitude: 0
+- name: Bungoma
+  code: "03"
   countryalpha2: KE
   coordinates:
     longitudestring: ""
@@ -80,26 +32,324 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: -0.2830282
-    longitude: 36.075024
-- name: Western
-  names:
-  - Western
-  code: "900"
+    latitude: 0
+    longitude: 0
+- name: Busia
+  code: "04"
   countryalpha2: KE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 35.517334
-    minlatitude: 0.7136744
-    maxlongitude: 35.517456
-    maxlatitude: 0.714007
-    latitude: 0.7138364
-    longitude: 35.517403
-- name: Nairobi Municipality
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Elgeyo/Marakwet
+  code: "05"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Embu
+  code: "06"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Garissa
+  code: "07"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Homa Bay
+  code: "08"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Isiolo
+  code: "09"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kajiado
+  code: "10"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kakamega
+  code: "11"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kericho
+  code: "12"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kiambu
+  code: "13"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kilifi
+  code: "14"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kirinyaga
+  code: "15"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kisii
+  code: "16"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kisumu
+  code: "17"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kitui
+  code: "18"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kwale
+  code: "19"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Laikipia
+  code: "20"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lamu
+  code: "21"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Machakos
+  code: "22"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Makueni
+  code: "23"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mandera
+  code: "24"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Marsabit
+  code: "25"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Meru
+  code: "26"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Migori
+  code: "27"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mombasa
+  code: "28"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Murang’a
+  code: "29"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nairobi City
   names:
-  - Nairobi Municipality
-  code: "110"
+    - Nairobi Municipality
+  code: "30"
   countryalpha2: KE
   coordinates:
     longitudestring: ""
@@ -109,4 +359,208 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: -1.286577
-    longitude: 36.821938
+    longitude: 36.82193669999999
+- name: Nakuru
+  code: "31"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nandi
+  code: "32"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Narok
+  code: "33"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nyamira
+  code: "34"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nyandarua
+  code: "35"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nyeri
+  code: "36"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Samburu
+  code: "37"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Siaya
+  code: "38"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Taita-Taveta
+  code: "39"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tana River
+  code: "40"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tharaka-Nithi
+  code: "41"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Trans-Nzoia
+  code: "42"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Turkana
+  code: "43"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Uasin Gishu
+  code: "44"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vihiga
+  code: "45"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Wajir
+  code: "46"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: West Pokot
+  code: "47"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

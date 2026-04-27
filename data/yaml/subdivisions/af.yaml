@@ -1,357 +1,316 @@
-- name: Kapisa
-  names:
-  - Kapesa
-  - Kapisa
-  - Kapissa
-  code: KAP
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 69.27813
-    minlatitude: 34.63685
-    maxlongitude: 69.92921
-    maxlatitude: 35.184345
-    latitude: 34.981056
-    longitude: 69.62146
-- name: Nimruz
-  names:
-  - Chakhānsur
-  - Neemroze
-  - Nimroz
-  - Nimroze
-  code: NIM
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 60.878597
-    minlatitude: 29.388966
-    maxlongitude: 63.58575
-    maxlatitude: 32.26313
-    latitude: 31.02615
-    longitude: 62.450417
-- name: Takhar
-  names:
-  - Tahar
-  - Takhar
-  - Takhār
-  code: TAK
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 69.17529
-    minlatitude: 35.785805
-    maxlongitude: 70.49983
-    maxlatitude: 37.62126
-    latitude: 36.6698
-    longitude: 69.478455
-- name: Bamian
-  names:
-  - Bamian
-  - Bamiyan
-  - Bāmīān
-  code: BAM
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 66.28687
-    minlatitude: 33.914066
-    maxlongitude: 68.266464
-    maxlatitude: 35.479286
-    latitude: 34.90733
-    longitude: 67.189445
-- name: Badghis
-  names:
-  - Badghis
-  - Badgis
-  - Bādghīs
-  code: BDG
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 62.67359
-    minlatitude: 34.516598
-    maxlongitude: 65.07058
-    maxlatitude: 36.041935
-    latitude: 35.167133
-    longitude: 63.76954
-- name: Ghazni
-  names:
-  - Gazni
-  - Ghazni
-  code: GHA
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 66.8316
-    minlatitude: 32.085224
-    maxlongitude: 68.834595
-    maxlatitude: 34.232075
-    latitude: 33.49823
-    longitude: 67.7616
-- name: Helmand
-  names:
-  - Helmand
-  - Hilmend
-  code: HEL
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 62.553696
-    minlatitude: 29.377478
-    maxlongitude: 65.380264
-    maxlatitude: 33.3783
-    latitude: 31.363647
-    longitude: 63.95861
-- name: Kandahar
-  names:
-  - Kandahar
-  code: KAN
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 65.66957
-    minlatitude: 31.597399
-    maxlongitude: 65.830765
-    maxlatitude: 31.672522
-    latitude: 31.6119
-    longitude: 65.6811
-- name: Kondoz [Kunduz]
-  names:
-  - Kondoz
-  - Kondūz
-  - Kūnduz
-  - Qondūz
-  code: KDZ
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 68.784546
-    minlatitude: 36.651894
-    maxlongitude: 68.97732
-    maxlatitude: 36.77299
-    latitude: 36.728592
-    longitude: 68.868065
-- name: Konar [Kunar]
-  names:
-  - Konar
-  - Konarhā
-  code: KNR
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 71.36236
-    minlatitude: 35.086117
-    maxlongitude: 71.370865
-    maxlatitude: 35.090645
-    latitude: 35.088314
-    longitude: 71.36685
 - name: Balkh
   names:
-  - Balkh
+    - Balkh
   code: BAL
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 66.87901
-    minlatitude: 36.739845
-    maxlongitude: 66.9103
-    maxlatitude: 36.774403
-    latitude: 36.755062
-    longitude: 66.89754
+    minlongitude: 66.879015
+    minlatitude: 36.739847
+    maxlongitude: 66.9103004
+    maxlatitude: 36.7744019
+    latitude: 36.7550603
+    longitude: 66.8975372
+- name: Bamian
+  names:
+    - Bamian
+    - Bamiyan
+    - Bāmīān
+  code: BAM
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 66.2868759
+    minlatitude: 33.914066
+    maxlongitude: 68.2664631
+    maxlatitude: 35.479285
+    latitude: 34.9073296
+    longitude: 67.1894488
+- name: Badghis
+  names:
+    - Badghis
+    - Badgis
+    - Bādghīs
+  code: BDG
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 62.673593
+    minlatitude: 34.51659600000001
+    maxlongitude: 65.07057689999999
+    maxlatitude: 36.041935
+    latitude: 35.1671339
+    longitude: 63.7695384
 - name: Badakhshan
   names:
-  - Badaẖšan
+    - Badaẖšan
   code: BDS
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 69.9861
-    minlatitude: 35.44512
-    maxlongitude: 74.8902
-    maxlatitude: 38.490612
-    latitude: 36.73477
-    longitude: 70.812
+    minlongitude: 69.98609689999999
+    minlatitude: 35.44512100000001
+    maxlongitude: 74.8901951
+    maxlatitude: 38.4906109
+    latitude: 36.7347725
+    longitude: 70.81199529999999
+- name: Baghlan
+  names:
+    - Baghlan
+    - Baghlān
+    - Baglan
+  code: BGL
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.7236881
+    minlatitude: 36.162409
+    maxlongitude: 68.7745
+    maxlatitude: 36.1897066
+    latitude: 36.17890260000001
+    longitude: 68.74530639999999
 - name: Daykondi
   names:
-  - Daikondi
+    - Daikondi
   code: DAY
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 65.2382
-    minlatitude: 32.932083
-    maxlongitude: 67.42453
+    minlongitude: 65.23819689999999
+    minlatitude: 32.932084
+    maxlongitude: 67.4245309
     maxlatitude: 34.36751
     latitude: 33.669495
-    longitude: 66.04636
-- name: Nurestan
+    longitude: 66.0463534
+- name: Farah
   names:
-  - Nooristan
-  - Nouristan
-  - Nurestan
-  code: NUR
+    - Fahrah
+  code: FRA
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 69.91677
-    minlatitude: 34.907574
-    maxlongitude: 71.61417
-    maxlatitude: 36.049217
-    latitude: 35.325024
-    longitude: 70.90713
-- name: Panjshir
+    minlongitude: 60.5861239
+    minlatitude: 31.3958321
+    maxlongitude: 64.750407
+    maxlatitude: 33.586982
+    latitude: 32.495328
+    longitude: 62.2626627
+- name: Faryab
   names:
-  - Panjshir
-  code: PAN
+    - Fariab
+  code: FYB
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 69.533844
-    minlatitude: 35.12424
-    maxlongitude: 69.7982
-    maxlatitude: 35.437454
-    latitude: 35.335045
-    longitude: 69.71678
-- name: Sar-e Pol
+    minlongitude: 63.8947181
+    minlatitude: 35.1631961
+    maxlongitude: 65.822068
+    maxlatitude: 37.2501681
+    latitude: 36.0795613
+    longitude: 64.90595499999999
+- name: Ghazni
   names:
-  - Sar-e Pol
-  - Sar-i Pol
-  - Sari Pol
-  code: SAR
+    - Gazni
+    - Ghazni
+  code: GHA
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 65.91102
-    minlatitude: 36.18271
-    maxlongitude: 65.95899
-    maxlatitude: 36.238388
-    latitude: 36.22139
-    longitude: 65.92778
-- name: Wardak [Wardag]
+    minlongitude: 66.8315989
+    minlatitude: 32.085223
+    maxlongitude: 68.834594
+    maxlatitude: 34.2320759
+    latitude: 33.4982289
+    longitude: 67.7615983
+- name: Ghowr
   names:
-  - Vardak
-  - Wardagh
-  - Wardak
-  code: WAR
+    - Ghawr
+    - Ghor
+    - Ghowr
+    - Gōr
+  code: GHO
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 67.23221
-    minlatitude: 33.68357
-    maxlongitude: 68.97262
-    maxlatitude: 34.797577
-    latitude: 34.35135
-    longitude: 68.23853
-- name: Zabol [Zabul]
+    minlongitude: 63.19821899999999
+    minlatitude: 33.133217
+    maxlongitude: 66.736645
+    maxlatitude: 35.276925
+    latitude: 34.0995776
+    longitude: 64.90595499999999
+- name: Helmand
   names:
-  - Zabol
-  - Zabul
-  - Zābol
-  code: ZAB
+    - Helmand
+    - Hilmend
+  code: HEL
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 66.1929
-    minlatitude: 31.505068
-    maxlongitude: 68.116684
-    maxlatitude: 33.08394
-    latitude: 32.19188
-    longitude: 67.189445
+    minlongitude: 62.553695
+    minlatitude: 29.377478
+    maxlongitude: 65.38026289999999
+    maxlatitude: 33.3782999
+    latitude: 31.3636474
+    longitude: 63.95861110000001
+- name: Herat
+  names:
+    - Herat
+  code: HER
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 62.150774
+    minlatitude: 34.3185577
+    maxlongitude: 62.2713661
+    maxlatitude: 34.3883543
+    latitude: 34.341944
+    longitude: 62.203056
 - name: Jowzjan
   names:
-  - Jawzjan
-  - Jowzjan
-  - Jowzjān
-  - Jozjan
-  - Juzjan
+    - Jawzjan
+    - Jowzjan
+    - Jowzjān
+    - Jozjan
+    - Juzjan
   code: JOW
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 65.16667
-    minlatitude: 35.900394
-    maxlongitude: 66.58334
-    maxlatitude: 37.54458
-    latitude: 36.89697
-    longitude: 65.665855
+    minlongitude: 65.1666699
+    minlatitude: 35.90039410000001
+    maxlongitude: 66.583344
+    maxlatitude: 37.544579
+    latitude: 36.8969692
+    longitude: 65.6658568
+- name: Kabul [Kabol]
+  names:
+    - Kabol
+    - Kābol
+    - Kābul
+    - Kabul
+  code: KAB
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.9495086
+    minlatitude: 34.3454912
+    maxlongitude: 69.4459534
+    maxlatitude: 34.7619227
+    latitude: 34.533333
+    longitude: 69.166667
+- name: Kandahar
+  names:
+    - Kandahar
+  code: KAN
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 65.6695744
+    minlatitude: 31.5973985
+    maxlongitude: 65.8307648
+    maxlatitude: 31.6725218
+    latitude: 31.6119
+    longitude: 65.6811
+- name: Kapisa
+  names:
+    - Kapesa
+    - Kapisa
+    - Kapissa
+  code: KAP
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.27812709999999
+    minlatitude: 34.636847
+    maxlongitude: 69.9292071
+    maxlatitude: 35.1843449
+    latitude: 34.9810572
+    longitude: 69.6214562
+- name: Kondoz [Kunduz]
+  names:
+    - Kondoz
+    - Kondūz
+    - Kūnduz
+    - Qondūz
+  code: KDZ
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.7845421
+    minlatitude: 36.6518943
+    maxlongitude: 68.9773179
+    maxlatitude: 36.77299259999999
+    latitude: 36.7285907
+    longitude: 68.8680663
 - name: Khowst
   names:
-  - H̱ōst
-  - Khawst
-  - Khost
-  - Matun
-  - Matūn
-  - H̱awst
+    - H̱ōst
+    - Khawst
+    - Khost
+    - Matun
+    - Matūn
+    - H̱awst
   code: KHO
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 69.354774
-    minlatitude: 33.028328
-    maxlongitude: 70.32659
-    maxlatitude: 33.733532
-    latitude: 33.35851
-    longitude: 69.85974
+    minlongitude: 69.3547779
+    minlatitude: 33.028327
+    maxlongitude: 70.3265909
+    maxlatitude: 33.7335318
+    latitude: 33.3585079
+    longitude: 69.8597406
+- name: Konar [Kunar]
+  names:
+    - Konar
+    - Konarhā
+  code: KNR
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 71.3623594
+    minlatitude: 35.0861153
+    maxlongitude: 71.3708674
+    maxlatitude: 35.0906452
+    latitude: 35.0883133
+    longitude: 71.36685039999999
 - name: Laghman
   names:
-  - Laghman
-  - Laghmān
-  - Lagman
+    - Laghman
+    - Laghmān
+    - Lagman
   code: LAG
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 69.80458
-    minlatitude: 34.399906
-    maxlongitude: 70.63106
-    maxlatitude: 35.219616
-    latitude: 34.68977
-    longitude: 70.145584
-- name: Nangrahar [Nangarhar]
-  names:
-  - Nangarhar
-  - Ningarhar
-  code: NAN
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 69.482635
-    minlatitude: 33.94334
-    maxlongitude: 71.17126
-    maxlatitude: 34.809975
-    latitude: 34.171833
-    longitude: 70.62168
-- name: Oruzgan [Uruzgan]
-  names:
-  - Oruzgan
-  - Oruzghan
-  - Orūzghān
-  - Uruzgan
-  - Uruzghan
-  - Urūzghān
-  code: ORU
+    minlongitude: 69.8045771
+    minlatitude: 34.3999048
+    maxlongitude: 70.63105999999999
+    maxlatitude: 35.2196171
+    latitude: 34.6897687
+    longitude: 70.1455805
+- name: لوګر ولايت
+  code: LOG
   countryalpha2: AF
   coordinates:
     longitudestring: ""
@@ -360,175 +319,203 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 32.93021
-    longitude: 66.63643
+    latitude: 0
+    longitude: 0
+- name: Nangrahar [Nangarhar]
+  names:
+    - Nangarhar
+    - Ningarhar
+  code: NAN
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.482636
+    minlatitude: 33.9433401
+    maxlongitude: 71.17125709999999
+    maxlatitude: 34.809976
+    latitude: 34.1718313
+    longitude: 70.6216794
+- name: Nimruz
+  names:
+    - Chakhānsur
+    - Neemroze
+    - Nimroz
+    - Nimroze
+  code: NIM
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 60.87859700000001
+    minlatitude: 29.3889659
+    maxlongitude: 63.5857501
+    maxlatitude: 32.263132
+    latitude: 31.0261488
+    longitude: 62.4504154
+- name: Nurestan
+  names:
+    - Nooristan
+    - Nouristan
+    - Nurestan
+  code: NUR
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.916771
+    minlatitude: 34.9075738
+    maxlongitude: 71.614166
+    maxlatitude: 36.0492169
+    latitude: 35.3250223
+    longitude: 70.90712359999999
+- name: Panjshir
+  names:
+    - Panjshir
+  code: PAN
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.53384400000002
+    minlatitude: 35.1242394
+    maxlongitude: 69.7982025
+    maxlatitude: 35.4374561
+    latitude: 35.3350467
+    longitude: 69.7167783
+- name: Parwan
+  names:
+    - Parvan
+    - Parvān
+    - Parwan
+  code: PAR
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.1907899
+    minlatitude: 34.588373
+    maxlongitude: 69.616604
+    maxlatitude: 35.424221
+    latitude: 34.9630977
+    longitude: 68.81088489999999
+- name: Paktia
+  names:
+    - Paktia
+    - Paktiya
+    - Paktīā
+  code: PIA
+  countryalpha2: AF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.772654
+    minlatitude: 33.1592119
+    maxlongitude: 70.0056379
+    maxlatitude: 34.0908599
+    latitude: 33.706199
+    longitude: 69.3831079
 - name: Paktika
   names:
-  - Paktika
+    - Paktika
   code: PKA
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 67.822105
-    minlatitude: 31.59352
-    maxlongitude: 69.53458
-    maxlatitude: 33.423965
-    latitude: 32.264538
-    longitude: 68.52471
+    minlongitude: 67.82210479999999
+    minlatitude: 31.593519
+    maxlongitude: 69.5345761
+    maxlatitude: 33.4239659
+    latitude: 32.2645386
+    longitude: 68.52471489999999
 - name: Samangan
   names:
-  - Samangan
+    - Samangan
   code: SAM
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 66.88432
-    minlatitude: 35.346596
-    maxlongitude: 68.56611
-    maxlatitude: 36.638233
-    latitude: 35.98073
-    longitude: 67.570854
-- name: Baghlan
+    minlatitude: 35.34659389999999
+    maxlongitude: 68.5661071
+    maxlatitude: 36.638235
+    latitude: 35.9807296
+    longitude: 67.57085359999999
+- name: Sar-e Pol
   names:
-  - Baghlan
-  - Baghlān
-  - Baglan
-  code: BGL
+    - Sar-e Pol
+    - Sar-i Pol
+    - Sari Pol
+  code: SAR
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 68.72369
-    minlatitude: 36.16241
-    maxlongitude: 68.7745
-    maxlatitude: 36.189705
-    latitude: 36.1789
-    longitude: 68.74531
-- name: Ghowr
+    minlongitude: 65.9110165
+    minlatitude: 36.1827099
+    maxlongitude: 65.9589957
+    maxlatitude: 36.23838900000001
+    latitude: 36.22138899999999
+    longitude: 65.927778
+- name: Takhar
   names:
-  - Ghawr
-  - Ghor
-  - Ghowr
-  - Gōr
-  code: GHO
+    - Tahar
+    - Takhar
+    - Takhār
+  code: TAK
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 63.19822
-    minlatitude: 33.133217
-    maxlongitude: 66.73665
-    maxlatitude: 35.276924
-    latitude: 34.09958
-    longitude: 64.90595
-- name: Lowgar
-  names:
-  - Lawgar
-  - Logar
-  - Loghar
-  - Lowgar
-  - Lowghar
-  code: LOW
+    minlongitude: 69.1752951
+    minlatitude: 35.785804
+    maxlongitude: 70.4998339
+    maxlatitude: 37.62126
+    latitude: 36.6698013
+    longitude: 69.4784541
+- name: روزګان ولايت
+  code: URU
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 68.71633
-    minlatitude: 33.602528
-    maxlongitude: 69.88765
-    maxlatitude: 34.36698
-    latitude: 34.014553
-    longitude: 69.19239
-- name: Paktia
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Wardak [Wardag]
   names:
-  - Paktia
-  - Paktiya
-  - Paktīā
-  code: PIA
+    - Vardak
+    - Wardagh
+    - Wardak
+  code: WAR
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 68.77265
-    minlatitude: 33.15921
-    maxlongitude: 70.00564
-    maxlatitude: 34.09086
-    latitude: 33.7062
-    longitude: 69.38311
-- name: Farah
+    minlongitude: 67.232205
+    minlatitude: 33.683571
+    maxlongitude: 68.972619
+    maxlatitude: 34.797575
+    latitude: 34.3513494
+    longitude: 68.2385339
+- name: Zabol [Zabul]
   names:
-  - Fahrah
-  code: FRA
+    - Zabol
+    - Zabul
+    - Zābol
+  code: ZAB
   countryalpha2: AF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 60.586124
-    minlatitude: 31.395832
-    maxlongitude: 64.750404
-    maxlatitude: 33.586983
-    latitude: 32.495327
-    longitude: 62.26266
-- name: Faryab
-  names:
-  - Fariab
-  code: FYB
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 63.89472
-    minlatitude: 35.163197
-    maxlongitude: 65.82207
-    maxlatitude: 37.250168
-    latitude: 36.079563
-    longitude: 64.90595
-- name: Herat
-  names:
-  - Herat
-  code: HER
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 62.150772
-    minlatitude: 34.318558
-    maxlongitude: 62.271366
-    maxlatitude: 34.388355
-    latitude: 34.341946
-    longitude: 62.203056
-- name: Kabul [Kabol]
-  names:
-  - Kabol
-  - Kābol
-  - Kābul
-  - Kabul
-  code: KAB
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 68.94951
-    minlatitude: 34.34549
-    maxlongitude: 69.44595
-    maxlatitude: 34.76192
-    latitude: 34.533333
-    longitude: 69.166664
-- name: Parwan
-  names:
-  - Parvan
-  - Parvān
-  - Parwan
-  code: PAR
-  countryalpha2: AF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 68.19079
-    minlatitude: 34.58837
-    maxlongitude: 69.61661
-    maxlatitude: 35.42422
-    latitude: 34.963097
-    longitude: 68.81088
+    minlongitude: 66.192899
+    minlatitude: 31.505068
+    maxlongitude: 68.1166841
+    maxlatitude: 33.083939
+    latitude: 32.1918782
+    longitude: 67.1894488

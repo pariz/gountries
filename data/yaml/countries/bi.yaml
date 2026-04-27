@@ -1,75 +1,126 @@
 name:
-  common: Burundi
-  official: Republic of Burundi
-  native:
-    fra:
-      common: Burundi
-      official: République du Burundi
-    run:
-      common: Uburundi
-      official: 'Republika y''Uburundi '
+    common: Burundi
+    official: The Republic of Burundi
+    native:
+        fra:
+            common: Burundi
+            official: République du Burundi
+        run:
+            common: Uburundi
+            official: 'Republika y''Uburundi '
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Burundian
+altspellings:
+    - Burundi
+    - ブルンジ
+    - BI
+    - Republic of Burundi
+    - Republika y'Uburundi
+    - République du Burundi
 tlds:
-- .bi
+    - .bi
 languages:
-  fra: French
-  run: Kirundi
+    fr: ""
+    fra: French
+    rn: ""
+    run: Kirundi
 translations:
-  CYM:
-    common: Bwrwndi
-    official: Republic of Burundi
-  FIN:
-    common: Burundi
-    official: Burundin tasavalta
-  FRA:
-    common: Burundi
-    official: République du Burundi
-  HRV:
-    common: Burundi
-    official: Burundi
-  ITA:
-    common: Burundi
-    official: Repubblica del Burundi
-  NLD:
-    common: Burundi
-    official: Republiek Burundi
-  POR:
-    common: Burundi
-    official: República do Burundi
-  RUS:
-    common: Бурунди
-    official: Республика Бурунди
-  SPA:
-    common: Burundi
-    official: República de Burundi
+    ARA:
+        common: بوروندي
+        official: جمهورية بوروندي
+    CES:
+        common: Burundi
+        official: Burundská republika
+    DEU:
+        common: Burundi
+        official: Republik Burundi
+    EST:
+        common: Burundi
+        official: Burundi Vabariik
+    FIN:
+        common: Burundi
+        official: Burundin tasavalta
+    FRA:
+        common: Burundi
+        official: République du Burundi
+    HRV:
+        common: Burundi
+        official: Burundi
+    HUN:
+        common: Burundi
+        official: Burundi
+    ITA:
+        common: Burundi
+        official: Repubblica del Burundi
+    JPN:
+        common: ブルンジ
+        official: ブルンジ共和国
+    KOR:
+        common: 부룬디
+        official: 부룬디
+    NLD:
+        common: Burundi
+        official: Republiek Burundi
+    PER:
+        common: بوروندی
+        official: جمهوری بوروندی
+    POL:
+        common: Burundi
+        official: Republika Burundi
+    POR:
+        common: Burundi
+        official: República do Burundi
+    RUS:
+        common: Бурунди
+        official: Республика Бурунди
+    SLK:
+        common: Burundi
+        official: Burundská republika
+    SPA:
+        common: Burundi
+        official: República de Burundi
+    SRP:
+        common: Burundi
+        official: Republika Burundi
+    SWE:
+        common: Burundi
+        official: Republiken Burundi
+    TUR:
+        common: Burundi
+        official: Burundi Cumhuriyeti
+    URD:
+        common: برونڈی
+        official: جمہوریہ برونڈی
+    ZHO:
+        common: 布隆迪
+        official: 布隆迪共和国
 currencies:
-- BIF
+    - BIF
 borders:
-- COD
-- RWA
-- TZA
+    - COD
+    - RWA
+    - TZA
 codes:
-  alpha2: BI
-  alpha3: BDI
-  cioc: BDI
-  ccn3: "108"
-  callingcodes:
-  - "257"
-  internationalprefix: "00"
+    alpha2: BI
+    alpha3: BDI
+    cioc: BDI
+    ccn3: "108"
+    callingcodes:
+        - "257"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Bujumbura
-  area: 27834
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Gitega
+    area: 27834
 coordinates:
-  longitudestring: 30 00 E
-  latitudestring: 3 30 S
-  minlongitude: 29.02389
-  minlatitude: -4.443333
-  maxlongitude: 30.831388
-  maxlatitude: -2.3425
-  latitude: -3.3652081
-  longitude: 29.886509
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.000968
+    minlatitude: -4.4693288
+    maxlongitude: 30.84954
+    maxlatitude: -2.3097301
+    latitude: -3.373056
+    longitude: 29.918886

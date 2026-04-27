@@ -1,20 +1,110 @@
+- name: Batha
+  names:
+    - Batha
+  code: BA
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.9447559
+    minlatitude: 12.1039549
+    maxlongitude: 20.3562929
+    maxlatitude: 16.076306
+    latitude: 13.9371775
+    longitude: 18.4276047
+- name: بحر الغزال
+  code: BG
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: منطقة بوركو
+  code: BO
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Chari-Baguirmi
   names:
-  - Chari-Baguirmi
+    - Chari-Baguirmi
   code: CB
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.891292
+    minlongitude: 14.8912919
     minlatitude: 9.802192
     maxlongitude: 17.506004
     maxlatitude: 12.379939
-    latitude: 11.256421
-    longitude: 16.158094
+    latitude: 11.2564207
+    longitude: 16.1580937
+- name: إنيدي الشرقية
+  code: EE
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: إنيدي الغربية
+  code: EO
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Guéra
+  names:
+    - Guéra
+  code: GR
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.2903469
+    minlatitude: 9.8482861
+    maxlongitude: 20.192167
+    maxlatitude: 12.990278
+    latitude: 11.1219015
+    longitude: 18.4276047
+- name: Hadjer Lamis
+  names:
+    - Hadjer Lamis
+  code: HL
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.550512
+    minlatitude: 11.4313499
+    maxlongitude: 17.6553859
+    maxlatitude: 13.3501059
+    latitude: 12.4577273
+    longitude: 16.7234639
 - name: Kanem
   names:
-  - Kanem
+    - Kanem
   code: KA
   countryalpha2: TD
   coordinates:
@@ -22,97 +112,97 @@
     latitudestring: ""
     minlongitude: 13.633162
     minlatitude: 13.117372
-    maxlongitude: 16.724848
-    maxlatitude: 16.897871
-    latitude: 14.878126
-    longitude: 15.406808
-- name: Salamat
+    maxlongitude: 16.7248479
+    maxlatitude: 16.8978711
+    latitude: 14.8781262
+    longitude: 15.4068079
+- name: Lac
   names:
-  - Salamat
-  code: SA
+    - Lac
+  code: LC
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 18.838482
-    minlatitude: 9.060796
-    maxlongitude: 22.362143
-    maxlatitude: 12.088373
-    latitude: 10.96916
-    longitude: 20.712246
-- name: Tandjilé
+    minlongitude: 13.4734749
+    minlatitude: 12.9456311
+    maxlongitude: 15.5492499
+    maxlatitude: 14.5104809
+    latitude: 13.6915377
+    longitude: 14.1001326
+- name: Logone-Occidental
   names:
-  - Tandjilé
-  code: TA
+    - Logone-Occidental
+  code: LO
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.438418
-    minlatitude: 9.006821
-    maxlongitude: 17.552967
-    maxlatitude: 10.222793
-    latitude: 9.662573
-    longitude: 16.723463
-- name: Borkou-Ennedi-Tibesti
+    minlongitude: 15.2746969
+    minlatitude: 8.244755
+    maxlongitude: 16.5759211
+    maxlatitude: 9.208981999999999
+    latitude: 8.759675999999999
+    longitude: 15.876004
+- name: Logone-Oriental
   names:
-  - Borkou-Ennedi-Tibesti
-  code: BET
+    - Logone-Oriental
+  code: LR
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.505546
-    minlatitude: 15.273833
-    maxlongitude: 21.02631
-    maxlatitude: 22.064451
-    latitude: 17.868885
-    longitude: 18.80762
+    minlongitude: 15.230739
+    minlatitude: 7.4410681
+    maxlongitude: 17.2695311
+    maxlatitude: 9.115038
+    latitude: 8.3149949
+    longitude: 16.3463791
 - name: Mandoul
   names:
-  - Mandoul
+    - Mandoul
   code: MA
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 17.034464
+    minlongitude: 17.0344641
     minlatitude: 7.785258
     maxlongitude: 18.164068
     maxlatitude: 9.598262
     latitude: 8.603091
-    longitude: 17.479517
-- name: Ouaddaï
+    longitude: 17.4795173
+- name: Moyen-Chari
   names:
-  - Ouaddaï
-  code: OD
+    - Moyen-Chari
+  code: MC
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.026701
-    minlatitude: 12.636083
-    maxlongitude: 22.284214
-    maxlatitude: 14.364351
-    latitude: 13.748476
-    longitude: 20.712246
-- name: Wadi Fira
+    minlongitude: 17.3586501
+    minlatitude: 8.0147168
+    maxlongitude: 19.927143
+    maxlatitude: 10.5414589
+    latitude: 9.0639998
+    longitude: 18.4276047
+- name: Mayo-Kébbi-Est
   names:
-  - Wadi Fira
-  code: WF
+    - Mayo-Kébbi-Est
+  code: ME
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.035872
-    minlatitude: 13.85626
-    maxlongitude: 23.003845
-    maxlatitude: 15.90357
-    latitude: 15.089242
-    longitude: 21.475285
+    minlongitude: 14.0194639
+    minlatitude: 8.5243641
+    maxlongitude: 15.44772
+    maxlatitude: 10.0102089
+    latitude: 9.4046039
+    longitude: 14.8454619
 - name: Mayo-Kébbi-Ouest
   names:
-  - Mayo-Kébbi-Ouest
+    - Mayo-Kébbi-Ouest
   code: MO
   countryalpha2: TD
   coordinates:
@@ -120,133 +210,101 @@
     latitudestring: ""
     minlongitude: 14.949498
     minlatitude: 9.188032
-    maxlongitude: 16.215069
+    maxlongitude: 16.2150691
     maxlatitude: 11.181067
-    latitude: 10.411302
-    longitude: 15.594338
-- name: Batha
-  names:
-  - Batha
-  code: BA
-  countryalpha2: TD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.944756
-    minlatitude: 12.103955
-    maxlongitude: 20.356293
-    maxlatitude: 16.076305
-    latitude: 13.937178
-    longitude: 18.427605
-- name: Guéra
-  names:
-  - Guéra
-  code: GR
-  countryalpha2: TD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.290346
-    minlatitude: 9.848286
-    maxlongitude: 20.192167
-    maxlatitude: 12.990278
-    latitude: 11.1219015
-    longitude: 18.427605
-- name: Logone-Oriental
-  names:
-  - Logone-Oriental
-  code: LR
-  countryalpha2: TD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.230739
-    minlatitude: 7.441068
-    maxlongitude: 17.269531
-    maxlatitude: 9.115038
-    latitude: 8.314995
-    longitude: 16.346378
-- name: Moyen-Chari
-  names:
-  - Moyen-Chari
-  code: MC
-  countryalpha2: TD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.35865
-    minlatitude: 8.014717
-    maxlongitude: 19.927143
-    maxlatitude: 10.541459
-    latitude: 9.064
-    longitude: 18.427605
+    latitude: 10.4113014
+    longitude: 15.5943388
 - name: Ndjamena
   names:
-  - Ndjamena
+    - Ndjamena
   code: ND
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.966487
-    minlatitude: 12.060334
-    maxlongitude: 15.148431
-    maxlatitude: 12.180102
+    minlongitude: 14.9664874
+    minlatitude: 12.0603346
+    maxlongitude: 15.1484305
+    maxlatitude: 12.1801019
     latitude: 12.113056
     longitude: 15.049167
-- name: Hadjer Lamis
+- name: Ouaddaï
   names:
-  - Hadjer Lamis
-  code: HL
+    - Ouaddaï
+  code: OD
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.550512
-    minlatitude: 11.43135
-    maxlongitude: 17.655386
-    maxlatitude: 13.350106
-    latitude: 12.457727
-    longitude: 16.723463
-- name: Lac
+    minlongitude: 20.0267009
+    minlatitude: 12.636083
+    maxlongitude: 22.284214
+    maxlatitude: 14.3643509
+    latitude: 13.748476
+    longitude: 20.7122465
+- name: Salamat
   names:
-  - Lac
-  code: LC
+    - Salamat
+  code: SA
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.4734745
-    minlatitude: 12.945631
-    maxlongitude: 15.54925
-    maxlatitude: 14.510481
-    latitude: 13.691538
-    longitude: 14.100133
-- name: Logone-Occidental
-  names:
-  - Logone-Occidental
-  code: LO
+    minlongitude: 18.8384811
+    minlatitude: 9.060796
+    maxlongitude: 22.362142
+    maxlatitude: 12.088373
+    latitude: 10.9691601
+    longitude: 20.7122465
+- name: منطقة سيلا
+  code: SI
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.274697
-    minlatitude: 8.244755
-    maxlongitude: 16.575922
-    maxlatitude: 9.208982
-    latitude: 8.759676
-    longitude: 15.876004
-- name: Mayo-Kébbi-Est
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tandjilé
   names:
-  - Mayo-Kébbi-Est
-  code: ME
+    - Tandjilé
+  code: TA
   countryalpha2: TD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.019464
-    minlatitude: 8.524364
-    maxlongitude: 15.44772
-    maxlatitude: 10.010209
-    latitude: 9.404604
-    longitude: 14.845462
+    minlongitude: 15.438418
+    minlatitude: 9.006821
+    maxlongitude: 17.552968
+    maxlatitude: 10.222793
+    latitude: 9.6625729
+    longitude: 16.7234639
+- name: منطقة تبستي
+  code: TI
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Wadi Fira
+  names:
+    - Wadi Fira
+  code: WF
+  countryalpha2: TD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.035872
+    minlatitude: 13.85626
+    maxlongitude: 23.0038449
+    maxlatitude: 15.9035701
+    latitude: 15.0892416
+    longitude: 21.4752851

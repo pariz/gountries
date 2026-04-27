@@ -1,90 +1,76 @@
-- name: Saint James
-  names:
-  - Saint James
-  code: "04"
-  countryalpha2: BB
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -59.643616
-    minlatitude: 13.138193
-    maxlongitude: -59.598465
-    maxlatitude: 13.237683
-    latitude: 13.193991
-    longitude: -59.627625
-- name: Saint Peter
-  names:
-  - Saint Peter
-  code: "09"
-  countryalpha2: BB
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -59.64696
-    minlatitude: 13.225718
-    maxlongitude: -59.572906
-    maxlatitude: 13.299063
-    latitude: 13.260046
-    longitude: -59.62186
-- name: Saint Philip
-  names:
-  - Saint Philip
-  code: "10"
-  countryalpha2: BB
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -59.510822
-    minlatitude: 13.078995
-    maxlongitude: -59.42107
-    maxlatitude: 13.1829605
-    latitude: 13.136278
-    longitude: -59.460575
-- name: Saint Thomas
-  names:
-  - Saint Thomas
-  code: "11"
-  countryalpha2: BB
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -59.61772
-    minlatitude: 13.146625
-    maxlongitude: -59.553192
-    maxlatitude: 13.216692
-    latitude: 13.1748295
-    longitude: -59.59881
 - name: Christ Church
   names:
-  - Christ Church
+    - Christ Church
   code: "01"
   countryalpha2: BB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.611046
-    minlatitude: 13.044999
-    maxlongitude: -59.471992
+    minlongitude: -59.6110459
+    minlatitude: 13.0449995
+    maxlongitude: -59.4719928
     maxlatitude: 13.125974
     latitude: 13.083735
-    longitude: -59.529675
+    longitude: -59.52967419999999
+- name: Saint Andrew
+  names:
+    - Saint Andrew
+  code: "02"
+  countryalpha2: BB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.60091989999999
+    minlatitude: 13.204939
+    maxlongitude: -59.5420721
+    maxlatitude: 13.293989
+    latitude: 13.2540083
+    longitude: -59.5757599
 - name: Saint George
   names:
-  - Saint George
+    - Saint George
   code: "03"
   countryalpha2: BB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.582317
+    minlongitude: -59.5823159
     minlatitude: 13.099258
-    maxlongitude: -59.50622
-    maxlatitude: 13.181521
+    maxlongitude: -59.50622000000001
+    maxlatitude: 13.1815211
     latitude: 13.148292
-    longitude: -59.552715
+    longitude: -59.55271499999999
+- name: Saint James
+  names:
+    - Saint James
+  code: "04"
+  countryalpha2: BB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.64361599999999
+    minlatitude: 13.1381931
+    maxlongitude: -59.598465
+    maxlatitude: 13.237683
+    latitude: 13.1939911
+    longitude: -59.6276259
+- name: Saint John
+  names:
+    - Saint John
+  code: "05"
+  countryalpha2: BB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.54018499999999
+    minlatitude: 13.1376361
+    maxlongitude: -59.45831699999999
+    maxlatitude: 13.210594
+    latitude: 13.1833369
+    longitude: -59.5066376
 - name: Saint Joseph
   names:
-  - Saint Joseph
+    - Saint Joseph
   code: "06"
   countryalpha2: BB
   coordinates:
@@ -92,63 +78,77 @@
     latitudestring: ""
     minlongitude: -59.575138
     minlatitude: 13.169218
-    maxlongitude: -59.510178
+    maxlongitude: -59.51017799999999
     maxlatitude: 13.235171
-    latitude: 13.204009
-    longitude: -59.546955
+    latitude: 13.2040088
+    longitude: -59.54695439999999
 - name: Saint Lucy
   names:
-  - Saint Lucy
+    - Saint Lucy
   code: "07"
   countryalpha2: BB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.65056
-    minlatitude: 13.274042
-    maxlongitude: -59.574364
-    maxlatitude: 13.3350315
-    latitude: 13.301178
-    longitude: -59.62186
+    minlongitude: -59.650559
+    minlatitude: 13.2740421
+    maxlongitude: -59.57436509999999
+    maxlatitude: 13.3350319
+    latitude: 13.3011778
+    longitude: -59.621862
 - name: Saint Michael
   names:
-  - Saint Michael
+    - Saint Michael
   code: "08"
   countryalpha2: BB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.637196
-    minlatitude: 13.078494
+    minlongitude: -59.63719399999999
+    minlatitude: 13.0784939
     maxlongitude: -59.567387
     maxlatitude: 13.158466
-    latitude: 13.113222
-    longitude: -59.59881
-- name: Saint Andrew
+    latitude: 13.1132219
+    longitude: -59.59880889999999
+- name: Saint Peter
   names:
-  - Saint Andrew
-  code: "02"
+    - Saint Peter
+  code: "09"
   countryalpha2: BB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.60092
-    minlatitude: 13.204939
-    maxlongitude: -59.542072
-    maxlatitude: 13.293989
-    latitude: 13.254008
-    longitude: -59.57576
-- name: Saint John
+    minlongitude: -59.6469631
+    minlatitude: 13.2257179
+    maxlongitude: -59.572906
+    maxlatitude: 13.299063
+    latitude: 13.2600459
+    longitude: -59.621862
+- name: Saint Philip
   names:
-  - Saint John
-  code: "05"
+    - Saint Philip
+  code: "10"
   countryalpha2: BB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.540184
-    minlatitude: 13.137636
-    maxlongitude: -59.458317
-    maxlatitude: 13.210594
-    latitude: 13.183337
-    longitude: -59.506638
+    minlongitude: -59.51082299999999
+    minlatitude: 13.0789943
+    maxlongitude: -59.4210709
+    maxlatitude: 13.1829601
+    latitude: 13.1362782
+    longitude: -59.4605768
+- name: Saint Thomas
+  names:
+    - Saint Thomas
+  code: "11"
+  countryalpha2: BB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.617723
+    minlatitude: 13.1466249
+    maxlongitude: -59.55319399999999
+    maxlatitude: 13.216692
+    latitude: 13.1748291
+    longitude: -59.59880889999999

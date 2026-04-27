@@ -1,65 +1,116 @@
 name:
-  common: Pitcairn Islands
-  official: Pitcairn Group of Islands
-  native:
-    eng:
-      common: Pitcairn Islands
-      official: Pitcairn Group of Islands
+    common: Pitcairn
+    official: The Pitcairn, Henderson, Ducie and Oeno Islands
+    native:
+        eng:
+            common: Pitcairn Islands
+            official: Pitcairn Group of Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Pitcairn Islander
+altspellings:
+    - Pitcairn
+    - ピトケアン
+    - Pitcairneilanden
+    - Pitcairn Islands
+    - PN
+    - Pitcairn Henderson Ducie and Oeno Islands
 tlds:
-- .pn
+    - .pn
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Pitcairn
-    official: Pitcairn
-  FRA:
-    common: Îles Pitcairn
-    official: Groupe d'îles Pitcairn
-  HRV:
-    common: Pitcairnovo otočje
-    official: Pitcairn skupine otoka
-  JPN:
-    common: ピトケアン
-    official: 島のピトケアングループ
-  NLD:
-    common: Pitcairneilanden
-    official: Pitcairn groep eilanden
-  POR:
-    common: Ilhas Pitcairn
-    official: Pitcairn grupo de ilhas
-  RUS:
-    common: Острова Питкэрн
-    official: Питкэрн группа островов
-  SPA:
-    common: Islas Pitcairn
-    official: Grupo de Islas Pitcairn
+    ARA:
+        common: جزر بيتكيرن
+        official: جزر بيتكيرن
+    CES:
+        common: Pitcairnovy ostrovy
+        official: Pitcairnovy ostrovy
+    DEU:
+        common: Pitcairninseln
+        official: Pitcairninseln
+    EST:
+        common: Pitcairn
+        official: Pitcairni, Hendersoni, Ducie ja Oeno saar
+    FIN:
+        common: Pitcairn
+        official: Pitcairn
+    FRA:
+        common: Îles Pitcairn
+        official: Groupe d'îles Pitcairn
+    HRV:
+        common: Pitcairnovo otočje
+        official: Pitcairn skupine otoka
+    HUN:
+        common: Pitcairn-szigetek
+        official: Pitcairn-szigetek
+    ITA:
+        common: Isole Pitcairn
+        official: Pitcairn gruppo di isole
+    JPN:
+        common: ピトケアン諸島
+        official: ピトケアン諸島
+    KOR:
+        common: 핏케언 제도
+        official: 핏케언 제도
+    NLD:
+        common: Pitcairneilanden
+        official: Pitcairn groep eilanden
+    PER:
+        common: جزایر پیت‌کرن
+        official: جزایر پیت‌کرن
+    POL:
+        common: Pitcairn
+        official: Wyspy Pitcairn, Henderson, Ducie i Oeno
+    POR:
+        common: Ilhas Pitcairn
+        official: Pitcairn grupo de ilhas
+    RUS:
+        common: Острова Питкэрн
+        official: Питкэрн группа островов
+    SLK:
+        common: Pitcairnove ostrovy
+        official: Pitcairnove ostrovy
+    SPA:
+        common: Islas Pitcairn
+        official: Grupo de Islas Pitcairn
+    SRP:
+        common: Ostrva Pitkern
+        official: Grupa Ostrva Pitkern
+    SWE:
+        common: Pitcairnöarna
+        official: Pitcairnöarna
+    TUR:
+        common: Pitcairn Adaları
+        official: Pitcairn, Henderson, Ducie ve Oeno Adaları
+    URD:
+        common: جزائر پٹکیرن
+        official: پٹکیرن جزائر
+    ZHO:
+        common: 皮特凯恩群岛
+        official: 皮特凯恩群岛
 currencies:
-- NZD
-borders: []
+    - NZD
 codes:
-  alpha2: PN
-  alpha3: PCN
-  cioc: ""
-  ccn3: "612"
-  callingcodes:
-  - "64"
-  internationalprefix: "00"
+    alpha2: PN
+    alpha3: PCN
+    ccn3: "612"
+    callingcodes:
+        - "64"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Adamstown
-  area: 47
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Adamstown
+    area: 47
 coordinates:
-  longitudestring: 130 06 W
-  latitudestring: 25 04 S
-  minlongitude: -130.73334
-  minlatitude: -25.066668
-  maxlongitude: -124.78333
-  maxlatitude: -23.916668
-  latitude: -24.372114
-  longitude: -128.31125
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -130.9268188
+    minlatitude: -25.1776023
+    maxlongitude: -124.5410156
+    maxlatitude: -23.7928845
+    latitude: -24.3767537
+    longitude: -128.3242376

@@ -1,64 +1,123 @@
 name:
-  common: Caribbean Netherlands
-  official: Bonaire, Sint Eustatius and Saba
-  native:
-    cat:
-      common: Caribisch Nederland
-      official: BES-eilanden
+    common: Bonaire, Sint Eustatius and Saba
+    official: Bonaire, Sint Eustatius and Saba
+    native:
+        nld:
+            common: Caribisch Nederland
+            official: Bonaire, Sint Eustatius en Saba
+        pap:
+            common: Boneiru, Sint Eustatius y Saba
+            official: Boneiru, Sint Eustatius y Saba
 eumember: false
 landlocked: false
-nationality: ''
+nationality: Dutch
+altspellings:
+    - Bonaire, Sint Eustatius and Saba
+    - Caribbean Netherlands
+    - Caribisch Nederland
+    - ボネール、シント・ユースタティウスおよびサバ
+    - BES islands
+    - Bonaire Sint Eustatius and Saba
 tlds:
-  - .nl
-  - .bq
+    - .bq
+    - .nl
 languages:
-  nld: Dutch
-  eng: English
+    en: ""
+    eng: English
+    nl: ""
+    nld: Dutch
+    pap: Papiamento
 translations:
-  DEU:
-    common: Karibische Niederlande
-    official: Bonaire, Sint Eustatius und Saba
-  FRA:
-    common: Pays-Bas Caribéens
-    official: Bonaire, Saint-Eustache et Saba
-  ITA:
-    common: Paesi Bassi Caraibici
-    official: Bonaire, Sint Eustatius e Saba
-  NLD:
-    common: Caribisch Nederland
-    official: Bonaire, Sint Eustatius en Saba
-  POR:
-    common: Países Baixos Caribenhos
-    official: Bonaire, Santo Eustáquio e Saba
-  RUS:
-    common: Кари́бские Нидерла́нды
-    official: Бонэйр, Синт-Эстатиус и Саба
-  SPA:
-    common: Caribe Neerlandés
-    official: Bonaire, San Eustaquio y Saba
+    ARA:
+        common: الجزر الكاريبية الهولندية
+        official: بونير وسينت أوستاتيوس وسابا
+    CES:
+        common: Karibské Nizozemsko
+        official: Karibské Nizozemsko
+    DEU:
+        common: Karibische Niederlande
+        official: Bonaire, Sint Eustatius und Saba
+    EST:
+        common: Bonaire, Sint Eustatius ja Saba
+        official: Bonaire, Sint Eustatius ja Saba
+    FIN:
+        common: Bonaire, Sint Eustatius ja Saba
+        official: Bonaire, Sint Eustatius ja Saba
+    FRA:
+        common: Pays-Bas caribéens
+        official: Bonaire, Saint-Eustache et Saba
+    HRV:
+        common: Bonaire, Sint Eustatius i Saba
+        official: Bonaire, Sint Eustatius i Saba
+    HUN:
+        common: Bonaire
+        official: Bonaire
+    ITA:
+        common: Paesi Bassi caraibici
+        official: Bonaire, Sint Eustatius e Saba
+    JPN:
+        common: BES諸島
+        official: オランダカリブ領域
+    KOR:
+        common: 카리브 네덜란드
+        official: 보네르, 신트외스타티위스, 사바
+    NLD:
+        common: Caribisch Nederland
+        official: Bonaire, Sint Eustatius en Saba
+    PER:
+        common: جزایر کارائیب هلند
+        official: جزایر کارائیب هلند
+    POL:
+        common: Antyle Holenderskie
+        official: Bonaire, Sint Eustatius i Saba
+    POR:
+        common: Países Baixos Caribenhos
+        official: Bonaire, Saba e Santo Eustáquio
+    RUS:
+        common: Карибские Нидерланды
+        official: Бонэйр, Синт-Эстатиус и Саба
+    SLK:
+        common: Bonaire, Sint Eustatius a Saba
+        official: Bonaire, Sint Eustatius a Saba
+    SPA:
+        common: Caribe Neerlandés
+        official: Bonaire, San Eustaquio y Saba
+    SRP:
+        common: Karipska Holandija
+        official: Karipska Holandija
+    SWE:
+        common: Karibiska Nederländerna
+        official: Bonaire, Sint Eustatius and Saba
+    TUR:
+        common: Karayip Hollandası
+        official: Karayip Hollandası
+    URD:
+        common: کیریبین نیدرلینڈز
+        official: بونایر، سینٹ ایوسٹائیس اور سابا
+    ZHO:
+        common: 荷蘭加勒比區
+        official: 荷蘭加勒比區
 currencies:
-  - USD
-borders: []
+    - USD
 codes:
-  alpha2: BQ
-  alpha3: BES
-  cioc: AHO
-  ccn3: '535'
-  callingcodes:
-    - '599'
-  internationalprefix: '00'
+    alpha2: BQ
+    alpha3: BES
+    ccn3: "535"
+    callingcodes:
+        - "599"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Kralendijk
-  area: 328
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Kralendijk
+    area: 328
 coordinates:
-  longitudestring: 68 14 W
-  latitudestring: 12 11 N
-  minlongitude: -68.5149
-  minlatitude: 11.9641
-  maxlongitude: -62.9228
-  maxlatitude: 17.6606999
-  latitude: 12.1783611
-  longitude: -68.2385339
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -68.5149
+    minlatitude: 11.9641
+    maxlongitude: -62.9228
+    maxlatitude: 17.6606999
+    latitude: 12.1783611
+    longitude: -68.2385339

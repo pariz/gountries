@@ -1,65 +1,115 @@
 name:
-  common: South Georgia
-  official: South Georgia and the South Sandwich Islands
-  native:
-    eng:
-      common: South Georgia
-      official: South Georgia and the South Sandwich Islands
+    common: South Georgia and the South Sandwich Islands
+    official: South Georgia and the South Sandwich Islands
+    native:
+        eng:
+            common: South Georgia
+            official: South Georgia and the South Sandwich Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: South Georgia and the South Sandwich Islander
+altspellings:
+    - South Georgia
+    - South Georgia and the South Sandwich Islands
+    - Südgeorgien und die Südlichen Sandwichinseln
+    - サウスジョージア・サウスサンドウィッチ諸島
+    - Zuid-Georgia en Zuidelijke Sandwicheilanden
+    - GS
 tlds:
-- .gs
+    - .gs
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Südgeorgien und die Südlichen Sandwichinseln
-    official: Südgeorgien und die Südlichen Sandwichinseln
-  FIN:
-    common: Etelä-Georgia ja Eteläiset Sandwichsaaret
-    official: Etelä-Georgia ja Eteläiset Sandwichsaaret
-  HRV:
-    common: Južna Georgija i otočje Južni Sandwich
-    official: Južna Džordžija i Otoci Južni Sendvič
-  ITA:
-    common: Georgia del Sud e Isole Sandwich Meridionali
-    official: Georgia del Sud e isole Sandwich del Sud
-  JPN:
-    common: サウスジョージア・サウスサンドウィッチ諸島
-    official: サウスジョージア·サウスサンドウィッチ諸島
-  NLD:
-    common: Zuid-Georgia en Zuidelijke Sandwicheilanden
-    official: Zuid-Georgië en de Zuidelijke Sandwich-eilanden
-  RUS:
-    common: Южная Георгия и Южные Сандвичевы острова
-    official: Южная Георгия и Южные Сандвичевы острова
-  SPA:
-    common: Islas Georgias del Sur y Sandwich del Sur
-    official: Georgia del Sur y las Islas Sandwich del Sur
+    ARA:
+        common: جورجيا الجنوبية
+        official: جورجيا الجنوبية وجزر ساندوتش الجنوبية
+    CES:
+        common: Jižní Georgie a Jižní Sandwichovy ostrovy
+        official: Jižní Georgie a Jižní Sandwichovy ostrovy
+    DEU:
+        common: Südgeorgien und die Südlichen Sandwichinseln
+        official: Südgeorgien und die Südlichen Sandwichinseln
+    EST:
+        common: Lõuna-Georgia ja Lõuna-Sandwichi saared
+        official: Lõuna-Georgia ja Lõuna-Sandwichi saared
+    FIN:
+        common: Etelä-Georgia ja Eteläiset Sandwichsaaret
+        official: Etelä-Georgia ja Eteläiset Sandwichsaaret
+    FRA:
+        common: Géorgie du Sud-et-les Îles Sandwich du Sud
+        official: Géorgie du Sud et les îles Sandwich du Sud
+    HRV:
+        common: Južna Georgija i otočje Južni Sandwich
+        official: Južna Džordžija i Otoci Južni Sendvič
+    HUN:
+        common: Déli-Georgia és Déli-Sandwich-szigetek
+        official: Déli-Georgia és Déli-Sandwich-szigetek
+    ITA:
+        common: Georgia del Sud e Isole Sandwich Meridionali
+        official: Georgia del Sud e isole Sandwich del Sud
+    JPN:
+        common: サウスジョージア・サウスサンドウィッチ諸島
+        official: 南ジョージア島・南サンドイッチ諸島
+    KOR:
+        common: 조지아
+        official: 조지아
+    NLD:
+        common: Zuid-Georgia en Zuidelijke Sandwicheilanden
+        official: Zuid-Georgië en de Zuidelijke Sandwich-eilanden
+    PER:
+        common: جزایر جورجیای جنوبی و ساندویچ جنوبی
+        official: جزایر جورجیای جنوبی و ساندویچ جنوبی
+    POL:
+        common: Georgia Południowa i Sandwich Południowy
+        official: Georgia Południowa i Sandwich Południowy
+    POR:
+        common: Ilhas Geórgia do Sul e Sandwich do Sul
+        official: Geórgia do Sul e Sandwich do Sul
+    RUS:
+        common: Южная Георгия и Южные Сандвичевы острова
+        official: Южная Георгия и Южные Сандвичевы острова
+    SLK:
+        common: Južná Georgia a Južné Sandwichove ostrovy
+        official: Južná Georgia a Južné Sandwichove ostrovy
+    SPA:
+        common: Islas Georgias del Sur y Sandwich del Sur
+        official: Georgia del Sur y las Islas Sandwich del Sur
+    SRP:
+        common: Južna Džordžija
+        official: Južna Džordžija i Južna Sendvička Ostrva
+    SWE:
+        common: Sydgeorgien
+        official: Sydgeorgien
+    TUR:
+        common: Güney Georgia ve Güney Sandwich Adaları
+        official: Güney Georgia ve Güney Sandwich Adaları
+    URD:
+        common: جنوبی جارجیا
+        official: جنوبی جارجیا و جزائر جنوبی سینڈوچ
+    ZHO:
+        common: 南乔治亚
+        official: 南乔治亚岛和南桑威奇群岛
 currencies:
-- GBP
-borders: []
+    - GBP
 codes:
-  alpha2: GS
-  alpha3: SGS
-  cioc: ""
-  ccn3: "239"
-  callingcodes:
-  - "500"
-  internationalprefix: ""
+    alpha2: GS
+    alpha3: SGS
+    ccn3: "239"
+    callingcodes:
+        - "500"
 geo:
-  region: Americas
-  subregion: South America
-  continent: Antarctica
-  capital: King Edward Point
-  area: 3903
+    region: Americas
+    subregion: South America
+    continent: Antarctica
+    capital: King Edward Point
+    area: 3903
 coordinates:
-  longitudestring: 37 00 W
-  latitudestring: 54 30 S
-  minlongitude: -38.305
-  minlatitude: -59.466667
-  maxlongitude: -26.333332
-  maxlatitude: -53.97028
-  latitude: -54.459923
-  longitude: -36.354618
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -38.4301758
+    minlatitude: -59.91097600000001
+    maxlongitude: -25.4663085
+    maxlatitude: -53.8525267
+    latitude: -54.429579
+    longitude: -36.587909

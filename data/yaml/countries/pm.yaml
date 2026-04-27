@@ -1,59 +1,118 @@
 name:
-  common: Saint Pierre and Miquelon
-  official: Saint Pierre and Miquelon
-  native:
-    fra:
-      common: Saint-Pierre-et-Miquelon
-      official: Collectivité territoriale de Saint-Pierre-et-Miquelon
+    common: Saint Pierre and Miquelon
+    official: The Overseas Collectivity of Saint-Pierre and Miquelon
+    native:
+        fra:
+            common: Saint-Pierre-et-Miquelon
+            official: Collectivité territoriale de Saint-Pierre-et-Miquelon
 eumember: false
 landlocked: false
-nationality: ""
+nationality: French
+altspellings:
+    - Saint Pierre and Miquelon
+    - Saint-Pierre und Miquelon
+    - Saint-Pierre-et-Miquelon
+    - San Pedro y Miquelón
+    - サンピエール島・ミクロン島
+    - Saint Pierre en Miquelon
+    - PM
+    - Collectivité territoriale de Saint-Pierre-et-Miquelon
 tlds:
-- .pm
+    - .pm
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Saint-Pierre und Miquelon
-    official: St. Pierre und Miquelon
-  FRA:
-    common: Saint-Pierre-et-Miquelon
-    official: Saint-Pierre-et-Miquelon
-  HRV:
-    common: Sveti Petar i Mikelon
-    official: Saint Pierre i Miquelon
-  ITA:
-    common: Saint-Pierre e Miquelon
-    official: Saint Pierre e Miquelon
-  RUS:
-    common: Сен-Пьер и Микелон
-    official: Сен-Пьер и Микелон
-  SPA:
-    common: San Pedro y Miquelón
-    official: San Pedro y Miquelón
+    ARA:
+        common: سان بيير وميكلون
+        official: سان بيير وميكلون
+    CES:
+        common: Saint-Pierre a Miquelon
+        official: Saint-Pierre a Miquelon
+    DEU:
+        common: St. Pierre und Miquelon
+        official: St. Pierre und Miquelon
+    EST:
+        common: Saint-Pierre ja Miquelon
+        official: Saint-Pierre’i ja Miqueloni territoriaalühendus
+    FIN:
+        common: Saint-Pierre ja Miquelon
+        official: Saint-Pierre ja Miquelon
+    FRA:
+        common: Saint-Pierre-et-Miquelon
+        official: Saint-Pierre-et-Miquelon
+    HRV:
+        common: Sveti Petar i Mikelon
+        official: Saint Pierre i Miquelon
+    HUN:
+        common: Saint-Pierre és Miquelon
+        official: Saint-Pierre és Miquelon
+    ITA:
+        common: Saint-Pierre e Miquelon
+        official: Saint Pierre e Miquelon
+    JPN:
+        common: サンピエール島及びミクロン島
+        official: サンピエール島・ミクロン島
+    KOR:
+        common: 생피에르 미클롱
+        official: 생피에르 미클롱
+    NLD:
+        common: Saint Pierre en Miquelon
+        official: Saint-Pierre en Miquelon
+    PER:
+        common: سن-پیِر و میکلُن
+        official: سن-پیر-ا-میکلون
+    POL:
+        common: Saint-Pierre i Miquelon
+        official: Saint-Pierre i Miquelon
+    POR:
+        common: Saint-Pierre e Miquelon
+        official: Saint Pierre e Miquelon
+    RUS:
+        common: Сен-Пьер и Микелон
+        official: Сен-Пьер и Микелон
+    SLK:
+        common: Saint Pierre a Miquelon
+        official: Ostrovy Saint Pierre a Miquelon
+    SPA:
+        common: San Pedro y Miquelón
+        official: San Pedro y Miquelón
+    SRP:
+        common: Sent Pjer i Mikelon
+        official: Sent Pjer i Mikelon
+    SWE:
+        common: Saint-Pierre och Miquelon
+        official: Saint-Pierre och Miquelon
+    TUR:
+        common: Saint Pierre ve Miquelon
+        official: Saint Pierre ve Miquelon
+    URD:
+        common: سینٹ پیئر و میکیلون
+        official: سینٹ پیئر و میکیلون
+    ZHO:
+        common: 圣皮埃尔和密克隆
+        official: 圣皮埃尔和密克隆
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: PM
-  alpha3: SPM
-  cioc: ""
-  ccn3: "666"
-  callingcodes:
-  - "508"
-  internationalprefix: "00"
+    alpha2: PM
+    alpha3: SPM
+    ccn3: "666"
+    callingcodes:
+        - "508"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Northern America
-  continent: North America
-  capital: Saint-Pierre
-  area: 242
+    region: Americas
+    subregion: Northern America
+    continent: North America
+    capital: Saint-Pierre
+    area: 242
 coordinates:
-  longitudestring: 56 20 W
-  latitudestring: 46 50 N
-  minlongitude: -56.405277
-  minlatitude: 46.748333
-  maxlongitude: -56.120556
-  maxlatitude: 47.13972
-  latitude: 46.905945
-  longitude: -56.336586
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.5233
+    minlatitude: 46.7003
+    maxlongitude: -55.98249999999999
+    maxlatitude: 47.21579999999999
+    latitude: 46.8852
+    longitude: -56.3159

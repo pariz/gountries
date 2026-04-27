@@ -1,213 +1,227 @@
-- name: Valparaíso
-  names:
-  - Valparaíso
-  code: VS
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.74445
-    minlatitude: -33.214973
-    maxlongitude: -71.38561
-    maxlatitude: -33.017815
-    latitude: -33.045647
-    longitude: -71.62036
 - name: Aisén del General Carlos Ibáñez del Campo
   names:
-  - Aisén del General Carlos Ibáñez del Campo
-  - Aysén
+    - Aisén del General Carlos Ibáñez del Campo
+    - Aysén
   code: AI
   countryalpha2: CL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -75.67982
-    minlatitude: -49.34397
-    maxlongitude: -71.0875
-    maxlatitude: -43.639977
+    minlongitude: -75.67981809999999
+    minlatitude: -49.3439696
+    maxlongitude: -71.08750119999999
+    maxlatitude: -43.6399768
     latitude: -46.378345
-    longitude: -72.300766
-- name: Los Ríos
-  names:
-  - Los Ríos
-  code: LR
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.72755
-    minlatitude: -40.681904
-    maxlongitude: -71.582924
-    maxlatitude: -39.28714
-    latitude: -40.23102
-    longitude: -72.331116
-- name: Magallanes
-  names:
-  - Magellantes y la Antártica Chilena
-  code: MA
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.72966
-    minlatitude: -55.979965
-    maxlongitude: -66.418144
-    maxlatitude: -48.5966
-    latitude: -52.206432
-    longitude: -72.1685
-- name: Maule
-  names:
-  - Maule
-  code: ML
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.789894
-    minlatitude: -36.545654
-    maxlongitude: -70.32601
-    maxlatitude: -34.711903
-    latitude: -35.51636
-    longitude: -71.572395
-- name: Región Metropolitana de Santiago
-  names:
-  - Metropolitana de Santiago
-  code: RM
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.7187
-    minlatitude: -34.28788
-    maxlongitude: -69.769
-    maxlatitude: -32.919453
-    latitude: -33.484337
-    longitude: -70.62168
-- name: Arica y Parinacota
-  names:
-  - Arica y Parinacota
-  code: AP
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.37963
-    minlatitude: -19.23028
-    maxlongitude: -68.9161
-    maxlatitude: -17.500856
-    latitude: -18.594048
-    longitude: -69.478455
-- name: Atacama
-  names:
-  - Atacama
-  code: AT
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.59369
-    minlatitude: -29.537374
-    maxlongitude: -68.26686
-    maxlatitude: -25.289701
-    latitude: -27.566055
-    longitude: -70.050316
-- name: Libertador General Bernardo O'Higgins
-  names:
-  - General Bernardo O'Higgins
-  - Libertador
-  - Libertador OʿHiggins
-  code: LI
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.07173
-    minlatitude: -35.00667
-    maxlongitude: -70.012146
-    maxlatitude: -33.853767
-    latitude: -34.57554
-    longitude: -71.00223
-- name: Los Lagos
-  names:
-  - Los Lagos
-  code: LL
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.8512
-    minlatitude: -44.06681
-    maxlongitude: -71.584175
-    maxlatitude: -40.23649
-    latitude: -41.919777
-    longitude: -72.14162
-- name: Bío-Bío
-  names:
-  - Bíobío
-  code: BI
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.96993
-    minlatitude: -38.49182
-    maxlongitude: -70.98832
-    maxlatitude: -36.008316
-    latitude: -36.977722
-    longitude: -72.331116
-- name: Coquimbo
-  names:
-  - Coquimbo
-  code: CO
-  countryalpha2: CL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.676865
-    minlatitude: -30.515066
-    maxlongitude: -71.11746
-    maxlatitude: -29.933159
-    latitude: -29.9533
-    longitude: -71.3436
+    longitude: -72.3007623
 - name: Antofagasta
   names:
-  - Antofagasta
+    - Antofagasta
   code: AN
   countryalpha2: CL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.62912
+    minlongitude: -70.62911609999999
     minlatitude: -25.40112
-    maxlongitude: -68.11821
-    maxlatitude: -23.059124
+    maxlongitude: -68.1182127
+    maxlatitude: -23.0591235
     latitude: -23.65
-    longitude: -70.4
+    longitude: -70.39999999999999
+- name: Arica y Parinacota
+  names:
+    - Arica y Parinacota
+  code: AP
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.37963309999999
+    minlatitude: -19.2302791
+    maxlongitude: -68.9160989
+    maxlatitude: -17.5008571
+    latitude: -18.5940485
+    longitude: -69.4784541
 - name: Araucanía
   names:
-  - La Araucanía
+    - La Araucanía
   code: AR
   countryalpha2: CL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -73.52287
-    minlatitude: -39.639725
-    maxlongitude: -70.83011
-    maxlatitude: -37.58805
-    latitude: -38.94892
-    longitude: -72.331116
+    minlongitude: -73.5228712
+    minlatitude: -39.6397245
+    maxlongitude: -70.8301122
+    maxlatitude: -37.5880498
+    latitude: -38.948921
+    longitude: -72.331113
+- name: Atacama
+  names:
+    - Atacama
+  code: AT
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.5936886
+    minlatitude: -29.5373752
+    maxlongitude: -68.26686219999999
+    maxlatitude: -25.2897006
+    latitude: -27.5660558
+    longitude: -70.050314
+- name: Bío-Bío
+  names:
+    - Bíobío
+  code: BI
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.9699354
+    minlatitude: -38.4918218
+    maxlongitude: -70.98831919999999
+    maxlatitude: -36.0083148
+    latitude: -36.9777206
+    longitude: -72.331113
+- name: Coquimbo
+  names:
+    - Coquimbo
+  code: CO
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.67686309999999
+    minlatitude: -30.515066
+    maxlongitude: -71.117463
+    maxlatitude: -29.9331593
+    latitude: -29.9533
+    longitude: -71.3436
+- name: Libertador General Bernardo O'Higgins
+  names:
+    - General Bernardo O'Higgins
+    - Libertador
+    - Libertador OʿHiggins
+  code: LI
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.0717305
+    minlatitude: -35.0066722
+    maxlongitude: -70.0121472
+    maxlatitude: -33.8537682
+    latitude: -34.5755374
+    longitude: -71.0022311
+- name: Los Lagos
+  names:
+    - Los Lagos
+  code: LL
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.8511989
+    minlatitude: -44.0668098
+    maxlongitude: -71.5841725
+    maxlatitude: -40.2364882
+    latitude: -41.9197779
+    longitude: -72.1416132
+- name: Los Ríos
+  names:
+    - Los Ríos
+  code: LR
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.7275484
+    minlatitude: -40.6819045
+    maxlongitude: -71.5829256
+    maxlatitude: -39.2871406
+    latitude: -40.2310217
+    longitude: -72.331113
+- name: Magallanes
+  names:
+    - Magellantes y la Antártica Chilena
+  code: MA
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.7296587
+    minlatitude: -55.9799665
+    maxlongitude: -66.4181435
+    maxlatitude: -48.5966006
+    latitude: -52.20643159999999
+    longitude: -72.16850010000002
+- name: Maule
+  names:
+    - Maule
+  code: ML
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.78989299999999
+    minlatitude: -36.5456538
+    maxlongitude: -70.3260118
+    maxlatitude: -34.7119045
+    latitude: -35.5163603
+    longitude: -71.5723953
+- name: Región de Ñuble
+  names:
+    - Ñuble
+  code: NB
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.064033
+    minlatitude: -37.19417
+    maxlongitude: -71.007955
+    maxlatitude: -35.979985
+    latitude: -36.599985
+    longitude: -71.905225
+- name: Región Metropolitana de Santiago
+  names:
+    - Metropolitana de Santiago
+  code: RM
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.7186941
+    minlatitude: -34.2878805
+    maxlongitude: -69.7689944
+    maxlatitude: -32.919451
+    latitude: -33.4843354
+    longitude: -70.6216794
 - name: Tarapacá
   names:
-  - Tarapacá
+    - Tarapacá
   code: TA
   countryalpha2: CL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.288536
-    minlatitude: -21.6334
-    maxlongitude: -68.406845
-    maxlatitude: -18.938715
-    latitude: -20.202879
-    longitude: -69.28775
+    minlongitude: -70.2885344
+    minlatitude: -21.6334004
+    maxlongitude: -68.40684449999999
+    maxlatitude: -18.9387142
+    latitude: -20.2028799
+    longitude: -69.2877535
+- name: Valparaíso
+  names:
+    - Valparaíso
+  code: VS
+  countryalpha2: CL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.7444525
+    minlatitude: -33.2149745
+    maxlongitude: -71.38561109999999
+    maxlatitude: -33.0178165
+    latitude: -33.045646
+    longitude: -71.620361

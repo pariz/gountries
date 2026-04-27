@@ -1,53 +1,115 @@
 name:
-  common: Réunion
-  official: Réunion Island
-  native:
-    fra:
-      common: La Réunion
-      official: Ile de la Réunion
-eumember: false
+    common: Réunion
+    official: Réunion
+    native:
+        fra:
+            common: La Réunion
+            official: Ile de la Réunion
+eumember: true
 landlocked: false
-nationality: ""
+nationality: French
+altspellings:
+    - Réunion
+    - Reunión
+    - Reunion
+    - レユニオン
+    - RE
 tlds:
-- .re
+    - .re
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  FIN:
-    common: Réunion
-    official: Réunion
-  HRV:
-    common: Réunion
-    official: Réunion Island
-  ITA:
-    common: Riunione
-    official: Réunion
-  POR:
-    common: Reunião
-    official: Ilha da Reunião
+    ARA:
+        common: لا ريونيون
+        official: جزيرة لا ريونيون
+    CES:
+        common: Réunion
+        official: Réunion
+    DEU:
+        common: Réunion
+        official: Réunion
+    EST:
+        common: Réunion
+        official: Réunioni departemang
+    FIN:
+        common: Réunion
+        official: Réunion
+    FRA:
+        common: Réunion
+        official: Ile de la Réunion
+    HRV:
+        common: Réunion
+        official: Réunion Island
+    HUN:
+        common: Réunion
+        official: Réunion
+    ITA:
+        common: Riunione
+        official: Réunion
+    JPN:
+        common: レユニオン
+        official: レユニオン
+    KOR:
+        common: 레위니옹
+        official: 레위니옹
+    NLD:
+        common: Réunion
+        official: Réunion
+    PER:
+        common: رئونیون
+        official: رئونیون
+    POL:
+        common: Reunion
+        official: Reunion
+    POR:
+        common: Reunião
+        official: Ilha da Reunião
+    RUS:
+        common: Реюньон
+        official: Реюньон
+    SLK:
+        common: Réunion
+        official: Réunionský zámorský departmán
+    SPA:
+        common: Reunión
+        official: Isla de la Reunión
+    SRP:
+        common: Reinion
+        official: Departman Reinion
+    SWE:
+        common: Réunion
+        official: Réunion
+    TUR:
+        common: Réunion
+        official: Réunion
+    URD:
+        common: رے یونیوں
+        official: رے یونیوں جزیرہ
+    ZHO:
+        common: 留尼旺岛
+        official: 留尼旺岛
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: RE
-  alpha3: REU
-  cioc: ""
-  ccn3: "638"
-  callingcodes:
-  - "262"
-  internationalprefix: "00"
+    alpha2: RE
+    alpha3: REU
+    ccn3: "638"
+    callingcodes:
+        - "262"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Saint-Denis
-  area: 2511
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Saint-Denis
+    area: 2511
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: 55.216667
-  minlatitude: -21.366667
-  maxlongitude: 57
-  maxlatitude: -20
-  latitude: -21.1463
-  longitude: 55.63125
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.209732
+    minlatitude: -21.4035321
+    maxlongitude: 55.84487919999999
+    maxlatitude: -20.8671529
+    latitude: -21.115141
+    longitude: 55.536384

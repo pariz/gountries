@@ -1,61 +1,125 @@
 name:
-  common: Sint Maarten
-  official: Sint Maarten
-  native:
-    eng:
-      common: Sint Maarten
-      official: Sint Maarten
-    nld:
-      common: Sint Maarten
-      official: Sint Maarten
+    common: Sint Maarten (Dutch part)
+    official: Sint Maarten
+    native:
+        eng:
+            common: Sint Maarten
+            official: Sint Maarten
+        fra:
+            common: Saint-Martin
+            official: Saint-Martin
+        nld:
+            common: Sint Maarten
+            official: Sint Maarten
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Dutch
+altspellings:
+    - Sint Maarten
+    - セント・マーチン島
+    - SX
+    - Sint Maarten (Dutch part)
 tlds:
-- .sx
+    - .sx
 languages:
-  eng: English
-  nld: Dutch
+    en: ""
+    eng: English
+    fra: French
+    nl: ""
+    nld: Dutch
 translations:
-  DEU:
-    common: Sint Maarten
-    official: Sint Maarten
-  FRA:
-    common: Saint-Martin
-    official: Sint Maarten
-  NLD:
-    common: Sint Maarten
-    official: Sint Maarten
-  POR:
-    common: São Martinho
-    official: Sint Maarten
-  RUS:
-    common: Синт-Мартен
-    official: Синт-Маартен
+    ARA:
+        common: سينت مارتن
+        official: سينت مارتن
+    CES:
+        common: Svatý Martin (Nizozemsko)
+        official: Svatý Martin
+    DEU:
+        common: Sint Maarten
+        official: Sint Maarten
+    EST:
+        common: Sint Maarten
+        official: Sint Maarten
+    FIN:
+        common: Sint Maarten
+        official: Sint Maarten
+    FRA:
+        common: Saint-Martin
+        official: Sint Maarten
+    HRV:
+        common: Sveti Martin
+        official: Sveti Martin
+    HUN:
+        common: Sint Maarten
+        official: Sint Maarten
+    ITA:
+        common: Sint Maarten
+        official: Sint Maarten
+    JPN:
+        common: シント・マールテン
+        official: シント・マールテン
+    KOR:
+        common: 신트마르턴
+        official: 신트마르턴
+    NLD:
+        common: Sint Maarten
+        official: Sint Maarten
+    PER:
+        common: سن مارتن
+        official: سن مارتن
+    POL:
+        common: Sint Maarten
+        official: Sint Maarten
+    POR:
+        common: São Martinho
+        official: Sint Maarten
+    RUS:
+        common: Синт-Мартен
+        official: Синт-Маартен
+    SLK:
+        common: Sint Maarten
+        official: Sint Maarten
+    SPA:
+        common: Sint Maarten
+        official: Sint Maarten
+    SRP:
+        common: Sveti Martin
+        official: Sveti Martin
+    SWE:
+        common: Sint Maarten
+        official: Sint Maarten
+    TUR:
+        common: Sint Maarten
+        official: Sint Maarten
+    URD:
+        common: سنٹ مارٹن
+        official: سنٹ مارٹن
+    ZHO:
+        common: 圣马丁岛
+        official: 圣马丁岛
 currencies:
-- ANG
+    - XCG
 borders:
-- MAF
+    - MAF
 codes:
-  alpha2: SX
-  alpha3: SXM
-  cioc: ""
-  ccn3: "534"
-  callingcodes:
-  - "1721"
-  internationalprefix: "011"
+    alpha2: SX
+    alpha3: SXM
+    ccn3: "534"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Philipsburg
-  area: 34
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Philipsburg
+    area: 34
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: -63.137978
-  minlatitude: 18.005266
-  maxlongitude: -62.998245
-  maxlatitude: 18.06417
-  latitude: 18.042225
-  longitude: -63.066235
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -63.13979990000001
+    minlatitude: 17.9941
+    maxlongitude: -62.9784
+    maxlatitude: 18.0641707
+    latitude: 18.04248
+    longitude: -63.05483

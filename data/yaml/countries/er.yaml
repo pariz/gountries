@@ -1,73 +1,135 @@
 name:
-  common: Eritrea
-  official: State of Eritrea
-  native:
-    ara:
-      common: إرتريا‎
-      official: دولة إرتريا
-    eng:
-      common: Eritrea
-      official: State of Eritrea
-    tir:
-      common: ኤርትራ
-      official: ሃገረ ኤርትራ
+    common: Eritrea
+    official: The State of Eritrea
+    native:
+        ara:
+            common: إريتريا
+            official: دولة إريتريا
+        eng:
+            common: Eritrea
+            official: State of Eritrea
+        tir:
+            common: ኤርትራ
+            official: ሃገረ ኤርትራ
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Eritrean
+altspellings:
+    - Eritrea
+    - إريتريا
+    - Érythrée
+    - エリトリア
+    - ER
+    - State of Eritrea
+    - ሃገረ ኤርትራ
+    - Dawlat Iritriyá
+    - ʾErtrā
+    - Iritriyā
 tlds:
-- .er
+    - .er
 languages:
-  ara: Arabic
-  eng: English
-  tir: Tigrinya
+    ar: ""
+    ara: Arabic
+    en: ""
+    eng: English
+    ti: ""
+    tir: Tigrinya
 translations:
-  CYM:
-    common: Eritrea
-    official: State of Eritrea
-  DEU:
-    common: Eritrea
-    official: Staat Eritrea
-  FRA:
-    common: Érythrée
-    official: État d'Érythrée
-  ITA:
-    common: Eritrea
-    official: Stato di Eritrea
-  JPN:
-    common: エリトリア
-    official: エリトリア国
-  NLD:
-    common: Eritrea
-    official: Staat Eritrea
-  RUS:
-    common: Эритрея
-    official: Государство Эритрея
+    ARA:
+        common: إريتريا
+        official: دولة إريتريا
+    CES:
+        common: Eritrea
+        official: Stát Eritrea
+    DEU:
+        common: Eritrea
+        official: Staat Eritrea
+    EST:
+        common: Eritrea
+        official: Eritrea Riik
+    FIN:
+        common: Eritrea
+        official: Eritrean valtio
+    FRA:
+        common: Érythrée
+        official: État d'Érythrée
+    HRV:
+        common: Eritreja
+        official: Država Eritreji
+    HUN:
+        common: Eritrea
+        official: Eritrea
+    ITA:
+        common: Eritrea
+        official: Stato di Eritrea
+    JPN:
+        common: エリトリア
+        official: エリトリア国
+    KOR:
+        common: 에리트레아
+        official: 에리트레아국
+    NLD:
+        common: Eritrea
+        official: Staat Eritrea
+    PER:
+        common: اریتره
+        official: جمهوری اریتره
+    POL:
+        common: Erytrea
+        official: Państwo Erytrea
+    POR:
+        common: Eritreia
+        official: Estado da Eritreia
+    RUS:
+        common: Эритрея
+        official: Государство Эритрея
+    SLK:
+        common: Eritrea
+        official: Eritrejský štát
+    SPA:
+        common: Eritrea
+        official: Estado de Eritrea
+    SRP:
+        common: Eritreja
+        official: Država Eritreja
+    SWE:
+        common: Eritrea
+        official: Staten Eritrea
+    TUR:
+        common: Eritre
+        official: Eritre Devleti
+    URD:
+        common: ارتریا
+        official: ریاستِ ارتریا
+    ZHO:
+        common: 厄立特里亚
+        official: 厄立特里亚
 currencies:
-- ERN
+    - ERN
 borders:
-- DJI
-- ETH
-- SDN
+    - DJI
+    - ETH
+    - SDN
 codes:
-  alpha2: ER
-  alpha3: ERI
-  cioc: ERI
-  ccn3: "232"
-  callingcodes:
-  - "291"
-  internationalprefix: "00"
+    alpha2: ER
+    alpha3: ERI
+    cioc: ERI
+    ccn3: "232"
+    callingcodes:
+        - "291"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Asmara
-  area: 117600
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Asmara
+    area: 117600
 coordinates:
-  longitudestring: 39 00 E
-  latitudestring: 15 00 N
-  minlongitude: 36.483334
-  minlatitude: 12.383333
-  maxlongitude: 43.114723
-  maxlatitude: 18.033333
-  latitude: 15.3972
-  longitude: 39.08719
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.433348
+    minlatitude: 12.354723
+    maxlongitude: 43.2312
+    maxlatitude: 18.0204137
+    latitude: 15.179384
+    longitude: 39.782334

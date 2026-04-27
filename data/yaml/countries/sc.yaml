@@ -1,73 +1,127 @@
 name:
-  common: Seychelles
-  official: Republic of Seychelles
-  native:
-    crs:
-      common: Sesel
-      official: Repiblik Sesel
-    eng:
-      common: Seychelles
-      official: Republic of Seychelles
-    fra:
-      common: Seychelles
-      official: République des Seychelles
+    common: Seychelles
+    official: The Republic of Seychelles
+    native:
+        crs:
+            common: Sesel
+            official: Repiblik Sesel
+        eng:
+            common: Seychelles
+            official: Republic of Seychelles
+        fra:
+            common: Seychelles
+            official: République des Seychelles
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Seychellois
+altspellings:
+    - Seychelles
+    - Seychellen
+    - セーシェル
+    - SC
+    - Republic of Seychelles
+    - Repiblik Sesel
+    - République des Seychelles
 tlds:
-- .sc
+    - .sc
 languages:
-  crs: Seychellois Creole
-  eng: English
-  fra: French
+    crs: Seychellois Creole
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Seychellen
-    official: Republik der Seychellen
-  FIN:
-    common: Seychellit
-    official: Seychellien tasavalta
-  FRA:
-    common: Seychelles
-    official: République des Seychelles
-  HRV:
-    common: Sejšeli
-    official: Republika Sejšeli
-  ITA:
-    common: Seychelles
-    official: Repubblica delle Seychelles
-  JPN:
-    common: セーシェル
-    official: セイシェル共和国
-  POR:
-    common: Seicheles
-    official: República das Seychelles
-  SPA:
-    common: Seychelles
-    official: República de las Seychelles
+    ARA:
+        common: سيشل
+        official: جمهورية سيشل
+    CES:
+        common: Seychely
+        official: Seychelská republika
+    DEU:
+        common: Seychellen
+        official: Republik der Seychellen
+    EST:
+        common: Seišellid
+        official: Seišelli Vabariik
+    FIN:
+        common: Seychellit
+        official: Seychellien tasavalta
+    FRA:
+        common: Seychelles
+        official: République des Seychelles
+    HRV:
+        common: Sejšeli
+        official: Republika Sejšeli
+    HUN:
+        common: Seychelle-szigetek
+        official: Seychelle Köztársaság
+    ITA:
+        common: Seychelles
+        official: Repubblica delle Seychelles
+    JPN:
+        common: セーシェル
+        official: セーシェル共和国
+    KOR:
+        common: 세이셸
+        official: 세이셸 공화국
+    NLD:
+        common: Seychellen
+        official: Republiek der Seychellen
+    PER:
+        common: سیشل
+        official: جمهوری سیشل
+    POL:
+        common: Seszele
+        official: Republika Seszeli
+    POR:
+        common: Seicheles
+        official: República das Seychelles
+    RUS:
+        common: Сейшельские Острова
+        official: Республика Сейшельские Острова
+    SLK:
+        common: Seychely
+        official: Seychelská republika
+    SPA:
+        common: Seychelles
+        official: República de las Seychelles
+    SRP:
+        common: Sejšeli
+        official: Republika Sejšeli
+    SWE:
+        common: Seychellerna
+        official: Republiken Seychellerna
+    TUR:
+        common: Seyşeller
+        official: Seyşeller Cumhuriyeti
+    URD:
+        common: سیچیلیس
+        official: جمہوریہ سیچیلیس
+    ZHO:
+        common: 塞舌尔
+        official: 塞舌尔共和国
 currencies:
-- SCR
-borders: []
+    - SCR
 codes:
-  alpha2: SC
-  alpha3: SYC
-  cioc: SEY
-  ccn3: "690"
-  callingcodes:
-  - "248"
-  internationalprefix: "00"
+    alpha2: SC
+    alpha3: SYC
+    cioc: SEY
+    ccn3: "690"
+    callingcodes:
+        - "248"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Victoria
-  area: 452
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Victoria
+    area: 452
 coordinates:
-  longitudestring: 55 40 E
-  latitudestring: 4 35 S
-  minlongitude: 46.216667
-  minlatitude: -10.216667
-  maxlongitude: 56.266666
-  maxlatitude: -3.716667
-  latitude: -4.669795
-  longitude: 55.47166
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.9832764
+    minlatitude: -10.4716073
+    maxlongitude: 56.3928224
+    maxlatitude: -3.7091721
+    latitude: -4.679574
+    longitude: 55.491977

@@ -1,59 +1,118 @@
 name:
-  common: Svalbard and Jan Mayen
-  official: Svalbard og Jan Mayen
-  native:
-    nor:
-      common: Svalbard og Jan Mayen
-      official: Svalbard og Jan Mayen
+    common: Svalbard and Jan Mayen
+    official: Svalbard and Jan Mayen
+    native:
+        nor:
+            common: Svalbard og Jan Mayen
+            official: Svalbard og Jan Mayen
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Norwegian
+altspellings:
+    - Svalbard and Jan Mayen
+    - Svalbard und Jan Mayen
+    - Îles Svalbard et Jan Mayen
+    - Islas Svalbard y Jan Mayen
+    - スヴァールバル諸島およびヤンマイエン島
+    - Svalbard en Jan Mayen
+    - SJ
+    - Svalbard and Jan Mayen Islands
 tlds:
-- .sj
+    - .sj
 languages:
-  nor: Norwegian
+    "no": ""
+    nor: Norwegian
 translations:
-  DEU:
-    common: Spitzbergen
-    official: Inselgruppe Spitzbergen
-  FIN:
-    common: Huippuvuoret
-    official: Huippuvuoret
-  FRA:
-    common: Svalbard et Jan Mayen
-    official: Jan Mayen Svalbard
-  JPN:
-    common: スヴァールバル諸島およびヤンマイエン島
-    official: スバールバル諸島OGヤンマイエン
-  RUS:
-    common: Шпицберген и Ян-Майен
-    official: Свальбарда ог Ян-Майен
-  SPA:
-    common: Islas Svalbard y Jan Mayen
-    official: Svalbard og Jan Mayen
+    ARA:
+        common: سفالبارد ويان ماين
+        official: سفالبارد ويان ماين
+    CES:
+        common: Špicberky a Jan Mayen
+        official: Špicberky a Jan Mayen
+    DEU:
+        common: Spitzbergen und Jan Mayen
+        official: Spitzbergen und Jan Mayen
+    EST:
+        common: Svalbard
+        official: Svalbard
+    FIN:
+        common: Huippuvuoret
+        official: Huippuvuoret
+    FRA:
+        common: Svalbard et Jan Mayen
+        official: Jan Mayen Svalbard
+    HRV:
+        common: Svalbard i Jan Mayen
+        official: Svalbard og Jan Mayen
+    HUN:
+        common: Svalbard és Jan Mayen
+        official: Svalbard és Jan Mayen
+    ITA:
+        common: Svalbard e Jan Mayen
+        official: Svalbard og Jan Mayen
+    JPN:
+        common: スヴァールバル諸島およびヤンマイエン島
+        official: スヴァールバル諸島・ヤンマイエン島
+    KOR:
+        common: 스발바르 얀마옌 제도
+        official: 스발바르 얀마옌 제도
+    NLD:
+        common: Svalbard en Jan Mayen
+        official: Svalbard og Jan Mayen
+    PER:
+        common: سوالبارد و یان ماین
+        official: سوالبارد و یان ماین
+    POL:
+        common: Svalbard i Jan Mayen
+        official: Svalbard i Jan Mayen
+    POR:
+        common: Ilhas Svalbard e Jan Mayen
+        official: Svalbard og Jan Mayen
+    RUS:
+        common: Шпицберген и Ян-Майен
+        official: Свальбарда ог Ян-Майен
+    SLK:
+        common: Svalbard a Jan Mayen
+        official: Svalbard a Jan Mayen
+    SPA:
+        common: Islas Svalbard y Jan Mayen
+        official: Svalbard og Jan Mayen
+    SRP:
+        common: Svalbard i Jan Majen
+        official: Svalbard i Jan Majen
+    SWE:
+        common: Svalbard och Jan Mayen
+        official: Svalbard och Jan Mayen
+    TUR:
+        common: Svalbard ve Jan Mayen
+        official: Svalbard ve Jan Mayen
+    URD:
+        common: سوالبارڈ اور جان میئن
+        official: سوالبارڈ اور جان میئن
+    ZHO:
+        common: 斯瓦尔巴特
+        official: 斯瓦尔巴特
 currencies:
-- NOK
-borders: []
+    - NOK
 codes:
-  alpha2: SJ
-  alpha3: SJM
-  cioc: ""
-  ccn3: "744"
-  callingcodes:
-  - "4779"
-  internationalprefix: "00"
+    alpha2: SJ
+    alpha3: SJM
+    ccn3: "744"
+    callingcodes:
+        - "47"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Longyearbyen
-  area: -1
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Longyearbyen
+    area: -1
 coordinates:
-  longitudestring: 20 00 E
-  latitudestring: 78 00 N
-  minlongitude: 10.5
-  minlatitude: 74.35
-  maxlongitude: 32.583332
-  maxlatitude: 80.816666
-  latitude: 71.048935
-  longitude: -8.195747
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.5468752
+    minlatitude: 70.4662074
+    maxlongitude: 34.8046879
+    maxlatitude: 80.92842569999999
+    latitude: 77.55360399999999
+    longitude: 23.6702719

@@ -1,93 +1,156 @@
 name:
-  common: DR Congo
-  official: Democratic Republic of the Congo
-  native:
-    fra:
-      common: RD Congo
-      official: République démocratique du Congo
-    kon:
-      common: Repubilika ya Kongo Demokratiki
-      official: Repubilika ya Kongo Demokratiki
-    lin:
-      common: Republiki ya Kongó Demokratiki
-      official: Republiki ya Kongó Demokratiki
-    lua:
-      common: Ditunga dia Kongu wa Mungalaata
-      official: Ditunga dia Kongu wa Mungalaata
-    swa:
-      common: Jamhuri ya Kidemokrasia ya Kongo
-      official: Jamhuri ya Kidemokrasia ya Kongo
+    common: Congo (Democratic Republic of the)
+    official: The Democratic Republic of the Congo
+    native:
+        fra:
+            common: RD Congo
+            official: République démocratique du Congo
+        kon:
+            common: Repubilika ya Kongo Demokratiki
+            official: Repubilika ya Kongo Demokratiki
+        lin:
+            common: Republiki ya Kongó Demokratiki
+            official: Republiki ya Kongó Demokratiki
+        lua:
+            common: Ditunga dia Kongu wa Mungalaata
+            official: Ditunga dia Kongu wa Mungalaata
+        swa:
+            common: Jamhuri ya Kidemokrasia ya Kongo
+            official: Jamhuri ya Kidemokrasia ya Kongo
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Congolese
+altspellings:
+    - Congo (Democratic Republic of the)
+    - Congo (Dem. Rep.)
+    - Kongo (Dem. Rep.)
+    - Congo (Rep. Dem.)
+    - コンゴ民主共和国
+    - Congo [DRC]
+    - Democratic Republic of the Congo
+    - Congo, Democratic Republic of
+    - Congo (Kinshasa)
+    - CD
+    - DR Congo
+    - Congo-Kinshasa
+    - Congo, the Democratic Republic of the
+    - Democratic Republic of Congo
+    - DRC
 tlds:
-- .cd
+    - .cd
 languages:
-  fra: French
-  kon: Kikongo
-  lin: Lingala
-  lua: Tshiluba
-  swa: Swahili
+    fr: ""
+    fra: French
+    kg: ""
+    kon: Kikongo
+    lin: Lingala
+    ln: ""
+    lu: ""
+    lua: Tshiluba
+    sw: ""
+    swa: Swahili
 translations:
-  CYM:
-    common: Gweriniaeth Ddemocrataidd Congo
-    official: Democratic Republic of the Congo
-  DEU:
-    common: Kongo (Dem. Rep.)
-    official: Demokratische Republik Kongo
-  HRV:
-    common: Kongo, Demokratska Republika
-    official: Demokratska Republika Kongo
-  ITA:
-    common: Congo (Rep. Dem.)
-    official: Repubblica Democratica del Congo
-  JPN:
-    common: コンゴ民主共和国
-    official: コンゴ民主共和国
-  NLD:
-    common: Congo (DRC)
-    official: Democratische Republiek Congo
-  POR:
-    common: República Democrática do Congo
-    official: República Democrática do Congo
-  RUS:
-    common: Демократическая Республика Конго
-    official: Демократическая Республика Конго
-  SPA:
-    common: Congo (Rep. Dem.)
-    official: República Democrática del Congo
+    ARA:
+        common: الكونغو
+        official: جمهورية الكونغو الديمقراطية
+    CES:
+        common: DR Kongo
+        official: Demokratická republika Kongo
+    DEU:
+        common: Kongo (Dem. Rep.)
+        official: Demokratische Republik Kongo
+    EST:
+        common: Kongo DV
+        official: Kongo Demokraatlik Vabariik
+    FIN:
+        common: Kongon demokraattinen tasavalta
+        official: Kongon demokraattinen tasavalta
+    FRA:
+        common: Congo (Rép. dém.)
+        official: République démocratique du Congo
+    HRV:
+        common: Kongo, Demokratska Republika
+        official: Demokratska Republika Kongo
+    HUN:
+        common: Kongói Demokratikus Köztársaság
+        official: Kongói Demokratikus Köztársaság
+    ITA:
+        common: Congo (Rep. Dem.)
+        official: Repubblica Democratica del Congo
+    JPN:
+        common: コンゴ民主共和国
+        official: コンゴ民主共和国
+    KOR:
+        common: 콩고 민주 공화국
+        official: 콩고 민주 공화국
+    NLD:
+        common: Congo (DRC)
+        official: Democratische Republiek Congo
+    PER:
+        common: کنگو دموکراتیک
+        official: جمهوری دموکراتیک کنگو
+    POL:
+        common: Demokratyczna Republika Konga
+        official: Demokratyczna Republika Konga
+    POR:
+        common: República Democrática do Congo
+        official: República Democrática do Congo
+    RUS:
+        common: Демократическая Республика Конго
+        official: Демократическая Республика Конго
+    SLK:
+        common: Kongo
+        official: Konžská demokratická republika
+    SPA:
+        common: Congo (Rep. Dem.)
+        official: República Democrática del Congo
+    SRP:
+        common: Kongo, Demokratska Republika
+        official: Demokratska Republika Kongo
+    SWE:
+        common: Kongo-Kinshasa
+        official: Demokratiska republiken Kongo
+    TUR:
+        common: Kongo Demokratik Cumhuriyeti
+        official: Kongo Demokratik Cumhuriyeti
+    URD:
+        common: کانگو
+        official: جمہوری جمہوریہ کانگو
+    ZHO:
+        common: 民主刚果
+        official: 刚果民主共和国
 currencies:
-- CDF
+    - CDF
 borders:
-- AGO
-- BDI
-- CAF
-- COG
-- RWA
-- SSD
-- TZA
-- UGA
-- ZMB
+    - AGO
+    - BDI
+    - CAF
+    - COG
+    - RWA
+    - SSD
+    - TZA
+    - UGA
+    - ZMB
 codes:
-  alpha2: CD
-  alpha3: COD
-  cioc: COD
-  ccn3: "180"
-  callingcodes:
-  - "243"
-  internationalprefix: "00"
+    alpha2: CD
+    alpha3: COD
+    cioc: COD
+    ccn3: "180"
+    callingcodes:
+        - "243"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Kinshasa
-  area: 2.344858e+06
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: Kinshasa
+    area: 2.344858e+06
 coordinates:
-  longitudestring: 25 00 E
-  latitudestring: 0 00 N
-  minlongitude: 12.266667
-  minlatitude: -13.466667
-  maxlongitude: 31.233334
-  maxlatitude: 5.133333
-  latitude: -2.8798661
-  longitude: 23.656378
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.1454
+    minlatitude: -13.4590349
+    maxlongitude: 31.314612
+    maxlatitude: 5.3920029
+    latitude: -4.038333
+    longitude: 21.758664

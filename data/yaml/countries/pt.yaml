@@ -1,57 +1,119 @@
 name:
-  common: Portugal
-  official: Portuguese Republic
-  native:
-    por:
-      common: Portugal
-      official: República português
+    common: Portugal
+    official: The Portuguese Republic
+    native:
+        por:
+            common: Portugal
+            official: República português
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Portuguese
+altspellings:
+    - Portugal
+    - ポルトガル
+    - PT
+    - Portuguesa
+    - Portuguese Republic
+    - República Portuguesa
 tlds:
-- .pt
+    - .pt
 languages:
-  por: Portuguese
+    por: Portuguese
+    pt: ""
 translations:
-  DEU:
-    common: Portugal
-    official: Portugiesische Republik
-  HRV:
-    common: Portugal
-    official: Portugalska Republika
-  JPN:
-    common: ポルトガル
-    official: ポルトガル共和国
-  POR:
-    common: Portugal
-    official: República português
-  RUS:
-    common: Португалия
-    official: Португальская Республика
+    ARA:
+        common: البرتغال
+        official: الجمهورية البرتغالية
+    CES:
+        common: Portugalsko
+        official: Portugalská republika
+    DEU:
+        common: Portugal
+        official: Portugiesische Republik
+    EST:
+        common: Portugal
+        official: Portugali Vabariik
+    FIN:
+        common: Portugali
+        official: Portugalin tasavalta
+    FRA:
+        common: Portugal
+        official: République portugaise
+    HRV:
+        common: Portugal
+        official: Portugalska Republika
+    HUN:
+        common: Portugália
+        official: Portugál Köztársaság
+    ITA:
+        common: Portogallo
+        official: Repubblica portoghese
+    JPN:
+        common: ポルトガル
+        official: ポルトガル共和国
+    KOR:
+        common: 포르투갈
+        official: 포르투갈 공화국
+    NLD:
+        common: Portugal
+        official: Portugese Republiek
+    PER:
+        common: پرتغال
+        official: جمهوری پرتغال
+    POL:
+        common: Portugalia
+        official: Republika Portugalska
+    POR:
+        common: Portugal
+        official: República português
+    RUS:
+        common: Португалия
+        official: Португальская Республика
+    SLK:
+        common: Portugalsko
+        official: Portugalská republika
+    SPA:
+        common: Portugal
+        official: República Portuguesa
+    SRP:
+        common: Portugal
+        official: Republika Portugal
+    SWE:
+        common: Portugal
+        official: Republiken Portugal
+    TUR:
+        common: Portekiz
+        official: Portekiz Cumhuriyeti
+    URD:
+        common: پرتگال
+        official: جمہوریہ پرتگال
+    ZHO:
+        common: 葡萄牙
+        official: 葡萄牙共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- ESP
+    - ESP
 codes:
-  alpha2: PT
-  alpha3: PRT
-  cioc: POR
-  ccn3: "620"
-  callingcodes:
-  - "351"
-  internationalprefix: "00"
+    alpha2: PT
+    alpha3: PRT
+    cioc: POR
+    ccn3: "620"
+    callingcodes:
+        - "351"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Lisbon
-  area: 92090
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Lisbon
+    area: 92090
 coordinates:
-  longitudestring: 8 00 W
-  latitudestring: 39 30 N
-  minlongitude: -31.266666
-  minlatitude: 30.033333
-  maxlongitude: -5
-  maxlatitude: 42.15
-  latitude: 39.64201
-  longitude: -8.009422
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -31.4647999
+    minlatitude: 32.2895
+    maxlongitude: -6.189159200000001
+    maxlatitude: 42.1543111
+    latitude: 39.39987199999999
+    longitude: -8.224454

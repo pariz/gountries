@@ -1,75 +1,134 @@
 name:
-  common: Equatorial Guinea
-  official: Republic of Equatorial Guinea
-  native:
-    fra:
-      common: Guinée équatoriale
-      official: République de la Guinée Équatoriale
-    por:
-      common: Guiné Equatorial
-      official: República da Guiné Equatorial
-    spa:
-      common: Guinea Ecuatorial
-      official: República de Guinea Ecuatorial
+    common: Equatorial Guinea
+    official: The Republic of Equatorial Guinea
+    native:
+        fra:
+            common: Guinée équatoriale
+            official: République de la Guinée Équatoriale
+        por:
+            common: Guiné Equatorial
+            official: República da Guiné Equatorial
+        spa:
+            common: Guinea Ecuatorial
+            official: República de Guinea Ecuatorial
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Equatorial Guinean
+altspellings:
+    - Equatorial Guinea
+    - Äquatorial-Guinea
+    - Guinée Équatoriale
+    - Guinea Ecuatorial
+    - 赤道ギニア
+    - Equatoriaal-Guinea
+    - GQ
+    - Republic of Equatorial Guinea
+    - República de Guinea Ecuatorial
+    - République de Guinée équatoriale
+    - República da Guiné Equatorial
 tlds:
-- .gq
+    - .gq
 languages:
-  fra: French
-  por: Portuguese
-  spa: Spanish
+    es: ""
+    fr: ""
+    fra: French
+    por: Portuguese
+    spa: Spanish
 translations:
-  DEU:
-    common: Äquatorialguinea
-    official: Republik Äquatorialguinea
-  FRA:
-    common: Guinée équatoriale
-    official: République de Guinée équatoriale
-  ITA:
-    common: Guinea Equatoriale
-    official: Repubblica della Guinea Equatoriale
-  JPN:
-    common: 赤道ギニア
-    official: 赤道ギニア共和国
-  NLD:
-    common: Equatoriaal-Guinea
-    official: Republiek Equatoriaal-Guinea
-  POR:
-    common: Guiné Equatorial
-    official: República da Guiné Equatorial
-  RUS:
-    common: Экваториальная Гвинея
-    official: Республика Экваториальная Гвинея
-  SPA:
-    common: Guinea Ecuatorial
-    official: República de Guinea Ecuatorial
+    ARA:
+        common: غينيا الاستوائية
+        official: جمهورية غينيا الاستوائية
+    CES:
+        common: Rovníková Guinea
+        official: Republika Rovníková Guinea
+    DEU:
+        common: Äquatorialguinea
+        official: Republik Äquatorialguinea
+    EST:
+        common: Ekvatoriaal-Guinea
+        official: Ekvatoriaal-Guinea Vabariik
+    FIN:
+        common: Päiväntasaajan Guinea
+        official: Päiväntasaajan Guinean tasavalta
+    FRA:
+        common: Guinée équatoriale
+        official: République de Guinée équatoriale
+    HRV:
+        common: Ekvatorijalna Gvineja
+        official: Republika Ekvatorska Gvineja
+    HUN:
+        common: Egyenlítői-Guinea
+        official: Egyenlítői-Guinea-i Köztársaság
+    ITA:
+        common: Guinea Equatoriale
+        official: Repubblica della Guinea Equatoriale
+    JPN:
+        common: 赤道ギニア
+        official: 赤道ギニア共和国
+    KOR:
+        common: 적도 기니
+        official: 적도 기니 공화국
+    NLD:
+        common: Equatoriaal-Guinea
+        official: Republiek Equatoriaal-Guinea
+    PER:
+        common: گینه استوایی
+        official: جمهوری گینه استوایی
+    POL:
+        common: Gwinea Równikowa
+        official: Republika Gwinei Równikowej
+    POR:
+        common: Guiné Equatorial
+        official: República da Guiné Equatorial
+    RUS:
+        common: Экваториальная Гвинея
+        official: Республика Экваториальная Гвинея
+    SLK:
+        common: Rovníková Guinea
+        official: Republika rovníkovej Guiney
+    SPA:
+        common: Guinea Ecuatorial
+        official: República de Guinea Ecuatorial
+    SRP:
+        common: Ekvatorijalna Gvineja
+        official: Republika Ekvatorijalna Gvineja
+    SWE:
+        common: Ekvatorialguinea
+        official: Republiken Ekvatorialguinea
+    TUR:
+        common: Ekvator Ginesi
+        official: Ekvator Ginesi Cumhuriyeti
+    URD:
+        common: استوائی گنی
+        official: جمہوریہ استوائی گنی
+    ZHO:
+        common: 赤道几内亚
+        official: 赤道几内亚共和国
 currencies:
-- XAF
+    - XAF
 borders:
-- CMR
-- GAB
+    - CMR
+    - GAB
 codes:
-  alpha2: GQ
-  alpha3: GNQ
-  cioc: GEQ
-  ccn3: "226"
-  callingcodes:
-  - "240"
-  internationalprefix: "00"
+    alpha2: GQ
+    alpha3: GNQ
+    cioc: GEQ
+    ccn3: "226"
+    callingcodes:
+        - "240"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Malabo
-  area: 28051
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: Malabo
+    area: 28051
 coordinates:
-  longitudestring: 10 00 E
-  latitudestring: 2 00 N
-  minlongitude: 5.05
-  minlatitude: -1.483333
-  maxlongitude: 11.4
-  maxlatitude: 3.783333
-  latitude: 1.533126
-  longitude: 10.3725815
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.541900099999999
+    minlatitude: -1.5475
+    maxlongitude: 11.3333
+    maxlatitude: 3.8355
+    latitude: 1.650801
+    longitude: 10.267895

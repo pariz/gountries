@@ -1,69 +1,132 @@
 name:
-  common: Peru
-  official: Republic of Peru
-  native:
-    aym:
-      common: Piruw
-      official: Piruw Suyu
-    que:
-      common: Piruw
-      official: Piruw Ripuwlika
-    spa:
-      common: Perú
-      official: República del Perú
+    common: Peru
+    official: The Republic of Perú
+    native:
+        aym:
+            common: Piruw
+            official: Piruw Suyu
+        que:
+            common: Piruw
+            official: Piruw Ripuwlika
+        spa:
+            common: Perú
+            official: República del Perú
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Peruvian
+altspellings:
+    - Peru
+    - Pérou
+    - Perú
+    - ペルー
+    - PE
+    - Republic of Peru
+    - República del Perú
 tlds:
-- .pe
+    - .pe
 languages:
-  aym: Aymara
-  que: Quechua
-  spa: Spanish
+    aym: Aymara
+    es: ""
+    que: Quechua
+    spa: Spanish
 translations:
-  FRA:
-    common: Pérou
-    official: République du Pérou
-  HRV:
-    common: Peru
-    official: Republika Peru
-  ITA:
-    common: Perù
-    official: Repubblica del Perù
-  POR:
-    common: Perú
-    official: República do Peru
-  SPA:
-    common: Perú
-    official: República de Perú
+    ARA:
+        common: بيرو
+        official: جمهورية بيرو
+    CES:
+        common: Peru
+        official: Peruánská republika
+    DEU:
+        common: Peru
+        official: Republik Peru
+    EST:
+        common: Peruu
+        official: Peruu Vabariik
+    FIN:
+        common: Peru
+        official: Perun tasavalta
+    FRA:
+        common: Pérou
+        official: République du Pérou
+    HRV:
+        common: Peru
+        official: Republika Peru
+    HUN:
+        common: Peru
+        official: Perui Köztársaság
+    ITA:
+        common: Perù
+        official: Repubblica del Perù
+    JPN:
+        common: ペルー
+        official: ペルー共和国
+    KOR:
+        common: 페루
+        official: 페루 공화국
+    NLD:
+        common: Peru
+        official: Republiek Peru
+    PER:
+        common: پرو
+        official: جمهوری پرو
+    POL:
+        common: Peru
+        official: Republika Peru
+    POR:
+        common: Perú
+        official: República do Peru
+    RUS:
+        common: Перу
+        official: Республика Перу
+    SLK:
+        common: Peru
+        official: Peruánska republika
+    SPA:
+        common: Perú
+        official: República de Perú
+    SRP:
+        common: Peru
+        official: Republika Peru
+    SWE:
+        common: Peru
+        official: Republiken Peru
+    TUR:
+        common: Peru
+        official: Peru Cumhuriyeti
+    URD:
+        common: پیرو
+        official: جمہوریہ پیرو
+    ZHO:
+        common: 秘鲁
+        official: 秘鲁共和国
 currencies:
-- PEN
+    - PEN
 borders:
-- BOL
-- BRA
-- CHL
-- COL
-- ECU
+    - BOL
+    - BRA
+    - CHL
+    - COL
+    - ECU
 codes:
-  alpha2: PE
-  alpha3: PER
-  cioc: PER
-  ccn3: "604"
-  callingcodes:
-  - "51"
-  internationalprefix: "00"
+    alpha2: PE
+    alpha3: PER
+    cioc: PER
+    ccn3: "604"
+    callingcodes:
+        - "51"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Lima
-  area: 1.285216e+06
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Lima
+    area: 1.285216e+06
 coordinates:
-  longitudestring: 76 00 W
-  latitudestring: 10 00 S
-  minlongitude: -81.35833
-  minlatitude: -18.333332
-  maxlongitude: -68.833336
-  maxlatitude: 4.626667
-  latitude: -9.212533
-  longitude: -74.42212
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -81.3867001
+    minlatitude: -18.4483
+    maxlongitude: -68.65232879999999
+    maxlatitude: -0.0387769
+    latitude: -9.189967
+    longitude: -75.015152

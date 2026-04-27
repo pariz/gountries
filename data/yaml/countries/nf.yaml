@@ -1,60 +1,123 @@
 name:
-  common: Norfolk Island
-  official: Territory of Norfolk Island
-  native:
-    eng:
-      common: Norfolk Island
-      official: Territory of Norfolk Island
-    pih:
-      common: Norf'k Ailen
-      official: Teratri of Norf'k Ailen
+    common: Norfolk Island
+    official: The Territory of Norfolk Island
+    native:
+        eng:
+            common: Norfolk Island
+            official: Territory of Norfolk Island
+        pih:
+            common: Norf'k Ailen
+            official: Teratri of Norf'k Ailen
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Norfolk Islander
+altspellings:
+    - Norfolk Island
+    - Norfolkinsel
+    - Île de Norfolk
+    - Isla de Norfolk
+    - ノーフォーク島
+    - Norfolkeiland
+    - NF
+    - Territory of Norfolk Island
+    - Teratri of Norf'k Ailen
 tlds:
-- .nf
+    - .nf
 languages:
-  eng: English
-  pih: Norfuk
+    en: ""
+    eng: English
+    pih: Norfuk
 translations:
-  DEU:
-    common: Norfolkinsel
-    official: Gebiet der Norfolk-Insel
-  FRA:
-    common: Île Norfolk
-    official: Territoire de l'île Norfolk
-  NLD:
-    common: Norfolkeiland
-    official: Grondgebied van Norfolk Island
-  RUS:
-    common: Норфолк
-    official: Территория острова Норфолк
-  SPA:
-    common: Isla de Norfolk
-    official: Territorio de la Isla Norfolk
+    ARA:
+        common: جزيرة نورفولك
+        official: إقليم جزيرة نورفولك
+    CES:
+        common: Norfolk
+        official: Teritorium ostrova Norfolk
+    DEU:
+        common: Norfolkinsel
+        official: Gebiet der Norfolkinsel
+    EST:
+        common: Norfolk
+        official: Norfolki saare ala
+    FIN:
+        common: Norfolkinsaari
+        official: Norfolkinsaaren territorio
+    FRA:
+        common: Île Norfolk
+        official: Territoire de l'île Norfolk
+    HRV:
+        common: Otok Norfolk
+        official: Teritorij Norfolk Island
+    HUN:
+        common: Norfolk-sziget
+        official: Norfolk-sziget
+    ITA:
+        common: Isola Norfolk
+        official: Territorio di Norfolk Island
+    JPN:
+        common: ノーフォーク島
+        official: ノーフォーク島
+    KOR:
+        common: 노퍽 섬
+        official: 노퍽 섬
+    NLD:
+        common: Norfolkeiland
+        official: Grondgebied van Norfolk Island
+    PER:
+        common: جزیره نورفک
+        official: قلمرو جزایر نورفک
+    POL:
+        common: Wyspa Norfolk
+        official: Terytorium Wyspy Norfolk
+    POR:
+        common: Ilha Norfolk
+        official: Território da Ilha Norfolk
+    RUS:
+        common: Норфолк
+        official: Территория острова Норфолк
+    SLK:
+        common: Norfolk
+        official: Teritórium ostrova Norfolk
+    SPA:
+        common: Isla de Norfolk
+        official: Territorio de la Isla Norfolk
+    SRP:
+        common: Ostrvo Norfok
+        official: Teritorija Ostrva Norfok
+    SWE:
+        common: Norfolkön
+        official: Norfolkön
+    TUR:
+        common: Norfolk Adası
+        official: Norfolk Adası
+    URD:
+        common: جزیرہ نورفک
+        official: جزیرہ نورفک خطہ
+    ZHO:
+        common: 诺福克岛
+        official: 诺福克岛
 currencies:
-- AUD
-borders: []
+    - AUD
 codes:
-  alpha2: NF
-  alpha3: NFK
-  cioc: ""
-  ccn3: "574"
-  callingcodes:
-  - "672"
-  internationalprefix: "00"
+    alpha2: NF
+    alpha3: NFK
+    ccn3: "574"
+    callingcodes:
+        - "672"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Australia and New Zealand
-  continent: Australia
-  capital: Kingston
-  area: 36
+    region: Oceania
+    subregion: Australia and New Zealand
+    continent: Australia
+    capital: Kingston
+    area: 36
 coordinates:
-  longitudestring: 167 57 E
-  latitudestring: 29 02 S
-  minlongitude: 167.91621
-  minlatitude: -29.136587
-  maxlongitude: 167.99693
-  maxlatitude: -28.995388
-  latitude: -29.036963
-  longitude: 167.95523
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 167.9134083
+    minlatitude: -29.137506
+    maxlongitude: 167.9985523
+    maxlatitude: -28.9929014
+    latitude: -29.040835
+    longitude: 167.954712

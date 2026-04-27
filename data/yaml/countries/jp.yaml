@@ -1,60 +1,119 @@
 name:
-  common: Japan
-  official: Japan
-  native:
-    jpn:
-      common: 日本
-      official: 日本
-eumember: false
-landlocked: false
-nationality: ""
-tlds:
-- .jp
-- .みんな
-languages:
-  jpn: Japanese
-translations:
-  HRV:
     common: Japan
     official: Japan
-  ITA:
-    common: Giappone
-    official: Giappone
-  JPN:
-    common: 日本
-    official: 日本
-  POR:
-    common: Japão
-    official: Japão
-  RUS:
-    common: Япония
-    official: Япония
-  SPA:
-    common: Japón
-    official: Japón
+    native:
+        jpn:
+            common: 日本
+            official: 日本
+eumember: false
+landlocked: false
+nationality: Japanese
+altspellings:
+    - Japan
+    - Japon
+    - Japón
+    - 日本
+    - JP
+    - Nippon
+    - Nihon
+tlds:
+    - .jp
+    - .みんな
+languages:
+    ja: ""
+    jpn: Japanese
+translations:
+    ARA:
+        common: اليابان
+        official: اليابان
+    CES:
+        common: Japonsko
+        official: Japonsko
+    DEU:
+        common: Japan
+        official: Japan
+    EST:
+        common: Jaapan
+        official: Jaapan
+    FIN:
+        common: Japani
+        official: Japani
+    FRA:
+        common: Japon
+        official: Japon
+    HRV:
+        common: Japan
+        official: Japan
+    HUN:
+        common: Japán
+        official: Japán
+    ITA:
+        common: Giappone
+        official: Giappone
+    JPN:
+        common: 日本
+        official: 日本国
+    KOR:
+        common: 일본
+        official: 일본국
+    NLD:
+        common: Japan
+        official: Japan
+    PER:
+        common: ژاپن
+        official: ژاپن
+    POL:
+        common: Japonia
+        official: Japonia
+    POR:
+        common: Japão
+        official: Japão
+    RUS:
+        common: Япония
+        official: Япония
+    SLK:
+        common: Japonsko
+        official: Japonsko
+    SPA:
+        common: Japón
+        official: Japón
+    SRP:
+        common: Japan
+        official: Japan
+    SWE:
+        common: Japan
+        official: Japan
+    TUR:
+        common: Japonya
+        official: Japonya
+    URD:
+        common: جاپان
+        official: جاپان
+    ZHO:
+        common: 日本
+        official: 日本国
 currencies:
-- JPY
-borders: []
+    - JPY
 codes:
-  alpha2: JP
-  alpha3: JPN
-  cioc: JPN
-  ccn3: "392"
-  callingcodes:
-  - "81"
-  internationalprefix: "010"
+    alpha2: JP
+    alpha3: JPN
+    cioc: JPN
+    ccn3: "392"
+    callingcodes:
+        - "81"
+    internationalprefix: "010"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: Tokyo
-  area: 377930
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: Tokyo
+    area: 377930
 coordinates:
-  longitudestring: 138 00 E
-  latitudestring: 36 00 N
-  minlongitude: 122.933334
-  minlatitude: 20.416668
-  maxlongitude: 154
-  maxlatitude: 45.520832
-  latitude: 36.281647
-  longitude: 139.07727
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.8554688
+    minlatitude: 20.3585295
+    maxlongitude: 154.0031455
+    maxlatitude: 45.6412626
+    latitude: 36.204824
+    longitude: 138.252924

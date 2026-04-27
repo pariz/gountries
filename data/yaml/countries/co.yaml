@@ -1,70 +1,124 @@
 name:
-  common: Colombia
-  official: Republic of Colombia
-  native:
-    spa:
-      common: Colombia
-      official: República de Colombia
+    common: Colombia
+    official: The Republic of Colombia
+    native:
+        spa:
+            common: Colombia
+            official: República de Colombia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Colombian
+altspellings:
+    - Colombia
+    - Kolumbien
+    - Colombie
+    - コロンビア
+    - CO
+    - Republic of Colombia
+    - República de Colombia
 tlds:
-- .co
+    - .co
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  CYM:
-    common: Colombia
-    official: Republic of Colombia
-  DEU:
-    common: Kolumbien
-    official: Republik Kolumbien
-  FIN:
-    common: Kolumbia
-    official: Kolumbian tasavalta
-  FRA:
-    common: Colombie
-    official: République de Colombie
-  HRV:
-    common: Kolumbija
-    official: Republika Kolumbija
-  ITA:
-    common: Colombia
-    official: Repubblica di Colombia
-  JPN:
-    common: コロンビア
-    official: コロンビア共和国
-  POR:
-    common: Colômbia
-    official: República da Colômbia
+    ARA:
+        common: كولومبيا
+        official: جمهورية كولومبيا
+    CES:
+        common: Kolumbie
+        official: Kolumbijská republika
+    DEU:
+        common: Kolumbien
+        official: Republik Kolumbien
+    EST:
+        common: Colombia
+        official: Colombia Vabariik
+    FIN:
+        common: Kolumbia
+        official: Kolumbian tasavalta
+    FRA:
+        common: Colombie
+        official: République de Colombie
+    HRV:
+        common: Kolumbija
+        official: Republika Kolumbija
+    HUN:
+        common: Kolumbia
+        official: Kolumbiai Köztársaság
+    ITA:
+        common: Colombia
+        official: Repubblica di Colombia
+    JPN:
+        common: コロンビア
+        official: コロンビア共和国
+    KOR:
+        common: 콜롬비아
+        official: 콜롬비아 공화국
+    NLD:
+        common: Colombia
+        official: Republiek Colombia
+    PER:
+        common: کلمبیا
+        official: جمهوری کلمبیا
+    POL:
+        common: Kolumbia
+        official: Republika Kolumbii
+    POR:
+        common: Colômbia
+        official: República da Colômbia
+    RUS:
+        common: Колумбия
+        official: Республика Колумбия
+    SLK:
+        common: Kolumbia
+        official: Kolumbijská republika
+    SPA:
+        common: Colombia
+        official: República de Colombia
+    SRP:
+        common: Kolumbija
+        official: Republika Kolumbija
+    SWE:
+        common: Colombia
+        official: Republiken Colombia
+    TUR:
+        common: Kolombiya
+        official: Kolombiya Cumhuriyeti
+    URD:
+        common: کولمبیا
+        official: جمہوریہ کولمبیا
+    ZHO:
+        common: 哥伦比亚
+        official: 哥伦比亚共和国
 currencies:
-- COP
+    - COP
 borders:
-- BRA
-- ECU
-- PAN
-- PER
-- VEN
+    - BRA
+    - ECU
+    - PAN
+    - PER
+    - VEN
 codes:
-  alpha2: CO
-  alpha3: COL
-  cioc: COL
-  ccn3: "170"
-  callingcodes:
-  - "57"
-  internationalprefix: "005"
+    alpha2: CO
+    alpha3: COL
+    cioc: COL
+    ccn3: "170"
+    callingcodes:
+        - "57"
+    internationalprefix: "005"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Bogotá
-  area: 1.141748e+06
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Bogotá
+    area: 1.141748e+06
 coordinates:
-  longitudestring: 72 00 W
-  latitudestring: 4 00 N
-  minlongitude: -81.85
-  minlatitude: -4.214722
-  maxlongitude: -66.85472
-  maxlatitude: 13.383333
-  latitude: 3.9976072
-  longitude: -73.27797
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -81.8317
+    minlatitude: -4.227109899999999
+    maxlongitude: -66.8463122
+    maxlatitude: 13.5177999
+    latitude: 4.570868
+    longitude: -74.297333

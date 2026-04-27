@@ -1,67 +1,126 @@
 name:
-  common: Turkmenistan
-  official: Turkmenistan
-  native:
-    rus:
-      common: Туркмения
-      official: Туркменистан
-    tuk:
-      common: Türkmenistan
-      official: Türkmenistan
+    common: Turkmenistan
+    official: Turkmenistan
+    native:
+        rus:
+            common: Туркмения
+            official: Туркменистан
+        tuk:
+            common: Türkmenistan
+            official: Türkmenistan
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Turkmen
+altspellings:
+    - Turkmenistan
+    - Turkménistan
+    - Turkmenistán
+    - トルクメニスタン
+    - Turkmenia
+    - TM
 tlds:
-- .tm
+    - .tm
 languages:
-  rus: Russian
-  tuk: Turkmen
+    rus: Russian
+    tk: ""
+    tuk: Turkmen
 translations:
-  DEU:
-    common: Turkmenistan
-    official: Turkmenistan
-  FRA:
-    common: Turkménistan
-    official: Turkménistan
-  ITA:
-    common: Turkmenistan
-    official: Turkmenistan
-  JPN:
-    common: トルクメニスタン
-    official: トルクメニスタン
-  RUS:
-    common: Туркмения
-    official: Туркменистан
-  SPA:
-    common: Turkmenistán
-    official: Turkmenistán
+    ARA:
+        common: تركمانستان
+        official: تركمانستان
+    CES:
+        common: Turkmenistán
+        official: Turkmenistán
+    DEU:
+        common: Turkmenistan
+        official: Turkmenistan
+    EST:
+        common: Türkmenistan
+        official: Türkmenistan
+    FIN:
+        common: Turkmenistan
+        official: Turkmenistan
+    FRA:
+        common: Turkménistan
+        official: Turkménistan
+    HRV:
+        common: Turkmenistan
+        official: Turkmenistan
+    HUN:
+        common: Türkmenisztán
+        official: Türkmén Köztársaság
+    ITA:
+        common: Turkmenistan
+        official: Turkmenistan
+    JPN:
+        common: トルクメニスタン
+        official: トルクメニスタン
+    KOR:
+        common: 투르크메니스탄
+        official: 투르크메니스탄
+    NLD:
+        common: Turkmenistan
+        official: Turkmenistan
+    PER:
+        common: ترکمنستان
+        official: جمهوری خلق ترکمنستان
+    POL:
+        common: Turkmenistan
+        official: Republika Turkmenistanu
+    POR:
+        common: Turquemenistão
+        official: Turcomenistão
+    RUS:
+        common: Туркмения
+        official: Туркменистан
+    SLK:
+        common: Turkménsko
+        official: Turkménsko
+    SPA:
+        common: Turkmenistán
+        official: Turkmenistán
+    SRP:
+        common: Turkmenistan
+        official: Turkmenistan
+    SWE:
+        common: Turkmenistan
+        official: Turkmenistan
+    TUR:
+        common: Türkmenistan
+        official: Türkmenistan
+    URD:
+        common: ترکمانستان
+        official: ترکمانستان
+    ZHO:
+        common: 土库曼斯坦
+        official: 土库曼斯坦
 currencies:
-- TMT
+    - TMT
 borders:
-- AFG
-- IRN
-- KAZ
-- UZB
+    - AFG
+    - IRN
+    - KAZ
+    - UZB
 codes:
-  alpha2: TM
-  alpha3: TKM
-  cioc: TKM
-  ccn3: "795"
-  callingcodes:
-  - "993"
-  internationalprefix: "810"
+    alpha2: TM
+    alpha3: TKM
+    cioc: TKM
+    ccn3: "795"
+    callingcodes:
+        - "993"
+    internationalprefix: "810"
 geo:
-  region: Asia
-  subregion: Central Asia
-  continent: Asia
-  capital: Ashgabat
-  area: 488100
+    region: Asia
+    subregion: Central Asia
+    continent: Asia
+    capital: Ashgabat
+    area: 488100
 coordinates:
-  longitudestring: 60 00 E
-  latitudestring: 40 00 N
-  minlongitude: 52.5
-  minlatitude: 35.216667
-  maxlongitude: 66.65
-  maxlatitude: 42.566666
-  latitude: 39.201283
-  longitude: 59.082253
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 52.3169
+    minlatitude: 35.12876
+    maxlongitude: 66.70735309999999
+    maxlatitude: 42.798844
+    latitude: 38.969719
+    longitude: 59.556278

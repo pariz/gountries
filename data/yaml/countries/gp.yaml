@@ -1,59 +1,115 @@
 name:
-  common: Guadeloupe
-  official: Guadeloupe
-  native:
-    fra:
-      common: Guadeloupe
-      official: Guadeloupe
-eumember: false
+    common: Guadeloupe
+    official: Guadeloupe
+    native:
+        fra:
+            common: Guadeloupe
+            official: Guadeloupe
+eumember: true
 landlocked: false
-nationality: ""
+nationality: French
+altspellings:
+    - Guadeloupe
+    - Guadalupe
+    - グアドループ
+    - GP
+    - Gwadloup
 tlds:
-- .gp
+    - .gp
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Guadeloupe
-    official: Guadeloupe
-  FIN:
-    common: Guadeloupe
-    official: Guadeloupen departmentti
-  HRV:
-    common: Gvadalupa
-    official: Gvadalupa
-  ITA:
-    common: Guadeloupa
-    official: Guadeloupe
-  NLD:
-    common: Guadeloupe
-    official: Guadeloupe
-  RUS:
-    common: Гваделупа
-    official: Гваделупа
+    ARA:
+        common: غوادلوب
+        official: غوادلوب
+    CES:
+        common: Guadeloupe
+        official: Guadeloupe
+    DEU:
+        common: Guadeloupe
+        official: Guadeloupe
+    EST:
+        common: Guadeloupe
+        official: Guadeloupe’i ja sõltkondade departemang
+    FIN:
+        common: Guadeloupe
+        official: Guadeloupen departmentti
+    FRA:
+        common: Guadeloupe
+        official: Guadeloupe
+    HRV:
+        common: Gvadalupa
+        official: Gvadalupa
+    HUN:
+        common: Guadeloupe
+        official: Guadeloupe
+    ITA:
+        common: Guadeloupa
+        official: Guadeloupe
+    JPN:
+        common: グアドループ
+        official: グアドループ島
+    KOR:
+        common: 과들루프
+        official: 과들루프
+    NLD:
+        common: Guadeloupe
+        official: Guadeloupe
+    PER:
+        common: گوادلوپ
+        official: گوادلوپ
+    POL:
+        common: Gwadelupa
+        official: Gwadelupa
+    POR:
+        common: Guadalupe
+        official: Guadalupe
+    RUS:
+        common: Гваделупа
+        official: Гваделупа
+    SLK:
+        common: Guadeloupe
+        official: Guadeloupe
+    SPA:
+        common: Guadalupe
+        official: Guadalupe
+    SRP:
+        common: Gvadelup
+        official: Gvadelup
+    SWE:
+        common: Guadeloupe
+        official: Guadeloupe
+    TUR:
+        common: Guadeloupe
+        official: Guadeloupe
+    URD:
+        common: گواڈیلوپ
+        official: گواڈیلوپ
+    ZHO:
+        common: 瓜德罗普岛
+        official: 瓜德罗普岛
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: GP
-  alpha3: GLP
-  cioc: ""
-  ccn3: "312"
-  callingcodes:
-  - "590"
-  internationalprefix: "00"
+    alpha2: GP
+    alpha3: GLP
+    ccn3: "312"
+    callingcodes:
+        - "590"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Basse-Terre
-  area: 1628
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Basse-Terre
+    area: 1628
 coordinates:
-  longitudestring: 61 35 W
-  latitudestring: 16 15 N
-  minlongitude: -63.15
-  minlatitude: 15
-  maxlongitude: -61
-  maxlatitude: 18.116667
-  latitude: 16.256731
-  longitude: -61.567417
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.8468
+    minlatitude: 15.742032
+    maxlongitude: -60.9473
+    maxlatitude: 16.5572273
+    latitude: 16.265
+    longitude: -61.55099999999999

@@ -1,49 +1,303 @@
-- name: Soroca
-  names:
-  - Soroca
-  code: SO
+- name: Anenii Noi
+  code: AN
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.250484
-    minlatitude: 48.120956
-    maxlongitude: 28.328676
-    maxlatitude: 48.187405
-    latitude: 48.166668
-    longitude: 28.3
-- name: Taraclia
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Balti
   names:
-  - Taraclia
-  code: TA
+    - Balti
+  code: BA
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 29.09317
-    minlatitude: 46.547203
-    maxlongitude: 29.136215
-    maxlatitude: 46.582745
-    latitude: 46.5703
-    longitude: 29.1156
+    minlongitude: 27.8344632
+    minlatitude: 47.7226969
+    maxlongitude: 27.9682947
+    maxlatitude: 47.81119469999999
+    latitude: 47.7539947
+    longitude: 27.9184148
+- name: Bender [Tighina]
+  code: BD
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Briceni
+  code: BR
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Basarabeasca
+  code: BS
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cahul
+  names:
+    - Cahul
+  code: CA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.1741595
+    minlatitude: 45.8736666
+    maxlongitude: 28.231709
+    maxlatitude: 45.9423021
+    latitude: 45.8939404
+    longitude: 28.1890275
+- name: Călărași
+  code: CL
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cimișlia
+  code: CM
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Criuleni
+  code: CR
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Căușeni
+  code: CS
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cantemir
+  code: CT
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Chisinau
+  names:
+    - Chisinau
+  code: CU
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 47.0240102
+    longitude: 28.8313156
+- name: Dondușeni
+  code: DO
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Drochia
+  code: DR
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Dubăsari
+  code: DU
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Edinet
   names:
-  - Edinet
+    - Edinet
   code: ED
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 27.27871
-    minlatitude: 48.152287
-    maxlongitude: 27.328062
-    maxlatitude: 48.18921
-    latitude: 48.1679
-    longitude: 27.293613
+    minlongitude: 27.2787093
+    minlatitude: 48.1522871
+    maxlongitude: 27.3280621
+    maxlatitude: 48.1892079
+    latitude: 48.1678991
+    longitude: 27.2936143
+- name: Fălești
+  code: FA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Florești
+  code: FL
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Gagauzia, Unitate Teritoriala Autonoma (UTAG)
   names:
-  - Gagauzia, Unitate Teritoriala Autonoma (UTAG)
+    - Gagauzia, Unitate Teritoriala Autonoma (UTAG)
   code: GA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Glodeni
+  code: GL
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hîncești
+  code: HI
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ialoveni
+  code: IA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Leova
+  code: LE
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nisporeni
+  code: NI
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ocnița
+  code: OC
   countryalpha2: MD
   coordinates:
     longitudestring: ""
@@ -56,21 +310,69 @@
     longitude: 0
 - name: Orhei
   names:
-  - Orhei
+    - Orhei
   code: OR
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.794329
+    minlongitude: 28.7943291
     minlatitude: 47.333195
-    maxlongitude: 28.864967
-    maxlatitude: 47.40391
-    latitude: 47.38333
-    longitude: 28.816668
+    maxlongitude: 28.8649678
+    maxlatitude: 47.40391169999999
+    latitude: 47.383333
+    longitude: 28.816667
+- name: Rezina
+  code: RE
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rîșcani
+  code: RI
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Șoldănești
+  code: SD
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sîngerei
+  code: SI
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Stînga Nistrului, unitatea teritoriala din
   names:
-  - Stînga Nistrului, unitatea teritoriala din
+    - Stînga Nistrului, unitatea teritoriala din
   code: SN
   countryalpha2: MD
   coordinates:
@@ -82,101 +384,81 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Lapusna
+- name: Soroca
   names:
-  - Lapusna
-  code: LA
+    - Soroca
+  code: SO
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.39159
-    minlatitude: 46.86961
-    maxlongitude: 28.431374
-    maxlatitude: 46.901756
-    latitude: 46.88333
-    longitude: 28.416668
-- name: Tighina [Bender]
-  names:
-  - Tighina [Bender]
-  code: TI
+    minlongitude: 28.2504846
+    minlatitude: 48.1209551
+    maxlongitude: 28.3286763
+    maxlatitude: 48.1874054
+    latitude: 48.166667
+    longitude: 28.3
+- name: Strășeni
+  code: ST
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 29.394156
-    minlatitude: 46.795708
-    maxlongitude: 29.502832
-    maxlatitude: 46.875328
-    latitude: 46.846336
-    longitude: 29.453442
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ștefan Vodă
+  code: SV
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Taraclia
+  names:
+    - Taraclia
+  code: TA
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.0931702
+    minlatitude: 46.547203
+    maxlongitude: 29.1362143
+    maxlatitude: 46.5827462
+    latitude: 46.5703
+    longitude: 29.11559999999999
+- name: Telenești
+  code: TE
+  countryalpha2: MD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Ungheni
   names:
-  - Ungheni
+    - Ungheni
   code: UN
   countryalpha2: MD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 27.759275
-    minlatitude: 47.169014
-    maxlongitude: 27.82792
-    maxlatitude: 47.249348
+    minlongitude: 27.7592753
+    minlatitude: 47.1690154
+    maxlongitude: 27.8279203
+    maxlatitude: 47.2493487
     latitude: 47.216667
-    longitude: 27.816668
-- name: Balti
-  names:
-  - Balti
-  code: BA
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.834463
-    minlatitude: 47.7227
-    maxlongitude: 27.968294
-    maxlatitude: 47.811195
-    latitude: 47.753994
-    longitude: 27.918415
-- name: Cahul
-  names:
-  - Cahul
-  code: CA
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.17416
-    minlatitude: 45.873665
-    maxlongitude: 28.231709
-    maxlatitude: 45.942303
-    latitude: 45.89394
-    longitude: 28.189028
-- name: Chisinau City
-  names:
-  - Chisinau City
-  code: CH
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.02401
-    longitude: 28.831316
-- name: Chisinau
-  names:
-  - Chisinau
-  code: CU
-  countryalpha2: MD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 47.02401
-    longitude: 28.831316
+    longitude: 27.816667

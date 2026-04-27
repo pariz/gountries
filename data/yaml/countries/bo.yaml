@@ -1,83 +1,144 @@
 name:
-  common: Bolivia
-  official: Plurinational State of Bolivia
-  native:
-    aym:
-      common: Wuliwya
-      official: Wuliwya Suyu
-    grn:
-      common: Volívia
-      official: Tetã Volívia
-    que:
-      common: Buliwya
-      official: Buliwya Mamallaqta
-    spa:
-      common: Bolivia
-      official: Estado Plurinacional de Bolivia
+    common: Bolivia (Plurinational State of)
+    official: The Plurinational State of Bolivia
+    native:
+        aym:
+            common: Wuliwya
+            official: Wuliwya Suyu
+        grn:
+            common: Volívia
+            official: Tetã Volívia
+        que:
+            common: Buliwya
+            official: Buliwya Mamallaqta
+        spa:
+            common: Bolivia
+            official: Estado Plurinacional de Bolivia
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Bolivian
+altspellings:
+    - Bolivia
+    - Bolivien
+    - Bolivie
+    - ボリビア多民族国
+    - BO
+    - Buliwya
+    - Wuliwya
+    - Bolivia, Plurinational State of
+    - Plurinational State of Bolivia
+    - Estado Plurinacional de Bolivia
+    - Buliwya Mamallaqta
+    - Wuliwya Suyu
+    - Tetã Volívia
 tlds:
-- .bo
+    - .bo
 languages:
-  aym: Aymara
-  grn: Guaraní
-  que: Quechua
-  spa: Spanish
+    ay: ""
+    aym: Aymara
+    es: ""
+    grn: Guaraní
+    qu: ""
+    que: Quechua
+    spa: Spanish
 translations:
-  CYM:
-    common: Bolifia
-    official: Plurinational State of Bolivia
-  FRA:
-    common: Bolivie
-    official: État plurinational de Bolivie
-  HRV:
-    common: Bolivija
-    official: Plurinational State of Bolivia
-  ITA:
-    common: Bolivia
-    official: Stato Plurinazionale della Bolivia
-  JPN:
-    common: ボリビア多民族国
-    official: ボリビアの多民族国
-  POR:
-    common: Bolívia
-    official: Estado Plurinacional da Bolívia
-  RUS:
-    common: Боливия
-    official: Многонациональное Государство Боливия
-  SPA:
-    common: Bolivia
-    official: Estado Plurinacional de Bolivia
+    ARA:
+        common: بوليفيا
+        official: دولة بوليفيا المتعددة القوميات
+    CES:
+        common: Bolívie
+        official: Mnohonárodnostní stát Bolívie
+    DEU:
+        common: Bolivien
+        official: Plurinationaler Staat Bolivien
+    EST:
+        common: Boliivia
+        official: Boliivia Paljurahvuseline Riik
+    FIN:
+        common: Bolivia
+        official: Bolivian monikansainen valtio
+    FRA:
+        common: Bolivie
+        official: État plurinational de Bolivie
+    HRV:
+        common: Bolivija
+        official: Plurinational State of Bolivia
+    HUN:
+        common: Bolívia
+        official: Bolíviai Többnemzetiségű Állam
+    ITA:
+        common: Bolivia
+        official: Stato Plurinazionale della Bolivia
+    JPN:
+        common: ボリビア
+        official: ボリビア多民族国
+    KOR:
+        common: 볼리비아
+        official: 볼리비아 다민족국
+    NLD:
+        common: Bolivia
+        official: Plurinationale Staat van Bolivia
+    PER:
+        common: بولیوی
+        official: جمهوری بولیوی
+    POL:
+        common: Boliwia
+        official: Wielonarodowe Państwo Boliwia
+    POR:
+        common: Bolívia
+        official: Estado Plurinacional da Bolívia
+    RUS:
+        common: Боливия
+        official: Многонациональное Государство Боливия
+    SLK:
+        common: Bolívia
+        official: Bolívijská republika
+    SPA:
+        common: Bolivia
+        official: Estado Plurinacional de Bolivia
+    SRP:
+        common: Bolivija
+        official: Višenacionalna Država Bolivija
+    SWE:
+        common: Bolivia
+        official: Mångnationella staten Bolivia
+    TUR:
+        common: Bolivya
+        official: Bolivya çokuluslu Devleti
+    URD:
+        common: بولیویا
+        official: جمہوریہ بولیویا
+    ZHO:
+        common: 玻利维亚
+        official: 多民族玻利维亚国
 currencies:
-- BOB
-- BOV
+    - BOB
 borders:
-- ARG
-- BRA
-- CHL
-- PRY
-- PER
+    - ARG
+    - BRA
+    - CHL
+    - PRY
+    - PER
 codes:
-  alpha2: BO
-  alpha3: BOL
-  cioc: BOL
-  ccn3: "068"
-  callingcodes:
-  - "591"
-  internationalprefix: "0010"
+    alpha2: BO
+    alpha3: BOL
+    cioc: BOL
+    ccn3: "068"
+    callingcodes:
+        - "591"
+    internationalprefix: "0010"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Sucre
-  area: 1.098581e+06
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Sucre
+    area: 1.098581e+06
 coordinates:
-  longitudestring: 65 00 W
-  latitudestring: 17 00 S
-  minlongitude: -69.6
-  minlatitude: -22.883333
-  maxlongitude: -57.566666
-  maxlatitude: -9.666667
-  latitude: -16.713055
-  longitude: -64.66665
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.64498999999999
+    minlatitude: -22.8980899
+    maxlongitude: -57.453803
+    maxlatitude: -9.669323
+    latitude: -16.290154
+    longitude: -63.58865299999999

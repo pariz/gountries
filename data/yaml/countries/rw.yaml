@@ -1,77 +1,133 @@
 name:
-  common: Rwanda
-  official: Republic of Rwanda
-  native:
-    eng:
-      common: Rwanda
-      official: Republic of Rwanda
-    fra:
-      common: Rwanda
-      official: République rwandaise
-    kin:
-      common: Rwanda
-      official: Repubulika y'u Rwanda
+    common: Rwanda
+    official: The Republic of Rwanda
+    native:
+        eng:
+            common: Rwanda
+            official: Republic of Rwanda
+        fra:
+            common: Rwanda
+            official: République rwandaise
+        kin:
+            common: Rwanda
+            official: Repubulika y'u Rwanda
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Rwandan
+altspellings:
+    - Rwanda
+    - Ruanda
+    - ルワンダ
+    - RW
+    - Republic of Rwanda
+    - Repubulika y'u Rwanda
+    - République du Rwanda
 tlds:
-- .rw
+    - .rw
 languages:
-  eng: English
-  fra: French
-  kin: Kinyarwanda
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
+    kin: Kinyarwanda
+    rw: ""
 translations:
-  FIN:
-    common: Ruanda
-    official: Ruandan tasavalta
-  HRV:
-    common: Ruanda
-    official: Republika Ruandi
-  ITA:
-    common: Ruanda
-    official: Repubblica del Ruanda
-  JPN:
-    common: ルワンダ
-    official: ルワンダ共和国
-  NLD:
-    common: Rwanda
-    official: Republiek Rwanda
-  POR:
-    common: Ruanda
-    official: República do Ruanda
-  RUS:
-    common: Руанда
-    official: Республика Руанда
-  SPA:
-    common: Ruanda
-    official: República de Rwanda
+    ARA:
+        common: رواندا
+        official: جمهورية رواندا
+    CES:
+        common: Rwanda
+        official: Rwandská republika
+    DEU:
+        common: Ruanda
+        official: Republik Ruanda
+    EST:
+        common: Rwanda
+        official: Rwanda Vabariik
+    FIN:
+        common: Ruanda
+        official: Ruandan tasavalta
+    FRA:
+        common: Rwanda
+        official: République rwandaise
+    HRV:
+        common: Ruanda
+        official: Republika Ruandi
+    HUN:
+        common: Ruanda
+        official: Ruandai Köztársaság
+    ITA:
+        common: Ruanda
+        official: Repubblica del Ruanda
+    JPN:
+        common: ルワンダ
+        official: ルワンダ共和国
+    KOR:
+        common: 르완다
+        official: 르완다 공화국
+    NLD:
+        common: Rwanda
+        official: Republiek Rwanda
+    PER:
+        common: رواندا
+        official: جمهوری رواندا
+    POL:
+        common: Rwanda
+        official: Republika Rwandy
+    POR:
+        common: Ruanda
+        official: República do Ruanda
+    RUS:
+        common: Руанда
+        official: Республика Руанда
+    SLK:
+        common: Rwanda
+        official: Rwandská republika
+    SPA:
+        common: Ruanda
+        official: República de Rwanda
+    SRP:
+        common: Ruanda
+        official: Republika Ruanda
+    SWE:
+        common: Rwanda
+        official: Republiken Rwanda
+    TUR:
+        common: Ruanda
+        official: Ruanda Cumhuriyeti
+    URD:
+        common: روانڈا
+        official: جمہوریہ روانڈا
+    ZHO:
+        common: 卢旺达
+        official: 卢旺达共和国
 currencies:
-- RWF
+    - RWF
 borders:
-- BDI
-- COD
-- TZA
-- UGA
+    - BDI
+    - COD
+    - TZA
+    - UGA
 codes:
-  alpha2: RW
-  alpha3: RWA
-  cioc: RWA
-  ccn3: "646"
-  callingcodes:
-  - "250"
-  internationalprefix: "00"
+    alpha2: RW
+    alpha3: RWA
+    cioc: RWA
+    ccn3: "646"
+    callingcodes:
+        - "250"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Kigali
-  area: 26338
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Kigali
+    area: 26338
 coordinates:
-  longitudestring: 30 00 E
-  latitudestring: 2 00 S
-  minlongitude: 28.866667
-  minlatitude: -2.8
-  maxlongitude: 37
-  maxlatitude: 5
-  latitude: -1.9999498
-  longitude: 29.926058
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.861754
+    minlatitude: -2.8399383
+    maxlongitude: 30.8991179
+    maxlatitude: -1.0473752
+    latitude: -1.940278
+    longitude: 29.873888

@@ -1,112 +1,94 @@
-- name: Azad Kashmir
-  names:
-  - Azad Kashmir
-  code: JK
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 73.39499
-    minlatitude: 32.76654
-    maxlongitude: 75.26424
-    maxlatitude: 35.1311
-    latitude: 33.886658
-    longitude: 73.93598
-- name: Northern Areas
-  names:
-  - Northern Areas
-  code: NA
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 72.50466
-    minlatitude: 34.51061
-    maxlongitude: 77.82932
-    maxlatitude: 37.084106
-    latitude: 35.952034
-    longitude: 74.59319
-- name: North-West Frontier
-  names:
-  - North-West Frontier
-  code: NW
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 70.05521
-    minlatitude: 31.191046
-    maxlongitude: 74.137024
-    maxlatitude: 36.91116
-    latitude: 34.95262
-    longitude: 72.331116
-- name: Punjab
-  names:
-  - Punjab
-  code: PB
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 69.33358
-    minlatitude: 27.70511
-    maxlongitude: 75.38187
-    maxlatitude: 34.016033
-    latitude: 31.170406
-    longitude: 72.70972
-- name: Sind (en)
-  names:
-  - Sind (en)
-  code: SD
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 66.654686
-    minlatitude: 23.694695
-    maxlongitude: 71.124405
-    maxlatitude: 28.501549
-    latitude: 25.894302
-    longitude: 68.52471
-- name: Federally Administered Tribal Areas
-  names:
-  - Federally Administered Tribal Areas
-  code: TA
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 69.23878
-    minlatitude: 31.0573
-    maxlongitude: 71.85027
-    maxlatitude: 34.97168
-    latitude: 32.667477
-    longitude: 69.85974
 - name: Baluchistan (en)
   names:
-  - Baluchistan (en)
+    - Baluchistan (en)
   code: BA
   countryalpha2: PK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 60.878597
+    minlongitude: 60.87859700000001
     minlatitude: 24.890663
-    maxlongitude: 70.259514
-    maxlatitude: 32.0646
-    latitude: 28.490734
-    longitude: 65.09578
+    maxlongitude: 70.259517
+    maxlatitude: 32.064602
+    latitude: 28.4907332
+    longitude: 65.0957792
+- name: Gilgit-Baltistan
+  code: GB
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Islamabad
   names:
-  - Islamabad
+    - Islamabad
   code: IS
   countryalpha2: PK
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 72.79283
-    minlatitude: 33.599392
-    maxlongitude: 73.17712
-    maxlatitude: 33.75668
-    latitude: 33.72939
-    longitude: 73.09315
+    minlongitude: 72.7928352
+    minlatitude: 33.5993931
+    maxlongitude: 73.1771194
+    maxlatitude: 33.7566789
+    latitude: 33.7293882
+    longitude: 73.0931461
+- name: Azad Kashmir
+  names:
+    - Azad Kashmir
+  code: JK
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.394989
+    minlatitude: 32.766542
+    maxlongitude: 75.2642401
+    maxlatitude: 35.1311
+    latitude: 33.8866588
+    longitude: 73.93598209999999
+- name: Khyber Pakhtunkhwa
+  code: KP
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Punjab
+  names:
+    - Punjab
+  code: PB
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 69.33357699999999
+    minlatitude: 27.705111
+    maxlongitude: 75.3818661
+    maxlatitude: 34.016032
+    latitude: 31.1704063
+    longitude: 72.7097161
+- name: Sind (en)
+  names:
+    - Sind (en)
+  code: SD
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 66.6546894
+    minlatitude: 23.6946945
+    maxlongitude: 71.12440509999999
+    maxlatitude: 28.5015481
+    latitude: 25.8943018
+    longitude: 68.52471489999999

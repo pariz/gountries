@@ -1,81 +1,134 @@
 name:
-  common: Republic of the Congo
-  official: Republic of the Congo
-  native:
-    fra:
-      common: République du Congo
-      official: République du Congo
-    kon:
-      common: Repubilika ya Kongo
-      official: Repubilika ya Kongo
-    lin:
-      common: Republíki ya Kongó
-      official: Republíki ya Kongó
+    common: Congo
+    official: The Republic of the Congo
+    native:
+        fra:
+            common: République du Congo
+            official: République du Congo
+        kon:
+            common: Repubilika ya Kongo
+            official: Repubilika ya Kongo
+        lin:
+            common: Republíki ya Kongó
+            official: Republíki ya Kongó
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Congolese
+altspellings:
+    - Congo
+    - Kongo
+    - コンゴ共和国
+    - Congo [Republiek]
+    - Congo, Republic of
+    - Congo (Brazzaville)
+    - CG
+    - Congo-Brazzaville
 tlds:
-- .cg
+    - .cg
 languages:
-  fra: French
-  kon: Kikongo
-  lin: Lingala
+    fr: ""
+    fra: French
+    kon: Kikongo
+    lin: Lingala
+    ln: ""
 translations:
-  CYM:
-    common: Gweriniaeth y Congo
-    official: Republic of the Congo
-  DEU:
-    common: Kongo
-    official: Republik Kongo
-  FRA:
-    common: Congo
-    official: République du Congo
-  HRV:
-    common: Kongo
-    official: Republika Kongo
-  JPN:
-    common: コンゴ共和国
-    official: コンゴ共和国
-  NLD:
-    common: Congo
-    official: Republiek Congo
-  POR:
-    common: Congo
-    official: República do Congo
-  RUS:
-    common: Республика Конго
-    official: Республика Конго
-  SPA:
-    common: Congo
-    official: República del Congo
+    ARA:
+        common: جمهورية الكونغو
+        official: جمهورية الكونغو
+    CES:
+        common: Kongo
+        official: Konžská republika
+    DEU:
+        common: Kongo
+        official: Republik Kongo
+    EST:
+        common: Kongo Vabariik
+        official: Kongo Vabariik
+    FIN:
+        common: Kongo-Brazzaville
+        official: Kongon tasavalta
+    FRA:
+        common: Congo
+        official: République du Congo
+    HRV:
+        common: Kongo
+        official: Republika Kongo
+    HUN:
+        common: Kongói Köztársaság
+        official: Kongói Köztársaság
+    ITA:
+        common: Congo
+        official: Repubblica del Congo
+    JPN:
+        common: コンゴ共和国
+        official: コンゴ共和国
+    KOR:
+        common: 콩고
+        official: 콩고
+    NLD:
+        common: Congo
+        official: Republiek Congo
+    PER:
+        common: جمهوری کُنگو
+        official: جمهوری برازاویل کُنگو
+    POL:
+        common: Kongo
+        official: Republika Konga
+    POR:
+        common: Congo
+        official: República do Congo
+    RUS:
+        common: Республика Конго
+        official: Республика Конго
+    SLK:
+        common: Kongo
+        official: Konžská republika
+    SPA:
+        common: Congo
+        official: República del Congo
+    SRP:
+        common: Kongo, Republika
+        official: Republika Kongo
+    SWE:
+        common: Kongo-Brazzaville
+        official: Republiken Kongo
+    TUR:
+        common: Kongo Cumhuriyeti
+        official: Kongo Cumhuriyeti
+    URD:
+        common: جمہوریہ کانگو
+        official: جمہوریہ کانگو
+    ZHO:
+        common: 刚果
+        official: 刚果共和国
 currencies:
-- XAF
+    - XAF
 borders:
-- AGO
-- CMR
-- CAF
-- COD
-- GAB
+    - AGO
+    - CMR
+    - CAF
+    - COD
+    - GAB
 codes:
-  alpha2: CG
-  alpha3: COG
-  cioc: CGO
-  ccn3: "178"
-  callingcodes:
-  - "242"
-  internationalprefix: "00"
+    alpha2: CG
+    alpha3: COG
+    cioc: CGO
+    ccn3: "178"
+    callingcodes:
+        - "242"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Brazzaville
-  area: 342000
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: Brazzaville
+    area: 342000
 coordinates:
-  longitudestring: 15 00 E
-  latitudestring: 1 00 S
-  minlongitude: 11.166667
-  minlatitude: -4.995556
-  maxlongitude: 20
-  maxlatitude: 3.866667
-  latitude: -2.8798661
-  longitude: 23.656378
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.1182001
+    minlatitude: -5.0964
+    maxlongitude: 18.650421
+    maxlatitude: 3.707791
+    latitude: -0.228021
+    longitude: 15.827659

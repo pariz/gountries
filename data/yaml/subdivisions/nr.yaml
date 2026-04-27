@@ -1,196 +1,196 @@
 - name: Aiwo
   names:
-  - Aiwo
+    - Aiwo
   code: "01"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.90955
-    minlatitude: -0.5406168
-    maxlongitude: 166.91841
+    minlongitude: 166.9095518
+    minlatitude: -0.5406168000000001
+    maxlongitude: 166.918411
     maxlatitude: -0.5264073
     latitude: -0.5340012
-    longitude: 166.9139
-- name: Anetan
-  names:
-  - Anetan
-  code: "03"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.93892
-    minlatitude: -0.518731
-    maxlongitude: 166.94841
-    maxlatitude: -0.5027978
-    latitude: -0.5064343
-    longitude: 166.9427
-- name: Yaren
-  names:
-  - Yaren
-  code: "14"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.91096
-    minlatitude: -0.5541411
-    maxlongitude: 166.92982
-    maxlatitude: -0.5398079
-    latitude: -0.5466857
-    longitude: 166.9211
-- name: Boe
-  names:
-  - Boe
-  code: "06"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.91179
-    minlatitude: -0.544316
-    maxlongitude: 166.92218
-    maxlatitude: -0.538305
-    latitude: -0.5414945
-    longitude: 166.9175
-- name: Ewa
-  names:
-  - Ewa
-  code: "09"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.93063
-    minlatitude: -0.5203079
-    maxlongitude: 166.94373
-    maxlatitude: -0.5026395
-    latitude: -0.5087241
-    longitude: 166.93694
-- name: Uaboe
-  names:
-  - Uaboe
-  code: "13"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.92297
-    minlatitude: -0.5244783
-    maxlongitude: 166.93947
-    maxlatitude: -0.5118939
-    latitude: -0.5173398
-    longitude: 166.92902
+    longitude: 166.9138873
 - name: Anabar
   names:
-  - Anabar
+    - Anabar
   code: "02"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.93973
+    minlongitude: 166.9397261
     minlatitude: -0.522434
-    maxlongitude: 166.95781
+    maxlongitude: 166.9578031
     maxlatitude: -0.5043035
     latitude: -0.5133517
-    longitude: 166.94846
+    longitude: 166.9484624
+- name: Anetan
+  names:
+    - Anetan
+  code: "03"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9389193
+    minlatitude: -0.5187309999999999
+    maxlongitude: 166.9484027
+    maxlatitude: -0.5027978
+    latitude: -0.5064343
+    longitude: 166.9427006
 - name: Anibare
   names:
-  - Anibare
+    - Anibare
   code: "04"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.93553
+    minlongitude: 166.9355289
     minlatitude: -0.5423
-    maxlongitude: 166.9563
+    maxlongitude: 166.9563043
     maxlatitude: -0.520894
     latitude: -0.532915
-    longitude: 166.94414
-- name: Ijuw
-  names:
-  - Ijuw
-  code: "10"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.94365
-    minlatitude: -0.523936
-    maxlongitude: 166.95886
-    maxlatitude: -0.514258
-    latitude: -0.5202646
-    longitude: 166.95134
-- name: Nibok
-  names:
-  - Nibok
-  code: "12"
-  countryalpha2: NR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.917
-    minlatitude: -0.530461
-    maxlongitude: 166.93712
-    maxlatitude: -0.5136925
-    latitude: -0.5225124
-    longitude: 166.92542
+    longitude: 166.944141
 - name: Baiti
   names:
-  - Baiti
+    - Baiti
   code: "05"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.92587
+    minlongitude: 166.925876
     minlatitude: -0.5243401
-    maxlongitude: 166.94122
+    maxlongitude: 166.941229
     maxlatitude: -0.5060557
     latitude: -0.5133158
-    longitude: 166.93118
+    longitude: 166.9311761
+- name: Boe
+  names:
+    - Boe
+  code: "06"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9117951
+    minlatitude: -0.544316
+    maxlongitude: 166.922186
+    maxlatitude: -0.5383049999999999
+    latitude: -0.5414945
+    longitude: 166.9174893
 - name: Buada
   names:
-  - Buada
+    - Buada
   code: "07"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.91614
+    minlongitude: 166.916138
     minlatitude: -0.542245
-    maxlongitude: 166.93652
+    maxlongitude: 166.936519
     maxlatitude: -0.5264839
     latitude: -0.5328777
-    longitude: 166.92685
+    longitude: 166.9268541
 - name: Denigomodu
   names:
-  - Denigomodu
+    - Denigomodu
   code: "08"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.91083
+    minlongitude: 166.9108336
     minlatitude: -0.5291599
-    maxlongitude: 166.9251
+    maxlongitude: 166.925101
     maxlatitude: -0.5191129
-    latitude: -0.5247964
-    longitude: 166.91676
+    latitude: -0.5247963999999999
+    longitude: 166.9167689
+- name: Ewa
+  names:
+    - Ewa
+  code: "09"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9306406
+    minlatitude: -0.5203078999999999
+    maxlongitude: 166.9437219
+    maxlatitude: -0.5026395
+    latitude: -0.5087241
+    longitude: 166.9369384
+- name: Ijuw
+  names:
+    - Ijuw
+  code: "10"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9436481
+    minlatitude: -0.523936
+    maxlongitude: 166.958865
+    maxlatitude: -0.514258
+    latitude: -0.5202646000000001
+    longitude: 166.9513432
 - name: Meneng
   names:
-  - Meneng
+    - Meneng
   code: "11"
   countryalpha2: NR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 166.9286
+    minlongitude: 166.9286009
     minlatitude: -0.5539963
-    maxlongitude: 166.95068
+    maxlongitude: 166.9506771
     maxlatitude: -0.5366
     latitude: -0.546724
-    longitude: 166.93839
+    longitude: 166.938379
+- name: Nibok
+  names:
+    - Nibok
+  code: "12"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.917013
+    minlatitude: -0.530461
+    maxlongitude: 166.9371241
+    maxlatitude: -0.5136925
+    latitude: -0.5225124
+    longitude: 166.9254134
+- name: Uaboe
+  names:
+    - Uaboe
+  code: "13"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9229766
+    minlatitude: -0.5244783
+    maxlongitude: 166.939466
+    maxlatitude: -0.5118939
+    latitude: -0.5173398
+    longitude: 166.9290151
+- name: Yaren
+  names:
+    - Yaren
+  code: "14"
+  countryalpha2: NR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9109682
+    minlatitude: -0.5541410999999999
+    maxlongitude: 166.9298291
+    maxlatitude: -0.5398079
+    latitude: -0.5466856999999999
+    longitude: 166.9210913

@@ -1,62 +1,128 @@
 name:
-  common: Uganda
-  official: Republic of Uganda
-  native:
-    eng:
-      common: Uganda
-      official: Republic of Uganda
-    swa:
-      common: Uganda
-      official: Republic of Uganda
+    common: Uganda
+    official: The Republic of Uganda
+    native:
+        eng:
+            common: Uganda
+            official: Republic of Uganda
+        swa:
+            common: Uganda
+            official: Republic of Uganda
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Ugandan
+altspellings:
+    - Uganda
+    - ウガンダ
+    - Oeganda
+    - UG
+    - Republic of Uganda
+    - Jamhuri ya Uganda
 tlds:
-- .ug
+    - .ug
 languages:
-  eng: English
-  swa: Swahili
+    en: ""
+    eng: English
+    sw: ""
+    swa: Swahili
 translations:
-  DEU:
-    common: Uganda
-    official: Republik Uganda
-  NLD:
-    common: Oeganda
-    official: Republiek Uganda
-  POR:
-    common: Uganda
-    official: República do Uganda
-  SPA:
-    common: Uganda
-    official: República de Uganda
+    ARA:
+        common: أوغندا
+        official: جمهورية أوغندا
+    CES:
+        common: Uganda
+        official: Ugandská republika
+    DEU:
+        common: Uganda
+        official: Republik Uganda
+    EST:
+        common: Uganda
+        official: Uganda Vabariik
+    FIN:
+        common: Uganda
+        official: Ugandan tasavalta
+    FRA:
+        common: Ouganda
+        official: République de l'Ouganda
+    HRV:
+        common: Uganda
+        official: Republika Uganda
+    HUN:
+        common: Uganda
+        official: Ugandai Köztársaság
+    ITA:
+        common: Uganda
+        official: Repubblica di Uganda
+    JPN:
+        common: ウガンダ
+        official: ウガンダ共和国
+    KOR:
+        common: 우간다
+        official: 우간다 공화국
+    NLD:
+        common: Oeganda
+        official: Republiek Uganda
+    PER:
+        common: اوگاندا
+        official: جمهوری اوگاندا
+    POL:
+        common: Uganda
+        official: Republika Ugandy
+    POR:
+        common: Uganda
+        official: República do Uganda
+    RUS:
+        common: Уганда
+        official: Республика Уганда
+    SLK:
+        common: Uganda
+        official: Ugandská republika
+    SPA:
+        common: Uganda
+        official: República de Uganda
+    SRP:
+        common: Uganda
+        official: Republika Uganda
+    SWE:
+        common: Uganda
+        official: Republiken Uganda
+    TUR:
+        common: Uganda
+        official: Uganda Cumhuriyeti
+    URD:
+        common: یوگنڈا
+        official: جمہوریہ یوگنڈا
+    ZHO:
+        common: 乌干达
+        official: 乌干达共和国
 currencies:
-- UGX
+    - UGX
 borders:
-- COD
-- KEN
-- RWA
-- SSD
-- TZA
+    - COD
+    - KEN
+    - RWA
+    - SSD
+    - TZA
 codes:
-  alpha2: UG
-  alpha3: UGA
-  cioc: UGA
-  ccn3: "800"
-  callingcodes:
-  - "256"
-  internationalprefix: "000"
+    alpha2: UG
+    alpha3: UGA
+    cioc: UGA
+    ccn3: "800"
+    callingcodes:
+        - "256"
+    internationalprefix: "000"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Kampala
-  area: 241550
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Kampala
+    area: 241550
 coordinates:
-  longitudestring: 32 00 E
-  latitudestring: 1 00 N
-  minlongitude: 29.583332
-  minlatitude: -1.433333
-  maxlongitude: 34.95
-  maxlatitude: 4.166667
-  latitude: 1.277328
-  longitude: 32.389984
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.573433
+    minlatitude: -1.4823178
+    maxlongitude: 35.0330489
+    maxlatitude: 4.218628
+    latitude: 1.373333
+    longitude: 32.290275

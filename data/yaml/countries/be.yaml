@@ -1,74 +1,138 @@
 name:
-  common: Belgium
-  official: Kingdom of Belgium
-  native:
-    deu:
-      common: Belgien
-      official: Königreich Belgien
-    fra:
-      common: Belgique
-      official: Royaume de Belgique
-    nld:
-      common: België
-      official: Koninkrijk België
+    common: Belgium
+    official: The Kingdom of Belgium
+    native:
+        deu:
+            common: Belgien
+            official: Königreich Belgien
+        fra:
+            common: Belgique
+            official: Royaume de Belgique
+        nld:
+            common: België
+            official: Koninkrijk België
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Belgian
+altspellings:
+    - Belgium
+    - Belgien
+    - Belgique
+    - Bélgica
+    - ベルギー
+    - België
+    - BE
+    - Belgie
+    - Kingdom of Belgium
+    - Koninkrijk België
+    - Royaume de Belgique
+    - Königreich Belgien
 tlds:
-- .be
+    - .be
 languages:
-  deu: German
-  fra: French
-  nld: Dutch
+    de: ""
+    deu: German
+    fr: ""
+    fra: French
+    nl: ""
+    nld: Dutch
 translations:
-  CYM:
-    common: Gwlad Belg
-    official: Kingdom of Belgium
-  DEU:
-    common: Belgien
-    official: Königreich Belgien
-  FIN:
-    common: Belgia
-    official: Belgian kuningaskunta
-  FRA:
-    common: Belgique
-    official: Royaume de Belgique
-  ITA:
-    common: Belgio
-    official: Regno del Belgio
-  POR:
-    common: Bélgica
-    official: Reino da Bélgica
-  RUS:
-    common: Бельгия
-    official: Королевство Бельгия
+    ARA:
+        common: بلجيكا
+        official: مملكة بلجيكا
+    CES:
+        common: Belgie
+        official: Belgické království
+    DEU:
+        common: Belgien
+        official: Königreich Belgien
+    EST:
+        common: Belgia
+        official: Belgia Kuningriik
+    FIN:
+        common: Belgia
+        official: Belgian kuningaskunta
+    FRA:
+        common: Belgique
+        official: Royaume de Belgique
+    HRV:
+        common: Belgija
+        official: Kraljevina Belgija
+    HUN:
+        common: Belgium
+        official: Belga Királyság
+    ITA:
+        common: Belgio
+        official: Regno del Belgio
+    JPN:
+        common: ベルギー
+        official: ベルギー王国
+    KOR:
+        common: 벨기에
+        official: 벨기에 왕국
+    NLD:
+        common: België
+        official: Koninkrijk België
+    PER:
+        common: بلژیک
+        official: پادشاهی بلژیک
+    POL:
+        common: Belgia
+        official: Królestwo Belgii
+    POR:
+        common: Bélgica
+        official: Reino da Bélgica
+    RUS:
+        common: Бельгия
+        official: Королевство Бельгия
+    SLK:
+        common: Belgicko
+        official: Belgické kráľovstvo
+    SPA:
+        common: Bélgica
+        official: Reino de Bélgica
+    SRP:
+        common: Belgija
+        official: Kraljevina Belgija
+    SWE:
+        common: Belgien
+        official: Konungariket Belgien
+    TUR:
+        common: Belçika
+        official: Belçika Krallığı
+    URD:
+        common: بلجئیم
+        official: مملکتِ بلجئیم
+    ZHO:
+        common: 比利时
+        official: 比利时王国
 currencies:
-- EUR
+    - EUR
 borders:
-- FRA
-- DEU
-- LUX
-- NLD
+    - FRA
+    - DEU
+    - LUX
+    - NLD
 codes:
-  alpha2: BE
-  alpha3: BEL
-  cioc: BEL
-  ccn3: "056"
-  callingcodes:
-  - "32"
-  internationalprefix: "00"
+    alpha2: BE
+    alpha3: BEL
+    cioc: BEL
+    ccn3: "056"
+    callingcodes:
+        - "32"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Brussels
-  area: 30528
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Brussels
+    area: 30528
 coordinates:
-  longitudestring: 4 00 E
-  latitudestring: 50 50 N
-  minlongitude: 2.566667
-  minlatitude: 49.516666
-  maxlongitude: 6.4
-  maxlatitude: 51.683334
-  latitude: 50.648964
-  longitude: 4.6415024
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.5240999
+    minlatitude: 49.497013
+    maxlongitude: 6.408124099999999
+    maxlatitude: 51.5051449
+    latitude: 50.503887
+    longitude: 4.469936

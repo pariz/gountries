@@ -1,64 +1,126 @@
 name:
-  common: Botswana
-  official: Republic of Botswana
-  native:
-    eng:
-      common: Botswana
-      official: Republic of Botswana
-    tsn:
-      common: Botswana
-      official: Lefatshe la Botswana
+    common: Botswana
+    official: The Republic of Botswana
+    native:
+        eng:
+            common: Botswana
+            official: Republic of Botswana
+        tsn:
+            common: Botswana
+            official: Lefatshe la Botswana
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Motswana
+altspellings:
+    - Botswana
+    - ボツワナ
+    - BW
+    - Republic of Botswana
+    - Lefatshe la Botswana
 tlds:
-- .bw
+    - .bw
 languages:
-  eng: English
-  tsn: Tswana
+    en: ""
+    eng: English
+    tn: ""
+    tsn: Tswana
 translations:
-  FIN:
-    common: Botswana
-    official: Botswanan tasavalta
-  FRA:
-    common: Botswana
-    official: République du Botswana
-  NLD:
-    common: Botswana
-    official: Republiek Botswana
-  POR:
-    common: Botswana
-    official: República do Botswana
-  SPA:
-    common: Botswana
-    official: República de Botswana
+    ARA:
+        common: بوتسوانا
+        official: جمهورية بوتسوانا
+    CES:
+        common: Botswana
+        official: Botswanská republika
+    DEU:
+        common: Botswana
+        official: Republik Botsuana
+    EST:
+        common: Botswana
+        official: Botswana Vabariik
+    FIN:
+        common: Botswana
+        official: Botswanan tasavalta
+    FRA:
+        common: Botswana
+        official: République du Botswana
+    HRV:
+        common: Bocvana
+        official: Republika Bocvana
+    HUN:
+        common: Botswana
+        official: Botswanai Köztársaság
+    ITA:
+        common: Botswana
+        official: Repubblica del Botswana
+    JPN:
+        common: ボツワナ
+        official: ボツワナ共和国
+    KOR:
+        common: 보츠와나
+        official: 보츠와나 공화국
+    NLD:
+        common: Botswana
+        official: Republiek Botswana
+    PER:
+        common: بوتسوانا
+        official: جمهوری بوتسوانا
+    POL:
+        common: Botswana
+        official: Republika Botswany
+    POR:
+        common: Botswana
+        official: República do Botswana
+    RUS:
+        common: Ботсвана
+        official: Республика Ботсвана
+    SLK:
+        common: Botswana
+        official: Botswanská republika
+    SPA:
+        common: Botswana
+        official: República de Botswana
+    SRP:
+        common: Bocvana
+        official: Republika Bocvana
+    SWE:
+        common: Botswana
+        official: Republiken Botswana
+    TUR:
+        common: Botsvana
+        official: Botsvana Cumhuriyeti
+    URD:
+        common: بوٹسوانا
+        official: جمہوریہ بوٹسوانا
+    ZHO:
+        common: 博茨瓦纳
+        official: 博茨瓦纳共和国
 currencies:
-- BWP
+    - BWP
 borders:
-- NAM
-- ZAF
-- ZMB
-- ZWE
+    - NAM
+    - ZAF
+    - ZMB
+    - ZWE
 codes:
-  alpha2: BW
-  alpha3: BWA
-  cioc: BOT
-  ccn3: "072"
-  callingcodes:
-  - "267"
-  internationalprefix: "00"
+    alpha2: BW
+    alpha3: BWA
+    cioc: BOT
+    ccn3: "072"
+    callingcodes:
+        - "267"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Southern Africa
-  continent: Africa
-  capital: Gaborone
-  area: 582000
+    region: Africa
+    subregion: Southern Africa
+    continent: Africa
+    capital: Gaborone
+    area: 582000
 coordinates:
-  longitudestring: 24 00 E
-  latitudestring: 22 00 S
-  minlongitude: 20
-  minlatitude: -26.833332
-  maxlongitude: 29.016666
-  maxlatitude: -17.833332
-  latitude: -22.186752
-  longitude: 23.814941
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.998903
+    minlatitude: -26.9075448
+    maxlongitude: 29.375304
+    maxlatitude: -17.7781369
+    latitude: -22.328474
+    longitude: 24.684866

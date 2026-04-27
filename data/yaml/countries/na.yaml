@@ -1,99 +1,155 @@
 name:
-  common: Namibia
-  official: Republic of Namibia
-  native:
-    afr:
-      common: Namibië
-      official: Republiek van Namibië
-    deu:
-      common: Namibia
-      official: Republik Namibia
-    eng:
-      common: Namibia
-      official: Republic of Namibia
-    her:
-      common: Namibia
-      official: Republic of Namibia
-    hgm:
-      common: Namibia
-      official: Republic of Namibia
-    kwn:
-      common: Namibia
-      official: Republic of Namibia
-    loz:
-      common: Namibia
-      official: Republic of Namibia
-    ndo:
-      common: Namibia
-      official: Republic of Namibia
-    tsn:
-      common: Namibia
-      official: Lefatshe la Namibia
+    common: Namibia
+    official: The Republic of Namibia
+    native:
+        afr:
+            common: Namibië
+            official: Republiek van Namibië
+        deu:
+            common: Namibia
+            official: Republik Namibia
+        eng:
+            common: Namibia
+            official: Republic of Namibia
+        her:
+            common: Namibia
+            official: Republic of Namibia
+        hgm:
+            common: Namibia
+            official: Republic of Namibia
+        kwn:
+            common: Namibia
+            official: Republic of Namibia
+        loz:
+            common: Namibia
+            official: Republic of Namibia
+        ndo:
+            common: Namibia
+            official: Republic of Namibia
+        tsn:
+            common: Namibia
+            official: Lefatshe la Namibia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Namibian
+altspellings:
+    - Namibia
+    - Namibie
+    - ナミビア
+    - Namibië
+    - NA
+    - Republic of Namibia
 tlds:
-- .na
+    - .na
 languages:
-  afr: Afrikaans
-  deu: German
-  eng: English
-  her: Herero
-  hgm: Khoekhoe
-  kwn: Kwangali
-  loz: Lozi
-  ndo: Ndonga
-  tsn: Tswana
+    af: ""
+    afr: Afrikaans
+    deu: German
+    en: ""
+    eng: English
+    her: Herero
+    hgm: Khoekhoe
+    kwn: Kwangali
+    loz: Lozi
+    ndo: Ndonga
+    tsn: Tswana
 translations:
-  DEU:
-    common: Namibia
-    official: Republik Namibia
-  FIN:
-    common: Namibia
-    official: Namibian tasavalta
-  HRV:
-    common: Namibija
-    official: Republika Namibija
-  JPN:
-    common: ナミビア
-    official: ナミビア共和国
-  NLD:
-    common: Namibië
-    official: Republiek Namibië
-  RUS:
-    common: Намибия
-    official: Республика Намибия
-  SPA:
-    common: Namibia
-    official: República de Namibia
+    ARA:
+        common: ناميبيا
+        official: جمهورية ناميبيا
+    CES:
+        common: Namibie
+        official: Namibijská republika
+    DEU:
+        common: Namibia
+        official: Republik Namibia
+    EST:
+        common: Namiibia
+        official: Namiibia Vabariik
+    FIN:
+        common: Namibia
+        official: Namibian tasavalta
+    FRA:
+        common: Namibie
+        official: République de Namibie
+    HRV:
+        common: Namibija
+        official: Republika Namibija
+    HUN:
+        common: Namíbia
+        official: Namíbiai Köztársaság
+    ITA:
+        common: Namibia
+        official: Repubblica di Namibia
+    JPN:
+        common: ナミビア
+        official: ナミビア共和国
+    KOR:
+        common: 나미비아
+        official: 나미비아 공화국
+    NLD:
+        common: Namibië
+        official: Republiek Namibië
+    PER:
+        common: نامیبیا
+        official: جمهوری نامیبیا
+    POL:
+        common: Namibia
+        official: Republika Namibii
+    POR:
+        common: Namíbia
+        official: República da Namíbia
+    RUS:
+        common: Намибия
+        official: Республика Намибия
+    SLK:
+        common: Namíbia
+        official: Namíbijská republika
+    SPA:
+        common: Namibia
+        official: República de Namibia
+    SRP:
+        common: Namibija
+        official: Republika Namibija
+    SWE:
+        common: Namibia
+        official: Republiken Namibia
+    TUR:
+        common: Namibya
+        official: Namibya Cumhuriyeti
+    URD:
+        common: نمیبیا
+        official: جمہوریہ نمیبیا
+    ZHO:
+        common: 纳米比亚
+        official: 纳米比亚共和国
 currencies:
-- NAD
-- ZAR
+    - NAD
 borders:
-- AGO
-- BWA
-- ZAF
-- ZMB
+    - AGO
+    - BWA
+    - ZAF
+    - ZMB
 codes:
-  alpha2: NA
-  alpha3: NAM
-  cioc: NAM
-  ccn3: "516"
-  callingcodes:
-  - "264"
-  internationalprefix: "00"
+    alpha2: NA
+    alpha3: NAM
+    cioc: NAM
+    ccn3: "516"
+    callingcodes:
+        - "264"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Southern Africa
-  continent: Africa
-  capital: Windhoek
-  area: 825615
+    region: Africa
+    subregion: Southern Africa
+    continent: Africa
+    capital: Windhoek
+    area: 825615
 coordinates:
-  longitudestring: 17 00 E
-  latitudestring: 22 00 S
-  minlongitude: 12.016667
-  minlatitude: -28.933332
-  maxlongitude: 25.25
-  maxlatitude: -16.983334
-  latitude: -22.1507
-  longitude: 17.177526
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.4696999
+    minlatitude: -28.97063889999999
+    maxlongitude: 25.261752
+    maxlatitude: -16.9634849
+    latitude: -22.95764
+    longitude: 18.49041

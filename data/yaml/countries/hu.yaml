@@ -1,75 +1,126 @@
 name:
-  common: Hungary
-  official: Hungary
-  native:
-    hun:
-      common: Magyarország
-      official: Magyarország
+    common: Hungary
+    official: Hungary
+    native:
+        hun:
+            common: Magyarország
+            official: Magyarország
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Hungarian
+altspellings:
+    - Hungary
+    - Ungarn
+    - Hongrie
+    - Hungría
+    - ハンガリー
+    - Hongarije
+    - HU
 tlds:
-- .hu
+    - .hu
 languages:
-  hun: Hungarian
+    hu: ""
+    hun: Hungarian
 translations:
-  DEU:
-    common: Ungarn
-    official: Ungarn
-  FIN:
-    common: Unkari
-    official: Unkari
-  FRA:
-    common: Hongrie
-    official: Hongrie
-  HRV:
-    common: Mađarska
-    official: Madžarska
-  ITA:
-    common: Ungheria
-    official: Ungheria
-  JPN:
-    common: ハンガリー
-    official: ハンガリー
-  NLD:
-    common: Hongarije
-    official: Hongarije
-  POR:
-    common: Hungria
-    official: Hungria
-  RUS:
-    common: Венгрия
-    official: Венгрия
+    ARA:
+        common: المجر
+        official: الجمهورية المجرية
+    CES:
+        common: Maďarsko
+        official: Maďarsko
+    DEU:
+        common: Ungarn
+        official: Ungarn
+    EST:
+        common: Ungari
+        official: Ungari
+    FIN:
+        common: Unkari
+        official: Unkari
+    FRA:
+        common: Hongrie
+        official: Hongrie
+    HRV:
+        common: Mađarska
+        official: Madžarska
+    HUN:
+        common: Magyarország
+        official: Magyarország
+    ITA:
+        common: Ungheria
+        official: Ungheria
+    JPN:
+        common: ハンガリー
+        official: ハンガリー
+    KOR:
+        common: 헝가리
+        official: 헝가리
+    NLD:
+        common: Hongarije
+        official: Hongarije
+    PER:
+        common: مجارستان
+        official: مجارستان
+    POL:
+        common: Węgry
+        official: Węgry
+    POR:
+        common: Hungria
+        official: Hungria
+    RUS:
+        common: Венгрия
+        official: Венгрия
+    SLK:
+        common: Maďarsko
+        official: Maďarsko
+    SPA:
+        common: Hungría
+        official: Hungría
+    SRP:
+        common: Madjarska
+        official: Madjarska
+    SWE:
+        common: Ungern
+        official: Ungern
+    TUR:
+        common: Macaristan
+        official: Macaristan
+    URD:
+        common: مجارستان
+        official: مجارستان
+    ZHO:
+        common: 匈牙利
+        official: 匈牙利
 currencies:
-- HUF
+    - HUF
 borders:
-- AUT
-- HRV
-- ROU
-- SRB
-- SVK
-- SVN
-- UKR
+    - AUT
+    - HRV
+    - ROU
+    - SRB
+    - SVK
+    - SVN
+    - UKR
 codes:
-  alpha2: HU
-  alpha3: HUN
-  cioc: HUN
-  ccn3: "348"
-  callingcodes:
-  - "36"
-  internationalprefix: "00"
+    alpha2: HU
+    alpha3: HUN
+    cioc: HUN
+    ccn3: "348"
+    callingcodes:
+        - "36"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Budapest
-  area: 93028
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Budapest
+    area: 93028
 coordinates:
-  longitudestring: 20 00 E
-  latitudestring: 47 00 N
-  minlongitude: 16.183332
-  minlatitude: 45.75
-  maxlongitude: 22.866667
-  maxlatitude: 48.983334
-  latitude: 47.165733
-  longitude: 19.416574
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.1133078
+    minlatitude: 45.7370889
+    maxlongitude: 22.8965438
+    maxlatitude: 48.585234
+    latitude: 47.162494
+    longitude: 19.5033041

@@ -1,53 +1,119 @@
 name:
-  common: Bermuda
-  official: Bermuda
-  native:
-    eng:
-      common: Bermuda
-      official: Bermuda
-eumember: false
-landlocked: false
-nationality: ""
-tlds:
-- .bm
-languages:
-  eng: English
-translations:
-  FRA:
-    common: Bermudes
-    official: Bermudes
-  ITA:
     common: Bermuda
     official: Bermuda
-  JPN:
-    common: バミューダ
-    official: バミューダ
-  SPA:
-    common: Bermudas
-    official: Bermuda
+    native:
+        eng:
+            common: Bermuda
+            official: Bermuda
+eumember: false
+landlocked: false
+nationality: Bermudian
+altspellings:
+    - Bermuda
+    - Bermudes
+    - Bermudas
+    - バミューダ
+    - BM
+    - The Islands of Bermuda
+    - The Bermudas
+    - Somers Isles
+tlds:
+    - .bm
+languages:
+    en: ""
+    eng: English
+translations:
+    ARA:
+        common: برمودا
+        official: برمودا
+    CES:
+        common: Bermudy
+        official: Bermudské ostrovy
+    DEU:
+        common: Bermuda
+        official: Bermuda
+    EST:
+        common: Bermuda
+        official: Bermuda
+    FIN:
+        common: Bermuda
+        official: Bermuda
+    FRA:
+        common: Bermudes
+        official: Bermudes
+    HRV:
+        common: Bermudi
+        official: Bermuda
+    HUN:
+        common: Bermuda
+        official: Bermuda
+    ITA:
+        common: Bermuda
+        official: Bermuda
+    JPN:
+        common: バミューダ
+        official: バミューダ諸島
+    KOR:
+        common: 버뮤다
+        official: 버뮤다
+    NLD:
+        common: Bermuda
+        official: Bermuda
+    PER:
+        common: برمودا
+        official: جزایر برمودا
+    POL:
+        common: Bermudy
+        official: Bermudy
+    POR:
+        common: Bermudas
+        official: Bermudas
+    RUS:
+        common: Бермудские Острова
+        official: Бермудские острова
+    SLK:
+        common: Bermudy
+        official: Bermudy
+    SPA:
+        common: Bermudas
+        official: Bermuda
+    SRP:
+        common: Bermudi
+        official: Bermuda
+    SWE:
+        common: Bermuda
+        official: Bermuda
+    TUR:
+        common: Bermuda
+        official: Bermuda
+    URD:
+        common: برمودا
+        official: برمودا
+    ZHO:
+        common: 百慕大
+        official: 百慕大
 currencies:
-- BMD
-borders: []
+    - BMD
 codes:
-  alpha2: BM
-  alpha3: BMU
-  cioc: BER
-  ccn3: "060"
-  callingcodes:
-  - "1441"
-  internationalprefix: "011"
+    alpha2: BM
+    alpha3: BMU
+    cioc: BER
+    ccn3: "060"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Northern America
-  continent: North America
-  capital: Hamilton
-  area: 54
+    region: Americas
+    subregion: Northern America
+    continent: North America
+    capital: Hamilton
+    area: 54
 coordinates:
-  longitudestring: 64 45 W
-  latitudestring: 32 20 N
-  minlongitude: -64.882774
-  minlatitude: 32.246944
-  maxlongitude: -64.63333
-  maxlatitude: 32.390556
-  latitude: 32.30267
-  longitude: -64.751686
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -64.89139999999999
+    minlatitude: 32.2424975
+    maxlongitude: -64.6413999
+    maxlatitude: 32.3961
+    latitude: 32.3078
+    longitude: -64.7505

@@ -1,65 +1,120 @@
 name:
-  common: Honduras
-  official: Republic of Honduras
-  native:
-    spa:
-      common: Honduras
-      official: República de Honduras
+    common: Honduras
+    official: The Republic of Honduras
+    native:
+        spa:
+            common: Honduras
+            official: República de Honduras
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Honduran
+altspellings:
+    - Honduras
+    - ホンジュラス
+    - HN
+    - Republic of Honduras
+    - República de Honduras
 tlds:
-- .hn
+    - .hn
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  DEU:
-    common: Honduras
-    official: Republik Honduras
-  FIN:
-    common: Honduras
-    official: Hondurasin tasavalta
-  FRA:
-    common: Honduras
-    official: République du Honduras
-  ITA:
-    common: Honduras
-    official: Repubblica di Honduras
-  JPN:
-    common: ホンジュラス
-    official: ホンジュラス共和国
-  NLD:
-    common: Honduras
-    official: Republiek Honduras
-  RUS:
-    common: Гондурас
-    official: Республика Гондурас
+    ARA:
+        common: هندوراس
+        official: جمهورية هندوراس
+    CES:
+        common: Honduras
+        official: Honduraská republika
+    DEU:
+        common: Honduras
+        official: Republik Honduras
+    EST:
+        common: Honduras
+        official: Hondurase Vabariik
+    FIN:
+        common: Honduras
+        official: Hondurasin tasavalta
+    FRA:
+        common: Honduras
+        official: République du Honduras
+    HRV:
+        common: Honduras
+        official: Republika Honduras
+    HUN:
+        common: Honduras
+        official: Hondurasi Köztársaság
+    ITA:
+        common: Honduras
+        official: Repubblica di Honduras
+    JPN:
+        common: ホンジュラス
+        official: ホンジュラス共和国
+    KOR:
+        common: 온두라스
+        official: 온두라스 공화국
+    NLD:
+        common: Honduras
+        official: Republiek Honduras
+    PER:
+        common: هُندوراس
+        official: جمهوری هندوراس
+    POL:
+        common: Honduras
+        official: Republika Hondurasu
+    POR:
+        common: Honduras
+        official: República de Honduras
+    RUS:
+        common: Гондурас
+        official: Республика Гондурас
+    SLK:
+        common: Honduras
+        official: Honduraská republika
+    SPA:
+        common: Honduras
+        official: República de Honduras
+    SRP:
+        common: Honduras
+        official: Republika Honduras
+    SWE:
+        common: Honduras
+        official: Republiken Honduras
+    TUR:
+        common: Honduras
+        official: Honduras Cumhuriyeti
+    URD:
+        common: ہونڈوراس
+        official: جمہوریہ ہونڈوراس
+    ZHO:
+        common: 洪都拉斯
+        official: 洪都拉斯共和国
 currencies:
-- HNL
+    - HNL
 borders:
-- GTM
-- SLV
-- NIC
+    - GTM
+    - SLV
+    - NIC
 codes:
-  alpha2: HN
-  alpha3: HND
-  cioc: HON
-  ccn3: "340"
-  callingcodes:
-  - "504"
-  internationalprefix: "00"
+    alpha2: HN
+    alpha3: HND
+    cioc: HON
+    ccn3: "340"
+    callingcodes:
+        - "504"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Central America
-  continent: North America
-  capital: Tegucigalpa
-  area: 112492
+    region: Americas
+    subregion: Central America
+    continent: North America
+    capital: Tegucigalpa
+    area: 112492
 coordinates:
-  longitudestring: 86 30 W
-  latitudestring: 15 00 N
-  minlongitude: -89.333336
-  minlatitude: 13.016667
-  maxlongitude: -82.5
-  maxlatitude: 17.45
-  latitude: 14.975033
-  longitude: -86.26477
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.3564822
+    minlatitude: 12.9808201
+    maxlongitude: -83.0621001
+    maxlatitude: 17.4677999
+    latitude: 15.199999
+    longitude: -86.241905

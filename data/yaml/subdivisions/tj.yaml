@@ -1,0 +1,73 @@
+- name: Dushanbe
+  code: DU
+  countryalpha2: TJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Gorno-Badakhshan
+  names:
+    - Gorno-Badahşan
+  code: GB
+  countryalpha2: TJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 70.216537
+    minlatitude: 36.671535
+    maxlongitude: 75.1514831
+    maxlatitude: 39.46881500000001
+    latitude: 38.412732
+    longitude: 73.087749
+- name: Khatlon
+  names:
+    - Hatlon
+  code: KT
+  countryalpha2: TJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 67.78614600000002
+    minlatitude: 36.9281721
+    maxlongitude: 70.34964699999999
+    maxlatitude: 38.783459
+    latitude: 37.9113562
+    longitude: 69.097023
+- name: Nohiyahoi Tobei Jumhurí
+  code: RA
+  countryalpha2: TJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sughd
+  names:
+    - Chudjand
+    - Hucand
+    - Hudžand
+    - Hücand
+    - Khodzent
+    - Khodzhent
+    - Khudzhand
+    - Leninabad
+  code: SU
+  countryalpha2: TJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 67.3871309
+    minlatitude: 38.926113
+    maxlongitude: 70.984337
+    maxlatitude: 41.0422438
+    latitude: 39.5155326
+    longitude: 69.097023

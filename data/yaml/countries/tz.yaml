@@ -1,71 +1,134 @@
 name:
-  common: Tanzania
-  official: United Republic of Tanzania
-  native:
-    eng:
-      common: Tanzania
-      official: United Republic of Tanzania
-    swa:
-      common: Tanzania
-      official: Jamhuri ya Muungano wa Tanzania
+    common: Tanzania, United Republic of
+    official: The United Republic of Tanzania
+    native:
+        eng:
+            common: Tanzania
+            official: United Republic of Tanzania
+        swa:
+            common: Tanzania
+            official: Jamhuri ya Muungano wa Tanzania
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tanzanian
+altspellings:
+    - Tanzania
+    - Tansania
+    - Tanzanie
+    - タンザニア
+    - Tanzania United Republic
+    - TZ
+    - Tanzania, United Republic of
+    - United Republic of Tanzania
+    - Jamhuri ya Muungano wa Tanzania
 tlds:
-- .tz
+    - .tz
 languages:
-  eng: English
-  swa: Swahili
+    en: ""
+    eng: English
+    sw: ""
+    swa: Swahili
 translations:
-  FRA:
-    common: Tanzanie
-    official: République -Unie de Tanzanie
-  HRV:
-    common: Tanzanija
-    official: Ujedinjena Republika Tanzanija
-  JPN:
-    common: タンザニア
-    official: タンザニア連合共和国
-  NLD:
-    common: Tanzania
-    official: Verenigde Republiek Tanzania
-  POR:
-    common: Tanzânia
-    official: República Unida da Tanzânia
-  SPA:
-    common: Tanzania
-    official: República Unida de Tanzania
+    ARA:
+        common: تنزانيا
+        official: جمهورية تنزانيا الاتحادية
+    CES:
+        common: Tanzanie
+        official: Sjednocená tanzanská republika
+    DEU:
+        common: Tansania
+        official: Vereinigte Republik Tansania
+    EST:
+        common: Tansaania
+        official: Tansaania Ühendvabariik
+    FIN:
+        common: Tansania
+        official: Tansanian yhdistynyt tasavalta
+    FRA:
+        common: Tanzanie
+        official: République -Unie de Tanzanie
+    HRV:
+        common: Tanzanija
+        official: Ujedinjena Republika Tanzanija
+    HUN:
+        common: Tádzsikisztán
+        official: Tádzsik Köztársaság
+    ITA:
+        common: Tanzania
+        official: Repubblica Unita di Tanzania
+    JPN:
+        common: タンザニア
+        official: タンザニア連合共和国
+    KOR:
+        common: 탄자니아
+        official: 탄자니아 연합 공화국
+    NLD:
+        common: Tanzania
+        official: Verenigde Republiek Tanzania
+    PER:
+        common: تانزانیا
+        official: جمهوری متحد تانزانیا
+    POL:
+        common: Tanzania
+        official: Zjednoczona Republika Tanzanii
+    POR:
+        common: Tanzânia
+        official: República Unida da Tanzânia
+    RUS:
+        common: Танзания
+        official: Объединенная Республика Танзания
+    SLK:
+        common: Tanzánia
+        official: Tanzánijská zjednotená republika
+    SPA:
+        common: Tanzania
+        official: República Unida de Tanzania
+    SRP:
+        common: Tanzanija
+        official: Ujedinjena Republika Tanzanija
+    SWE:
+        common: Tanzania
+        official: Förenade republiken Tanzania
+    TUR:
+        common: Tanzanya
+        official: Tanzanya Birleşik Cumhuriyeti
+    URD:
+        common: تنزانیہ
+        official: متحدہ جمہوریہ تنزانیہ
+    ZHO:
+        common: 坦桑尼亚
+        official: 坦桑尼亚联合共和国
 currencies:
-- TZS
+    - TZS
 borders:
-- BDI
-- COD
-- KEN
-- MWI
-- MOZ
-- RWA
-- UGA
-- ZMB
+    - BDI
+    - COD
+    - KEN
+    - MWI
+    - MOZ
+    - RWA
+    - UGA
+    - ZMB
 codes:
-  alpha2: TZ
-  alpha3: TZA
-  cioc: TAN
-  ccn3: "834"
-  callingcodes:
-  - "255"
-  internationalprefix: "000"
+    alpha2: TZ
+    alpha3: TZA
+    cioc: TAN
+    ccn3: "834"
+    callingcodes:
+        - "255"
+    internationalprefix: "000"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Dodoma
-  area: 945087
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Dodoma
+    area: 945087
 coordinates:
-  longitudestring: 35 00 E
-  latitudestring: 6 00 S
-  minlongitude: 29.583332
-  minlatitude: -11.7
-  maxlongitude: 40.433334
-  maxlatitude: 0.833333
-  latitude: -6.306897
-  longitude: 34.853928
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.34
+    minlatitude: -11.7612539
+    maxlongitude: 40.6398
+    maxlatitude: -0.9843968000000001
+    latitude: -6.369028
+    longitude: 34.888822

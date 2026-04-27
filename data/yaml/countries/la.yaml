@@ -1,67 +1,124 @@
 name:
-  common: Laos
-  official: Lao People's Democratic Republic
-  native:
-    lao:
-      common: ສປປລາວ
-      official: ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ
+    common: Lao People's Democratic Republic
+    official: The Lao People's Democratic Republic
+    native:
+        lao:
+            common: ສປປລາວ
+            official: ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Laotian
+altspellings:
+    - Laos
+    - ラオス人民民主共和国
+    - Lao People s Democratic Republic
+    - LA
+    - Lao
+    - Lao People's Democratic Republic
+    - Sathalanalat Paxathipatai Paxaxon Lao
 tlds:
-- .la
+    - .la
 languages:
-  lao: Lao
+    lao: Lao
+    lo: ""
 translations:
-  DEU:
-    common: Laos
-    official: Laos, Demokratische Volksrepublik
-  FRA:
-    common: Laos
-    official: République démocratique populaire lao
-  ITA:
-    common: Laos
-    official: Repubblica democratica popolare del Laos
-  JPN:
-    common: ラオス人民民主共和国
-    official: ラオス人民民主共和国
-  NLD:
-    common: Laos
-    official: Lao Democratische Volksrepubliek
-  POR:
-    common: Laos
-    official: Laos, República Democrática
-  SPA:
-    common: Laos
-    official: República Democrática Popular Lao
+    ARA:
+        common: لاوس
+        official: جمهورية لاوس الديمقراطية الشعبية
+    CES:
+        common: Laos
+        official: Laoská lidově demokratická republika
+    DEU:
+        common: Laos
+        official: Demokratische Volksrepublik Laos
+    EST:
+        common: Laos
+        official: Laose Demokraatlik Rahvavabariik
+    FIN:
+        common: Laos
+        official: Laosin demokraattinen kansantasavalta
+    FRA:
+        common: Laos
+        official: République démocratique populaire lao
+    HRV:
+        common: Laos
+        official: Narodna Demokratska Republika
+    HUN:
+        common: Laosz
+        official: Laoszi Népi Demokratikus Köztársaság
+    ITA:
+        common: Laos
+        official: Repubblica democratica popolare del Laos
+    JPN:
+        common: ラオス
+        official: ラオス人民民主共和国
+    KOR:
+        common: 라오스
+        official: 라오 인민 민주 공화국
+    NLD:
+        common: Laos
+        official: Lao Democratische Volksrepubliek
+    PER:
+        common: لائوس
+        official: جمهوری دموکراتیک خلق لائوس
+    POL:
+        common: Laos
+        official: Laotańska Republika Ludowo-Demokratyczna
+    POR:
+        common: Laos
+        official: Laos, República Democrática
+    RUS:
+        common: Лаос
+        official: Лаосская Народно-Демократическая Республика
+    SLK:
+        common: Laos
+        official: Laoská ľudovodemokratická republika
+    SPA:
+        common: Laos
+        official: República Democrática Popular Lao
+    SRP:
+        common: Laos
+        official: Narodna Demokratska Republika Laos
+    SWE:
+        common: Laos
+        official: Demokratiska folkrepubliken Laos
+    TUR:
+        common: Laos
+        official: Laos Demokratik Halk Cumhuriyeti
+    URD:
+        common: لاؤس
+        official: عوامی جمہوری جمہوریہ لاؤ
+    ZHO:
+        common: 老挝
+        official: 老挝人民民主共和国
 currencies:
-- LAK
+    - LAK
 borders:
-- MMR
-- KHM
-- CHN
-- THA
-- VNM
+    - MMR
+    - KHM
+    - CHN
+    - THA
+    - VNM
 codes:
-  alpha2: LA
-  alpha3: LAO
-  cioc: LAO
-  ccn3: "418"
-  callingcodes:
-  - "856"
-  internationalprefix: "00"
+    alpha2: LA
+    alpha3: LAO
+    cioc: LAO
+    ccn3: "418"
+    callingcodes:
+        - "856"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Vientiane
-  area: 236800
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Vientiane
+    area: 236800
 coordinates:
-  longitudestring: 105 00 E
-  latitudestring: 18 00 N
-  minlongitude: 100.09583
-  minlatitude: 13.933333
-  maxlongitude: 107.63333
-  maxlatitude: 22.5
-  latitude: 18.65075
-  longitude: 104.15294
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 100.0832139
+    minlatitude: 13.9097198
+    maxlongitude: 107.635094
+    maxlatitude: 22.5090449
+    latitude: 19.85627
+    longitude: 102.495496

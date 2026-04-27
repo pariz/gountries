@@ -1,56 +1,114 @@
 name:
-  common: Martinique
-  official: Martinique
-  native:
-    fra:
-      common: Martinique
-      official: Martinique
-eumember: false
+    common: Martinique
+    official: Martinique
+    native:
+        fra:
+            common: Martinique
+            official: Martinique
+eumember: true
 landlocked: false
-nationality: ""
+nationality: French
+altspellings:
+    - Martinique
+    - Martinica
+    - マルティニーク
+    - MQ
 tlds:
-- .mq
+    - .mq
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Martinique
-    official: Martinique
-  FRA:
-    common: Martinique
-    official: Martinique
-  ITA:
-    common: Martinica
-    official: Martinique
-  JPN:
-    common: マルティニーク
-    official: マルティニーク島
-  SPA:
-    common: Martinica
-    official: Martinica
+    ARA:
+        common: مارتينيك
+        official: مارتينيك
+    CES:
+        common: Martinik
+        official: Martinik
+    DEU:
+        common: Martinique
+        official: Martinique
+    EST:
+        common: Martinique
+        official: Martinique’i departemang
+    FIN:
+        common: Martinique
+        official: Martinique
+    FRA:
+        common: Martinique
+        official: Martinique
+    HRV:
+        common: Martinique
+        official: Martinique
+    HUN:
+        common: Martinique
+        official: Martinique
+    ITA:
+        common: Martinica
+        official: Martinique
+    JPN:
+        common: マルティニーク
+        official: マルチニーク島
+    KOR:
+        common: 마르티니크
+        official: 마르티니크
+    NLD:
+        common: Martinique
+        official: Martinique
+    PER:
+        common: مارتینیک
+        official: مارتینیک
+    POL:
+        common: Martynika
+        official: Martynika
+    POR:
+        common: Martinica
+        official: Martinique
+    RUS:
+        common: Мартиника
+        official: Мартиника
+    SLK:
+        common: Martinique
+        official: Martinique
+    SPA:
+        common: Martinica
+        official: Martinica
+    SRP:
+        common: Martinik
+        official: Martinik
+    SWE:
+        common: Martinique
+        official: Martinique
+    TUR:
+        common: Martinik
+        official: Martinik
+    URD:
+        common: مارٹینیک
+        official: مارٹینیک
+    ZHO:
+        common: 马提尼克
+        official: 马提尼克
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: MQ
-  alpha3: MTQ
-  cioc: ""
-  ccn3: "474"
-  callingcodes:
-  - "596"
-  internationalprefix: "00"
+    alpha2: MQ
+    alpha3: MTQ
+    ccn3: "474"
+    callingcodes:
+        - "596"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Fort-de-France
-  area: 1128
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Fort-de-France
+    area: 1128
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: -61.966667
-  minlatitude: 14.383333
-  maxlongitude: -60.816666
-  maxlatitude: 14.866667
-  latitude: 14.642808
-  longitude: -60.977554
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.24191279999999
+    minlatitude: 14.370834
+    maxlongitude: -60.7856368
+    maxlatitude: 14.8973451
+    latitude: 14.641528
+    longitude: -61.024174

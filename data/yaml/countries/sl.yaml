@@ -1,55 +1,118 @@
 name:
-  common: Sierra Leone
-  official: Republic of Sierra Leone
-  native:
-    eng:
-      common: Sierra Leone
-      official: Republic of Sierra Leone
+    common: Sierra Leone
+    official: The Republic of Sierra Leone
+    native:
+        eng:
+            common: Sierra Leone
+            official: Republic of Sierra Leone
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sierra Leonean
+altspellings:
+    - Sierra Leone
+    - シエラレオネ
+    - SL
+    - Republic of Sierra Leone
 tlds:
-- .sl
+    - .sl
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Sierra Leone
-    official: Republik Sierra Leone
-  FIN:
-    common: Sierra Leone
-    official: Sierra Leonen tasavalta
-  NLD:
-    common: Sierra Leone
-    official: Republiek Sierra Leone
-  SPA:
-    common: Sierra Leone
-    official: República de Sierra Leona
+    ARA:
+        common: سيراليون
+        official: جمهورية سيراليون
+    CES:
+        common: Sierra Leone
+        official: Republika Sierra Leone
+    DEU:
+        common: Sierra Leone
+        official: Republik Sierra Leone
+    EST:
+        common: Sierra Leone
+        official: Sierra Leone Vabariik
+    FIN:
+        common: Sierra Leone
+        official: Sierra Leonen tasavalta
+    FRA:
+        common: Sierra Leone
+        official: République de Sierra Leone
+    HRV:
+        common: Sijera Leone
+        official: Republika Sijera Leone
+    HUN:
+        common: Sierra Leone
+        official: Sierra Leone Köztársaság
+    ITA:
+        common: Sierra Leone
+        official: Repubblica della Sierra Leone
+    JPN:
+        common: シエラレオネ
+        official: シエラレオネ共和国
+    KOR:
+        common: 시에라리온
+        official: 시에라리온 공화국
+    NLD:
+        common: Sierra Leone
+        official: Republiek Sierra Leone
+    PER:
+        common: سیرالئون
+        official: جمهوری سیرالئون
+    POL:
+        common: Sierra Leone
+        official: Sierra Leone
+    POR:
+        common: Serra Leoa
+        official: República da Serra Leoa
+    RUS:
+        common: Сьерра-Леоне
+        official: Республика Сьерра-Леоне
+    SLK:
+        common: Sierra Leone
+        official: Sierraleonská republika
+    SPA:
+        common: Sierra Leone
+        official: República de Sierra Leona
+    SRP:
+        common: Sijera Leone
+        official: Republika Sijera Leone
+    SWE:
+        common: Sierra Leone
+        official: Republiken Sierra Leone
+    TUR:
+        common: Sierra Leone
+        official: Sierra Leone Cumhuriyeti
+    URD:
+        common: سیرالیون
+        official: جمہوریہ سیرالیون
+    ZHO:
+        common: 塞拉利昂
+        official: 塞拉利昂共和国
 currencies:
-- SLL
+    - SLE
 borders:
-- GIN
-- LBR
+    - GIN
+    - LBR
 codes:
-  alpha2: SL
-  alpha3: SLE
-  cioc: SLE
-  ccn3: "694"
-  callingcodes:
-  - "232"
-  internationalprefix: "00"
+    alpha2: SL
+    alpha3: SLE
+    cioc: SLE
+    ccn3: "694"
+    callingcodes:
+        - "232"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Freetown
-  area: 71740
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Freetown
+    area: 71740
 coordinates:
-  longitudestring: 11 30 W
-  latitudestring: 8 30 N
-  minlongitude: -13.316667
-  minlatitude: 5
-  maxlongitude: -4
-  maxlatitude: 10
-  latitude: 8.521441
-  longitude: -11.84389
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.4032999
+    minlatitude: 6.8446
+    maxlongitude: -10.2716829
+    maxlatitude: 9.9999737
+    latitude: 8.460555
+    longitude: -11.779889

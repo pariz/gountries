@@ -1,67 +1,129 @@
 name:
-  common: Timor-Leste
-  official: Democratic Republic of Timor-Leste
-  native:
-    por:
-      common: Timor-Leste
-      official: República Democrática de Timor-Leste
-    tet:
-      common: Timór-Leste
-      official: Repúblika Demokrátika Timór-Leste
+    common: Timor-Leste
+    official: The Democratic Republic of Timor-Leste
+    native:
+        por:
+            common: Timor-Leste
+            official: República Democrática de Timor-Leste
+        tet:
+            common: Timór-Leste
+            official: Repúblika Demokrátika Timór-Leste
 eumember: false
 landlocked: false
-nationality: ""
+nationality: East Timorese
+altspellings:
+    - East Timor
+    - Timor-Leste
+    - Timor oriental
+    - 東ティモール
+    - Oost-Timor
+    - TL
+    - Timor
+    - Democratic Republic of Timor-Leste
+    - República Democrática de Timor-Leste
+    - Repúblika Demokrátika Timór-Leste
+    - Timór Lorosa'e
+    - Timor Lorosae
 tlds:
-- .tl
+    - .tl
 languages:
-  por: Portuguese
-  tet: Tetum
+    por: Portuguese
+    pt: ""
+    tet: Tetum
 translations:
-  DEU:
-    common: Timor-Leste
-    official: Demokratische Republik Timor-Leste
-  FIN:
-    common: Itä-Timor
-    official: Itä-Timorin demokraattinen tasavalta
-  HRV:
-    common: Istočni Timor
-    official: Demokratska Republika Timor-Leste
-  ITA:
-    common: Timor Est
-    official: Repubblica Democratica di Timor Est
-  JPN:
-    common: 東ティモール
-    official: 東ティモール民主共和国
-  NLD:
-    common: Oost-Timor
-    official: Democratische Republiek Oost-Timor
-  POR:
-    common: Timor-Leste
-    official: República Democrática de Timor-Leste
+    ARA:
+        common: تيمور الشرقية
+        official: جمهورية تيمور الشرقية الديمقراطية
+    CES:
+        common: Východní Timor
+        official: Demokratická republika Východní Timor
+    DEU:
+        common: Osttimor
+        official: Demokratische Republik Timor-Leste
+    EST:
+        common: Ida-Timor
+        official: Timor-Leste Demokraatlik Vabariik
+    FIN:
+        common: Itä-Timor
+        official: Itä-Timorin demokraattinen tasavalta
+    FRA:
+        common: Timor oriental
+        official: République démocratique du Timor oriental
+    HRV:
+        common: Istočni Timor
+        official: Demokratska Republika Timor-Leste
+    HUN:
+        common: Kelet-Timor
+        official: Kelet-timori Demokratikus Köztársaság
+    ITA:
+        common: Timor Est
+        official: Repubblica Democratica di Timor Est
+    JPN:
+        common: 東ティモール
+        official: 東ティモール民主共和国
+    KOR:
+        common: 동티모르
+        official: 동티모르 민주 공화국
+    NLD:
+        common: Oost-Timor
+        official: Democratische Republiek Oost-Timor
+    PER:
+        common: تیمور شرقی
+        official: جمهوری دموکراتیک تیمور شرقی
+    POL:
+        common: Timor Wschodni
+        official: Demokratyczna Republika Timoru Wschodniego
+    POR:
+        common: Timor-Leste
+        official: República Democrática de Timor-Leste
+    RUS:
+        common: Восточный Тимор
+        official: Демократическая Республика Тимор -Лешти
+    SLK:
+        common: Východný Timor
+        official: Východotimorská demokratická republika
+    SPA:
+        common: Timor Oriental
+        official: República Democrática de Timor-Leste
+    SRP:
+        common: Istočni Timor
+        official: Demokratska Republika Istočni Timor
+    SWE:
+        common: Östtimor
+        official: Demokratiska republiken Östtimor
+    TUR:
+        common: Doğu Timor
+        official: Doğu Timor Demokratik Cumhuriyeti
+    URD:
+        common: مشرقی تیمور
+        official: جمہوری جمہوریہ مشرقی تیمور
+    ZHO:
+        common: 东帝汶
+        official: 东帝汶民主共和国
 currencies:
-- USD
+    - IDR
 borders:
-- IDN
+    - IDN
 codes:
-  alpha2: TL
-  alpha3: TLS
-  cioc: TLS
-  ccn3: "626"
-  callingcodes:
-  - "670"
-  internationalprefix: None
+    alpha2: TL
+    alpha3: TLS
+    cioc: TLS
+    ccn3: "626"
+    callingcodes:
+        - "670"
+    internationalprefix: None
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Dili
-  area: 14874
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Dili
+    area: 14874
 coordinates:
-  longitudestring: 125 55 E
-  latitudestring: 8 50 S
-  minlongitude: 124.085556
-  minlatitude: -9.469722
-  maxlongitude: 127.33667
-  maxlatitude: -7.597222
-  latitude: -8.804787
-  longitude: 126.079025
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.0332
+    minlatitude: -9.5303001
+    maxlongitude: 127.4249
+    maxlatitude: -8.048399999999999
+    latitude: -8.874217
+    longitude: 125.727539

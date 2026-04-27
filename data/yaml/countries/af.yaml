@@ -1,64 +1,133 @@
 name:
-  common: Afghanistan
-  official: Islamic Republic of Afghanistan
-  native:
-    prs:
-      common: افغانستان
-      official: جمهوری اسلامی افغانستان
-    pus:
-      common: افغانستان
-      official: د افغانستان اسلامي جمهوریت
-    tuk:
-      common: Owganystan
-      official: Owganystan Yslam Respublikasy
+    common: Afghanistan
+    official: The Islamic Republic of Afghanistan
+    native:
+        prs:
+            common: افغانستان
+            official: جمهوری اسلامی افغانستان
+        pus:
+            common: افغانستان
+            official: د افغانستان اسلامي جمهوریت
+        tuk:
+            common: Owganystan
+            official: Owganystan Yslam Respublikasy
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Afghan
+altspellings:
+    - Afghanistan
+    - Afganistán
+    - アフガニスタン
+    - AF
+    - Afġānistān
 tlds:
-- .af
+    - .af
 languages:
-  prs: Dari
-  pus: Pashto
-  tuk: Turkmen
+    prs: Dari
+    ps: ""
+    pus: Pashto
+    tk: ""
+    tuk: Turkmen
+    uz: ""
 translations:
-  CYM:
-    common: Affganistan
-    official: Islamic Republic of Afghanistan
-  NLD:
-    common: Afghanistan
-    official: Islamitische Republiek Afghanistan
-  RUS:
-    common: Афганистан
-    official: Исламская Республика Афганистан
+    ARA:
+        common: أفغانستان
+        official: جمهورية أففانستان الإسلامية
+    CES:
+        common: Afghánistán
+        official: Afghánská islámská republika
+    DEU:
+        common: Afghanistan
+        official: Islamische Republik Afghanistan
+    EST:
+        common: Afganistan
+        official: Afganistani Islamivabariik
+    FIN:
+        common: Afganistan
+        official: Afganistanin islamilainen tasavalta
+    FRA:
+        common: Afghanistan
+        official: République islamique d'Afghanistan
+    HRV:
+        common: Afganistan
+        official: Islamska Republika Afganistan
+    HUN:
+        common: Afganisztán
+        official: Afganisztáni Iszlám Köztársaság
+    ITA:
+        common: Afghanistan
+        official: Repubblica islamica dell'Afghanistan
+    JPN:
+        common: アフガニスタン
+        official: アフガニスタン・イスラム共和国
+    KOR:
+        common: 아프가니스탄
+        official: 아프가니스탄 이슬람 공화국
+    NLD:
+        common: Afghanistan
+        official: Islamitische Republiek Afghanistan
+    PER:
+        common: افغانستان
+        official: جمهوری اسلامی افغانستان
+    POL:
+        common: Afganistan
+        official: Islamska Republika Afganistanu
+    POR:
+        common: Afeganistão
+        official: República Islâmica do Afeganistão
+    RUS:
+        common: Афганистан
+        official: Исламская Республика Афганистан
+    SLK:
+        common: Afganistan
+        official: Afgánsky islamský štát
+    SPA:
+        common: Afganistán
+        official: República Islámica de Afganistán
+    SRP:
+        common: Avganistan
+        official: Islamska Republika Avganistan
+    SWE:
+        common: Afghanistan
+        official: Islamiska republiken Afghanistan
+    TUR:
+        common: Afganistan
+        official: Afganistan İslam Cumhuriyeti
+    URD:
+        common: افغانستان
+        official: اسلامی جمہوریہ افغانستان
+    ZHO:
+        common: 阿富汗
+        official: 阿富汗伊斯兰共和国
 currencies:
-- AFN
+    - AFN
 borders:
-- IRN
-- PAK
-- TKM
-- UZB
-- TJK
-- CHN
+    - IRN
+    - PAK
+    - TKM
+    - UZB
+    - TJK
+    - CHN
 codes:
-  alpha2: AF
-  alpha3: AFG
-  cioc: AFG
-  ccn3: "004"
-  callingcodes:
-  - "93"
-  internationalprefix: "00"
+    alpha2: AF
+    alpha3: AFG
+    cioc: AFG
+    ccn3: "004"
+    callingcodes:
+        - "93"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Kabul
-  area: 652230
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Kabul
+    area: 652230
 coordinates:
-  longitudestring: 65 00 E
-  latitudestring: 33 00 N
-  minlongitude: 60.566666
-  minlatitude: 29.383333
-  maxlongitude: 74.88687
-  maxlatitude: 38.483612
-  latitude: 33.83325
-  longitude: 66.02528
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 60.5170005
+    minlatitude: 29.3772
+    maxlongitude: 74.8898619
+    maxlatitude: 38.49087670000001
+    latitude: 33.93911
+    longitude: 67.709953

@@ -1,61 +1,59 @@
-- name: Zaporiz'ka Oblast'
+- name: Vinnyts'ka Oblast'
   names:
-  - Zaporizhzhya
-  - Zaporizka
-  - Zaporozhye
-  - Zaporožje
-  code: "23"
+    - Vinnica
+    - Vinnitsa
+    - Vinnytska
+    - Vinnytsya
+  code: "05"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 34.24551
-    minlatitude: 46.264236
-    maxlongitude: 37.24505
-    maxlatitude: 48.14402
-    latitude: 47.8388
-    longitude: 35.13957
-- name: Chernivets'ka Oblast'
-  names:
-  - Cernăuţi
-  - Chernivtsi
-  - Chernivtsy
-  - Chernovtsy
-  - Czernowitz
-  - Tschernowitz
-  - Černovcy
-  code: "77"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.908173
-    minlatitude: 47.725166
-    maxlongitude: 27.533325
-    maxlatitude: 48.675915
-    latitude: 48.291683
-    longitude: 25.935217
+    minlongitude: 27.37479
+    minlatitude: 48.064971
+    maxlongitude: 30.022071
+    maxlatitude: 49.889537
+    latitude: 49.233083
+    longitude: 28.468217
 - name: Volyns'ka Oblast'
   names:
-  - Volyn
-  - Volynska
+    - Volyn
+    - Volynska
   code: "07"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 23.603933
-    minlatitude: 50.287193
-    maxlongitude: 26.106283
-    maxlatitude: 51.96924
-    latitude: 50.747234
-    longitude: 25.325382
+    minlatitude: 50.2871931
+    maxlongitude: 26.1062831
+    maxlatitude: 51.969238
+    latitude: 50.74723299999999
+    longitude: 25.325383
+- name: Luhans'ka Oblast'
+  names:
+    - Lugansk
+    - Luhanska
+    - Luhansʿk
+    - Voroshilovgrad
+    - Vorošilovgrad
+  code: "09"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.83751609999999
+    minlatitude: 47.825031
+    maxlongitude: 40.2275119
+    maxlatitude: 50.088428
+    latitude: 48.574041
+    longitude: 39.307815
 - name: Dnipropetrovs'ka Oblast'
   names:
-  - Dnepropetrovsk
-  - Dnipropetrovsk
-  - Dnipropetrovska
-  - Dnjepropetrovsk
+    - Dnepropetrovsk
+    - Dnipropetrovsk
+    - Dnipropetrovska
+    - Dnjepropetrovsk
   code: "12"
   countryalpha2: UA
   coordinates:
@@ -63,30 +61,46 @@
     latitudestring: ""
     minlongitude: 32.959522
     minlatitude: 47.481922
-    maxlongitude: 36.936443
-    maxlatitude: 49.193474
-    latitude: 48.464718
-    longitude: 35.046185
+    maxlongitude: 36.9364431
+    maxlatitude: 49.193473
+    latitude: 48.464717
+    longitude: 35.046183
+- name: Donets'ka Oblast'
+  names:
+    - Doneck
+    - Donetska
+    - Donetsʿka
+  code: "14"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.541492
+    minlatitude: 46.867733
+    maxlongitude: 39.09210179999999
+    maxlatitude: 49.236797
+    latitude: 48.015883
+    longitude: 37.80285
 - name: Zhytomyrs'ka Oblast'
   names:
-  - Zhitomir
-  - Zhytomyrska
+    - Zhitomir
+    - Zhytomyrska
   code: "18"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 27.189724
-    minlatitude: 49.58293
-    maxlongitude: 29.735462
-    maxlatitude: 51.681896
+    minlongitude: 27.1897231
+    minlatitude: 49.58293099999999
+    maxlongitude: 29.7354618
+    maxlatitude: 51.6818959
     latitude: 50.25465
     longitude: 28.658667
 - name: Zakarpats'ka Oblast'
   names:
-  - Transcarpathia
-  - Zakarpatska
-  - Zakarpatsʿka Oblast
+    - Transcarpathia
+    - Zakarpatska
+    - Zakarpatsʿka Oblast
   code: "21"
   countryalpha2: UA
   coordinates:
@@ -95,251 +109,31 @@
     minlongitude: 22.135906
     minlatitude: 47.896507
     maxlongitude: 24.627378
-    maxlatitude: 49.097557
+    maxlatitude: 49.09755699999999
     latitude: 48.6208
-    longitude: 22.287884
-- name: Kyïvs'ka Oblast'
+    longitude: 22.287883
+- name: Zaporiz'ka Oblast'
   names:
-  - Kyyivsʿka Oblast
-  - Kyyivsʿka Oblastʿ
-  code: "32"
+    - Zaporizhzhya
+    - Zaporizka
+    - Zaporozhye
+    - Zaporožje
+  code: "23"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 29.266418
-    minlatitude: 49.17912
-    maxlongitude: 32.160736
-    maxlatitude: 51.554012
-    latitude: 50.05295
-    longitude: 30.766714
-- name: Sevastopol'
-  names:
-  - Sebastopol
-  - Sevastopol
-  code: "40"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.378548
-    minlatitude: 44.387115
-    maxlongitude: 33.897495
-    maxlatitude: 44.841316
-    latitude: 44.61665
-    longitude: 33.525368
-- name: L'vivs'ka Oblast'
-  names:
-  - Lvivska
-  - Lvov
-  - Lʿviv
-  code: "46"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.640676
-    minlatitude: 48.71898
-    maxlongitude: 25.426912
-    maxlatitude: 50.648884
-    latitude: 49.839684
-    longitude: 24.029716
-- name: Ternopil's'ka Oblast'
-  names:
-  - Ternopil
-  - Ternopilska
-  - Ternopol
-  code: "61"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.718487
-    minlatitude: 48.507534
-    maxlongitude: 26.443405
-    maxlatitude: 50.267216
-    latitude: 49.553516
-    longitude: 25.594767
-- name: Kirovohrads'ka Oblast'
-  names:
-  - Kirovograd
-  - Kirovohrad
-  - Kirovohradska
-  code: "35"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 29.749174
-    minlatitude: 47.749134
-    maxlongitude: 33.889153
-    maxlatitude: 49.16515
-    latitude: 48.507935
-    longitude: 32.262318
-- name: Respublika Krym
-  names:
-  - Crimea
-  - Krim
-  code: "43"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.479275
-    minlatitude: 44.38644
-    maxlongitude: 36.64674
-    maxlatitude: 46.22916
-    latitude: 44.952118
-    longitude: 34.102417
-- name: Rivnens'ka Oblast'
-  names:
-  - Rivne
-  - Rivnenska
-  - Rovno
-  - Równe
-  code: "56"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.083782
-    minlatitude: 50.004356
-    maxlongitude: 27.729513
-    maxlatitude: 51.94986
-    latitude: 50.6199
-    longitude: 26.251617
-- name: Kyïv
-  names:
-  - Kyiv
-  - Kyyiv
-  - Kiev
-  code: "30"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.23944
-    minlatitude: 50.213272
-    maxlongitude: 30.825941
-    maxlatitude: 50.590797
-    latitude: 50.4501
-    longitude: 30.5234
-- name: Mykolaïvs'ka Oblast'
-  names:
-  - Mykolayivsk
-  - Mykolayivska
-  - Nikolajev
-  - Nikolayev
-  code: "48"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.207552
-    minlatitude: 46.368908
-    maxlongitude: 33.183647
-    maxlatitude: 48.231674
-    latitude: 46.975033
-    longitude: 31.994583
-- name: Poltavs'ka Oblast'
-  names:
-  - Poltava
-  - Poltavska
-  code: "53"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.08675
-    minlatitude: 48.742985
-    maxlongitude: 35.49045
-    maxlatitude: 50.553505
-    latitude: 49.58827
-    longitude: 34.55142
-- name: Sums'ka Oblast'
-  names:
-  - Sumska
-  - Sumy
-  code: "59"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.943535
-    minlatitude: 50.109886
-    maxlongitude: 35.692715
-    maxlatitude: 52.367214
-    latitude: 50.9077
-    longitude: 34.7981
-- name: Khersons'ka Oblast'
-  names:
-  - Herson
-  - Kherson
-  - Khersonska
-  code: "65"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.512495
-    minlatitude: 45.760708
-    maxlongitude: 35.281548
-    maxlatitude: 47.600048
-    latitude: 46.635418
-    longitude: 32.616867
-- name: Khmel'nyts'ka Oblast'
-  names:
-  - Hmelnickij
-  - Khmelnitsky
-  - Khmelnytska
-  - Khmelnytskyy
-  code: "68"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.133
-    minlatitude: 48.45166
-    maxlongitude: 27.898447
-    maxlatitude: 50.594765
-    latitude: 49.42298
-    longitude: 26.987133
-- name: Cherkas'ka Oblast'
-  names:
-  - Cherkask
-  - Cherkassy
-  code: "71"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 29.606396
-    minlatitude: 48.451916
-    maxlongitude: 32.8738
-    maxlatitude: 50.228657
-    latitude: 49.44443
-    longitude: 32.05977
-- name: Donets'ka Oblast'
-  names:
-  - Doneck
-  - Donetska
-  - Donetsʿka
-  code: "14"
-  countryalpha2: UA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 36.541492
-    minlatitude: 46.867733
-    maxlongitude: 39.092102
-    maxlatitude: 49.236797
-    latitude: 48.015884
-    longitude: 37.80285
+    minlongitude: 34.245512
+    minlatitude: 46.2642371
+    maxlongitude: 37.2450479
+    maxlatitude: 48.14402
+    latitude: 47.8388
+    longitude: 35.139567
 - name: Ivano-Frankivs'ka Oblast'
   names:
-  - Ivano-Frankivsk
-  - Ivano-Frankivska
-  - Ivano-Frankovsk
+    - Ivano-Frankivsk
+    - Ivano-Frankivska
+    - Ivano-Frankovsk
   code: "26"
   countryalpha2: UA
   coordinates:
@@ -347,91 +141,297 @@
     latitudestring: ""
     minlongitude: 23.545547
     minlatitude: 47.724266
-    maxlongitude: 25.65299
-    maxlatitude: 49.559586
-    latitude: 48.922634
+    maxlongitude: 25.6529901
+    maxlatitude: 49.559585
+    latitude: 48.922633
     longitude: 24.711117
-- name: Luhans'ka Oblast'
+- name: Kyïv
   names:
-  - Lugansk
-  - Luhanska
-  - Luhansʿk
-  - Voroshilovgrad
-  - Vorošilovgrad
-  code: "09"
+    - Kyiv
+    - Kyyiv
+    - Kiev
+  code: "30"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 37.837517
-    minlatitude: 47.82503
-    maxlongitude: 40.227512
-    maxlatitude: 50.08843
-    latitude: 48.57404
-    longitude: 39.307816
-- name: Vinnyts'ka Oblast'
+    minlongitude: 30.2394401
+    minlatitude: 50.213273
+    maxlongitude: 30.825941
+    maxlatitude: 50.590798
+    latitude: 50.4501
+    longitude: 30.5234
+- name: Kyïvs'ka Oblast'
   names:
-  - Vinnica
-  - Vinnitsa
-  - Vinnytska
-  - Vinnytsya
-  code: "05"
+    - Kyyivsʿka Oblast
+    - Kyyivsʿka Oblastʿ
+  code: "32"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 27.37479
-    minlatitude: 48.064972
-    maxlongitude: 30.022072
-    maxlatitude: 49.889538
-    latitude: 49.23308
-    longitude: 28.468218
-- name: Kharkivs'ka Oblast'
+    minlongitude: 29.2664181
+    minlatitude: 49.1791191
+    maxlongitude: 32.160736
+    maxlatitude: 51.554014
+    latitude: 50.0529506
+    longitude: 30.7667133
+- name: Kirovohrads'ka Oblast'
   names:
-  - Harkov
-  - Kharkiv
-  - Kharkivska
-  - Kharkov
-  code: "63"
+    - Kirovograd
+    - Kirovohrad
+    - Kirovohradska
+  code: "35"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 34.856335
-    minlatitude: 48.531376
-    maxlongitude: 38.095306
-    maxlatitude: 50.45939
-    latitude: 49.9935
-    longitude: 36.230385
+    minlongitude: 29.749174
+    minlatitude: 47.749134
+    maxlongitude: 33.8891529
+    maxlatitude: 49.1651489
+    latitude: 48.50793300000001
+    longitude: 32.262317
+- name: Sevastopol'
+  names:
+    - Sebastopol
+    - Sevastopol
+  code: "40"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.3785472
+    minlatitude: 44.387115
+    maxlongitude: 33.897497
+    maxlatitude: 44.841316
+    latitude: 44.61665
+    longitude: 33.525367
+- name: Respublika Krym
+  names:
+    - Crimea
+    - Krim
+  code: "43"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.4792759
+    minlatitude: 44.3864399
+    maxlongitude: 36.6467392
+    maxlatitude: 46.2291611
+    latitude: 44.952117
+    longitude: 34.102417
+- name: L'vivs'ka Oblast'
+  names:
+    - Lvivska
+    - Lvov
+    - Lʿviv
+  code: "46"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.6406759
+    minlatitude: 48.7189779
+    maxlongitude: 25.426912
+    maxlatitude: 50.6488831
+    latitude: 49.839683
+    longitude: 24.029717
+- name: Mykolaïvs'ka Oblast'
+  names:
+    - Mykolayivsk
+    - Mykolayivska
+    - Nikolajev
+    - Nikolayev
+  code: "48"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.2075529
+    minlatitude: 46.36890890000001
+    maxlongitude: 33.183647
+    maxlatitude: 48.2316741
+    latitude: 46.975033
+    longitude: 31.994583
 - name: Odes'ka Oblast'
   names:
-  - Odesa
-  - Odeska
-  - Odessa
+    - Odesa
+    - Odeska
+    - Odessa
   code: "51"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.211239
+    minlongitude: 28.211238
     minlatitude: 45.204082
     maxlongitude: 31.305305
-    maxlatitude: 48.233307
-    latitude: 46.484585
+    maxlatitude: 48.233306
+    latitude: 46.484583
     longitude: 30.7326
+- name: Poltavs'ka Oblast'
+  names:
+    - Poltava
+    - Poltavska
+  code: "53"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.08674999999999
+    minlatitude: 48.742984
+    maxlongitude: 35.4904511
+    maxlatitude: 50.5535039
+    latitude: 49.58826699999999
+    longitude: 34.551417
+- name: Rivnens'ka Oblast'
+  names:
+    - Rivne
+    - Rivnenska
+    - Rovno
+    - Równe
+  code: "56"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.0837821
+    minlatitude: 50.0043561
+    maxlongitude: 27.729513
+    maxlatitude: 51.9498591
+    latitude: 50.6199
+    longitude: 26.251617
+- name: Sums'ka Oblast'
+  names:
+    - Sumska
+    - Sumy
+  code: "59"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.943534
+    minlatitude: 50.109886
+    maxlongitude: 35.6927141
+    maxlatitude: 52.367214
+    latitude: 50.9077
+    longitude: 34.7981
+- name: Ternopil's'ka Oblast'
+  names:
+    - Ternopil
+    - Ternopilska
+    - Ternopol
+  code: "61"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.718486
+    minlatitude: 48.507534
+    maxlongitude: 26.4434051
+    maxlatitude: 50.267215
+    latitude: 49.553517
+    longitude: 25.594767
+- name: Kharkivs'ka Oblast'
+  names:
+    - Harkov
+    - Kharkiv
+    - Kharkivska
+    - Kharkov
+  code: "63"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.8563339
+    minlatitude: 48.531375
+    maxlongitude: 38.09530609999999
+    maxlatitude: 50.459388
+    latitude: 49.9935
+    longitude: 36.230383
+- name: Khersons'ka Oblast'
+  names:
+    - Herson
+    - Kherson
+    - Khersonska
+  code: "65"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.5124959
+    minlatitude: 45.7607072
+    maxlongitude: 35.281549
+    maxlatitude: 47.600048
+    latitude: 46.635417
+    longitude: 32.616867
+- name: Khmel'nyts'ka Oblast'
+  names:
+    - Hmelnickij
+    - Khmelnitsky
+    - Khmelnytska
+    - Khmelnytskyy
+  code: "68"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.1329989
+    minlatitude: 48.4516599
+    maxlongitude: 27.8984479
+    maxlatitude: 50.594764
+    latitude: 49.422983
+    longitude: 26.987133
+- name: Cherkas'ka Oblast'
+  names:
+    - Cherkask
+    - Cherkassy
+  code: "71"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.6063949
+    minlatitude: 48.4519151
+    maxlongitude: 32.8737981
+    maxlatitude: 50.228656
+    latitude: 49.444433
+    longitude: 32.059767
 - name: Chernihivs'ka Oblast'
   names:
-  - Chernigov
-  - Chernihiv
-  - Černigov
+    - Chernigov
+    - Chernihiv
+    - Černigov
   code: "74"
   countryalpha2: UA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 30.497168
+    minlongitude: 30.49716799999999
     minlatitude: 50.345535
-    maxlongitude: 33.50096
-    maxlatitude: 52.37938
+    maxlongitude: 33.5009611
+    maxlatitude: 52.379379
     latitude: 51.4982
     longitude: 31.28935
+- name: Chernivets'ka Oblast'
+  names:
+    - Cernăuţi
+    - Chernivtsi
+    - Chernivtsy
+    - Chernovtsy
+    - Czernowitz
+    - Tschernowitz
+    - Černovcy
+  code: "77"
+  countryalpha2: UA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.908172
+    minlatitude: 47.72516599999999
+    maxlongitude: 27.533325
+    maxlatitude: 48.6759141
+    latitude: 48.291683
+    longitude: 25.935217

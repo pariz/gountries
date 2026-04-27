@@ -1,70 +1,127 @@
 name:
-  common: Vanuatu
-  official: Republic of Vanuatu
-  native:
-    bis:
-      common: Vanuatu
-      official: Ripablik blong Vanuatu
-    eng:
-      common: Vanuatu
-      official: Republic of Vanuatu
-    fra:
-      common: Vanuatu
-      official: République de Vanuatu
+    common: Vanuatu
+    official: The Republic of Vanuatu
+    native:
+        bis:
+            common: Vanuatu
+            official: Ripablik blong Vanuatu
+        eng:
+            common: Vanuatu
+            official: Republic of Vanuatu
+        fra:
+            common: Vanuatu
+            official: République de Vanuatu
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ni-Vanuatu
+altspellings:
+    - Vanuatu
+    - バヌアツ
+    - VU
+    - Republic of Vanuatu
+    - Ripablik blong Vanuatu
+    - République de Vanuatu
 tlds:
-- .vu
+    - .vu
 languages:
-  bis: Bislama
-  eng: English
-  fra: French
+    bi: ""
+    bis: Bislama
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Vanuatu
-    official: Vanuatu
-  FIN:
-    common: Vanuatu
-    official: Vanuatun tasavalta
-  HRV:
-    common: Vanuatu
-    official: Republika Vanuatu
-  ITA:
-    common: Vanuatu
-    official: Repubblica di Vanuatu
-  JPN:
-    common: バヌアツ
-    official: バヌアツ共和国
-  RUS:
-    common: Вануату
-    official: Республика Вануату
-  SPA:
-    common: Vanuatu
-    official: República de Vanuatu
+    ARA:
+        common: فانواتو
+        official: جمهورية فانواتو
+    CES:
+        common: Vanuatu
+        official: Republika Vanuatu
+    DEU:
+        common: Vanuatu
+        official: Vanuatu
+    EST:
+        common: Vanuatu
+        official: Vanuatu Vabariik
+    FIN:
+        common: Vanuatu
+        official: Vanuatun tasavalta
+    FRA:
+        common: Vanuatu
+        official: République de Vanuatu
+    HRV:
+        common: Vanuatu
+        official: Republika Vanuatu
+    HUN:
+        common: Vanuatu
+        official: Vanuatui Köztársaság
+    ITA:
+        common: Vanuatu
+        official: Repubblica di Vanuatu
+    JPN:
+        common: バヌアツ
+        official: バヌアツ共和国
+    KOR:
+        common: 바누아투
+        official: 바누아투 공화국
+    NLD:
+        common: Vanuatu
+        official: Republiek Vanuatu
+    PER:
+        common: وانواتو
+        official: جمهوری وانواتو
+    POL:
+        common: Vanuatu
+        official: Republika Vanuatu
+    POR:
+        common: Vanuatu
+        official: República de Vanuatu
+    RUS:
+        common: Вануату
+        official: Республика Вануату
+    SLK:
+        common: Vanuatu
+        official: Vanuatská republika
+    SPA:
+        common: Vanuatu
+        official: República de Vanuatu
+    SRP:
+        common: Vanuatu
+        official: Republika Vanuatu
+    SWE:
+        common: Vanuatu
+        official: Republiken Vanuatu
+    TUR:
+        common: Vanuatu
+        official: Vanuatu Cumhuriyeti
+    URD:
+        common: وانواتو
+        official: جمہوریہ وانواتو
+    ZHO:
+        common: 瓦努阿图
+        official: 瓦努阿图共和国
 currencies:
-- VUV
-borders: []
+    - VUV
 codes:
-  alpha2: VU
-  alpha3: VUT
-  cioc: VAN
-  ccn3: "548"
-  callingcodes:
-  - "678"
-  internationalprefix: "00"
+    alpha2: VU
+    alpha3: VUT
+    cioc: VAN
+    ccn3: "548"
+    callingcodes:
+        - "678"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Melanesia
-  continent: Australia
-  capital: Port Vila
-  area: 12189
+    region: Oceania
+    subregion: Melanesia
+    continent: Australia
+    capital: Port Vila
+    area: 12189
 coordinates:
-  longitudestring: 167 00 E
-  latitudestring: 16 00 S
-  minlongitude: 166.01666
-  minlatitude: -20.25
-  maxlongitude: 170.21666
-  maxlatitude: -13.066667
-  latitude: -16.376684
-  longitude: 167.5625
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.0583495
+    minlatitude: -20.5350773
+    maxlongitude: 170.5023193
+    maxlatitude: -12.8064449
+    latitude: -15.376706
+    longitude: 166.959158

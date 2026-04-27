@@ -1,104 +1,88 @@
-- name: Bioko Sur
-  names:
-  - Bioko Sur
-  code: BS
-  countryalpha2: GQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.423114
-    minlatitude: 3.2099564
-    maxlongitude: 8.850614
-    maxlatitude: 3.647693
-    latitude: 3.4209785
-    longitude: 8.616067
-- name: Región Continental
-  names:
-  - Región Continental
-  code: C
-  countryalpha2: GQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.873045
-    minlatitude: 51.279827
-    maxlongitude: 8.8745575
-    maxlatitude: 51.28056
-    latitude: 51.279877
-    longitude: 8.874457
-- name: Kie-Ntem
-  names:
-  - Kie-Ntem
-  code: KN
-  countryalpha2: GQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.401541
-    minlatitude: 1.7260761
-    maxlongitude: 11.335684
-    maxlatitude: 2.187128
-    latitude: 2.028093
-    longitude: 11.071176
-- name: Wele-Nzás
-  names:
-  - Wele-Nzás
-  code: WN
-  countryalpha2: GQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.522844
-    minlatitude: 0.996211
-    maxlongitude: 11.335724
-    maxlatitude: 1.994745
-    latitude: 1.4166162
-    longitude: 11.071176
 - name: Annobón
   names:
-  - Annobón
+    - Annobón
   code: AN
   countryalpha2: GQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 5.611973
+    minlongitude: 5.6119729
     minlatitude: -1.457793
     maxlongitude: 5.635208
     maxlatitude: -1.4041375
     latitude: -1.4221087
-    longitude: 5.619511
+    longitude: 5.6195112
 - name: Bioko Norte
   names:
-  - Bioko Norte
+    - Bioko Norte
   code: BN
   countryalpha2: GQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.611911
+    minlongitude: 8.6119104
     minlatitude: 3.511882
-    maxlongitude: 8.937982
-    maxlatitude: 3.785836
-    latitude: 3.6595073
-    longitude: 8.792184
+    maxlongitude: 8.937981599999999
+    maxlatitude: 3.7858361
+    latitude: 3.6595072
+    longitude: 8.7921836
+- name: Bioko Sur
+  names:
+    - Bioko Sur
+  code: BS
+  countryalpha2: GQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.423113899999999
+    minlatitude: 3.2099564
+    maxlongitude: 8.850613899999999
+    maxlatitude: 3.6476928
+    latitude: 3.4209785
+    longitude: 8.6160674
+- name: Región Continental
+  names:
+    - Región Continental
+  code: C
+  countryalpha2: GQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.873045399999999
+    minlatitude: 51.2798269
+    maxlongitude: 8.8745578
+    maxlatitude: 51.28056
+    latitude: 51.2798759
+    longitude: 8.8744572
 - name: Centro Sur
   names:
-  - Centro Sur
+    - Centro Sur
   code: CS
   countryalpha2: GQ
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 9.9033
-    minlatitude: 0.996669
+    minlatitude: 0.9966689999999999
     maxlongitude: 10.98445
     maxlatitude: 2.1742861
     latitude: 1.3436084
     longitude: 10.439656
+- name: Djibloho
+  code: DJ
+  countryalpha2: GQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Región Insular
   names:
-  - Región Insular
+    - Región Insular
   code: I
   countryalpha2: GQ
   coordinates:
@@ -109,10 +93,24 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: 49.662167
-    longitude: -125.74683
+    longitude: -125.746833
+- name: Kie-Ntem
+  names:
+    - Kie-Ntem
+  code: KN
+  countryalpha2: GQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.401541
+    minlatitude: 1.7260761
+    maxlongitude: 11.3356839
+    maxlatitude: 2.187128
+    latitude: 2.028093
+    longitude: 11.0711758
 - name: Litoral
   names:
-  - Litoral
+    - Litoral
   code: LI
   countryalpha2: GQ
   coordinates:
@@ -123,4 +121,18 @@
     maxlongitude: 10.263524
     maxlatitude: 2.346989
     latitude: 1.5750244
-    longitude: 9.812493
+    longitude: 9.8124935
+- name: Wele-Nzás
+  names:
+    - Wele-Nzás
+  code: WN
+  countryalpha2: GQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.5228439
+    minlatitude: 0.996211
+    maxlongitude: 11.3357239
+    maxlatitude: 1.994745
+    latitude: 1.4166162
+    longitude: 11.0711758

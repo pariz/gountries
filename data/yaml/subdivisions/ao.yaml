@@ -1,48 +1,76 @@
 - name: Bengo
   names:
-  - Bengo
+    - Bengo
   code: BGO
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.109977
+    minlongitude: 13.1099769
     minlatitude: -10.473318
-    maxlongitude: 14.741539
-    maxlatitude: -7.629126
-    latitude: -9.104226
-    longitude: 13.728917
+    maxlongitude: 14.7415391
+    maxlatitude: -7.629126100000001
+    latitude: -9.104225699999999
+    longitude: 13.7289167
 - name: Benguela
   names:
-  - Benguela
+    - Benguela
   code: BGU
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.358529
-    minlatitude: -12.619344
-    maxlongitude: 13.434605
-    maxlatitude: -12.562206
-    latitude: -12.590516
+    minlongitude: 13.3585294
+    minlatitude: -12.6193441
+    maxlongitude: 13.4346042
+    maxlatitude: -12.5622063
+    latitude: -12.5905158
     longitude: 13.416501
+- name: Bié
+  names:
+    - Bié
+  code: BIE
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.7335889
+    minlatitude: -14.305984
+    maxlongitude: 19.2239829
+    maxlatitude: -10.572202
+    latitude: -12.5727907
+    longitude: 17.668887
 - name: Cabinda
   names:
-  - Kabinda
+    - Kabinda
   code: CAB
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.162724
-    minlatitude: -5.6216235
-    maxlongitude: 12.268295
-    maxlatitude: -5.540983
+    minlongitude: 12.1627235
+    minlatitude: -5.6216234
+    maxlongitude: 12.2682953
+    maxlatitude: -5.5409834
     latitude: -5.56
     longitude: 12.19
+- name: Cuando-Cubango
+  names:
+    - Cuando-Cubango
+  code: CCU
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.463013
+    minlatitude: -18.042076
+    maxlongitude: 23.4281539
+    maxlatitude: -13.60931
+    latitude: -16.4180824
+    longitude: 18.8076195
 - name: Cunene
   names:
-  - Cunene
+    - Cunene
   code: CNN
   countryalpha2: AO
   coordinates:
@@ -52,67 +80,67 @@
     minlatitude: -17.442467
     maxlongitude: 17.402746
     maxlatitude: -15.158318
-    latitude: -16.280222
-    longitude: 16.158094
-- name: Uíge
-  names:
-  - Uíge
-  code: UIG
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.035648
-    minlatitude: -7.632309
-    maxlongitude: 15.077019
-    maxlatitude: -7.5901117
-    latitude: -7.616667
-    longitude: 15.05
+    latitude: -16.2802221
+    longitude: 16.1580937
 - name: Cuanza Norte
   names:
-  - Cuanza-Norte
+    - Cuanza-Norte
   code: CNO
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.998083
+    minlongitude: 13.9980831
     minlatitude: -9.787161
     maxlongitude: 15.830849
-    maxlatitude: -7.937077
-    latitude: -9.239851
-    longitude: 14.658782
+    maxlatitude: -7.937077099999999
+    latitude: -9.2398513
+    longitude: 14.6587821
 - name: Cuanza Sul
   names:
-  - Cuanza-Sul
+    - Cuanza-Sul
   code: CUS
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.49364
+    minlongitude: 13.4936401
     minlatitude: -12.22624
-    maxlongitude: 16.608067
-    maxlatitude: -9.683317
+    maxlongitude: 16.6080669
+    maxlatitude: -9.6833171
     latitude: -10.595191
-    longitude: 15.406808
+    longitude: 15.4068079
 - name: Huambo
   names:
-  - Huambo
+    - Huambo
   code: HUA
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 15.68882
-    minlatitude: -12.815106
-    maxlongitude: 15.793988
-    maxlatitude: -12.724839
+    minlatitude: -12.8151062
+    maxlongitude: 15.7939885
+    maxlatitude: -12.7248395
     latitude: -12.766667
     longitude: 15.733333
+- name: Huíla
+  names:
+    - Huíla
+  code: HUI
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.2254381
+    minlatitude: -16.3515149
+    maxlongitude: 16.753408
+    maxlatitude: -13.364136
+    latitude: -14.9280553
+    longitude: 14.6587821
 - name: Lunda Norte
   names:
-  - Lunda Norte
+    - Lunda Norte
   code: LNO
   countryalpha2: AO
   coordinates:
@@ -122,95 +150,11 @@
     minlatitude: -10.451853
     maxlongitude: 21.942862
     maxlatitude: -6.911378
-    latitude: -8.352502
-    longitude: 19.188005
-- name: Malange
-  names:
-  - Malange
-  code: MAL
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.299292
-    minlatitude: -9.57206
-    maxlongitude: 16.387653
-    maxlatitude: -9.512428
-    latitude: -9.5469
-    longitude: 16.3387
-- name: Namibe
-  names:
-  - Namibe
-  code: NAM
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.120602
-    minlatitude: -15.218767
-    maxlongitude: 12.185125
-    maxlatitude: -15.174736
-    latitude: -15.195278
-    longitude: 12.150833
-- name: Bié
-  names:
-  - Bié
-  code: BIE
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.733589
-    minlatitude: -14.305984
-    maxlongitude: 19.223984
-    maxlatitude: -10.572202
-    latitude: -12.572791
-    longitude: 17.668886
-- name: Cuando-Cubango
-  names:
-  - Cuando-Cubango
-  code: CCU
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.463013
-    minlatitude: -18.042076
-    maxlongitude: 23.428154
-    maxlatitude: -13.60931
-    latitude: -16.418083
-    longitude: 18.80762
-- name: Luanda
-  names:
-  - Luanda
-  code: LUA
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.158087
-    minlatitude: -8.950911
-    maxlongitude: 13.410122
-    maxlatitude: -8.756154
-    latitude: -8.838333
-    longitude: 13.234444
-- name: Huíla
-  names:
-  - Huíla
-  code: HUI
-  countryalpha2: AO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.225438
-    minlatitude: -16.351515
-    maxlongitude: 16.753408
-    maxlatitude: -13.364136
-    latitude: -14.928056
-    longitude: 14.658782
+    latitude: -8.352502200000002
+    longitude: 19.1880047
 - name: Lunda Sul
   names:
-  - Lunda Sul
+    - Lunda Sul
   code: LSU
   countryalpha2: AO
   coordinates:
@@ -218,13 +162,41 @@
     latitudestring: ""
     minlongitude: 18.481274
     minlatitude: -11.5039
-    maxlongitude: 22.329239
-    maxlatitude: -8.424464
-    latitude: -10.286657
-    longitude: 20.712246
+    maxlongitude: 22.3292389
+    maxlatitude: -8.4244639
+    latitude: -10.2866578
+    longitude: 20.7122465
+- name: Luanda
+  names:
+    - Luanda
+  code: LUA
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.1580869
+    minlatitude: -8.9509107
+    maxlongitude: 13.4101221
+    maxlatitude: -8.756154
+    latitude: -8.838333
+    longitude: 13.234444
+- name: Malange
+  names:
+    - Malange
+  code: MAL
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.2992908
+    minlatitude: -9.572059699999999
+    maxlongitude: 16.3876533
+    maxlatitude: -9.5124286
+    latitude: -9.546899999999999
+    longitude: 16.3387
 - name: Moxico
   names:
-  - Moxico
+    - Moxico
   code: MOX
   countryalpha2: AO
   coordinates:
@@ -232,21 +204,49 @@
     latitudestring: ""
     minlongitude: 17.922985
     minlatitude: -16.207985
-    maxlongitude: 24.082119
+    maxlongitude: 24.0821189
     maxlatitude: -10.58553
-    latitude: -13.429358
-    longitude: 20.330881
+    latitude: -13.4293579
+    longitude: 20.3308814
+- name: Namibe
+  names:
+    - Namibe
+  code: NAM
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.120602
+    minlatitude: -15.218767
+    maxlongitude: 12.1851254
+    maxlatitude: -15.1747363
+    latitude: -15.195278
+    longitude: 12.150833
+- name: Uíge
+  names:
+    - Uíge
+  code: UIG
+  countryalpha2: AO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.0356484
+    minlatitude: -7.6323089
+    maxlongitude: 15.0770187
+    maxlatitude: -7.5901119
+    latitude: -7.616667
+    longitude: 15.05
 - name: Zaire
   names:
-  - Zaire
+    - Zaire
   code: ZAI
   countryalpha2: AO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.270042
-    minlatitude: -7.81697
-    maxlongitude: 15.003551
-    maxlatitude: -5.841628
-    latitude: -6.5733457
-    longitude: 13.174035
+    minlongitude: 12.2700424
+    minlatitude: -7.8169699
+    maxlongitude: 15.0035509
+    maxlatitude: -5.841628099999999
+    latitude: -6.573345799999999
+    longitude: 13.1740348

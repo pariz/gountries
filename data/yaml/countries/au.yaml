@@ -1,68 +1,118 @@
 name:
-  common: Australia
-  official: Commonwealth of Australia
-  native:
-    eng:
-      common: Australia
-      official: Commonwealth of Australia
+    common: Australia
+    official: The Commonwealth of Australia
+    native:
+        eng:
+            common: Australia
+            official: Commonwealth of Australia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Australian
+altspellings:
+    - Australia
+    - Australien
+    - Australie
+    - オーストラリア
+    - Australië
+    - 澳洲
+    - AU
 tlds:
-- .au
+    - .au
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  CYM:
-    common: Awstralia
-    official: Commonwealth of Australia
-  DEU:
-    common: Australien
-    official: Commonwealth Australien
-  FIN:
-    common: Australia
-    official: Australian liittovaltio
-  FRA:
-    common: Australie
-    official: Australie
-  HRV:
-    common: Australija
-    official: Commonwealth of Australia
-  ITA:
-    common: Australia
-    official: Commonwealth dell'Australia
-  POR:
-    common: Austrália
-    official: Comunidade da Austrália
-  RUS:
-    common: Австралия
-    official: Содружество Австралии
-  SPA:
-    common: Australia
-    official: Mancomunidad de Australia
+    ARA:
+        common: أستراليا
+        official: كومونولث أستراليا
+    CES:
+        common: Austrálie
+        official: Australské společenství
+    DEU:
+        common: Australien
+        official: Commonwealth Australien
+    EST:
+        common: Austraalia
+        official: Austraalia Ühendus
+    FIN:
+        common: Australia
+        official: Australian liittovaltio
+    FRA:
+        common: Australie
+        official: Australie
+    HRV:
+        common: Australija
+        official: Commonwealth of Australia
+    HUN:
+        common: Ausztrália
+        official: Ausztrál Államszövetség
+    ITA:
+        common: Australia
+        official: Commonwealth dell'Australia
+    JPN:
+        common: オーストラリア
+        official: オーストラリア連邦
+    KOR:
+        common: 호주
+        official: 오스트레일리아 연방
+    NLD:
+        common: Australië
+        official: Gemenebest van Australië
+    PER:
+        common: استرالیا
+        official: قلمرو همسود استرالیا
+    POL:
+        common: Australia
+        official: Związek Australijski
+    POR:
+        common: Austrália
+        official: Comunidade da Austrália
+    RUS:
+        common: Австралия
+        official: Содружество Австралии
+    SLK:
+        common: Austrália
+        official: Austrálsky zväz
+    SPA:
+        common: Australia
+        official: Mancomunidad de Australia
+    SRP:
+        common: Australija
+        official: Komonvelt Australija
+    SWE:
+        common: Australien
+        official: Australiska statsförbundet
+    TUR:
+        common: Avustralya
+        official: Avustralya Federal Devleti
+    URD:
+        common: آسٹریلیا
+        official: دولتِ مشترکہ آسٹریلیا
+    ZHO:
+        common: 澳大利亚
+        official: 澳大利亚联邦
 currencies:
-- AUD
-borders: []
+    - AUD
 codes:
-  alpha2: AU
-  alpha3: AUS
-  cioc: AUS
-  ccn3: "036"
-  callingcodes:
-  - "61"
-  internationalprefix: "0011"
+    alpha2: AU
+    alpha3: AUS
+    cioc: AUS
+    ccn3: "036"
+    callingcodes:
+        - "61"
+    internationalprefix: "0011"
 geo:
-  region: Oceania
-  subregion: Australia and New Zealand
-  continent: Australia
-  capital: Canberra
-  area: 7.692024e+06
+    region: Oceania
+    subregion: Australia and New Zealand
+    continent: Australia
+    capital: Canberra
+    area: 7.692024e+06
 coordinates:
-  longitudestring: 133 00 E
-  latitudestring: 27 00 S
-  minlongitude: 147.1
-  minlatitude: -29.472221
-  maxlongitude: 159.11945
-  maxlatitude: -15.5
-  latitude: -25.585241
-  longitude: 134.50412
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 110.9510339
+    minlatitude: -54.83376579999999
+    maxlongitude: 159.2872223
+    maxlatitude: -9.187026399999999
+    latitude: -25.274398
+    longitude: 133.775136

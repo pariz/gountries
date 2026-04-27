@@ -1,69 +1,125 @@
 name:
-  common: Marshall Islands
-  official: Republic of the Marshall Islands
-  native:
-    eng:
-      common: Marshall Islands
-      official: Republic of the Marshall Islands
-    mah:
-      common: M̧ajeļ
-      official: Republic of the Marshall Islands
+    common: Marshall Islands
+    official: The Republic of the Marshall Islands
+    native:
+        eng:
+            common: Marshall Islands
+            official: Republic of the Marshall Islands
+        mah:
+            common: M̧ajeļ
+            official: Republic of the Marshall Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Marshallese
+altspellings:
+    - Marshall Islands
+    - Marshallinseln
+    - Îles Marshall
+    - Islas Marshall
+    - マーシャル諸島
+    - Marshalleilanden
+    - MH
+    - Republic of the Marshall Islands
+    - Aolepān Aorōkin M̧ajeļ
 tlds:
-- .mh
+    - .mh
 languages:
-  eng: English
-  mah: Marshallese
+    en: ""
+    eng: English
+    mah: Marshallese
+    mh: ""
 translations:
-  DEU:
-    common: Marshallinseln
-    official: Republik der Marshall-Inseln
-  FIN:
-    common: Marshallinsaaret
-    official: Marshallinsaarten tasavalta
-  HRV:
-    common: Maršalovi Otoci
-    official: Republika Maršalovi Otoci
-  ITA:
-    common: Isole Marshall
-    official: Repubblica delle Isole Marshall
-  JPN:
-    common: マーシャル諸島
-    official: マーシャル諸島共和国
-  NLD:
-    common: Marshalleilanden
-    official: Republiek van de Marshall-eilanden
-  RUS:
-    common: Маршалловы Острова
-    official: Республика Маршалловы острова
-  SPA:
-    common: Islas Marshall
-    official: República de las Islas Marshall
+    ARA:
+        common: جزر مارشال
+        official: جمهورية جزر مارشال
+    CES:
+        common: Marshallovy ostrovy
+        official: Republika Marshallovy ostrovy
+    DEU:
+        common: Marshallinseln
+        official: Republik Marshallinseln
+    EST:
+        common: Marshalli Saared
+        official: Marshalli Saarte Vabariik
+    FIN:
+        common: Marshallinsaaret
+        official: Marshallinsaarten tasavalta
+    FRA:
+        common: Îles Marshall
+        official: République des Îles Marshall
+    HRV:
+        common: Maršalovi Otoci
+        official: Republika Maršalovi Otoci
+    HUN:
+        common: Marshall-szigetek
+        official: Marshall-szigetek
+    ITA:
+        common: Isole Marshall
+        official: Repubblica delle Isole Marshall
+    JPN:
+        common: マーシャル諸島
+        official: マーシャル諸島共和国
+    KOR:
+        common: 마셜 제도
+        official: 마셜 제도 공화국
+    NLD:
+        common: Marshalleilanden
+        official: Republiek van de Marshall-eilanden
+    PER:
+        common: جزایر مارشال
+        official: جمهوری جزایر مارشال
+    POL:
+        common: Wyspy Marshalla
+        official: Republika Wysp Marshalla
+    POR:
+        common: Ilhas Marshall
+        official: República das Ilhas Marshall
+    RUS:
+        common: Маршалловы Острова
+        official: Республика Маршалловы острова
+    SLK:
+        common: Marshallove ostrovy
+        official: Republika Marshallových ostrovov
+    SPA:
+        common: Islas Marshall
+        official: República de las Islas Marshall
+    SRP:
+        common: Maršalska Ostrva
+        official: Republika Maršalska Ostrva
+    SWE:
+        common: Marshallöarna
+        official: Republiken Marshallöarna
+    TUR:
+        common: Marshall Adaları
+        official: Marshall Adaları Cumhuriyeti
+    URD:
+        common: جزائر مارشل
+        official: جمہوریہ جزائر مارشل
+    ZHO:
+        common: 马绍尔群岛
+        official: 马绍尔群岛共和国
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: MH
-  alpha3: MHL
-  cioc: MHL
-  ccn3: "584"
-  callingcodes:
-  - "692"
-  internationalprefix: "00"
+    alpha2: MH
+    alpha3: MHL
+    cioc: MHL
+    ccn3: "584"
+    callingcodes:
+        - "692"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Micronesia
-  continent: Australia
-  capital: Majuro
-  area: 181
+    region: Oceania
+    subregion: Micronesia
+    continent: Australia
+    capital: Majuro
+    area: 181
 coordinates:
-  longitudestring: 168 00 E
-  latitudestring: 9 00 N
-  minlongitude: 160.8
-  minlatitude: 4.566667
-  maxlongitude: 172.8
-  maxlatitude: 19.316668
-  latitude: 7.2862077
-  longitude: 168.7514
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 159.8840332
+    minlatitude: 4.1601583
+    maxlongitude: 172.5732421
+    maxlatitude: 15.0190749
+    latitude: 7.131474
+    longitude: 171.184478

@@ -1,59 +1,116 @@
 name:
-  common: Heard Island and McDonald Islands
-  official: Heard Island and McDonald Islands
-  native:
-    eng:
-      common: Heard Island and McDonald Islands
-      official: Heard Island and McDonald Islands
+    common: Heard Island and McDonald Islands
+    official: The Territory of Heard Island and McDonald Islands
+    native:
+        eng:
+            common: Heard Island and McDonald Islands
+            official: Heard Island and McDonald Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Heard and McDonald Islander
+altspellings:
+    - Heard and McDonald Islands
+    - Heard und die McDonaldinseln
+    - ハード島とマクドナルド諸島
+    - Heard- en McDonaldeilanden
+    - Heard Island and McDonald Islands
+    - HM
 tlds:
-- .hm
-- .aq
+    - .hm
+    - .aq
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Heard ja McDonaldinsaaret
-    official: Heard ja McDonaldinsaaret
-  FRA:
-    common: Îles Heard-et-MacDonald
-    official: Des îles Heard et McDonald
-  ITA:
-    common: Isole Heard e McDonald
-    official: Isole Heard e McDonald
-  NLD:
-    common: Heard-en McDonaldeilanden
-    official: Heard en McDonaldeilanden
-  POR:
-    common: Ilha Heard e Ilhas McDonald
-    official: Ilha Heard e Ilhas McDonald
-  RUS:
-    common: Остров Херд и острова Макдональд
-    official: Остров Херд и острова Макдональд
+    ARA:
+        common: جزيرة هيرد وجزر ماكدونالد
+        official: جزيرة هيرد وجزر ماكدونالد
+    CES:
+        common: Heardův ostrov a McDonaldovy ostrovy
+        official: Heardův ostrov a McDonaldovy ostrovy
+    DEU:
+        common: Heard und die McDonaldinseln
+        official: Heard und McDonaldinseln
+    EST:
+        common: Heard ja McDonald
+        official: Heardi ja McDonaldi saarte ala
+    FIN:
+        common: Heard ja McDonaldinsaaret
+        official: Heard ja McDonaldinsaaret
+    FRA:
+        common: Îles Heard-et-MacDonald
+        official: Îles Heard-et-MacDonald
+    HRV:
+        common: Otok Heard i otočje McDonald
+        official: Otok Heard i otočje McDonald
+    HUN:
+        common: Heard-sziget és McDonald-szigetek
+        official: Heard-sziget és McDonald-szigetek
+    ITA:
+        common: Isole Heard e McDonald
+        official: Isole Heard e McDonald
+    JPN:
+        common: ハード島とマクドナルド諸島
+        official: ハード島・マクドナルド諸島
+    KOR:
+        common: 허드 맥도널드 제도
+        official: 허드 맥도널드 제도
+    NLD:
+        common: Heard-en McDonaldeilanden
+        official: Heard en McDonaldeilanden
+    PER:
+        common: جزیره هرد و جزایر مک‌دونالد
+        official: جزیره هرد و جزایر مک‌دونالد
+    POL:
+        common: Wyspy Heard i McDonalda
+        official: Terytorium Wysp Heard i McDonalda
+    POR:
+        common: Ilha Heard e Ilhas McDonald
+        official: Ilha Heard e Ilhas McDonald
+    RUS:
+        common: Остров Херд и острова Макдональд
+        official: Остров Херд и острова Макдональд
+    SLK:
+        common: Heardov ostrov
+        official: Teritórium Heardovho ostrova a Macdonaldových ostrovov
+    SPA:
+        common: Islas Heard y McDonald
+        official: Islas Heard y McDonald
+    SRP:
+        common: Herdovo ostrvo i Makdonaldova ostrva
+        official: Herdovo ostrvo i Makdonaldova ostrva
+    SWE:
+        common: Heard- och McDonaldöarna
+        official: Heard- och McDonaldöarna
+    TUR:
+        common: Heard Adası ve McDonald Adaları
+        official: Heard Adası ve McDonald Adaları
+    URD:
+        common: جزیرہ ہرڈ و جزائر مکڈونلڈ
+        official: جزیرہ ہرڈ و جزائر مکڈونلڈ
+    ZHO:
+        common: 赫德岛和麦当劳群岛
+        official: 赫德岛和麦当劳群岛
 currencies:
-- AUD
-borders: []
+    - AUD
 codes:
-  alpha2: HM
-  alpha3: HMD
-  cioc: ""
-  ccn3: "334"
-  callingcodes: []
-  internationalprefix: ""
+    alpha2: HM
+    alpha3: HMD
+    ccn3: "334"
+    callingcodes:
+        - "672"
 geo:
-  region: ""
-  subregion: ""
-  continent: Antarctica
-  capital: ""
-  area: 412
+    region: ""
+    subregion: ""
+    continent: Antarctica
+    capital: ""
+    area: 412
 coordinates:
-  longitudestring: 72 31 E
-  latitudestring: 53 06 S
-  minlongitude: 72.566666
-  minlatitude: -53.2
-  maxlongitude: 73.85
-  maxlatitude: -52.9
-  latitude: -53.08011
-  longitude: 73.56219
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.25065599999999
+    minlatitude: -53.19168759999999
+    maxlongitude: 73.7792016
+    maxlatitude: -52.9609444
+    latitude: -53.08181
+    longitude: 73.50415799999999

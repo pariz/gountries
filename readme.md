@@ -1,14 +1,16 @@
 # gountries
 
-[![wercker status](https://app.wercker.com/status/909d6a059d7d0b49b74ec8b658f97df4/s/master "wercker status")](https://app.wercker.com/project/bykey/909d6a059d7d0b49b74ec8b658f97df4) [![codecov.io](https://codecov.io/github/pariz/gountries/coverage.svg?branch=master)](https://codecov.io/github/pariz/gountries?branch=master) [![Go Report Card](https://goreportcard.com/badge/pariz/gountries)](https://goreportcard.com/report/pariz/gountries)
+[![Go Report Card](https://goreportcard.com/badge/pariz/gountries)](https://goreportcard.com/report/pariz/gountries)
 
-Inspired by the [countries](https://github.com/hexorx/countries) gem for ruby.
+> **Heads up — v1.0.0 is breaking.** The data pipeline has been rebuilt and `bindata.go` was removed. See [CHANGELOG.md](CHANGELOG.md) for the migration. To stay on the old behavior, pin: `go get github.com/pariz/gountries@v0.1.6`.
 
-Countries (ISO-3166-1), Country Subdivisions(ISO-3166-2), Currencies (ISO 4217), Geo Coordinates(ISO-6709) as well as translations, country borders and other stuff exposed as struct data.
+Countries (ISO-3166-1), Country Subdivisions (ISO-3166-2), Currencies (ISO 4217), Geo Coordinates (ISO-6709), translations, country borders, and related metadata, exposed as Go struct data.
 
-All data is derived from the [pariz/countries](https://github.com/pariz/countries) repo.
+Data is sourced from two actively maintained upstream projects and refreshed weekly:
+- [countries/countries](https://github.com/countries/countries) (MIT) — primary schema
+- [mledoze/countries](https://github.com/mledoze/countries) (ODbL) — borders, TLDs, translations
 
-*This is currently a work in progress, so things may change. More stuff will be added*
+Inspired by the [countries](https://github.com/countries/countries) Ruby gem.
 
 # Installation
 
@@ -141,20 +143,36 @@ func main() {
 
 ```
 
-# Using packed data
+# How the data is built
 
-The data in the `data/yaml` subdirectory is embedded using go-bindata.  Once you include this library in your project, you won't need to access the data directory.  To add or update the data, make changes to the YAML files then run:
+Country and subdivision YAML in `data/yaml/` is generated from two git submodules under `upstream/`:
 
 ```
-go-bindata -pkg gountries data/yaml/*
+upstream/countries           → countries/countries (MIT)
+upstream/mledoze-countries   → mledoze/countries (ODbL)
 ```
+
+To regenerate locally:
+
+```
+git submodule update --init --recursive
+go run ./cmd/sync-data
+```
+
+The data is embedded into the package binary via `//go:embed data/yaml`, so consumers do not need to ship the YAML alongside their app.
+
+A weekly GitHub Action ([`sync-upstream.yml`](.github/workflows/sync-upstream.yml)) bumps both submodules to their latest tags, regenerates the data, runs the test suite, and opens a PR if anything changed.
 
 # Testing
 
-Has a pretty solid test coverage but is constantly improving.
+```
+go test ./...
+```
 
-# Todo
-- [ ] Province/County querying (partially complete)
-- [x] Measurement between coordinates
-- [ ] GeoJSON information
-- [ ] Suggestions?
+`TestDataInvariants` runs after every regen and asserts that the country count, key fields, and canary lookups (Sweden, US, Germany) are all sane — guarding against silent upstream regressions.
+
+# License
+
+Go code: MIT (see [LICENSE](LICENSE)).
+
+Embedded data: derivative of the two upstream sources above. Because mledoze data is ODbL-licensed, the `data/yaml/` directory should be treated as a Derivative Database under ODbL. Querying the data through this Go API is not a Derivative Database — it produces a Produced Work — so your application's license is unaffected.

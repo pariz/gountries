@@ -1,66 +1,122 @@
 name:
-  common: Malta
-  official: Republic of Malta
-  native:
-    eng:
-      common: Malta
-      official: Republic of Malta
-    mlt:
-      common: Malta
-      official: Repubblika ta ' Malta
+    common: Malta
+    official: The Republic of Malta
+    native:
+        eng:
+            common: Malta
+            official: Republic of Malta
+        mlt:
+            common: Malta
+            official: Repubblika ta ' Malta
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Maltese
+altspellings:
+    - Malta
+    - Malte
+    - マルタ
+    - MT
+    - Republic of Malta
+    - Repubblika ta' Malta
 tlds:
-- .mt
+    - .mt
 languages:
-  eng: English
-  mlt: Maltese
+    en: ""
+    eng: English
+    mlt: Maltese
+    mt: ""
 translations:
-  FIN:
-    common: Malta
-    official: Maltan tasavalta
-  FRA:
-    common: Malte
-    official: République de Malte
-  ITA:
-    common: Malta
-    official: Repubblica di Malta
-  JPN:
-    common: マルタ
-    official: マルタ共和国
-  NLD:
-    common: Malta
-    official: Republiek Malta
-  POR:
-    common: Malta
-    official: República de Malta
-  RUS:
-    common: Мальта
-    official: Республика Мальта
+    ARA:
+        common: مالطا
+        official: جمهورية مالطا
+    CES:
+        common: Malta
+        official: Maltská republika
+    DEU:
+        common: Malta
+        official: Republik Malta
+    EST:
+        common: Malta
+        official: Malta Vabariik
+    FIN:
+        common: Malta
+        official: Maltan tasavalta
+    FRA:
+        common: Malte
+        official: République de Malte
+    HRV:
+        common: Malta
+        official: Republika Malta
+    HUN:
+        common: Málta
+        official: Máltai Köztársaság
+    ITA:
+        common: Malta
+        official: Repubblica di Malta
+    JPN:
+        common: マルタ
+        official: マルタ共和国
+    KOR:
+        common: 몰타
+        official: 몰타 공화국
+    NLD:
+        common: Malta
+        official: Republiek Malta
+    PER:
+        common: مالت
+        official: جمهوری مالت
+    POL:
+        common: Malta
+        official: Republika Malty
+    POR:
+        common: Malta
+        official: República de Malta
+    RUS:
+        common: Мальта
+        official: Республика Мальта
+    SLK:
+        common: Malta
+        official: Maltská republika
+    SPA:
+        common: Malta
+        official: República de Malta
+    SRP:
+        common: Malta
+        official: Republika Malta
+    SWE:
+        common: Malta
+        official: Republiken Malta
+    TUR:
+        common: Malta
+        official: Malta Cumhuriyeti
+    URD:
+        common: مالٹا
+        official: جمہوریہ مالٹا
+    ZHO:
+        common: 马耳他
+        official: 马耳他共和国
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: MT
-  alpha3: MLT
-  cioc: MLT
-  ccn3: "470"
-  callingcodes:
-  - "356"
-  internationalprefix: "00"
+    alpha2: MT
+    alpha3: MLT
+    cioc: MLT
+    ccn3: "470"
+    callingcodes:
+        - "356"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Valletta
-  area: 316
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Valletta
+    area: 316
 coordinates:
-  longitudestring: 14 35 E
-  latitudestring: 35 50 N
-  minlongitude: 14.185556
-  minlatitude: 35.78389
-  maxlongitude: 14.575
-  maxlatitude: 36.081944
-  latitude: 35.933365
-  longitude: 14.381034
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.1801001
+    minlatitude: 35.79960000000001
+    maxlongitude: 14.5765999
+    maxlatitude: 36.0853
+    latitude: 35.937496
+    longitude: 14.375416

@@ -1,66 +1,125 @@
 name:
-  common: Sri Lanka
-  official: Democratic Socialist Republic of Sri Lanka
-  native:
-    sin:
-      common: ශ්‍රී ලංකාව
-      official: ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය
-    tam:
-      common: இலங்கை
-      official: இலங்கை சனநாயக சோசலிசக் குடியரசு
+    common: Sri Lanka
+    official: The Democratic Socialist Republic of Sri Lanka
+    native:
+        sin:
+            common: ශ්‍රී ලංකාව
+            official: ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය
+        tam:
+            common: இலங்கை
+            official: இலங்கை சனநாயக சோசலிசக் குடியரசு
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sri Lankan
+altspellings:
+    - Sri Lanka
+    - スリランカ
+    - LK
+    - ilaṅkai
+    - Democratic Socialist Republic of Sri Lanka
 tlds:
-- .lk
-- .இலங்கை
-- .ලංකා
+    - .lk
+    - .இலங்கை
+    - .ලංකා
 languages:
-  sin: Sinhala
-  tam: Tamil
+    si: ""
+    sin: Sinhala
+    ta: ""
+    tam: Tamil
 translations:
-  HRV:
-    common: Šri Lanka
-    official: Demokratska Socijalističke Republike Šri Lanke
-  ITA:
-    common: Sri Lanka
-    official: Repubblica democratica socialista dello Sri Lanka
-  JPN:
-    common: スリランカ
-    official: スリランカ民主社会主義共和国
-  POR:
-    common: Sri Lanka
-    official: República Democrática Socialista do Sri Lanka
-  RUS:
-    common: Шри-Ланка
-    official: Демократическая Социалистическая Республика Шри-Ланка
-  SPA:
-    common: Sri Lanka
-    official: República Democrática Socialista de Sri Lanka
+    ARA:
+        common: سريلانكا
+        official: جمهورية سريلانكا الديمقراطية الشعبية
+    CES:
+        common: Srí Lanka
+        official: Srílanská demokratická socialistická republika
+    DEU:
+        common: Sri Lanka
+        official: Demokratische Sozialistische Republik Sri Lanka
+    EST:
+        common: Sri Lanka
+        official: Sri Lanka Demokraatlik Sotsialistlik Vabariik
+    FIN:
+        common: Sri Lanka
+        official: Sri Lankan demokraattinen sosialistinen tasavalta
+    FRA:
+        common: Sri Lanka
+        official: République démocratique socialiste du Sri Lanka
+    HRV:
+        common: Šri Lanka
+        official: Demokratska Socijalističke Republike Šri Lanke
+    HUN:
+        common: Srí Lanka
+        official: Srí Lanka-i Demokratikus Szocialista Köztársaság
+    ITA:
+        common: Sri Lanka
+        official: Repubblica democratica socialista dello Sri Lanka
+    JPN:
+        common: スリランカ
+        official: スリランカ民主社会主義共和国
+    KOR:
+        common: 스리랑카
+        official: 스리랑카 민주 사회주의 공화국
+    NLD:
+        common: Sri Lanka
+        official: Democratische Socialistische Republiek Sri Lanka
+    PER:
+        common: سری‌لانکا
+        official: جمهوری دموکراتیک سوسیالیستی سری‌لانکا
+    POL:
+        common: Sri Lanka
+        official: Demokratyczno-Socjalistyczna Republika Sri Lanki
+    POR:
+        common: Sri Lanka
+        official: República Democrática Socialista do Sri Lanka
+    RUS:
+        common: Шри-Ланка
+        official: Демократическая Социалистическая Республика Шри-Ланка
+    SLK:
+        common: Srí Lanka
+        official: Srílanská demokratická socialistická republika
+    SPA:
+        common: Sri Lanka
+        official: República Democrática Socialista de Sri Lanka
+    SRP:
+        common: Šri Lanka
+        official: Demokratska Socijalistička Republika Šri Lanka
+    SWE:
+        common: Sri Lanka
+        official: Demokratiska socialistiska republiken Sri Lanka
+    TUR:
+        common: Sri Lanka
+        official: Sri Lanka Demokratik Sosyalist Cumhuriyeti
+    URD:
+        common: سری لنکا
+        official: جمہوری و اشتراکی جمہوریہ سری لنکا
+    ZHO:
+        common: 斯里兰卡
+        official: 斯里兰卡民主社会主义共和国
 currencies:
-- LKR
+    - LKR
 borders:
-- IND
+    - IND
 codes:
-  alpha2: LK
-  alpha3: LKA
-  cioc: SRI
-  ccn3: "144"
-  callingcodes:
-  - "94"
-  internationalprefix: "00"
+    alpha2: LK
+    alpha3: LKA
+    cioc: SRI
+    ccn3: "144"
+    callingcodes:
+        - "94"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Colombo
-  area: 65610
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Colombo
+    area: 65610
 coordinates:
-  longitudestring: 81 00 E
-  latitudestring: 7 00 N
-  minlongitude: 79.51667
-  minlatitude: 5.916667
-  maxlongitude: 81.86667
-  maxlatitude: 9.833333
-  latitude: 7.7891335
-  longitude: 80.680725
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 79.26769999999999
+    minlatitude: 5.6816
+    maxlongitude: 82.14479999999999
+    maxlatitude: 10.03377
+    latitude: 7.873053999999999
+    longitude: 80.77179699999999

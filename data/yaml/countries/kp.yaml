@@ -1,68 +1,133 @@
 name:
-  common: North Korea
-  official: Democratic People's Republic of Korea
-  native:
-    kor:
-      common: 북한
-      official: 조선 민주주의 인민 공화국
+    common: Korea (Democratic People's Republic of)
+    official: The Democratic People's Republic of Korea
+    native:
+        kor:
+            common: 조선
+            official: 조선민주주의인민공화국
 eumember: false
 landlocked: false
-nationality: ""
+nationality: North Korean
+altspellings:
+    - Korea (Democratic People's Republic of)
+    - Korea (North)
+    - North Korea
+    - Nordkorea
+    - Corée du Nord
+    - Corea del Norte
+    - 朝鮮民主主義人民共和国
+    - Noord-Korea
+    - Korea Democratic People's Republic
+    - Korea (Democratic People s Republic of)
+    - KP
+    - Democratic People's Republic of Korea
+    - DPRK
+    - 조선민주주의인민공화국
+    - Chosŏn Minjujuŭi Inmin Konghwaguk
+    - Korea, Democratic People's Republic of
+    - 북한
+    - 북조선
 tlds:
-- .kp
+    - .kp
 languages:
-  kor: Korean
+    ko: ""
+    kor: Korean
 translations:
-  DEU:
-    common: Nordkorea
-    official: Demokratische Volksrepublik Korea
-  FIN:
-    common: Pohjois-Korea
-    official: Korean demokraattinen kansantasavalta
-  HRV:
-    common: Sjeverna Koreja
-    official: Demokratska Narodna Republika Koreja
-  ITA:
-    common: Corea del Nord
-    official: Repubblica democratica popolare di Corea
-  JPN:
-    common: 朝鮮民主主義人民共和国
-    official: 朝鮮民主主義人民共和国
-  NLD:
-    common: Noord-Korea
-    official: Democratische Volksrepubliek Korea
-  POR:
-    common: Coreia do Norte
-    official: República Popular Democrática da Coreia
-  SPA:
-    common: Corea del Norte
-    official: República Popular Democrática de Corea
+    ARA:
+        common: كوريا الشمالية
+        official: جمهورية كوريا الديمقراطية الشعبية
+    CES:
+        common: Severní Korea
+        official: Korejská lidově demokratická republika
+    DEU:
+        common: Nordkorea
+        official: Demokratische Volksrepublik Korea
+    EST:
+        common: Põhja-Korea
+        official: Korea Rahvademokraatlik Vabariik
+    FIN:
+        common: Pohjois-Korea
+        official: Korean demokraattinen kansantasavalta
+    FRA:
+        common: Corée du Nord
+        official: République populaire démocratique de Corée
+    HRV:
+        common: Sjeverna Koreja
+        official: Demokratska Narodna Republika Koreja
+    HUN:
+        common: Észak-Korea
+        official: Koreai Népi Demokratikus Köztársaság
+    ITA:
+        common: Corea del Nord
+        official: Repubblica democratica popolare di Corea
+    JPN:
+        common: 北朝鮮
+        official: 北朝鮮
+    KOR:
+        common: 조선
+        official: 조선민주주의인민공화국
+    NLD:
+        common: Noord-Korea
+        official: Democratische Volksrepubliek Korea
+    PER:
+        common: کُره شمالی
+        official: جمهوری دموکراتیک خلق کره
+    POL:
+        common: Korea Północna
+        official: Koreańska Republika Ludowo-Demokratyczna
+    POR:
+        common: Coreia do Norte
+        official: República Popular Democrática da Coreia
+    RUS:
+        common: Северная Корея
+        official: Корейская Народно-Демократическая Республика Корея
+    SLK:
+        common: Kórejská ľudovodemokratická republika (KĽR, Severná Kórea)
+        official: Kórejská ľudovodemokratická republika
+    SPA:
+        common: Corea del Norte
+        official: República Popular Democrática de Corea
+    SRP:
+        common: Severna Koreja
+        official: Demokratska Narodna Republika Koreja
+    SWE:
+        common: Nordkorea
+        official: Demokratiska Folkrepubliken Korea
+    TUR:
+        common: Kuzey Kore
+        official: Kore Demokratik Halk Cumhuriyeti
+    URD:
+        common: شمالی کوریا
+        official: جمہوری عوامی جمہوریہ کوریا
+    ZHO:
+        common: 朝鲜
+        official: 朝鲜人民民主共和国
 currencies:
-- KPW
+    - KPW
 borders:
-- CHN
-- KOR
-- RUS
+    - CHN
+    - KOR
+    - RUS
 codes:
-  alpha2: KP
-  alpha3: PRK
-  cioc: PRK
-  ccn3: "408"
-  callingcodes:
-  - "850"
-  internationalprefix: "00"
+    alpha2: KP
+    alpha3: PRK
+    cioc: PRK
+    ccn3: "408"
+    callingcodes:
+        - "850"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: Pyongyang
-  area: 120538
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: Pyongyang
+    area: 120538
 coordinates:
-  longitudestring: 127 00 E
-  latitudestring: 40 00 N
-  minlongitude: 124.1875
-  minlatitude: 37.6775
-  maxlongitude: 130.67223
-  maxlatitude: 43.003887
-  latitude: 40.07764
-  longitude: 127.13385
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.1491605
+    minlatitude: 37.5892001
+    maxlongitude: 130.6990167
+    maxlatitude: 43.01159
+    latitude: 40.339852
+    longitude: 127.510093

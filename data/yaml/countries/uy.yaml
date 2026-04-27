@@ -1,62 +1,119 @@
 name:
-  common: Uruguay
-  official: Oriental Republic of Uruguay
-  native:
-    spa:
-      common: Uruguay
-      official: República Oriental del Uruguay
+    common: Uruguay
+    official: The Oriental Republic of Uruguay
+    native:
+        spa:
+            common: Uruguay
+            official: República Oriental del Uruguay
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Uruguayan
+altspellings:
+    - Uruguay
+    - ウルグアイ
+    - UY
+    - Oriental Republic of Uruguay
+    - República Oriental del Uruguay
 tlds:
-- .uy
+    - .uy
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  FIN:
-    common: Uruguay
-    official: Uruguayn itäinen tasavalta
-  HRV:
-    common: Urugvaj
-    official: Orijentalna Republika Urugvaj
-  ITA:
-    common: Uruguay
-    official: Repubblica Orientale dell'Uruguay
-  JPN:
-    common: ウルグアイ
-    official: ウルグアイ東方共和国
-  NLD:
-    common: Uruguay
-    official: Oosterse Republiek Uruguay
-  RUS:
-    common: Уругвай
-    official: Восточной Республики Уругвай
+    ARA:
+        common: الأوروغواي
+        official: جمهورية الأوروغواي الشرقية
+    CES:
+        common: Uruguay
+        official: Uruguayská východní republika
+    DEU:
+        common: Uruguay
+        official: Republik Östlich des Uruguay
+    EST:
+        common: Uruguay
+        official: Uruguay Idavabariik
+    FIN:
+        common: Uruguay
+        official: Uruguayn itäinen tasavalta
+    FRA:
+        common: Uruguay
+        official: République orientale de l'Uruguay
+    HRV:
+        common: Urugvaj
+        official: Orijentalna Republika Urugvaj
+    HUN:
+        common: Uruguay
+        official: Uruguayi Keleti Köztársaság
+    ITA:
+        common: Uruguay
+        official: Repubblica Orientale dell'Uruguay
+    JPN:
+        common: ウルグアイ
+        official: ウルグアイ東方共和国
+    KOR:
+        common: 우루과이
+        official: 우루과이 동방 공화국
+    NLD:
+        common: Uruguay
+        official: Oosterse Republiek Uruguay
+    PER:
+        common: اروگوئه
+        official: جمهوری اروگوئه
+    POL:
+        common: Urugwaj
+        official: Wschodnia Republika Urugwaju
+    POR:
+        common: Uruguai
+        official: República Oriental do Uruguai
+    RUS:
+        common: Уругвай
+        official: Восточной Республики Уругвай
+    SLK:
+        common: Uruguaj
+        official: Uruguajská východná republika
+    SPA:
+        common: Uruguay
+        official: República Oriental del Uruguay
+    SRP:
+        common: Urugvaj
+        official: Istočna Republika Urugvaj
+    SWE:
+        common: Uruguay
+        official: Republiken Uruguay
+    TUR:
+        common: Uruguay
+        official: Uruguay Doğu Cumhuriyeti
+    URD:
+        common: یوراگوئے
+        official: جمہوریہ شرقیہ یوراگوئے
+    ZHO:
+        common: 乌拉圭
+        official: 乌拉圭东岸共和国
 currencies:
-- UYI
-- UYU
+    - UYU
 borders:
-- ARG
-- BRA
+    - ARG
+    - BRA
 codes:
-  alpha2: UY
-  alpha3: URY
-  cioc: URU
-  ccn3: "858"
-  callingcodes:
-  - "598"
-  internationalprefix: "00"
+    alpha2: UY
+    alpha3: URY
+    cioc: URU
+    ccn3: "858"
+    callingcodes:
+        - "598"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Montevideo
-  area: 181034
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Montevideo
+    area: 181034
 coordinates:
-  longitudestring: 56 00 W
-  latitudestring: 33 00 S
-  minlongitude: -58.5
-  minlatitude: -35.033333
-  maxlongitude: -53.266666
-  maxlatitude: -30.183332
-  latitude: -32.969654
-  longitude: -56.05591
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.4913609
+    minlatitude: -35.1558001
+    maxlongitude: -53.0779284
+    maxlatitude: -30.0852149
+    latitude: -32.522779
+    longitude: -55.765835

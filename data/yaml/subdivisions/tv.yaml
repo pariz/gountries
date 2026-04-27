@@ -1,6 +1,6 @@
 - name: Funafuti
   names:
-  - Funafuti
+    - Funafuti
   code: FUN
   countryalpha2: TV
   coordinates:
@@ -11,38 +11,24 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: -8.516667
-    longitude: 179.21666
+    longitude: 179.216667
 - name: Niutao
   names:
-  - Niutao
+    - Niutao
   code: NIT
   countryalpha2: TV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 177.32933
-    minlatitude: -6.1153793
-    maxlongitude: 177.35474
-    maxlatitude: -6.1015964
-    latitude: -6.106426
-    longitude: 177.34384
-- name: Nui
-  names:
-  - Nui
-  code: NIU
-  countryalpha2: TV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 177.14613
-    minlatitude: -7.2460446
-    maxlongitude: 177.16563
-    maxlatitude: -7.18891
-    latitude: -7.2426286
-    longitude: 177.14857
+    minlongitude: 177.3293352
+    minlatitude: -6.1153794
+    maxlongitude: 177.3547411
+    maxlatitude: -6.101596499999999
+    latitude: -6.106425799999999
+    longitude: 177.3438429
 - name: Nukufetau
   names:
-  - Nukufetau
+    - Nukufetau
   code: NKF
   countryalpha2: TV
   coordinates:
@@ -52,11 +38,11 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 0
+    latitude: -8
     longitude: 178.5
 - name: Nukulaelae
   names:
-  - Nukulailai
+    - Nukulailai
   code: NKL
   countryalpha2: TV
   coordinates:
@@ -66,47 +52,59 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: -9.381111
-    longitude: 179.85222
+    latitude: -9.381110999999999
+    longitude: 179.852222
 - name: Nanumea
   names:
-  - Nanumea
+    - Nanumea
   code: NMA
   countryalpha2: TV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 176.10988
-    minlatitude: -5.701377
-    maxlongitude: 176.13655
-    maxlatitude: -5.662078
-    latitude: -5.6815386
-    longitude: 176.12811
+    minlongitude: 176.109885
+    minlatitude: -5.7013769
+    maxlongitude: 176.1365461
+    maxlatitude: -5.6620781
+    latitude: -5.681538799999999
+    longitude: 176.1281065
 - name: Nanumanga
   names:
-  - Nanumaga
+    - Nanumaga
   code: NMG
   countryalpha2: TV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 176.31186
-    minlatitude: -6.302336
+    minlongitude: 176.3118553
+    minlatitude: -6.302335999999999
     maxlongitude: 176.32579
-    maxlatitude: -6.277289
-    latitude: -6.291071
-    longitude: 176.31485
+    maxlatitude: -6.2772891
+    latitude: -6.2910708
+    longitude: 176.314856
+- name: Nui
+  code: NUI
+  countryalpha2: TV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 177.1461329
+    minlatitude: -7.246044599999999
+    maxlongitude: 177.16564
+    maxlatitude: -7.1889099
+    latitude: -7.2426288
+    longitude: 177.1485716
 - name: Vaitupu
   names:
-  - Vaitupu
+    - Vaitupu
   code: VAI
   countryalpha2: TV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 178.66246
-    minlatitude: -7.4991107
-    maxlongitude: 178.69728
-    maxlatitude: -7.457773
-    latitude: -7.4767327
-    longitude: 178.67477
+    minlongitude: 178.6624575
+    minlatitude: -7.4991106
+    maxlongitude: 178.6972833
+    maxlatitude: -7.4577731
+    latitude: -7.476732699999999
+    longitude: 178.6747675

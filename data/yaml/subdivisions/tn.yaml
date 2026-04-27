@@ -1,367 +1,367 @@
-- name: L'Ariana
-  names:
-  - Ariano
-  - Iryanah
-  - Ariana
-  code: "12"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.976984
-    minlatitude: 36.827763
-    maxlongitude: 10.244893
-    maxlatitude: 37.135246
-    latitude: 36.992275
-    longitude: 10.125516
-- name: Le Kef
-  names:
-  - El Kef
-  - Le Kef
-  code: "33"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.670745
-    minlatitude: 36.141445
-    maxlongitude: 8.733897
-    maxlatitude: 36.192276
-    latitude: 36.18222
-    longitude: 8.714722
-- name: Kebili
-  names:
-  - Qabili
-  - Qabilī
-  - Qibili
-  - Kébili
-  code: "73"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.7384553
-    minlatitude: 32.51591
-    maxlongitude: 9.998009
-    maxlatitude: 34.209377
-    latitude: 33.124527
-    longitude: 8.836275
-- name: Medenine
-  names:
-  - Madaniyin
-  - Medenine
-  code: "82"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.460873
-    minlatitude: 33.322712
-    maxlongitude: 10.521641
-    maxlatitude: 33.370533
-    latitude: 33.35472
-    longitude: 10.505278
-- name: Tataouine
-  names:
-  - Tatawin
-  - Tatouine
-  code: "83"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.40534
-    minlatitude: 32.8873
-    maxlongitude: 10.47967
-    maxlatitude: 32.96187
-    latitude: 32.933334
-    longitude: 10.45
 - name: Tunis
   names:
-  - Toûnis
-  - Tūnis
-  - Tunis
-  - Tunis
-  - Túnez
+    - Toûnis
+    - Tūnis
+    - Tunis
+    - Tunis
+    - Túnez
   code: "11"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.017943
-    minlatitude: 36.718426
-    maxlongitude: 10.268612
-    maxlatitude: 36.871338
-    latitude: 36.806496
-    longitude: 10.181532
-- name: Bizerte
+    minlongitude: 10.0179433
+    minlatitude: 36.7184274
+    maxlongitude: 10.2686119
+    maxlatitude: 36.8713385
+    latitude: 36.8064948
+    longitude: 10.1815316
+- name: L'Ariana
   names:
-  - Banzart
-  - Benzert
-  - Bizerta
-  - Bizerte
-  code: "23"
+    - Ariano
+    - Iryanah
+    - Ariana
+  code: "12"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.83963
-    minlatitude: 37.254425
-    maxlongitude: 9.885863
-    maxlatitude: 37.295837
-    latitude: 37.266666
-    longitude: 9.866667
-- name: Jendouba
-  names:
-  - Jundubah
-  - Jendouba
-  code: "32"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.750782
-    minlatitude: 36.485348
-    maxlongitude: 8.807001
-    maxlatitude: 36.521225
-    latitude: 36.5
-    longitude: 8.783333
-- name: Siliana
-  names:
-  - Silyanah
-  - Siliana
-  code: "34"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.34988
-    minlatitude: 36.074703
-    maxlongitude: 9.380608
-    maxlatitude: 36.098907
-    latitude: 36.081944
-    longitude: 9.374722
-- name: Monastir
-  names:
-  - al-Munastir
-  - Monastir
-  code: "52"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.777073
-    minlatitude: 35.720455
-    maxlongitude: 10.843709
-    maxlatitude: 35.78804
-    latitude: 35.783333
-    longitude: 10.833333
-- name: Gabès
-  names:
-  - Qabis
-  - Gabès
-  code: "81"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.085449
-    minlatitude: 33.870808
-    maxlongitude: 10.119867
-    maxlatitude: 33.90775
-    latitude: 33.88333
-    longitude: 10.116667
-- name: Zaghouan
-  names:
-  - Zaghwan
-  - Zagwan
-  - Zaghouan
-  code: "22"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.114443
-    minlatitude: 36.391647
-    maxlongitude: 10.158062
-    maxlatitude: 36.426105
-    latitude: 36.4
-    longitude: 10.15
-- name: Sousse
-  names:
-  - Susah
-  - Sousse
-  code: "51"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.574371
-    minlatitude: 35.78571
-    maxlongitude: 10.666535
-    maxlatitude: 35.87298
-    latitude: 35.825603
-    longitude: 10.608395
-- name: Mahdia
-  names:
-  - Mahdia
-  - al-Mahdiyah
-  - Mehdia
-  code: "53"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.021955
-    minlatitude: 35.492466
-    maxlongitude: 11.08216
-    maxlatitude: 35.517
-    latitude: 35.502445
-    longitude: 11.045721
-- name: Gafsa
-  names:
-  - Gafsa
-  code: "71"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.744003
-    minlatitude: 34.403908
-    maxlongitude: 8.803318
-    maxlatitude: 34.453274
-    latitude: 34.416668
-    longitude: 8.783333
-- name: Sfax
-  names:
-  - Safaqis
-  - Sfax
-  code: "61"
-  countryalpha2: TN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.677681
-    minlatitude: 34.69963
-    maxlongitude: 10.803595
-    maxlatitude: 34.814648
-    latitude: 34.733334
-    longitude: 10.766667
+    minlongitude: 9.976983899999999
+    minlatitude: 36.827762
+    maxlongitude: 10.2448928
+    maxlatitude: 37.1352458
+    latitude: 36.9922751
+    longitude: 10.1255164
 - name: Ben Arous
   names:
-  - Bin Arus
-  - Ben Arous
+    - Bin Arus
+    - Ben Arous
   code: "13"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.209043
-    minlatitude: 36.72973
-    maxlongitude: 10.260251
-    maxlatitude: 36.763237
-    latitude: 36.7435
-    longitude: 10.231976
+    minlongitude: 10.2090426
+    minlatitude: 36.7297301
+    maxlongitude: 10.2602512
+    maxlatitude: 36.7632374
+    latitude: 36.7435003
+    longitude: 10.2319757
 - name: La Manouba
   names:
-  - Manouba
+    - Manouba
   code: "14"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 9.553794
-    minlatitude: 36.59201
+    minlatitude: 36.592011
     maxlongitude: 10.081348
-    maxlatitude: 36.97958
-    latitude: 36.84465
-    longitude: 9.8571415
+    maxlatitude: 36.9795789
+    latitude: 36.8446504
+    longitude: 9.8571416
 - name: Nabeul
   names:
-  - Nabul
-  - Nabeul
+    - Nabul
+    - Nabeul
   code: "21"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.672059
-    minlatitude: 36.424477
-    maxlongitude: 10.7524395
-    maxlatitude: 36.477207
-    latitude: 36.454166
+    minlongitude: 10.6720592
+    minlatitude: 36.4244781
+    maxlongitude: 10.7524394
+    maxlatitude: 36.4772055
+    latitude: 36.454167
     longitude: 10.734722
+- name: Zaghouan
+  names:
+    - Zaghwan
+    - Zagwan
+    - Zaghouan
+  code: "22"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.1144424
+    minlatitude: 36.3916477
+    maxlongitude: 10.1580619
+    maxlatitude: 36.4261047
+    latitude: 36.4
+    longitude: 10.15
+- name: Bizerte
+  names:
+    - Banzart
+    - Benzert
+    - Bizerta
+    - Bizerte
+  code: "23"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.839630099999999
+    minlatitude: 37.2544257
+    maxlongitude: 9.885862999999999
+    maxlatitude: 37.2958372
+    latitude: 37.266667
+    longitude: 9.866667
 - name: Béja
   names:
-  - Bajah
-  - Béja
+    - Bajah
+    - Béja
   code: "31"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.162196
-    minlatitude: 36.713097
-    maxlongitude: 9.213009
-    maxlatitude: 36.746323
-    latitude: 36.733334
+    minlongitude: 9.1621957
+    minlatitude: 36.713096
+    maxlongitude: 9.213008799999999
+    maxlatitude: 36.7463238
+    latitude: 36.733333
     longitude: 9.183333
+- name: Jendouba
+  names:
+    - Jundubah
+    - Jendouba
+  code: "32"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.750782
+    minlatitude: 36.485349
+    maxlongitude: 8.807001099999999
+    maxlatitude: 36.5212251
+    latitude: 36.5
+    longitude: 8.783332999999999
+- name: Le Kef
+  names:
+    - El Kef
+    - Le Kef
+  code: "33"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.670744899999999
+    minlatitude: 36.1414446
+    maxlongitude: 8.7338974
+    maxlatitude: 36.1922777
+    latitude: 36.182222
+    longitude: 8.714722
+- name: Siliana
+  names:
+    - Silyanah
+    - Siliana
+  code: "34"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.349880200000001
+    minlatitude: 36.0747015
+    maxlongitude: 9.3806076
+    maxlatitude: 36.098909
+    latitude: 36.08194400000001
+    longitude: 9.374722
 - name: Kairouan
   names:
-  - al-Qayrawan
-  - Kairouan
+    - al-Qayrawan
+    - Kairouan
   code: "41"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.069141
-    minlatitude: 35.641323
-    maxlongitude: 10.133171
-    maxlatitude: 35.707214
-    latitude: 35.675915
-    longitude: 10.091925
+    minlongitude: 10.0691415
+    minlatitude: 35.64132439999999
+    maxlongitude: 10.1331712
+    maxlatitude: 35.7072139
+    latitude: 35.6759137
+    longitude: 10.0919243
 - name: Kasserine
   names:
-  - Qasrayn
-  - Kasserine
+    - Qasrayn
+    - Kasserine
   code: "42"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.780909
-    minlatitude: 35.150513
-    maxlongitude: 8.868628
-    maxlatitude: 35.190014
-    latitude: 35.166668
+    minlongitude: 8.780908499999999
+    minlatitude: 35.1505123
+    maxlongitude: 8.8686274
+    maxlatitude: 35.1900134
+    latitude: 35.166667
     longitude: 8.833333
 - name: Sidi Bouzid
   names:
-  - Sidi Bu Zayd
-  - Sidi Bouzid
+    - Sidi Bu Zayd
+    - Sidi Bouzid
   code: "43"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.4474745
-    minlatitude: 35.02339
-    maxlongitude: 9.5066
-    maxlatitude: 35.04939
+    minlongitude: 9.4474748
+    minlatitude: 35.0233905
+    maxlongitude: 9.506600599999999
+    maxlatitude: 35.0493886
     latitude: 35.033333
     longitude: 9.5
+- name: Sousse
+  names:
+    - Susah
+    - Sousse
+  code: "51"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.5743716
+    minlatitude: 35.7857109
+    maxlongitude: 10.666535
+    maxlatitude: 35.8729782
+    latitude: 35.825603
+    longitude: 10.608395
+- name: Monastir
+  names:
+    - al-Munastir
+    - Monastir
+  code: "52"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.7770729
+    minlatitude: 35.7204547
+    maxlongitude: 10.8437093
+    maxlatitude: 35.788039
+    latitude: 35.783333
+    longitude: 10.833333
+- name: Mahdia
+  names:
+    - Mahdia
+    - al-Mahdiyah
+    - Mehdia
+  code: "53"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.0219544
+    minlatitude: 35.4924656
+    maxlongitude: 11.0821596
+    maxlatitude: 35.516999
+    latitude: 35.5024461
+    longitude: 11.045721
+- name: Sfax
+  names:
+    - Safaqis
+    - Sfax
+  code: "61"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.677681
+    minlatitude: 34.6996316
+    maxlongitude: 10.8035946
+    maxlatitude: 34.8146488
+    latitude: 34.733333
+    longitude: 10.766667
+- name: Gafsa
+  names:
+    - Gafsa
+  code: "71"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.744003
+    minlatitude: 34.403907
+    maxlongitude: 8.8033181
+    maxlatitude: 34.4532756
+    latitude: 34.416667
+    longitude: 8.783332999999999
 - name: Tozeur
   names:
-  - Tozeur
+    - Tozeur
   code: "72"
   countryalpha2: TN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.082333
-    minlatitude: 33.89386
-    maxlongitude: 8.157349
-    maxlatitude: 33.9435
-    latitude: 33.916668
+    minlongitude: 8.082332599999999
+    minlatitude: 33.8938586
+    maxlongitude: 8.157348599999999
+    maxlatitude: 33.9435024
+    latitude: 33.916667
     longitude: 8.133333
+- name: Kebili
+  names:
+    - Qabili
+    - Qabilī
+    - Qibili
+    - Kébili
+  code: "73"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.738455099999999
+    minlatitude: 32.515911
+    maxlongitude: 9.998009099999999
+    maxlatitude: 34.209379
+    latitude: 33.1245286
+    longitude: 8.8362755
+- name: Gabès
+  names:
+    - Qabis
+    - Gabès
+  code: "81"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.0854492
+    minlatitude: 33.8708076
+    maxlongitude: 10.1198673
+    maxlatitude: 33.9077505
+    latitude: 33.883333
+    longitude: 10.116667
+- name: Medenine
+  names:
+    - Madaniyin
+    - Medenine
+  code: "82"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.4608726
+    minlatitude: 33.3227112
+    maxlongitude: 10.5216409
+    maxlatitude: 33.3705348
+    latitude: 33.354722
+    longitude: 10.505278
+- name: Tataouine
+  names:
+    - Tatawin
+    - Tatouine
+  code: "83"
+  countryalpha2: TN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.4053402
+    minlatitude: 32.8872997
+    maxlongitude: 10.4796697
+    maxlatitude: 32.9618664
+    latitude: 32.933333
+    longitude: 10.45

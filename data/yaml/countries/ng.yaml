@@ -1,72 +1,124 @@
 name:
-  common: Nigeria
-  official: Federal Republic of Nigeria
-  native:
-    eng:
-      common: Nigeria
-      official: Federal Republic of Nigeria
+    common: Nigeria
+    official: The Federal Republic of Nigeria
+    native:
+        eng:
+            common: Nigeria
+            official: Federal Republic of Nigeria
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Nigerian
+altspellings:
+    - Nigeria
+    - Nigéria
+    - the Federal Republic of Nigeria
+    - ナイジェリア
+    - NG
+    - Nijeriya
+    - Naíjíríà
+    - Federal Republic of Nigeria
 tlds:
-- .ng
+    - .ng
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Nigeria
-    official: Bundesrepublik Nigeria
-  FIN:
-    common: Nigeria
-    official: Nigerian liittotasavalta
-  FRA:
-    common: Nigéria
-    official: République fédérale du Nigeria
-  HRV:
-    common: Nigerija
-    official: Savezna Republika Nigerija
-  ITA:
-    common: Nigeria
-    official: Repubblica federale di Nigeria
-  NLD:
-    common: Nigeria
-    official: Federale Republiek Nigeria
-  POR:
-    common: Nigéria
-    official: República Federal da Nigéria
-  RUS:
-    common: Нигерия
-    official: Федеративная Республика Нигерия
-  SPA:
-    common: Nigeria
-    official: República Federal de Nigeria
+    ARA:
+        common: نيجيريا
+        official: جمهورية نيجيريا الاتحادية
+    CES:
+        common: Nigérie
+        official: Nigerijská federativní republika
+    DEU:
+        common: Nigeria
+        official: Bundesrepublik Nigeria
+    EST:
+        common: Nigeeria
+        official: Nigeeria Liitvabariik
+    FIN:
+        common: Nigeria
+        official: Nigerian liittotasavalta
+    FRA:
+        common: Nigéria
+        official: République fédérale du Nigeria
+    HRV:
+        common: Nigerija
+        official: Savezna Republika Nigerija
+    HUN:
+        common: Nigéria
+        official: Nigéria
+    ITA:
+        common: Nigeria
+        official: Repubblica federale di Nigeria
+    JPN:
+        common: ナイジェリア
+        official: ナイジェリア連邦共和国
+    KOR:
+        common: 나이지리아
+        official: 나이지리아 연방 공화국
+    NLD:
+        common: Nigeria
+        official: Federale Republiek Nigeria
+    PER:
+        common: نیجریه
+        official: جمهوری فدرال نیجریه
+    POL:
+        common: Nigeria
+        official: Federalna Republika Nigerii
+    POR:
+        common: Nigéria
+        official: República Federal da Nigéria
+    RUS:
+        common: Нигерия
+        official: Федеративная Республика Нигерия
+    SLK:
+        common: Nigéria
+        official: Nigérijská federatívna republika
+    SPA:
+        common: Nigeria
+        official: República Federal de Nigeria
+    SRP:
+        common: Nigerija
+        official: Savezna Republika Nigerija
+    SWE:
+        common: Nigeria
+        official: Förbundsrepubliken Nigeria
+    TUR:
+        common: Nijerya
+        official: Nijerya Federal Cumhuriyeti
+    URD:
+        common: نائجیریا
+        official: وفاقی جمہوریہ نائجیریا
+    ZHO:
+        common: 尼日利亚
+        official: 尼日利亚联邦共和国
 currencies:
-- NGN
+    - NGN
 borders:
-- BEN
-- CMR
-- TCD
-- NER
+    - BEN
+    - CMR
+    - TCD
+    - NER
 codes:
-  alpha2: NG
-  alpha3: NGA
-  cioc: NGR
-  ccn3: "566"
-  callingcodes:
-  - "234"
-  internationalprefix: "009"
+    alpha2: NG
+    alpha3: NGA
+    cioc: NGR
+    ccn3: "566"
+    callingcodes:
+        - "234"
+    internationalprefix: "009"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Abuja
-  area: 923768
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Abuja
+    area: 923768
 coordinates:
-  longitudestring: 8 00 E
-  latitudestring: 10 00 N
-  minlongitude: 2.716667
-  minlatitude: 4.266667
-  maxlongitude: 14.65
-  maxlatitude: 13.866667
-  latitude: 9.559505
-  longitude: 8.077881
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.676932
+    minlatitude: 4.1821001
+    maxlongitude: 14.677982
+    maxlatitude: 13.8856449
+    latitude: 9.081999
+    longitude: 8.675277

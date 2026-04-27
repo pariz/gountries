@@ -1,67 +1,123 @@
 name:
-  common: Myanmar
-  official: Republic of the Union of Myanmar
-  native:
-    mya:
-      common: မြန်မာ
-      official: ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်
+    common: Myanmar
+    official: The Republic of the Union of Myanmar
+    native:
+        mya:
+            common: မြန်မာ
+            official: ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Myanmarian
+altspellings:
+    - Myanmar (Burma)
+    - ミャンマー
+    - Burma
+    - MM
+    - Republic of the Union of Myanmar
+    - Pyidaunzu Thanmăda Myăma Nainngandaw
 tlds:
-- .mm
+    - .mm
 languages:
-  mya: Burmese
+    my: ""
+    mya: Burmese
 translations:
-  DEU:
-    common: Myanmar
-    official: Republik der Union von Myanmar
-  FIN:
-    common: Myanmar
-    official: Myanmarin liiton tasavalta
-  FRA:
-    common: Birmanie
-    official: République de l'Union du Myanmar
-  HRV:
-    common: Mijanmar
-    official: Republika Unije Mijanmar
-  POR:
-    common: Myanmar
-    official: República da União de Myanmar
-  RUS:
-    common: Мьянма
-    official: Республика Союза Мьянма
-  SPA:
-    common: Myanmar
-    official: República de la Unión de Myanmar
+    ARA:
+        common: ميانمار
+        official: جمهورية اتحاد ميانمار
+    CES:
+        common: Myanmar
+        official: Republika Myanmarský svaz
+    DEU:
+        common: Myanmar
+        official: Republik der Union Myanmar
+    EST:
+        common: Myanmar
+        official: Myanmari Liidu Vabariik
+    FIN:
+        common: Myanmar
+        official: Myanmarin liiton tasavalta
+    FRA:
+        common: Birmanie
+        official: République de l'Union du Myanmar
+    HRV:
+        common: Mijanmar
+        official: Republika Unije Mijanmar
+    HUN:
+        common: Mianmar
+        official: Mianmari Államszövetség Köztársasága
+    ITA:
+        common: Birmania
+        official: Repubblica dell'Unione di Myanmar
+    JPN:
+        common: ミャンマー
+        official: ミャンマー連邦共和国
+    KOR:
+        common: 미얀마
+        official: 미얀마 연방 공화국
+    NLD:
+        common: Myanmar
+        official: Republiek van de Unie van Myanmar
+    PER:
+        common: میانمار
+        official: اتحادیه جمهوری میانمار
+    POL:
+        common: Mjanma
+        official: Republika Związku Mjanmy
+    POR:
+        common: Myanmar
+        official: República da União de Myanmar
+    RUS:
+        common: Мьянма
+        official: Республика Союза Мьянма
+    SLK:
+        common: Mjanmarsko
+        official: Mjanmarská zväzová republika
+    SPA:
+        common: Myanmar
+        official: República de la Unión de Myanmar
+    SRP:
+        common: Mjanmar
+        official: Republika Mjanmarska Unija
+    SWE:
+        common: Myanmar
+        official: Republiken Unionen Myanmar
+    TUR:
+        common: Myanmar
+        official: Myanmar Birliği Cumhuriyeti
+    URD:
+        common: میانمار
+        official: متحدہ جمہوریہ میانمار
+    ZHO:
+        common: 缅甸
+        official: 缅甸联邦共和国
 currencies:
-- MMK
+    - MMK
 borders:
-- BGD
-- CHN
-- IND
-- LAO
-- THA
+    - BGD
+    - CHN
+    - IND
+    - LAO
+    - THA
 codes:
-  alpha2: MM
-  alpha3: MMR
-  cioc: MYA
-  ccn3: "104"
-  callingcodes:
-  - "95"
-  internationalprefix: "00"
+    alpha2: MM
+    alpha3: MMR
+    cioc: MYA
+    ccn3: "104"
+    callingcodes:
+        - "95"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Naypyidaw
-  area: 676578
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Naypyidaw
+    area: 676578
 coordinates:
-  longitudestring: 98 00 E
-  latitudestring: 22 00 N
-  minlongitude: 92.190834
-  minlatitude: 6
-  maxlongitude: 102
-  maxlatitude: 28.35
-  latitude: 20.330143
-  longitude: 96.52182
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 92.171808
+    minlatitude: 9.4518
+    maxlongitude: 101.1702717
+    maxlatitude: 28.5478351
+    latitude: 21.916221
+    longitude: 95.955974

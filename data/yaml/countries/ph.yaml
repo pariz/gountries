@@ -1,69 +1,124 @@
 name:
-  common: Philippines
-  official: Republic of the Philippines
-  native:
-    eng:
-      common: Philippines
-      official: Republic of the Philippines
-    fil:
-      common: Pilipinas
-      official: Republic of the Philippines
+    common: Philippines
+    official: The Republic of the Philippines
+    native:
+        eng:
+            common: Philippines
+            official: Republic of the Philippines
+        fil:
+            common: Pilipinas
+            official: Republic of the Philippines
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Filipino
+altspellings:
+    - Philippines
+    - Philippinen
+    - Filipinas
+    - フィリピン
+    - Filipijnen
+    - PH
+    - Republic of the Philippines
+    - Repúblika ng Pilipinas
 tlds:
-- .ph
+    - .ph
 languages:
-  eng: English
-  fil: Filipino
+    en: ""
+    eng: English
+    fil: Filipino
+    tl: ""
 translations:
-  DEU:
-    common: Philippinen
-    official: Republik der Philippinen
-  HRV:
-    common: Filipini
-    official: Republika Filipini
-  ITA:
-    common: Filippine
-    official: Repubblica delle Filippine
-  JPN:
-    common: フィリピン
-    official: フィリピン共和国
-  NLD:
-    common: Filipijnen
-    official: Republiek der Filipijnen
-  POR:
-    common: Filipinas
-    official: República das Filipinas
-  RUS:
-    common: Филиппины
-    official: Республика Филиппины
-  SPA:
-    common: Filipinas
-    official: República de las Filipinas
+    ARA:
+        common: الفلبين
+        official: جمهورية الفلبين
+    CES:
+        common: Filipíny
+        official: Filipínská republika
+    DEU:
+        common: Philippinen
+        official: Republik der Philippinen
+    EST:
+        common: Filipiinid
+        official: Filipiini Vabariik
+    FIN:
+        common: Filippiinit
+        official: Filippiinien tasavalta
+    FRA:
+        common: Philippines
+        official: République des Philippines
+    HRV:
+        common: Filipini
+        official: Republika Filipini
+    HUN:
+        common: Fülöp-szigetek
+        official: Fülöp-szigeteki Köztársaság
+    ITA:
+        common: Filippine
+        official: Repubblica delle Filippine
+    JPN:
+        common: フィリピン
+        official: フィリピン共和国
+    KOR:
+        common: 필리핀
+        official: 필리핀 공화국
+    NLD:
+        common: Filipijnen
+        official: Republiek der Filipijnen
+    PER:
+        common: فیلیپین
+        official: جمهوری فیلیپین
+    POL:
+        common: Filipiny
+        official: Republika Filipin
+    POR:
+        common: Filipinas
+        official: República das Filipinas
+    RUS:
+        common: Филиппины
+        official: Республика Филиппины
+    SLK:
+        common: Filipíny
+        official: Filipínska republika
+    SPA:
+        common: Filipinas
+        official: República de las Filipinas
+    SRP:
+        common: Filipini
+        official: Republika Filipini
+    SWE:
+        common: Filippinerna
+        official: Republiken Filippinerna
+    TUR:
+        common: Filipinler
+        official: Filipinler Cumhuriyeti
+    URD:
+        common: فلپائن
+        official: جمہوریہ فلپائن
+    ZHO:
+        common: 菲律宾
+        official: 菲律宾共和国
 currencies:
-- PHP
-borders: []
+    - PHP
 codes:
-  alpha2: PH
-  alpha3: PHL
-  cioc: PHI
-  ccn3: "608"
-  callingcodes:
-  - "63"
-  internationalprefix: "00"
+    alpha2: PH
+    alpha3: PHL
+    cioc: PHI
+    ccn3: "608"
+    callingcodes:
+        - "63"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Manila
-  area: 342353
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Manila
+    area: 342353
 coordinates:
-  longitudestring: 122 00 E
-  latitudestring: 13 00 N
-  minlongitude: 116.65
-  minlatitude: 4.588889
-  maxlongitude: 126.60445
-  maxlatitude: 21.113056
-  latitude: 11.112666
-  longitude: 122.509476
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.1474999
+    minlatitude: 4.2259
+    maxlongitude: 127.6444784
+    maxlatitude: 21.2412572
+    latitude: 12.879721
+    longitude: 121.774017

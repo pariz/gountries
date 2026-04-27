@@ -1,64 +1,120 @@
 name:
-  common: Bangladesh
-  official: People's Republic of Bangladesh
-  native:
-    ben:
-      common: বাংলাদেশ
-      official: বাংলাদেশ গণপ্রজাতন্ত্রী
+    common: Bangladesh
+    official: The People's Republic of Bangladesh
+    native:
+        ben:
+            common: বাংলাদেশ
+            official: বাংলাদেশ গণপ্রজাতন্ত্রী
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bangladeshi
+altspellings:
+    - Bangladesh
+    - Bangladesch
+    - バングラデシュ
+    - BD
+    - People's Republic of Bangladesh
+    - Gônôprôjatôntri Bangladesh
 tlds:
-- .bd
+    - .bd
 languages:
-  ben: Bengali
+    ben: Bengali
+    bn: ""
 translations:
-  CYM:
-    common: Bangladesh
-    official: People's Republic of Bangladesh
-  DEU:
-    common: Bangladesch
-    official: Volksrepublik Bangladesch
-  FIN:
-    common: Bangladesh
-    official: Bangladeshin kansantasavalta
-  FRA:
-    common: Bangladesh
-    official: La République populaire du Bangladesh
-  ITA:
-    common: Bangladesh
-    official: Repubblica popolare del Bangladesh
-  JPN:
-    common: バングラデシュ
-    official: バングラデシュ人民共和国
-  SPA:
-    common: Bangladesh
-    official: República Popular de Bangladesh
+    ARA:
+        common: بنغلاديش
+        official: جمهورية بنغلاديش الشعبية
+    CES:
+        common: Bangladéš
+        official: Bangladéšská lidová republika
+    DEU:
+        common: Bangladesch
+        official: Volksrepublik Bangladesch
+    EST:
+        common: Bangladesh
+        official: Bangladeshi Rahvavabariik
+    FIN:
+        common: Bangladesh
+        official: Bangladeshin kansantasavalta
+    FRA:
+        common: Bangladesh
+        official: La République populaire du Bangladesh
+    HRV:
+        common: Bangladeš
+        official: Narodna Republika Bangladeš
+    HUN:
+        common: Banglades
+        official: Banglades
+    ITA:
+        common: Bangladesh
+        official: Repubblica popolare del Bangladesh
+    JPN:
+        common: バングラデシュ
+        official: バングラデシュ人民共和国
+    KOR:
+        common: 방글라데시
+        official: 방글라데시 인민 공화국
+    NLD:
+        common: Bangladesh
+        official: Volksrepubliek Bangladesh
+    PER:
+        common: بنگلادش
+        official: جمهوری خلق بنگلادش
+    POL:
+        common: Bangladesz
+        official: Ludowa Republika Bangladeszu
+    POR:
+        common: Bangladesh
+        official: República Popular do Bangladesh
+    RUS:
+        common: Бангладеш
+        official: Народная Республика Бангладеш
+    SLK:
+        common: Bangladéš
+        official: Bangladéšska ľudová republika
+    SPA:
+        common: Bangladesh
+        official: República Popular de Bangladesh
+    SRP:
+        common: Bangladeš
+        official: Narodna Republika Bangladeš
+    SWE:
+        common: Bangladesh
+        official: Folkrepubliken Bangladesh
+    TUR:
+        common: Bangladeş
+        official: Bangladeş Halk Cumhuriyeti
+    URD:
+        common: بنگلہ دیش
+        official: عوامی جمہوریہ بنگلہ دیش
+    ZHO:
+        common: 孟加拉国
+        official: 孟加拉人民共和国
 currencies:
-- BDT
+    - BDT
 borders:
-- MMR
-- IND
+    - MMR
+    - IND
 codes:
-  alpha2: BD
-  alpha3: BGD
-  cioc: BAN
-  ccn3: "050"
-  callingcodes:
-  - "880"
-  internationalprefix: "00"
+    alpha2: BD
+    alpha3: BGD
+    cioc: BAN
+    ccn3: "050"
+    callingcodes:
+        - "880"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Dhaka
-  area: 147570
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Dhaka
+    area: 147570
 coordinates:
-  longitudestring: 90 00 E
-  latitudestring: 24 00 N
-  minlongitude: 84
-  minlatitude: 20.6
-  maxlongitude: 92.683334
-  maxlatitude: 26.5
-  latitude: 23.730104
-  longitude: 90.306526
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.00861410000002
+    minlatitude: 20.3794
+    maxlongitude: 92.6801153
+    maxlatitude: 26.633914
+    latitude: 23.684994
+    longitude: 90.356331

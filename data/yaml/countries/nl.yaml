@@ -1,58 +1,124 @@
 name:
-  common: Netherlands
-  official: Netherlands
-  native:
-    nld:
-      common: Nederland
-      official: Nederland
+    common: Netherlands
+    official: The Kingdom of the Netherlands
+    native:
+        nld:
+            common: Nederland
+            official: Koninkrijk der Nederlanden
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Dutch
+altspellings:
+    - Netherlands
+    - The Netherlands
+    - Niederlande
+    - Pays-Bas
+    - Países Bajos
+    - オランダ
+    - Nederland
+    - Нидерландия
+    - NL
+    - Holland
 tlds:
-- .nl
+    - .nl
 languages:
-  nld: Dutch
+    nl: ""
+    nld: Dutch
 translations:
-  FIN:
-    common: Alankomaat
-    official: Alankomaat
-  FRA:
-    common: Pays-Bas
-    official: Pays-Bas
-  HRV:
-    common: Nizozemska
-    official: Holandija
-  JPN:
-    common: オランダ
-    official: オランダ
-  SPA:
-    common: Países Bajos
-    official: Países Bajos
+    ARA:
+        common: هولندا
+        official: هولندا
+    CES:
+        common: Nizozemsko
+        official: Nizozemské království
+    DEU:
+        common: Niederlande
+        official: Niederlande
+    EST:
+        common: Holland
+        official: Madalmaade Kuningriik
+    FIN:
+        common: Alankomaat
+        official: Alankomaat
+    FRA:
+        common: Pays-Bas
+        official: Pays-Bas
+    HRV:
+        common: Nizozemska
+        official: Holandija
+    HUN:
+        common: Hollandia
+        official: Holland Királyság
+    ITA:
+        common: Paesi Bassi
+        official: Paesi Bassi
+    JPN:
+        common: オランダ
+        official: オランダ王国
+    KOR:
+        common: 네덜란드
+        official: 네덜란드 왕국
+    NLD:
+        common: Nederland
+        official: Nederland
+    PER:
+        common: هلند
+        official: هلند
+    POL:
+        common: Holandia
+        official: Królestwo Niderlandów
+    POR:
+        common: Holanda
+        official: Holanda
+    RUS:
+        common: Нидерланды
+        official: Нидерланды
+    SLK:
+        common: Holansko
+        official: Holandské kráľovstvo
+    SPA:
+        common: Países Bajos
+        official: Países Bajos
+    SRP:
+        common: Holandija
+        official: Kraljevina Holandija
+    SWE:
+        common: Nederländerna
+        official: Nederländerna
+    TUR:
+        common: Hollanda
+        official: Hollanda Krallığı
+    URD:
+        common: نیدرلینڈز
+        official: مملکتِ نیدرلینڈز
+    ZHO:
+        common: 荷兰
+        official: 荷兰
 currencies:
-- EUR
+    - EUR
 borders:
-- BEL
-- DEU
+    - BEL
+    - DEU
 codes:
-  alpha2: NL
-  alpha3: NLD
-  cioc: NED
-  ccn3: "528"
-  callingcodes:
-  - "31"
-  internationalprefix: "00"
+    alpha2: NL
+    alpha3: NLD
+    cioc: NED
+    ccn3: "528"
+    callingcodes:
+        - "31"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Amsterdam
-  area: 41850
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Amsterdam
+    area: 41850
 coordinates:
-  longitudestring: 5 45 E
-  latitudestring: 52 30 N
-  minlongitude: 3.133333
-  minlatitude: 50.75
-  maxlongitude: 7.2
-  maxlatitude: 53.583332
-  latitude: 52.34226
-  longitude: 5.528157
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.3316001
+    minlatitude: 50.75038379999999
+    maxlongitude: 7.227510199999999
+    maxlatitude: 53.6316
+    latitude: 52.132633
+    longitude: 5.291265999999999

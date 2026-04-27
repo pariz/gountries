@@ -1,61 +1,121 @@
 name:
-  common: Nepal
-  official: Federal Democratic Republic of Nepal
-  native:
-    nep:
-      common: नपल
-      official: नेपाल संघीय लोकतान्त्रिक गणतन्त्र
+    common: Nepal
+    official: The Federal Democratic Republic of Nepal
+    native:
+        nep:
+            common: नेपाल
+            official: नेपाल संघीय लोकतान्त्रिक गणतन्त्र
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Nepalese
+altspellings:
+    - Nepal
+    - Népal
+    - the Federal Democratic Republic of Nepal
+    - ネパール
+    - NP
+    - Federal Democratic Republic of Nepal
+    - Loktāntrik Ganatantra Nepāl
 tlds:
-- .np
+    - .np
 languages:
-  nep: Nepali
+    ne: ""
+    nep: Nepali
 translations:
-  DEU:
-    common: Népal
-    official: Demokratischen Bundesrepublik Nepal
-  FIN:
-    common: Nepal
-    official: Nepalin demokraattinen liittotasavalta
-  FRA:
-    common: Népal
-    official: République du Népal
-  HRV:
-    common: Nepal
-    official: Savezna Demokratska Republika Nepal
-  ITA:
-    common: Nepal
-    official: Repubblica federale democratica del Nepal
-  NLD:
-    common: Nepal
-    official: Federale Democratische Republiek Nepal
+    ARA:
+        common: نيبال
+        official: جمهورية نيبال الديمقراطية الاتحادية
+    CES:
+        common: Nepál
+        official: Federativní demokratická republika Nepál
+    DEU:
+        common: Nepal
+        official: Demokratische Bundesrepublik Nepal
+    EST:
+        common: Nepal
+        official: Nepali Demokraatlik Liitvabariik
+    FIN:
+        common: Nepal
+        official: Nepalin demokraattinen liittotasavalta
+    FRA:
+        common: Népal
+        official: République du Népal
+    HRV:
+        common: Nepal
+        official: Savezna Demokratska Republika Nepal
+    HUN:
+        common: Nepál
+        official: Nepáli Szövetségi Demokratikus Köztársaság
+    ITA:
+        common: Nepal
+        official: Repubblica federale democratica del Nepal
+    JPN:
+        common: ネパール
+        official: ネパール連邦民主共和国
+    KOR:
+        common: 네팔
+        official: 네팔 연방 민주 공화국
+    NLD:
+        common: Nepal
+        official: Federale Democratische Republiek Nepal
+    PER:
+        common: نپال
+        official: جمهوری فدرال دموکراتیک نپال
+    POL:
+        common: Nepal
+        official: Federalna Demokratyczna Republika Nepalu
+    POR:
+        common: Nepal
+        official: República Democrática Federal do Nepal
+    RUS:
+        common: Непал
+        official: Федеративная Демократическая Республика Непал
+    SLK:
+        common: Nepál
+        official: Nepálska federatívna demokratická republika
+    SPA:
+        common: Nepal
+        official: República Democrática Federal de Nepal
+    SRP:
+        common: Nepal
+        official: Savezna Demokratska Republika Nepal
+    SWE:
+        common: Nepal
+        official: Demokratiska förbundsrepubliken Nepal
+    TUR:
+        common: Nepal
+        official: Nepal Federal Demokratik Cumhuriyeti
+    URD:
+        common: نیپال
+        official: وفاقی جمہوری جمہوریہ نیپال
+    ZHO:
+        common: 尼泊尔
+        official: 尼泊尔联邦民主共和国
 currencies:
-- NPR
+    - NPR
 borders:
-- CHN
-- IND
+    - CHN
+    - IND
 codes:
-  alpha2: NP
-  alpha3: NPL
-  cioc: NEP
-  ccn3: "524"
-  callingcodes:
-  - "977"
-  internationalprefix: "00"
+    alpha2: NP
+    alpha3: NPL
+    cioc: NEP
+    ccn3: "524"
+    callingcodes:
+        - "977"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Kathmandu
-  area: 147181
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Kathmandu
+    area: 147181
 coordinates:
-  longitudestring: 84 00 E
-  latitudestring: 28 00 N
-  minlongitude: 80
-  minlatitude: 26.45
-  maxlongitude: 88.183334
-  maxlatitude: 30.45
-  latitude: 28.259138
-  longitude: 83.94416
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.05846980000001
+    minlatitude: 26.3473741
+    maxlongitude: 88.20182969999999
+    maxlatitude: 30.4473898
+    latitude: 28.394857
+    longitude: 84.12400799999999

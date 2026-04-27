@@ -1,71 +1,121 @@
 name:
-  common: Vietnam
-  official: Socialist Republic of Vietnam
-  native:
-    vie:
-      common: Việt Nam
-      official: Cộng hòa xã hội chủ nghĩa Việt Nam
+    common: Viet Nam
+    official: The Socialist Republic of Viet Nam
+    native:
+        vie:
+            common: Việt Nam
+            official: Cộng hòa xã hội chủ nghĩa Việt Nam
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Vietnamese
+altspellings:
+    - Vietnam
+    - ベトナム
+    - Viet Nam
+    - VN
+    - Socialist Republic of Vietnam
+    - Cộng hòa Xã hội chủ nghĩa Việt Nam
 tlds:
-- .vn
+    - .vn
 languages:
-  vie: Vietnamese
+    vi: ""
+    vie: Vietnamese
 translations:
-  DEU:
-    common: Vietnam
-    official: Sozialistische Republik Vietnam
-  FRA:
-    common: Viêt Nam
-    official: République socialiste du Viêt Nam
-  HRV:
-    common: Vijetnam
-    official: Socijalistička Republika Vijetnam
-  ITA:
-    common: Vietnam
-    official: Repubblica socialista del Vietnam
-  JPN:
-    common: ベトナム
-    official: ベトナム社会主義共和国
-  NLD:
-    common: Vietnam
-    official: Socialistische Republiek Vietnam
-  POR:
-    common: Vietname
-    official: República Socialista do Vietname
-  RUS:
-    common: Вьетнам
-    official: Социалистическая Республика Вьетнам
-  SPA:
-    common: Vietnam
-    official: República Socialista de Vietnam
+    ARA:
+        common: فيتنام
+        official: جمهورية فيتنام الاشتراكية
+    CES:
+        common: Vietnam
+        official: Vietnamská socialistická republika
+    DEU:
+        common: Vietnam
+        official: Sozialistische Republik Vietnam
+    EST:
+        common: Vietnam
+        official: Vietnami Sotsialistlik Vabariik
+    FIN:
+        common: Vietnam
+        official: Vietnamin sosialistinen tasavalta
+    FRA:
+        common: Viêt Nam
+        official: République socialiste du Viêt Nam
+    HRV:
+        common: Vijetnam
+        official: Socijalistička Republika Vijetnam
+    HUN:
+        common: Vietnám
+        official: Vietnámi Szocialista Köztársaság
+    ITA:
+        common: Vietnam
+        official: Repubblica socialista del Vietnam
+    JPN:
+        common: ベトナム
+        official: ベトナム社会主義共和国
+    KOR:
+        common: 베트남
+        official: 베트남 사회주의 공화국
+    NLD:
+        common: Vietnam
+        official: Socialistische Republiek Vietnam
+    PER:
+        common: ویتنام
+        official: جمهوری سوسیالیستی ویتنام
+    POL:
+        common: Wietnam
+        official: Socjalistyczna Republika Wietnamu
+    POR:
+        common: Vietname
+        official: República Socialista do Vietname
+    RUS:
+        common: Вьетнам
+        official: Социалистическая Республика Вьетнам
+    SLK:
+        common: Vietnam
+        official: Vietnamská socialistická republika
+    SPA:
+        common: Vietnam
+        official: República Socialista de Vietnam
+    SRP:
+        common: Vijetnam
+        official: Socijalistička Republika Vijetnam
+    SWE:
+        common: Vietnam
+        official: Socialistiska republiken Vietnam
+    TUR:
+        common: Vietnam
+        official: Vietnam Sosyalist Cumhuriyeti
+    URD:
+        common: ویتنام
+        official: اشتراکی جمہوریہ ویتنام
+    ZHO:
+        common: 越南
+        official: 越南社会主义共和国
 currencies:
-- VND
+    - VND
 borders:
-- KHM
-- CHN
-- LAO
+    - KHM
+    - CHN
+    - LAO
 codes:
-  alpha2: VN
-  alpha3: VNM
-  cioc: VIE
-  ccn3: "704"
-  callingcodes:
-  - "84"
-  internationalprefix: "00"
+    alpha2: VN
+    alpha3: VNM
+    cioc: VIE
+    ccn3: "704"
+    callingcodes:
+        - "84"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Hanoi
-  area: 331212
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Hanoi
+    area: 331212
 coordinates:
-  longitudestring: 107 50 E
-  latitudestring: 16 10 N
-  minlongitude: 102.21667
-  minlatitude: 8.383333
-  maxlongitude: 109.46667
-  maxlatitude: 23.666668
-  latitude: 16.94043
-  longitude: 106.81643
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.1439156
+    minlatitude: 8.1952001
+    maxlongitude: 109.6765
+    maxlatitude: 23.3926504
+    latitude: 14.058324
+    longitude: 108.277199

@@ -1,112 +1,112 @@
-- name: Tahoua
-  names:
-  - Tahoua
-  code: "5"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.24168
-    minlatitude: 14.868022
-    maxlongitude: 5.296693
-    maxlatitude: 14.9285555
-    latitude: 14.883333
-    longitude: 5.266667
-- name: Tillabéri
-  names:
-  - Tillaberi
-  code: "6"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.16625
-    minlatitude: 11.901612
-    maxlongitude: 4.254565
-    maxlatitude: 15.70445
-    latitude: 14.6489525
-    longitude: 2.1450245
-- name: Zinder
-  names:
-  - Zinder
-  code: "7"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.960231
-    minlatitude: 13.775256
-    maxlongitude: 9.0148115
-    maxlatitude: 13.834538
-    latitude: 13.805278
-    longitude: 8.988333
-- name: Niamey
-  names:
-  - Niamey
-  code: "8"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.0319588
-    minlatitude: 13.446198
-    maxlongitude: 2.2061067
-    maxlatitude: 13.579339
-    latitude: 13.521389
-    longitude: 2.105278
 - name: Agadez
   names:
-  - Agadez
+    - Agadez
   code: "1"
   countryalpha2: NE
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 7.9526987
-    minlatitude: 16.948515
-    maxlongitude: 8.02101
-    maxlatitude: 16.98941
+    minlatitude: 16.948514
+    maxlongitude: 8.0210101
+    maxlatitude: 16.9894109
     latitude: 16.966667
     longitude: 7.983333
 - name: Diffa
   names:
-  - Diffa
+    - Diffa
   code: "2"
   countryalpha2: NE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.602434
-    minlatitude: 13.302767
-    maxlongitude: 12.63196
-    maxlatitude: 13.331414
+    minlongitude: 12.6024342
+    minlatitude: 13.3027664
+    maxlongitude: 12.6319599
+    maxlatitude: 13.3314146
     latitude: 13.316667
     longitude: 12.616667
 - name: Dosso
   names:
-  - Dosso
+    - Dosso
   code: "3"
   countryalpha2: NE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 3.178269
+    minlongitude: 3.1782688
     minlatitude: 13.0239105
     maxlongitude: 3.2271886
-    maxlatitude: 13.0693245
+    maxlatitude: 13.0693243
     latitude: 13.05
     longitude: 3.2
 - name: Maradi
   names:
-  - Maradi
+    - Maradi
   code: "4"
   countryalpha2: NE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.07729
+    minlongitude: 7.0772901
     minlatitude: 13.46399
-    maxlongitude: 7.128497
-    maxlatitude: 13.531919
+    maxlongitude: 7.128497299999999
+    maxlatitude: 13.5319182
     latitude: 13.483333
     longitude: 7.1
+- name: Tahoua
+  names:
+    - Tahoua
+  code: "5"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.241680100000001
+    minlatitude: 14.8680217
+    maxlongitude: 5.2966928
+    maxlatitude: 14.9285551
+    latitude: 14.883333
+    longitude: 5.266667
+- name: Tillabéri
+  names:
+    - Tillaberi
+  code: "6"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.16625
+    minlatitude: 11.9016119
+    maxlongitude: 4.254564999999999
+    maxlatitude: 15.7044501
+    latitude: 14.6489525
+    longitude: 2.1450245
+- name: Zinder
+  names:
+    - Zinder
+  code: "7"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.9602306
+    minlatitude: 13.7752561
+    maxlongitude: 9.0148114
+    maxlatitude: 13.8345383
+    latitude: 13.805278
+    longitude: 8.988332999999999
+- name: Niamey
+  names:
+    - Niamey
+  code: "8"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.0319587
+    minlatitude: 13.4461983
+    maxlongitude: 2.2061066
+    maxlatitude: 13.5793394
+    latitude: 13.521389
+    longitude: 2.105278

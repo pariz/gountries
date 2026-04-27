@@ -1,202 +1,188 @@
-- name: Jubbada Dhexe
-  names:
-  - Jubbada Dhexe
-  code: JD
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 40.99027
-    minlatitude: 0.352452
-    maxlongitude: 43.494965
-    maxlatitude: 2.38058
-    latitude: 2.0780487
-    longitude: 41.60118
-- name: Sool
-  names:
-  - Sool
-  code: SO
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.982597
-    minlatitude: 8
-    maxlongitude: 48.973164
-    maxlatitude: 9.77823
-    latitude: 8.722156
-    longitude: 47.763756
-- name: Bari
-  names:
-  - Bari
-  code: BR
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.90665
-    minlatitude: 8.326447
-    maxlongitude: 51.41303
-    maxlatitude: 11.985203
-    latitude: 10.120385
-    longitude: 49.69114
-- name: Hiiraan
-  names:
-  - Hiiraan
-  code: HI
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.415997
-    minlatitude: 3.319517
-    maxlongitude: 46.361507
-    maxlatitude: 5.454314
-    latitude: 4.321015
-    longitude: 45.299385
-- name: Gedo
-  names:
-  - Gedo
-  code: GE
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 40.99208
-    minlatitude: 2.28444
-    maxlongitude: 43.00459
-    maxlatitude: 4.264553
-    latitude: 3.5039227
-    longitude: 42.236244
-- name: Jubbada Hoose
-  names:
-  - Jubbada Hoose
-  code: JH
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 40.988632
-    minlatitude: -1.6541275
-    maxlongitude: 43.236126
-    maxlatitude: 1.382667
-    latitude: 0.224021
-    longitude: 41.60118
-- name: Sanaag
-  names:
-  - Sanaag
-  code: SA
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.88597
-    minlatitude: 9.255684
-    maxlongitude: 48.95186
-    maxlatitude: 11.322548
-    latitude: 10.393822
-    longitude: 47.763756
-- name: Shabeellaha Hoose
-  names:
-  - Shabeellaha Hoose
-  code: SH
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 42.904156
-    minlatitude: 0.6533486
-    maxlongitude: 45.317608
-    maxlatitude: 3.320112
-    latitude: 1.8766458
-    longitude: 44.247902
-- name: Togdheer
-  names:
-  - Togdheer
-  code: TO
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.628265
-    minlatitude: 8.0030575
-    maxlongitude: 46.98998
-    maxlatitude: 10.126165
-    latitude: 9.446058
-    longitude: 45.299385
-- name: Banaadir
-  names:
-  - Banaadir
-  code: BN
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.141457
-    minlatitude: 1.9337841
-    maxlongitude: 45.58607
-    maxlatitude: 2.195059
-    latitude: 2.1187375
-    longitude: 45.336945
-- name: Galguduud
-  names:
-  - Galguduud
-  code: GA
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.505127
-    minlatitude: 3.5412982
-    maxlongitude: 47.93942
-    maxlatitude: 6.2216
-    latitude: 5.185013
-    longitude: 46.825283
-- name: Bay
-  names:
-  - Bay
-  code: BY
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 42.341118
-    minlatitude: 1.625444
-    maxlongitude: 44.63283
-    maxlatitude: 3.543456
-    latitude: 2.4825194
-    longitude: 43.483738
 - name: Awdal
   names:
-  - Awdal
+    - Awdal
   code: AW
   countryalpha2: SO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 42.68301
-    minlatitude: 9.721215
-    maxlongitude: 44.217293
-    maxlatitude: 11.511476
-    latitude: 10.633429
-    longitude: 43.329468
+    minlongitude: 42.68300989999999
+    minlatitude: 9.721214999999999
+    maxlongitude: 44.2172924
+    maxlatitude: 11.5114751
+    latitude: 10.6334285
+    longitude: 43.329466
 - name: Bakool
   names:
-  - Bakool
+    - Bakool
   code: BK
   countryalpha2: SO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 42.7502
+    minlongitude: 42.750198
     minlatitude: 3.529067
     maxlongitude: 44.617615
     maxlatitude: 4.960437
-    latitude: 4.365722
-    longitude: 44.09603
+    latitude: 4.3657221
+    longitude: 44.0960311
+- name: Banaadir
+  names:
+    - Banaadir
+  code: BN
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.14145629999999
+    minlatitude: 1.9337841
+    maxlongitude: 45.5860699
+    maxlatitude: 2.195059
+    latitude: 2.1187375
+    longitude: 45.3369459
+- name: Bari
+  names:
+    - Bari
+  code: BR
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.906651
+    minlatitude: 8.326447
+    maxlongitude: 51.4130282
+    maxlatitude: 11.9852029
+    latitude: 10.1203847
+    longitude: 49.6911374
+- name: Bay
+  names:
+    - Bay
+  code: BY
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.3411179
+    minlatitude: 1.625444
+    maxlongitude: 44.63283209999999
+    maxlatitude: 3.543456
+    latitude: 2.4825193
+    longitude: 43.483738
+- name: Galguduud
+  names:
+    - Galguduud
+  code: GA
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.5051261
+    minlatitude: 3.5412981
+    maxlongitude: 47.939419
+    maxlatitude: 6.221599899999999
+    latitude: 5.1850128
+    longitude: 46.8252838
+- name: Gedo
+  names:
+    - Gedo
+  code: GE
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.992082
+    minlatitude: 2.28444
+    maxlongitude: 43.004589
+    maxlatitude: 4.264552999999999
+    latitude: 3.5039227
+    longitude: 42.2362435
+- name: Hiiraan
+  names:
+    - Hiiraan
+  code: HI
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.4159971
+    minlatitude: 3.3195169
+    maxlongitude: 46.361508
+    maxlatitude: 5.454314
+    latitude: 4.321015
+    longitude: 45.29938620000001
+- name: Jubbada Dhexe
+  names:
+    - Jubbada Dhexe
+  code: JD
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.990269
+    minlatitude: 0.352452
+    maxlongitude: 43.4949649
+    maxlatitude: 2.38058
+    latitude: 2.0780488
+    longitude: 41.6011814
+- name: Jubbada Hoose
+  names:
+    - Jubbada Hoose
+  code: JH
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.9886321
+    minlatitude: -1.6541275
+    maxlongitude: 43.2361241
+    maxlatitude: 1.382667
+    latitude: 0.224021
+    longitude: 41.6011814
+- name: Mudug
+  names:
+    - Mudug
+  code: MU
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.2261429
+    minlatitude: 4.427916
+    maxlongitude: 49.635255
+    maxlatitude: 7.797689
+    latitude: 6.5656726
+    longitude: 47.7637565
+- name: Nugaal
+  names:
+    - Nugaal
+  code: NU
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.789005
+    minlatitude: 7.386317599999999
+    maxlongitude: 50.16936099999999
+    maxlatitude: 8.9382501
+    latitude: 8.2173496
+    longitude: 49.2030851
+- name: Sanaag
+  names:
+    - Sanaag
+  code: SA
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.88597009999999
+    minlatitude: 9.2556839
+    maxlongitude: 48.95186
+    maxlatitude: 11.322548
+    latitude: 10.3938218
+    longitude: 47.7637565
 - name: Shabeellaha Dhexe
   names:
-  - Shabeellaha Dhexe
+    - Shabeellaha Dhexe
   code: SD
   countryalpha2: SO
   coordinates:
@@ -204,49 +190,63 @@
     latitudestring: ""
     minlongitude: 45.03761
     minlatitude: 2.170552
-    maxlongitude: 47.10183
+    maxlongitude: 47.10182959999999
     maxlatitude: 4.030119
     latitude: 2.9250247
-    longitude: 45.90397
+    longitude: 45.9039689
+- name: Shabeellaha Hoose
+  names:
+    - Shabeellaha Hoose
+  code: SH
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.904155
+    minlatitude: 0.6533486
+    maxlongitude: 45.317607
+    maxlatitude: 3.320112
+    latitude: 1.8766458
+    longitude: 44.2479015
+- name: Sool
+  names:
+    - Sool
+  code: SO
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.982599
+    minlatitude: 7.999999899999999
+    maxlongitude: 48.973164
+    maxlatitude: 9.778229999999999
+    latitude: 8.722155599999999
+    longitude: 47.7637565
+- name: Togdheer
+  names:
+    - Togdheer
+  code: TO
+  countryalpha2: SO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.6282671
+    minlatitude: 8.0030579
+    maxlongitude: 46.98998
+    maxlatitude: 10.1261651
+    latitude: 9.4460587
+    longitude: 45.29938620000001
 - name: Woqooyi Galbeed
   names:
-  - Woqooyi Galbeed
+    - Woqooyi Galbeed
   code: WO
   countryalpha2: SO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 43.27832
-    minlatitude: 8.785138
-    maxlongitude: 45.92782
-    maxlatitude: 10.866654
-    latitude: 9.542374
-    longitude: 44.09603
-- name: Mudug
-  names:
-  - Mudug
-  code: MU
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.226143
-    minlatitude: 4.427916
-    maxlongitude: 49.635254
-    maxlatitude: 7.797689
-    latitude: 6.5656724
-    longitude: 47.763756
-- name: Nugaal
-  names:
-  - Nugaal
-  code: NU
-  countryalpha2: SO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.789005
-    minlatitude: 7.3863177
-    maxlongitude: 50.16936
-    maxlatitude: 8.938251
-    latitude: 8.21735
-    longitude: 49.203087
+    minlongitude: 43.2783189
+    minlatitude: 8.785137899999999
+    maxlongitude: 45.927817
+    maxlatitude: 10.8666542
+    latitude: 9.542373999999999
+    longitude: 44.0960311

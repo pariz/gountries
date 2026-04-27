@@ -1,65 +1,121 @@
 name:
-  common: Saint Kitts and Nevis
-  official: Federation of Saint Christopher and Nevisa
-  native:
-    eng:
-      common: Saint Kitts and Nevis
-      official: Federation of Saint Christopher and Nevisa
+    common: Saint Kitts and Nevis
+    official: Saint Kitts and Nevis
+    native:
+        eng:
+            common: Saint Kitts and Nevis
+            official: Federation of Saint Christopher and Nevis
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Kittian and Nevisian
+altspellings:
+    - Saint Kitts and Nevis
+    - Föderation St. Kitts und Nevis
+    - Saint Kitts et Nevis
+    - Saint Kitts y Nevis
+    - セントクリストファー・ネイビス
+    - Saint Kitts en Nevis
+    - St. Kitts and Nevis
+    - St Kitts and Nevis
+    - KN
+    - Federation of Saint Christopher and Nevis
 tlds:
-- .kn
+    - .kn
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Saint Christopher und Nevis
-    official: Föderation von Saint Kitts und Nevisa
-  FIN:
-    common: Saint Kitts ja Nevis
-    official: Saint Christopherin ja Nevisin federaatio
-  FRA:
-    common: Saint-Christophe-et-Niévès
-    official: Fédération de Saint -Christophe-et Nevisa
-  HRV:
-    common: Sveti Kristof i Nevis
-    official: Federacija Sv.Kristofora i Nevisa
-  JPN:
-    common: セントクリストファー・ネイビス
-    official: セントクリストファーNevisa連盟
-  POR:
-    common: São Cristóvão e Nevis
-    official: Federação de São Cristóvão e Nevisa
-  RUS:
-    common: Сент-Китс и Невис
-    official: Федерация Сент-Кристофер и Nevisa
-  SPA:
-    common: San Cristóbal y Nieves
-    official: Federación de San Cristóbal y Nevisa
+    ARA:
+        common: سانت كيتس ونيفيس
+        official: اتحاد القديس كريستوفر ونيفيس
+    CES:
+        common: Svatý Kryštof a Nevis
+        official: Federace Sv. Kryštof a Nevis
+    DEU:
+        common: St. Kitts und Nevis
+        official: Föderation von St. Kitts und Nevis
+    EST:
+        common: Saint Kitts ja Nevis
+        official: Saint Kittsi ja Nevise Föderatsioon
+    FIN:
+        common: Saint Kitts ja Nevis
+        official: Saint Christopherin ja Nevisin federaatio
+    FRA:
+        common: Saint-Christophe-et-Niévès
+        official: Fédération de Saint-Christophe-et-Niévès
+    HRV:
+        common: Sveti Kristof i Nevis
+        official: Federacija Sv.Kristofora i Nevisa
+    HUN:
+        common: Saint Kitts és Nevis
+        official: Saint Christopher és Nevis Államszövetség
+    ITA:
+        common: Saint Kitts e Nevis
+        official: Federazione di Saint Christopher e Nevis
+    JPN:
+        common: セントキッツ・ネーヴィス連邦
+        official: セントキッツ・ネービス
+    KOR:
+        common: 세인트키츠 네비스
+        official: 세인트키츠 네비스 연방
+    NLD:
+        common: Saint Kitts en Nevis
+        official: Federatie van Saint Kitts en Nevis
+    PER:
+        common: سنت کیتس و نویس
+        official: فدراسیون سنت کیتس و نویس
+    POL:
+        common: Saint Kitts i Nevis
+        official: Federacja Saint Kitts i Nevis
+    POR:
+        common: São Cristóvão e Nevis
+        official: Federação de São Cristóvão e Nevis
+    RUS:
+        common: Сент-Китс и Невис
+        official: Федерация Сент-Кристофер и Н е в и с
+    SLK:
+        common: Svätý Krištof a Nevis
+        official: Feder໡cia Svätého Krištofa a Nevisu
+    SPA:
+        common: San Cristóbal y Nieves
+        official: Federación de San Cristóbal y Nevis
+    SRP:
+        common: Sveti Kits i Nevis
+        official: Federacija Sent Kits i Nevis
+    SWE:
+        common: Saint Kitts och Nevis
+        official: Federationen Saint Kitts och Nevis
+    TUR:
+        common: Saint Kitts ve Nevis
+        official: Saint Kitts ve Nevis Federasyonu
+    URD:
+        common: سینٹ کیٹز و ناویس
+        official: وفاقِ سینٹ کیٹز و ناویس
+    ZHO:
+        common: 圣基茨和尼维斯
+        official: 圣克里斯托弗和尼维斯联邦
 currencies:
-- XCD
-borders: []
+    - XCD
 codes:
-  alpha2: KN
-  alpha3: KNA
-  cioc: SKN
-  ccn3: "659"
-  callingcodes:
-  - "1869"
-  internationalprefix: "011"
+    alpha2: KN
+    alpha3: KNA
+    cioc: SKN
+    ccn3: "659"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Basseterre
-  area: 261
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Basseterre
+    area: 261
 coordinates:
-  longitudestring: 62 45 W
-  latitudestring: 17 20 N
-  minlongitude: -62.85
-  minlatitude: 17.1
-  maxlongitude: -62.516666
-  maxlatitude: 17.416668
-  latitude: 17.244473
-  longitude: -62.643185
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.86949999999999
+    minlatitude: 17.07861
+    maxlongitude: -62.52369989999999
+    maxlatitude: 17.4205891
+    latitude: 17.357822
+    longitude: -62.782998

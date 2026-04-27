@@ -1,62 +1,119 @@
 name:
-  common: Bahrain
-  official: Kingdom of Bahrain
-  native:
-    ara:
-      common: ‏البحرين
-      official: مملكة البحرين
+    common: Bahrain
+    official: The Kingdom of Bahrain
+    native:
+        ara:
+            common: البحرين
+            official: مملكة البحرين
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bahraini
+altspellings:
+    - Bahrain
+    - البحرين
+    - Bahreïn
+    - Bahrein
+    - バーレーン
+    - BH
+    - Kingdom of Bahrain
+    - Mamlakat al-Baḥrayn
 tlds:
-- .bh
+    - .bh
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  CYM:
-    common: Bahrain
-    official: Kingdom of Bahrain
-  FIN:
-    common: Bahrain
-    official: Bahrainin kuningaskunta
-  FRA:
-    common: Bahreïn
-    official: Royaume de Bahreïn
-  HRV:
-    common: Bahrein
-    official: Kraljevina Bahrein
-  JPN:
-    common: バーレーン
-    official: バーレーン王国
-  NLD:
-    common: Bahrein
-    official: Koninkrijk Bahrein
-  SPA:
-    common: Bahrein
-    official: Reino de Bahrein
+    ARA:
+        common: البحرين
+        official: مملكة البحرين
+    CES:
+        common: Bahrajn
+        official: Království Bahrajn
+    DEU:
+        common: Bahrain
+        official: Königreich Bahrain
+    EST:
+        common: Bahrein
+        official: Bahreini Kuningriik
+    FIN:
+        common: Bahrain
+        official: Bahrainin kuningaskunta
+    FRA:
+        common: Bahreïn
+        official: Royaume de Bahreïn
+    HRV:
+        common: Bahrein
+        official: Kraljevina Bahrein
+    HUN:
+        common: Bahrein
+        official: Bahreini Királyság
+    ITA:
+        common: Bahrein
+        official: Regno del Bahrain
+    JPN:
+        common: バーレーン
+        official: バーレーン王国
+    KOR:
+        common: 바레인
+        official: 바레인 왕국
+    NLD:
+        common: Bahrein
+        official: Koninkrijk Bahrein
+    PER:
+        common: بحرین
+        official: پادشاهی بحرین
+    POL:
+        common: Bahrajn
+        official: Królestwo Bahrajnu
+    POR:
+        common: Bahrein
+        official: Reino do Bahrein
+    RUS:
+        common: Бахрейн
+        official: Королевство Бахрейн
+    SLK:
+        common: Bahrajn
+        official: Bahrajnské kráľovstvo
+    SPA:
+        common: Bahrein
+        official: Reino de Bahrein
+    SRP:
+        common: Bahrein
+        official: Kraljevina Bahrein
+    SWE:
+        common: Bahrain
+        official: Konungariket Bahrain
+    TUR:
+        common: Bahreyn
+        official: Bahreyn Krallığı
+    URD:
+        common: بحرین
+        official: مملکتِ بحرین
+    ZHO:
+        common: 巴林
+        official: 巴林王国
 currencies:
-- BHD
-borders: []
+    - BHD
 codes:
-  alpha2: BH
-  alpha3: BHR
-  cioc: BRN
-  ccn3: "048"
-  callingcodes:
-  - "973"
-  internationalprefix: "00"
+    alpha2: BH
+    alpha3: BHR
+    cioc: BRN
+    ccn3: "048"
+    callingcodes:
+        - "973"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Manama
-  area: 765
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Manama
+    area: 765
 coordinates:
-  longitudestring: 50 33 E
-  latitudestring: 26 00 N
-  minlongitude: 45
-  minlatitude: 25
-  maxlongitude: 50.823334
-  maxlatitude: 26.416668
-  latitude: 26.09424
-  longitude: 50.542995
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.324246
+    minlatitude: 25.5349999
+    maxlongitude: 50.8509064
+    maxlatitude: 26.3469001
+    latitude: 26.0667
+    longitude: 50.5577

@@ -1,64 +1,121 @@
 name:
-  common: French Guiana
-  official: Guiana
-  native:
-    fra:
-      common: Guyane française
-      official: Guyanes
-eumember: false
-landlocked: false
-nationality: ""
-tlds:
-- .gf
-languages:
-  fra: French
-translations:
-  DEU:
-    common: Französisch Guyana
-    official: Guayana
-  FRA:
-    common: Guyane
+    common: French Guiana
     official: Guyane
-  HRV:
-    common: Francuska Gvajana
-    official: Gijana
-  ITA:
-    common: Guyana francese
-    official: Guiana
-  POR:
-    common: Guiana Francesa
-    official: Guiana
-  RUS:
-    common: Французская Гвиана
-    official: Гвиана
-  SPA:
-    common: Guayana Francesa
-    official: Guayana
+    native:
+        fra:
+            common: Guyane française
+            official: Guyane
+eumember: true
+landlocked: false
+nationality: French Guianan
+altspellings:
+    - French Guiana
+    - Französisch Guyana
+    - Guayana Francesa
+    - フランス領ギアナ
+    - Frans-Guyana
+    - GF
+    - Guiana
+    - Guyane
+tlds:
+    - .gf
+languages:
+    fr: ""
+    fra: French
+translations:
+    ARA:
+        common: غويانا
+        official: غويانا الفرنسية
+    CES:
+        common: Francouzská Guyana
+        official: Francouzská Guyana
+    DEU:
+        common: Französisch-Guayana
+        official: Französisch-Guayana
+    EST:
+        common: Prantsuse Guajaana
+        official: Guajaana departemang
+    FIN:
+        common: Ranskan Guayana
+        official: Ranskan Guayana
+    FRA:
+        common: Guyane
+        official: Guyane
+    HRV:
+        common: Francuska Gvajana
+        official: Gijana
+    HUN:
+        common: Francia Guyana
+        official: Francia Guyana
+    ITA:
+        common: Guyana francese
+        official: Guiana
+    JPN:
+        common: フランス領ギアナ
+        official: フランス領ギアナ
+    KOR:
+        common: 프랑스령 기아나
+        official: 프랑스령 기아나
+    NLD:
+        common: Frans-Guyana
+        official: Guyana
+    PER:
+        common: گویان فرانسه
+        official: گویان فرانسه
+    POL:
+        common: Gujana Francuska
+        official: Gujana Francuska
+    POR:
+        common: Guiana Francesa
+        official: Guiana
+    RUS:
+        common: Французская Гвиана
+        official: Гвиана
+    SLK:
+        common: Guyana
+        official: Francúzska Guyana
+    SPA:
+        common: Guayana Francesa
+        official: Guayana
+    SRP:
+        common: Francuska Gvajana
+        official: Gvajana
+    SWE:
+        common: Franska Guyana
+        official: Franska Guyana
+    TUR:
+        common: Fransız Guyanası
+        official: Fransız Guyanası
+    URD:
+        common: فرانسیسی گیانا
+        official: گیانا
+    ZHO:
+        common: 法属圭亚那
+        official: 法属圭亚那
 currencies:
-- EUR
+    - EUR
 borders:
-- BRA
-- SUR
+    - BRA
+    - SUR
 codes:
-  alpha2: GF
-  alpha3: GUF
-  cioc: ""
-  ccn3: "254"
-  callingcodes:
-  - "594"
-  internationalprefix: "00"
+    alpha2: GF
+    alpha3: GUF
+    ccn3: "254"
+    callingcodes:
+        - "594"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Cayenne
-  area: 83534
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Cayenne
+    area: 83534
 coordinates:
-  longitudestring: 53 00 W
-  latitudestring: 4 00 N
-  minlongitude: -60
-  minlatitude: 2.166667
-  maxlongitude: -51.65
-  maxlatitude: 5.75
-  latitude: 4.069991
-  longitude: -53.16831
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -54.5544379
+    minlatitude: 2.109287
+    maxlongitude: -51.6164491
+    maxlatitude: 5.9548
+    latitude: 3.933889
+    longitude: -53.125782

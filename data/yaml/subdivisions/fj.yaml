@@ -1,70 +1,238 @@
+- name: Ba
+  code: "01"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bua
+  code: "02"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cakaudrove
+  code: "03"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kadavu
+  code: "04"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lau
+  code: "05"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lomaiviti
+  code: "06"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Macuata
+  code: "07"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nadroga-Navosa
+  code: "08"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Naitasiri
+  code: "09"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Namosi
+  code: "10"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ra
+  code: "11"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rewa
+  code: "12"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Serua
+  code: "13"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tailevu
+  code: "14"
+  countryalpha2: FJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Central
   names:
-  - Central
+    - Central
   code: C
   countryalpha2: FJ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 177.77277
+    minlongitude: 177.772764
     minlatitude: -18.423275
-    maxlongitude: 178.77293
-    maxlatitude: -17.37659
-    latitude: -17.945312
-    longitude: 178.24612
+    maxlongitude: 178.772931
+    maxlatitude: -17.376591
+    latitude: -17.9453123
+    longitude: 178.2461183
 - name: Eastern
   names:
-  - Eastern
+    - Eastern
   code: E
   countryalpha2: FJ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 177.95885
-    minlatitude: -20.66943
-    maxlongitude: -178.39288
-    maxlatitude: -17.00193
+    minlongitude: 177.9588489
+    minlatitude: -20.6694303
+    maxlongitude: -178.3928847
+    maxlatitude: -17.0019299
     latitude: -17.688972
-    longitude: 178.80708
+    longitude: 178.8070886
 - name: Northern
   names:
-  - Northern
+    - Northern
   code: "N"
   countryalpha2: FJ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 178.27167
-    minlatitude: -17.114206
-    maxlongitude: -179.15424
-    maxlatitude: -15.715927
-    latitude: -16.626823
-    longitude: 179.01793
+    minlongitude: 178.2716609
+    minlatitude: -17.1142062
+    maxlongitude: -179.1542306
+    maxlatitude: -15.7159274
+    latitude: -16.6268225
+    longitude: 179.0179332
 - name: Rotuma
   names:
-  - Rotuma
+    - Rotuma
   code: R
   countryalpha2: FJ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 177.01091
-    minlatitude: -12.522689
-    maxlongitude: 177.1373
-    maxlatitude: -12.479535
-    latitude: -12.502507
-    longitude: 177.07242
+    minlongitude: 177.0109157
+    minlatitude: -12.5226892
+    maxlongitude: 177.1373037
+    maxlatitude: -12.4795352
+    latitude: -12.5025069
+    longitude: 177.0724164
 - name: Western
   names:
-  - Western
+    - Western
   code: W
   countryalpha2: FJ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 176.92113
-    minlatitude: -18.598341
-    maxlongitude: 178.45468
-    maxlatitude: -16.696295
-    latitude: -17.751085
-    longitude: 177.77634
+    minlongitude: 176.921122
+    minlatitude: -18.5983401
+    maxlongitude: 178.454681
+    maxlatitude: -16.6962956
+    latitude: -17.7510845
+    longitude: 177.7763333

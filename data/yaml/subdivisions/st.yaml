@@ -1,28 +1,86 @@
+- name: Água Grande
+  code: "01"
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cantagalo
+  code: "02"
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Caué
+  code: "03"
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lembá
+  code: "04"
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lobata
+  code: "05"
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mé-Zóchi
+  code: "06"
+  countryalpha2: ST
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Príncipe
   names:
-  - Príncipe
+    - Príncipe
   code: P
   countryalpha2: ST
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.264759
+    minlongitude: 7.2647591
     minlatitude: 1.35852
-    maxlongitude: 7.4624634
+    maxlongitude: 7.462463499999999
     maxlatitude: 1.6929356
     latitude: 1.6139381
-    longitude: 7.4056926
-- name: São Tomé
-  names:
-  - São Tomé
-  code: S
-  countryalpha2: ST
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.701524
-    minlatitude: 0.2995513
-    maxlongitude: 6.752995
-    maxlatitude: 0.3843648
-    latitude: 0.3301924
-    longitude: 6.733343
+    longitude: 7.4056928

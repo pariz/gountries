@@ -1,20 +1,90 @@
+- name: Artigas
+  names:
+    - Artigas
+  code: AR
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.88818699999999
+    minlatitude: -31.054585
+    maxlongitude: -55.9870069
+    maxlatitude: -30.082224
+    latitude: -30.4880891
+    longitude: -57.10131879999999
+- name: Canelones
+  names:
+    - Canelones
+  code: CA
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.27778
+    minlatitude: -34.52278
+    maxlongitude: -56.2833322
+    maxlatitude: -34.5166646
+    latitude: -34.721
+    longitude: -55.959
+- name: Cerro Lago
+  names:
+    - Cerro Lago
+  code: CL
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -53.517
+    minlatitude: -32.36667
+    maxlongitude: -54.18333
+    maxlatitude: -32.483
+    latitude: -32.3769
+    longitude: -54.1654
+- name: Colonia
+  names:
+    - Colonia
+  code: CO
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.7844
+    minlatitude: -35.5012
+    maxlongitude: -57.7667
+    maxlatitude: -34.4517
+    latitude: -34.4607
+    longitude: -57.8339
+- name: Durazno
+  names:
+    - Durazno
+  code: DU
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.6182749
+    minlatitude: -33.413685
+    maxlongitude: -56.4953762
+    maxlatitude: -33.3566481
+    latitude: -33.3822982
+    longitude: -56.5275506
 - name: Florida
   names:
-  - FLorida
+    - FLorida
   code: FD
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -56.245396
-    minlatitude: -34.11483
-    maxlongitude: -56.20042
-    maxlatitude: -34.075382
+    minlongitude: -56.2453946
+    minlatitude: -34.11482950000001
+    maxlongitude: -56.2004211
+    maxlatitude: -34.0753834
     latitude: -34.1
-    longitude: -56.216667
+    longitude: -56.21666699999999
 - name: Flores
   names:
-  - Flores
+    - Flores
   code: FS
   countryalpha2: UY
   coordinates:
@@ -24,201 +94,173 @@
     minlatitude: -33.963974
     maxlongitude: -56.3974
     maxlatitude: -33.12822
-    latitude: -33.562946
-    longitude: -56.831112
+    latitude: -33.5629477
+    longitude: -56.83111169999999
 - name: Lavalleja
   names:
-  - Lavalleja
+    - Lavalleja
   code: LA
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.626427
-    minlatitude: -34.6144
+    minlongitude: -55.6264269
+    minlatitude: -34.6143989
     maxlongitude: -54.126133
     maxlatitude: -33.296482
-    latitude: -34.004036
-    longitude: -54.961185
+    latitude: -34.0040354
+    longitude: -54.9611836
 - name: Maldonado
   names:
-  - Maldonado
+    - Maldonado
   code: MA
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.48498
-    minlatitude: -34.97339
-    maxlongitude: -54.471954
-    maxlatitude: -33.91335
-    latitude: -34.62776
-    longitude: -54.961185
+    minlongitude: -55.48498189999999
+    minlatitude: -34.9733882
+    maxlongitude: -54.4719539
+    maxlatitude: -33.91334880000001
+    latitude: -34.6277617
+    longitude: -54.9611836
+- name: Montevideo
+  names:
+    - Montevideo
+  code: MO
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.4311685
+    minlatitude: -34.9379555
+    maxlongitude: -56.0292436
+    maxlatitude: -34.70193
+    latitude: -34.9011127
+    longitude: -56.16453139999999
 - name: Paysandú
   names:
-  - Paysandú
+    - Paysandú
   code: PA
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -58.20572
+    minlongitude: -58.205719
     minlatitude: -32.572212
-    maxlongitude: -56.241325
-    maxlatitude: -31.429337
-    latitude: -32.22166
-    longitude: -57.462727
-- name: Salto
-  names:
-  - Salto
-  code: SA
-  countryalpha2: UY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.07796
-    minlatitude: -31.847
-    maxlongitude: -55.999905
-    maxlatitude: -30.716536
-    latitude: -31.467934
-    longitude: -57.10132
-- name: Artigas
-  names:
-  - Artigas
-  code: AR
-  countryalpha2: UY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.888187
-    minlatitude: -31.054585
-    maxlongitude: -55.987007
-    maxlatitude: -30.082224
-    latitude: -30.488089
-    longitude: -57.10132
-- name: Durazno
-  names:
-  - Durazno
-  code: DU
-  countryalpha2: UY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.618275
-    minlatitude: -33.413685
-    maxlongitude: -56.495377
-    maxlatitude: -33.356647
-    latitude: -33.382298
-    longitude: -56.52755
+    maxlongitude: -56.2413251
+    maxlatitude: -31.4293369
+    latitude: -32.2216595
+    longitude: -57.4627259
 - name: Río Negro
   names:
-  - Río Negro
+    - Río Negro
   code: RN
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -58.420315
-    minlatitude: -33.418285
-    maxlongitude: -56.5475
-    maxlatitude: -32.32292
-    latitude: -32.762543
-    longitude: -57.10132
+    minlongitude: -58.4203151
+    minlatitude: -33.4182849
+    maxlongitude: -56.547501
+    maxlatitude: -32.3229219
+    latitude: -32.7625409
+    longitude: -57.10131879999999
 - name: Rocha
   names:
-  - Rocha
+    - Rocha
   code: RO
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -54.564964
-    minlatitude: -34.79363
-    maxlongitude: -53.378513
-    maxlatitude: -33.135895
-    latitude: -33.967495
-    longitude: -53.91066
-- name: San José
-  names:
-  - San José
-  code: SJ
-  countryalpha2: UY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.17313
-    minlatitude: -34.78946
-    maxlongitude: -56.343636
-    maxlatitude: -33.816353
-    latitude: -34.25022
-    longitude: -56.741207
-- name: Tacuarembó
-  names:
-  - Tacuarembó
-  code: TA
-  countryalpha2: UY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.663513
-    minlatitude: -32.872562
-    maxlongitude: -54.651096
-    maxlatitude: -31.210968
-    latitude: -32.010674
-    longitude: -55.668964
-- name: Montevideo
-  names:
-  - Montevideo
-  code: MO
-  countryalpha2: UY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.431168
-    minlatitude: -34.937954
-    maxlongitude: -56.029243
-    maxlatitude: -34.70193
-    latitude: -34.90111
-    longitude: -56.16453
+    minlatitude: -34.7936294
+    maxlongitude: -53.3785147
+    maxlatitude: -33.1358951
+    latitude: -33.9674948
+    longitude: -53.9106594
 - name: Rivera
   names:
-  - Rivera
+    - Rivera
   code: RV
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.616528
-    minlatitude: -30.9871
-    maxlongitude: -55.452316
-    maxlatitude: -30.856663
+    minlongitude: -55.61652660000001
+    minlatitude: -30.9871014
+    maxlongitude: -55.4523149
+    maxlatitude: -30.8566634
     latitude: -30.9025
     longitude: -55.550556
+- name: Salto
+  names:
+    - Salto
+  code: SA
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.0779601
+    minlatitude: -31.8470001
+    maxlongitude: -55.99990589999999
+    maxlatitude: -30.716536
+    latitude: -31.4679335
+    longitude: -57.10131879999999
+- name: San José
+  names:
+    - San José
+  code: SJ
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.1731299
+    minlatitude: -34.78946
+    maxlongitude: -56.34363399999999
+    maxlatitude: -33.816353
+    latitude: -34.250223
+    longitude: -56.741207
 - name: Soriano
   names:
-  - Soriano
+    - Soriano
   code: SO
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -58.442722
-    minlatitude: -33.94666
-    maxlongitude: -57.086376
-    maxlatitude: -33.0066
-    latitude: -33.510338
-    longitude: -57.73461
+    minlatitude: -33.9466588
+    maxlongitude: -57.0863759
+    maxlatitude: -33.006599
+    latitude: -33.5103372
+    longitude: -57.7346113
+- name: Tacuarembó
+  names:
+    - Tacuarembó
+  code: TA
+  countryalpha2: UY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.663515
+    minlatitude: -32.872563
+    maxlongitude: -54.651097
+    maxlatitude: -31.210968
+    latitude: -32.0106717
+    longitude: -55.6689636
 - name: Treinta y Tres
   names:
-  - Treinta y Tres
+    - Treinta y Tres
   code: TT
   countryalpha2: UY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.1588
+    minlongitude: -55.158798
     minlatitude: -33.444572
-    maxlongitude: -53.282394
+    maxlongitude: -53.2823961
     maxlatitude: -32.682854
-    latitude: -33.147667
-    longitude: -54.25931
+    latitude: -33.1476661
+    longitude: -54.25931180000001

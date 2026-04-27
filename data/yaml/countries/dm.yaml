@@ -1,59 +1,117 @@
 name:
-  common: Dominica
-  official: Commonwealth of Dominica
-  native:
-    eng:
-      common: Dominica
-      official: Commonwealth of Dominica
+    common: Dominica
+    official: The Commonwealth of Dominica
+    native:
+        eng:
+            common: Dominica
+            official: Commonwealth of Dominica
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Dominican
+altspellings:
+    - Dominica
+    - ドミニカ国
+    - DM
+    - Dominique
+    - Wai‘tu kubuli
+    - Commonwealth of Dominica
 tlds:
-- .dm
+    - .dm
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  CYM:
-    common: Dominica
-    official: Commonwealth of Dominica
-  DEU:
-    common: Dominica
-    official: Commonwealth von Dominica
-  FIN:
-    common: Dominica
-    official: Dominican liittovaltio
-  HRV:
-    common: Dominika
-    official: Zajednica Dominika
-  ITA:
-    common: Dominica
-    official: Commonwealth di Dominica
-  JPN:
-    common: ドミニカ国
-    official: ドミニカ国
+    ARA:
+        common: دومينيكا
+        official: كومونولث دومينيكا
+    CES:
+        common: Dominika
+        official: Dominikánské společenství
+    DEU:
+        common: Dominica
+        official: Commonwealth von Dominica
+    EST:
+        common: Dominica
+        official: Dominica Ühendus
+    FIN:
+        common: Dominica
+        official: Dominican liittovaltio
+    FRA:
+        common: Dominique
+        official: Commonwealth de la Dominique
+    HRV:
+        common: Dominika
+        official: Zajednica Dominika
+    HUN:
+        common: Dominikai Közösség
+        official: Dominikai Közösség
+    ITA:
+        common: Dominica
+        official: Commonwealth di Dominica
+    JPN:
+        common: ドミニカ国
+        official: ドミニカ国
+    KOR:
+        common: 도미니카 공화국
+        official: 도미니카 공화국
+    NLD:
+        common: Dominica
+        official: Gemenebest Dominica
+    PER:
+        common: دومینیکا
+        official: قلمرو همسود دومینیکا
+    POL:
+        common: Dominika
+        official: Wspólnota Dominiki
+    POR:
+        common: Dominica
+        official: Comunidade da Dominica
+    RUS:
+        common: Доминика
+        official: Содружество Доминики
+    SLK:
+        common: Dominika
+        official: Dominické spoločenstvo
+    SPA:
+        common: Dominica
+        official: Mancomunidad de Dominica
+    SRP:
+        common: Dominika
+        official: Komonvelt Dominika
+    SWE:
+        common: Dominica
+        official: Samväldet Dominica
+    TUR:
+        common: Dominika
+        official: Dominika Topluluğu
+    URD:
+        common: ڈومینیکا
+        official: دولتِ مشترکہ ڈومینیکا
+    ZHO:
+        common: 多米尼加
+        official: 多米尼加共和国
 currencies:
-- XCD
-borders: []
+    - XCD
 codes:
-  alpha2: DM
-  alpha3: DMA
-  cioc: DMA
-  ccn3: "212"
-  callingcodes:
-  - "1767"
-  internationalprefix: "011"
+    alpha2: DM
+    alpha3: DMA
+    cioc: DMA
+    ccn3: "212"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Roseau
-  area: 751
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Roseau
+    area: 751
 coordinates:
-  longitudestring: 61 20 W
-  latitudestring: 15 25 N
-  minlongitude: -61.483334
-  minlatitude: 15.2
-  maxlongitude: -61.25
-  maxlatitude: 15.633333
-  latitude: 15.399106
-  longitude: -61.33946
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.484108
+    minlatitude: 15.2042266
+    maxlongitude: -61.23090180000001
+    maxlatitude: 15.6485199
+    latitude: 15.414999
+    longitude: -61.37097600000001

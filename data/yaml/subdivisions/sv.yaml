@@ -1,196 +1,196 @@
-- name: Cuscatlán
+- name: Ahuachapán
   names:
-  - Cuscatlán
-  code: CU
+    - Ahuachapán
+  code: AH
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -89.17243
-    minlatitude: 13.638626
-    maxlongitude: -88.8609
-    maxlatitude: 14.069207
-    latitude: 13.866196
-    longitude: -89.05615
-- name: Santa Ana
+    minlongitude: -89.8722839
+    minlatitude: 13.9044087
+    maxlongitude: -89.8150349
+    maxlatitude: 13.9537264
+    latitude: 13.9259486
+    longitude: -89.84113819999999
+- name: Cabañas
   names:
-  - Santa Ana
-  code: SA
+    - Cabañas
+  code: CA
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -89.58621
-    minlatitude: 13.956225
-    maxlongitude: -89.53943
-    maxlatitude: 14.011361
-    latitude: 13.977828
-    longitude: -89.56391
-- name: Sonsonate
-  names:
-  - Sonsonate
-  code: SO
-  countryalpha2: SV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -89.95552
-    minlatitude: 13.519539
-    maxlongitude: -89.44517
-    maxlatitude: 13.898528
-    latitude: 13.682358
-    longitude: -89.66281
+    minlongitude: -88.9883749
+    minlatitude: 13.7396891
+    maxlongitude: -88.49336
+    maxlatitude: 14.019085
+    latitude: 13.8648288
+    longitude: -88.7493998
 - name: Chalatenango
   names:
-  - Chalatenango
+    - Chalatenango
   code: CH
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.953896
-    minlatitude: 13.996704
-    maxlongitude: -88.88798
-    maxlatitude: 14.048708
+    minlongitude: -88.9538956
+    minlatitude: 13.9967041
+    maxlongitude: -88.88797749999999
+    maxlatitude: 14.0487081
     latitude: 14.033333
-    longitude: -88.933334
-- name: La Paz
+    longitude: -88.93333299999999
+- name: Cuscatlán
   names:
-  - La Paz
-  code: PA
+    - Cuscatlán
+  code: CU
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -89.16794
-    minlatitude: 13.265102
-    maxlongitude: -88.776436
-    maxlatitude: 13.662424
-    latitude: 13.495364
-    longitude: -88.979675
+    minlongitude: -89.17243099999999
+    minlatitude: 13.6386259
+    maxlongitude: -88.86089799999999
+    maxlatitude: 14.069207
+    latitude: 13.8661957
+    longitude: -89.0561532
+- name: La Libertad
+  names:
+    - La Libertad
+  code: LI
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.6235825
+    minlatitude: 13.4242178
+    maxlongitude: -89.133437
+    maxlatitude: 14.0608631
+    latitude: 13.6817661
+    longitude: -89.3606298
 - name: Morazán
   names:
-  - Morazán
+    - Morazán
   code: MO
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.26839
+    minlongitude: -88.26838610000001
     minlatitude: 13.542379
-    maxlongitude: -87.93504
+    maxlongitude: -87.935045
     maxlatitude: 13.951336
     latitude: 13.7682
-    longitude: -88.129135
+    longitude: -88.1291387
+- name: La Paz
+  names:
+    - La Paz
+  code: PA
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.16793799999999
+    minlatitude: 13.2651022
+    maxlongitude: -88.7764349
+    maxlatitude: 13.662424
+    latitude: 13.495364
+    longitude: -88.9796776
+- name: Santa Ana
+  names:
+    - Santa Ana
+  code: SA
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.58621029999999
+    minlatitude: 13.9562252
+    maxlongitude: -89.53943249999999
+    maxlatitude: 14.0113614
+    latitude: 13.9778279
+    longitude: -89.56391190000001
 - name: San Miguel
   names:
-  - San Miguel
+    - San Miguel
   code: SM
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.52784
-    minlatitude: 13.169361
-    maxlongitude: -88.016
-    maxlatitude: 13.893529
-    latitude: 13.445104
-    longitude: -88.24612
+    minlongitude: -88.5278369
+    minlatitude: 13.1693608
+    maxlongitude: -88.016002
+    maxlatitude: 13.8935291
+    latitude: 13.4451041
+    longitude: -88.24611829999999
+- name: Sonsonate
+  names:
+    - Sonsonate
+  code: SO
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.95551770000002
+    minlatitude: 13.5195387
+    maxlongitude: -89.445171
+    maxlatitude: 13.898528
+    latitude: 13.682358
+    longitude: -89.6628111
+- name: San Salvador
+  names:
+    - San Salvador
+  code: SS
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.2663228
+    minlatitude: 13.6523257
+    maxlongitude: -89.1630651
+    maxlatitude: 13.7306307
+    latitude: 13.6929403
+    longitude: -89.2181911
+- name: San Vicente
+  names:
+    - San Vicente
+  code: SV
+  countryalpha2: SV
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.89559799999999
+    minlatitude: 13.2529737
+    maxlongitude: -88.48514999999999
+    maxlatitude: 13.7897911
+    latitude: 13.5868561
+    longitude: -88.7493998
 - name: La Unión
   names:
-  - La Unión
+    - La Unión
   code: UN
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.87672
+    minlongitude: -87.8767204
     minlatitude: 13.319889
-    maxlongitude: -87.82067
-    maxlatitude: 13.355342
+    maxlongitude: -87.820673
+    maxlatitude: 13.3553415
     latitude: 13.336944
-    longitude: -87.84389
+    longitude: -87.84388899999999
 - name: Usulután
   names:
-  - Usulután
+    - Usulután
   code: US
   countryalpha2: SV
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -88.45788
-    minlatitude: 13.332834
-    maxlongitude: -88.427666
-    maxlatitude: 13.353713
+    minlatitude: 13.3328344
+    maxlongitude: -88.4276677
+    maxlatitude: 13.3537129
     latitude: 13.35
     longitude: -88.45
-- name: San Vicente
-  names:
-  - San Vicente
-  code: SV
-  countryalpha2: SV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.8956
-    minlatitude: 13.252974
-    maxlongitude: -88.48515
-    maxlatitude: 13.789791
-    latitude: 13.586856
-    longitude: -88.7494
-- name: Ahuachapán
-  names:
-  - Ahuachapán
-  code: AH
-  countryalpha2: SV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -89.872284
-    minlatitude: 13.904408
-    maxlongitude: -89.81503
-    maxlatitude: 13.953727
-    latitude: 13.925948
-    longitude: -89.84114
-- name: Cabañas
-  names:
-  - Cabañas
-  code: CA
-  countryalpha2: SV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.98837
-    minlatitude: 13.739689
-    maxlongitude: -88.49336
-    maxlatitude: 14.019085
-    latitude: 13.864829
-    longitude: -88.7494
-- name: La Libertad
-  names:
-  - La Libertad
-  code: LI
-  countryalpha2: SV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -89.62358
-    minlatitude: 13.424218
-    maxlongitude: -89.13344
-    maxlatitude: 14.0608635
-    latitude: 13.6817665
-    longitude: -89.36063
-- name: San Salvador
-  names:
-  - San Salvador
-  code: SS
-  countryalpha2: SV
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -89.26632
-    minlatitude: 13.652326
-    maxlongitude: -89.16306
-    maxlatitude: 13.730631
-    latitude: 13.692941
-    longitude: -89.21819

@@ -1,62 +1,118 @@
 name:
-  common: French Polynesia
-  official: French Polynesia
-  native:
-    fra:
-      common: Polynésie française
-      official: Polynésie française
+    common: French Polynesia
+    official: French Polynesia
+    native:
+        fra:
+            common: Polynésie française
+            official: Polynésie française
 eumember: false
 landlocked: false
-nationality: ""
+nationality: French Polynesian
+altspellings:
+    - French Polynesia
+    - Französisch-Polynesien
+    - Polynésie Française
+    - Polinesia Francesa
+    - フランス領ポリネシア
+    - Frans-Polynesië
+    - PF
+    - Pōrīnetia Farāni
 tlds:
-- .pf
+    - .pf
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Französisch-Polynesien
-    official: Französisch-Polynesien
-  FIN:
-    common: Ranskan Polynesia
-    official: Ranskan Polynesia
-  HRV:
-    common: Francuska Polinezija
-    official: Francuska Polinezija
-  ITA:
-    common: Polinesia Francese
-    official: Polinesia Francese
-  NLD:
-    common: Frans-Polynesië
-    official: Frans-Polynesië
-  RUS:
-    common: Французская Полинезия
-    official: Французская Полинезия
-  SPA:
-    common: Polinesia Francesa
-    official: Polinesia francés
+    ARA:
+        common: بولينزيا الفرنسية
+        official: بولينزيا الفرنسية
+    CES:
+        common: Francouzská Polynésie
+        official: Francouzská Polynésie
+    DEU:
+        common: Französisch-Polynesien
+        official: Französisch-Polynesien
+    EST:
+        common: Prantsuse Polüneesia
+        official: Prantsuse Polüneesia
+    FIN:
+        common: Ranskan Polynesia
+        official: Ranskan Polynesia
+    FRA:
+        common: Polynésie française
+        official: Polynésie française
+    HRV:
+        common: Francuska Polinezija
+        official: Francuska Polinezija
+    HUN:
+        common: Francia Polinézia
+        official: Francia Polinézia
+    ITA:
+        common: Polinesia Francese
+        official: Polinesia Francese
+    JPN:
+        common: フランス領ポリネシア
+        official: フランス領ポリネシア
+    KOR:
+        common: 프랑스령 폴리네시아
+        official: 프랑스령 폴리네시아
+    NLD:
+        common: Frans-Polynesië
+        official: Frans-Polynesië
+    PER:
+        common: پُلی‌نِزی فرانسه
+        official: پُلی‌نِزی فرانسه
+    POL:
+        common: Polinezja Francuska
+        official: Polinezja Francuska
+    POR:
+        common: Polinésia Francesa
+        official: Polinésia Francesa
+    RUS:
+        common: Французская Полинезия
+        official: Французская Полинезия
+    SLK:
+        common: Francúzska Polynézia
+        official: Francúzska Polynézia
+    SPA:
+        common: Polinesia Francesa
+        official: Polinesia francés
+    SRP:
+        common: Francuska Polinezija
+        official: Francuska Polinezija
+    SWE:
+        common: Franska Polynesien
+        official: Franska Polynesien
+    TUR:
+        common: Fransız Polinezyası
+        official: Fransız Polinezyası
+    URD:
+        common: فرانسیسی پولینیشیا
+        official: فرانسیسی پولینیشیا
+    ZHO:
+        common: 法属波利尼西亚
+        official: 法属波利尼西亚
 currencies:
-- XPF
-borders: []
+    - XPF
 codes:
-  alpha2: PF
-  alpha3: PYF
-  cioc: ""
-  ccn3: "258"
-  callingcodes:
-  - "689"
-  internationalprefix: "00"
+    alpha2: PF
+    alpha3: PYF
+    ccn3: "258"
+    callingcodes:
+        - "689"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Papeetē
-  area: 4167
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Papeetē
+    area: 4167
 coordinates:
-  longitudestring: 140 00 W
-  latitudestring: 15 00 S
-  minlongitude: 180
-  minlatitude: -27.916668
-  maxlongitude: -179.8
-  maxlatitude: 16.633333
-  latitude: -17.648123
-  longitude: -149.46472
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -155.125483
+    minlatitude: -28.61346
+    maxlongitude: -134.0551932
+    maxlatitude: -6.4682
+    latitude: -17.679742
+    longitude: -149.406843

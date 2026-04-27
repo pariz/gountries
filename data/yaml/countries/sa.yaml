@@ -1,67 +1,131 @@
 name:
-  common: Saudi Arabia
-  official: Kingdom of Saudi Arabia
-  native:
-    ara:
-      common: العربية السعودية
-      official: المملكة العربية السعودية
+    common: Saudi Arabia
+    official: The Kingdom of Saudi Arabia
+    native:
+        ara:
+            common: السعودية
+            official: المملكة العربية السعودية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saudi Arabian
+altspellings:
+    - Saudi Arabia
+    - Kingdom of Saudi Arabia
+    - السعودية
+    - Saudi-Arabien
+    - Arabie Saoudite
+    - Arabia Saudí
+    - サウジアラビア
+    - Saoedi-Arabië
+    - Saudi
+    - SA
+    - Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah
 tlds:
-- .sa
-- .السعودية
+    - .sa
+    - .السعودية
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  FRA:
-    common: Arabie Saoudite
-    official: Royaume d'Arabie Saoudite
-  HRV:
-    common: Saudijska Arabija
-    official: Kraljevina Saudijska Arabija
-  JPN:
-    common: サウジアラビア
-    official: サウジアラビア王国
-  POR:
-    common: Arábia Saudita
-    official: Reino da Arábia Saudita
-  RUS:
-    common: Саудовская Аравия
-    official: Королевство Саудовская Аравия
-  SPA:
-    common: Arabia Saudí
-    official: Reino de Arabia Saudita
+    ARA:
+        common: السعودية
+        official: المملكة العربية السعودية
+    CES:
+        common: Saúdská Arábie
+        official: Saúdskoarabské království
+    DEU:
+        common: Saudi-Arabien
+        official: Königreich Saudi-Arabien
+    EST:
+        common: Saudi Araabia
+        official: Saudi Araabia Kuningriik
+    FIN:
+        common: Saudi-Arabia
+        official: Saudi-Arabian kuningaskunta
+    FRA:
+        common: Arabie Saoudite
+        official: Royaume d'Arabie Saoudite
+    HRV:
+        common: Saudijska Arabija
+        official: Kraljevina Saudijska Arabija
+    HUN:
+        common: Szaúd-Arábia
+        official: Szaúd-Arábia
+    ITA:
+        common: Arabia Saudita
+        official: Arabia Saudita
+    JPN:
+        common: サウジアラビア
+        official: サウジアラビア王国
+    KOR:
+        common: 사우디아라비아
+        official: 사우디아라비아 왕국
+    NLD:
+        common: Saoedi-Arabië
+        official: Koninkrijk van Saoedi-Arabië
+    PER:
+        common: عربستان سعودی
+        official: پادشاهی عربی سَعودی
+    POL:
+        common: Arabia Saudyjska
+        official: Królestwo Arabii Saudyjskiej
+    POR:
+        common: Arábia Saudita
+        official: Reino da Arábia Saudita
+    RUS:
+        common: Саудовская Аравия
+        official: Королевство Саудовская Аравия
+    SLK:
+        common: Saudská Arábia
+        official: Saudskoarabské kráľovstvo
+    SPA:
+        common: Arabia Saudí
+        official: Reino de Arabia Saudita
+    SRP:
+        common: Saudijska Arabija
+        official: Kraljevina Saudijska Arabija
+    SWE:
+        common: Saudiarabien
+        official: Kungadömet Saudiarabien
+    TUR:
+        common: Suudi Arabistan
+        official: Suudi Arabistan Krallığı
+    URD:
+        common: سعودی عرب
+        official: مملکتِ سعودی عرب
+    ZHO:
+        common: 沙特阿拉伯
+        official: 沙特阿拉伯王国
 currencies:
-- SAR
+    - SAR
 borders:
-- IRQ
-- JOR
-- KWT
-- OMN
-- QAT
-- ARE
-- YEM
+    - IRQ
+    - JOR
+    - KWT
+    - OMN
+    - QAT
+    - ARE
+    - YEM
 codes:
-  alpha2: SA
-  alpha3: SAU
-  cioc: KSA
-  ccn3: "682"
-  callingcodes:
-  - "966"
-  internationalprefix: "00"
+    alpha2: SA
+    alpha3: SAU
+    cioc: KSA
+    ccn3: "682"
+    callingcodes:
+        - "966"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Riyadh
-  area: 2.14969e+06
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Riyadh
+    area: 2.14969e+06
 coordinates:
-  longitudestring: 45 00 E
-  latitudestring: 25 00 N
-  minlongitude: 34.566666
-  minlatitude: 5
-  maxlongitude: 55.166668
-  maxlatitude: 32.2
-  latitude: 23.994726
-  longitude: 44.401356
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.4815001
+    minlatitude: 16.0036
+    maxlongitude: 55.6666999
+    maxlatitude: 32.154284
+    latitude: 23.885942
+    longitude: 45.079162

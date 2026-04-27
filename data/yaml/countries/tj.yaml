@@ -1,67 +1,132 @@
 name:
-  common: Tajikistan
-  official: Republic of Tajikistan
-  native:
-    rus:
-      common: Таджикистан
-      official: Республика Таджикистан
-    tgk:
-      common: Тоҷикистон
-      official: Ҷумҳурии Тоҷикистон
+    common: Tajikistan
+    official: The Republic of Tajikistan
+    native:
+        rus:
+            common: Таджикистан
+            official: Республика Таджикистан
+        tgk:
+            common: Тоҷикистон
+            official: Ҷумҳурии Тоҷикистон
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Tadzhik
+altspellings:
+    - Tajikistan
+    - Tadschikistan
+    - Tayikistán
+    - タジキスタン
+    - Tadzjikistan
+    - Tajikstan
+    - TJ
+    - Toçikiston
+    - Republic of Tajikistan
+    - Ҷумҳурии Тоҷикистон
+    - Çumhuriyi Toçikiston
 tlds:
-- .tj
+    - .tj
 languages:
-  rus: Russian
-  tgk: Tajik
+    ru: ""
+    rus: Russian
+    tg: ""
+    tgk: Tajik
 translations:
-  FIN:
-    common: Tadžikistan
-    official: Tadžikistanin tasavalta
-  JPN:
-    common: タジキスタン
-    official: タジキスタン共和国
-  NLD:
-    common: Tadzjikistan
-    official: Tadzjikistan
-  POR:
-    common: Tajiquistão
-    official: República do Tajiquistão
-  RUS:
-    common: Таджикистан
-    official: Республика Таджикистан
-  SPA:
-    common: Tayikistán
-    official: República de Tayikistán
+    ARA:
+        common: طاجيكستان
+        official: جمهورية طاجيكستان
+    CES:
+        common: Tádžikistán
+        official: Republika Tádžikistán
+    DEU:
+        common: Tadschikistan
+        official: Republik Tadschikistan
+    EST:
+        common: Tadžikistan
+        official: Tadžikistani Vabariik
+    FIN:
+        common: Tadžikistan
+        official: Tadžikistanin tasavalta
+    FRA:
+        common: Tadjikistan
+        official: République du Tadjikistan
+    HRV:
+        common: Tađikistan
+        official: Republika Tadžikistan
+    HUN:
+        common: Tádzsikisztán
+        official: Tádzsik Köztársaság
+    ITA:
+        common: Tagikistan
+        official: Repubblica del Tajikistan
+    JPN:
+        common: タジキスタン
+        official: タジキスタン共和国
+    KOR:
+        common: 타지키스탄
+        official: 타지키스탄 공화국
+    NLD:
+        common: Tadzjikistan
+        official: Tadzjikistan
+    PER:
+        common: تاجیکِستان
+        official: جمهوری تاجیکستان
+    POL:
+        common: Tadżykistan
+        official: Republika Tadżykistanu
+    POR:
+        common: Tajiquistão
+        official: República do Tajiquistão
+    RUS:
+        common: Таджикистан
+        official: Республика Таджикистан
+    SLK:
+        common: Taǆikistan
+        official: Taǆická republika
+    SPA:
+        common: Tayikistán
+        official: República de Tayikistán
+    SRP:
+        common: Tadžikistan
+        official: Republika Tadžikistan
+    SWE:
+        common: Tadzjikistan
+        official: Republiken Tadzjikistan
+    TUR:
+        common: Tacikistan
+        official: Tacikistan Cumhuriyeti
+    URD:
+        common: تاجکستان
+        official: جمہوریہ تاجکستان
+    ZHO:
+        common: 塔吉克斯坦
+        official: 塔吉克斯坦共和国
 currencies:
-- TJS
+    - TJS
 borders:
-- AFG
-- CHN
-- KGZ
-- UZB
+    - AFG
+    - CHN
+    - KGZ
+    - UZB
 codes:
-  alpha2: TJ
-  alpha3: TJK
-  cioc: TJK
-  ccn3: "762"
-  callingcodes:
-  - "992"
-  internationalprefix: "810"
+    alpha2: TJ
+    alpha3: TJK
+    cioc: TJK
+    ccn3: "762"
+    callingcodes:
+        - "992"
+    internationalprefix: "810"
 geo:
-  region: Asia
-  subregion: Central Asia
-  continent: Asia
-  capital: Dushanbe
-  area: 143100
+    region: Asia
+    subregion: Central Asia
+    continent: Asia
+    capital: Dushanbe
+    area: 143100
 coordinates:
-  longitudestring: 71 00 E
-  latitudestring: 39 00 N
-  minlongitude: 67.416664
-  minlatitude: 36.716667
-  maxlongitude: 75
-  maxlatitude: 40.9
-  latitude: 38.879765
-  longitude: 70.89906
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 67.34201209999999
+    minlatitude: 36.6719898
+    maxlongitude: 75.1539564
+    maxlatitude: 41.044367
+    latitude: 38.861034
+    longitude: 71.276093

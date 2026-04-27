@@ -1,84 +1,84 @@
-- name: Lemesos
-  names:
-  - Lemesos
-  code: "02"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.98642
-    minlatitude: 34.643394
-    maxlongitude: 33.070553
-    maxlatitude: 34.740086
-    latitude: 34.70713
-    longitude: 33.022617
-- name: Larnaka
-  names:
-  - Larnaka
-  code: "03"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.12583
-    minlatitude: 34.70754
-    maxlongitude: 33.791904
-    maxlatitude: 35.112495
-    latitude: 34.85072
-    longitude: 33.483192
-- name: Ammochostos
-  names:
-  - Ammochostos
-  code: "04"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.884712
-    minlatitude: 35.078056
-    maxlongitude: 33.982986
-    maxlatitude: 35.16082
-    latitude: 35.11491
-    longitude: 33.919247
-- name: Pafos
-  names:
-  - Pafos
-  code: "05"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.39996
-    minlatitude: 34.744213
-    maxlongitude: 32.466602
-    maxlatitude: 34.801178
-    latitude: 34.772015
-    longitude: 32.429737
-- name: Keryneia
-  names:
-  - Keryneia
-  code: "06"
-  countryalpha2: CY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.92227
-    minlatitude: 35.04234
-    maxlongitude: 34.00069
-    maxlatitude: 35.07264
-    latitude: 35.058693
-    longitude: 33.95828
 - name: Lefkosia
   names:
-  - Lefkosia
+    - Lefkosia
   code: "01"
   countryalpha2: CY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 33.318615
-    minlatitude: 35.15167
-    maxlongitude: 33.476223
-    maxlatitude: 35.23232
-    latitude: 35.166668
-    longitude: 33.36667
+    minlongitude: 33.3186151
+    minlatitude: 35.1516702
+    maxlongitude: 33.4762216
+    maxlatitude: 35.2323172
+    latitude: 35.166667
+    longitude: 33.366667
+- name: Lemesos
+  names:
+    - Lemesos
+  code: "02"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.986418
+    minlatitude: 34.6433942
+    maxlongitude: 33.0705513
+    maxlatitude: 34.7400842
+    latitude: 34.7071301
+    longitude: 33.0226174
+- name: Larnaka
+  names:
+    - Larnaka
+  code: "03"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.125832
+    minlatitude: 34.7075399
+    maxlongitude: 33.791904
+    maxlatitude: 35.1124949
+    latitude: 34.8507206
+    longitude: 33.4831906
+- name: Ammochostos
+  names:
+    - Ammochostos
+  code: "04"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.8847113
+    minlatitude: 35.0780555
+    maxlongitude: 33.9829874
+    maxlatitude: 35.1608203
+    latitude: 35.1149116
+    longitude: 33.919245
+- name: Pafos
+  names:
+    - Pafos
+  code: "05"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.3999583
+    minlatitude: 34.7442135
+    maxlongitude: 32.4666024
+    maxlatitude: 34.8011783
+    latitude: 34.7720133
+    longitude: 32.4297369
+- name: Keryneia
+  names:
+    - Keryneia
+  code: "06"
+  countryalpha2: CY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.9222729
+    minlatitude: 35.0423389
+    maxlongitude: 34.0006899
+    maxlatitude: 35.072638
+    latitude: 35.0586943
+    longitude: 33.9582783

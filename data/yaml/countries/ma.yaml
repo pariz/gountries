@@ -1,76 +1,129 @@
 name:
-  common: Morocco
-  official: Kingdom of Morocco
-  native:
-    ara:
-      common: المغرب
-      official: المملكة المغربية
-    ber:
-      common: ⵍⵎⴰⵖⵔⵉⴱ
-      official: ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
+    common: Morocco
+    official: The Kingdom of Morocco
+    native:
+        ara:
+            common: المغرب
+            official: المملكة المغربية
+        ber:
+            common: ⵍⵎⴰⵖⵔⵉⴱ
+            official: ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Moroccan
+altspellings:
+    - Morocco
+    - المغرب
+    - Marokko
+    - Maroc
+    - Marruecos
+    - モロッコ
+    - MA
+    - Kingdom of Morocco
+    - Al-Mamlakah al-Maġribiyah
 tlds:
-- .ma
-- المغرب.
+    - .ma
+    - المغرب.
 languages:
-  ara: Arabic
-  ber: Berber
+    ar: ""
+    ara: Arabic
+    ber: Berber
 translations:
-  DEU:
-    common: Marokko
-    official: Königreich Marokko
-  FRA:
-    common: Maroc
-    official: Royaume du Maroc
-  HRV:
-    common: Maroko
-    official: Kraljevina Maroko
-  ITA:
-    common: Marocco
-    official: Regno del Marocco
-  JPN:
-    common: モロッコ
-    official: モロッコ王国
-  NLD:
-    common: Marokko
-    official: Koninkrijk Marokko
-  POR:
-    common: Marrocos
-    official: Reino de Marrocos
-  RUS:
-    common: Марокко
-    official: Королевство Марокко
-  SPA:
-    common: Marruecos
-    official: Reino de Marruecos
+    ARA:
+        common: المغرب
+        official: المملكة المغربية
+    CES:
+        common: Maroko
+        official: Marocké království
+    DEU:
+        common: Marokko
+        official: Königreich Marokko
+    EST:
+        common: Maroko
+        official: Maroko Kuningriik
+    FIN:
+        common: Marokko
+        official: Marokon kuningaskunta
+    FRA:
+        common: Maroc
+        official: Royaume du Maroc
+    HRV:
+        common: Maroko
+        official: Kraljevina Maroko
+    HUN:
+        common: Marokkó
+        official: Marokkói Királyság
+    ITA:
+        common: Marocco
+        official: Regno del Marocco
+    JPN:
+        common: モロッコ
+        official: モロッコ王国
+    KOR:
+        common: 모로코
+        official: 모로코 왕국
+    NLD:
+        common: Marokko
+        official: Koninkrijk Marokko
+    PER:
+        common: مراکش
+        official: پادشاهی مراکش
+    POL:
+        common: Maroko
+        official: Królestwo Marokańskie
+    POR:
+        common: Marrocos
+        official: Reino de Marrocos
+    RUS:
+        common: Марокко
+        official: Королевство Марокко
+    SLK:
+        common: Maroko
+        official: Marocké kniežatstvo
+    SPA:
+        common: Marruecos
+        official: Reino de Marruecos
+    SRP:
+        common: Maroko
+        official: Kraljevina Maroko
+    SWE:
+        common: Marocko
+        official: Konungariket Marocko
+    TUR:
+        common: Fas
+        official: Fas Krallığı
+    URD:
+        common: مراکش
+        official: مملکتِ مراکش
+    ZHO:
+        common: 摩洛哥
+        official: 摩洛哥王国
 currencies:
-- MAD
+    - MAD
 borders:
-- DZA
-- ESH
-- ESP
+    - DZA
+    - ESH
+    - ESP
 codes:
-  alpha2: MA
-  alpha3: MAR
-  cioc: MAR
-  ccn3: "504"
-  callingcodes:
-  - "212"
-  internationalprefix: "00"
+    alpha2: MA
+    alpha3: MAR
+    cioc: MAR
+    ccn3: "504"
+    callingcodes:
+        - "212"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Northern Africa
-  continent: Africa
-  capital: Rabat
-  area: 446550
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: Rabat
+    area: 446550
 coordinates:
-  longitudestring: 5 00 W
-  latitudestring: 32 00 N
-  minlongitude: -13.1
-  minlatitude: 5.51
-  maxlongitude: 2
-  maxlatitude: 36.21
-  latitude: 29.14059
-  longitude: -8.953388
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.3044001
+    minlatitude: 27.6672693
+    maxlongitude: -0.9969759
+    maxlatitude: 35.9344
+    latitude: 31.791702
+    longitude: -7.092619999999999

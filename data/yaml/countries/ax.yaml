@@ -1,68 +1,117 @@
 name:
-  common: Åland Islands
-  official: Åland Islands
-  native:
-    swe:
-      common: Åland
-      official: Landskapet Åland
-eumember: false
+    common: Åland Islands
+    official: Åland
+    native:
+        swe:
+            common: Åland
+            official: Landskapet Åland
+eumember: true
 landlocked: false
-nationality: ""
+nationality: Swedish
+altspellings:
+    - Åland Islands
+    - Åland
+    - オーランド諸島
+    - Ålandeilanden
+    - AX
+    - Aaland
+    - Aland
+    - Ahvenanmaa
 tlds:
-- .ax
+    - .ax
 languages:
-  swe: Swedish
+    sv: ""
+    swe: Swedish
 translations:
-  DEU:
-    common: Åland
-    official: Åland-Inseln
-  FIN:
-    common: Ahvenanmaa
-    official: Ahvenanmaan maakunta
-  FRA:
-    common: Ahvenanmaa
-    official: Ahvenanmaa
-  HRV:
-    common: Ålandski otoci
-    official: Aland Islands
-  ITA:
-    common: Isole Aland
-    official: Isole Åland
-  JPN:
-    common: オーランド諸島
-    official: オーランド諸島
-  NLD:
-    common: Ålandeilanden
-    official: Åland eilanden
-  RUS:
-    common: Аландские острова
-    official: Аландские острова
-  SPA:
-    common: Alandia
-    official: Islas Åland
+    ARA:
+        common: جزر أولاند
+        official: جزر أولاند
+    CES:
+        common: Ålandy
+        official: Ålandské ostrovy
+    DEU:
+        common: Åland
+        official: Åland-Inseln
+    EST:
+        common: Ahvenamaa
+        official: Ahvenamaa maakond
+    FIN:
+        common: Ahvenanmaa
+        official: Ahvenanmaan maakunta
+    FRA:
+        common: Ahvenanmaa
+        official: Ahvenanmaa
+    HRV:
+        common: Ålandski otoci
+        official: Aland Islands
+    HUN:
+        common: Åland-szigetek
+        official: Åland-szigetek
+    ITA:
+        common: Isole Aland
+        official: Isole Åland
+    JPN:
+        common: オーランド
+        official: オーランド諸島
+    KOR:
+        common: 올란드 제도
+        official: 올란드 제도
+    NLD:
+        common: Ålandeilanden
+        official: Åland eilanden
+    PER:
+        common: جزایر الند
+        official: جزایر الند
+    POL:
+        common: Wyspy Alandzkie
+        official: Wyspy Alandzkie
+    POR:
+        common: Alândia
+        official: Ilhas Åland
+    RUS:
+        common: Аландские острова
+        official: Аландские острова
+    SLK:
+        common: Alandy
+        official: Alandské ostrovy
+    SPA:
+        common: Alandia
+        official: Islas Åland
+    SRP:
+        common: Olandska Ostrva
+        official: Olandska Ostrva
+    SWE:
+        common: Åland
+        official: Åland
+    TUR:
+        common: Åland
+        official: Åland Adaları
+    URD:
+        common: جزائر اولند
+        official: جزائر اولند
+    ZHO:
+        common: 奥兰群岛
+        official: 奥兰群岛
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: AX
-  alpha3: ALA
-  cioc: ""
-  ccn3: "248"
-  callingcodes:
-  - "358"
-  internationalprefix: ""
+    alpha2: AX
+    alpha3: ALA
+    ccn3: "248"
+    callingcodes:
+        - "358"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Mariehamn
-  area: 1580
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Mariehamn
+    area: 1580
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: 19.263319
-  minlatitude: 59.727222
-  maxlongitude: 21.485853
-  maxlatitude: 60.74111
-  latitude: 60.20238
-  longitude: 19.965202
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.2095998
+    minlatitude: 59.6872001
+    maxlongitude: 21.4866841
+    maxlatitude: 60.8400009
+    latitude: 60.1785247
+    longitude: 19.9156105

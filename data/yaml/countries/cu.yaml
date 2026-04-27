@@ -1,66 +1,117 @@
 name:
-  common: Cuba
-  official: Republic of Cuba
-  native:
-    spa:
-      common: Cuba
-      official: República de Cuba
+    common: Cuba
+    official: The Republic of Cuba
+    native:
+        spa:
+            common: Cuba
+            official: República de Cuba
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cuban
+altspellings:
+    - Cuba
+    - Kuba
+    - キューバ
+    - CU
+    - Republic of Cuba
+    - República de Cuba
 tlds:
-- .cu
+    - .cu
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  CYM:
-    common: Ciwba
-    official: Republic of Cuba
-  DEU:
-    common: Kuba
-    official: Republik Kuba
-  FIN:
-    common: Kuuba
-    official: Kuuban tasavalta
-  HRV:
-    common: Kuba
-    official: Republika Kuba
-  ITA:
-    common: Cuba
-    official: Repubblica di Cuba
-  JPN:
-    common: キューバ
-    official: キューバ共和国
-  NLD:
-    common: Cuba
-    official: Republiek Cuba
-  POR:
-    common: Cuba
-    official: República de Cuba
+    ARA:
+        common: كوبا
+        official: جمهورية كوبا
+    CES:
+        common: Kuba
+        official: Kubánská republika
+    DEU:
+        common: Kuba
+        official: Republik Kuba
+    EST:
+        common: Kuuba
+        official: Kuuba Vabariik
+    FIN:
+        common: Kuuba
+        official: Kuuban tasavalta
+    FRA:
+        common: Cuba
+        official: République de Cuba
+    HRV:
+        common: Kuba
+        official: Republika Kuba
+    HUN:
+        common: Kuba
+        official: Kubai Köztársaság
+    ITA:
+        common: Cuba
+        official: Repubblica di Cuba
+    JPN:
+        common: キューバ
+        official: キューバ共和国
+    KOR:
+        common: 쿠바
+        official: 쿠바 공화국
+    NLD:
+        common: Cuba
+        official: Republiek Cuba
+    PER:
+        common: کوبا
+        official: جمهوری کوبا
+    POL:
+        common: Kuba
+        official: Republika Kuby
+    POR:
+        common: Cuba
+        official: República de Cuba
+    RUS:
+        common: Куба
+        official: Республика Куба
+    SLK:
+        common: Kuba
+        official: Kubánska republika
+    SPA:
+        common: Cuba
+        official: República de Cuba
+    SRP:
+        common: Kuba
+        official: Republika Kuba
+    SWE:
+        common: Kuba
+        official: Republiken Kuba
+    TUR:
+        common: Küba
+        official: Küba Cumhuriyeti
+    URD:
+        common: کیوبا
+        official: جمہوریہ کیوبا
+    ZHO:
+        common: 古巴
+        official: 古巴共和国
 currencies:
-- CUC
-- CUP
-borders: []
+    - CUP
 codes:
-  alpha2: CU
-  alpha3: CUB
-  cioc: CUB
-  ccn3: "192"
-  callingcodes:
-  - "53"
-  internationalprefix: "119"
+    alpha2: CU
+    alpha3: CUB
+    cioc: CUB
+    ccn3: "192"
+    callingcodes:
+        - "53"
+    internationalprefix: "119"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Havana
-  area: 109884
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Havana
+    area: 109884
 coordinates:
-  longitudestring: 80 00 W
-  latitudestring: 21 30 N
-  minlongitude: -84.950836
-  minlatitude: 19.828056
-  maxlongitude: -74.135
-  maxlatitude: 23.265833
-  latitude: 22.066336
-  longitude: -79.45315
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.1715001
+    minlatitude: 19.6529001
+    maxlongitude: -73.9545
+    maxlatitude: 23.3776001
+    latitude: 21.521757
+    longitude: -77.781167

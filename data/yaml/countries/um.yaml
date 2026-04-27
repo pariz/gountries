@@ -1,58 +1,116 @@
 name:
-  common: United States Minor Outlying Islands
-  official: United States Minor Outlying Islands
-  native:
-    eng:
-      common: United States Minor Outlying Islands
-      official: United States Minor Outlying Islands
+    common: United States Minor Outlying Islands
+    official: United States Minor Outlying Islands
+    native:
+        eng:
+            common: United States Minor Outlying Islands
+            official: United States Minor Outlying Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American
+altspellings:
+    - United States Minor Outlying Islands
+    - US-Amerikanische Hoheitsgebiete
+    - Dépendances américaines
+    - Islas menores de Estados Unidos
+    - 合衆国領有小離島
+    - Kleine afgelegen eilanden van de Verenigde Staten
+    - UM
 tlds:
-- .us
+    - .us
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Yhdysvaltain asumattomat saaret
-    official: Yhdysvaltain asumattomat saaret
-  FRA:
-    common: Îles mineures éloignées des États-Unis
-    official: Îles mineures éloignées des États-Unis
-  HRV:
-    common: Mali udaljeni otoci SAD-a
-    official: Mali udaljeni otoci SAD-a
-  ITA:
-    common: Isole minori esterne degli Stati Uniti d'America
-    official: Stati Uniti Isole Minori
-  RUS:
-    common: Внешние малые острова США
-    official: Внешние малые острова США
-  SPA:
-    common: Islas Ultramarinas Menores de Estados Unidos
-    official: Estados Unidos Islas menores alejadas de
+    ARA:
+        common: جزر الولايات المتحدة الصغيرة النائية
+        official: جزر الولايات المتحدة الصغيرة النائية
+    CES:
+        common: Menší odlehlé ostrovy USA
+        official: Menší odlehlé ostrovy Spojených států amerických
+    DEU:
+        common: Kleinere Inselbesitzungen der Vereinigten Staaten
+        official: USA, kleinere ausgelagerte Inseln
+    EST:
+        common: Ühendriikide hajasaared
+        official: Ühendriikide väikesed hajasaared
+    FIN:
+        common: Yhdysvaltain asumattomat saaret
+        official: Yhdysvaltain asumattomat saaret
+    FRA:
+        common: Îles mineures éloignées des États-Unis
+        official: Îles mineures éloignées des États-Unis
+    HRV:
+        common: Mali udaljeni otoci SAD-a
+        official: Mali udaljeni otoci SAD-a
+    HUN:
+        common: Az Amerikai Egyesült Államok lakatlan külbirtokai
+        official: Az Amerikai Egyesült Államok lakatlan külbirtokai
+    ITA:
+        common: Isole minori esterne degli Stati Uniti d'America
+        official: Stati Uniti Isole Minori
+    JPN:
+        common: 合衆国領有小離島
+        official: 米領小離島
+    KOR:
+        common: 미국령 군소 제도
+        official: 미국령 군소 제도
+    NLD:
+        common: Kleine afgelegen eilanden van de Verenigde Staten
+        official: Kleine afgelegen eilanden van de Verenigde Staten
+    PER:
+        common: جزایر کوچک حاشیه‌ای ایالات متحده آمریکا
+        official: جزایر کوچک حاشیه‌ای ایالات متحده آمریکا
+    POL:
+        common: Dalekie Wyspy Mniejsze Stanów Zjednoczonych
+        official: Dalekie Wyspy Mniejsze Stanów Zjednoczonych
+    POR:
+        common: Ilhas Menores Distantes dos Estados Unidos
+        official: Estados Unidos Ilhas Menores Distantes
+    RUS:
+        common: Внешние малые острова США
+        official: Внешние малые острова США
+    SLK:
+        common: Menšie odľahlé ostrovy USA
+        official: Menšie odľahlé ostrovy Spjoených štátov
+    SPA:
+        common: Islas Ultramarinas Menores de Estados Unidos
+        official: Estados Unidos Islas menores alejadas de
+    SRP:
+        common: Mala udaljena ostrva SAD-a
+        official: Mala udaljena ostrva Sjedinjenih Američkih Država
+    SWE:
+        common: Förenta staternas mindre öar i Oceanien och Västindien
+        official: Förenta staternas mindre öar i Oceanien och Västindien
+    TUR:
+        common: Amerika Birleşik Devletleri Küçük Dış Adaları
+        official: Amerika Birleşik Devletleri Küçük Dış Adaları
+    URD:
+        common: امریکی چھوٹے بیرونی جزائر
+        official: امریکی چھوٹے بیرونی جزائر
+    ZHO:
+        common: 美国本土外小岛屿
+        official: 美国本土外小岛屿
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: UM
-  alpha3: UMI
-  cioc: ""
-  ccn3: "581"
-  callingcodes: []
-  internationalprefix: ""
+    alpha2: UM
+    alpha3: UMI
+    ccn3: "581"
+    callingcodes:
+        - "1"
 geo:
-  region: Americas
-  subregion: Northern America
-  continent: Australia
-  capital: ""
-  area: 34.2
+    region: Americas
+    subregion: Northern America
+    continent: Australia
+    capital: ""
+    area: 34.2
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: 166.59892
-  minlatitude: -0.3824678
-  maxlongitude: -159.98491
-  maxlatitude: 28.397718
-  latitude: 19.282318
-  longitude: 166.64705
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.5989221
+    minlatitude: -0.3824678
+    maxlongitude: -159.9849071
+    maxlatitude: 28.3977184
+    latitude: 19.2823192
+    longitude: 166.647047

@@ -1,56 +1,56 @@
-- name: Manzini
-  names:
-  - Manzini
-  code: MA
-  countryalpha2: SZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.794107
-    minlatitude: -26.89452
-    maxlongitude: 31.706045
-    maxlatitude: -26.158968
-    latitude: -26.644588
-    longitude: 31.354162
-- name: Shiselweni
-  names:
-  - Shiselweni
-  code: SH
-  countryalpha2: SZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.902433
-    minlatitude: -27.3171
-    maxlongitude: 31.980196
-    maxlatitude: -26.75172
-    latitude: -26.982758
-    longitude: 31.354162
 - name: Hhohho
   names:
-  - Hhohho
+    - Hhohho
   code: HH
   countryalpha2: SZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 30.908245
-    minlatitude: -26.475103
+    minlatitude: -26.475104
     maxlongitude: 31.760738
-    maxlatitude: -25.719648
-    latitude: -26.136566
-    longitude: 31.354162
+    maxlatitude: -25.7196479
+    latitude: -26.1365662
+    longitude: 31.3541631
 - name: Lubombo
   names:
-  - Lebombo
+    - Lebombo
   code: LU
   countryalpha2: SZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 31.49206
-    minlatitude: -27.170605
+    minlongitude: 31.4920601
+    minlatitude: -27.1706039
     maxlongitude: 32.13726
     maxlatitude: -25.93021
-    latitude: -26.785177
-    longitude: 31.810707
+    latitude: -26.7851773
+    longitude: 31.8107079
+- name: Manzini
+  names:
+    - Manzini
+  code: MA
+  countryalpha2: SZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.794107
+    minlatitude: -26.8945191
+    maxlongitude: 31.706045
+    maxlatitude: -26.1589679
+    latitude: -26.644588
+    longitude: 31.3541631
+- name: Shiselweni
+  names:
+    - Shiselweni
+  code: SH
+  countryalpha2: SZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.902433
+    minlatitude: -27.317101
+    maxlongitude: 31.980196
+    maxlatitude: -26.75172
+    latitude: -26.9827577
+    longitude: 31.3541631

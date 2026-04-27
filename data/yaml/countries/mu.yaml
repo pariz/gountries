@@ -1,67 +1,126 @@
 name:
-  common: Mauritius
-  official: Republic of Mauritius
-  native:
-    eng:
-      common: Mauritius
-      official: Republic of Mauritius
-    fra:
-      common: Maurice
-      official: République de Maurice
-    mfe:
-      common: Moris
-      official: Republik Moris
+    common: Mauritius
+    official: The Republic of Mauritius
+    native:
+        eng:
+            common: Mauritius
+            official: Republic of Mauritius
+        fra:
+            common: Maurice
+            official: République de Maurice
+        mfe:
+            common: Moris
+            official: Republik Moris
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mauritian
+altspellings:
+    - Mauritius
+    - Île Maurice
+    - Mauricio
+    - モーリシャス
+    - MU
+    - Republic of Mauritius
+    - République de Maurice
 tlds:
-- .mu
+    - .mu
 languages:
-  eng: English
-  fra: French
-  mfe: Mauritian Creole
+    en: ""
+    eng: English
+    fra: French
+    mfe: Mauritian Creole
 translations:
-  DEU:
-    common: Mauritius
-    official: Republik Mauritius
-  FRA:
-    common: Île Maurice
-    official: République de Maurice
-  JPN:
-    common: モーリシャス
-    official: モーリシャス共和国
-  NLD:
-    common: Mauritius
-    official: Republiek Mauritius
-  POR:
-    common: Maurício
-    official: República das Maurícias
-  RUS:
-    common: Маврикий
-    official: Республика Маврикий
+    ARA:
+        common: موريشيوس
+        official: جمهورية موريشيوس
+    CES:
+        common: Mauricius
+        official: Mauricijská republika
+    DEU:
+        common: Mauritius
+        official: Republik Mauritius
+    EST:
+        common: Mauritius
+        official: Mauritiuse Vabariik
+    FIN:
+        common: Mauritius
+        official: Mauritiuksen tasavalta
+    FRA:
+        common: Île Maurice
+        official: République de Maurice
+    HRV:
+        common: Mauricijus
+        official: Republika Mauricijus
+    HUN:
+        common: Mauritius
+        official: Mauritiusi Köztársaság
+    ITA:
+        common: Mauritius
+        official: Repubblica di Mauritius
+    JPN:
+        common: モーリシャス
+        official: モーリシャス共和国
+    KOR:
+        common: 모리셔스
+        official: 모리셔스 공화국
+    NLD:
+        common: Mauritius
+        official: Republiek Mauritius
+    PER:
+        common: موریس
+        official: جمهوری موریس
+    POL:
+        common: Mauritius
+        official: Republika Mauritiusu
+    POR:
+        common: Maurício
+        official: República das Maurícias
+    RUS:
+        common: Маврикий
+        official: Республика Маврикий
+    SLK:
+        common: Maurícius
+        official: Maurícijská republika
+    SPA:
+        common: Mauricio
+        official: República de Mauricio
+    SRP:
+        common: Mauricijus
+        official: Republika Mauricijus
+    SWE:
+        common: Mauritius
+        official: Republiken Mauritius
+    TUR:
+        common: Mauritius
+        official: Mauritius Cumhuriyeti
+    URD:
+        common: موریشس
+        official: جمہوریہ موریشس
+    ZHO:
+        common: 毛里求斯
+        official: 毛里求斯共和国
 currencies:
-- MUR
-borders: []
+    - MUR
 codes:
-  alpha2: MU
-  alpha3: MUS
-  cioc: MRI
-  ccn3: "480"
-  callingcodes:
-  - "230"
-  internationalprefix: "020"
+    alpha2: MU
+    alpha3: MUS
+    cioc: MRI
+    ccn3: "480"
+    callingcodes:
+        - "230"
+    internationalprefix: "020"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Port Louis
-  area: 2040
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Port Louis
+    area: 2040
 coordinates:
-  longitudestring: 57 33 E
-  latitudestring: 20 17 S
-  minlongitude: 56.6
-  minlatitude: -20.516666
-  maxlongitude: 72.46667
-  maxlatitude: -5.25
-  latitude: -20.22041
-  longitude: 57.58938
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 56.3159179
+    minlatitude: -20.7458403
+    maxlongitude: 63.80859390000001
+    maxlatitude: -10.0878538
+    latitude: -20.348404
+    longitude: 57.55215200000001

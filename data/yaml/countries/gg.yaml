@@ -1,64 +1,127 @@
 name:
-  common: Guernsey
-  official: Bailiwick of Guernsey
-  native:
-    eng:
-      common: Guernsey
-      official: Bailiwick of Guernsey
-    fra:
-      common: Guernesey
-      official: Bailliage de Guernesey
-    nfr:
-      common: Dgèrnésiais
-      official: Dgèrnésiais
+    common: Guernsey
+    official: The Bailiwick of Guernsey
+    native:
+        eng:
+            common: Guernsey
+            official: Bailiwick of Guernsey
+        fra:
+            common: Guernesey
+            official: Bailliage de Guernesey
+        nfr:
+            common: Dgèrnésiais
+            official: Dgèrnésiais
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Channel Islander
+altspellings:
+    - Guernsey and Alderney
+    - Guernsey und Alderney
+    - Guernsey et Alderney
+    - Guernsey y Alderney
+    - ガーンジー
+    - Guernsey
+    - GG
+    - Bailiwick of Guernsey
+    - Bailliage de Guernesey
 tlds:
-- .gg
+    - .gg
 languages:
-  eng: English
-  fra: French
-  nfr: Guernésiais
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
+    nfr: Guernésiais
 translations:
-  FRA:
-    common: Guernesey
-    official: Bailliage de Guernesey
-  HRV:
-    common: Guernsey
-    official: Struka Guernsey
-  JPN:
-    common: ガーンジー
-    official: ガーンジーの得意分野
-  NLD:
-    common: Guernsey
-    official: Baljuwschap Guernsey
-  SPA:
-    common: Guernsey
-    official: Bailía de Guernsey
+    ARA:
+        common: غيرنزي
+        official: غيرنزي
+    CES:
+        common: Guernsey
+        official: Rychtářství Guernsey
+    DEU:
+        common: Guernsey
+        official: Vogtei Guernsey
+    EST:
+        common: Guernsey
+        official: Guernsey foogtkond
+    FIN:
+        common: Guernsey
+        official: Guernsey
+    FRA:
+        common: Guernesey
+        official: Bailliage de Guernesey
+    HRV:
+        common: Guernsey
+        official: Struka Guernsey
+    HUN:
+        common: Guernsey
+        official: Guernsey
+    ITA:
+        common: Guernsey
+        official: Baliato di Guernsey
+    JPN:
+        common: ガーンジー
+        official: ガーンジー島
+    KOR:
+        common: 건지 섬
+        official: 건지 섬
+    NLD:
+        common: Guernsey
+        official: Baljuwschap Guernsey
+    PER:
+        common: گرنزی
+        official: گرنزی
+    POL:
+        common: Guernsey
+        official: Baliwat Guernsey
+    POR:
+        common: Guernsey
+        official: Bailiado de Guernsey
+    RUS:
+        common: Гернси
+        official: Коронное владение Гернси
+    SLK:
+        common: Guernsey
+        official: Guernsey
+    SPA:
+        common: Guernsey
+        official: Bailía de Guernsey
+    SRP:
+        common: Gernzi
+        official: Bejlivik Gernzi
+    SWE:
+        common: Guernsey
+        official: Guernsey
+    TUR:
+        common: Guernsey
+        official: Guernsey Muhafızlığı
+    URD:
+        common: گرنزی
+        official: گرنزی رودبار
+    ZHO:
+        common: 根西岛
+        official: 根西岛
 currencies:
-- GBP
-borders: []
+    - GBP
 codes:
-  alpha2: GG
-  alpha3: GGY
-  cioc: ""
-  ccn3: "831"
-  callingcodes:
-  - "44"
-  internationalprefix: ""
+    alpha2: GG
+    alpha3: GGY
+    ccn3: "831"
+    callingcodes:
+        - "44"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: St. Peter Port
-  area: 78
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: St. Peter Port
+    area: 78
 coordinates:
-  longitudestring: 2 35 W
-  latitudestring: 49 28 N
-  minlongitude: -2.7
-  minlatitude: 49.40111
-  maxlongitude: -2.158056
-  maxlatitude: 49.733334
-  latitude: 49.720085
-  longitude: -2.1999686
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.6745361
+    minlatitude: 49.4167199
+    maxlongitude: -2.5016885
+    maxlatitude: 49.5094108
+    latitude: 49.4481982
+    longitude: -2.58949

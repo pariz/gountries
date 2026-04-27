@@ -1,65 +1,121 @@
 name:
-  common: São Tomé and Príncipe
-  official: Democratic Republic of São Tomé and Príncipe
-  native:
-    por:
-      common: São Tomé e Príncipe
-      official: República Democrática do São Tomé e Príncipe
+    common: Sao Tome and Principe
+    official: The Democratic Republic of São Tomé and Príncipe
+    native:
+        por:
+            common: São Tomé e Príncipe
+            official: República Democrática do São Tomé e Príncipe
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sao Tomean
+altspellings:
+    - São Tomé and Príncipe
+    - São Tomé und Príncipe
+    - São Tomé et Príncipe
+    - Santo Tomé y Príncipe
+    - サントメ・プリンシペ
+    - Sao Tomé en Principe
+    - ST
+    - Democratic Republic of São Tomé and Príncipe
+    - Sao Tome and Principe
+    - República Democrática de São Tomé e Príncipe
 tlds:
-- .st
+    - .st
 languages:
-  por: Portuguese
+    por: Portuguese
+    pt: ""
 translations:
-  DEU:
-    common: São Tomé und Príncipe
-    official: Demokratische Republik São Tomé und Príncipe
-  FIN:
-    common: São Téme ja Príncipe
-    official: São Tomé ja Príncipen demokraattinen tasavalta
-  HRV:
-    common: Sveti Toma i Princip
-    official: Demokratska Republika São Tome i Principe
-  ITA:
-    common: São Tomé e Príncipe
-    official: Repubblica democratica di São Tomé e Príncipe
-  JPN:
-    common: サントメ・プリンシペ
-    official: サントメ·プリンシペ民主共和国
-  NLD:
-    common: Sao Tomé en Principe
-    official: Democratische Republiek Sao Tomé en Principe
-  RUS:
-    common: Сан-Томе и Принсипи
-    official: Демократическая Республика Сан-Томе и Принсипи
-  SPA:
-    common: Santo Tomé y Príncipe
-    official: República Democrática de Santo Tomé y Príncipe
+    ARA:
+        common: ساو تومي وبرينسيب
+        official: جمهورية ساو تومي وبرينسيب الديمقراطية
+    CES:
+        common: Svatý Tomáš a Princův ostrov
+        official: Demokratická republika Svatý Tomáš a Princův ostrov
+    DEU:
+        common: São Tomé und Príncipe
+        official: Demokratische Republik São Tomé und Príncipe
+    EST:
+        common: São Tomé ja Príncipe
+        official: São Tomé ja Príncipe Demokraatlik Vabariik
+    FIN:
+        common: São Téme ja Príncipe
+        official: São Tomé ja Príncipen demokraattinen tasavalta
+    FRA:
+        common: São Tomé et Príncipe
+        official: République démocratique de São Tomé et Príncipe
+    HRV:
+        common: Sveti Toma i Princip
+        official: Demokratska Republika São Tome i Principe
+    HUN:
+        common: São Tomé és Príncipe
+        official: São Tomé és Príncipe Demokratikus Köztársaság
+    ITA:
+        common: São Tomé e Príncipe
+        official: Repubblica democratica di São Tomé e Príncipe
+    JPN:
+        common: サントメ・プリンシペ
+        official: サントメ・プリンシペ民主共和国
+    KOR:
+        common: 상투메 프린시페
+        official: 상투메 프린시페 민주 공화국
+    NLD:
+        common: Sao Tomé en Principe
+        official: Democratische Republiek Sao Tomé en Principe
+    PER:
+        common: سائوتومه و پرنسیپ
+        official: جمهوری دموکراتیک سائوتومه و پرنسیپ
+    POL:
+        common: Wyspy Świętego Tomasza i Książęca
+        official: Demokratyczna Republika Wysp Świętego Tomasza i Książęcej
+    POR:
+        common: São Tomé e Príncipe
+        official: República Democrática de São Tomé e Príncipe
+    RUS:
+        common: Сан-Томе и Принсипи
+        official: Демократическая Республика Сан-Томе и Принсипи
+    SLK:
+        common: Svätý Tomáš a Princov ostrov
+        official: Demokratická republika Svätého Tomáša A princovho ostrova
+    SPA:
+        common: Santo Tomé y Príncipe
+        official: República Democrática de Santo Tomé y Príncipe
+    SRP:
+        common: Sao Tome i Prinsipe
+        official: Demokratska Republika Sao Tome i Prinsipe
+    SWE:
+        common: São Tomé och Príncipe
+        official: Demokratiska republiken São Tomé och Príncipe
+    TUR:
+        common: São Tomé ve Príncipe
+        official: São Tomé ve Príncipe Demokratik Cumhuriyeti
+    URD:
+        common: ساؤ ٹومے و پرنسپے
+        official: جمہوریہ ساؤ ٹومے و پرنسپے
+    ZHO:
+        common: 圣多美和普林西比
+        official: 圣多美和普林西比民主共和国
 currencies:
-- STD
-borders: []
+    - STN
 codes:
-  alpha2: ST
-  alpha3: STP
-  cioc: STP
-  ccn3: "678"
-  callingcodes:
-  - "239"
-  internationalprefix: "00"
+    alpha2: ST
+    alpha3: STP
+    cioc: STP
+    ccn3: "678"
+    callingcodes:
+        - "239"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: São Tomé
-  area: 964
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: São Tomé
+    area: 964
 coordinates:
-  longitudestring: 7 00 E
-  latitudestring: 1 00 N
-  minlongitude: 6.466667
-  minlatitude: -0.016667
-  maxlongitude: 7.483333
-  maxlatitude: 1.733333
-  latitude: 0.27555528
-  longitude: 6.631628
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.328125
+    minlatitude: -0.09887689999999999
+    maxlongitude: 7.658843900000001
+    maxlatitude: 1.8961687
+    latitude: 0.18636
+    longitude: 6.613080999999999

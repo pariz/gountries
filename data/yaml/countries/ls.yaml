@@ -1,59 +1,123 @@
 name:
-  common: Lesotho
-  official: Kingdom of Lesotho
-  native:
-    eng:
-      common: Lesotho
-      official: Kingdom of Lesotho
-    sot:
-      common: Lesotho
-      official: Kingdom of Lesotho
+    common: Lesotho
+    official: The Kingdom of Lesotho
+    native:
+        eng:
+            common: Lesotho
+            official: Kingdom of Lesotho
+        sot:
+            common: Lesotho
+            official: Kingdom of Lesotho
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Mosotho
+altspellings:
+    - Lesotho
+    - レソト
+    - LS
+    - Kingdom of Lesotho
+    - Muso oa Lesotho
 tlds:
-- .ls
+    - .ls
 languages:
-  eng: English
-  sot: Sotho
+    en: ""
+    eng: English
+    sot: Sotho
+    st: ""
 translations:
-  DEU:
-    common: Lesotho
-    official: Königreich Lesotho
-  FIN:
-    common: Lesotho
-    official: Lesothon kuningaskunta
-  ITA:
-    common: Lesotho
-    official: Regno del Lesotho
-  NLD:
-    common: Lesotho
-    official: Koninkrijk Lesotho
+    ARA:
+        common: ليسوتو
+        official: مملكة ليسوتو
+    CES:
+        common: Lesotho
+        official: Lesothské království
+    DEU:
+        common: Lesotho
+        official: Königreich Lesotho
+    EST:
+        common: Lesotho
+        official: Lesotho Kuningriik
+    FIN:
+        common: Lesotho
+        official: Lesothon kuningaskunta
+    FRA:
+        common: Lesotho
+        official: Royaume du Lesotho
+    HRV:
+        common: Lesoto
+        official: Kraljevina Lesoto
+    HUN:
+        common: Lesotho
+        official: Lesothói Királyság
+    ITA:
+        common: Lesotho
+        official: Regno del Lesotho
+    JPN:
+        common: レソト
+        official: レソト王国
+    KOR:
+        common: 레소토
+        official: 레소토 왕국
+    NLD:
+        common: Lesotho
+        official: Koninkrijk Lesotho
+    PER:
+        common: لسوتو
+        official: پادشاهی لسوتو
+    POL:
+        common: Lesotho
+        official: Królestwo Lesotho
+    POR:
+        common: Lesoto
+        official: Reino do Lesoto
+    RUS:
+        common: Лесото
+        official: Королевство Лесото
+    SLK:
+        common: Lesotho
+        official: Lesothské kráľovstvo
+    SPA:
+        common: Lesotho
+        official: Reino de Lesotho
+    SRP:
+        common: Lesoto
+        official: Kraljevina Lesoto
+    SWE:
+        common: Lesotho
+        official: Konungariket Lesotho
+    TUR:
+        common: Lesotho
+        official: Lesotho Krallığı
+    URD:
+        common: لیسوتھو
+        official: مملکتِ لیسوتھو
+    ZHO:
+        common: 莱索托
+        official: 莱索托王国
 currencies:
-- LSL
-- ZAR
+    - LSL
 borders:
-- ZAF
+    - ZAF
 codes:
-  alpha2: LS
-  alpha3: LSO
-  cioc: LES
-  ccn3: "426"
-  callingcodes:
-  - "266"
-  internationalprefix: "00"
+    alpha2: LS
+    alpha3: LSO
+    cioc: LES
+    ccn3: "426"
+    callingcodes:
+        - "266"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Southern Africa
-  continent: Africa
-  capital: Maseru
-  area: 30355
+    region: Africa
+    subregion: Southern Africa
+    continent: Africa
+    capital: Maseru
+    area: 30355
 coordinates:
-  longitudestring: 28 30 E
-  latitudestring: 29 30 S
-  minlongitude: 24
-  minlatitude: -30.666668
-  maxlongitude: 29.316668
-  maxlatitude: -28.616667
-  latitude: -29.581753
-  longitude: 28.246613
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.011231
+    minlatitude: -30.6755788
+    maxlongitude: 29.4557087
+    maxlatitude: -28.5708011
+    latitude: -29.609988
+    longitude: 28.233608

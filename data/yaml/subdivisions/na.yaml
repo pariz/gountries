@@ -1,90 +1,20 @@
-- name: Hardap
+- name: Zambezi
   names:
-  - Hardap
-  code: HA
+    - Zambezi
+  code: CA
   countryalpha2: NA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.452235
-    minlatitude: -25.870014
-    maxlongitude: 20.000244
-    maxlatitude: -23.165503
-    latitude: -24.231014
-    longitude: 17.668886
-- name: Kavango East
-  names:
-  - Kavango East
-  code: KE
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.99545
-    minlatitude: -19.176298
-    maxlongitude: 22.522121
-    maxlatitude: -17.393156
-    latitude: -18.271048
-    longitude: 18.427605
-- name: Omaheke
-  names:
-  - Omaheke
-  code: OH
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.952183
-    minlatitude: -23.877104
-    maxlongitude: 21.001741
-    maxlatitude: -20.2402
-    latitude: -21.846664
-    longitude: 19.188005
-- name: Oshana
-  names:
-  - Oshana
-  code: "ON"
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.2764
-    minlatitude: -19.32805
-    maxlongitude: 16.040966
-    maxlatitude: -17.675125
-    latitude: -18.430506
-    longitude: 15.688179
-- name: Oshikoto
-  names:
-  - Otjikoto
-  code: OT
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.870873
-    minlatitude: -19.520187
-    maxlongitude: 18.204666
-    maxlatitude: -17.695574
-    latitude: -18.415258
-    longitude: 16.91225
-- name: Ohangwena
-  names:
-  - Ohangwena
-  code: OW
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.54637
-    minlatitude: -17.92926
-    maxlongitude: 18.000832
-    maxlatitude: -17.391182
-    latitude: -17.597929
-    longitude: 16.817837
+    minlongitude: 22.5141629
+    minlatitude: -18.5040471
+    maxlongitude: 25.256701
+    maxlatitude: -17.476387
+    latitude: -17.8193419
+    longitude: 23.9536466
 - name: Erongo
   names:
-  - Erongo
+    - Erongo
   code: ER
   countryalpha2: NA
   coordinates:
@@ -92,105 +22,175 @@
     latitudestring: ""
     minlongitude: 13.629421
     minlatitude: -23.811575
-    maxlongitude: 16.558624
+    maxlongitude: 16.558625
     maxlatitude: -20.489704
-    latitude: -22.256569
-    longitude: 15.406808
+    latitude: -22.2565682
+    longitude: 15.4068079
+- name: Hardap
+  names:
+    - Hardap
+  code: HA
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4522353
+    minlatitude: -25.870015
+    maxlongitude: 20.000244
+    maxlatitude: -23.165503
+    latitude: -24.2310134
+    longitude: 17.668887
+- name: Karas
+  names:
+    - Karas
+  code: KA
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.8018954
+    minlatitude: -28.9714299
+    maxlongitude: 20
+    maxlatitude: -25.011831
+    latitude: -26.8429645
+    longitude: 17.2902839
+- name: Kavango East
+  names:
+    - Kavango East
+  code: KE
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.995449
+    minlatitude: -19.1762981
+    maxlongitude: 22.522122
+    maxlatitude: -17.393156
+    latitude: -18.271048
+    longitude: 18.4276047
 - name: Khomas
   names:
-  - Khomas
+    - Khomas
   code: KH
   countryalpha2: NA
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 15.723871
-    minlatitude: -24.09052
-    maxlongitude: 18.496761
-    maxlatitude: -21.708317
-    latitude: -22.637785
-    longitude: 17.101192
-- name: Otjozondjupa
-  names:
-  - Otjozondjupa
-  code: OD
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.570227
-    minlatitude: -22.377869
-    maxlongitude: 20.997551
-    maxlatitude: -18.745304
-    latitude: -20.54869
-    longitude: 17.668886
-- name: Zambezi
-  names:
-  - Zambezi
-  code: CA
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.514162
-    minlatitude: -18.504047
-    maxlongitude: 25.2567
-    maxlatitude: -17.476387
-    latitude: -17.819342
-    longitude: 23.953646
-- name: Kavango West
-  names:
-  - Kavango West
-  code: KW
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.99545
-    minlatitude: -19.176298
-    maxlongitude: 22.522121
-    maxlatitude: -17.393156
-    latitude: -18.271048
-    longitude: 18.427605
-- name: Karas
-  names:
-  - Karas
-  code: KA
-  countryalpha2: NA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.801895
-    minlatitude: -28.97143
-    maxlongitude: 0
-    maxlatitude: -25.011831
-    latitude: -26.842964
-    longitude: 17.290283
+    minlatitude: -24.090521
+    maxlongitude: 18.4967611
+    maxlatitude: -21.7083171
+    latitude: -22.6377854
+    longitude: 17.1011931
 - name: Kunene
   names:
-  - Kunene
+    - Kunene
   code: KU
   countryalpha2: NA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 11.724247
-    minlatitude: -21.187363
+    minlongitude: 11.7242468
+    minlatitude: -21.1873635
     maxlongitude: 16.72092
     maxlatitude: -16.959894
-    latitude: -19.408632
+    latitude: -19.4086317
     longitude: 13.914399
+- name: Kavango West
+  names:
+    - Kavango West
+  code: KW
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.995449
+    minlatitude: -19.1762981
+    maxlongitude: 22.522122
+    maxlatitude: -17.393156
+    latitude: -18.271048
+    longitude: 18.4276047
+- name: Otjozondjupa
+  names:
+    - Otjozondjupa
+  code: OD
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.5702269
+    minlatitude: -22.3778689
+    maxlongitude: 20.997551
+    maxlatitude: -18.7453048
+    latitude: -20.5486916
+    longitude: 17.668887
+- name: Omaheke
+  names:
+    - Omaheke
+  code: OH
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.9521831
+    minlatitude: -23.877103
+    maxlongitude: 21.0017411
+    maxlatitude: -20.2402009
+    latitude: -21.8466651
+    longitude: 19.1880047
+- name: Oshana
+  names:
+    - Oshana
+  code: "ON"
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.2764
+    minlatitude: -19.32805
+    maxlongitude: 16.0409669
+    maxlatitude: -17.675126
+    latitude: -18.4305064
+    longitude: 15.6881788
 - name: Omusati
   names:
-  - Omusati
+    - Omusati
   code: OS
   countryalpha2: NA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.130322
-    minlatitude: -19.414984
-    maxlongitude: 15.657915
-    maxlatitude: -17.384363
-    latitude: -18.40703
-    longitude: 14.845462
+    minlongitude: 14.1303229
+    minlatitude: -19.4149837
+    maxlongitude: 15.6579149
+    maxlatitude: -17.3843629
+    latitude: -18.4070294
+    longitude: 14.8454619
+- name: Oshikoto
+  names:
+    - Otjikoto
+  code: OT
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.8708732
+    minlatitude: -19.520187
+    maxlongitude: 18.2046669
+    maxlatitude: -17.6955739
+    latitude: -18.4152575
+    longitude: 16.912251
+- name: Ohangwena
+  names:
+    - Ohangwena
+  code: OW
+  countryalpha2: NA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.5463691
+    minlatitude: -17.9292601
+    maxlongitude: 18.000832
+    maxlatitude: -17.391181
+    latitude: -17.5979291
+    longitude: 16.8178377

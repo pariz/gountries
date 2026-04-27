@@ -1,64 +1,128 @@
 name:
-  common: Ireland
-  official: Republic of Ireland
-  native:
-    eng:
-      common: Ireland
-      official: Republic of Ireland
-    gle:
-      common: Éire
-      official: Poblacht na hÉireann
+    common: Ireland
+    official: Ireland
+    native:
+        eng:
+            common: Ireland
+            official: Republic of Ireland
+        gle:
+            common: Éire
+            official: Poblacht na hÉireann
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Irish
+altspellings:
+    - Ireland
+    - Irland
+    - Irlande
+    - Irlanda
+    - アイルランド
+    - Ierland
+    - IE
+    - Éire
+    - Republic of Ireland
+    - Poblacht na hÉireann
 tlds:
-- .ie
+    - .ie
 languages:
-  eng: English
-  gle: Irish
+    en: ""
+    eng: English
+    ga: ""
+    gle: Irish
 translations:
-  FIN:
-    common: Irlanti
-    official: Irlannin tasavalta
-  HRV:
-    common: Irska
-    official: Republika Irska
-  ITA:
-    common: Irlanda
-    official: Repubblica d'Irlanda
-  NLD:
-    common: Ierland
-    official: Republic of Ireland
-  POR:
-    common: Irlanda
-    official: República da Irlanda
-  SPA:
-    common: Irlanda
-    official: República de Irlanda
+    ARA:
+        common: أيرلندا
+        official: جمهورية أيرلندا
+    CES:
+        common: Irsko
+        official: Irsko
+    DEU:
+        common: Irland
+        official: Republik Irland
+    EST:
+        common: Iirimaa
+        official: Iirimaa
+    FIN:
+        common: Irlanti
+        official: Irlannin tasavalta
+    FRA:
+        common: Irlande
+        official: République d'Irlande
+    HRV:
+        common: Irska
+        official: Republika Irska
+    HUN:
+        common: Írország
+        official: Ír Köztársaság
+    ITA:
+        common: Irlanda
+        official: Repubblica d'Irlanda
+    JPN:
+        common: アイルランド
+        official: アイルランド
+    KOR:
+        common: 아일랜드
+        official: 아일랜드 공화국
+    NLD:
+        common: Ierland
+        official: Republic of Ireland
+    PER:
+        common: ایرلند
+        official: ایرلند
+    POL:
+        common: Irlandia
+        official: Republika Irlandii
+    POR:
+        common: Irlanda
+        official: República da Irlanda
+    RUS:
+        common: Ирландия
+        official: Ирландия
+    SLK:
+        common: Írsko
+        official: Írska republika
+    SPA:
+        common: Irlanda
+        official: República de Irlanda
+    SRP:
+        common: Irska
+        official: Republika Irska
+    SWE:
+        common: Irland
+        official: Irland
+    TUR:
+        common: İrlanda
+        official: İrlanda Cumhuriyeti
+    URD:
+        common: جزیرہ آئرلینڈ
+        official: جمہوریہ جزیرہ آئرلینڈ
+    ZHO:
+        common: 爱尔兰
+        official: 爱尔兰共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- GBR
+    - GBR
 codes:
-  alpha2: IE
-  alpha3: IRL
-  cioc: IRL
-  ccn3: "372"
-  callingcodes:
-  - "353"
-  internationalprefix: "00"
+    alpha2: IE
+    alpha3: IRL
+    cioc: IRL
+    ccn3: "372"
+    callingcodes:
+        - "353"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Dublin
-  area: 70273
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Dublin
+    area: 70273
 coordinates:
-  longitudestring: 8 00 W
-  latitudestring: 53 00 N
-  minlongitude: -10.680833
-  minlatitude: 51.425556
-  maxlongitude: -6.0025
-  maxlatitude: 55.433334
-  latitude: 53.182728
-  longitude: -8.196102
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.4800237
+    minlatitude: 51.4475448
+    maxlongitude: -5.431909999999999
+    maxlatitude: 55.38294149999999
+    latitude: 53.1423672
+    longitude: -7.692053599999999

@@ -1,0 +1,8 @@
+[submodule "upstream/countries"]
+	path = upstream/countries
+	url = https://github.com/countries/countries.git
+	branch = master
+[submodule "upstream/mledoze-countries"]
+	path = upstream/mledoze-countries
+	url = https://github.com/mledoze/countries.git
+	branch = master

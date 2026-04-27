@@ -1,57 +1,120 @@
 name:
-  common: Jamaica
-  official: Jamaica
-  native:
-    eng:
-      common: Jamaica
-      official: Jamaica
-    jam:
-      common: Jamaica
-      official: Jamaica
+    common: Jamaica
+    official: Jamaica
+    native:
+        eng:
+            common: Jamaica
+            official: Jamaica
+        jam:
+            common: Jamaica
+            official: Jamaica
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Jamaican
+altspellings:
+    - Jamaica
+    - Jamaika
+    - Jamaïque
+    - ジャマイカ
+    - JM
 tlds:
-- .jm
+    - .jm
 languages:
-  eng: English
-  jam: Jamaican Patois
+    en: ""
+    eng: English
+    jam: Jamaican Patois
 translations:
-  FIN:
-    common: Jamaika
-    official: Jamaika
-  POR:
-    common: Jamaica
-    official: Jamaica
-  RUS:
-    common: Ямайка
-    official: Ямайка
-  SPA:
-    common: Jamaica
-    official: Jamaica
+    ARA:
+        common: جامايكا
+        official: جامايكا
+    CES:
+        common: Jamajka
+        official: Jamajka
+    DEU:
+        common: Jamaika
+        official: Jamaika
+    EST:
+        common: Jamaica
+        official: Jamaica
+    FIN:
+        common: Jamaika
+        official: Jamaika
+    FRA:
+        common: Jamaïque
+        official: Jamaïque
+    HRV:
+        common: Jamajka
+        official: Jamajka
+    HUN:
+        common: Jamaica
+        official: Jamaica
+    ITA:
+        common: Giamaica
+        official: Giamaica
+    JPN:
+        common: ジャマイカ
+        official: ジャマイカ
+    KOR:
+        common: 자메이카
+        official: 자메이카
+    NLD:
+        common: Jamaica
+        official: Jamaica
+    PER:
+        common: جامائیکا
+        official: جامائیکا
+    POL:
+        common: Jamajka
+        official: Jamajka
+    POR:
+        common: Jamaica
+        official: Jamaica
+    RUS:
+        common: Ямайка
+        official: Ямайка
+    SLK:
+        common: Jamajka
+        official: Jamajka
+    SPA:
+        common: Jamaica
+        official: Jamaica
+    SRP:
+        common: Jamajka
+        official: Jamajka
+    SWE:
+        common: Jamaica
+        official: Jamaica
+    TUR:
+        common: Jamaika
+        official: Jamaika
+    URD:
+        common: جمیکا
+        official: جمیکا
+    ZHO:
+        common: 牙买加
+        official: 牙买加
 currencies:
-- JMD
-borders: []
+    - JMD
 codes:
-  alpha2: JM
-  alpha3: JAM
-  cioc: JAM
-  ccn3: "388"
-  callingcodes:
-  - "1876"
-  internationalprefix: "011"
+    alpha2: JM
+    alpha3: JAM
+    cioc: JAM
+    ccn3: "388"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Kingston
-  area: 10991
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Kingston
+    area: 10991
 coordinates:
-  longitudestring: 77 30 W
-  latitudestring: 18 15 N
-  minlongitude: -78.36667
-  minlatitude: 17
-  maxlongitude: -70
-  maxlatitude: 18.533333
-  latitude: 18.143444
-  longitude: -77.34655
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.4073639
+    minlatitude: 17.6688854
+    maxlongitude: -76.1448669
+    maxlatitude: 18.5697821
+    latitude: 18.109581
+    longitude: -77.297508

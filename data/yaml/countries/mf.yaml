@@ -1,64 +1,121 @@
 name:
-  common: Saint Martin
-  official: Saint Martin
-  native:
-    fra:
-      common: Saint-Martin
-      official: Saint-Martin
-eumember: false
+    common: Saint Martin (French part)
+    official: The Collectivity of Saint-Martin
+    native:
+        fra:
+            common: Saint-Martin
+            official: Saint-Martin
+eumember: true
 landlocked: false
-nationality: ""
+nationality: French
+altspellings:
+    - Saint Martin
+    - サン・マルタン（フランス領）
+    - Saint-Martin
+    - MF
+    - Collectivity of Saint Martin
+    - Collectivité de Saint-Martin
+    - Saint Martin (French part)
 tlds:
-- .fr
-- .gp
+    - .fr
+    - .gp
 languages:
-  fra: French
+    en: ""
+    fr: ""
+    fra: French
+    nl: ""
 translations:
-  DEU:
-    common: Saint Martin
-    official: St. Martin
-  FRA:
-    common: Saint-Martin
-    official: Saint-Martin
-  HRV:
-    common: Sveti Martin
-    official: Saint Martin
-  ITA:
-    common: Saint Martin
-    official: saint Martin
-  JPN:
-    common: サン・マルタン（フランス領）
-    official: サンマルタン島
-  POR:
-    common: São Martinho
-    official: saint Martin
-  RUS:
-    common: Сен-Мартен
-    official: Сен-Мартен
+    ARA:
+        common: سانت مارتن
+        official: سانت مارتن
+    CES:
+        common: Svatý Martin (Francie)
+        official: Svatý Martin
+    DEU:
+        common: Saint-Martin
+        official: Saint-Martin
+    EST:
+        common: Saint-Martin
+        official: Saint-Martini ühendus
+    FIN:
+        common: Saint-Martin
+        official: Saint-Martin
+    FRA:
+        common: Saint-Martin
+        official: Saint-Martin
+    HRV:
+        common: Sveti Martin
+        official: Saint Martin
+    HUN:
+        common: Saint-Martin
+        official: Saint-Martin Közösség
+    ITA:
+        common: Saint Martin
+        official: saint Martin
+    JPN:
+        common: サン・マルタン
+        official: サンマルタン
+    KOR:
+        common: 생마르탱
+        official: 생마르탱
+    NLD:
+        common: Saint-Martin
+        official: Saint Martin
+    PER:
+        common: سن مارتن
+        official: سن مارتن
+    POL:
+        common: Saint-Martin
+        official: Wspólnota Saint-Martin
+    POR:
+        common: São Martinho
+        official: saint Martin
+    RUS:
+        common: Сен-Мартен
+        official: Сен-Мартен
+    SLK:
+        common: Saint-Martin
+        official: Saint-Martin
+    SPA:
+        common: Saint Martin
+        official: Saint Martin
+    SRP:
+        common: Sveti Martin
+        official: Sveti Martin
+    SWE:
+        common: Saint-Martin
+        official: Förvaltningsområdet Saint-Martin
+    TUR:
+        common: Saint Martin
+        official: Saint Martin
+    URD:
+        common: سینٹ مارٹن
+        official: سینٹ مارٹن
+    ZHO:
+        common: 圣马丁
+        official: 圣马丁
 currencies:
-- EUR
+    - EUR
 borders:
-- SXM
+    - SXM
 codes:
-  alpha2: MF
-  alpha3: MAF
-  cioc: ""
-  ccn3: "663"
-  callingcodes:
-  - "590"
-  internationalprefix: ""
+    alpha2: MF
+    alpha3: MAF
+    ccn3: "663"
+    callingcodes:
+        - "590"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Marigot
-  area: 53
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Marigot
+    area: 53
 coordinates:
-  longitudestring: 63 57 W
-  latitudestring: 18 05 N
-  minlongitude: -63.153324
-  minlatitude: 18.046576
-  maxlongitude: -62.970394
-  maxlatitude: 18.125134
-  latitude: 18.042225
-  longitude: -63.066235
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -63.1630001
+    minlatitude: 18.0462883
+    maxlongitude: -62.9613001
+    maxlatitude: 18.1356001
+    latitude: 18.08255
+    longitude: -63.05225100000001

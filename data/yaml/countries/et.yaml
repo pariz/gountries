@@ -1,68 +1,128 @@
 name:
-  common: Ethiopia
-  official: Federal Democratic Republic of Ethiopia
-  native:
-    amh:
-      common: ኢትዮጵያ
-      official: የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
+    common: Ethiopia
+    official: The Federal Democratic Republic of Ethiopia
+    native:
+        amh:
+            common: ኢትዮጵያ
+            official: የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Ethiopian
+altspellings:
+    - Ethiopia
+    - Äthiopien
+    - Éthiopie
+    - Etiopía
+    - エチオピア
+    - Ethiopië
+    - ET
+    - ʾĪtyōṗṗyā
+    - Federal Democratic Republic of Ethiopia
+    - የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
 tlds:
-- .et
+    - .et
 languages:
-  amh: Amharic
+    am: ""
+    amh: Amharic
 translations:
-  CYM:
-    common: Ethiopia
-    official: Federal Democratic Republic of Ethiopia
-  FIN:
-    common: Etiopia
-    official: Etiopian demokraattinen liittotasavalta
-  FRA:
-    common: Éthiopie
-    official: République fédérale démocratique d'Éthiopie
-  HRV:
-    common: Etiopija
-    official: Savezna Demokratska Republika Etiopija
-  ITA:
-    common: Etiopia
-    official: Repubblica federale democratica di Etiopia
-  JPN:
-    common: エチオピア
-    official: エチオピア連邦民主共和国
-  POR:
-    common: Etiópia
-    official: República Federal Democrática da Etiópia
+    ARA:
+        common: إثيوبيا
+        official: جمهورية إثيوبيا الفدرالية الديموقراطية
+    CES:
+        common: Etiopie
+        official: Etiopská federativní demokratická republika
+    DEU:
+        common: Äthiopien
+        official: Demokratische Bundesrepublik Äthiopien
+    EST:
+        common: Etioopia
+        official: Etioopia Demokraatlik Liitvabariik
+    FIN:
+        common: Etiopia
+        official: Etiopian demokraattinen liittotasavalta
+    FRA:
+        common: Éthiopie
+        official: République fédérale démocratique d'Éthiopie
+    HRV:
+        common: Etiopija
+        official: Savezna Demokratska Republika Etiopija
+    HUN:
+        common: Etiópia
+        official: Etióp Szövetségi Demokratikus Köztársaság
+    ITA:
+        common: Etiopia
+        official: Repubblica federale democratica di Etiopia
+    JPN:
+        common: エチオピア
+        official: エチオピア連邦民主共和国
+    KOR:
+        common: 에티오피아
+        official: 에티오피아 연방 민주 공화국
+    NLD:
+        common: Ethiopië
+        official: Federale Democratische Republiek Ethiopië
+    PER:
+        common: اِتیوپی
+        official: جمهوری فدرال دموکراتیک اتیوپی
+    POL:
+        common: Etiopia
+        official: Federalna Demokratyczna Republika Etiopii
+    POR:
+        common: Etiópia
+        official: República Federal Democrática da Etiópia
+    RUS:
+        common: Эфиопия
+        official: Федеративная Демократическая Республика Эфиопия
+    SLK:
+        common: Etiópia
+        official: Etiópska federatívna demokratická republika
+    SPA:
+        common: Etiopía
+        official: República Democrática Federal de Etiopía
+    SRP:
+        common: Etiopija
+        official: Savezna Demokratska Republika Etiopija
+    SWE:
+        common: Etiopien
+        official: Demokratiska förbundsrepubliken Etiopien
+    TUR:
+        common: Etiyopya
+        official: Etiyopya Federal Demokratik Cumhuriyeti
+    URD:
+        common: ایتھوپیا
+        official: وفاقی جمہوری جمہوریہ ایتھوپیا
+    ZHO:
+        common: 埃塞俄比亚
+        official: 埃塞俄比亚联邦民主共和国
 currencies:
-- ETB
+    - ETB
 borders:
-- DJI
-- ERI
-- KEN
-- SOM
-- SSD
-- SDN
+    - DJI
+    - ERI
+    - KEN
+    - SOM
+    - SSD
+    - SDN
 codes:
-  alpha2: ET
-  alpha3: ETH
-  cioc: ETH
-  ccn3: "231"
-  callingcodes:
-  - "251"
-  internationalprefix: "00"
+    alpha2: ET
+    alpha3: ETH
+    cioc: ETH
+    ccn3: "231"
+    callingcodes:
+        - "251"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Addis Ababa
-  area: 1.1043e+06
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Addis Ababa
+    area: 1.1043e+06
 coordinates:
-  longitudestring: 38 00 E
-  latitudestring: 8 00 N
-  minlongitude: 33.033333
-  minlatitude: 3.433333
-  maxlongitude: 47.45
-  maxlatitude: 14.698889
-  latitude: 8.626703
-  longitude: 39.637554
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.997734
+    minlatitude: 3.4041369
+    maxlongitude: 48.0010561
+    maxlatitude: 14.8942141
+    latitude: 9.145000000000001
+    longitude: 40.489673

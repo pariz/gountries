@@ -1,184 +1,184 @@
 - name: Alberta
   names:
-  - Alberta
+    - Alberta
   code: AB
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -120.00052
-    minlatitude: 48.996666
-    maxlongitude: -109.999855
-    maxlatitude: 60.00006
-    latitude: 53.93327
-    longitude: -116.5765
+    minlongitude: -120.0005219
+    minlatitude: 48.9966671
+    maxlongitude: -109.9998551
+    maxlatitude: 60.00006209999999
+    latitude: 53.9332706
+    longitude: -116.5765035
 - name: British Columbia
   names:
-  - Colombie-Britannique
+    - Colombie-Britannique
   code: BC
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -139.05707
-    minlatitude: 48.308914
-    maxlongitude: -114.05422
-    maxlatitude: 60.00015
-    latitude: 53.72667
-    longitude: -127.64762
+    minlongitude: -139.0570702
+    minlatitude: 48.3089123
+    maxlongitude: -114.0542211
+    maxlatitude: 60.0001489
+    latitude: 53.7266683
+    longitude: -127.6476206
 - name: Manitoba
   names:
-  - Manitoba
+    - Manitoba
   code: MB
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -102.00001
-    minlatitude: 48.99886
-    maxlongitude: -88.98523
-    maxlatitude: 60.000103
-    latitude: 53.76086
-    longitude: -98.81387
+    minlongitude: -102.0000041
+    minlatitude: 48.998861
+    maxlongitude: -88.9852265
+    maxlatitude: 60.0001031
+    latitude: 53.7608608
+    longitude: -98.81387629999999
 - name: New Brunswick
   names:
-  - Nouveau-Brunswick
+    - Nouveau-Brunswick
   code: NB
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -69.05339
-    minlatitude: 44.499573
-    maxlongitude: -63.77064
-    maxlatitude: 48.173515
-    latitude: 46.565315
-    longitude: -66.461914
-- name: Ontario
-  names:
-  - Ontario
-  code: "ON"
-  countryalpha2: CA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -95.15623
-    minlatitude: 41.681347
-    maxlongitude: -74.34388
-    maxlatitude: 56.85653
-    latitude: 51.253777
-    longitude: -85.32321
-- name: Quebec
-  names:
-  - Québec
-  code: QC
-  countryalpha2: CA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.76234
-    minlatitude: 44.99136
-    maxlongitude: -57.105484
-    maxlatitude: 62.583054
-    latitude: 52.939915
-    longitude: -73.54913
+    minlongitude: -69.05339289999999
+    minlatitude: 44.499574
+    maxlongitude: -63.7706403
+    maxlatitude: 48.1735157
+    latitude: 46.5653163
+    longitude: -66.46191639999999
 - name: Newfoundland and Labrador
   names:
-  - Terre-Neuve-et-Labrador
-  - Newfoundland
-  - Terre-Neuve
+    - Terre-Neuve-et-Labrador
+    - Newfoundland
+    - Terre-Neuve
   code: NL
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -67.821686
-    minlatitude: 46.611458
-    maxlongitude: -52.619408
-    maxlatitude: 60.37627
-    latitude: 53.13551
-    longitude: -57.660435
+    minlongitude: -67.8216849
+    minlatitude: 46.6114571
+    maxlongitude: -52.6194086
+    maxlatitude: 60.37627010000001
+    latitude: 53.1355091
+    longitude: -57.6604364
 - name: Nova Scotia
   names:
-  - Nouvelle-Écosse
+    - Nouvelle-Écosse
   code: NS
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -66.39482
-    minlatitude: 43.39188
+    minlongitude: -66.3948186
+    minlatitude: 43.3918805
     maxlongitude: -59.676914
-    maxlatitude: 47.227745
-    latitude: 44.681988
-    longitude: -63.744312
+    maxlatitude: 47.2277438
+    latitude: 44.68198659999999
+    longitude: -63.744311
 - name: Northwest Territories
   names:
-  - Territoires du Nord-Ouest
+    - Territoires du Nord-Ouest
   code: NT
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -136.4687
-    minlatitude: 59.999954
-    maxlongitude: -102
-    maxlatitude: 78.761345
-    latitude: 64.82555
-    longitude: -124.84573
+    minlongitude: -136.4687053
+    minlatitude: 59.99995399999999
+    maxlongitude: -101.999999
+    maxlatitude: 78.7613421
+    latitude: 64.8255441
+    longitude: -124.8457334
 - name: Nunavut
   names:
-  - Nunavut
+    - Nunavut
   code: NU
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -121.04925
-    minlatitude: 51.640697
-    maxlongitude: -61.17944
-    maxlatitude: 83.095665
-    latitude: 70.299774
-    longitude: -83.107574
+    minlongitude: -121.0492491
+    minlatitude: 51.6406985
+    maxlongitude: -61.1794384
+    maxlatitude: 83.0956638
+    latitude: 70.2997711
+    longitude: -83.1075769
+- name: Ontario
+  names:
+    - Ontario
+  code: "ON"
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -95.1562271
+    minlatitude: 41.68134879999999
+    maxlongitude: -74.34388229999999
+    maxlatitude: 56.8565279
+    latitude: 51.253775
+    longitude: -85.3232139
 - name: Prince Edward Island
   names:
-  - Île-du-Prince-Édouard
+    - Île-du-Prince-Édouard
   code: PE
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -64.566124
-    minlatitude: 45.948185
-    maxlongitude: -61.970753
-    maxlatitude: 47.44166
-    latitude: 46.51071
-    longitude: -63.416813
+    minlongitude: -64.5661238
+    minlatitude: 45.9481845
+    maxlongitude: -61.97075460000001
+    maxlatitude: 47.4416628
+    latitude: 46.510712
+    longitude: -63.41681359999999
+- name: Quebec
+  names:
+    - Québec
+  code: QC
+  countryalpha2: CA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.7623371
+    minlatitude: 44.9913581
+    maxlongitude: -57.1054859
+    maxlatitude: 62.5830552
+    latitude: 52.9399159
+    longitude: -73.5491361
 - name: Saskatchewan
   names:
-  - Saskatchewan
+    - Saskatchewan
   code: SK
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -110.00775
-    minlatitude: 48.998806
+    minlongitude: -110.0077549
+    minlatitude: 48.9988059
     maxlongitude: -101.362305
-    maxlatitude: 60.000065
-    latitude: 52.939915
-    longitude: -106.45087
+    maxlatitude: 60.000063
+    latitude: 52.9399159
+    longitude: -106.4508639
 - name: Yukon
   names:
-  - Yukon Territory
+    - Yukon Territory
   code: YT
   countryalpha2: CA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -141.00188
-    minlatitude: 59.996887
-    maxlongitude: -123.80092
-    maxlatitude: 69.6465
-    latitude: 64.282326
-    longitude: 0
+    minlongitude: -141.00187
+    minlatitude: 59.996889
+    maxlongitude: -123.8009179
+    maxlatitude: 69.646498
+    latitude: 64.2823274
+    longitude: -135

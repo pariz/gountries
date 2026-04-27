@@ -1,62 +1,120 @@
 name:
-  common: British Virgin Islands
-  official: Virgin Islands
-  native:
-    eng:
-      common: British Virgin Islands
-      official: Virgin Islands
+    common: Virgin Islands (British)
+    official: The Virgin Islands
+    native:
+        eng:
+            common: British Virgin Islands
+            official: Virgin Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Virgin Islander
+altspellings:
+    - British Virgin Islands
+    - Britische Jungferninseln
+    - Îles Vierges britanniques
+    - Islas Vírgenes del Reino Unido
+    - イギリス領ヴァージン諸島
+    - Britse Maagdeneilanden
+    - Virgin Islands (British)
+    - VG
+    - Virgin Islands, British
 tlds:
-- .vg
+    - .vg
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Britische Jungferninseln
-    official: Jungferninseln
-  FRA:
-    common: Îles Vierges britanniques
-    official: îles Vierges
-  HRV:
-    common: Britanski Djevičanski Otoci
-    official: Djevičanski Otoci
-  ITA:
-    common: Isole Vergini Britanniche
-    official: Isole Vergini
-  JPN:
-    common: イギリス領ヴァージン諸島
-    official: バージン諸島
-  NLD:
-    common: Britse Maagdeneilanden
-    official: Maagdeneilanden
-  RUS:
-    common: Британские Виргинские острова
-    official: Виргинские острова
+    ARA:
+        common: جزر العذراء
+        official: جزر العذراء البريطانية
+    CES:
+        common: Britské Panenské ostrovy
+        official: Britské Panenské ostrovy
+    DEU:
+        common: Britische Jungferninseln
+        official: Jungferninseln
+    EST:
+        common: Briti Neitsisaared
+        official: Neitsisaared
+    FIN:
+        common: Neitsytsaaret
+        official: Brittiläiset Neitsytsaaret
+    FRA:
+        common: Îles Vierges britanniques
+        official: îles Vierges
+    HRV:
+        common: Britanski Djevičanski Otoci
+        official: Djevičanski Otoci
+    HUN:
+        common: Brit Virgin-szigetek
+        official: Brit Virgin-szigetek
+    ITA:
+        common: Isole Vergini Britanniche
+        official: Isole Vergini
+    JPN:
+        common: イギリス領ヴァージン諸島
+        official: 英領ヴァージン諸島
+    KOR:
+        common: 영국령 버진아일랜드
+        official: 영국령 버진아일랜드
+    NLD:
+        common: Britse Maagdeneilanden
+        official: Maagdeneilanden
+    PER:
+        common: جزایر ویرجین بریتانیا
+        official: جزایر ویرجین بریتانیا
+    POL:
+        common: Brytyjskie Wyspy Dziewicze
+        official: Brytyjskie Wyspy Dziewicze
+    POR:
+        common: Ilhas Virgens
+        official: Ilhas Virgens
+    RUS:
+        common: Британские Виргинские острова
+        official: Виргинские острова
+    SLK:
+        common: Panenské ostrovy
+        official: Panenské ostrovy
+    SPA:
+        common: Islas Vírgenes del Reino Unido
+        official: Islas Vírgenes
+    SRP:
+        common: Britanska Devičanska Ostrva
+        official: Devičanska Ostrva
+    SWE:
+        common: Brittiska Jungfruöarna
+        official: Brittiska Jungfruöarna
+    TUR:
+        common: Virjin Adaları
+        official: Virjin Adaları
+    URD:
+        common: برطانوی جزائر ورجن
+        official: برطانوی جزائر ورجن
+    ZHO:
+        common: 英属维尔京群岛
+        official: 英属维尔京群岛
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: VG
-  alpha3: VGB
-  cioc: IVB
-  ccn3: "092"
-  callingcodes:
-  - "1284"
-  internationalprefix: "011"
+    alpha2: VG
+    alpha3: VGB
+    cioc: IVB
+    ccn3: "092"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Road Town
-  area: 151
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Road Town
+    area: 151
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: -64.85
-  minlatitude: 18.3
-  maxlongitude: -64.26667
-  maxlatitude: 18.766666
-  latitude: 18.443071
-  longitude: -64.571304
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -64.8775
+    minlatitude: 18.2899998
+    maxlongitude: -64.2651999
+    maxlatitude: 18.7539999
+    latitude: 18.420695
+    longitude: -64.639968

@@ -1,245 +1,77 @@
-- name: Caaguazú
-  names:
-  - Caaguazú
-  code: "5"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.05568
-    minlatitude: -25.496122
-    maxlongitude: -55.981094
-    maxlatitude: -25.433947
-    latitude: -25.46
-    longitude: -56.02
-- name: Caazapá
-  names:
-  - Caazapá
-  code: "6"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.845505
-    minlatitude: -26.794916
-    maxlongitude: -55.24962
-    maxlatitude: -25.521578
-    latitude: -26.22607
-    longitude: -56.024998
-- name: Misiones
-  names:
-  - Misiones
-  code: "8"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.746895
-    minlatitude: -27.604212
-    maxlongitude: -56.634357
-    maxlatitude: -26.366865
-    latitude: -26.843351
-    longitude: -57.10132
-- name: Paraguarí
-  names:
-  - Paraguarí
-  code: "9"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.164482
-    minlatitude: -25.636734
-    maxlongitude: -57.133106
-    maxlatitude: -25.60939
-    latitude: -25.633333
-    longitude: -57.15
-- name: Alto Paraná
-  names:
-  - Alto Paraná
-  code: "10"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -55.554268
-    minlatitude: -26.257265
-    maxlongitude: -54.37065
-    maxlatitude: -24.480299
-    latitude: -25.607555
-    longitude: -54.961185
-- name: Presidente Hayes
-  names:
-  - Presidente Hayes
-  code: "15"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.779007
-    minlatitude: -25.28223
-    maxlongitude: -57.15603
-    maxlatitude: -22.041864
-    latitude: -23.351261
-    longitude: -58.737362
-- name: San Pedro
-  names:
-  - San Pedro
-  code: "2"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.507595
-    minlatitude: -25.018806
-    maxlongitude: -55.76541
-    maxlatitude: -23.298546
-    latitude: -24.194866
-    longitude: -56.561646
-- name: Cordillera
-  names:
-  - Cordillera
-  code: "3"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.46526
-    minlatitude: -25.663202
-    maxlongitude: -56.51658
-    maxlatitude: -24.838818
-    latitude: -25.228949
-    longitude: -57.01117
-- name: Alto Paraguay
-  names:
-  - Alto Paraguay
-  code: "16"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.90993
-    minlatitude: -22.384459
-    maxlongitude: -57.817802
-    maxlatitude: -19.29404
-    latitude: -20.08525
-    longitude: -59.47209
-- name: Guairá
-  names:
-  - Guairá
-  code: "4"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.77882
-    minlatitude: -26.184694
-    maxlongitude: -55.638214
-    maxlatitude: -25.562723
-    latitude: -25.881094
-    longitude: -56.29294
-- name: Itapúa
-  names:
-  - Itapúa
-  code: "7"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.710255
-    minlatitude: -27.608738
-    maxlongitude: -54.649704
-    maxlatitude: -26.089293
-    latitude: -26.792362
-    longitude: -55.668964
-- name: Asunción
-  names:
-  - Asunción
-  code: ASU
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.671505
-    minlatitude: -25.368517
-    maxlongitude: -57.524673
-    maxlatitude: -25.22519
-    latitude: -25.282198
-    longitude: -57.6351
-- name: Central
-  names:
-  - Central
-  code: "11"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.81478
-    minlatitude: -26.014746
-    maxlongitude: -57.17747
-    maxlatitude: -25.08788
-    latitude: -25.56281
-    longitude: -57.50799
-- name: Ñeembucú
-  names:
-  - Neembucú
-  code: "12"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.663143
-    minlatitude: -27.440535
-    maxlongitude: -57.175465
-    maxlatitude: -25.762459
-    latitude: -27.029911
-    longitude: -57.825394
-- name: Boquerón
-  names:
-  - Boquerón
-  code: "19"
-  countryalpha2: PY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.647076
-    minlatitude: -23.87951
-    maxlongitude: -59.282955
-    maxlatitude: -20.057264
-    latitude: -21.744925
-    longitude: -60.954006
 - name: Concepción
   names:
-  - Concepción
+    - Concepción
   code: "1"
   countryalpha2: PY
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -57.992912
-    minlatitude: -23.505121
-    maxlongitude: -56.122326
+    minlatitude: -23.5051209
+    maxlongitude: -56.12232599999999
     maxlatitude: -22.082298
     latitude: -22.811926
-    longitude: -57.10132
+    longitude: -57.10131879999999
+- name: Alto Paraná
+  names:
+    - Alto Paraná
+  code: "10"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -55.55426809999999
+    minlatitude: -26.257265
+    maxlongitude: -54.3706512
+    maxlatitude: -24.480299
+    latitude: -25.6075546
+    longitude: -54.9611836
+- name: Central
+  names:
+    - Central
+  code: "11"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.81478199999999
+    minlatitude: -26.014746
+    maxlongitude: -57.177471
+    maxlatitude: -25.087879
+    latitude: -25.5628115
+    longitude: -57.5079912
+- name: Ñeembucú
+  names:
+    - Neembucú
+  code: "12"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.663143
+    minlatitude: -27.4405351
+    maxlongitude: -57.175465
+    maxlatitude: -25.762459
+    latitude: -27.0299114
+    longitude: -57.825395
 - name: Amambay
   names:
-  - Amambay
+    - Amambay
   code: "13"
   countryalpha2: PY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -56.817028
-    minlatitude: -23.835316
-    maxlongitude: -55.504482
-    maxlatitude: -22.033272
-    latitude: -22.559027
-    longitude: -56.024998
+    minlongitude: -56.81702989999999
+    minlatitude: -23.8353161
+    maxlongitude: -55.5044811
+    maxlatitude: -22.0332719
+    latitude: -22.5590272
+    longitude: -56.0249982
 - name: Canindeyú
   names:
-  - Canindeyú
-  - Canindiyú
+    - Canindeyú
+    - Canindiyú
   code: "14"
   countryalpha2: PY
   coordinates:
@@ -247,7 +79,175 @@
     latitudestring: ""
     minlongitude: -56.165066
     minlatitude: -24.78257
-    maxlongitude: -54.259354
+    maxlongitude: -54.25935399999999
     maxlatitude: -23.537436
-    latitude: -24.137873
-    longitude: -55.668964
+    latitude: -24.1378735
+    longitude: -55.6689636
+- name: Presidente Hayes
+  names:
+    - Presidente Hayes
+  code: "15"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -60.779007
+    minlatitude: -25.2822299
+    maxlongitude: -57.156029
+    maxlatitude: -22.041864
+    latitude: -23.3512605
+    longitude: -58.73736339999999
+- name: Alto Paraguay
+  names:
+    - Alto Paraguay
+  code: "16"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.909931
+    minlatitude: -22.3844591
+    maxlongitude: -57.817802
+    maxlatitude: -19.294041
+    latitude: -20.0852508
+    longitude: -59.4720904
+- name: Boquerón
+  names:
+    - Boquerón
+  code: "19"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.6470759
+    minlatitude: -23.879511
+    maxlongitude: -59.2829549
+    maxlatitude: -20.057264
+    latitude: -21.7449254
+    longitude: -60.9540073
+- name: San Pedro
+  names:
+    - San Pedro
+  code: "2"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.50759490000001
+    minlatitude: -25.018806
+    maxlongitude: -55.765411
+    maxlatitude: -23.2985459
+    latitude: -24.1948668
+    longitude: -56.56164700000001
+- name: Cordillera
+  names:
+    - Cordillera
+  code: "3"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.46526
+    minlatitude: -25.6632018
+    maxlongitude: -56.5165789
+    maxlatitude: -24.8388179
+    latitude: -25.2289491
+    longitude: -57.0111681
+- name: Guairá
+  names:
+    - Guairá
+  code: "4"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.77882
+    minlatitude: -26.1846939
+    maxlongitude: -55.638214
+    maxlatitude: -25.5627229
+    latitude: -25.8810932
+    longitude: -56.2929381
+- name: Caaguazú
+  names:
+    - Caaguazú
+  code: "5"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.0556792
+    minlatitude: -25.4961221
+    maxlongitude: -55.9810925
+    maxlatitude: -25.4339458
+    latitude: -25.46
+    longitude: -56.02
+- name: Caazapá
+  names:
+    - Caazapá
+  code: "6"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.84550489999999
+    minlatitude: -26.794916
+    maxlongitude: -55.24961889999999
+    maxlatitude: -25.521578
+    latitude: -26.2260696
+    longitude: -56.0249982
+- name: Itapúa
+  names:
+    - Itapúa
+  code: "7"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.710255
+    minlatitude: -27.6087381
+    maxlongitude: -54.6497041
+    maxlatitude: -26.089293
+    latitude: -26.7923623
+    longitude: -55.6689636
+- name: Misiones
+  names:
+    - Misiones
+  code: "8"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.7468951
+    minlatitude: -27.604212
+    maxlongitude: -56.6343581
+    maxlatitude: -26.366865
+    latitude: -26.8433512
+    longitude: -57.10131879999999
+- name: Paraguarí
+  names:
+    - Paraguarí
+  code: "9"
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.16448310000001
+    minlatitude: -25.6367345
+    maxlongitude: -57.1331068
+    maxlatitude: -25.6093911
+    latitude: -25.633333
+    longitude: -57.15
+- name: Asunción
+  names:
+    - Asunción
+  code: ASU
+  countryalpha2: PY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.67150650000001
+    minlatitude: -25.3685162
+    maxlongitude: -57.52467170000001
+    maxlatitude: -25.2251891
+    latitude: -25.282197
+    longitude: -57.63509999999999

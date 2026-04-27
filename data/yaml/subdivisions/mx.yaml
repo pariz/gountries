@@ -1,62 +1,328 @@
+- name: Aguascalientes
+  names:
+    - Aguascalientes
+  code: AGU
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -102.3555606
+    minlatitude: 21.8200957
+    maxlongitude: -102.2284165
+    maxlatitude: 21.9580787
+    latitude: 21.8852562
+    longitude: -102.2915677
+- name: Baja California
+  names:
+    - Baja California
+  code: BCN
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -118.36443
+    minlatitude: 27.9999998
+    maxlongitude: -112.7555545
+    maxlatitude: 32.7186534
+    latitude: 30.8406338
+    longitude: -115.2837585
+- name: Baja California Sur
+  names:
+    - Baja California Sur
+  code: BCS
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -115.2137241
+    minlatitude: 22.8722626
+    maxlongitude: -109.4134348
+    maxlatitude: 28.0000017
+    latitude: 26.0444446
+    longitude: -111.6660725
+- name: Campeche
+  names:
+    - Campeche
+  code: CAM
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.6223751
+    minlatitude: 19.7848441
+    maxlongitude: -90.4777941
+    maxlatitude: 19.8763407
+    latitude: 19.8301251
+    longitude: -90.5349087
+- name: Chihuahua
+  names:
+    - Chihuahua
+  code: CHH
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -106.1671059
+    minlatitude: 28.5586774
+    maxlongitude: -105.9612896
+    maxlatitude: 28.7729082
+    latitude: 28.6329957
+    longitude: -106.0691004
 - name: Chiapas
   names:
-  - Chiapas
+    - Chiapas
   code: CHP
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -94.13915
-    minlatitude: 14.532099
-    maxlongitude: -90.37022
-    maxlatitude: 17.985289
-    latitude: 16.756931
-    longitude: -93.129234
+    minlongitude: -94.13915589999999
+    minlatitude: 14.5320984
+    maxlongitude: -90.3702138
+    maxlatitude: 17.9852877
+    latitude: 16.7569318
+    longitude: -93.12923529999999
+- name: Ciudad de México
+  names:
+    - Ciudad de México
+  code: CMX
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -99.36492419999999
+    minlatitude: 19.0482366
+    maxlongitude: -98.94030269999999
+    maxlatitude: 19.5927571
+    latitude: 19.2464696
+    longitude: -99.1013498
+- name: Coahuila
+  names:
+    - Coahuila de Zaragoza
+  code: COA
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -103.9600019
+    minlatitude: 24.542684
+    maxlongitude: -99.8431197
+    maxlatitude: 29.8800241
+    latitude: 27.058676
+    longitude: -101.7068294
 - name: Colima
   names:
-  - Colima
+    - Colima
   code: COL
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -103.78382
-    minlatitude: 19.1988
-    maxlongitude: -103.6735
-    maxlatitude: 19.294302
-    latitude: 19.245234
-    longitude: -103.72409
+    minlongitude: -103.7838196
+    minlatitude: 19.1987996
+    maxlongitude: -103.6734973
+    maxlatitude: 19.2943022
+    latitude: 19.2452342
+    longitude: -103.7240868
+- name: Durango
+  names:
+    - Durango
+  code: DUR
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -104.7151846
+    minlatitude: 23.9633543
+    maxlongitude: -104.5754014
+    maxlatitude: 24.0945669
+    latitude: 24.0277202
+    longitude: -104.6531759
+- name: Guerrero
+  names:
+    - Guerrero
+  code: GRO
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -102.1834566
+    minlatitude: 16.3159525
+    maxlongitude: -98.00727630000002
+    maxlatitude: 18.8878466
+    latitude: 17.4391926
+    longitude: -99.54509739999999
+- name: Guanajuato
+  names:
+    - Guanajuato
+  code: GUA
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -101.2801804
+    minlatitude: 20.9986079
+    maxlongitude: -101.226862
+    maxlatitude: 21.0516362
+    latitude: 21.0190145
+    longitude: -101.2573586
+- name: Hidalgo
+  names:
+    - Hidalgo
+  code: HID
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -99.85954129999999
+    minlatitude: 19.5977581
+    maxlongitude: -97.9849289
+    maxlatitude: 21.3985208
+    latitude: 20.0910963
+    longitude: -98.7623874
 - name: Jalisco
   names:
-  - Jalisco
+    - Jalisco
   code: JAL
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -105.69479
-    minlatitude: 18.92587
-    maxlongitude: -101.510544
-    maxlatitude: 22.750246
-    latitude: 20.659538
-    longitude: -103.349434
+    minlongitude: -105.6947969
+    minlatitude: 18.9258718
+    maxlongitude: -101.5105417
+    maxlatitude: 22.7502459
+    latitude: 20.6595382
+    longitude: -103.3494376
+- name: México
+  names:
+    - México
+  code: MEX
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -99.3641835
+    minlatitude: 19.0482787
+    maxlongitude: -98.9401855
+    maxlatitude: 19.5919189
+    latitude: 19.4326077
+    longitude: -99.133208
+- name: Michoacán
+  names:
+    - Michoacán de Ocampo
+  code: MIC
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -103.7381271
+    minlatitude: 17.9149077
+    maxlongitude: -100.0630329
+    maxlatitude: 20.3942215
+    latitude: 19.5665192
+    longitude: -101.7068294
+- name: Morelos
+  names:
+    - Morelos
+  code: MOR
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -99.4944141
+    minlatitude: 18.332373
+    maxlongitude: -98.63294660000001
+    maxlatitude: 19.1317018
+    latitude: 18.6813049
+    longitude: -99.1013498
 - name: Nayarit
   names:
-  - Nayarit
+    - Nayarit
   code: NAY
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -106.68773
-    minlatitude: 20.60322
-    maxlongitude: -103.720894
-    maxlatitude: 23.084503
-    latitude: 21.751385
-    longitude: -104.84546
+    minlongitude: -106.6877266
+    minlatitude: 20.6032209
+    maxlongitude: -103.7208954
+    maxlatitude: 23.0845034
+    latitude: 21.7513844
+    longitude: -104.8454619
+- name: Nuevo León
+  names:
+    - Nuevo León
+  code: NLE
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -101.2067627
+    minlatitude: 23.162683
+    maxlongitude: -98.4215759
+    maxlatitude: 27.7991372
+    latitude: 25.592172
+    longitude: -99.99619469999999
+- name: Oaxaca
+  names:
+    - Oaxaca
+  code: OAX
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -96.78067659999999
+    minlatitude: 17.0222818
+    maxlongitude: -96.6762766
+    maxlatitude: 17.1332787
+    latitude: 17.0594169
+    longitude: -96.7216219
+- name: Puebla
+  names:
+    - Puebla
+  code: PUE
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -98.2824308
+    minlatitude: 18.9443809
+    maxlongitude: -98.1035011
+    maxlatitude: 19.1381977
+    latitude: 19.0412967
+    longitude: -98.20619959999999
+- name: Querétaro
+  names:
+    - Querétaro
+  code: QUE
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -100.482931
+    minlatitude: 20.5434421
+    maxlongitude: -100.3285436
+    maxlatitude: 20.6854032
+    latitude: 20.5887932
+    longitude: -100.3898881
+- name: Quintana Roo
+  names:
+    - Quintana Roo
+  code: ROO
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.29656179999999
+    minlatitude: 17.8939856
+    maxlongitude: -86.7105607
+    maxlatitude: 21.587621
+    latitude: 19.1817393
+    longitude: -88.4791376
 - name: Sinaloa
   names:
-  - Sinaloa
+    - Sinaloa
   code: SIN
   countryalpha2: MX
   coordinates:
@@ -66,383 +332,117 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 25.8257
-    longitude: -108.2143
-- name: Tabasco
-  names:
-  - Tabasco
-  code: TAB
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -94.12979
-    minlatitude: 17.250893
-    maxlongitude: -90.98746
-    maxlatitude: 18.6503
-    latitude: 17.840918
-    longitude: -92.61893
-- name: Tlaxcala
-  names:
-  - Tlaxcala
-  code: TLA
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -98.24796
-    minlatitude: 19.305666
-    maxlongitude: -98.231674
-    maxlatitude: 19.32646
-    latitude: 19.318151
-    longitude: -98.23752
-- name: Guerrero
-  names:
-  - Guerrero
-  code: GRO
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -102.18346
-    minlatitude: 16.315952
-    maxlongitude: -98.00728
-    maxlatitude: 18.887846
-    latitude: 17.439192
-    longitude: -99.5451
-- name: Quintana Roo
-  names:
-  - Quintana Roo
-  code: ROO
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -89.29656
-    minlatitude: 17.893986
-    maxlongitude: -86.71056
-    maxlatitude: 21.587622
-    latitude: 19.18174
-    longitude: -88.47914
-- name: Yucatán
-  names:
-  - Yucatán
-  code: YUC
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -90.407
-    minlatitude: 19.551174
-    maxlongitude: -87.53314
-    maxlatitude: 21.624208
-    latitude: 20.709879
-    longitude: -89.09434
-- name: Hidalgo
-  names:
-  - Hidalgo
-  code: HID
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -99.85954
-    minlatitude: 19.597757
-    maxlongitude: -97.98493
-    maxlatitude: 21.398521
-    latitude: 20.091097
-    longitude: -98.76239
-- name: México
-  names:
-  - México
-  code: MEX
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -99.36418
-    minlatitude: 19.048279
-    maxlongitude: -98.940186
-    maxlatitude: 19.591919
-    latitude: 19.432608
-    longitude: -99.13321
-- name: Campeche
-  names:
-  - Campeche
-  code: CAM
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -90.622375
-    minlatitude: 19.784843
-    maxlongitude: -90.47779
-    maxlatitude: 19.87634
-    latitude: 19.830126
-    longitude: -90.53491
-- name: Chihuahua
-  names:
-  - Chihuahua
-  code: CHH
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -106.16711
-    minlatitude: 28.558678
-    maxlongitude: -105.96129
-    maxlatitude: 28.772907
-    latitude: 28.632996
-    longitude: -106.0691
-- name: Durango
-  names:
-  - Durango
-  code: DUR
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -104.71519
-    minlatitude: 23.963354
-    maxlongitude: -104.5754
-    maxlatitude: 24.094566
-    latitude: 24.02772
-    longitude: -104.653175
+    latitude: 25.825701
+    longitude: -108.214302
 - name: San Luis Potosí
   names:
-  - San Luis Potosí
+    - San Luis Potosí
   code: SLP
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -101.0467
-    minlatitude: 22.062088
-    maxlongitude: -100.874756
-    maxlatitude: 22.209244
-    latitude: 22.15647
-    longitude: -100.98554
-- name: Veracruz
-  names:
-  - Veracruz
-  code: VER
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -96.20662
-    minlatitude: 19.130943
-    maxlongitude: -96.118195
-    maxlatitude: 19.22667
-    latitude: 19.173773
-    longitude: -96.134224
-- name: Baja California
-  names:
-  - Baja California
-  code: BCN
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -118.36443
-    minlatitude: 28
-    maxlongitude: -112.755554
-    maxlatitude: 32.718655
-    latitude: 30.840633
-    longitude: -115.28376
-- name: Coahuila
-  names:
-  - Coahuila
-  code: COA
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -103.96
-    minlatitude: 24.542685
-    maxlongitude: -99.84312
-    maxlatitude: 29.880024
-    latitude: 27.058676
-    longitude: -101.70683
-- name: Guanajuato
-  names:
-  - Guanajuato
-  code: GUA
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -101.28018
-    minlatitude: 20.998608
-    maxlongitude: -101.22686
-    maxlatitude: 21.051636
-    latitude: 21.019014
-    longitude: -101.25736
-- name: Querétaro
-  names:
-  - Querétaro
-  code: QUE
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -100.48293
-    minlatitude: 20.543442
-    maxlongitude: -100.328545
-    maxlatitude: 20.685404
-    latitude: 20.588793
-    longitude: -100.389885
-- name: Tamaulipas
-  names:
-  - Tamaulipas
-  code: TAM
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -100.14495
-    minlatitude: 22.206966
-    maxlongitude: -97.144264
-    maxlatitude: 27.679127
-    latitude: 24.26694
-    longitude: -98.83627
-- name: Aguascalientes
-  names:
-  - Aguascalientes
-  code: AGU
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -102.35556
-    minlatitude: 21.820095
-    maxlongitude: -102.22842
-    maxlatitude: 21.958078
-    latitude: 21.885256
-    longitude: -102.291565
-- name: Morelos
-  names:
-  - Morelos
-  code: MOR
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -99.494415
-    minlatitude: 18.332373
-    maxlongitude: -98.63295
-    maxlatitude: 19.131702
-    latitude: 18.681305
-    longitude: -99.10135
-- name: Nuevo León
-  names:
-  - Nuevo León
-  code: NLE
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -101.206764
-    minlatitude: 23.162683
-    maxlongitude: -98.42158
-    maxlatitude: 27.799137
-    latitude: 25.592173
-    longitude: -99.99619
-- name: Puebla
-  names:
-  - Puebla
-  code: PUE
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -98.28243
-    minlatitude: 18.944382
-    maxlongitude: -98.1035
-    maxlatitude: 19.138197
-    latitude: 19.041296
-    longitude: -98.2062
-- name: Distrito Federal
-  names:
-  - Distrito Federal
-  code: DIF
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -99.36492
-    minlatitude: 19.048237
-    maxlongitude: -98.9403
-    maxlatitude: 19.592756
-    latitude: 19.24647
-    longitude: -99.10135
-- name: Michoacán
-  names:
-  - Michoacán
-  code: MIC
-  countryalpha2: MX
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -103.73813
-    minlatitude: 17.914907
-    maxlongitude: -100.063034
-    maxlatitude: 20.394222
-    latitude: 19.566519
-    longitude: -101.70683
+    minlongitude: -101.0467011
+    minlatitude: 22.0620884
+    maxlongitude: -100.8747596
+    maxlatitude: 22.2092432
+    latitude: 22.1564699
+    longitude: -100.9855409
 - name: Sonora
   names:
-  - Sonora
+    - Sonora
   code: SON
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -115.053024
-    minlatitude: 26.296988
-    maxlongitude: -108.42427
-    maxlatitude: 32.493797
-    latitude: 29.297224
-    longitude: -110.33088
-- name: Baja California Sur
+    minlongitude: -115.0530223
+    minlatitude: 26.2969879
+    maxlongitude: -108.4242708
+    maxlatitude: 32.4937985
+    latitude: 29.2972247
+    longitude: -110.3308814
+- name: Tabasco
   names:
-  - Baja California Sur
-  code: BCS
+    - Tabasco
+  code: TAB
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -115.21372
-    minlatitude: 22.872263
-    maxlongitude: -109.41344
-    maxlatitude: 28.000002
-    latitude: 26.044445
-    longitude: -111.66607
-- name: Oaxaca
+    minlongitude: -94.12979179999999
+    minlatitude: 17.2508934
+    maxlongitude: -90.98745919999999
+    maxlatitude: 18.6502994
+    latitude: 17.8409173
+    longitude: -92.6189273
+- name: Tamaulipas
   names:
-  - Oaxaca
-  code: OAX
+    - Tamaulipas
+  code: TAM
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -96.78068
-    minlatitude: 17.022282
-    maxlongitude: -96.67628
-    maxlatitude: 17.133278
-    latitude: 17.059418
-    longitude: -96.72162
+    minlongitude: -100.1449502
+    minlatitude: 22.2069658
+    maxlongitude: -97.14426089999999
+    maxlatitude: 27.6791263
+    latitude: 24.26694
+    longitude: -98.8362755
+- name: Tlaxcala
+  names:
+    - Tlaxcala
+  code: TLA
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -98.24796239999999
+    minlatitude: 19.3056666
+    maxlongitude: -98.2316719
+    maxlatitude: 19.3264598
+    latitude: 19.3181521
+    longitude: -98.2375146
+- name: Veracruz
+  names:
+    - Veracruz de Ignacio de la Llave
+  code: VER
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -96.206622
+    minlatitude: 19.1309432
+    maxlongitude: -96.1181965
+    maxlatitude: 19.2266685
+    latitude: 19.173773
+    longitude: -96.1342241
+- name: Yucatán
+  names:
+    - Yucatán
+  code: YUC
+  countryalpha2: MX
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -90.40699579999999
+    minlatitude: 19.551174
+    maxlongitude: -87.5331451
+    maxlatitude: 21.6242092
+    latitude: 20.7098786
+    longitude: -89.0943377
 - name: Zacatecas
   names:
-  - Zacatecas
+    - Zacatecas
   code: ZAC
   countryalpha2: MX
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -102.6197
-    minlatitude: 22.74516
-    maxlongitude: -102.554985
-    maxlatitude: 22.790117
-    latitude: 22.770926
-    longitude: -102.58325
+    minlongitude: -102.6196943
+    minlatitude: 22.7451586
+    maxlongitude: -102.5549838
+    maxlatitude: 22.7901168
+    latitude: 22.7709249
+    longitude: -102.5832539

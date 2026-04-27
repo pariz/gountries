@@ -1,188 +1,48 @@
-- name: El Oro
-  names:
-  - El Oro
-  code: O
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.30035
-    minlatitude: -3.90139
-    maxlongitude: -79.35811
-    maxlatitude: -3.0484269
-    latitude: -3.4454787
-    longitude: -79.82967
-- name: Sucumbíos
-  names:
-  - Sucumbíos
-  code: U
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.97382
-    minlatitude: -0.648883
-    maxlongitude: -75.234886
-    maxlatitude: 0.651662
-    latitude: -0.1452276
-    longitude: -76.27108
-- name: Galápagos
-  names:
-  - Galápagos
-  code: W
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -92.00849
-    minlatitude: -1.4115146
-    maxlongitude: -89.2408
-    maxlatitude: 1.6815752
-    latitude: -0.8292784
-    longitude: -90.98206
-- name: Pastaza
-  names:
-  - Pastaza
-  code: "Y"
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.30367
-    minlatitude: -2.63009
-    maxlongitude: -75.57669
-    maxlatitude: -1.083427
-    latitude: -1.6332034
-    longitude: -77.01038
 - name: Azuay
   names:
-  - Azuay
+    - Azuay
   code: A
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.7604
+    minlongitude: -79.76039899999999
     minlatitude: -3.620066
-    maxlongitude: -78.43985
+    maxlongitude: -78.43984999999999
     maxlatitude: -2.55303
     latitude: -2.9633245
-    longitude: -79.10969
-- name: Esmeraldas
-  names:
-  - Esmeraldas
-  code: E
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.67212
-    minlatitude: 0.929291
-    maxlongitude: -79.609505
-    maxlatitude: 0.9975799
-    latitude: 0.9681789
-    longitude: -79.65172
-- name: Cañar
-  names:
-  - Cañar
-  code: F
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.95359
-    minlatitude: -2.578256
-    maxlongitude: -78.92424
-    maxlatitude: -2.538513
-    latitude: -2.555695
-    longitude: -78.93448
-- name: Imbabura
-  names:
-  - Imbabura
-  code: I
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.23036
-    minlatitude: 0.125442
-    maxlongitude: -77.82803
-    maxlatitude: 0.8569121
-    latitude: 0.367159
-    longitude: -78.384224
-- name: Napo
-  names:
-  - Napo
-  code: "N"
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.41009
-    minlatitude: -1.273843
-    maxlongitude: -77.04986
-    maxlatitude: 0.036432
-    latitude: -0.7371233
-    longitude: -78.110825
-- name: Los Ríos
-  names:
-  - Los Ríos
-  code: R
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.8768
-    minlatitude: -2.130207
-    maxlongitude: -79.08035
-    maxlatitude: -0.5303
-    latitude: -1.4191719
-    longitude: -79.47039
-- name: Tungurahua
-  names:
-  - Tungurahua
-  code: T
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.93395
-    minlatitude: -1.507969
-    maxlongitude: -78.14421
-    maxlatitude: -0.980301
-    latitude: -1.2635283
-    longitude: -78.566086
-- name: Santa Elena
-  names:
-  - Santa Elena
-  code: X1~
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -81.006775
-    minlatitude: -2.508378
-    maxlongitude: -80.22669
-    maxlatitude: -1.647962
-    latitude: -2.1934805
-    longitude: -80.543846
+    longitude: -79.1096901
 - name: Bolívar
   names:
-  - Bolívar
+    - Bolívar
   code: B
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.40536
-    minlatitude: -2.2034862
-    maxlongitude: -78.85048
+    minlongitude: -79.4053569
+    minlatitude: -2.2034861
+    maxlongitude: -78.85047899999999
     maxlatitude: -1.148095
     latitude: -1.5696244
-    longitude: -79.10969
+    longitude: -79.1096901
+- name: Carchi
+  names:
+    - Carchi
+  code: C
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.55054489999999
+    minlatitude: 0.360788
+    maxlongitude: -77.5582881
+    maxlatitude: 1.1878679
+    latitude: 0.6625532
+    longitude: -78.0195387
 - name: Orellana
   names:
-  - Orellana
+    - Orellana
   code: D
   countryalpha2: EC
   coordinates:
@@ -190,13 +50,55 @@
     latitudestring: ""
     minlongitude: -77.181015
     minlatitude: -0.7265373
-    maxlongitude: -77.133896
+    maxlongitude: -77.13389389999999
     maxlatitude: -0.6898046
-    latitude: -0.7112665
-    longitude: -77.15427
+    latitude: -0.7112664999999999
+    longitude: -77.15426839999999
+- name: Esmeraldas
+  names:
+    - Esmeraldas
+  code: E
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.672122
+    minlatitude: 0.9292910000000001
+    maxlongitude: -79.6095084
+    maxlatitude: 0.9975799
+    latitude: 0.9681789
+    longitude: -79.6517202
+- name: Cañar
+  names:
+    - Cañar
+  code: F
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.9535904
+    minlatitude: -2.5782558
+    maxlongitude: -78.9242364
+    maxlatitude: -2.5385129
+    latitude: -2.555695
+    longitude: -78.9344814
+- name: Guayas
+  names:
+    - Guayas
+  code: G
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.561928
+    minlatitude: -3.062438
+    maxlongitude: -79.09728199999999
+    maxlatitude: -0.839573
+    latitude: -1.9574839
+    longitude: -79.9192702
 - name: Chimborazo
   names:
-  - Chimborazo
+    - Chimborazo
   code: H
   countryalpha2: EC
   coordinates:
@@ -207,108 +109,108 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: -1.4693018
-    longitude: -78.81694
+    longitude: -78.8169396
+- name: Imbabura
+  names:
+    - Imbabura
+  code: I
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.230362
+    minlatitude: 0.125442
+    maxlongitude: -77.828034
+    maxlatitude: 0.8569121
+    latitude: 0.367159
+    longitude: -78.3842227
 - name: Loja
   names:
-  - Loja
+    - Loja
   code: L
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.23554
+    minlongitude: -79.23554419999999
     minlatitude: -4.0516043
-    maxlongitude: -79.18121
-    maxlatitude: -3.963586
+    maxlongitude: -79.1812133
+    maxlatitude: -3.9635861
     latitude: -3.983333
     longitude: -79.2
 - name: Manabí
   names:
-  - Manabí
+    - Manabí
   code: M
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -81.07747
+    minlongitude: -81.0774715
     minlatitude: -1.92619
-    maxlongitude: -79.3954
+    maxlongitude: -79.3954009
     maxlatitude: 0.394737
     latitude: -0.7416532
-    longitude: -79.91927
-- name: Cotopaxi
+    longitude: -79.9192702
+- name: Napo
   names:
-  - Cotopaxi
-  code: X
+    - Napo
+  code: "N"
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.32969
-    minlatitude: -1.2108109
-    maxlongitude: -78.37067
-    maxlatitude: -0.324243
-    latitude: -0.8139667
-    longitude: -78.928825
-- name: Santo Domingo de los Tsachilas
+    minlongitude: -78.410088
+    minlatitude: -1.273843
+    maxlongitude: -77.049857
+    maxlatitude: 0.036432
+    latitude: -0.7371233
+    longitude: -78.11082789999999
+- name: El Oro
   names:
-  - Santo Domingo de los Tsachilas
-  code: X2~
+    - El Oro
+  code: O
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.62387
-    minlatitude: -0.686189
-    maxlongitude: -78.73494
-    maxlatitude: 0.123351
-    latitude: -0.2205563
-    longitude: -79.290215
-- name: Carchi
-  names:
-  - Carchi
-  code: C
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -78.550545
-    minlatitude: 0.360788
-    maxlongitude: -77.55829
-    maxlatitude: 1.1878679
-    latitude: 0.6625532
-    longitude: -78.01954
-- name: Guayas
-  names:
-  - Guayas
-  code: G
-  countryalpha2: EC
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.56193
-    minlatitude: -3.062438
-    maxlongitude: -79.09728
-    maxlatitude: -0.839573
-    latitude: -1.9574839
-    longitude: -79.91927
+    minlongitude: -80.30034599999999
+    minlatitude: -3.90139
+    maxlongitude: -79.358108
+    maxlatitude: -3.0484269
+    latitude: -3.4454787
+    longitude: -79.8296743
 - name: Pichincha
   names:
-  - Pichincha
+    - Pichincha
   code: P
   countryalpha2: EC
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -79.36864
+    minlongitude: -79.368635
     minlatitude: -0.714463
-    maxlongitude: -77.835526
+    maxlongitude: -77.83552499999999
     maxlatitude: 0.344864
     latitude: -0.1464847
-    longitude: -78.4752
+    longitude: -78.4751945
+- name: Los Ríos
+  names:
+    - Los Ríos
+  code: R
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.8767999
+    minlatitude: -2.1302071
+    maxlongitude: -79.080353
+    maxlatitude: -0.5303
+    latitude: -1.4191719
+    longitude: -79.4703885
 - name: Morona-Santiago
   names:
-  - Morona-Santiago
+    - Morona-Santiago
   code: S
   countryalpha2: EC
   coordinates:
@@ -316,13 +218,111 @@
     latitudestring: ""
     minlongitude: -78.969154
     minlatitude: -3.823733
-    maxlongitude: -76.73909
+    maxlongitude: -76.73908999999999
     maxlatitude: -1.443362
     latitude: -2.5628216
-    longitude: -78.110825
+    longitude: -78.11082789999999
+- name: Santo Domingo de los Tsachilas
+  names:
+    - Santo Domingo de los Tsachilas
+  code: SD
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.623871
+    minlatitude: -0.6861889999999999
+    maxlongitude: -78.73494099999999
+    maxlatitude: 0.123351
+    latitude: -0.2205563
+    longitude: -79.29021329999999
+- name: Santa Elena
+  names:
+    - Santa Elena
+  code: SE
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -81.0067736
+    minlatitude: -2.508378
+    maxlongitude: -80.2266889
+    maxlatitude: -1.647962
+    latitude: -2.1934804
+    longitude: -80.54384499999999
+- name: Tungurahua
+  names:
+    - Tungurahua
+  code: T
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.93395199999999
+    minlatitude: -1.507969
+    maxlongitude: -78.144211
+    maxlatitude: -0.9803009999999999
+    latitude: -1.2635284
+    longitude: -78.5660852
+- name: Sucumbíos
+  names:
+    - Sucumbíos
+  code: U
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.9738229
+    minlatitude: -0.648883
+    maxlongitude: -75.2348859
+    maxlatitude: 0.651662
+    latitude: -0.1452276
+    longitude: -76.2710833
+- name: Galápagos
+  names:
+    - Galápagos
+  code: W
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -92.0084893
+    minlatitude: -1.4115146
+    maxlongitude: -89.24079549999999
+    maxlatitude: 1.6815752
+    latitude: -0.8292784
+    longitude: -90.9820668
+- name: Cotopaxi
+  names:
+    - Cotopaxi
+  code: X
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.329689
+    minlatitude: -1.2108109
+    maxlongitude: -78.370667
+    maxlatitude: -0.324243
+    latitude: -0.8139666999999999
+    longitude: -78.9288242
+- name: Pastaza
+  names:
+    - Pastaza
+  code: "Y"
+  countryalpha2: EC
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -78.30367509999999
+    minlatitude: -2.6300901
+    maxlongitude: -75.576691
+    maxlatitude: -1.083427
+    latitude: -1.6332034
+    longitude: -77.010385
 - name: Zamora-Chinchipe
   names:
-  - Zamora-Chinchipe
+    - Zamora-Chinchipe
   code: Z
   countryalpha2: EC
   coordinates:
@@ -331,6 +331,6 @@
     minlongitude: -79.427795
     minlatitude: -4.998823
     maxlongitude: -78.3993
-    maxlatitude: -3.3357892
-    latitude: -4.1535435
-    longitude: -78.838264
+    maxlatitude: -3.3357891
+    latitude: -4.1535434
+    longitude: -78.8382644

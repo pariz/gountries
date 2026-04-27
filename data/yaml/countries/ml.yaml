@@ -1,66 +1,124 @@
 name:
-  common: Mali
-  official: Republic of Mali
-  native:
-    fra:
-      common: Mali
-      official: République du Mali
+    common: Mali
+    official: The Republic of Mali
+    native:
+        fra:
+            common: Mali
+            official: République du Mali
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Malian
+altspellings:
+    - Mali
+    - マリ
+    - ML
+    - Republic of Mali
+    - République du Mali
 tlds:
-- .ml
+    - .ml
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  FIN:
-    common: Mali
-    official: Malin tasavalta
-  HRV:
-    common: Mali
-    official: Republika Mali
-  ITA:
-    common: Mali
-    official: Repubblica del Mali
-  NLD:
-    common: Mali
-    official: Republiek Mali
-  RUS:
-    common: Мали
-    official: Республика Мали
-  SPA:
-    common: Mali
-    official: República de Malí
+    ARA:
+        common: مالي
+        official: جمهورية مالي
+    CES:
+        common: Mali
+        official: Republika Mali
+    DEU:
+        common: Mali
+        official: Republik Mali
+    EST:
+        common: Mali
+        official: Mali Vabariik
+    FIN:
+        common: Mali
+        official: Malin tasavalta
+    FRA:
+        common: Mali
+        official: République du Mali
+    HRV:
+        common: Mali
+        official: Republika Mali
+    HUN:
+        common: Mali
+        official: Mali Köztársaság
+    ITA:
+        common: Mali
+        official: Repubblica del Mali
+    JPN:
+        common: マリ
+        official: マリ共和国
+    KOR:
+        common: 말리
+        official: 말리 공화국
+    NLD:
+        common: Mali
+        official: Republiek Mali
+    PER:
+        common: مالی
+        official: جمهوری مالی
+    POL:
+        common: Mali
+        official: Republika Mali
+    POR:
+        common: Mali
+        official: República do Mali
+    RUS:
+        common: Мали
+        official: Республика Мали
+    SLK:
+        common: Mali
+        official: Malijská republika
+    SPA:
+        common: Mali
+        official: República de Malí
+    SRP:
+        common: Mali
+        official: Republika Mali
+    SWE:
+        common: Mali
+        official: Republiken Mali
+    TUR:
+        common: Mali
+        official: Mali Cumhuriyeti
+    URD:
+        common: مالی
+        official: جمہوریہ مالی
+    ZHO:
+        common: 马里
+        official: 马里共和国
 currencies:
-- XOF
+    - XOF
 borders:
-- DZA
-- BFA
-- GIN
-- CIV
-- MRT
-- NER
-- SEN
+    - DZA
+    - BFA
+    - GIN
+    - CIV
+    - MRT
+    - NER
+    - SEN
 codes:
-  alpha2: ML
-  alpha3: MLI
-  cioc: MLI
-  ccn3: "466"
-  callingcodes:
-  - "223"
-  internationalprefix: "00"
+    alpha2: ML
+    alpha3: MLI
+    cioc: MLI
+    ccn3: "466"
+    callingcodes:
+        - "223"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Bamako
-  area: 1.240192e+06
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Bamako
+    area: 1.240192e+06
 coordinates:
-  longitudestring: 4 00 W
-  latitudestring: 17 00 N
-  minlongitude: -12.55
-  minlatitude: 10.15
-  maxlongitude: 13
-  maxlatitude: 26
-  latitude: 17.357767
-  longitude: -3.527382
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -12.2403447
+    minlatitude: 10.147811
+    maxlongitude: 4.267382599999999
+    maxlatitude: 25.001084
+    latitude: 17.570692
+    longitude: -3.996166

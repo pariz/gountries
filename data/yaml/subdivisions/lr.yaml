@@ -1,76 +1,34 @@
-- name: Nimba
+- name: Bong
   names:
-  - Nimba
-  code: NI
+    - Bong
+  code: BG
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -9.216995
-    minlatitude: 5.823794
-    maxlongitude: -8.27361
-    maxlatitude: 7.696163
-    latitude: 6.842761
-    longitude: -8.660059
-- name: Sinoe
+    minlongitude: -10.4769088
+    minlatitude: 6.397581
+    maxlongitude: -9.094152
+    maxlatitude: 7.430014999999999
+    latitude: 6.829501899999999
+    longitude: -9.367308399999999
+- name: Bomi
   names:
-  - Sinoe
-  code: SI
+    - Bomi
+  code: BM
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -9.4184885
-    minlatitude: 4.804354
-    maxlongitude: -8.234179
-    maxlatitude: 5.844906
-    latitude: 5.49871
-    longitude: -8.660059
-- name: Grand Bassa
-  names:
-  - Grand Bassa
-  code: GB
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.376365
-    minlatitude: 5.573188
-    maxlongitude: -9.024494
-    maxlatitude: 6.7131767
-    latitude: 6.230845
-    longitude: -9.812493
-- name: Lofa
-  names:
-  - Lofa
-  code: LO
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.606035
-    minlatitude: 7.178835
-    maxlongitude: -9.343918
-    maxlatitude: 8.551791
-    latitude: 8.191118
-    longitude: -9.723268
-- name: Gbarpolu
-  names:
-  - Gbarpolu
-  code: X1~
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.953311
-    minlatitude: 6.829072
-    maxlongitude: -9.636509
-    maxlatitude: 7.998692
-    latitude: 7.4952636
-    longitude: -10.0807295
+    minlongitude: -11.0814981
+    minlatitude: 6.479747
+    maxlongitude: -10.4870661
+    maxlatitude: 6.970269
+    latitude: 6.7562926
+    longitude: -10.8451467
 - name: Grand Cape Mount
   names:
-  - Grand Cape Mount
+    - Grand Cape Mount
   code: CM
   countryalpha2: LR
   coordinates:
@@ -78,133 +36,199 @@
     latitudestring: ""
     minlongitude: -11.486138
     minlatitude: 6.577183
-    maxlongitude: -10.51657
-    maxlatitude: 7.527847
-    latitude: 7.046776
-    longitude: -11.071176
+    maxlongitude: -10.5165701
+    maxlatitude: 7.527846999999999
+    latitude: 7.0467758
+    longitude: -11.0711758
+- name: Grand Bassa
+  names:
+    - Grand Bassa
+  code: GB
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.3763649
+    minlatitude: 5.5731877
+    maxlongitude: -9.0244939
+    maxlatitude: 6.7131769
+    latitude: 6.2308452
+    longitude: -9.8124935
 - name: Grand Gedeh
   names:
-  - Grand Gedah
+    - Grand Gedah
   code: GG
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -9.088703
+    minlongitude: -9.0887029
     minlatitude: 5.514285
-    maxlongitude: -7.371478
-    maxlatitude: 6.5055947
-    latitude: 5.922208
-    longitude: -8.221298
-- name: River Gee
-  names:
-  - River Gee
-  code: X2~
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -8.328245
-    minlatitude: 4.804195
-    maxlongitude: -7.365113
-    maxlatitude: 5.609713
-    latitude: 5.2604895
-    longitude: -7.87216
-- name: Rivercess
-  names:
-  - Rivercess
-  code: RI
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -9.733109
-    minlatitude: 5.269763
-    maxlongitude: -9.058736
-    maxlatitude: 6.378757
-    latitude: 5.9025326
-    longitude: -9.456155
-- name: Bong
-  names:
-  - Bong
-  code: BG
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -10.476909
-    minlatitude: 6.397581
-    maxlongitude: -9.094152
-    maxlatitude: 7.430015
-    latitude: 6.829502
-    longitude: -9.367309
-- name: Bomi
-  names:
-  - Bomi
-  code: BM
-  countryalpha2: LR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.081498
-    minlatitude: 6.479747
-    maxlongitude: -10.487066
-    maxlatitude: 6.970269
-    latitude: 6.756293
-    longitude: -10.845147
+    maxlongitude: -7.371477899999999
+    maxlatitude: 6.505594899999999
+    latitude: 5.9222078
+    longitude: -8.2212979
 - name: Grand Kru
   names:
-  - Grand Kru
+    - Grand Kru
   code: GK
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -8.677637
+    minlongitude: -8.6776371
     minlatitude: 4.434164
-    maxlongitude: -7.759546
-    maxlatitude: 5.2334
-    latitude: 4.7613864
-    longitude: -8.221298
+    maxlongitude: -7.759545999999999
+    maxlatitude: 5.233399899999999
+    latitude: 4.7613862
+    longitude: -8.2212979
+- name: Gbarpolu
+  code: GP
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lofa
+  names:
+    - Lofa
+  code: LO
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.606035
+    minlatitude: 7.178834999999999
+    maxlongitude: -9.343918
+    maxlatitude: 8.551791099999999
+    latitude: 8.191118399999999
+    longitude: -9.7232673
 - name: Margibi
   names:
-  - Margibi
+    - Margibi
   code: MG
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -10.647893
-    minlatitude: 6.138984
+    minlatitude: 6.138984300000001
     maxlongitude: -9.722209
-    maxlatitude: 6.811871
-    latitude: 6.5151873
-    longitude: -10.30489
+    maxlatitude: 6.8118709
+    latitude: 6.5151875
+    longitude: -10.3048897
 - name: Montserrado
   names:
-  - Montserrado
+    - Montserrado
   code: MO
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -10.9532795
-    minlatitude: 6.22048
-    maxlongitude: -10.369276
-    maxlatitude: 6.851364
-    latitude: 6.5525813
-    longitude: -10.529612
+    minlongitude: -10.9532799
+    minlatitude: 6.220479999999999
+    maxlongitude: -10.3692761
+    maxlatitude: 6.8513641
+    latitude: 6.5525815
+    longitude: -10.5296115
 - name: Maryland
   names:
-  - Maryland
+    - Maryland
   code: MY
   countryalpha2: LR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -8.079525
+    minlongitude: -8.0795251
     minlatitude: 4.3541994
-    maxlongitude: -7.521366
-    maxlatitude: 5.130765
-    latitude: 4.725888
-    longitude: -7.74167
+    maxlongitude: -7.5213661
+    maxlatitude: 5.130764999999999
+    latitude: 4.7258878
+    longitude: -7.741670300000001
+- name: Nimba
+  names:
+    - Nimba
+  code: NI
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.2169951
+    minlatitude: 5.823793999999999
+    maxlongitude: -8.27361
+    maxlatitude: 7.696163100000001
+    latitude: 6.8427612
+    longitude: -8.6600586
+- name: River Gee
+  code: RG
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rivercess
+  names:
+    - Rivercess
+  code: RI
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.733108999999999
+    minlatitude: 5.269763
+    maxlongitude: -9.058736
+    maxlatitude: 6.378757
+    latitude: 5.902532799999999
+    longitude: -9.456155
+- name: Sinoe
+  names:
+    - Sinoe
+  code: SI
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -9.4184888
+    minlatitude: 4.804354
+    maxlongitude: -8.2341789
+    maxlatitude: 5.844906
+    latitude: 5.49871
+    longitude: -8.6600586
+- name: Gbarpolu
+  names:
+    - Gbarpolu
+  code: X1~
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -10.9533111
+    minlatitude: 6.829072
+    maxlongitude: -9.636509
+    maxlatitude: 7.998692
+    latitude: 7.495263700000001
+    longitude: -10.0807298
+- name: River Gee
+  names:
+    - River Gee
+  code: X2~
+  countryalpha2: LR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.328244999999999
+    minlatitude: 4.8041949
+    maxlongitude: -7.365113
+    maxlatitude: 5.6097129
+    latitude: 5.2604894
+    longitude: -7.872159999999999

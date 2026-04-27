@@ -1,71 +1,126 @@
 name:
-  common: Guinea
-  official: Republic of Guinea
-  native:
-    fra:
-      common: Guinée
-      official: République de Guinée
+    common: Guinea
+    official: The Republic of Guinea
+    native:
+        fra:
+            common: Guinée
+            official: République de Guinée
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guinean
+altspellings:
+    - Guinea
+    - Guinée
+    - ギニア
+    - Guinee
+    - GN
+    - Republic of Guinea
+    - République de Guinée
 tlds:
-- .gn
+    - .gn
 languages:
-  fra: French
+    ff: ""
+    fr: ""
+    fra: French
 translations:
-  FIN:
-    common: Guinea
-    official: Guinean tasavalta
-  FRA:
-    common: Guinée
-    official: République de Guinée
-  HRV:
-    common: Gvineja
-    official: Republika Gvineja
-  JPN:
-    common: ギニア
-    official: ギニア共和国
-  NLD:
-    common: Guinee
-    official: Republiek Guinee
-  POR:
-    common: Guiné
-    official: República da Guiné
-  RUS:
-    common: Гвинея
-    official: Республика Гвинея
-  SPA:
-    common: Guinea
-    official: República de Guinea
+    ARA:
+        common: غينيا
+        official: جمهورية غينيا
+    CES:
+        common: Guinea
+        official: Guinejská republika
+    DEU:
+        common: Guinea
+        official: Republik Guinea
+    EST:
+        common: Guinea
+        official: Guinea Vabariik
+    FIN:
+        common: Guinea
+        official: Guinean tasavalta
+    FRA:
+        common: Guinée
+        official: République de Guinée
+    HRV:
+        common: Gvineja
+        official: Republika Gvineja
+    HUN:
+        common: Guinea
+        official: Guineai Köztársaság
+    ITA:
+        common: Guinea
+        official: Repubblica di Guinea
+    JPN:
+        common: ギニア
+        official: ギニア共和国
+    KOR:
+        common: 기니
+        official: 기니 공화국
+    NLD:
+        common: Guinee
+        official: Republiek Guinee
+    PER:
+        common: پاپوآ گینه نو
+        official: مملکت مستقل پاپوآ گینه نو
+    POL:
+        common: Gwinea
+        official: Republika Gwinei
+    POR:
+        common: Guiné
+        official: República da Guiné
+    RUS:
+        common: Гвинея
+        official: Республика Гвинея
+    SLK:
+        common: Guinea
+        official: Guinejská republika
+    SPA:
+        common: Guinea
+        official: República de Guinea
+    SRP:
+        common: Gvineja
+        official: Republika Gvineja
+    SWE:
+        common: Guinea
+        official: Republiken Guinea
+    TUR:
+        common: Gine
+        official: Gine Cumhuriyeti
+    URD:
+        common: گنی
+        official: جمہوریہ گنی
+    ZHO:
+        common: 几内亚
+        official: 几内亚共和国
 currencies:
-- GNF
+    - GNF
 borders:
-- CIV
-- GNB
-- LBR
-- MLI
-- SEN
-- SLE
+    - CIV
+    - GNB
+    - LBR
+    - MLI
+    - SEN
+    - SLE
 codes:
-  alpha2: GN
-  alpha3: GIN
-  cioc: GUI
-  ccn3: "324"
-  callingcodes:
-  - "224"
-  internationalprefix: "00"
+    alpha2: GN
+    alpha3: GIN
+    cioc: GUI
+    ccn3: "324"
+    callingcodes:
+        - "224"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Conakry
-  area: 245857
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Conakry
+    area: 245857
 coordinates:
-  longitudestring: 10 00 W
-  latitudestring: 11 00 N
-  minlongitude: -15.366667
-  minlatitude: 7
-  maxlongitude: -4
-  maxlatitude: 12.633333
-  latitude: 10.429302
-  longitude: -10.98955
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.282
+    minlatitude: 7.190909099999999
+    maxlongitude: -7.637853
+    maxlatitude: 12.6748616
+    latitude: 9.945587
+    longitude: -9.696645

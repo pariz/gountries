@@ -1,70 +1,121 @@
 name:
-  common: Puerto Rico
-  official: Commonwealth of Puerto Rico
-  native:
-    eng:
-      common: Puerto Rico
-      official: Commonwealth of Puerto Rico
-    spa:
-      common: Puerto Rico
-      official: Estado Libre Asociado de Puerto Rico
+    common: Puerto Rico
+    official: The Commonwealth of Puerto Rico
+    native:
+        eng:
+            common: Puerto Rico
+            official: Commonwealth of Puerto Rico
+        spa:
+            common: Puerto Rico
+            official: Estado Libre Asociado de Puerto Rico
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Puerto Rican
+altspellings:
+    - Puerto Rico
+    - プエルトリコ
+    - PR
+    - Commonwealth of Puerto Rico
+    - Estado Libre Asociado de Puerto Rico
 tlds:
-- .pr
+    - .pr
 languages:
-  eng: English
-  spa: Spanish
+    en: ""
+    eng: English
+    es: ""
+    spa: Spanish
 translations:
-  DEU:
-    common: Puerto Rico
-    official: Commonwealth von Puerto Rico
-  FIN:
-    common: Puerto Rico
-    official: Puerto Rico
-  FRA:
-    common: Porto Rico
-    official: Porto Rico
-  HRV:
-    common: Portoriko
-    official: Zajednica Puerto Rico
-  NLD:
-    common: Puerto Rico
-    official: Gemenebest van Puerto Rico
-  POR:
-    common: Porto Rico
-    official: Commonwealth of Puerto Rico
-  RUS:
-    common: Пуэрто-Рико
-    official: Содружество Пуэрто-Рико
-  SPA:
-    common: Puerto Rico
-    official: Asociado de Puerto Rico
+    ARA:
+        common: بويرتوريكو
+        official: كومنولث بويرتوريكو
+    CES:
+        common: Portoriko
+        official: Portoriko
+    DEU:
+        common: Puerto Rico
+        official: Freistaat Puerto Rico
+    EST:
+        common: Puerto Rico
+        official: Puerto Rico Ühendus
+    FIN:
+        common: Puerto Rico
+        official: Puerto Rico
+    FRA:
+        common: Porto Rico
+        official: Porto Rico
+    HRV:
+        common: Portoriko
+        official: Zajednica Puerto Rico
+    HUN:
+        common: Puerto Rico
+        official: Puerto Rico
+    ITA:
+        common: Porto Rico
+        official: Commonwealth di Porto Rico
+    JPN:
+        common: プエルトリコ
+        official: プエルトリコ
+    KOR:
+        common: 푸에르토리코
+        official: 푸에르토리코
+    NLD:
+        common: Puerto Rico
+        official: Gemenebest van Puerto Rico
+    PER:
+        common: پورتوریکو
+        official: قلمرو همسود پورتوریکو
+    POL:
+        common: Portoryko
+        official: Wolne Stowarzyszone Państwo Portoryko
+    POR:
+        common: Porto Rico
+        official: Commonwealth of Puerto Rico
+    RUS:
+        common: Пуэрто-Рико
+        official: Содружество Пуэрто-Рико
+    SLK:
+        common: Portoriko
+        official: Portorické spoločenstvo
+    SPA:
+        common: Puerto Rico
+        official: Asociado de Puerto Rico
+    SRP:
+        common: Portoriko
+        official: Komonvelt Portoriko
+    SWE:
+        common: Puerto Rico
+        official: Puerto Rico
+    TUR:
+        common: Porto Riko
+        official: Porto Riko Topluluğu
+    URD:
+        common: پورٹو ریکو
+        official: ' دولتِ مشترکہ پورٹو ریکو'
+    ZHO:
+        common: 波多黎各
+        official: 波多黎各联邦
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: PR
-  alpha3: PRI
-  cioc: PUR
-  ccn3: "630"
-  callingcodes:
-  - "1787"
-  - "1939"
-  internationalprefix: "011"
+    alpha2: PR
+    alpha3: PRI
+    cioc: PUR
+    ccn3: "630"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: San Juan
-  area: 8870
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: San Juan
+    area: 8870
 coordinates:
-  longitudestring: 66 30 W
-  latitudestring: 18 15 N
-  minlongitude: -67.9427
-  minlatitude: 17.883
-  maxlongitude: -65.22
-  maxlatitude: 18.5202
-  latitude: 18.24914
-  longitude: -66.62804
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.9611844
+    minlatitude: 17.8449191
+    maxlongitude: -65.2105715
+    maxlatitude: 18.5720479
+    latitude: 18.220833
+    longitude: -66.590149

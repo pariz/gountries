@@ -1,63 +1,119 @@
 name:
-  common: Brunei
-  official: Nation of Brunei, Abode of Peace
-  native:
-    msa:
-      common: Negara Brunei Darussalam
-      official: Nation of Brunei, Abode Damai
+    common: Brunei Darussalam
+    official: The Nation of Brunei, the Abode of Peace
+    native:
+        msa:
+            common: Negara Brunei Darussalam
+            official: Nation of Brunei, Abode Damai
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bruneian
+altspellings:
+    - Brunei
+    - ブルネイ・ダルサラーム
+    - BN
+    - Brunei Darussalam
+    - Nation of Brunei
+    - the Abode of Peace
 tlds:
-- .bn
+    - .bn
 languages:
-  msa: Malay
+    ms: ""
+    msa: Malay
 translations:
-  DEU:
-    common: Brunei
-    official: Nation von Brunei, Wohnung des Friedens
-  FIN:
-    common: Brunei
-    official: Brunei Darussalamin valtio
-  HRV:
-    common: Brunej
-    official: Nacija od Bruneja, Kuću Mira
-  ITA:
-    common: Brunei
-    official: Nazione di Brunei, Dimora della Pace
-  JPN:
-    common: ブルネイ・ダルサラーム
-    official: ブルネイ、平和の精舎の国家
-  NLD:
-    common: Brunei
-    official: Natie van Brunei, de verblijfplaats van de Vrede
-  RUS:
-    common: Бруней
-    official: Нация Бруней, обитель мира
+    ARA:
+        common: بروناي
+        official: بروناي دار السلام
+    CES:
+        common: Brunej
+        official: Sultanát Brunej
+    DEU:
+        common: Brunei
+        official: Sultanat Brunei Darussalam
+    EST:
+        common: Brunei
+        official: Brunei Darussalami Riik
+    FIN:
+        common: Brunei
+        official: Brunei Darussalamin valtio
+    FRA:
+        common: Brunei
+        official: État de Brunei Darussalam
+    HRV:
+        common: Brunej
+        official: Nacija od Bruneja, Kuću Mira
+    HUN:
+        common: Brunei
+        official: Brunei Szultanátus
+    ITA:
+        common: Brunei
+        official: Nazione di Brunei, Dimora della Pace
+    JPN:
+        common: ブルネイ
+        official: ブルネイ・ダルサラーム国
+    KOR:
+        common: 브루나이
+        official: 브루나이 다루살람국
+    NLD:
+        common: Brunei
+        official: Natie van Brunei, de verblijfplaats van de Vrede
+    PER:
+        common: برونئی
+        official: برونئی سرای صلح
+    POL:
+        common: Brunei
+        official: Państwo Brunei Darussalam
+    POR:
+        common: Brunei
+        official: Nação do Brunei, Morada da Paz
+    RUS:
+        common: Бруней
+        official: Нация Бруней, обитель мира
+    SLK:
+        common: Brunej
+        official: Brunejský sultanât
+    SPA:
+        common: Brunei
+        official: Nación de Brunei, Morada de la Paz
+    SRP:
+        common: Brunej
+        official: Brunej Darusalam
+    SWE:
+        common: Brunei
+        official: Brunei Darussalam
+    TUR:
+        common: Brunei
+        official: Brunei Barış ülkesi Devleti (Darü's-Selam)
+    URD:
+        common: برونائی
+        official: ریاستِ برونائی دارالسلام
+    ZHO:
+        common: 文莱
+        official: 文莱和平之国
 currencies:
-- BND
+    - BND
 borders:
-- MYS
+    - MYS
 codes:
-  alpha2: BN
-  alpha3: BRN
-  cioc: BRU
-  ccn3: "096"
-  callingcodes:
-  - "673"
-  internationalprefix: "00"
+    alpha2: BN
+    alpha3: BRN
+    cioc: BRU
+    ccn3: "096"
+    callingcodes:
+        - "673"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Bandar Seri Begawan
-  area: 5765
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Bandar Seri Begawan
+    area: 5765
 coordinates:
-  longitudestring: 114 40 E
-  latitudestring: 4 30 N
-  minlongitude: 110
-  minlatitude: -2
-  maxlongitude: 120
-  maxlatitude: 5.05
-  latitude: 4.570384
-  longitude: 114.748184
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 114.0752
+    minlatitude: 4.002460999999999
+    maxlongitude: 115.3639552
+    maxlatitude: 5.0978001
+    latitude: 4.535277
+    longitude: 114.727669

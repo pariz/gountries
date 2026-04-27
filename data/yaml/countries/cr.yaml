@@ -1,64 +1,119 @@
 name:
-  common: Costa Rica
-  official: Republic of Costa Rica
-  native:
-    spa:
-      common: Costa Rica
-      official: República de Costa Rica
+    common: Costa Rica
+    official: The Republic of Costa Rica
+    native:
+        spa:
+            common: Costa Rica
+            official: República de Costa Rica
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Costa Rican
+altspellings:
+    - Costa Rica
+    - コスタリカ
+    - CR
+    - Republic of Costa Rica
+    - República de Costa Rica
 tlds:
-- .cr
+    - .cr
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  CYM:
-    common: Costa Rica
-    official: Republic of Costa Rica
-  HRV:
-    common: Kostarika
-    official: Republika Kostarika
-  ITA:
-    common: Costa Rica
-    official: Repubblica di Costa Rica
-  JPN:
-    common: コスタリカ
-    official: コスタリカ共和国
-  NLD:
-    common: Costa Rica
-    official: Republiek Costa Rica
-  POR:
-    common: Costa Rica
-    official: República da Costa Rica
-  SPA:
-    common: Costa Rica
-    official: República de Costa Rica
+    ARA:
+        common: كوستاريكا
+        official: جمهورية كوستاريكا
+    CES:
+        common: Kostarika
+        official: Kostarická republika
+    DEU:
+        common: Costa Rica
+        official: Republik Costa Rica
+    EST:
+        common: Costa Rica
+        official: Costa Rica Vabariik
+    FIN:
+        common: Costa Rica
+        official: Costa Rican tasavalta
+    FRA:
+        common: Costa Rica
+        official: République du Costa Rica
+    HRV:
+        common: Kostarika
+        official: Republika Kostarika
+    HUN:
+        common: Costa Rica
+        official: Costa Rica-i Köztársaság
+    ITA:
+        common: Costa Rica
+        official: Repubblica di Costa Rica
+    JPN:
+        common: コスタリカ
+        official: コスタリカ共和国
+    KOR:
+        common: 코스타리카
+        official: 코스타리카 공화국
+    NLD:
+        common: Costa Rica
+        official: Republiek Costa Rica
+    PER:
+        common: کاستاریکا
+        official: جمهوری کاستاریکا
+    POL:
+        common: Kostaryka
+        official: Republika Kostaryki
+    POR:
+        common: Costa Rica
+        official: República da Costa Rica
+    RUS:
+        common: Коста-Рика
+        official: Республика Коста-Рика
+    SLK:
+        common: Kostarika
+        official: Kostarická republika
+    SPA:
+        common: Costa Rica
+        official: República de Costa Rica
+    SRP:
+        common: Kostarika
+        official: Republika Kostarika
+    SWE:
+        common: Costa Rica
+        official: Republiken Costa Rica
+    TUR:
+        common: Kosta Rika
+        official: Kosta Rika Cumhuriyeti
+    URD:
+        common: کوسٹاریکا
+        official: جمہوریہ کوسٹاریکا
+    ZHO:
+        common: 哥斯达黎加
+        official: 哥斯达黎加共和国
 currencies:
-- CRC
+    - CRC
 borders:
-- NIC
-- PAN
+    - NIC
+    - PAN
 codes:
-  alpha2: CR
-  alpha3: CRI
-  cioc: CRC
-  ccn3: "188"
-  callingcodes:
-  - "506"
-  internationalprefix: "00"
+    alpha2: CR
+    alpha3: CRI
+    cioc: CRC
+    ccn3: "188"
+    callingcodes:
+        - "506"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Central America
-  continent: North America
-  capital: San José
-  area: 51100
+    region: Americas
+    subregion: Central America
+    continent: North America
+    capital: San José
+    area: 51100
 coordinates:
-  longitudestring: 84 00 W
-  latitudestring: 10 00 N
-  minlongitude: -87.1
-  minlatitude: 5.5
-  maxlongitude: -82.05
-  maxlatitude: 11.216667
-  latitude: 9.884992
-  longitude: -84.227234
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.09899999999999
+    minlatitude: 5.496099999999999
+    maxlongitude: -82.51830009999999
+    maxlatitude: 11.2196806
+    latitude: 9.748916999999999
+    longitude: -83.753428

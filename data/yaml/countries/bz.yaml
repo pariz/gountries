@@ -1,81 +1,127 @@
 name:
-  common: Belize
-  official: Belize
-  native:
-    bjz:
-      common: Belize
-      official: Belize
-    eng:
-      common: Belize
-      official: Belize
-    spa:
-      common: Belice
-      official: Belice
+    common: Belize
+    official: Belize
+    native:
+        bjz:
+            common: Belize
+            official: Belize
+        eng:
+            common: Belize
+            official: Belize
+        spa:
+            common: Belice
+            official: Belice
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Belizean
+altspellings:
+    - Belize
+    - Belice
+    - ベリーズ
+    - BZ
 tlds:
-- .bz
+    - .bz
 languages:
-  bjz: Belizean Creole
-  eng: English
-  spa: Spanish
+    bjz: Belizean Creole
+    en: ""
+    eng: English
+    es: ""
+    spa: Spanish
 translations:
-  DEU:
-    common: Belize
-    official: Belize
-  FIN:
-    common: Belize
-    official: Belize
-  FRA:
-    common: Belize
-    official: Belize
-  HRV:
-    common: Belize
-    official: Belize
-  ITA:
-    common: Belize
-    official: Belize
-  JPN:
-    common: ベリーズ
-    official: ベリーズ
-  NLD:
-    common: Belize
-    official: Belize
-  POR:
-    common: Belize
-    official: Belize
-  RUS:
-    common: Белиз
-    official: Белиз
-  SPA:
-    common: Belice
-    official: Belice
+    ARA:
+        common: بليز
+        official: بليز
+    CES:
+        common: Belize
+        official: Belize
+    DEU:
+        common: Belize
+        official: Belize
+    EST:
+        common: Belize
+        official: Belize
+    FIN:
+        common: Belize
+        official: Belize
+    FRA:
+        common: Belize
+        official: Belize
+    HRV:
+        common: Belize
+        official: Belize
+    HUN:
+        common: Belize
+        official: Belize
+    ITA:
+        common: Belize
+        official: Belize
+    JPN:
+        common: ベリーズ
+        official: ベリーズ
+    KOR:
+        common: 벨리즈
+        official: 벨리즈
+    NLD:
+        common: Belize
+        official: Belize
+    PER:
+        common: بلیز
+        official: بلیز
+    POL:
+        common: Belize
+        official: Belize
+    POR:
+        common: Belize
+        official: Belize
+    RUS:
+        common: Белиз
+        official: Белиз
+    SLK:
+        common: Belize
+        official: Belize
+    SPA:
+        common: Belice
+        official: Belice
+    SRP:
+        common: Belize
+        official: Belize
+    SWE:
+        common: Belize
+        official: Belize
+    TUR:
+        common: Belize
+        official: Belize
+    URD:
+        common: بیلیز
+        official: بیلیز
+    ZHO:
+        common: 伯利兹
+        official: 伯利兹
 currencies:
-- BZD
+    - BZD
 borders:
-- GTM
-- MEX
+    - GTM
+    - MEX
 codes:
-  alpha2: BZ
-  alpha3: BLZ
-  cioc: BIZ
-  ccn3: "084"
-  callingcodes:
-  - "501"
-  internationalprefix: "00"
+    alpha2: BZ
+    alpha3: BLZ
+    cioc: BIZ
+    ccn3: "084"
+    callingcodes:
+        - "501"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Central America
-  continent: North America
-  capital: Belmopan
-  area: 22966
+    region: Americas
+    subregion: Central America
+    continent: North America
+    capital: Belmopan
+    area: 22966
 coordinates:
-  longitudestring: 88 45 W
-  latitudestring: 17 15 N
-  minlongitude: -89.21694
-  minlatitude: 15.9
-  maxlongitude: -87.48333
-  maxlatitude: 18.483334
-  latitude: 17.225292
-  longitude: -88.66974
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.22758789999999
+    minlatitude: 15.8856189
+    maxlongitude: -87.41269989999999
+    maxlatitude: 18.4959419
+    latitude: 17.189877
+    longitude: -88.49765

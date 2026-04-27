@@ -1,62 +1,129 @@
 name:
-  common: Syria
-  official: Syrian Arab Republic
-  native:
-    ara:
-      common: سوريا
-      official: الجمهورية العربية السورية
+    common: Syrian Arab Republic
+    official: The Syrian Arab Republic
+    native:
+        ara:
+            common: سوريا
+            official: الجمهورية العربية السورية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Syrian
+altspellings:
+    - Syria
+    - سوريا
+    - سورية
+    - Syrien
+    - Syrie
+    - Siria
+    - シリア・アラブ共和国
+    - Syrië
+    - SY
+    - Syrian Arab Republic
+    - Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah
 tlds:
-- .sy
-- سوريا.
+    - .sy
+    - سوريا.
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  DEU:
-    common: Syrien
-    official: Arabische Republik Syrien
-  HRV:
-    common: Sirija
-    official: Sirijska Arapska Republika
-  JPN:
-    common: シリア・アラブ共和国
-    official: シリアアラブ共和国
-  NLD:
-    common: Syrië
-    official: Syrische Arabische Republiek
-  RUS:
-    common: Сирия
-    official: Сирийская Арабская Республика
+    ARA:
+        common: سوريا
+        official: الجمهورية العربية السورية
+    CES:
+        common: Sýrie
+        official: Syrská arabská republika
+    DEU:
+        common: Syrien
+        official: Arabische Republik Syrien
+    EST:
+        common: Süüria
+        official: Süüria Araabia Vabariik
+    FIN:
+        common: Syyria
+        official: Syyrian arabitasavalta
+    FRA:
+        common: Syrie
+        official: République arabe syrienne
+    HRV:
+        common: Sirija
+        official: Sirijska Arapska Republika
+    HUN:
+        common: Szíria
+        official: Szíriai Arab Köztársaság
+    ITA:
+        common: Siria
+        official: Repubblica araba siriana
+    JPN:
+        common: シリア
+        official: シリア・アラブ共和国
+    KOR:
+        common: 시리아
+        official: 시리아 아랍 공화국
+    NLD:
+        common: Syrië
+        official: Syrische Arabische Republiek
+    PER:
+        common: سوریه
+        official: جمهوری عربی سوریه
+    POL:
+        common: Syria
+        official: Syryjska Republika Arabska
+    POR:
+        common: Síria
+        official: República Árabe Síria
+    RUS:
+        common: Сирия
+        official: Сирийская Арабская Республика
+    SLK:
+        common: Sýria
+        official: Sýrska arabská republika
+    SPA:
+        common: Siria
+        official: República Árabe Siria
+    SRP:
+        common: Sirija
+        official: Sirijska Arapska Republika
+    SWE:
+        common: Syrien
+        official: Syriska arabiska republiken
+    TUR:
+        common: Suriye
+        official: Suriye Arap Cumhuriyeti
+    URD:
+        common: سوریہ
+        official: عرب جمہوریہ سوریہ
+    ZHO:
+        common: 叙利亚
+        official: 叙利亚阿拉伯共和国
 currencies:
-- SYP
+    - SYP
 borders:
-- IRQ
-- ISR
-- JOR
-- LBN
-- TUR
+    - IRQ
+    - ISR
+    - JOR
+    - LBN
+    - TUR
 codes:
-  alpha2: SY
-  alpha3: SYR
-  cioc: SYR
-  ccn3: "760"
-  callingcodes:
-  - "963"
-  internationalprefix: "00"
+    alpha2: SY
+    alpha3: SYR
+    cioc: SYR
+    ccn3: "760"
+    callingcodes:
+        - "963"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Damascus
-  area: 185180
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Damascus
+    area: 185180
 coordinates:
-  longitudestring: 38 00 E
-  latitudestring: 35 00 N
-  minlongitude: 35.6
-  minlatitude: 32
-  maxlongitude: 42.337776
-  maxlatitude: 37.280277
-  latitude: 35.033127
-  longitude: 38.473473
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.62869999999999
+    minlatitude: 32.311136
+    maxlongitude: 42.376309
+    maxlatitude: 37.318693
+    latitude: 34.80207499999999
+    longitude: 38.996815

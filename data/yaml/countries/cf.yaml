@@ -1,75 +1,130 @@
 name:
-  common: Central African Republic
-  official: Central African Republic
-  native:
-    fra:
-      common: République centrafricaine
-      official: République centrafricaine
-    sag:
-      common: Bêafrîka
-      official: Ködörösêse tî Bêafrîka
+    common: Central African Republic
+    official: The Central African Republic
+    native:
+        fra:
+            common: République centrafricaine
+            official: République centrafricaine
+        sag:
+            common: Bêafrîka
+            official: Ködörösêse tî Bêafrîka
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Central African
+altspellings:
+    - Central African Republic
+    - Zentralafrikanische Republik
+    - République Centrafricaine
+    - República Centroafricana
+    - 中央アフリカ共和国
+    - Centraal-Afrikaanse Republiek
+    - CF
 tlds:
-- .cf
+    - .cf
 languages:
-  fra: French
-  sag: Sango
+    fr: ""
+    fra: French
+    sag: Sango
+    sg: ""
 translations:
-  CYM:
-    common: Gweriniaeth Canolbarth Affrica
-    official: Central African Republic
-  DEU:
-    common: Zentralafrikanische Republik
-    official: Zentralafrikanische Republik
-  FIN:
-    common: Keski-Afrikan tasavalta
-    official: Keski-Afrikan tasavalta
-  FRA:
-    common: République centrafricaine
-    official: République centrafricaine
-  HRV:
-    common: Srednjoafrička Republika
-    official: Centralna Afrička Republika
-  NLD:
-    common: Centraal-Afrikaanse Republiek
-    official: Centraal-Afrikaanse Republiek
-  POR:
-    common: República Centro-Africana
-    official: República Centro-Africano
-  RUS:
-    common: Центральноафриканская Республика
-    official: Центрально-Африканская Республика
+    ARA:
+        common: جمهورية أفريقيا الوسطى
+        official: جمهورية أفريقيا الوسطى
+    CES:
+        common: Středoafrická republika
+        official: Středoafrická republika
+    DEU:
+        common: Zentralafrikanische Republik
+        official: Zentralafrikanische Republik
+    EST:
+        common: Kesk-Aafrika Vabariik
+        official: Kesk-Aafrika Vabariik
+    FIN:
+        common: Keski-Afrikan tasavalta
+        official: Keski-Afrikan tasavalta
+    FRA:
+        common: République centrafricaine
+        official: République centrafricaine
+    HRV:
+        common: Srednjoafrička Republika
+        official: Centralna Afrička Republika
+    HUN:
+        common: Közép-afrikai Köztársaság
+        official: Közép-afrikai Köztársaság
+    ITA:
+        common: Repubblica Centrafricana
+        official: Repubblica Centrafricana
+    JPN:
+        common: 中央アフリカ
+        official: 中央アフリカ共和国
+    KOR:
+        common: 중앙아프리카 공화국
+        official: 중앙아프리카 공화국
+    NLD:
+        common: Centraal-Afrikaanse Republiek
+        official: Centraal-Afrikaanse Republiek
+    PER:
+        common: جمهوری آفریقای مرکزی
+        official: جمهوری آفریقای مرکزی
+    POL:
+        common: Republika Środkowoafrykańska
+        official: Republika Środkowoafrykańska
+    POR:
+        common: República Centro-Africana
+        official: República Centro-Africano
+    RUS:
+        common: Центральноафриканская Республика
+        official: Центрально-Африканская Республика
+    SLK:
+        common: Stredoafrická republika
+        official: Stredoafrická republika
+    SPA:
+        common: República Centroafricana
+        official: República Centroafricana
+    SRP:
+        common: Centralnoafrička Republika
+        official: Centralnoafrička Republika
+    SWE:
+        common: Centralafrikanska republiken
+        official: Centralafrikanska republiken
+    TUR:
+        common: Orta Afrika Cumhuriyeti
+        official: Orta Afrika Cumhuriyeti
+    URD:
+        common: وسطی افریقی جمہوریہ
+        official: وسطی افریقی جمہوریہ
+    ZHO:
+        common: 中非共和国
+        official: 中非共和国
 currencies:
-- XAF
+    - XAF
 borders:
-- CMR
-- TCD
-- COD
-- COG
-- SSD
-- SDN
+    - CMR
+    - TCD
+    - COD
+    - COG
+    - SSD
+    - SDN
 codes:
-  alpha2: CF
-  alpha3: CAF
-  cioc: CAF
-  ccn3: "140"
-  callingcodes:
-  - "236"
-  internationalprefix: "00"
+    alpha2: CF
+    alpha3: CAF
+    cioc: CAF
+    ccn3: "140"
+    callingcodes:
+        - "236"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Bangui
-  area: 622984
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: Bangui
+    area: 622984
 coordinates:
-  longitudestring: 21 00 E
-  latitudestring: 7 00 N
-  minlongitude: 14.533333
-  minlatitude: 2.433333
-  maxlongitude: 27.216667
-  maxlatitude: 10.7
-  latitude: 6.5741234
-  longitude: 20.486923
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4150981
+    minlatitude: 2.2230529
+    maxlongitude: 27.4583049
+    maxlatitude: 11.0179569
+    latitude: 6.611110999999999
+    longitude: 20.939444

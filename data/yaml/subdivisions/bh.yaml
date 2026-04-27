@@ -1,43 +1,43 @@
 - name: Al Manamah (Al ‘Asimah)
   names:
-  - Manāmah
-  - al-Manāmah
-  - Manama
-  - Manama
-  - Manama
+    - Manāmah
+    - al-Manāmah
+    - Manama
+    - Manama
+    - Manama
   code: "13"
   countryalpha2: BH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 50.513706
-    minlatitude: 26.194508
-    maxlongitude: 50.625904
+    minlongitude: 50.51370679999999
+    minlatitude: 26.1945071
+    maxlongitude: 50.6259022
     maxlatitude: 26.247324
-    latitude: 26.228516
-    longitude: 50.58605
+    latitude: 26.2285161
+    longitude: 50.5860497
 - name: Al Janubiyah
   names:
-  - Eastern
-  - Hawa
-  - Juzur H̨awār
-  - Southern
-  - ash Sharqiyah
-  - aš-Šarqīyah
+    - Eastern
+    - Hawa
+    - Juzur H̨awār
+    - Southern
+    - ash Sharqiyah
+    - aš-Šarqīyah
   code: "14"
   countryalpha2: BH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 50.454597
-    minlatitude: 25.57984
-    maxlongitude: 50.82231
-    maxlatitude: 26.138159
-    latitude: 25.938103
-    longitude: 50.575687
+    minlongitude: 50.4545967
+    minlatitude: 25.5798401
+    maxlongitude: 50.8223101
+    maxlatitude: 26.138158
+    latitude: 25.9381018
+    longitude: 50.5756887
 - name: Al Muharraq
   names:
-  - Al Muharraq
+    - Al Muharraq
   code: "15"
   countryalpha2: BH
   coordinates:
@@ -49,34 +49,19 @@
     maxlatitude: 0
     latitude: 26.266941
     longitude: 50.63839
-- name: Al Wustá
-  names:
-  - Central
-  - al-Mintaqah al-Wusta
-  code: "16"
-  countryalpha2: BH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.509594
-    minlatitude: 26.096567
-    maxlongitude: 50.671665
-    maxlatitude: 26.193289
-    latitude: 26.142609
-    longitude: 50.56533
 - name: Ash Shamaliyah
   names:
-  - Northern
-  - al-Mintaqa ash Shamaliyah
-  - ash Shamaliyah
+    - Northern
+    - al-Mintaqa ash Shamaliyah
+    - ash Shamaliyah
   code: "17"
   countryalpha2: BH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 50.378826
+    minlongitude: 50.3788254
     minlatitude: 26.04768
-    maxlongitude: 50.566463
+    maxlongitude: 50.5664624
     maxlatitude: 26.235592
-    latitude: 26.155191
-    longitude: 50.482517
+    latitude: 26.1551914
+    longitude: 50.4825173

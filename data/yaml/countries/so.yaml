@@ -1,69 +1,129 @@
 name:
-  common: Somalia
-  official: Federal Republic of Somalia
-  native:
-    ara:
-      common: الصومال‎‎
-      official: جمهورية الصومال‎‎
-    som:
-      common: Soomaaliya
-      official: Jamhuuriyadda Federaalka Soomaaliya
+    common: Somalia
+    official: The Federal Republic of Somalia
+    native:
+        ara:
+            common: الصومال
+            official: جمهورية الصومال الفيدرالية
+        som:
+            common: Soomaaliya
+            official: Jamhuuriyadda Federaalka Soomaaliya
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Somali
+altspellings:
+    - Somalia
+    - الصومال
+    - ソマリア
+    - Somalië
+    - SO
+    - aṣ-Ṣūmāl
+    - Federal Republic of Somalia
+    - Jamhuuriyadda Federaalka Soomaaliya
+    - Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya
 tlds:
-- .so
+    - .so
 languages:
-  ara: Arabic
-  som: Somali
+    ar: ""
+    ara: Arabic
+    so: ""
+    som: Somali
 translations:
-  FIN:
-    common: Somalia
-    official: Somalian liittotasavalta
-  FRA:
-    common: Somalie
-    official: République fédérale de Somalie
-  HRV:
-    common: Somalija
-    official: Savezna Republika Somaliji
-  ITA:
-    common: Somalia
-    official: Repubblica federale di Somalia
-  JPN:
-    common: ソマリア
-    official: ソマリア連邦共和国
-  NLD:
-    common: Somalië
-    official: Federale Republiek Somalië
-  POR:
-    common: Somália
-    official: República Federal da Somália
+    ARA:
+        common: الصومال
+        official: جمهورية الصومال الفيدرالية
+    CES:
+        common: Somálsko
+        official: Somálská demokratická republika
+    DEU:
+        common: Somalia
+        official: Bundesrepublik Somalia
+    EST:
+        common: Somaalia
+        official: Somaalia Liitvabariik
+    FIN:
+        common: Somalia
+        official: Somalian liittotasavalta
+    FRA:
+        common: Somalie
+        official: République fédérale de Somalie
+    HRV:
+        common: Somalija
+        official: Savezna Republika Somaliji
+    HUN:
+        common: Szomália
+        official: Szomáli Szövetségi Köztársaság
+    ITA:
+        common: Somalia
+        official: Repubblica federale di Somalia
+    JPN:
+        common: ソマリア
+        official: ソマリア連邦共和国
+    KOR:
+        common: 소말리아
+        official: ' 소말리아 연방 공화국'
+    NLD:
+        common: Somalië
+        official: Federale Republiek Somalië
+    PER:
+        common: سومالی
+        official: جمهوری فدرال سومالی
+    POL:
+        common: Somalia
+        official: Federalna Republika Somalii
+    POR:
+        common: Somália
+        official: República Federal da Somália
+    RUS:
+        common: Сомали
+        official: Федеративная Республика Сомали
+    SLK:
+        common: Somálsko
+        official: Somálska federatívna republika
+    SPA:
+        common: Somalia
+        official: República Federal de Somalia
+    SRP:
+        common: Somalija
+        official: Savezna Republika Somalija
+    SWE:
+        common: Somalia
+        official: Förbundsrepubliken Somalia
+    TUR:
+        common: Somali
+        official: Somali Federal Cumhuriyeti
+    URD:
+        common: صومالیہ
+        official: وفاقی جمہوریہ صومالیہ
+    ZHO:
+        common: 索马里
+        official: 索马里共和国
 currencies:
-- SOS
+    - SOS
 borders:
-- DJI
-- ETH
-- KEN
+    - DJI
+    - ETH
+    - KEN
 codes:
-  alpha2: SO
-  alpha3: SOM
-  cioc: SOM
-  ccn3: "706"
-  callingcodes:
-  - "252"
-  internationalprefix: "00"
+    alpha2: SO
+    alpha3: SOM
+    cioc: SOM
+    ccn3: "706"
+    callingcodes:
+        - "252"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Mogadishu
-  area: 637657
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Mogadishu
+    area: 637657
 coordinates:
-  longitudestring: 49 00 E
-  latitudestring: 10 00 N
-  minlongitude: 41
-  minlatitude: -1.6594297
-  maxlongitude: 51.4
-  maxlatitude: 11.983333
-  latitude: 5.9482675
-  longitude: 47.473606
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.994373
+    minlatitude: -1.8673
+    maxlongitude: 51.6138
+    maxlatitude: 12.3615
+    latitude: 5.152149
+    longitude: 46.199616

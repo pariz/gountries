@@ -1,54 +1,120 @@
 name:
-  common: Palau
-  official: Republic of Palau
-  native:
-    eng:
-      common: Palau
-      official: Republic of Palau
-    pau:
-      common: Belau
-      official: Beluu er a Belau
+    common: Palau
+    official: The Republic of Palau
+    native:
+        eng:
+            common: Palau
+            official: Republic of Palau
+        pau:
+            common: Belau
+            official: Beluu er a Belau
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Palauan
+altspellings:
+    - Palau
+    - パラオ
+    - PW
+    - Republic of Palau
+    - Beluu er a Belau
 tlds:
-- .pw
+    - .pw
 languages:
-  eng: English
-  pau: Palauan
+    en: ""
+    eng: English
+    pau: Palauan
 translations:
-  FIN:
-    common: Palau
-    official: Palaun tasavalta
-  HRV:
-    common: Palau
-    official: Republika Palau
-  NLD:
-    common: Palau
-    official: Republiek van Palau
+    ARA:
+        common: بالاو
+        official: جمهورية بالاو
+    CES:
+        common: Palau
+        official: Republika Palau
+    DEU:
+        common: Palau
+        official: Republik Palau
+    EST:
+        common: Belau
+        official: Belau Vabariik
+    FIN:
+        common: Palau
+        official: Palaun tasavalta
+    FRA:
+        common: Palaos (Palau)
+        official: République des Palaos (Palau)
+    HRV:
+        common: Palau
+        official: Republika Palau
+    HUN:
+        common: Palau
+        official: Palaui Köztársaság
+    ITA:
+        common: Palau
+        official: Repubblica di Palau
+    JPN:
+        common: パラオ
+        official: パラオ共和国
+    KOR:
+        common: 팔라우
+        official: 팔라우 공화국
+    NLD:
+        common: Palau
+        official: Republiek van Palau
+    PER:
+        common: پالائو
+        official: جمهوری پالائو
+    POL:
+        common: Palau
+        official: Republika Palau
+    POR:
+        common: Palau
+        official: República de Palau
+    RUS:
+        common: Палау
+        official: Республика Палау
+    SLK:
+        common: Palau
+        official: Palauská republika
+    SPA:
+        common: Palau
+        official: República de Palau
+    SRP:
+        common: Palau
+        official: Republika Palau
+    SWE:
+        common: Palau
+        official: Republiken Palau
+    TUR:
+        common: Palau
+        official: Palau Cumhuriyeti
+    URD:
+        common: پلاؤ
+        official: جمہوریہ پلاؤ
+    ZHO:
+        common: 帕劳
+        official: 帕劳共和国
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: PW
-  alpha3: PLW
-  cioc: PLW
-  ccn3: "585"
-  callingcodes:
-  - "680"
-  internationalprefix: "00"
+    alpha2: PW
+    alpha3: PLW
+    cioc: PLW
+    ccn3: "585"
+    callingcodes:
+        - "680"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Micronesia
-  continent: Australia
-  capital: Ngerulmud
-  area: 459
+    region: Oceania
+    subregion: Micronesia
+    continent: Australia
+    capital: Ngerulmud
+    area: 459
 coordinates:
-  longitudestring: 134 30 E
-  latitudestring: 7 30 N
-  minlongitude: 131.175
-  minlatitude: 2.898333
-  maxlongitude: 134.71638
-  maxlatitude: 8.166667
-  latitude: 7.4419007
-  longitude: 134.54205
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 131.0115
+    minlatitude: 2.6394
+    maxlongitude: 135.0769
+    maxlatitude: 8.238674
+    latitude: 7.514979999999999
+    longitude: 134.58252

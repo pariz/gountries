@@ -1,127 +1,123 @@
-- name: Limpopo
-  names:
-  - Limpopo
-  code: LP
-  countryalpha2: ZA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.40754
-    minlatitude: -25.42279
-    maxlongitude: 31.88384
-    maxlatitude: -22.12503
-    latitude: -23.401295
-    longitude: 29.417933
-- name: Mpumalanga
-  names:
-  - eMpumalanga
-  code: MP
-  countryalpha2: ZA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.589008
-    minlatitude: -29.853415
-    maxlongitude: 30.67445
-    maxlatitude: -29.77859
-    latitude: -29.817
-    longitude: 30.637
-- name: Kwazulu-Natal
-  names:
-  - Kwazulu-Natal
-  code: NL
-  countryalpha2: ZA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.87348
-    minlatitude: -31.085365
-    maxlongitude: 32.89099
-    maxlatitude: -26.80442
-    latitude: -28.530554
-    longitude: 30.895824
-- name: North-West
-  names:
-  - North-West
-  code: NW
-  countryalpha2: ZA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.62903
-    minlatitude: -28.112206
-    maxlongitude: 28.29835
-    maxlatitude: -24.63663
-    latitude: -26.66386
-    longitude: 25.283758
-- name: Western Cape
-  names:
-  - Wes Kaap
-  code: WC
-  countryalpha2: ZA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 17.757565
-    minlatitude: -34.833004
-    maxlongitude: 24.22241
-    maxlatitude: -30.43026
-    latitude: -33.22779
-    longitude: 21.85686
 - name: Eastern Cape
   names:
-  - Oos Kaap
+    - Oos Kaap
   code: EC
   countryalpha2: ZA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.73574
-    minlatitude: -34.21364
-    maxlongitude: 30.19472
-    maxlatitude: -30.0018
-    latitude: -32.29684
-    longitude: 26.41939
+    minlongitude: 22.7357412
+    minlatitude: -34.2136378
+    maxlongitude: 30.1947187
+    maxlatitude: -30.0018012
+    latitude: -32.2968402
+    longitude: 26.419389
 - name: Free State
   names:
-  - Foreistata
-  - Vrystaat
+    - Foreistata
+    - Vrystaat
   code: FS
   countryalpha2: ZA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.34662
+    minlongitude: 24.3466211
     minlatitude: -30.69408
-    maxlongitude: 29.78513
-    maxlatitude: -26.66874
-    latitude: -28.454111
-    longitude: 26.796785
+    maxlongitude: 29.7851298
+    maxlatitude: -26.6687389
+    latitude: -28.4541105
+    longitude: 26.7967849
 - name: Gauteng
-  names:
-  - Pretoria-Witwatersrand-Vereeniging
-  code: GT
+  code: GP
   countryalpha2: ZA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 27.15634
-    minlatitude: -26.911898
-    maxlongitude: 29.09842
-    maxlatitude: -25.10961
-    latitude: -26.27076
-    longitude: 28.112268
+    minlongitude: 27.1563401
+    minlatitude: -26.9118973
+    maxlongitude: 29.0984187
+    maxlatitude: -25.1096099
+    latitude: -26.2707593
+    longitude: 28.1122679
+- name: Limpopo
+  names:
+    - Limpopo
+  code: LP
+  countryalpha2: ZA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.4075388
+    minlatitude: -25.4227899
+    maxlongitude: 31.8838412
+    maxlatitude: -22.1250298
+    latitude: -23.4012946
+    longitude: 29.4179324
+- name: Mpumalanga
+  names:
+    - eMpumalanga
+  code: MP
+  countryalpha2: ZA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.5890079
+    minlatitude: -29.853415
+    maxlongitude: 30.67445
+    maxlatitude: -29.7785889
+    latitude: -29.817
+    longitude: 30.637
 - name: Northern Cape
   names:
-  - Northern Cape
+    - Northern Cape
   code: NC
   countryalpha2: ZA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 16.45194
-    minlatitude: -32.94499
+    minlongitude: 16.451941
+    minlatitude: -32.9449877
     maxlongitude: 25.54933
     maxlatitude: -24.76586
-    latitude: -29.04668
-    longitude: 21.85686
+    latitude: -29.0466808
+    longitude: 21.8568586
+- name: North West
+  names:
+    - North-West
+  code: NW
+  countryalpha2: ZA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.6290299
+    minlatitude: -28.112206
+    maxlongitude: 28.2983488
+    maxlatitude: -24.6366288
+    latitude: -26.6638599
+    longitude: 25.2837585
+- name: Western Cape
+  names:
+    - Wes Kaap
+  code: WC
+  countryalpha2: ZA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 17.7575637
+    minlatitude: -34.8330058
+    maxlongitude: 24.22241
+    maxlatitude: -30.4302599
+    latitude: -33.2277918
+    longitude: 21.8568586
+- name: KwaZulu-Natal
+  code: ZN
+  countryalpha2: ZA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.8734801
+    minlatitude: -31.0853648
+    maxlongitude: 32.8909911
+    maxlatitude: -26.80442
+    latitude: -28.5305539
+    longitude: 30.8958242

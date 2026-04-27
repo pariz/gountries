@@ -1,59 +1,113 @@
 name:
-  common: Anguilla
-  official: Anguilla
-  native:
-    eng:
-      common: Anguilla
-      official: Anguilla
+    common: Anguilla
+    official: Anguilla
+    native:
+        eng:
+            common: Anguilla
+            official: Anguilla
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Anguillian
+altspellings:
+    - Anguilla
+    - アンギラ
+    - AI
 tlds:
-- .ai
+    - .ai
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Anguilla
-    official: Anguilla
-  FRA:
-    common: Anguilla
-    official: Anguilla
-  HRV:
-    common: Angvila
-    official: Anguilla
-  POR:
-    common: Anguilla
-    official: Anguilla
-  RUS:
-    common: Ангилья
-    official: Ангилья
-  SPA:
-    common: Anguilla
-    official: Anguila
+    ARA:
+        common: أنغويلا
+        official: أنغويلا
+    CES:
+        common: Anguilla
+        official: Anguilla
+    DEU:
+        common: Anguilla
+        official: Anguilla
+    EST:
+        common: Anguilla
+        official: Anguilla
+    FIN:
+        common: Anguilla
+        official: Anguilla
+    FRA:
+        common: Anguilla
+        official: Anguilla
+    HRV:
+        common: Angvila
+        official: Anguilla
+    HUN:
+        common: Anguilla
+        official: Anguilla
+    ITA:
+        common: Anguilla
+        official: Anguilla
+    JPN:
+        common: アンギラ
+        official: アンギラ
+    KOR:
+        common: 앵귈라
+        official: 앵귈라
+    NLD:
+        common: Anguilla
+        official: Anguilla
+    PER:
+        common: آنگویلا
+        official: آنگویلا
+    POL:
+        common: Anguilla
+        official: Anguilla
+    POR:
+        common: Anguilla
+        official: Anguilla
+    RUS:
+        common: Ангилья
+        official: Ангилья
+    SLK:
+        common: Anguilla
+        official: Anguilla
+    SPA:
+        common: Anguilla
+        official: Anguila
+    SRP:
+        common: Angvila
+        official: Angvila
+    SWE:
+        common: Anguilla
+        official: Anguilla
+    TUR:
+        common: Anguilla
+        official: Anguilla
+    URD:
+        common: اینگویلا
+        official: اینگویلا
+    ZHO:
+        common: 安圭拉
+        official: 安圭拉
 currencies:
-- XCD
-borders: []
+    - XCD
 codes:
-  alpha2: AI
-  alpha3: AIA
-  cioc: ""
-  ccn3: "660"
-  callingcodes:
-  - "1264"
-  internationalprefix: "011"
+    alpha2: AI
+    alpha3: AIA
+    ccn3: "660"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: The Valley
-  area: 91
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: The Valley
+    area: 91
 coordinates:
-  longitudestring: 63 10 W
-  latitudestring: 18 15 N
-  minlongitude: -63.433334
-  minlatitude: 18.15
-  maxlongitude: -62.916668
-  maxlatitude: 18.6
-  latitude: 18.226467
-  longitude: -63.04735
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -63.4803
+    minlatitude: 18.1465043
+    maxlongitude: -62.91999999999999
+    maxlatitude: 18.6332326
+    latitude: 18.220554
+    longitude: -63.06861499999999

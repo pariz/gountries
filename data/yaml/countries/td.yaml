@@ -1,75 +1,132 @@
 name:
-  common: Chad
-  official: Republic of Chad
-  native:
-    ara:
-      common: تشاد‎
-      official: جمهورية تشاد
-    fra:
-      common: Tchad
-      official: République du Tchad
+    common: Chad
+    official: The Republic of Chad
+    native:
+        ara:
+            common: تشاد
+            official: جمهورية تشاد
+        fra:
+            common: Tchad
+            official: République du Tchad
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Chadian
+altspellings:
+    - Chad
+    - تشاد
+    - Tschad
+    - Tchad
+    - チャド
+    - Tsjaad
+    - TD
+    - Republic of Chad
+    - République du Tchad
 tlds:
-- .td
+    - .td
 languages:
-  ara: Arabic
-  fra: French
+    ar: ""
+    ara: Arabic
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Tschad
-    official: Republik Tschad
-  FIN:
-    common: Tšad
-    official: Tšadin tasavalta
-  HRV:
-    common: Čad
-    official: Čadu
-  ITA:
-    common: Ciad
-    official: Repubblica del Ciad
-  JPN:
-    common: チャド
-    official: チャド共和国
-  POR:
-    common: Chade
-    official: República do Chade
-  RUS:
-    common: Чад
-    official: Республика Чад
-  SPA:
-    common: Chad
-    official: República de Chad
+    ARA:
+        common: تشاد
+        official: جمهورية تشاد
+    CES:
+        common: Čad
+        official: Čadská republika
+    DEU:
+        common: Tschad
+        official: Republik Tschad
+    EST:
+        common: Tšaad
+        official: Tšaadi Vabariik
+    FIN:
+        common: Tšad
+        official: Tšadin tasavalta
+    FRA:
+        common: Tchad
+        official: République du Tchad
+    HRV:
+        common: Čad
+        official: Čadu
+    HUN:
+        common: Csád
+        official: Csád Köztársaság
+    ITA:
+        common: Ciad
+        official: Repubblica del Ciad
+    JPN:
+        common: チャド
+        official: チャド共和国
+    KOR:
+        common: 차드
+        official: 차드 공화국
+    NLD:
+        common: Tsjaad
+        official: Republiek Tsjaad
+    PER:
+        common: چاد
+        official: جمهوری چاد
+    POL:
+        common: Czad
+        official: Republika Czadu
+    POR:
+        common: Chade
+        official: República do Chade
+    RUS:
+        common: Чад
+        official: Республика Чад
+    SLK:
+        common: Čad
+        official: Čadská republika
+    SPA:
+        common: Chad
+        official: República de Chad
+    SRP:
+        common: Čad
+        official: Republika Čad
+    SWE:
+        common: Tchad
+        official: Republiken Tchad
+    TUR:
+        common: çad
+        official: çad Cumhuriyeti
+    URD:
+        common: چاڈ
+        official: جمہوریہ چاڈ
+    ZHO:
+        common: 乍得
+        official: 乍得共和国
 currencies:
-- XAF
+    - XAF
 borders:
-- CMR
-- CAF
-- LBY
-- NER
-- NGA
-- SSD
+    - CMR
+    - CAF
+    - LBY
+    - NER
+    - NGA
+    - SDN
 codes:
-  alpha2: TD
-  alpha3: TCD
-  cioc: CHA
-  ccn3: "148"
-  callingcodes:
-  - "235"
-  internationalprefix: "15"
+    alpha2: TD
+    alpha3: TCD
+    cioc: CHA
+    ccn3: "148"
+    callingcodes:
+        - "235"
+    internationalprefix: "15"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: N'Djamena
-  area: 1.284e+06
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: N'Djamena
+    area: 1.284e+06
 coordinates:
-  longitudestring: 19 00 E
-  latitudestring: 15 00 N
-  minlongitude: 2
-  minlatitude: 7.5
-  maxlongitude: 24
-  maxlatitude: 26
-  latitude: 15.367653
-  longitude: 18.667582
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.4699999
+    minlatitude: 7.442975
+    maxlongitude: 24.0000011
+    maxlatitude: 23.449228
+    latitude: 15.454166
+    longitude: 18.732207

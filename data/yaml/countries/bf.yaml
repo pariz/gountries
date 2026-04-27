@@ -1,68 +1,122 @@
 name:
-  common: Burkina Faso
-  official: Burkina Faso
-  native:
-    fra:
-      common: Burkina Faso
-      official: République du Burkina
+    common: Burkina Faso
+    official: Burkina Faso
+    native:
+        fra:
+            common: Burkina Faso
+            official: République du Burkina
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Burkinabe
+altspellings:
+    - Burkina Faso
+    - ブルキナファソ
+    - BF
 tlds:
-- .bf
+    - .bf
 languages:
-  fra: French
+    ff: ""
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Burkina Faso
-    official: Burkina Faso
-  FRA:
-    common: Burkina Faso
-    official: République du Burkina
-  HRV:
-    common: Burkina Faso
-    official: Burkina Faso
-  ITA:
-    common: Burkina Faso
-    official: Burkina Faso
-  NLD:
-    common: Burkina Faso
-    official: Burkina Faso
-  RUS:
-    common: Буркина-Фасо
-    official: Буркина -Фасо
-  SPA:
-    common: Burkina Faso
-    official: Burkina Faso
+    ARA:
+        common: بوركينا فاسو
+        official: بوركينا فاسو
+    CES:
+        common: Burkina Faso
+        official: Burkina Faso
+    DEU:
+        common: Burkina Faso
+        official: Burkina Faso
+    EST:
+        common: Burkina Faso
+        official: Burkina Faso
+    FIN:
+        common: Burkina Faso
+        official: Burkina Faso
+    FRA:
+        common: Burkina Faso
+        official: République du Burkina
+    HRV:
+        common: Burkina Faso
+        official: Burkina Faso
+    HUN:
+        common: Burkina
+        official: Burkina Faso
+    ITA:
+        common: Burkina Faso
+        official: Burkina Faso
+    JPN:
+        common: ブルキナファソ
+        official: ブルキナファソ
+    KOR:
+        common: 부르키나파소
+        official: 부르키나파소
+    NLD:
+        common: Burkina Faso
+        official: Burkina Faso
+    PER:
+        common: بورکینافاسو
+        official: بورکینافاسو
+    POL:
+        common: Burkina Faso
+        official: Burkina Faso
+    POR:
+        common: Burkina Faso
+        official: Burkina Faso
+    RUS:
+        common: Буркина-Фасо
+        official: Буркина -Фасо
+    SLK:
+        common: Burkina Faso
+        official: Burkina Faso
+    SPA:
+        common: Burkina Faso
+        official: Burkina Faso
+    SRP:
+        common: Burkina Faso
+        official: Burkina Faso
+    SWE:
+        common: Burkina Faso
+        official: Burkina Faso
+    TUR:
+        common: Burkina Faso
+        official: Burkina Faso
+    URD:
+        common: برکینا فاسو
+        official: برکینا فاسو
+    ZHO:
+        common: 布基纳法索
+        official: 布基纳法索
 currencies:
-- XOF
+    - XOF
 borders:
-- BEN
-- CIV
-- GHA
-- MLI
-- NER
-- TGO
+    - BEN
+    - CIV
+    - GHA
+    - MLI
+    - NER
+    - TGO
 codes:
-  alpha2: BF
-  alpha3: BFA
-  cioc: BUR
-  ccn3: "854"
-  callingcodes:
-  - "226"
-  internationalprefix: "00"
+    alpha2: BF
+    alpha3: BFA
+    cioc: BUR
+    ccn3: "854"
+    callingcodes:
+        - "226"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Ouagadougou
-  area: 272967
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Ouagadougou
+    area: 272967
 coordinates:
-  longitudestring: 2 00 W
-  latitudestring: 13 00 N
-  minlongitude: -5.466667
-  minlatitude: 9.45
-  maxlongitude: 2.2655
-  maxlatitude: 14.983333
-  latitude: 12.284986
-  longitude: -1.7455606
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.5132416
+    minlatitude: 9.4104717
+    maxlongitude: 2.4043596
+    maxlatitude: 15.0840397
+    latitude: 12.238333
+    longitude: -1.561593

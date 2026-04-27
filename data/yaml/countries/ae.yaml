@@ -1,62 +1,125 @@
 name:
-  common: United Arab Emirates
-  official: United Arab Emirates
-  native:
-    ara:
-      common: دولة الإمارات العربية المتحدة
-      official: الإمارات العربية المتحدة
+    common: United Arab Emirates
+    official: The United Arab Emirates
+    native:
+        ara:
+            common: الإمارات
+            official: الإمارات العربية المتحدة
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Emirian
+altspellings:
+    - United Arab Emirates
+    - الإمارات العربية المتحدة
+    - Vereinigte Arabische Emirate
+    - Émirats Arabes Unis
+    - Emiratos Árabes Unidos
+    - アラブ首長国連邦
+    - Verenigde Arabische Emiraten
+    - AE
+    - UAE
+    - Emirates
 tlds:
-- .ae
-- امارات.
+    - .ae
+    - امارات.
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  FIN:
-    common: Arabiemiraatit
-    official: Yhdistyneet arabiemiirikunnat
-  FRA:
-    common: Émirats arabes unis
-    official: Émirats arabes unis
-  ITA:
-    common: Emirati Arabi Uniti
-    official: Emirati Arabi Uniti
-  JPN:
-    common: アラブ首長国連邦
-    official: アラブ首長国連邦
-  RUS:
-    common: Объединённые Арабские Эмираты
-    official: Объединенные Арабские Эмираты
-  SPA:
-    common: Emiratos Árabes Unidos
-    official: Emiratos Árabes Unidos
+    ARA:
+        common: الإمارات
+        official: الإمارات العربية المتحدة
+    CES:
+        common: Spojené arabské emiráty
+        official: Spojené arabské emiráty
+    DEU:
+        common: Vereinigte Arabische Emirate
+        official: Vereinigte Arabische Emirate
+    EST:
+        common: Araabia Ühendemiraadid
+        official: Araabia Ühendemiraadid
+    FIN:
+        common: Arabiemiraatit
+        official: Yhdistyneet arabiemiirikunnat
+    FRA:
+        common: Émirats arabes unis
+        official: Émirats arabes unis
+    HRV:
+        common: Ujedinjeni Arapski Emirati
+        official: Ujedinjeni Arapski Emirati
+    HUN:
+        common: Egyesült Arab Emírségek
+        official: Egyesült Arab Emírségek
+    ITA:
+        common: Emirati Arabi Uniti
+        official: Emirati Arabi Uniti
+    JPN:
+        common: UAE
+        official: アラブ首長国連邦
+    KOR:
+        common: 아랍에미리트
+        official: 아랍 토후국 연방
+    NLD:
+        common: Verenigde Arabische Emiraten
+        official: Verenigde Arabische Emiraten
+    PER:
+        common: امارات
+        official: امارات متحده عربی
+    POL:
+        common: Zjednoczone Emiraty Arabskie
+        official: Zjednoczone Emiraty Arabskie
+    POR:
+        common: Emirados Árabes Unidos
+        official: Emirados Árabes Unidos
+    RUS:
+        common: Объединённые Арабские Эмираты
+        official: Объединенные Арабские Эмираты
+    SLK:
+        common: Spojené arabské emiráty
+        official: Spojené arabské emiráty
+    SPA:
+        common: Emiratos Árabes Unidos
+        official: Emiratos Árabes Unidos
+    SRP:
+        common: Ujedinjeni Arapski Emirati
+        official: Ujedinjeni Arapski Emirati
+    SWE:
+        common: Förenade Arabemiraten
+        official: Förenade Arabemiraten
+    TUR:
+        common: Birleşik Arap Emirlikleri
+        official: Birleşik Arap Emirlikleri
+    URD:
+        common: متحدہ عرب امارات
+        official: متحدہ عرب امارات
+    ZHO:
+        common: 阿拉伯联合酋长国
+        official: 阿拉伯联合酋长国
 currencies:
-- AED
+    - AED
 borders:
-- OMN
-- SAU
+    - OMN
+    - SAU
 codes:
-  alpha2: AE
-  alpha3: ARE
-  cioc: UAE
-  ccn3: "784"
-  callingcodes:
-  - "971"
-  internationalprefix: "00"
+    alpha2: AE
+    alpha3: ARE
+    cioc: UAE
+    ccn3: "784"
+    callingcodes:
+        - "971"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Abu Dhabi
-  area: 83600
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Abu Dhabi
+    area: 83600
 coordinates:
-  longitudestring: 54 00 E
-  latitudestring: 24 00 N
-  minlongitude: 45
-  minlatitude: 22.166668
-  maxlongitude: 58
-  maxlatitude: 26.133333
-  latitude: 23.684776
-  longitude: 54.536644
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.4723
+    minlatitude: 22.6315138
+    maxlongitude: 56.4395001
+    maxlatitude: 26.0765
+    latitude: 23.424076
+    longitude: 53.847818

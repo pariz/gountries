@@ -10,17 +10,12 @@ import (
 var query *Query
 
 func TestMain(m *testing.M) {
-	var err error
-
-	if err != nil {
-		panic(err)
-	}
 	query = New()
 	flag.Parse()
 	os.Exit(m.Run())
 }
 
-func ExampleBorderingCountries() {
+func ExampleCountry_BorderingCountries() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
 	for _, country := range se.BorderingCountries() {
@@ -33,7 +28,7 @@ func ExampleBorderingCountries() {
 
 }
 
-func ExampleTranslations() {
+func ExampleCountry_translations() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
 	fmt.Println(se.Translations["DEU"].Common)

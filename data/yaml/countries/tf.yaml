@@ -1,61 +1,117 @@
 name:
-  common: French Southern and Antarctic Lands
-  official: Territory of the French Southern and Antarctic Lands
-  native:
-    fra:
-      common: Terres australes et antarctiques françaises
-      official: Territoire des Terres australes et antarctiques françaises
+    common: French Southern Territories
+    official: The French Southern and Antarctic Lands
+    native:
+        fra:
+            common: Terres australes et antarctiques françaises
+            official: Territoire des Terres australes et antarctiques françaises
 eumember: false
 landlocked: false
-nationality: ""
+nationality: French
+altspellings:
+    - French Southern Territories
+    - Französische Süd- und Antarktisgebiete
+    - Terres Australes Françaises
+    - Territorios Franceses del Sur
+    - フランス領南方・南極地域
+    - Franse Gebieden in de zuidelijke Indische Oceaan
+    - French Southern and Antarctic Lands
+    - TF
 tlds:
-- .tf
+    - .tf
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Französische Süd-und Antarktisgebiete
-    official: Gebiet der Französisch Süd-und Antarktisgebiete
-  HRV:
-    common: Francuski južni i antarktički teritoriji
-    official: Teritoriju Francuski južni i antarktički teritoriji
-  ITA:
-    common: Territori Francesi del Sud
-    official: Territorio della australi e antartiche francesi Terre
-  JPN:
-    common: フランス領南方・南極地域
-    official: フランス領南方·南極地域の領土
-  NLD:
-    common: Franse Gebieden in de zuidelijke Indische Oceaan
-    official: Grondgebied van de Franse Zuidelijke en Antarctische gebieden
-  RUS:
-    common: Французские Южные и Антарктические территории
-    official: Территория Французские Южные и Антарктические земли
-  SPA:
-    common: Tierras Australes y Antárticas Francesas
-    official: Territorio del Francés Tierras australes y antárticas
+    ARA:
+        common: أراض فرنسية جنوبية وأنتارتيكية
+        official: مقاطعات وأقاليم ما وراء البحار الفرنسية
+    CES:
+        common: Francouzská jižní a antarktická území
+        official: Teritorium Francouzská jižní a antarktická území
+    DEU:
+        common: Französische Süd- und Antarktisgebiete
+        official: Gebiet der Französisch Süd- und Antarktisgebiete
+    EST:
+        common: Prantsuse Lõunaalad
+        official: Prantsuse Lõunaalad
+    FIN:
+        common: Ranskan eteläiset ja antarktiset alueet
+        official: Ranskan eteläiset ja antarktiset alueet
+    FRA:
+        common: Terres australes et antarctiques françaises
+        official: Territoire des Terres australes et antarctiques françaises
+    HRV:
+        common: Francuski južni i antarktički teritoriji
+        official: Teritoriju Francuski južni i antarktički teritoriji
+    HUN:
+        common: Francia déli és antarktiszi területek
+        official: Francia déli és antarktiszi területek
+    ITA:
+        common: Territori Francesi del Sud
+        official: Territorio della australi e antartiche francesi Terre
+    JPN:
+        common: フランス領南方・南極地域
+        official: フランス領極南諸島
+    KOR:
+        common: 프랑스령 남부와 남극 지역
+        official: 프랑스령 남부와 남극 지역
+    NLD:
+        common: Franse Gebieden in de zuidelijke Indische Oceaan
+        official: Grondgebied van de Franse Zuidelijke en Antarctische gebieden
+    PER:
+        common: سرزمین‌های جنوبی و جنوبگانی فرانسه
+        official: سرزمین‌های جنوبی و جنوبگانی فرانسه
+    POL:
+        common: Francuskie Terytoria Południowe i Antarktyczne
+        official: Francuskie Terytoria Południowe i Antarktyczne
+    POR:
+        common: Terras Austrais e Antárticas Francesas
+        official: Território do Sul e Antártica Francesa
+    RUS:
+        common: Французские Южные и Антарктические территории
+        official: Территория Французские Южные и Антарктические земли
+    SLK:
+        common: Francúzske juŽné a antarktické územia
+        official: Francúzske južné a antarktické územia
+    SPA:
+        common: Tierras Australes y Antárticas Francesas
+        official: Territorio del Francés Tierras australes y antárticas
+    SRP:
+        common: Francuske južne i antarktičke zemlje
+        official: Francuske južne i antarktičke zemlje
+    SWE:
+        common: Franska södra territorierna
+        official: Franska syd- och Antarktisterritorierna
+    TUR:
+        common: Fransız Güney ve Antarktika Toprakları
+        official: Fransız Güney ve Antarktika Toprakları
+    URD:
+        common: سرزمین جنوبی فرانسیسیہ و انٹارکٹیکا
+        official: سرزمینِ جنوبی فرانسیسیہ و انٹارکٹیکہ
+    ZHO:
+        common: 法国南部和南极土地
+        official: 法国南部和南极土地
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: TF
-  alpha3: ATF
-  cioc: ""
-  ccn3: "260"
-  callingcodes: []
-  internationalprefix: ""
+    alpha2: TF
+    alpha3: ATF
+    ccn3: "260"
+    callingcodes:
+        - "262"
 geo:
-  region: ""
-  subregion: ""
-  continent: Antarctica
-  capital: Port-aux-Français
-  area: 7747
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Port-aux-Français
+    area: 7747
 coordinates:
-  longitudestring: ""
-  latitudestring: ""
-  minlongitude: 50.233334
-  minlatitude: -50.016666
-  maxlongitude: 77.6
-  maxlatitude: -37.783333
-  latitude: -49.563866
-  longitude: 69.54278
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.8519168
+    minlatitude: -50.0641918
+    maxlongitude: 70.6558228
+    maxlatitude: -45.7567331
+    latitude: -49.280366
+    longitude: 69.3485571

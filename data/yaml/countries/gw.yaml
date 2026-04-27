@@ -1,61 +1,126 @@
 name:
-  common: Guinea-Bissau
-  official: Republic of Guinea-Bissau
-  native:
-    por:
-      common: Guiné-Bissau
-      official: República da Guiné-Bissau
+    common: Guinea-Bissau
+    official: The Republic of Guinea-Bissau
+    native:
+        por:
+            common: Guiné-Bissau
+            official: República da Guiné-Bissau
+        pov:
+            common: Guiné-Bissau
+            official: República da Guiné-Bissau
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guinea-Bissauan
+altspellings:
+    - Guinea-Bissau
+    - Guinée-Bissau
+    - ギニアビサウ
+    - Guinee-Bissau
+    - Guinea Bissau
+    - GW
+    - Republic of Guinea-Bissau
+    - República da Guiné-Bissau
 tlds:
-- .gw
+    - .gw
 languages:
-  por: Portuguese
+    por: Portuguese
+    pov: Upper Guinea Creole
+    pt: ""
 translations:
-  DEU:
-    common: Guinea-Bissau
-    official: Republik Guinea-Bissau
-  FIN:
-    common: Guinea-Bissau
-    official: Guinea-Bissaun tasavalta
-  HRV:
-    common: Gvineja Bisau
-    official: Republika Gvineja Bisau
-  NLD:
-    common: Guinee-Bissau
-    official: Republiek Guinee-Bissau
-  POR:
-    common: Guiné-Bissau
-    official: República da Guiné-Bissau
-  RUS:
-    common: Гвинея-Бисау
-    official: Республика Гвинея -Бисау
+    ARA:
+        common: غينيا بيساو
+        official: جمهورية غينيا بيساو
+    CES:
+        common: Guinea-Bissau
+        official: Republika Guinea-Bissau
+    DEU:
+        common: Guinea-Bissau
+        official: Republik Guinea-Bissau
+    EST:
+        common: Guinea-Bissau
+        official: Guinea-Bissau Vabariik
+    FIN:
+        common: Guinea-Bissau
+        official: Guinea-Bissaun tasavalta
+    FRA:
+        common: Guinée-Bissau
+        official: République de Guinée-Bissau
+    HRV:
+        common: Gvineja Bisau
+        official: Republika Gvineja Bisau
+    HUN:
+        common: Bissau-Guinea
+        official: Bissau-Guineai Köztársaság
+    ITA:
+        common: Guinea-Bissau
+        official: Repubblica di Guinea-Bissau
+    JPN:
+        common: ギニアビサウ
+        official: ギニアビサウ共和国
+    KOR:
+        common: 기니비사우
+        official: 기니비사우 공화국
+    NLD:
+        common: Guinee-Bissau
+        official: Republiek Guinee-Bissau
+    PER:
+        common: گینه بیسائو
+        official: جمهوری گینه بیسائو
+    POL:
+        common: Gwinea Bissau
+        official: Republika Gwinei Bissau
+    POR:
+        common: Guiné-Bissau
+        official: República da Guiné-Bissau
+    RUS:
+        common: Гвинея-Бисау
+        official: Республика Гвинея -Бисау
+    SLK:
+        common: Guinea-Bissau
+        official: Guinejsko-bissauská republika
+    SPA:
+        common: Guinea-Bisáu
+        official: República de Guinea-Bissau
+    SRP:
+        common: Gvineja Bisao
+        official: Republika Gvineja Bisao
+    SWE:
+        common: Guinea-Bissau
+        official: Republiken Guinea-Bissau
+    TUR:
+        common: Gine-Bissau
+        official: Gine-Bissau Cumhuriyeti
+    URD:
+        common: گنی بساؤ
+        official: جمہوریہ گنی بساؤ
+    ZHO:
+        common: 几内亚比绍
+        official: 几内亚比绍共和国
 currencies:
-- XOF
+    - XOF
 borders:
-- GIN
-- SEN
+    - GIN
+    - SEN
 codes:
-  alpha2: GW
-  alpha3: GNB
-  cioc: GBS
-  ccn3: "624"
-  callingcodes:
-  - "245"
-  internationalprefix: "00"
+    alpha2: GW
+    alpha3: GNB
+    cioc: GBS
+    ccn3: "624"
+    callingcodes:
+        - "245"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Bissau
-  area: 36125
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Bissau
+    area: 36125
 coordinates:
-  longitudestring: 15 00 W
-  latitudestring: 12 00 N
-  minlongitude: -16.651943
-  minlatitude: 5
-  maxlongitude: -4
-  maxlatitude: 12.683333
-  latitude: 12.115863
-  longitude: -14.7481365
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.9518999
+    minlatitude: 10.7146
+    maxlongitude: -13.6265235
+    maxlatitude: 12.6869468
+    latitude: 11.803749
+    longitude: -15.180413

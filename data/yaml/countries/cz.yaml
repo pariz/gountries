@@ -1,67 +1,130 @@
 name:
-  common: Czech Republic
-  official: Czech Republic
-  native:
-    ces:
-      common: Česká republika
-      official: česká republika
-    slk:
-      common: Česká republika
-      official: Česká republika
+    common: Czechia
+    official: The Czech Republic
+    native:
+        ces:
+            common: Česko
+            official: Česká republika
+        slk:
+            common: Česko
+            official: Česká republika
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Czech
+altspellings:
+    - Czech Republic
+    - Tschechische Republik
+    - République Tchèque
+    - República Checa
+    - チェコ
+    - Tsjechië
+    - Czechia
+    - Česká republika
+    - CZ
+    - Česko
 tlds:
-- .cz
+    - .cz
 languages:
-  ces: Czech
-  slk: Slovak
+    ces: Czech
+    cs: ""
+    slk: Slovak
 translations:
-  CYM:
-    common: Y Weriniaeth Tsiec
-    official: Czech Republic
-  FIN:
-    common: Tšekki
-    official: Tšekin tasavalta
-  FRA:
-    common: République tchèque
-    official: République tchèque
-  ITA:
-    common: Repubblica Ceca
-    official: Repubblica Ceca
-  JPN:
-    common: チェコ
-    official: チェコ共和国
-  SPA:
-    common: República Checa
-    official: República Checa
+    ARA:
+        common: التشيك
+        official: جمهورية التشيك
+    CES:
+        common: Česko
+        official: Česká republika
+    DEU:
+        common: Tschechien
+        official: Tschechische Republik
+    EST:
+        common: Tšehhi
+        official: Tšehhi Vabariik
+    FIN:
+        common: Tšekki
+        official: Tšekin tasavalta
+    FRA:
+        common: Tchéquie
+        official: République tchèque
+    HRV:
+        common: Češka
+        official: Češka
+    HUN:
+        common: Csehország
+        official: Cseh Köztársaság
+    ITA:
+        common: Cechia
+        official: Repubblica Ceca
+    JPN:
+        common: チェコ
+        official: チェコ共和国
+    KOR:
+        common: 체코
+        official: 체코
+    NLD:
+        common: Tsjechië
+        official: Tsjechische Republiek
+    PER:
+        common: جمهوری چک
+        official: جمهوری چک
+    POL:
+        common: Czechy
+        official: Republika Czeska
+    POR:
+        common: Chéquia
+        official: República Checa
+    RUS:
+        common: Чехия
+        official: Чешская Республика
+    SLK:
+        common: Česko
+        official: Česká republika
+    SPA:
+        common: Chequia
+        official: República Checa
+    SRP:
+        common: Češka
+        official: Češka Republika
+    SWE:
+        common: Tjeckien
+        official: Republiken Tjeckien
+    TUR:
+        common: çekya
+        official: çek Cumhuriyeti
+    URD:
+        common: چيک
+        official: چيک جمہوريہ
+    ZHO:
+        common: 捷克
+        official: 捷克共和国
 currencies:
-- CZK
+    - CZK
 borders:
-- AUT
-- DEU
-- POL
-- SVK
+    - AUT
+    - DEU
+    - POL
+    - SVK
 codes:
-  alpha2: CZ
-  alpha3: CZE
-  cioc: CZE
-  ccn3: "203"
-  callingcodes:
-  - "420"
-  internationalprefix: "00"
+    alpha2: CZ
+    alpha3: CZE
+    cioc: CZE
+    ccn3: "203"
+    callingcodes:
+        - "420"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Prague
-  area: 78865
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Prague
+    area: 78865
 coordinates:
-  longitudestring: 15 30 E
-  latitudestring: 49 45 N
-  minlongitude: 12.116667
-  minlatitude: 40.65
-  maxlongitude: 25.5
-  maxlatitude: 59.65
-  latitude: 49.739105
-  longitude: 15.331501
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.090589
+    minlatitude: 48.5518081
+    maxlongitude: 18.8592361
+    maxlatitude: 51.0557185
+    latitude: 49.81749199999999
+    longitude: 15.472962

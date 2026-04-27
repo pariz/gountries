@@ -1,105 +1,6 @@
-- name: Kweneng
-  names:
-  - Kweneng
-  code: KW
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.962759
-    minlatitude: -24.775757
-    maxlongitude: 26.019691
-    maxlatitude: -22.955477
-    latitude: -23.836725
-    longitude: 25.283758
-- name: North-East
-  names:
-  - North-East
-  code: NE
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.21199
-    minlatitude: -21.571556
-    maxlongitude: 28.013578
-    maxlatitude: -20.473381
-    latitude: -20.903055
-    longitude: 27.455639
-- name: North-West
-  names:
-  - North-West
-  code: NW
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.99695
-    minlatitude: -21.000256
-    maxlongitude: 25.98795
-    maxlatitude: -17.780813
-    latitude: -19.190533
-    longitude: 23.0012
-- name: Southern
-  names:
-  - Southern
-  code: SO
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.048267
-    minlatitude: -25.825756
-    maxlongitude: 25.693459
-    maxlatitude: -23.996967
-    latitude: -24.823383
-    longitude: 24.714293
-- name: Ghanzi
-  names:
-  - Ghansi
-  - Khanzi
-  code: GH
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.623755
-    minlatitude: -21.714134
-    maxlongitude: 21.665897
-    maxlatitude: -21.678406
-    latitude: -21.698305
-    longitude: 21.64872
-- name: Kgalagadi
-  names:
-  - Kgalagadi
-  code: KG
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.999615
-    minlatitude: -26.907246
-    maxlongitude: 24.486738
-    maxlatitude: -23.277603
-    latitude: -24.755028
-    longitude: 21.85686
-- name: South-East
-  names:
-  - South-East
-  code: SE
-  countryalpha2: BW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.543854
-    minlatitude: -25.470963
-    maxlongitude: 26.181364
-    maxlatitude: -24.511587
-    latitude: -24.93661
-    longitude: 25.804852
 - name: Central
   names:
-  - Central
+    - Central
   code: CE
   countryalpha2: BW
   coordinates:
@@ -107,21 +8,204 @@
     latitudestring: ""
     minlongitude: 23.885815
     minlatitude: -23.956503
-    maxlongitude: 29.36078
-    maxlatitude: -19.002457
-    latitude: -21.167227
-    longitude: 26.41939
+    maxlongitude: 29.3607809
+    maxlatitude: -19.0024569
+    latitude: -21.1672276
+    longitude: 26.419389
+- name: Chobe
+  code: CH
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Francistown
+  code: FR
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Gaborone
+  code: GA
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ghanzi
+  names:
+    - Ghansi
+    - Khanzi
+  code: GH
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.6237544
+    minlatitude: -21.7141347
+    maxlongitude: 21.6658974
+    maxlatitude: -21.6784066
+    latitude: -21.698306
+    longitude: 21.64872
+- name: Jwaneng
+  code: JW
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kgalagadi
+  names:
+    - Kgalagadi
+  code: KG
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.999615
+    minlatitude: -26.9072461
+    maxlongitude: 24.4867379
+    maxlatitude: -23.277603
+    latitude: -24.7550285
+    longitude: 21.8568586
 - name: Kgatleng
   names:
-  - Kgatleng
+    - Kgatleng
   code: KL
   countryalpha2: BW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.902887
-    minlatitude: -24.691944
-    maxlongitude: 26.96045
-    maxlatitude: -23.562414
-    latitude: -24.197044
-    longitude: 26.230461
+    minlongitude: 25.9028879
+    minlatitude: -24.6919435
+    maxlongitude: 26.9604493
+    maxlatitude: -23.5624137
+    latitude: -24.1970445
+    longitude: 26.2304616
+- name: Kweneng
+  names:
+    - Kweneng
+  code: KW
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.9627589
+    minlatitude: -24.7757569
+    maxlongitude: 26.0196919
+    maxlatitude: -22.955476
+    latitude: -23.8367249
+    longitude: 25.2837585
+- name: Lobatse
+  code: LO
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: North-East
+  names:
+    - North-East
+  code: NE
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.2119901
+    minlatitude: -21.571556
+    maxlongitude: 28.013578
+    maxlatitude: -20.473381
+    latitude: -20.9030555
+    longitude: 27.4556388
+- name: North-West
+  names:
+    - North-West
+  code: NW
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.9969499
+    minlatitude: -21.0002549
+    maxlongitude: 25.9879499
+    maxlatitude: -17.780813
+    latitude: -19.1905321
+    longitude: 23.0011989
+- name: South-East
+  names:
+    - South-East
+  code: SE
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.5438541
+    minlatitude: -25.4709631
+    maxlongitude: 26.1813639
+    maxlatitude: -24.511588
+    latitude: -24.9366094
+    longitude: 25.8048521
+- name: Southern
+  names:
+    - Southern
+  code: SO
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.048267
+    minlatitude: -25.8257559
+    maxlongitude: 25.693459
+    maxlatitude: -23.9969671
+    latitude: -24.823384
+    longitude: 24.7142918
+- name: Selibe Phikwe
+  code: SP
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sowa Town
+  code: ST
+  countryalpha2: BW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

@@ -1,69 +1,124 @@
 name:
-  common: Niger
-  official: Republic of Niger
-  native:
-    fra:
-      common: Niger
-      official: République du Niger
+    common: Niger
+    official: The Republic of the Niger
+    native:
+        fra:
+            common: Niger
+            official: République du Niger
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Nigerian
+altspellings:
+    - Niger
+    - Níger
+    - ニジェール
+    - NE
+    - Nijar
 tlds:
-- .ne
+    - .ne
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  FIN:
-    common: Niger
-    official: Nigerin tasavalta
-  FRA:
-    common: Niger
-    official: République du Niger
-  HRV:
-    common: Niger
-    official: Republika Niger
-  ITA:
-    common: Niger
-    official: Repubblica del Niger
-  NLD:
-    common: Niger
-    official: Republiek Niger
-  POR:
-    common: Níger
-    official: República do Níger
-  SPA:
-    common: Níger
-    official: República de Níger
+    ARA:
+        common: النيجر
+        official: جمهورية النيجر
+    CES:
+        common: Niger
+        official: Nigerská republika
+    DEU:
+        common: Niger
+        official: Republik Niger
+    EST:
+        common: Niger
+        official: Nigeri Vabariik
+    FIN:
+        common: Niger
+        official: Nigerin tasavalta
+    FRA:
+        common: Niger
+        official: République du Niger
+    HRV:
+        common: Niger
+        official: Republika Niger
+    HUN:
+        common: Niger
+        official: Nigeri Köztársaság
+    ITA:
+        common: Niger
+        official: Repubblica del Niger
+    JPN:
+        common: ニジェール
+        official: ニジェール共和国
+    KOR:
+        common: 니제르
+        official: 니제르 공화국
+    NLD:
+        common: Niger
+        official: Republiek Niger
+    PER:
+        common: نیجر
+        official: جمهوری نیجر
+    POL:
+        common: Niger
+        official: Republika Nigru
+    POR:
+        common: Níger
+        official: República do Níger
+    RUS:
+        common: Нигер
+        official: Республика Нигер
+    SLK:
+        common: Niger
+        official: Nigérská republika
+    SPA:
+        common: Níger
+        official: República de Níger
+    SRP:
+        common: Niger
+        official: Republika Niger
+    SWE:
+        common: Niger
+        official: Republiken Niger
+    TUR:
+        common: Nijer
+        official: Nijer Cumhuriyeti
+    URD:
+        common: نائجر
+        official: جمہوریہ نائجر
+    ZHO:
+        common: 尼日尔
+        official: 尼日尔共和国
 currencies:
-- XOF
+    - XOF
 borders:
-- DZA
-- BEN
-- BFA
-- TCD
-- LBY
-- MLI
-- NGA
+    - DZA
+    - BEN
+    - BFA
+    - TCD
+    - LBY
+    - MLI
+    - NGA
 codes:
-  alpha2: NE
-  alpha3: NER
-  cioc: NIG
-  ccn3: "562"
-  callingcodes:
-  - "227"
-  internationalprefix: "00"
+    alpha2: NE
+    alpha3: NER
+    cioc: NIG
+    ccn3: "562"
+    callingcodes:
+        - "227"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Niamey
-  area: 1.267e+06
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Niamey
+    area: 1.267e+06
 coordinates:
-  longitudestring: 8 00 E
-  latitudestring: 16 00 N
-  minlongitude: 0.233333
-  minlatitude: 11.716667
-  maxlongitude: 16
-  maxlatitude: 26
-  latitude: 17.424074
-  longitude: 9.400634
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.1617177
+    minlatitude: 11.693756
+    maxlongitude: 15.9990339
+    maxlatitude: 23.4999997
+    latitude: 17.607789
+    longitude: 8.081666

@@ -1,67 +1,128 @@
 name:
-  common: Croatia
-  official: Republic of Croatia
-  native:
-    hrv:
-      common: Hrvatska
-      official: Republika Hrvatska
+    common: Croatia
+    official: The Republic of Croatia
+    native:
+        hrv:
+            common: Hrvatska
+            official: Republika Hrvatska
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Croatian
+altspellings:
+    - Croatia
+    - Kroatien
+    - Croatie
+    - Croacia
+    - クロアチア
+    - Kroatië
+    - Croatia (Hrvatska)
+    - HR
+    - Hrvatska
+    - Republic of Croatia
+    - Republika Hrvatska
 tlds:
-- .hr
+    - .hr
 languages:
-  hrv: Croatian
+    hr: ""
+    hrv: Croatian
 translations:
-  CYM:
-    common: Croatia
-    official: Republic of Croatia
-  FIN:
-    common: Kroatia
-    official: Kroatian tasavalta
-  FRA:
-    common: Croatie
-    official: République de Croatie
-  HRV:
-    common: Hrvatska
-    official: Republika Hrvatska
-  NLD:
-    common: Kroatië
-    official: Republiek Kroatië
-  RUS:
-    common: Хорватия
-    official: Республика Хорватия
-  SPA:
-    common: Croacia
-    official: República de Croacia
+    ARA:
+        common: كرواتيا
+        official: جمهورية كرواتيا
+    CES:
+        common: Chorvatsko
+        official: Chorvatská republika
+    DEU:
+        common: Kroatien
+        official: Republik Kroatien
+    EST:
+        common: Horvaatia
+        official: Horvaatia Vabariik
+    FIN:
+        common: Kroatia
+        official: Kroatian tasavalta
+    FRA:
+        common: Croatie
+        official: République de Croatie
+    HRV:
+        common: Hrvatska
+        official: Republika Hrvatska
+    HUN:
+        common: Horvátország
+        official: Horvát Köztársaság
+    ITA:
+        common: Croazia
+        official: Repubblica di Croazia
+    JPN:
+        common: クロアチア
+        official: クロアチア共和国
+    KOR:
+        common: 크로아티아
+        official: 크로아티아 공화국
+    NLD:
+        common: Kroatië
+        official: Republiek Kroatië
+    PER:
+        common: کرُواسی
+        official: جمهوری کرواسی
+    POL:
+        common: Chorwacja
+        official: Republika Chorwacji
+    POR:
+        common: Croácia
+        official: República da Croácia
+    RUS:
+        common: Хорватия
+        official: Республика Хорватия
+    SLK:
+        common: Chorvátsko
+        official: Chorvátska republika
+    SPA:
+        common: Croacia
+        official: República de Croacia
+    SRP:
+        common: Hrvatska
+        official: Republika Hrvatska
+    SWE:
+        common: Kroatien
+        official: Republiken Kroatien
+    TUR:
+        common: Hırvatistan
+        official: Hırvatistan Cumhuriyeti
+    URD:
+        common: کرویئشا
+        official: جمہوریہ کرویئشا
+    ZHO:
+        common: 克罗地亚
+        official: 克罗地亚共和国
 currencies:
-- HRK
+    - EUR
 borders:
-- BIH
-- HUN
-- MNE
-- SRB
-- SVN
+    - BIH
+    - HUN
+    - MNE
+    - SRB
+    - SVN
 codes:
-  alpha2: HR
-  alpha3: HRV
-  cioc: CRO
-  ccn3: "191"
-  callingcodes:
-  - "385"
-  internationalprefix: "00"
+    alpha2: HR
+    alpha3: HRV
+    cioc: CRO
+    ccn3: "191"
+    callingcodes:
+        - "385"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Zagreb
-  area: 56594
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Zagreb
+    area: 56594
 coordinates:
-  longitudestring: 15 30 E
-  latitudestring: 45 10 N
-  minlongitude: 13.493333
-  minlatitude: 42.38028
-  maxlongitude: 19.383057
-  maxlatitude: 46.526943
-  latitude: 45.444305
-  longitude: 15.734504
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.3649
+    minlatitude: 42.3385087
+    maxlongitude: 19.4480523
+    maxlatitude: 46.5549857
+    latitude: 45.1
+    longitude: 15.2000001

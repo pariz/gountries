@@ -1,34 +1,6 @@
-- name: Edo
-  names:
-  - Bendel
-  code: ED
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 4.975229
-    minlatitude: 5.73868
-    maxlongitude: 6.707891
-    maxlatitude: 7.572148
-    latitude: 6.54381
-    longitude: 5.898714
-- name: Taraba
-  names:
-  - Taraba
-  code: TA
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.1043005
-    minlatitude: 6.502454
-    maxlongitude: 11.981274
-    maxlatitude: 9.6044445
-    latitude: 7.9868755
-    longitude: 10.9807005
 - name: Abia
   names:
-  - Abia
+    - Abia
   code: AB
   countryalpha2: NG
   coordinates:
@@ -36,13 +8,56 @@
     latitudestring: ""
     minlongitude: 7.150823
     minlatitude: 4.810874
-    maxlongitude: 7.963009
-    maxlatitude: 6.019192
-    latitude: 5.430892
-    longitude: 7.5247245
+    maxlongitude: 7.9630091
+    maxlatitude: 6.0191921
+    latitude: 5.430892099999999
+    longitude: 7.524724300000001
+- name: Adamawa
+  names:
+    - Adamaoua
+    - Gongola
+  code: AD
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.392936
+    minlatitude: 7.452592
+    maxlongitude: 13.6924919
+    maxlatitude: 10.943588
+    latitude: 9.3250497
+    longitude: 12.4380581
+- name: Akwa Ibom
+  names:
+    - Akwa Ibom
+  code: AK
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.4605409
+    minlatitude: 4.4780049
+    maxlongitude: 8.340371
+    maxlatitude: 5.530245
+    latitude: 4.929986899999999
+    longitude: 7.872159999999999
+- name: Anambra
+  names:
+    - Anambra
+  code: AN
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.613086
+    minlatitude: 5.692615000000001
+    maxlongitude: 7.355934
+    maxlatitude: 6.7795999
+    latitude: 6.2757656
+    longitude: 7.0068393
 - name: Bauchi
   names:
-  - Bauchi
+    - Bauchi
   code: BA
   countryalpha2: NG
   coordinates:
@@ -51,54 +66,138 @@
     minlongitude: 9.779892
     minlatitude: 10.255381
     maxlongitude: 9.864006
-    maxlatitude: 10.339829
+    maxlatitude: 10.3398292
     latitude: 10.315833
-    longitude: 9.844167
-- name: Niger
+    longitude: 9.844166999999999
+- name: Benue
   names:
-  - Niger
-  code: NI
+    - Benue
+  code: BE
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 2.676932
-    minlatitude: 4.269857
-    maxlongitude: 14.677982
-    maxlatitude: 13.885645
-    latitude: 9.081999
-    longitude: 8.675277
+    minlongitude: 7.4893301
+    minlatitude: 6.4427789
+    maxlongitude: 9.918301
+    maxlatitude: 8.149299
+    latitude: 7.350825899999999
+    longitude: 8.8362755
+- name: Borno
+  names:
+    - Borno
+  code: BO
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.6286559
+    minlatitude: 10.0291549
+    maxlongitude: 14.680073
+    maxlatitude: 13.7144441
+    latitude: 11.5097479
+    longitude: 12.9789121
+- name: Bayelsa
+  names:
+    - Bayelsa
+  code: BY
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.370120500000001
+    minlatitude: 4.2771439
+    maxlongitude: 6.724865899999999
+    maxlatitude: 5.3933139
+    latitude: 4.867776699999999
+    longitude: 5.898713900000001
+- name: Cross River
+  names:
+    - Cross River
+  code: CR
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.863165999999999
+    minlatitude: 4.690596000000001
+    maxlongitude: 9.472486
+    maxlatitude: 6.899680999999999
+    latitude: 6.167031499999999
+    longitude: 8.6600586
+- name: Delta
+  names:
+    - Delta
+  code: DE
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.000000099999999
+    minlatitude: 5.024351999999999
+    maxlongitude: 6.7653911
+    maxlatitude: 6.5248195
+    latitude: 5.5324624
+    longitude: 5.898713900000001
+- name: Ebonyi
+  names:
+    - Ebonyi
+  code: EB
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.5251131
+    minlatitude: 5.6873539
+    maxlongitude: 8.4470269
+    maxlatitude: 6.807093
+    latitude: 6.177973
+    longitude: 7.959286299999999
+- name: Edo
+  names:
+    - Bendel
+  code: ED
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.975229
+    minlatitude: 5.7386799
+    maxlongitude: 6.707891000000001
+    maxlatitude: 7.5721479
+    latitude: 6.5438101
+    longitude: 5.898713900000001
 - name: Ekiti
   names:
-  - Ekiti
+    - Ekiti
   code: EK
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.910308
-    minlatitude: 7.272216
-    maxlongitude: 5.804896
-    maxlatitude: 8.067492
-    latitude: 7.665581
-    longitude: 5.3102503
-- name: Kano
+    minlongitude: 4.9103081
+    minlatitude: 7.272215999999999
+    maxlongitude: 5.8048959
+    maxlatitude: 8.0674911
+    latitude: 7.665581299999999
+    longitude: 5.3102505
+- name: Enugu
   names:
-  - Kano
-  code: KN
+    - Enugu
+  code: EN
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 8.411322
-    minlatitude: 11.912873
-    maxlongitude: 8.670477
-    maxlatitude: 12.082902
-    latitude: 12.002179
-    longitude: 8.591956
+    minlongitude: 7.458772700000001
+    minlatitude: 6.360852
+    maxlongitude: 7.618160199999999
+    maxlatitude: 6.5155669
+    latitude: 6.452667
+    longitude: 7.510332999999998
 - name: Abuja Capital Territory
   names:
-  - Abuja Capital Territory
+    - Abuja Capital Territory
   code: FC
   countryalpha2: NG
   coordinates:
@@ -106,97 +205,153 @@
     latitudestring: ""
     minlongitude: 6.749135
     minlatitude: 8.396675
-    maxlongitude: 7.6174
-    maxlatitude: 9.357422
-    latitude: 8.855683
-    longitude: 7.179026
-- name: Rivers
+    maxlongitude: 7.617400000000001
+    maxlatitude: 9.3574219
+    latitude: 8.8556838
+    longitude: 7.179025999999999
+- name: Gombe
   names:
-  - Rivers
-  code: RI
+    - Gombe
+  code: GO
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 6.382472
-    minlatitude: 4.347035
-    maxlongitude: 7.591593
-    maxlatitude: 5.694653
-    latitude: 4.8580766
-    longitude: 6.9209137
-- name: Sokoto
+    minlongitude: 11.1424112
+    minlatitude: 10.264117
+    maxlongitude: 11.2147019
+    maxlatitude: 10.3128497
+    latitude: 10.283333
+    longitude: 11.166667
+- name: Imo
   names:
-  - Sokoto
-  code: SO
+    - Imo
+  code: IM
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 5.1676083
-    minlatitude: 12.976415
-    maxlongitude: 5.2881145
-    maxlatitude: 13.088089
-    latitude: 13.066667
-    longitude: 5.233333
-- name: Ebonyi
+    minlongitude: 6.622309899999999
+    minlatitude: 5.179824000000001
+    maxlongitude: 7.404109
+    maxlatitude: 5.928465
+    latitude: 5.5214533
+    longitude: 6.920913499999999
+- name: Jigawa
   names:
-  - Ebonyi
-  code: EB
+    - Jigawa
+  code: JI
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.525113
-    minlatitude: 5.687354
-    maxlongitude: 8.447027
-    maxlatitude: 6.807093
-    latitude: 6.177973
-    longitude: 7.959286
-- name: Enugu
+    minlongitude: 8.9387779
+    minlatitude: 12.5688205
+    maxlongitude: 8.9410364
+    maxlatitude: 12.5708993
+    latitude: 12.5700315
+    longitude: 8.9400589
+- name: Kaduna
   names:
-  - Enugu
-  code: EN
+    - Kaduna
+  code: KD
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.4587727
-    minlatitude: 6.360852
-    maxlongitude: 7.6181602
-    maxlatitude: 6.515567
-    latitude: 6.452667
-    longitude: 7.510333
+    minlongitude: 7.349789099999999
+    minlatitude: 10.3971566
+    maxlongitude: 7.508812000000001
+    maxlatitude: 10.6169963
+    latitude: 10.516667
+    longitude: 7.433332999999999
+- name: Kebbi
+  names:
+    - Kebbi
+  code: KE
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.4958741
+    minlatitude: 10.0931591
+    maxlongitude: 6.027123
+    maxlatitude: 13.232542
+    latitude: 11.6781241
+    longitude: 4.0695454
+- name: Kano
+  names:
+    - Kano
+  code: KN
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.411321599999999
+    minlatitude: 11.912873
+    maxlongitude: 8.6704765
+    maxlatitude: 12.0829016
+    latitude: 12.0021794
+    longitude: 8.591956099999999
 - name: Kogi
   names:
-  - Kogi
+    - Kogi
   code: KO
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 5.340376
-    minlatitude: 6.528274
-    maxlongitude: 7.882218
-    maxlatitude: 8.732024
+    minlatitude: 6.528274199999999
+    maxlongitude: 7.8822179
+    maxlatitude: 8.7320238
     latitude: 7.561891
-    longitude: 6.5783386
+    longitude: 6.5783387
+- name: Katsina
+  names:
+    - Katsina
+  code: KT
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.5706298
+    minlatitude: 12.934095
+    maxlongitude: 7.676266000000001
+    maxlatitude: 13.0357094
+    latitude: 12.983333
+    longitude: 7.6
+- name: Kwara
+  names:
+    - Kwara
+  code: KW
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.728413
+    minlatitude: 7.966079000000001
+    maxlongitude: 6.2142591
+    maxlatitude: 10.152084
+    latitude: 8.9847995
+    longitude: 4.5624426
 - name: Lagos
   names:
-  - Lagos
+    - Lagos
   code: LA
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 3.0982733
-    minlatitude: 6.393642
-    maxlongitude: 3.6967278
+    minlongitude: 3.0982732
+    minlatitude: 6.3936419
+    maxlongitude: 3.696727799999999
     maxlatitude: 6.7027984
     latitude: 6.5243793
     longitude: 3.3792057
 - name: Nassarawa
   names:
-  - Nasarawa
+    - Nasarawa
   code: NA
   countryalpha2: NG
   coordinates:
@@ -205,167 +360,54 @@
     minlongitude: 6.924008
     minlatitude: 7.769181
     maxlongitude: 9.605724
-    maxlatitude: 9.365964
-    latitude: 8.570515
-    longitude: 8.308845
-- name: Yobe
+    maxlatitude: 9.365964000000002
+    latitude: 8.5705151
+    longitude: 8.3088441
+- name: Niger
   names:
-  - Yobe
-  code: YO
+    - Niger
+  code: NI
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 9.665973
-    minlatitude: 10.593205
-    maxlongitude: 12.494047
-    maxlatitude: 13.376133
-    latitude: 12.187141
-    longitude: 11.706829
-- name: Adamawa
-  names:
-  - Adamaoua
-  - Gongola
-  code: AD
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.392936
-    minlatitude: 7.452592
-    maxlongitude: 13.692492
-    maxlatitude: 10.943588
-    latitude: 9.325049
-    longitude: 12.438058
-- name: Kaduna
-  names:
-  - Kaduna
-  code: KD
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.349789
-    minlatitude: 10.397157
-    maxlongitude: 7.508812
-    maxlatitude: 10.616997
-    latitude: 10.516667
-    longitude: 7.433333
-- name: Zamfara
-  names:
-  - Zamfara
-  code: ZA
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.021007
-    minlatitude: 10.854616
-    maxlongitude: 7.24573
-    maxlatitude: 13.207291
-    latitude: 12.184416
-    longitude: 6.2375946
-- name: Bayelsa
-  names:
-  - Bayelsa
-  code: BY
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5.3701205
-    minlatitude: 4.277144
-    maxlongitude: 6.724866
-    maxlatitude: 5.393314
-    latitude: 4.867777
-    longitude: 5.898714
-- name: Delta
-  names:
-  - Delta
-  code: DE
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 5
-    minlatitude: 5.024352
-    maxlongitude: 6.765391
-    maxlatitude: 6.5248194
-    latitude: 5.5324626
-    longitude: 5.898714
-- name: Cross River
-  names:
-  - Cross River
-  code: CR
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.863166
-    minlatitude: 4.690596
-    maxlongitude: 9.472486
-    maxlatitude: 6.899681
-    latitude: 6.1670313
-    longitude: 8.660059
-- name: Kwara
-  names:
-  - Kwara
-  code: KW
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.728413
-    minlatitude: 7.966079
-    maxlongitude: 6.214259
-    maxlatitude: 10.152084
-    latitude: 8.984799
-    longitude: 4.562443
-- name: Katsina
-  names:
-  - Katsina
-  code: KT
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.5706296
-    minlatitude: 12.934095
-    maxlongitude: 7.676266
-    maxlatitude: 13.035709
-    latitude: 12.983333
-    longitude: 7.6
+    minlongitude: 2.676932
+    minlatitude: 4.269857099999999
+    maxlongitude: 14.677982
+    maxlatitude: 13.885645
+    latitude: 9.081999
+    longitude: 8.675277
 - name: Ogun
   names:
-  - Ogun
+    - Ogun
   code: OG
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 2.668432
-    minlatitude: 6.3153462
-    maxlongitude: 4.599095
-    maxlatitude: 7.974635
-    latitude: 6.9098334
-    longitude: 3.2583625
+    minlatitude: 6.315346099999999
+    maxlongitude: 4.5990951
+    maxlatitude: 7.974634999999999
+    latitude: 6.9098333
+    longitude: 3.2583626
 - name: Ondo
   names:
-  - Ondo
+    - Ondo
   code: "ON"
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.7963047
-    minlatitude: 7.052938
-    maxlongitude: 4.8719215
-    maxlatitude: 7.124911
+    minlongitude: 4.7963046
+    minlatitude: 7.0529381
+    maxlongitude: 4.871921599999999
+    maxlatitude: 7.1249106
     latitude: 7.083333
     longitude: 4.833333
 - name: Osun
   names:
-  - Osun
+    - Osun
   code: OS
   countryalpha2: NG
   coordinates:
@@ -373,111 +415,27 @@
     latitudestring: ""
     minlongitude: 4.020612
     minlatitude: 6.969976
-    maxlongitude: 5.064702
-    maxlatitude: 8.088641
-    latitude: 7.5875845
-    longitude: 4.562443
-- name: Akwa Ibom
-  names:
-  - Akwa Ibom
-  code: AK
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 7.460541
-    minlatitude: 4.478005
-    maxlongitude: 8.340371
-    maxlatitude: 5.530245
-    latitude: 4.929987
-    longitude: 7.87216
-- name: Gombe
-  names:
-  - Gombe
-  code: GO
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.142411
-    minlatitude: 10.264117
-    maxlongitude: 11.214702
-    maxlatitude: 10.31285
-    latitude: 10.283333
-    longitude: 11.166667
-- name: Borno
-  names:
-  - Borno
-  code: BO
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.628655
-    minlatitude: 10.029155
-    maxlongitude: 14.680073
-    maxlatitude: 13.714444
-    latitude: 11.5097475
-    longitude: 12.978912
-- name: Imo
-  names:
-  - Imo
-  code: IM
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.6223097
-    minlatitude: 5.179824
-    maxlongitude: 7.404109
-    maxlatitude: 5.928465
-    latitude: 5.5214534
-    longitude: 6.9209137
-- name: Jigawa
-  names:
-  - Jigawa
-  code: JI
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.938778
-    minlatitude: 12.568821
-    maxlongitude: 8.941036
-    maxlatitude: 12.570899
-    latitude: 12.570031
-    longitude: 8.940059
-- name: Kebbi
-  names:
-  - Kebbi
-  code: KE
-  countryalpha2: NG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 3.4958742
-    minlatitude: 10.093159
-    maxlongitude: 6.027123
-    maxlatitude: 13.232542
-    latitude: 11.678124
-    longitude: 4.0695453
+    maxlongitude: 5.0647019
+    maxlatitude: 8.088640999999999
+    latitude: 7.5875843
+    longitude: 4.5624426
 - name: Oyo
   names:
-  - Oyo
+    - Oyo
   code: OY
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 3.8832376
-    minlatitude: 7.7904253
-    maxlongitude: 3.9751625
-    maxlatitude: 7.889993
+    minlongitude: 3.8832377
+    minlatitude: 7.790425099999999
+    maxlongitude: 3.9751624
+    maxlatitude: 7.8899933
     latitude: 7.85
     longitude: 3.933
 - name: Plateau
   names:
-  - Plateau
+    - Plateau
   code: PL
   countryalpha2: NG
   coordinates:
@@ -485,35 +443,77 @@
     latitudestring: ""
     minlongitude: 8.544271
     minlatitude: 8.350639
-    maxlongitude: 10.660664
-    maxlatitude: 10.344724
-    latitude: 9.235082
-    longitude: 9.723268
-- name: Anambra
+    maxlongitude: 10.6606639
+    maxlatitude: 10.3447241
+    latitude: 9.2350817
+    longitude: 9.7232673
+- name: Rivers
   names:
-  - Anambra
-  code: AN
+    - Rivers
+  code: RI
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 6.613086
-    minlatitude: 5.692615
-    maxlongitude: 7.355934
-    maxlatitude: 6.7795997
-    latitude: 6.2757654
-    longitude: 7.0068393
-- name: Benue
+    minlongitude: 6.382472000000001
+    minlatitude: 4.347035099999999
+    maxlongitude: 7.591592899999998
+    maxlatitude: 5.694652899999999
+    latitude: 4.8580767
+    longitude: 6.920913499999999
+- name: Sokoto
   names:
-  - Benue
-  code: BE
+    - Sokoto
+  code: SO
   countryalpha2: NG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 7.4893303
-    minlatitude: 6.442779
-    maxlongitude: 9.918301
-    maxlatitude: 8.149299
-    latitude: 7.350826
-    longitude: 8.836275
+    minlongitude: 5.1676084
+    minlatitude: 12.9764148
+    maxlongitude: 5.2881144
+    maxlatitude: 13.0880893
+    latitude: 13.066667
+    longitude: 5.233333
+- name: Taraba
+  names:
+    - Taraba
+  code: TA
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.1043009
+    minlatitude: 6.502453999999999
+    maxlongitude: 11.981274
+    maxlatitude: 9.604444899999999
+    latitude: 7.9868755
+    longitude: 10.9807003
+- name: Yobe
+  names:
+    - Yobe
+  code: YO
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.665973100000002
+    minlatitude: 10.5932052
+    maxlongitude: 12.494047
+    maxlatitude: 13.376133
+    latitude: 12.1871412
+    longitude: 11.7068294
+- name: Zamfara
+  names:
+    - Zamfara
+  code: ZA
+  countryalpha2: NG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.021007099999999
+    minlatitude: 10.854616
+    maxlongitude: 7.245729999999999
+    maxlatitude: 13.207291
+    latitude: 12.1844159
+    longitude: 6.2375947

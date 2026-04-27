@@ -1,146 +1,412 @@
-- name: Zapadna Backa
+- name: Belgrade
   names:
-  - Zapadna Backa
-  code: "05"
+    - Belgrade
+  code: "00"
   countryalpha2: RS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 18.849375
-    minlatitude: 45.436848
-    maxlongitude: 19.615788
-    maxlatitude: 46.04105
-    latitude: 45.73554
-    longitude: 19.189737
-- name: Srem
-  names:
-  - Srem
-  code: "07"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.988493
-    minlatitude: 44.629463
-    maxlongitude: 20.361305
-    maxlatitude: 45.21001
-    latitude: 45.00292
-    longitude: 19.801378
-- name: Rasina
-  names:
-  - Rasina
-  code: "19"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.343458
-    minlatitude: 43.56443
-    maxlongitude: 21.353436
-    maxlatitude: 43.593407
-    latitude: 43.57892
-    longitude: 21.348448
-- name: Moravica
-  names:
-  - Moravica
-  code: "17"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.710016
-    minlatitude: 43.536476
-    maxlongitude: 21.713427
-    maxlatitude: 43.54226
-    latitude: 43.539368
-    longitude: 21.711721
-- name: Raška
-  names:
-  - Raška
-  code: "18"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.59722
-    minlatitude: 43.270267
-    maxlongitude: 20.639963
-    maxlatitude: 43.30382
-    latitude: 43.291943
-    longitude: 20.615557
-- name: Toplica
-  names:
-  - Toplica
-  code: "21"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.91217
-    minlatitude: 42.86815
-    maxlongitude: 21.83619
-    maxlatitude: 43.40871
-    latitude: 43.19066
-    longitude: 21.340776
+    minlongitude: 20.2217102
+    minlatitude: 44.6880454
+    maxlongitude: 20.6189345
+    maxlatitude: 44.9424453
+    latitude: 44.786568
+    longitude: 20.4489216
 - name: Severna Backa
   names:
-  - Severna Backa
+    - Severna Backa
   code: "01"
   countryalpha2: RS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.30112
-    minlatitude: 45.624256
-    maxlongitude: 19.875135
-    maxlatitude: 46.191246
-    latitude: 45.98034
+    minlongitude: 19.3011208
+    minlatitude: 45.6242571
+    maxlongitude: 19.875136
+    maxlatitude: 46.1912459
+    latitude: 45.9803394
     longitude: 19.5907
+- name: Srednji Banat
+  names:
+    - Srednji Banat
+  code: "02"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.027785
+    minlatitude: 45.0783
+    maxlongitude: 21.0307331
+    maxlatitude: 45.811237
+    latitude: 45.4788485
+    longitude: 20.6082522
+- name: Severni Banat
+  names:
+    - Severni Banat
+  code: "03"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.7715084
+    minlatitude: 45.598248
+    maxlongitude: 20.665928
+    maxlatitude: 46.178631
+    latitude: 45.906839
+    longitude: 19.9993417
+- name: Južni Banat
+  names:
+    - Južni Banat
+  code: "04"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.41565
+    minlatitude: 44.65840499999999
+    maxlongitude: 21.56465
+    maxlatitude: 45.334724
+    latitude: 45.0027457
+    longitude: 21.0542509
+- name: Zapadna Backa
+  names:
+    - Zapadna Backa
+  code: "05"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.8493741
+    minlatitude: 45.436847
+    maxlongitude: 19.6157879
+    maxlatitude: 46.0410499
+    latitude: 45.7355385
+    longitude: 19.1897364
+- name: Južna Backa
+  names:
+    - Južna Backa
+  code: "06"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.981784
+    minlatitude: 45.133575
+    maxlongitude: 20.313821
+    maxlatitude: 45.7750259
+    latitude: 45.4890344
+    longitude: 19.6976187
+- name: Srem
+  names:
+    - Srem
+  code: "07"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.9884937
+    minlatitude: 44.6294639
+    maxlongitude: 20.361306
+    maxlatitude: 45.21000900000001
+    latitude: 45.0029171
+    longitude: 19.8013773
 - name: Macva
   names:
-  - Macva
+    - Macva
   code: "08"
   countryalpha2: RS
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 19.10721
-    minlatitude: 44.112473
+    minlatitude: 44.1124741
     maxlongitude: 20.000317
-    maxlatitude: 44.940403
-    latitude: 44.592533
-    longitude: 19.508224
+    maxlatitude: 44.94040200000001
+    latitude: 44.5925314
+    longitude: 19.5082246
+- name: Kolubara
+  names:
+    - Kolubara
+  code: "09"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.8946778
+    minlatitude: 44.26653839999999
+    maxlongitude: 19.9014904
+    maxlatitude: 44.2683338
+    latitude: 44.2674361
+    longitude: 19.8980841
+- name: Podunavlje
+  names:
+    - Podunavlje
+  code: "10"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.7518259
+    minlatitude: 44.208296
+    maxlongitude: 21.203335
+    maxlatitude: 44.7212919
+    latitude: 44.4729156
+    longitude: 20.9901426
 - name: Branicevo
   names:
-  - Branicevo
+    - Branicevo
   code: "11"
   countryalpha2: RS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.523933
-    minlatitude: 44.672314
-    maxlongitude: 21.588478
-    maxlatitude: 44.719173
+    minlongitude: 21.5239334
+    minlatitude: 44.6723152
+    maxlongitude: 21.5884781
+    maxlatitude: 44.7191731
     latitude: 44.705
-    longitude: 21.538334
+    longitude: 21.538333
+- name: Šumadija
+  names:
+    - Šumadija
+  code: "12"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.410712
+    minlatitude: 43.796296
+    maxlongitude: 21.159204
+    maxlatitude: 44.441987
+    latitude: 44.20506779999999
+    longitude: 20.7856565
 - name: Pomoravlje
   names:
-  - Pomoravlje
+    - Pomoravlje
   code: "13"
   countryalpha2: RS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.9297
-    minlatitude: 43.711468
-    maxlongitude: 21.83997
+    minlongitude: 20.929701
+    minlatitude: 43.7114669
+    maxlongitude: 21.839969
     maxlatitude: 44.310024
-    latitude: 43.959137
+    latitude: 43.95913789999999
     longitude: 21.271353
+- name: Bor
+  names:
+    - Bor
+  code: "14"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.9936849
+    minlatitude: 44.0400952
+    maxlongitude: 22.1439743
+    maxlatitude: 44.1460006
+    latitude: 44.0698918
+    longitude: 22.0985086
+- name: Zajecar
+  names:
+    - Zajecar
+  code: "15"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.1834563
+    minlatitude: 43.8638665
+    maxlongitude: 22.3112583
+    maxlatitude: 43.9716926
+    latitude: 43.9015048
+    longitude: 22.2738011
+- name: Zlatibor
+  names:
+    - Zlatibor
+  code: "16"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 43.6554553
+    longitude: 19.6633226
+- name: Moravica
+  names:
+    - Moravica
+  code: "17"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.7100169
+    minlatitude: 43.5364745
+    maxlongitude: 21.7134261
+    maxlatitude: 43.542258
+    latitude: 43.5393662
+    longitude: 21.7117215
+- name: Raška
+  names:
+    - Raška
+  code: "18"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.5972195
+    minlatitude: 43.2702688
+    maxlongitude: 20.6399633
+    maxlatitude: 43.3038197
+    latitude: 43.291944
+    longitude: 20.615556
+- name: Rasina
+  names:
+    - Rasina
+  code: "19"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.3434582
+    minlatitude: 43.5644288
+    maxlongitude: 21.3534361
+    maxlatitude: 43.5934076
+    latitude: 43.5789182
+    longitude: 21.3484472
+- name: Nišava
+  names:
+    - Nišava
+  code: "20"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.4754701
+    minlatitude: 43.075654
+    maxlongitude: 22.3710859
+    maxlatitude: 43.82438
+    latitude: 43.3738902
+    longitude: 21.9322331
+- name: Toplica
+  names:
+    - Toplica
+  code: "21"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.9121709
+    minlatitude: 42.868147
+    maxlongitude: 21.836189
+    maxlatitude: 43.4087109
+    latitude: 43.1906592
+    longitude: 21.3407762
+- name: Pirot
+  names:
+    - Pirot
+  code: "22"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.5426578
+    minlatitude: 43.1039909
+    maxlongitude: 22.6113225
+    maxlatitude: 43.2034866
+    latitude: 43.1557012
+    longitude: 22.5856812
+- name: Jablanica
+  names:
+    - Jablanica
+  code: "23"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.2557983
+    minlatitude: 43.3905789
+    maxlongitude: 21.3261795
+    maxlatitude: 43.47304099999999
+    latitude: 43.443889
+    longitude: 21.271389
+- name: Pcinja
+  names:
+    - Pcinja
+  code: "24"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.526959
+    minlatitude: 42.2448299
+    maxlongitude: 22.5690361
+    maxlatitude: 42.8436209
+    latitude: 42.5836362
+    longitude: 22.1430215
+- name: Kosovo
+  names:
+    - Kosovo
+  code: "25"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.8385221
+    minlatitude: 42.231503
+    maxlongitude: 23.0063095
+    maxlatitude: 46.190032
+    latitude: 44.016521
+    longitude: 21.005859
+- name: Pec´
+  names:
+    - Pec´
+  code: "26"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 43.5725
+    longitude: 19.8797222
+- name: Prizren
+  names:
+    - Prizren
+  code: "27"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 43.6930556
+    longitude: 19.28
+- name: Kosovska Mitrovica
+  names:
+    - Kosovska Mitrovica
+  code: "28"
+  countryalpha2: RS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.8018674
+    minlatitude: 44.9979345
+    maxlongitude: 19.815715
+    maxlatitude: 44.998271
+    latitude: 44.9980615
+    longitude: 19.8087171
 - name: Kosovo-Pomoravlje
   names:
-  - Kosovo-Pomoravlje
+    - Kosovo-Pomoravlje
   code: "29"
   countryalpha2: RS
   coordinates:
@@ -152,80 +418,8 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Južni Banat
-  names:
-  - Južni Banat
-  code: "04"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.41565
-    minlatitude: 44.658405
-    maxlongitude: 21.56465
-    maxlatitude: 45.334724
-    latitude: 45.002747
-    longitude: 21.05425
-- name: Bor
-  names:
-  - Bor
-  code: "14"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.993685
-    minlatitude: 44.040096
-    maxlongitude: 22.143974
-    maxlatitude: 44.146
-    latitude: 44.069893
-    longitude: 22.098509
-- name: Zajecar
-  names:
-  - Zajecar
-  code: "15"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.183456
-    minlatitude: 43.863865
-    maxlongitude: 22.311258
-    maxlatitude: 43.97169
-    latitude: 43.901505
-    longitude: 22.273802
-- name: Pcinja
-  names:
-  - Pcinja
-  code: "24"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.526958
-    minlatitude: 42.24483
-    maxlongitude: 22.569036
-    maxlatitude: 42.84362
-    latitude: 42.583637
-    longitude: 22.14302
-- name: Podunavlje
-  names:
-  - Podunavlje
-  code: "10"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.751825
-    minlatitude: 44.208298
-    maxlongitude: 21.203335
-    maxlatitude: 44.72129
-    latitude: 44.472916
-    longitude: 20.990143
-- name: Zlatibor
-  names:
-  - Zlatibor
-  code: "16"
+- name: Косово и Метохија
+  code: KM
   countryalpha2: RS
   coordinates:
     longitudestring: ""
@@ -234,54 +428,10 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 43.655457
-    longitude: 19.663322
-- name: Srednji Banat
-  names:
-  - Srednji Banat
-  code: "02"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.027784
-    minlatitude: 45.0783
-    maxlongitude: 21.030733
-    maxlatitude: 45.811237
-    latitude: 45.478848
-    longitude: 20.608252
-- name: Pirot
-  names:
-  - Pirot
-  code: "22"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.542658
-    minlatitude: 43.103992
-    maxlongitude: 22.611322
-    maxlatitude: 43.203487
-    latitude: 43.1557
-    longitude: 22.585682
-- name: Jablanica
-  names:
-  - Jablanica
-  code: "23"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.255798
-    minlatitude: 43.39058
-    maxlongitude: 21.32618
-    maxlatitude: 43.47304
-    latitude: 43.44389
-    longitude: 21.271389
-- name: Pec´
-  names:
-  - Pec´
-  code: "26"
+    latitude: 0
+    longitude: 0
+- name: Војводина
+  code: VO
   countryalpha2: RS
   coordinates:
     longitudestring: ""
@@ -290,131 +440,5 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 43.5725
-    longitude: 19.879723
-- name: Belgrade
-  names:
-  - Belgrade
-  code: "00"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.22171
-    minlatitude: 44.688046
-    maxlongitude: 20.618935
-    maxlatitude: 44.942444
-    latitude: 44.786568
-    longitude: 20.448921
-- name: Kolubara
-  names:
-  - Kolubara
-  code: "09"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.894678
-    minlatitude: 44.266537
-    maxlongitude: 19.901491
-    maxlatitude: 44.268333
-    latitude: 44.267437
-    longitude: 19.898085
-- name: Nišava
-  names:
-  - Nišava
-  code: "20"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.47547
-    minlatitude: 43.075653
-    maxlongitude: 22.371086
-    maxlatitude: 43.82438
-    latitude: 43.37389
-    longitude: 21.932234
-- name: Kosovska Mitrovica
-  names:
-  - Kosovska Mitrovica
-  code: "28"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.801867
-    minlatitude: 44.997936
-    maxlongitude: 19.815716
-    maxlatitude: 44.998272
-    latitude: 44.998062
-    longitude: 19.808718
-- name: Severni Banat
-  names:
-  - Severni Banat
-  code: "03"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.77151
-    minlatitude: 45.598248
-    maxlongitude: 20.665928
-    maxlatitude: 46.17863
-    latitude: 45.906837
-    longitude: 19.999342
-- name: Južna Backa
-  names:
-  - Južna Backa
-  code: "06"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.981785
-    minlatitude: 45.133575
-    maxlongitude: 20.313822
-    maxlatitude: 45.775024
-    latitude: 45.489033
-    longitude: 19.697618
-- name: Šumadija
-  names:
-  - Šumadija
-  code: "12"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.410711
-    minlatitude: 43.796295
-    maxlongitude: 21.159204
-    maxlatitude: 44.441986
-    latitude: 44.205067
-    longitude: 20.785656
-- name: Kosovo
-  names:
-  - Kosovo
-  code: "25"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.838522
-    minlatitude: 42.231503
-    maxlongitude: 23.00631
-    maxlatitude: 46.190033
-    latitude: 44.01652
-    longitude: 21.00586
-- name: Prizren
-  names:
-  - Prizren
-  code: "27"
-  countryalpha2: RS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 43.693054
-    longitude: 19.28
+    latitude: 0
+    longitude: 0

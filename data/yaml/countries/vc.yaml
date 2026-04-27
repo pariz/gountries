@@ -1,68 +1,120 @@
 name:
-  common: Saint Vincent and the Grenadines
-  official: Saint Vincent and the Grenadines
-  native:
-    eng:
-      common: Saint Vincent and the Grenadines
-      official: Saint Vincent and the Grenadines
+    common: Saint Vincent and the Grenadines
+    official: Saint Vincent and the Grenadines
+    native:
+        eng:
+            common: Saint Vincent and the Grenadines
+            official: Saint Vincent and the Grenadines
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saint Vincentian
+altspellings:
+    - Saint Vincent and the Grenadines
+    - Saint Vincent und die Grenadinen
+    - Saint-Vincent et les Grenadines
+    - San Vicente y Granadinas
+    - セントビンセントおよびグレナディーン諸島
+    - Saint Vincent en de Grenadines
+    - St. Vincent Grenadines
+    - St Vincent Grenadines
+    - VC
 tlds:
-- .vc
+    - .vc
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Saint Vincent ja Grenadiinit
-    official: Saint Vincent ja Grenadiinit
-  FRA:
-    common: Saint-Vincent-et-les-Grenadines
-    official: Saint-Vincent-et-les Grenadines
-  HRV:
-    common: Sveti Vincent i Grenadini
-    official: Sveti Vincent i Grenadini
-  ITA:
-    common: Saint Vincent e Grenadine
-    official: Saint Vincent e Grenadine
-  JPN:
-    common: セントビンセントおよびグレナディーン諸島
-    official: セントビンセントおよびグレナディーン諸島
-  NLD:
-    common: Saint Vincent en de Grenadines
-    official: Saint Vincent en de Grenadines
-  POR:
-    common: São Vincente e Granadinas
-    official: São Vicente e Granadinas
-  RUS:
-    common: Сент-Винсент и Гренадины
-    official: Сент-Винсент и Гренадины
-  SPA:
-    common: San Vicente y Granadinas
-    official: San Vicente y las Granadinas
+    ARA:
+        common: سانت فينسنت والغرينادين
+        official: سانت فينسنت والغرينادين
+    CES:
+        common: Svatý Vincenc a Grenadiny
+        official: Svatý Vincenc a Grenadiny
+    DEU:
+        common: St. Vincent und die Grenadinen
+        official: St. Vincent und die Grenadinen
+    EST:
+        common: Saint Vincent
+        official: Saint Vincent ja Grenadiinid
+    FIN:
+        common: Saint Vincent ja Grenadiinit
+        official: Saint Vincent ja Grenadiinit
+    FRA:
+        common: Saint-Vincent-et-les-Grenadines
+        official: Saint-Vincent-et-les Grenadines
+    HRV:
+        common: Sveti Vincent i Grenadini
+        official: Sveti Vincent i Grenadini
+    HUN:
+        common: Saint Vincent és a Grenadine-szigetek
+        official: Saint Vincent és a Grenadine-szigetek
+    ITA:
+        common: Saint Vincent e Grenadine
+        official: Saint Vincent e Grenadine
+    JPN:
+        common: セントビンセント・グレナディーン
+        official: セントビンセント・グレナディーン諸島
+    KOR:
+        common: 세인트빈센트 그레나딘
+        official: 세인트빈센트 그레나딘
+    NLD:
+        common: Saint Vincent en de Grenadines
+        official: Saint Vincent en de Grenadines
+    PER:
+        common: سنت وینسنت و گرنادین‌ها
+        official: سنت وینسنت و گرنادین‌ها
+    POL:
+        common: Saint Vincent i Grenadyny
+        official: Saint Vincent i Grenadyny
+    POR:
+        common: São Vincente e Granadinas
+        official: São Vicente e Granadinas
+    RUS:
+        common: Сент-Винсент и Гренадины
+        official: Сент-Винсент и Гренадины
+    SLK:
+        common: Svätý Vincent a Grenadíny
+        official: Svätý Vincent a Grenadíny
+    SPA:
+        common: San Vicente y Granadinas
+        official: San Vicente y las Granadinas
+    SRP:
+        common: Sveti Vinsent i Grenadini
+        official: Sent Vinsent i Grenadini
+    SWE:
+        common: Saint Vincent och Grenadinerna
+        official: Saint Vincent och Grenadinerna
+    TUR:
+        common: Saint Vincent ve Grenadinler
+        official: Saint Vincent ve Grenadinler
+    URD:
+        common: سینٹ وینسینٹ و گریناڈائنز
+        official: سینٹ وینسینٹ و گریناڈائنز
+    ZHO:
+        common: 圣文森特和格林纳丁斯
+        official: 圣文森特和格林纳丁斯
 currencies:
-- XCD
-borders: []
+    - XCD
 codes:
-  alpha2: VC
-  alpha3: VCT
-  cioc: VIN
-  ccn3: "670"
-  callingcodes:
-  - "1784"
-  internationalprefix: "011"
+    alpha2: VC
+    alpha3: VCT
+    cioc: VIN
+    ccn3: "670"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Kingstown
-  area: 389
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Kingstown
+    area: 389
 coordinates:
-  longitudestring: 61 12 W
-  latitudestring: 13 15 N
-  minlongitude: -61.433334
-  minlatitude: 12.533333
-  maxlongitude: -61.11667
-  maxlatitude: 13.366667
-  latitude: 13.217252
-  longitude: -61.193447
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.4822
+    minlatitude: 12.5294999
+    maxlongitude: -61.0846
+    maxlatitude: 13.4136657
+    latitude: 12.984305
+    longitude: -61.287228

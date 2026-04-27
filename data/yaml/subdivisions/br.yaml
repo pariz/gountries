@@ -1,6 +1,48 @@
+- name: Acre
+  names:
+    - Acre
+  code: AC
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.9915154
+    minlatitude: -11.1452221
+    maxlongitude: -66.62407089999999
+    maxlatitude: -7.111826799999999
+    latitude: -9.0237964
+    longitude: -70.81199529999999
+- name: Alagoas
+  names:
+    - Alagoas
+  code: AL
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -38.2273267
+    minlatitude: -10.5037567
+    maxlongitude: -35.1522142
+    maxlatitude: -8.8131293
+    latitude: -9.5713058
+    longitude: -36.7819505
+- name: Amazonas
+  names:
+    - Amazonas
+  code: AM
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.8015533
+    minlatitude: -9.8180491
+    maxlongitude: -56.0975519
+    maxlatitude: 2.246628
+    latitude: -3.4168427
+    longitude: -65.8560646
 - name: Amapá
   names:
-  - Amapá
+    - Amapá
   code: AP
   countryalpha2: BR
   coordinates:
@@ -11,368 +53,326 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: 2.0447397
-    longitude: -50.787422
-- name: Ceará
-  names:
-  - Ceará
-  code: CE
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -41.42351
-    minlatitude: -7.8581853
-    maxlongitude: -37.25302
-    maxlatitude: -2.784433
-    latitude: -5.498398
-    longitude: -39.320625
-- name: Goiás
-  names:
-  - Goiás
-  code: GO
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -50.160652
-    minlatitude: -15.95234
-    maxlongitude: -50.12513
-    maxlatitude: -15.922462
-    latitude: -15.93397
-    longitude: -50.140385
-- name: Mato Grosso
-  names:
-  - Mato Grosso
-  code: MT
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.633194
-    minlatitude: -18.042051
-    maxlongitude: -50.2248
-    maxlatitude: -7.349037
-    latitude: -12.681871
-    longitude: -56.9211
-- name: São Paulo
-  names:
-  - São Paulo
-  code: SP
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -46.825516
-    minlatitude: -24.00822
-    maxlongitude: -46.365086
-    maxlatitude: -23.356604
-    latitude: -23.55052
-    longitude: -46.63331
-- name: Pará
-  names:
-  - Pará
-  code: PA
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.898277
-    minlatitude: -9.841157
-    maxlongitude: -46.06432
-    maxlatitude: 2.5910246
-    latitude: -1.9981271
-    longitude: -54.930614
-- name: Rio de Janeiro
-  names:
-  - Rio de Janeiro
-  code: RJ
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -43.79506
-    minlatitude: -23.076347
-    maxlongitude: -43.101837
-    maxlatitude: -22.746199
-    latitude: -22.906847
-    longitude: -43.172897
-- name: Rio Grande do Norte
-  names:
-  - Rio Grande do Norte
-  code: RN
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -38.582104
-    minlatitude: -6.982737
-    maxlongitude: -34.968754
-    maxlatitude: -4.831796
-    latitude: -5.4025803
-    longitude: -36.954105
-- name: Rio Grande do Sul
-  names:
-  - Rio Grande do Sul
-  code: RS
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.649284
-    minlatitude: -33.752083
-    maxlongitude: -49.691635
-    maxlatitude: -27.080599
-    latitude: -30.034632
-    longitude: -51.217697
-- name: Tocantins
-  names:
-  - Tocantins
-  code: TO
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -50.742058
-    minlatitude: -13.467715
-    maxlongitude: -45.69608
-    maxlatitude: -5.1683826
-    latitude: -10.17528
-    longitude: -48.29825
-- name: Distrito Federal
-  names:
-  - Distrito Federal
-  code: DF
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -48.287094
-    minlatitude: -16.051762
-    maxlongitude: -47.308193
-    maxlatitude: -15.500172
-    latitude: -15.826691
-    longitude: -47.92182
-- name: Minas Gerais
-  names:
-  - Minas Gerais
-  code: MG
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -51.046074
-    minlatitude: -22.922758
-    maxlongitude: -39.856827
-    maxlatitude: -14.233183
-    latitude: -18.512178
-    longitude: -44.55503
-- name: Mato Grosso do Sul
-  names:
-  - Mato Grosso do Sul
-  code: MS
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.167057
-    minlatitude: -24.056118
-    maxlongitude: -50.9229
-    maxlatitude: -17.166634
-    latitude: -20.77223
-    longitude: -54.785152
-- name: Alagoas
-  names:
-  - Alagoas
-  code: AL
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -38.227325
-    minlatitude: -10.5037565
-    maxlongitude: -35.152214
-    maxlatitude: -8.813129
-    latitude: -9.571306
-    longitude: -36.78195
-- name: Santa Catarina
-  names:
-  - Santa Catarina
-  code: SC
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -53.836357
-    minlatitude: -29.35144
-    maxlongitude: -48.356808
-    maxlatitude: -25.95596
-    latitude: -27.24234
-    longitude: -50.218857
-- name: Paraíba
-  names:
-  - Paraíba
-  code: PB
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -38.765606
-    minlatitude: -8.302958
-    maxlongitude: -34.793144
-    maxlatitude: -6.025914
-    latitude: -7.2399607
-    longitude: -36.78195
-- name: Rondônia
-  names:
-  - Rondônia
-  code: RO
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.81025
-    minlatitude: -13.693704
-    maxlongitude: -59.774345
-    maxlatitude: -7.9692974
-    latitude: -11.505734
-    longitude: -63.580612
-- name: Maranhão
-  names:
-  - Maranhão
-  code: MA
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -48.755146
-    minlatitude: -10.261767
-    maxlongitude: -41.79588
-    maxlatitude: -1.049999
-    latitude: -4.96095
-    longitude: -45.274414
-- name: Pernambuco
-  names:
-  - Pernambuco
-  code: PE
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -41.35833
-    minlatitude: -9.482901
-    maxlongitude: -32.391857
-    maxlatitude: -3.8305016
-    latitude: -8.813717
-    longitude: -36.954105
-- name: Piauí
-  names:
-  - Piauí
-  code: PI
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -45.99429
-    minlatitude: -10.92876
-    maxlongitude: -40.370506
-    maxlatitude: -2.7473161
-    latitude: -7.71834
-    longitude: -42.728924
-- name: Paraná
-  names:
-  - Paraná
-  code: PR
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -54.619297
-    minlatitude: -26.717299
-    maxlongitude: -48.02353
-    maxlatitude: -22.516665
-    latitude: -25.252089
-    longitude: -52.02154
-- name: Sergipe
-  names:
-  - Sergipe
-  code: SE
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -38.245647
-    minlatitude: -11.568529
-    maxlongitude: -36.399868
-    maxlatitude: -9.515029
-    latitude: -10.574094
-    longitude: -37.38566
-- name: Acre
-  names:
-  - Acre
-  code: AC
-  countryalpha2: BR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.991516
-    minlatitude: -11.145222
-    maxlongitude: -66.62407
-    maxlatitude: -7.111827
-    latitude: -9.023796
-    longitude: -70.812
+    longitude: -50.78742219999999
 - name: Bahia
   names:
-  - Bahia
+    - Bahia
   code: BA
   countryalpha2: BR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -46.617092
-    minlatitude: -18.335917
-    maxlongitude: -37.34841
-    maxlatitude: -8.532823
+    minlongitude: -46.6170906
+    minlatitude: -18.3359162
+    maxlongitude: -37.3484113
+    maxlatitude: -8.5328229
     latitude: -12.579738
-    longitude: -41.700726
+    longitude: -41.7007272
+- name: Ceará
+  names:
+    - Ceará
+  code: CE
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -41.4235126
+    minlatitude: -7.858185100000001
+    maxlongitude: -37.2530223
+    maxlatitude: -2.7844329
+    latitude: -5.4983977
+    longitude: -39.3206241
+- name: Distrito Federal
+  names:
+    - Distrito Federal
+  code: DF
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -48.2870947
+    minlatitude: -16.0517624
+    maxlongitude: -47.3081926
+    maxlatitude: -15.5001712
+    latitude: -15.826691
+    longitude: -47.92182039999999
 - name: Espírito Santo
   names:
-  - Espírito Santo
+    - Espírito Santo
   code: ES
   countryalpha2: BR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -41.87979
-    minlatitude: -21.301785
-    maxlongitude: -28.835938
+    minlongitude: -41.8797894
+    minlatitude: -21.3017845
+    maxlongitude: -28.8359374
     maxlatitude: -17.891947
-    latitude: -19.183422
-    longitude: -40.30886
+    latitude: -19.1834229
+    longitude: -40.3088626
+- name: Goiás
+  names:
+    - Goiás
+  code: GO
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -50.1606536
+    minlatitude: -15.9523406
+    maxlongitude: -50.1251296
+    maxlatitude: -15.9224628
+    latitude: -15.93397
+    longitude: -50.1403832
+- name: Maranhão
+  names:
+    - Maranhão
+  code: MA
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -48.7551446
+    minlatitude: -10.2617676
+    maxlongitude: -41.7958785
+    maxlatitude: -1.049999
+    latitude: -4.9609498
+    longitude: -45.2744159
+- name: Minas Gerais
+  names:
+    - Minas Gerais
+  code: MG
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -51.0460748
+    minlatitude: -22.9227576
+    maxlongitude: -39.8568263
+    maxlatitude: -14.233183
+    latitude: -18.512178
+    longitude: -44.5550308
+- name: Mato Grosso do Sul
+  names:
+    - Mato Grosso do Sul
+  code: MS
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.16705729999999
+    minlatitude: -24.0561184
+    maxlongitude: -50.9229023
+    maxlatitude: -17.1666336
+    latitude: -20.7722295
+    longitude: -54.7851531
+- name: Mato Grosso
+  names:
+    - Mato Grosso
+  code: MT
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.63319459999999
+    minlatitude: -18.0420517
+    maxlongitude: -50.2247999
+    maxlatitude: -7.349037199999999
+    latitude: -12.6818712
+    longitude: -56.921099
+- name: Pará
+  names:
+    - Pará
+  code: PA
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.89827700000001
+    minlatitude: -9.8411565
+    maxlongitude: -46.0643195
+    maxlatitude: 2.5910246
+    latitude: -1.9981271
+    longitude: -54.9306152
+- name: Paraíba
+  names:
+    - Paraíba
+  code: PB
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -38.7656069
+    minlatitude: -8.3029572
+    maxlongitude: -34.7931433
+    maxlatitude: -6.0259143
+    latitude: -7.239960900000001
+    longitude: -36.7819505
+- name: Pernambuco
+  names:
+    - Pernambuco
+  code: PE
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -41.3583307
+    minlatitude: -9.482900599999999
+    maxlongitude: -32.3918587
+    maxlatitude: -3.830501599999999
+    latitude: -8.8137173
+    longitude: -36.954107
+- name: Piauí
+  names:
+    - Piauí
+  code: PI
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -45.9942887
+    minlatitude: -10.9287593
+    maxlongitude: -40.3705066
+    maxlatitude: -2.7473161
+    latitude: -7.718340100000001
+    longitude: -42.72892359999999
+- name: Paraná
+  names:
+    - Paraná
+  code: PR
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -54.6192979
+    minlatitude: -26.7172983
+    maxlongitude: -48.0235303
+    maxlatitude: -22.5166644
+    latitude: -25.2520888
+    longitude: -52.0215415
+- name: Rio de Janeiro
+  names:
+    - Rio de Janeiro
+  code: RJ
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -43.7950599
+    minlatitude: -23.0763469
+    maxlongitude: -43.1018358
+    maxlatitude: -22.7461987
+    latitude: -22.9068467
+    longitude: -43.1728965
+- name: Rio Grande do Norte
+  names:
+    - Rio Grande do Norte
+  code: RN
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -38.5821039
+    minlatitude: -6.9827372
+    maxlongitude: -34.9687549
+    maxlatitude: -4.8317963
+    latitude: -5.402580299999999
+    longitude: -36.954107
+- name: Rondônia
+  names:
+    - Rondônia
+  code: RO
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.8102456
+    minlatitude: -13.6937038
+    maxlongitude: -59.77434709999999
+    maxlatitude: -7.9692976
+    latitude: -11.5057341
+    longitude: -63.580611
 - name: Roraima
   names:
-  - Roraima
+    - Roraima
   code: RR
   countryalpha2: BR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -64.82524
+    minlongitude: -64.8252444
     minlatitude: -1.5806358
-    maxlongitude: -58.88688
-    maxlatitude: 5.2718387
-    latitude: 2.737597
-    longitude: -62.0751
-- name: Amazonas
+    maxlongitude: -58.88687820000001
+    maxlatitude: 5.2718389
+    latitude: 2.7375971
+    longitude: -62.0750998
+- name: Rio Grande do Sul
   names:
-  - Amazonas
-  code: AM
+    - Rio Grande do Sul
+  code: RS
   countryalpha2: BR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -73.80155
-    minlatitude: -9.818049
-    maxlongitude: -56.097553
-    maxlatitude: 2.246628
-    latitude: -3.4168427
-    longitude: -65.856064
+    minlongitude: -57.64928399999999
+    minlatitude: -33.752084
+    maxlongitude: -49.6916345
+    maxlatitude: -27.0805987
+    latitude: -30.0346316
+    longitude: -51.2176986
+- name: Santa Catarina
+  names:
+    - Santa Catarina
+  code: SC
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -53.83635870000001
+    minlatitude: -29.351441
+    maxlongitude: -48.35680809999999
+    maxlatitude: -25.9559588
+    latitude: -27.2423392
+    longitude: -50.2188556
+- name: Sergipe
+  names:
+    - Sergipe
+  code: SE
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -38.2456472
+    minlatitude: -11.5685288
+    maxlongitude: -36.3998681
+    maxlatitude: -9.5150294
+    latitude: -10.5740934
+    longitude: -37.3856581
+- name: São Paulo
+  names:
+    - São Paulo
+  code: SP
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -46.825514
+    minlatitude: -24.0082209
+    maxlongitude: -46.3650844
+    maxlatitude: -23.3566039
+    latitude: -23.5505199
+    longitude: -46.63330939999999
+- name: Tocantins
+  names:
+    - Tocantins
+  code: TO
+  countryalpha2: BR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -50.74205809999999
+    minlatitude: -13.4677157
+    maxlongitude: -45.6960778
+    maxlatitude: -5.1683828
+    latitude: -10.17528
+    longitude: -48.2982474

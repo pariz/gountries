@@ -1,174 +1,357 @@
+- name: Arusha
+  names:
+    - Arusha
+  code: "01"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.6108228
+    minlatitude: -3.4624464
+    maxlongitude: 36.7436028
+    maxlatitude: -3.3338411
+    latitude: -3.372301
+    longitude: 36.6944136
+- name: Dar es Salaam
+  names:
+    - Daressalam
+  code: "02"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.0268707
+    minlatitude: -6.950965
+    maxlongitude: 39.4815816
+    maxlatitude: -6.5891538
+    latitude: -6.8
+    longitude: 39.283333
 - name: Dodoma
   names:
-  - Dodoma
+    - Dodoma
   code: "03"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 35.694416
-    minlatitude: -6.216305
-    maxlongitude: 35.823364
-    maxlatitude: -6.120853
+    minlongitude: 35.6944152
+    minlatitude: -6.2163048
+    maxlongitude: 35.8233639
+    maxlatitude: -6.120853100000001
     latitude: -6.173056
-    longitude: 35.741943
-- name: Mbeya
+    longitude: 35.741944
+- name: Iringa
   names:
-  - Mbeya
-  code: "14"
+    - Iringa
+  code: "04"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 33.36018
-    minlatitude: -8.959203
-    maxlongitude: 33.554554
-    maxlatitude: -8.852655
-    latitude: -8.9
-    longitude: 33.45
-- name: Rukwa
+    minlongitude: 35.6575782
+    minlatitude: -7.815317299999999
+    maxlongitude: 35.7300982
+    maxlatitude: -7.723390999999999
+    latitude: -7.77
+    longitude: 35.69
+- name: Kagera
   names:
-  - Rukwa
-  code: "20"
+    - Akagera
+    - Ziwa Magharibi
+  code: "05"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 29.95819
-    minlatitude: -9.076138
-    maxlongitude: 32.74451
-    maxlatitude: -5.182548
-    latitude: -6.9653683
-    longitude: 31.262636
-- name: Lindi
-  names:
-  - Lindi
-  code: "12"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 39.692337
-    minlatitude: -10.02485
-    maxlongitude: 39.719204
-    maxlatitude: -9.962489
-    latitude: -9.996944
-    longitude: 39.714443
-- name: Mara
-  names:
-  - Mara
-  code: "13"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.795403
-    minlatitude: -2.528427
-    maxlongitude: 35.32159
-    maxlatitude: -1.0252941
-    latitude: -1.7753538
-    longitude: 34.153194
-- name: Mwanza
-  names:
-  - Mwanza
-  code: "18"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.87443
-    minlatitude: -2.5725183
-    maxlongitude: 32.998283
-    maxlatitude: -2.4342968
-    latitude: -2.516667
-    longitude: 32.9
-- name: Ruvuma
-  names:
-  - Ruvuma
-  code: "21"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.568245
-    minlatitude: -11.745696
-    maxlongitude: 38.07109
-    maxlatitude: -9.186448
-    latitude: -10.687872
-    longitude: 36.263084
-- name: Singida
-  names:
-  - Singida
-  code: "23"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.706627
-    minlatitude: -4.8474174
-    maxlongitude: 34.779495
-    maxlatitude: -4.7774124
-    latitude: -4.82
-    longitude: 34.74
+    minlongitude: 30.4033911
+    minlatitude: -3.3440899
+    maxlongitude: 32.6189474
+    maxlatitude: -0.990736
+    latitude: -2.3751124
+    longitude: 31.2626366
 - name: Kaskazini Pemba
   names:
-  - Kaskazini Pemba
+    - Kaskazini Pemba
   code: "06"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 39.615208
-    minlatitude: -5.2071643
+    minlongitude: 39.6152071
+    minlatitude: -5.2071645
     maxlongitude: 39.875565
-    maxlatitude: -4.8667474
-    latitude: -5.031935
-    longitude: 39.77556
+    maxlatitude: -4.8667473
+    latitude: -5.031935199999999
+    longitude: 39.7755571
 - name: Kaskazini Unguja
   names:
-  - Unguja
+    - Unguja
   code: "07"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 39.186363
-    minlatitude: -6.083643
+    minlatitude: -6.083642999999999
     maxlongitude: 39.409218
     maxlatitude: -5.721938
-    latitude: -5.9395094
-    longitude: 39.279102
+    latitude: -5.9395093
+    longitude: 39.2791011
+- name: Kigoma
+  names:
+    - Kigoma
+  code: "08"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.5995595
+    minlatitude: -4.9241075
+    maxlongitude: 29.7011989
+    maxlatitude: -4.8398476
+    latitude: -4.883332999999999
+    longitude: 29.633333
+- name: Kilimanjaro
+  names:
+    - Kilimanjaro
+  code: "09"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 36.97385
+    minlatitude: -4.623959999999999
+    maxlongitude: 38.471599
+    maxlatitude: -2.8484581
+    latitude: -4.1336927
+    longitude: 37.8087693
 - name: Kusini Pemba
   names:
-  - Kusini Pemba
+    - Kusini Pemba
   code: "10"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 39.5806
+    minlongitude: 39.580599
     minlatitude: -5.476286
-    maxlongitude: 39.853
-    maxlatitude: -5.178469
-    latitude: -5.3146963
-    longitude: 39.75495
+    maxlongitude: 39.8530017
+    maxlatitude: -5.1784691
+    latitude: -5.3146961
+    longitude: 39.7549511
+- name: Kusini Unguja
+  names:
+    - Kusini Unguja
+  code: "11"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.26983999999999
+    minlatitude: -6.476134999999999
+    maxlongitude: 39.579086
+    maxlatitude: -6.0552399
+    latitude: -6.2036563
+    longitude: 39.3621196
+- name: Lindi
+  names:
+    - Lindi
+  code: "12"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.6923375
+    minlatitude: -10.0248502
+    maxlongitude: 39.7192051
+    maxlatitude: -9.9624893
+    latitude: -9.996944
+    longitude: 39.714444
+- name: Mara
+  names:
+    - Mara
+  code: "13"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.7954015
+    minlatitude: -2.528427
+    maxlongitude: 35.32159
+    maxlatitude: -1.0252941
+    latitude: -1.7753538
+    longitude: 34.1531947
+- name: Mbeya
+  names:
+    - Mbeya
+  code: "14"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.3601812
+    minlatitude: -8.9592026
+    maxlongitude: 33.5545536
+    maxlatitude: -8.8526556
+    latitude: -8.9
+    longitude: 33.45
+- name: Mjini Magharibi
+  names:
+    - Mjini Magharibi
+  code: "15"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.1856115
+    minlatitude: -6.3821774
+    maxlongitude: 39.2991794
+    maxlatitude: -6.076521199999999
+    latitude: -6.229813600000001
+    longitude: 39.2583293
+- name: Morogoro
+  names:
+    - Morogoro
+  code: "16"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.623539
+    minlatitude: -6.8526342
+    maxlongitude: 37.69769670000001
+    maxlatitude: -6.792040699999999
+    latitude: -6.816667000000001
+    longitude: 37.666667
+- name: Mtwara
+  names:
+    - Mtware
+  code: "17"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 40.1423263
+    minlatitude: -10.382298
+    maxlongitude: 40.212965
+    maxlatitude: -10.2536284
+    latitude: -10.273611
+    longitude: 40.182778
+- name: Mwanza
+  names:
+    - Mwanza
+  code: "18"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.8744311
+    minlatitude: -2.5725184
+    maxlongitude: 32.9982823
+    maxlatitude: -2.4342968
+    latitude: -2.516667
+    longitude: 32.9
+- name: Pwani
+  names:
+    - Coast
+  code: "19"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.8144299
+    minlatitude: -8.4510141
+    maxlongitude: 39.910326
+    maxlatitude: -5.828001
+    latitude: -7.323771400000001
+    longitude: 38.8205454
+- name: Rukwa
+  names:
+    - Rukwa
+  code: "20"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 29.95819109999999
+    minlatitude: -9.076138
+    maxlongitude: 32.7445109
+    maxlatitude: -5.182548100000001
+    latitude: -6.965368499999999
+    longitude: 31.2626366
+- name: Ruvuma
+  names:
+    - Ruvuma
+  code: "21"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.5682455
+    minlatitude: -11.745696
+    maxlongitude: 38.071091
+    maxlatitude: -9.1864479
+    latitude: -10.6878717
+    longitude: 36.2630846
+- name: Shinyanga
+  names:
+    - Shinyanga
+  code: "22"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.3919132
+    minlatitude: -3.6935938
+    maxlongitude: 33.4494835
+    maxlatitude: -3.650936499999999
+    latitude: -3.661944
+    longitude: 33.423056
+- name: Singida
+  names:
+    - Singida
+  code: "23"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.706626
+    minlatitude: -4.8474173
+    maxlongitude: 34.7794962
+    maxlatitude: -4.777412600000001
+    latitude: -4.819999999999999
+    longitude: 34.73999999999999
 - name: Tabora
   names:
-  - Tabora
+    - Tabora
   code: "24"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 32.7742
-    minlatitude: -5.089766
-    maxlongitude: 32.853264
-    maxlatitude: -4.986016
+    minlongitude: 32.7742009
+    minlatitude: -5.0897659
+    maxlongitude: 32.8532632
+    maxlatitude: -4.9860158
     latitude: -5.016667
     longitude: 32.8
+- name: Tanga
+  names:
+    - Tanga
+  code: "25"
+  countryalpha2: TZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.0567078
+    minlatitude: -5.1261043
+    maxlongitude: 39.1312501
+    maxlatitude: -5.0548382
+    latitude: -5.0888751
+    longitude: 39.1023228
 - name: Manyara
   names:
-  - Manyara
+    - Manyara
   code: "26"
   countryalpha2: TZ
   coordinates:
@@ -176,190 +359,67 @@
     latitudestring: ""
     minlongitude: 34.78854
     minlatitude: -5.980841
-    maxlongitude: 38.0391
+    maxlongitude: 38.0391009
     maxlatitude: -3.391186
-    latitude: -4.315006
-    longitude: 36.954105
-- name: Kusini Unguja
-  names:
-  - Kusini Unguja
-  code: "11"
+    latitude: -4.3150058
+    longitude: 36.954107
+- name: Mkoa wa Geita
+  code: "27"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 39.26984
-    minlatitude: -6.476135
-    maxlongitude: 39.579086
-    maxlatitude: -6.0552397
-    latitude: -6.203656
-    longitude: 39.362118
-- name: Mjini Magharibi
-  names:
-  - Mjini Magharibi
-  code: "15"
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mkoa wa Katavi
+  code: "28"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 39.18561
-    minlatitude: -6.3821774
-    maxlongitude: 39.29918
-    maxlatitude: -6.0765214
-    latitude: -6.2298136
-    longitude: 39.258327
-- name: Mtwara
-  names:
-  - Mtware
-  code: "17"
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mkoa wa Njombe
+  code: "29"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 40.142326
-    minlatitude: -10.382298
-    maxlongitude: 40.212963
-    maxlatitude: -10.253629
-    latitude: -10.273611
-    longitude: 40.182777
-- name: Pwani
-  names:
-  - Coast
-  code: "19"
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mkoa wa Simiyu
+  code: "30"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 37.81443
-    minlatitude: -8.4510145
-    maxlongitude: 39.910324
-    maxlatitude: -5.828001
-    latitude: -7.3237715
-    longitude: 38.820545
-- name: Tanga
-  names:
-  - Tanga
-  code: "25"
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Songwe
+  code: "31"
   countryalpha2: TZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 39.05671
-    minlatitude: -5.1261044
-    maxlongitude: 39.13125
-    maxlatitude: -5.054838
-    latitude: -5.0888753
-    longitude: 39.10232
-- name: Arusha
-  names:
-  - Arusha
-  code: "01"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 36.610825
-    minlatitude: -3.4624465
-    maxlongitude: 36.743603
-    maxlatitude: -3.333841
-    latitude: -3.372301
-    longitude: 36.694412
-- name: Kagera
-  names:
-  - Akagera
-  - Ziwa Magharibi
-  code: "05"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.40339
-    minlatitude: -3.34409
-    maxlongitude: 32.618946
-    maxlatitude: -0.990736
-    latitude: -2.3751123
-    longitude: 31.262636
-- name: Kigoma
-  names:
-  - Kigoma
-  code: "08"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 29.59956
-    minlatitude: -4.9241076
-    maxlongitude: 29.701199
-    maxlatitude: -4.8398476
-    latitude: -4.883333
-    longitude: 29.633333
-- name: Morogoro
-  names:
-  - Morogoro
-  code: "16"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 37.62354
-    minlatitude: -6.8526344
-    maxlongitude: 37.697697
-    maxlatitude: -6.792041
-    latitude: -6.816667
-    longitude: 37.666668
-- name: Shinyanga
-  names:
-  - Shinyanga
-  code: "22"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.391914
-    minlatitude: -3.6935937
-    maxlongitude: 33.449482
-    maxlatitude: -3.6509366
-    latitude: -3.661944
-    longitude: 33.423058
-- name: Dar es Salaam
-  names:
-  - Daressalam
-  code: "02"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 39.02687
-    minlatitude: -6.950965
-    maxlongitude: 39.481583
-    maxlatitude: -6.589154
-    latitude: -6.8
-    longitude: 39.283333
-- name: Iringa
-  names:
-  - Iringa
-  code: "04"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.657578
-    minlatitude: -7.815317
-    maxlongitude: 35.7301
-    maxlatitude: -7.723391
-    latitude: -7.77
-    longitude: 35.69
-- name: Kilimanjaro
-  names:
-  - Kilimanjaro
-  code: "09"
-  countryalpha2: TZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 36.97385
-    minlatitude: -4.62396
-    maxlongitude: 38.4716
-    maxlatitude: -2.848458
-    latitude: -4.1336927
-    longitude: 37.80877
+    minlongitude: 29.34
+    minlatitude: -11.7612539
+    maxlongitude: 40.6398
+    maxlatitude: -0.9843968000000001
+    latitude: -6.369028
+    longitude: 34.888822

@@ -1,65 +1,114 @@
 name:
-  common: British Indian Ocean Territory
-  official: British Indian Ocean Territory
-  native:
-    eng:
-      common: British Indian Ocean Territory
-      official: British Indian Ocean Territory
+    common: British Indian Ocean Territory
+    official: The British Indian Ocean Territory
+    native:
+        eng:
+            common: British Indian Ocean Territory
+            official: British Indian Ocean Territory
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Indian
+altspellings:
+    - British Indian Ocean Territory
+    - Britisches Territorium im Indischen Ozean
+    - イギリス領インド洋地域
+    - Britse Gebieden in de Indische Oceaan
+    - IO
 tlds:
-- .io
+    - .io
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  CYM:
-    common: Tiriogaeth Brydeinig Cefnfor India
-    official: British Indian Ocean Territory
-  DEU:
-    common: Britisches Territorium im Indischen Ozean
-    official: Britisch-Indischer Ozean
-  FIN:
-    common: Brittiläinen Intian valtameren alue
-    official: Brittiläinen Intian valtameren alue
-  HRV:
-    common: Britanski Indijskooceanski teritorij
-    official: British Indian Ocean Territory
-  ITA:
-    common: Territorio britannico dell'oceano indiano
-    official: Territorio britannico dell'Oceano Indiano
-  JPN:
-    common: イギリス領インド洋地域
-    official: イギリス領インド洋地域
-  POR:
-    common: Território Britânico do Oceano Índico
-    official: British Indian Ocean Territory
-  RUS:
-    common: Британская территория в Индийском океане
-    official: Британская территория Индийского океана
+    ARA:
+        common: إقليم المحيط الهندي البريطاني
+        official: إقليم المحيط الهندي البريطاني
+    CES:
+        common: Britské indickooceánské území
+        official: Britské indickooceánské území
+    DEU:
+        common: Britisches Territorium im Indischen Ozean
+        official: Britisches Territorium im Indischen Ozean
+    EST:
+        common: Briti India ookeani ala
+        official: Briti India ookeani ala
+    FIN:
+        common: Brittiläinen Intian valtameren alue
+        official: Brittiläinen Intian valtameren alue
+    FRA:
+        common: Territoire britannique de l'océan Indien
+        official: Territoire britannique de l' océan Indien
+    HRV:
+        common: Britanski Indijskooceanski teritorij
+        official: British Indian Ocean Territory
+    HUN:
+        common: Brit Indiai-óceáni Terület
+        official: Brit Indiai-óceáni Terület
+    ITA:
+        common: Territorio britannico dell'oceano indiano
+        official: Territorio britannico dell'Oceano Indiano
+    JPN:
+        common: イギリス領インド洋地域
+        official: 英領インド洋地域
+    KOR:
+        common: 인도
+        official: 인도 공화국
+    NLD:
+        common: Britse Gebieden in de Indische Oceaan
+        official: Brits Indische Oceaan Territorium
+    PER:
+        common: قلمرو بریتانیا در اقیانوس هند
+        official: قلمرو بریتانیا در اقیانوس هند
+    POL:
+        common: Brytyjskie Terytorium Oceanu Indyjskiego
+        official: Brytyjskie Terytorium Oceanu Indyjskiego
+    POR:
+        common: Território Britânico do Oceano Índico
+        official: British Indian Ocean Territory
+    RUS:
+        common: Британская территория в Индийском океане
+        official: Британская территория Индийского океана
+    SLK:
+        common: Britské indickooceánske územie
+        official: Britské indickooceánske územie
+    SPA:
+        common: Territorio Británico del Océano Índico
+        official: Territorio Británico del Océano Índico
+    SRP:
+        common: Britanska Teritorija Indijskog Okeana
+        official: Britanska Teritorija Indijskog Okeana
+    SWE:
+        common: Brittiska territoriet i Indiska Oceanen
+        official: Brittiska territoriet i Indiska Oceanen
+    TUR:
+        common: Britanya Hint Okyanusu Toprakları
+        official: Britanya Hint Okyanusu Toprakları
+    URD:
+        common: برطانوی بحرہند خطہ
+        official: برطانوی بحرہند خطہ
+    ZHO:
+        common: 英属印度洋领地
+        official: 英属印度洋领地
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: IO
-  alpha3: IOT
-  cioc: ""
-  ccn3: "086"
-  callingcodes:
-  - "246"
-  internationalprefix: ""
+    alpha2: IO
+    alpha3: IOT
+    ccn3: "086"
+    callingcodes:
+        - "246"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Asia
-  capital: Diego Garcia
-  area: 60
+    region: Africa
+    subregion: Eastern Africa
+    continent: Asia
+    capital: Diego Garcia
+    area: 60
 coordinates:
-  longitudestring: 71 30 E
-  latitudestring: 6 00 S
-  minlongitude: 71.26528
-  minlatitude: -7.35
-  maxlongitude: 72.48333
-  maxlatitude: -5.233333
-  latitude: -6.19627
-  longitude: 71.34793
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 71.1859131
+    minlatitude: -7.4891118
+    maxlongitude: 72.5880433
+    maxlatitude: -5.1401857
+    latitude: -6.343194
+    longitude: 71.876519

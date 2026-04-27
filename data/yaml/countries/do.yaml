@@ -1,68 +1,120 @@
 name:
-  common: Dominican Republic
-  official: Dominican Republic
-  native:
-    spa:
-      common: República Dominicana
-      official: República Dominicana
+    common: Dominican Republic
+    official: The Dominican Republic
+    native:
+        spa:
+            common: República Dominicana
+            official: República Dominicana
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Dominican
+altspellings:
+    - Dominican Republic
+    - Dominikanische Republik
+    - République Dominicaine
+    - República Dominicana
+    - ドミニカ共和国
+    - Dominicaanse Republiek
+    - DO
 tlds:
-- .do
+    - .do
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  CYM:
-    common: Gweriniaeth_Dominica
-    official: Dominican Republic
-  FIN:
-    common: Dominikaaninen tasavalta
-    official: Dominikaaninen tasavalta
-  FRA:
-    common: République dominicaine
-    official: République Dominicaine
-  ITA:
-    common: Repubblica Dominicana
-    official: Repubblica Dominicana
-  JPN:
-    common: ドミニカ共和国
-    official: ドミニカ共和国
-  POR:
-    common: República Dominicana
-    official: República Dominicana
-  RUS:
-    common: Доминиканская Республика
-    official: Доминиканская Республика
-  SPA:
-    common: República Dominicana
-    official: República Dominicana
+    ARA:
+        common: جمهورية الدومينيكان
+        official: جمهورية الدومينيكان
+    CES:
+        common: Dominikánská republika
+        official: Dominikánská republika
+    DEU:
+        common: Dominikanische Republik
+        official: Dominikanische Republik
+    EST:
+        common: Dominikaani Vabariik
+        official: Dominikaani Vabariik
+    FIN:
+        common: Dominikaaninen tasavalta
+        official: Dominikaaninen tasavalta
+    FRA:
+        common: République dominicaine
+        official: République Dominicaine
+    HRV:
+        common: Dominikanska Republika
+        official: Dominikanska Republika
+    HUN:
+        common: Dominikai Köztársaság
+        official: Dominikai Köztársaság
+    ITA:
+        common: Repubblica Dominicana
+        official: Repubblica Dominicana
+    JPN:
+        common: ドミニカ共和国
+        official: ドミニカ共和国
+    KOR:
+        common: 도미니카 공화국
+        official: 도미니카 공화국
+    NLD:
+        common: Dominicaanse Republiek
+        official: Dominicaanse Republiek
+    PER:
+        common: جمهوری دومینیکن
+        official: جمهوری دومینیکن
+    POL:
+        common: Dominikana
+        official: Republika Dominikańska
+    POR:
+        common: República Dominicana
+        official: República Dominicana
+    RUS:
+        common: Доминиканская Республика
+        official: Доминиканская Республика
+    SLK:
+        common: Dominikánska republika
+        official: Dominikánska republika
+    SPA:
+        common: República Dominicana
+        official: República Dominicana
+    SRP:
+        common: Dominikanska Republika
+        official: Dominikanska Republika
+    SWE:
+        common: Dominikanska republiken
+        official: Dominikanska republiken
+    TUR:
+        common: Dominik Cumhuriyeti
+        official: Dominik Cumhuriyeti
+    URD:
+        common: ڈومینیکن
+        official: جمہوریہ ڈومینیکن
+    ZHO:
+        common: 多明尼加
+        official: 多明尼加共和国
 currencies:
-- DOP
+    - DOP
 borders:
-- HTI
+    - HTI
 codes:
-  alpha2: DO
-  alpha3: DOM
-  cioc: DOM
-  ccn3: "214"
-  callingcodes:
-  - "1809"
-  - "1829"
-  - "1849"
-  internationalprefix: "011"
+    alpha2: DO
+    alpha3: DOM
+    cioc: DOM
+    ccn3: "214"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Santo Domingo
-  area: 48671
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Santo Domingo
+    area: 48671
 coordinates:
-  longitudestring: 70 40 W
-  latitudestring: 19 00 N
-  minlongitude: -71.96667
-  minlatitude: 17.473057
-  maxlongitude: -68.316666
-  maxlatitude: 19.933332
-  latitude: 19.019825
-  longitude: -70.792854
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.0075099
+    minlatitude: 17.3611001
+    maxlongitude: -68.25260010000001
+    maxlatitude: 19.9786989
+    latitude: 18.735693
+    longitude: -70.162651

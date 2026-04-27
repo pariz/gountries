@@ -1,98 +1,98 @@
 - name: Alajuela
   names:
-  - Alajuela
+    - Alajuela
   code: A
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -85.43864
-    minlatitude: 9.821506
-    maxlongitude: -84.14951
-    maxlatitude: 11.079316
+    minlongitude: -85.43863999999999
+    minlatitude: 9.8215051
+    maxlongitude: -84.149513
+    maxlatitude: 11.0793161
     latitude: 10.391583
-    longitude: -84.43827
+    longitude: -84.4382721
 - name: Cartago
   names:
-  - Cartago
+    - Cartago
   code: C
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -84.071106
-    minlatitude: 9.505219
-    maxlongitude: -83.30181
-    maxlatitude: 10.142997
-    latitude: 9.75396
-    longitude: -83.67739
+    minlongitude: -84.0711091
+    minlatitude: 9.505219100000001
+    maxlongitude: -83.301808
+    maxlatitude: 10.1429971
+    latitude: 9.7539596
+    longitude: -83.67739279999999
 - name: Guanacaste
   names:
-  - Guanacaste
+    - Guanacaste
   code: G
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -85.94608
-    minlatitude: 9.723861
-    maxlongitude: -84.76064
-    maxlatitude: 11.216818
-    latitude: 10.495797
-    longitude: -85.354965
+    minlongitude: -85.9460828
+    minlatitude: 9.723861099999999
+    maxlongitude: -84.760645
+    maxlatitude: 11.2168181
+    latitude: 10.4957971
+    longitude: -85.35496499999999
 - name: Heredia
   names:
-  - Heredia
+    - Heredia
   code: H
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -84.19047
-    minlatitude: 9.951319
-    maxlongitude: -83.714806
+    minlongitude: -84.19046589999999
+    minlatitude: 9.9513191
+    maxlongitude: -83.714804
     maxlatitude: 10.789644
     latitude: 10.473523
-    longitude: -84.01674
+    longitude: -84.01674229999999
 - name: Limón
   names:
-  - Limón
+    - Limón
   code: L
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -83.06642
-    minlatitude: 9.972147
-    maxlongitude: -83.01999
-    maxlatitude: 10.011454
+    minlongitude: -83.06642529999999
+    minlatitude: 9.9721473
+    maxlongitude: -83.0199856
+    maxlatitude: 10.0114533
     latitude: 9.983333
-    longitude: -83.03333
+    longitude: -83.033333
 - name: Puntarenas
   names:
-  - Puntarenas
+    - Puntarenas
   code: P
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -84.851265
-    minlatitude: 9.974077
-    maxlongitude: -84.793
+    minlongitude: -84.8512676
+    minlatitude: 9.9740775
+    maxlongitude: -84.7929956
     maxlatitude: 9.983031
-    latitude: 9.977844
-    longitude: -84.82942
+    latitude: 9.9778439
+    longitude: -84.82942109999999
 - name: San José
   names:
-  - San José
+    - San José
   code: SJ
   countryalpha2: CR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -84.1795
-    minlatitude: 9.899969
-    maxlongitude: -84.04719
-    maxlatitude: 9.97126
-    latitude: 9.928069
-    longitude: -84.09072
+    minlongitude: -84.1794991
+    minlatitude: 9.899968699999999
+    maxlongitude: -84.047191
+    maxlatitude: 9.9712598
+    latitude: 9.9280694
+    longitude: -84.0907246

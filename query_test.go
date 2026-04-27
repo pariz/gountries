@@ -8,6 +8,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestFindCountryByName(t *testing.T) {
@@ -169,6 +170,18 @@ func TestFindCountries(t *testing.T) {
 
 }
 
+// TestFindCountriesByCommonName guards against a long-standing inversion bug
+// where FindCountries with Name.Common set returned every country EXCEPT the
+// one matching, due to a `==` that should have been `!=`.
+func TestFindCountriesByCommonName(t *testing.T) {
+	c := Country{}
+	c.Name.Common = "Sweden"
+
+	got := query.FindCountries(c)
+	require.Len(t, got, 1, "expected exactly one country to match common name 'Sweden'")
+	assert.Equal(t, "SE", got[0].Alpha2)
+}
+
 func TestFindCountriesByRegion(t *testing.T) {
 
 	country := Country{}
@@ -176,7 +189,7 @@ func TestFindCountriesByRegion(t *testing.T) {
 
 	countries := query.FindCountries(country)
 
-	assert.Len(t, countries, 52) // 52 is not the exact number of countries in Europe. Fix this later
+	assert.Len(t, countries, 51)
 
 }
 
@@ -187,7 +200,7 @@ func TestFindCountriesByContinent(t *testing.T) {
 
 	countries := query.FindCountries(country)
 
-	assert.Len(t, countries, 52) // 52 is not the exact number of countries in Europe. Fix this later
+	assert.Len(t, countries, 52)
 
 }
 
@@ -198,7 +211,7 @@ func TestFindCountriesBySubRegion(t *testing.T) {
 
 	countries := query.FindCountries(country)
 
-	assert.Len(t, countries, 8) // 8 is not the exact number of countries in Eastern Asia. Fix this later
+	assert.Len(t, countries, 8)
 
 }
 
@@ -268,7 +281,7 @@ func TestFindCountryByNativeName(t *testing.T) {
 
 }
 
-func ExampleFindCountriesBorderingCountries() {
+func ExampleQuery_FindCountries() {
 
 	country := Country{}
 	//country.Alpha3 = "AUT"
@@ -289,7 +302,7 @@ func ExampleFindCountriesBorderingCountries() {
 	// Output:
 	//Austria
 	//Belgium
-	//Czech Republic
+	//Czechia
 	//Denmark
 	//France
 	//Luxembourg
@@ -299,7 +312,7 @@ func ExampleFindCountriesBorderingCountries() {
 
 }
 
-func ExampleFindCountriesBorderingCountries2() {
+func ExampleQuery_FindCountries_byBorders() {
 
 	country := Country{
 		Borders: []string{
@@ -409,7 +422,7 @@ func TestFindCountriesByCurrency(t *testing.T) {
 			name:            "Find countries by valid currency should return countries when currency is present for countries",
 			currency:        "EUR",
 			expectedError:   nil,
-			expectedCountry: 34,
+			expectedCountry: 36,
 		},
 		{
 			name:            "Find countries by unknown country code should return error when searching countries",
