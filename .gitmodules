@@ -2,3 +2,6 @@
 	path = vendor/countries
 	url = https://github.com/countries/countries.git
 	branch = master
+[submodule "vendor/mledoze-countries"]
+	path = vendor/mledoze-countries
+	url = https://github.com/mledoze/countries.git
