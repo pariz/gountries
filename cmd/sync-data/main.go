@@ -32,13 +32,13 @@ const (
 func main() {
 	log.SetFlags(0)
 
-	gem, err := loadGemCountries()
+	gem, err := loadGemCountries(gemDataPath)
 	if err != nil {
 		log.Fatalf("load gem countries: %v", err)
 	}
 	log.Printf("loaded %d countries from countries/countries", len(gem))
 
-	mledoze, err := loadMledoze()
+	mledoze, err := loadMledoze(mledozeJSON)
 	if err != nil {
 		log.Fatalf("load mledoze: %v", err)
 	}
@@ -65,7 +65,7 @@ func main() {
 	log.Printf("wrote %d country files to %s", written, outCountriesD)
 
 	// Subdivision output
-	subs, err := loadGemSubdivisions()
+	subs, err := loadGemSubdivisions(gemDataPath)
 	if err != nil {
 		log.Fatalf("load subdivisions: %v", err)
 	}
@@ -130,8 +130,8 @@ type gemSubdivision struct {
 	Type            string            `yaml:"type"`
 }
 
-func loadGemCountries() (map[string]gemCountry, error) {
-	dir := filepath.Join(gemDataPath, "countries")
+func loadGemCountries(base string) (map[string]gemCountry, error) {
+	dir := filepath.Join(base, "countries")
 	entries, err := os.ReadDir(dir)
 	if err != nil {
 		return nil, err
@@ -156,8 +156,8 @@ func loadGemCountries() (map[string]gemCountry, error) {
 	return result, nil
 }
 
-func loadGemSubdivisions() (map[string][]gemSubdivision, error) {
-	dir := filepath.Join(gemDataPath, "subdivisions")
+func loadGemSubdivisions(base string) (map[string][]gemSubdivision, error) {
+	dir := filepath.Join(base, "subdivisions")
 	entries, err := os.ReadDir(dir)
 	if err != nil {
 		return nil, err
@@ -223,8 +223,8 @@ type mledozeName struct {
 	Official string `json:"official"`
 }
 
-func loadMledoze() (map[string]mledozeEntry, error) {
-	data, err := os.ReadFile(mledozeJSON)
+func loadMledoze(jsonPath string) (map[string]mledozeEntry, error) {
+	data, err := os.ReadFile(jsonPath)
 	if err != nil {
 		return nil, err
 	}
