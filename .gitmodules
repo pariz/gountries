@@ -1,0 +1,4 @@
+[submodule "vendor/countries"]
+	path = vendor/countries
+	url = https://github.com/countries/countries.git
+	branch = master
