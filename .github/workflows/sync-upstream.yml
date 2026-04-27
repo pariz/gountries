@@ -1,0 +1,72 @@
+name: Sync upstream country data
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Bump countries/countries to latest tag
+        id: gem
+        working-directory: third_party/countries
+        run: |
+          git fetch --tags
+          latest=$(git tag --list 'v*' --sort=-v:refname | head -1)
+          if [ -z "$latest" ]; then echo "no tags found" >&2; exit 1; fi
+          git checkout "$latest"
+          echo "version=$latest" >> "$GITHUB_OUTPUT"
+
+      - name: Bump mledoze/countries to latest tag
+        id: mledoze
+        working-directory: third_party/mledoze-countries
+        run: |
+          git fetch --tags
+          latest=$(git tag --list --sort=-v:refname | head -1)
+          if [ -z "$latest" ]; then echo "no tags found" >&2; exit 1; fi
+          git checkout "$latest"
+          echo "version=$latest" >> "$GITHUB_OUTPUT"
+
+      - name: Regenerate data
+        run: go run ./cmd/sync-data
+
+      - name: Run tests
+        run: go test ./...
+
+      - name: Open PR if data changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: sync/upstream-${{ github.run_id }}
+          title: "data: sync from countries ${{ steps.gem.outputs.version }} + mledoze ${{ steps.mledoze.outputs.version }}"
+          commit-message: |
+            data: sync upstream
+
+            countries/countries: ${{ steps.gem.outputs.version }}
+            mledoze/countries: ${{ steps.mledoze.outputs.version }}
+          body: |
+            Automated sync of country and subdivision data.
+
+            Sources:
+            - countries/countries ${{ steps.gem.outputs.version }}
+            - mledoze/countries ${{ steps.mledoze.outputs.version }}
+
+            Tests pass. Review the YAML diff before merging.
+          labels: data-sync
+          add-paths: |
+            data/yaml/**
+            third_party
