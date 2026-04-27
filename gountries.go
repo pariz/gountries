@@ -1,3 +1,7 @@
+// Package gountries provides offline lookups for ISO-3166-1 countries,
+// ISO-3166-2 subdivisions, ISO-4217 currencies, and ISO-6709 coordinates,
+// plus translations and bordering-country relationships. Data is embedded
+// in the package binary; no network is required at runtime.
 package gountries
 
 // BaseLang is a basic structure for common language formatting in the JSON file
