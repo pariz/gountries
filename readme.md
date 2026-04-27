@@ -145,11 +145,11 @@ func main() {
 
 # How the data is built
 
-Country and subdivision YAML in `data/yaml/` is generated from two git submodules under `third_party/`:
+Country and subdivision YAML in `data/yaml/` is generated from two git submodules under `upstream/`:
 
 ```
-third_party/countries           → countries/countries (MIT)
-third_party/mledoze-countries   → mledoze/countries (ODbL)
+upstream/countries           → countries/countries (MIT)
+upstream/mledoze-countries   → mledoze/countries (ODbL)
 ```
 
 To regenerate locally:

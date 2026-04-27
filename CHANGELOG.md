@@ -26,7 +26,7 @@ go get github.com/pariz/gountries@v0.1.6
   `"United States"`, `"USA"`, `"États-Unis"`). These are indexed by
   `FindCountryByName`, so common short forms now resolve.
 - `cmd/sync-data` — Go program that regenerates `data/yaml/` from vendored
-  upstream submodules (`third_party/countries`, `third_party/mledoze-countries`).
+  upstream submodules (`upstream/countries`, `upstream/mledoze-countries`).
   Run with `go run ./cmd/sync-data`.
 - Weekly `sync-upstream` GitHub Action that bumps both upstream submodules,
   regenerates data, runs tests, and opens a PR if anything changed.
@@ -80,7 +80,7 @@ of two upstreams:
 
 The `data/yaml/` directory should be considered a Derivative Database under
 ODbL by virtue of incorporating mledoze fields. See
-[third_party/mledoze-countries/LICENSE](third_party/mledoze-countries/LICENSE).
+[upstream/mledoze-countries/LICENSE](upstream/mledoze-countries/LICENSE).
 Use of the gountries Go API to query the data does not create a Derivative
 Database for your application — only modifying and redistributing the data
 itself triggers the ODbL share-alike clause.

@@ -24,7 +24,7 @@ jobs:
 
       - name: Bump countries/countries to latest tag
         id: gem
-        working-directory: third_party/countries
+        working-directory: upstream/countries
         run: |
           git fetch --tags
           latest=$(git tag --list 'v*' --sort=-v:refname | head -1)
@@ -34,7 +34,7 @@ jobs:
 
       - name: Bump mledoze/countries to latest tag
         id: mledoze
-        working-directory: third_party/mledoze-countries
+        working-directory: upstream/mledoze-countries
         run: |
           git fetch --tags
           latest=$(git tag --list --sort=-v:refname | head -1)
@@ -69,4 +69,4 @@ jobs:
           labels: data-sync
           add-paths: |
             data/yaml/**
-            third_party
+            upstream

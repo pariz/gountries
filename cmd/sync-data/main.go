@@ -23,8 +23,8 @@ import (
 )
 
 const (
-	gemDataPath   = "third_party/countries/lib/countries/data"
-	mledozeJSON   = "third_party/mledoze-countries/countries.json"
+	gemDataPath   = "upstream/countries/lib/countries/data"
+	mledozeJSON   = "upstream/mledoze-countries/countries.json"
 	outCountriesD = "data/yaml/countries"
 	outSubdivD    = "data/yaml/subdivisions"
 )
