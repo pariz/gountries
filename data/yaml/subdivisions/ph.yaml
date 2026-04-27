@@ -1,62 +1,1165 @@
+- name: National Capital Region
+  names:
+    - National Capital Region
+    - Pambansang Punong Rehiyon
+  code: "00"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.9172569
+    minlatitude: 14.3493861
+    maxlongitude: 121.132012
+    maxlatitude: 14.781217
+    latitude: 14.6090537
+    longitude: 121.0222565
+- name: Ilocos
+  code: "01"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cagayan Valley
+  code: "02"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Central Luzon
+  code: "03"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bicol
+  code: "05"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Western Visayas
+  code: "06"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Central Visayas
+  code: "07"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Eastern Visayas
+  code: "08"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Zamboanga Peninsula
+  code: "09"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Northern Mindanao
+  code: "10"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Davao
+  code: "11"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Soccsksargen
+  code: "12"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Caraga
+  code: "13"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Muslim Mindanao
+  code: "14"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cordillera Administrative
+  code: "15"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Calabarzon
+  code: "40"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mimaropa
+  code: "41"
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Abra
+  names:
+    - Abra
+  code: ABR
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.463118
+    minlatitude: 17.154255
+    maxlongitude: 121.124898
+    maxlatitude: 17.979682
+    latitude: 17.5951122
+    longitude: 120.7982528
+- name: Agusan del Norte
+  names:
+    - Agusan del Norte
+  code: AGN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.2066434
+    minlatitude: 8.6575759
+    maxlongitude: 125.7669111
+    maxlatitude: 9.4591
+    latitude: 8.9456259
+    longitude: 125.5319234
+- name: Agusan del Sur
+  names:
+    - Agusan del Sur
+  code: AGS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.239547
+    minlatitude: 7.936757
+    maxlongitude: 126.361955
+    maxlatitude: 9.231869
+    latitude: 8.6051665
+    longitude: 125.916739
+- name: Aklan
+  names:
+    - Aklan
+  code: AKL
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.848633
+    minlatitude: 11.311094
+    maxlongitude: 122.57729
+    maxlatitude: 11.9994645
+    latitude: 11.8166109
+    longitude: 122.0941541
+- name: Albay
+  names:
+    - Albay
+  code: ALB
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.2739775
+    minlatitude: 12.986531
+    maxlongitude: 124.220096
+    maxlatitude: 13.525534
+    latitude: 13.1774827
+    longitude: 123.5280072
+- name: Antique
+  names:
+    - Antique
+  code: ANT
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.2828827
+    minlatitude: 10.4172679
+    maxlongitude: 122.325029
+    maxlatitude: 12.117357
+    latitude: 11.380579
+    longitude: 122.0635005
+- name: Apayao
+  names:
+    - Apayao
+  code: APA
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.9254531
+    minlatitude: 17.623744
+    maxlongitude: 121.4897879
+    maxlatitude: 18.541674
+    latitude: 18.0120304
+    longitude: 121.1710389
+- name: Aurora
+  names:
+    - Aurora
+  code: AUR
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.5742779
+    minlatitude: 16.9357138
+    maxlongitude: 121.7060828
+    maxlatitude: 17.0173518
+    latitude: 16.991944
+    longitude: 121.636944
+- name: Bataan
+  names:
+    - Bataan
+  code: BAN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.2426195
+    minlatitude: 14.3725568
+    maxlongitude: 120.6115616
+    maxlatitude: 14.9283039
+    latitude: 14.6416842
+    longitude: 120.4818446
+- name: Basilan
+  names:
+    - Basilan
+  code: BAS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.4296532
+    minlatitude: 6.2788594
+    maxlongitude: 122.3269363
+    maxlatitude: 6.906267000000001
+    latitude: 6.4296349
+    longitude: 121.9870165
+- name: Benguet
+  names:
+    - Benguet
+  code: BEN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.468057
+    minlatitude: 16.186448
+    maxlongitude: 120.904165
+    maxlatitude: 16.9382421
+    latitude: 16.5577257
+    longitude: 120.8039474
+- name: Biliran
+  names:
+    - Biliran
+  code: BIL
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.4320654
+    minlatitude: 11.4556383
+    maxlongitude: 124.5410156
+    maxlatitude: 11.5656392
+    latitude: 11.466667
+    longitude: 124.483333
+- name: Bohol
+  names:
+    - Bohol
+  code: BOH
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.719351
+    minlatitude: 9.4856913
+    maxlongitude: 124.6197582
+    maxlatitude: 10.2562504
+    latitude: 9.849991099999999
+    longitude: 124.1435427
+- name: Batangas
+  names:
+    - Batangas
+  code: BTG
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.0278529
+    minlatitude: 13.5261516
+    maxlongitude: 121.1820692
+    maxlatitude: 13.8518358
+    latitude: 13.7564651
+    longitude: 121.0583076
+- name: Batanes
+  names:
+    - Batanes
+  code: BTN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.778977
+    minlatitude: 20.2578335
+    maxlongitude: 122.034889
+    maxlatitude: 21.1206112
+    latitude: 20.4485074
+    longitude: 121.9708129
+- name: Bukidnon
+  names:
+    - Bukidnon
+  code: BUK
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.4961241
+    minlatitude: 7.3991609
+    maxlongitude: 125.444464
+    maxlatitude: 8.593256
+    latitude: 8.0515054
+    longitude: 124.9229946
+- name: Bulacan
+  names:
+    - Bulacan
+  code: BUL
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.8245333
+    minlatitude: 14.7098374
+    maxlongitude: 120.9149916
+    maxlatitude: 14.8234278
+    latitude: 14.7942735
+    longitude: 120.8799008
+- name: Cagayan
+  names:
+    - Cagayan
+  code: CAG
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.9600601
+    minlatitude: 17.5081239
+    maxlongitude: 122.33802
+    maxlatitude: 19.9662652
+    latitude: 18.2489629
+    longitude: 121.8787833
+- name: Camiguin
+  names:
+    - Camiguin
+  code: CAM
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.6333946
+    minlatitude: 9.0787702
+    maxlongitude: 124.806468
+    maxlatitude: 9.2580606
+    latitude: 9.1732164
+    longitude: 124.7298765
+- name: Camarines Norte
+  names:
+    - Camarines Norte
+  code: CAN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.301291
+    minlatitude: 13.835935
+    maxlongitude: 123.1175996
+    maxlatitude: 14.4930237
+    latitude: 14.1390265
+    longitude: 122.7633036
+- name: Capiz
+  names:
+    - Capiz
+  code: CAP
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.1992869
+    minlatitude: 11.1436509
+    maxlongitude: 123.1000324
+    maxlatitude: 11.645162
+    latitude: 11.3888799
+    longitude: 122.6277455
+- name: Camarines Sur
+  names:
+    - Camarines Sur
+  code: CAS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.550947
+    minlatitude: 13.2638826
+    maxlongitude: 123.97699
+    maxlatitude: 14.1279977
+    latitude: 13.5250197
+    longitude: 123.3486147
+- name: Catanduanes
+  names:
+    - Catanduanes
+  code: CAT
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.0169811
+    minlatitude: 13.5181658
+    maxlongitude: 124.4218897
+    maxlatitude: 14.1005278
+    latitude: 13.7088684
+    longitude: 124.2421597
+- name: Cavite
+  names:
+    - Cavite
+  code: CAV
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.5212855
+    minlatitude: 14.3646447
+    maxlongitude: 120.9209909
+    maxlatitude: 14.5002355
+    latitude: 14.4791297
+    longitude: 120.8969634
+- name: Cebu
+  names:
+    - Cebu
+  code: CEB
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.7633896
+    minlatitude: 10.2594378
+    maxlongitude: 123.9326476
+    maxlatitude: 10.498277
+    latitude: 10.3156992
+    longitude: 123.8854366
+- name: Compostela Valley
+  names:
+    - Compostela Valley
+  code: COM
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.674365
+    minlatitude: 7.078257199999999
+    maxlongitude: 126.2988501
+    maxlatitude: 7.9994319
+    latitude: 7.512514999999999
+    longitude: 126.1762615
+- name: Davao Oriental
+  names:
+    - Davao Oriental
+  code: DAO
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.938116
+    minlatitude: 5.5511669
+    maxlongitude: 126.6015399
+    maxlatitude: 8.0013469
+    latitude: 7.3171585
+    longitude: 126.5419887
+- name: Davao del Sur
+  names:
+    - Davao del Sur
+  code: DAS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.1010209
+    minlatitude: 5.367669999999999
+    maxlongitude: 125.7164231
+    maxlatitude: 7.565537000000001
+    latitude: 6.766268699999999
+    longitude: 125.3284269
+- name: Davao del Norte
+  names:
+    - Davao
+  code: DAV
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.250456
+    minlatitude: 6.894526000000001
+    maxlongitude: 125.944498
+    maxlatitude: 7.997327
+    latitude: 7.561769899999999
+    longitude: 125.6532848
+- name: Dinagat Islands
+  names:
+    - Dinagat Islands
+  code: DIN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.465279
+    minlatitude: 9.8547497
+    maxlongitude: 125.7067526
+    maxlatitude: 10.4716027
+    latitude: 10.1281816
+    longitude: 125.6095474
+- name: Davao Occidental
+  names:
+    - Davao Occidental
+  code: DVO
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.7029193
+    minlatitude: 4.5870339
+    maxlongitude: 126.6043837
+    maxlatitude: 19.5740241
+    latitude: 12.879721
+    longitude: 121.774017
+- name: Eastern Samar
+  names:
+    - Eastern Samar
+  code: EAS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 125.1116951
+    minlatitude: 10.690784
+    maxlongitude: 125.969378
+    maxlatitude: 12.370305
+    latitude: 11.5000731
+    longitude: 125.4999908
+- name: Guimaras
+  names:
+    - Guimaras
+  code: GUI
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.4749851
+    minlatitude: 10.389255
+    maxlongitude: 122.741077
+    maxlatitude: 10.7544428
+    latitude: 10.5928661
+    longitude: 122.6325081
+- name: Ifugao
+  names:
+    - Ifugao
+  code: IFU
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.881094
+    minlatitude: 16.598261
+    maxlongitude: 121.5859809
+    maxlatitude: 17.071433
+    latitude: 16.8330792
+    longitude: 121.1710389
+- name: Iloilo
+  names:
+    - Iloilo
+  code: ILI
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.494087
+    minlatitude: 10.6792844
+    maxlongitude: 122.6001559
+    maxlatitude: 10.7818569
+    latitude: 10.7201501
+    longitude: 122.5621063
+- name: Ilocos Norte
+  names:
+    - Ilocos Norte
+  code: ILN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.4290068
+    minlatitude: 17.698466
+    maxlongitude: 120.980399
+    maxlatitude: 18.650944
+    latitude: 18.1647281
+    longitude: 120.7115592
+- name: Ilocos Sur
+  names:
+    - Ilocos Sur
+  code: ILS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.3427526
+    minlatitude: 16.655479
+    maxlongitude: 120.860186
+    maxlatitude: 17.9007002
+    latitude: 17.2278664
+    longitude: 120.5739579
+- name: Isabela
+  names:
+    - Isabela
+  code: ISA
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.3364481
+    minlatitude: 16.3794739
+    maxlongitude: 122.5278068
+    maxlatitude: 17.5454246
+    latitude: 16.9753758
+    longitude: 121.8107079
 - name: Kalinga
   names:
-  - Kalinga
+    - Kalinga
   code: KAL
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 120.90997
-    minlatitude: 17.161623
-    maxlongitude: 121.68225
-    maxlatitude: 17.688992
-    latitude: 17.474043
-    longitude: 121.354164
+    minlongitude: 120.909971
+    minlatitude: 17.1616239
+    maxlongitude: 121.682251
+    maxlatitude: 17.6889911
+    latitude: 17.4740422
+    longitude: 121.3541631
+- name: Laguna
+  names:
+    - Laguna
+  code: LAG
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.4209908
+    minlatitude: 14.2647886
+    maxlongitude: 121.630674
+    maxlatitude: 14.3487163
+    latitude: 14.2956294
+    longitude: 121.4961581
 - name: Lanao del Norte
   names:
-  - Lanao del Norte
+    - Lanao del Norte
   code: LAN
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 123.62133
-    minlatitude: 7.693462
-    maxlongitude: 124.5733
-    maxlatitude: 8.341473
-    latitude: 7.872181
-    longitude: 123.88577
+    minlongitude: 123.621328
+    minlatitude: 7.6934621
+    maxlongitude: 124.573305
+    maxlatitude: 8.3414729
+    latitude: 7.8721811
+    longitude: 123.8857747
+- name: Lanao del Sur
+  names:
+    - Lanao del Sur
+  code: LAS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.8264541
+    minlatitude: 7.3995557
+    maxlongitude: 124.807193
+    maxlatitude: 8.2121889
+    latitude: 7.823176
+    longitude: 124.4198243
+- name: Leyte
+  names:
+    - Leyte
+  code: LEY
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.3958759
+    minlatitude: 11.2012197
+    maxlongitude: 124.5601559
+    maxlatitude: 11.4561949
+    latitude: 11.366667
+    longitude: 124.483333
 - name: La Union
   names:
-  - La Union
+    - La Union
   code: LUN
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 120.280174
+    minlongitude: 120.2801715
     minlatitude: 16.207748
-    maxlongitude: 120.574486
+    maxlongitude: 120.5744889
     maxlatitude: 16.91881
-    latitude: 16.61589
-    longitude: 120.32094
+    latitude: 16.6158906
+    longitude: 120.3209373
+- name: Marinduque
+  names:
+    - Marinduque
+  code: MAD
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.80645
+    minlatitude: 13.1990285
+    maxlongitude: 122.1491437
+    maxlatitude: 13.5706939
+    latitude: 13.4767171
+    longitude: 121.9032192
+- name: Maguindanao
+  names:
+    - Maguindanao
+  code: MAG
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.943766
+    minlatitude: 6.649818499999999
+    maxlongitude: 125.120551
+    maxlatitude: 7.651929099999999
+    latitude: 6.9422581
+    longitude: 124.4198243
+- name: Masbate
+  names:
+    - Masbate
+  code: MAS
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.4894181
+    minlatitude: 12.2440624
+    maxlongitude: 123.6398035
+    maxlatitude: 12.4616029
+    latitude: 12.366667
+    longitude: 123.616667
+- name: Mindoro Occidental
+  names:
+    - Mindoro Occidental
+  code: MDC
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.0174402
+    minlatitude: 12.1530185
+    maxlongitude: 121.250199
+    maxlatitude: 13.8989589
+    latitude: 13.1024111
+    longitude: 120.7651284
+- name: Mindoro Oriental
+  names:
+    - Mindoro Oriental
+  code: MDR
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.8007199
+    minlatitude: 12.1951624
+    maxlongitude: 121.5576218
+    maxlatitude: 13.5314771
+    latitude: 13.0564598
+    longitude: 121.4069417
+- name: Mountain Province
+  names:
+    - Mountain Province
+  code: MOU
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.770595
+    minlatitude: 16.822498
+    maxlongitude: 121.5659461
+    maxlatitude: 17.306318
+    latitude: 17.0663429
+    longitude: 121.03351
+- name: Misamis Occidental
+  names:
+    - Misamis Occidental
+  code: MSC
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.5556264
+    minlatitude: 8.01499
+    maxlongitude: 123.8690157
+    maxlatitude: 8.668944699999999
+    latitude: 8.337490299999999
+    longitude: 123.7070619
+- name: Misamis Oriental
+  names:
+    - Misamis Oriental
+  code: MSR
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.2491
+    minlatitude: 8.2358519
+    maxlongitude: 125.2555001
+    maxlatitude: 9.0931017
+    latitude: 8.5045558
+    longitude: 124.6219592
+- name: North Cotabato
+  names:
+    - North Cotabato
+  code: NCO
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.3334349
+    minlatitude: 6.7588269
+    maxlongitude: 125.31497
+    maxlatitude: 7.681884999999999
+    latitude: 7.1083349
+    longitude: 125.0388164
+- name: Negros Occidental
+  names:
+    - Negros Occidental
+  code: NEC
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.3767471
+    minlatitude: 9.423715099999999
+    maxlongitude: 123.5701711
+    maxlatitude: 11.0031714
+    latitude: 10.2925609
+    longitude: 123.0246518
+- name: Negros Oriental
+  names:
+    - Negros Oriental
+  code: NER
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.6101151
+    minlatitude: 9.0385288
+    maxlongitude: 123.3400472
+    maxlatitude: 10.4163581
+    latitude: 9.628208299999999
+    longitude: 122.9888319
+- name: Northern Samar
+  names:
+    - Northern Samar
+  code: NSA
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.0025139
+    minlatitude: 12.1405061
+    maxlongitude: 125.3422503
+    maxlatitude: 12.6966542
+    latitude: 12.3613199
+    longitude: 124.7740793
+- name: Nueva Ecija
+  names:
+    - Nueva Ecija
+  code: NUE
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.611833
+    minlatitude: 15.1651679
+    maxlongitude: 121.3782461
+    maxlatitude: 16.1302161
+    latitude: 15.6906831
+    longitude: 120.9876321
+- name: Nueva Vizcaya
+  names:
+    - Nueva Vizcaya
+  code: NUV
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.756631
+    minlatitude: 15.7672
+    maxlongitude: 121.465768
+    maxlatitude: 16.7457349
+    latitude: 16.3301107
+    longitude: 121.1710389
 - name: Pampanga
   names:
-  - Pampanga
+    - Pampanga
   code: PAM
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 120.356125
-    minlatitude: 14.76739
-    maxlongitude: 120.985535
-    maxlatitude: 15.271886
+    minlongitude: 120.3561269
+    minlatitude: 14.7673906
+    maxlongitude: 120.985538
+    maxlatitude: 15.2718861
     latitude: 15.079409
-    longitude: 120.61999
+    longitude: 120.6199895
+- name: Pangasinan
+  names:
+    - Pangasinan
+  code: PAN
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 119.7495495
+    minlatitude: 15.61848
+    maxlongitude: 120.9229021
+    maxlatitude: 16.426502
+    latitude: 15.8949055
+    longitude: 120.2863183
+- name: Palawan
+  names:
+    - Palawan
+  code: PLW
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.9315639
+    minlatitude: 6.9634569
+    maxlongitude: 121.2708889
+    maxlatitude: 12.66335
+    latitude: 9.8349493
+    longitude: 118.7383615
+- name: Quezon
+  names:
+    - Quezon
+  code: QUE
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.0490502
+    minlatitude: 14.0007015
+    maxlongitude: 122.1910019
+    maxlatitude: 14.1294959
+    latitude: 14.0313906
+    longitude: 122.1130909
+- name: Quirino
+  names:
+    - Angkaki
+  code: QUI
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.6813735
+    minlatitude: 17.0988256
+    maxlongitude: 121.8186592
+    maxlatitude: 17.2103775
+    latitude: 17.133333
+    longitude: 121.7
+- name: Rizal
+  names:
+    - Rizal
+  code: RIZ
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 121.0935389
+    minlatitude: 14.2896792
+    maxlongitude: 121.4698249
+    maxlatitude: 14.8888711
+    latitude: 14.6037446
+    longitude: 121.3084088
+- name: Romblon
+  names:
+    - Romblon
+  code: ROM
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 122.2304249
+    minlatitude: 12.4778353
+    maxlongitude: 122.328081
+    maxlatitude: 12.6712134
+    latitude: 12.5778554
+    longitude: 122.269129
+- name: Sarangani
+  names:
+    - Sarangani
+  code: SAR
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.3531991
+    minlatitude: 5.566673
+    maxlongitude: 125.5387121
+    maxlatitude: 6.468224999999999
+    latitude: 5.926717500000001
+    longitude: 124.994751
+- name: South Cotabato
+  names:
+    - South Cotabato
+  code: SCO
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.278951
+    minlatitude: 5.957796999999999
+    maxlongitude: 125.2723331
+    maxlatitude: 6.6679448
+    latitude: 6.3357565
+    longitude: 124.7740793
+- name: Siquijor
+  names:
+    - Siquijor
+  code: SIG
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 123.4554852
+    minlatitude: 9.141587999999999
+    maxlongitude: 123.6037446
+    maxlatitude: 9.2403095
+    latitude: 9.213263099999999
+    longitude: 123.5157032
 - name: Southern Leyte
   names:
-  - Southern Leyte
+    - Southern Leyte
   code: SLE
   countryalpha2: PH
   coordinates:
@@ -64,377 +1167,167 @@
     latitudestring: ""
     minlongitude: 124.755684
     minlatitude: 9.895297
-    maxlongitude: 125.29907
-    maxlatitude: 10.62672
-    latitude: 10.33462
-    longitude: 125.170876
+    maxlongitude: 125.2990696
+    maxlatitude: 10.6267204
+    latitude: 10.3346206
+    longitude: 125.1708741
+- name: Sulu
+  names:
+    - Sulu
+  code: SLU
+  countryalpha2: PH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 120.4130955
+    minlatitude: 5.4429449
+    maxlongitude: 121.9476239
+    maxlatitude: 6.4398352
+    latitude: 5.974901099999999
+    longitude: 121.03351
 - name: Sorsogon
   names:
-  - Sorsogon
+    - Sorsogon
   code: SOR
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 123.79069
-    minlatitude: 12.817715
-    maxlongitude: 124.14775
-    maxlatitude: 13.119623
-    latitude: 12.992709
-    longitude: 124.01475
-- name: Bukidnon
+    minlongitude: 123.7906891
+    minlatitude: 12.8177146
+    maxlongitude: 124.1477504
+    maxlatitude: 13.1196236
+    latitude: 12.9927095
+    longitude: 124.0147464
+- name: Sultan Kudarat
   names:
-  - Bukidnon
-  code: BUK
+    - Sultan Kudarat
+  code: SUK
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 124.496124
-    minlatitude: 7.399161
-    maxlongitude: 125.444466
-    maxlatitude: 8.593256
-    latitude: 8.051505
-    longitude: 124.923
-- name: Davao del Sur
+    minlongitude: 124.0158941
+    minlatitude: 6.117249999999999
+    maxlongitude: 125.197615
+    maxlatitude: 6.883467
+    latitude: 6.5069401
+    longitude: 124.4198243
+- name: Surigao del Norte
   names:
-  - Davao del Sur
-  code: DAS
+    - Surigao del Norte
+  code: SUN
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 125.10102
-    minlatitude: 5.36767
-    maxlongitude: 125.71642
-    maxlatitude: 7.565537
-    latitude: 6.7662687
-    longitude: 125.32843
-- name: Western Samar
+    minlongitude: 125.3916907
+    minlatitude: 9.325377
+    maxlongitude: 126.1804676
+    maxlatitude: 10.0626918
+    latitude: 9.514828
+    longitude: 125.6969984
+- name: Surigao del Sur
   names:
-  - Western Samar
-  code: WSA
+    - Surigao del Sur
+  code: SUR
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 124.14774
-    minlatitude: 11.087241
-    maxlongitude: 125.307816
-    maxlatitude: 12.334325
-    latitude: 11.579519
-    longitude: 124.97482
-- name: Benguet
+    minlongitude: 125.7439209
+    minlatitude: 7.908138999999999
+    maxlongitude: 126.4583336
+    maxlatitude: 9.496260099999999
+    latitude: 8.5404906
+    longitude: 126.1144758
+- name: Tarlac
   names:
-  - Benguet
-  code: BEN
+    - Tarlac
+  code: TAR
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 120.468056
-    minlatitude: 16.186447
-    maxlongitude: 120.90417
-    maxlatitude: 16.938242
-    latitude: 16.557726
-    longitude: 120.80395
-- name: Davao Oriental
-  names:
-  - Davao Oriental
-  code: DAO
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.93812
-    minlatitude: 5.551167
-    maxlongitude: 126.60154
-    maxlatitude: 8.001347
-    latitude: 7.3171587
-    longitude: 126.54199
-- name: Mountain Province
-  names:
-  - Mountain Province
-  code: MOU
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.77059
-    minlatitude: 16.822498
-    maxlongitude: 121.56595
-    maxlatitude: 17.306318
-    latitude: 17.066343
-    longitude: 121.03351
-- name: Palawan
-  names:
-  - Palawan
-  code: PLW
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 116.931564
-    minlatitude: 6.963457
-    maxlongitude: 121.27089
-    maxlatitude: 12.66335
-    latitude: 9.8349495
-    longitude: 118.738365
-- name: Agusan del Norte
-  names:
-  - Agusan del Norte
-  code: AGN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.20664
-    minlatitude: 8.657576
-    maxlongitude: 125.766914
-    maxlatitude: 9.4591
-    latitude: 8.945626
-    longitude: 125.53192
-- name: Bataan
-  names:
-  - Bataan
-  code: BAN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.24262
-    minlatitude: 14.372557
-    maxlongitude: 120.611565
-    maxlatitude: 14.928304
-    latitude: 14.641685
-    longitude: 120.48184
-- name: Bohol
-  names:
-  - Bohol
-  code: BOH
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.71935
-    minlatitude: 9.485691
-    maxlongitude: 124.61976
-    maxlatitude: 10.25625
-    latitude: 9.849991
-    longitude: 124.14354
-- name: Masbate
-  names:
-  - Masbate
-  code: MAS
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.48942
-    minlatitude: 12.244062
-    maxlongitude: 123.6398
-    maxlatitude: 12.461603
-    latitude: 12.366667
-    longitude: 123.61667
-- name: Siquijor
-  names:
-  - Siquijor
-  code: SIG
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.45548
-    minlatitude: 9.141588
-    maxlongitude: 123.603745
-    maxlatitude: 9.24031
-    latitude: 9.2132635
-    longitude: 123.5157
-- name: Zambales
-  names:
-  - Zambales
-  code: ZMB
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 117.844124
-    minlatitude: 14.739725
-    maxlongitude: 120.462166
-    maxlatitude: 15.845467
-    latitude: 15.508177
-    longitude: 119.96978
-- name: Albay
-  names:
-  - Albay
-  code: ALB
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.27398
-    minlatitude: 12.986531
-    maxlongitude: 124.22009
-    maxlatitude: 13.525534
-    latitude: 13.177483
-    longitude: 123.52801
-- name: Aurora
-  names:
-  - Aurora
-  code: AUR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.57428
-    minlatitude: 16.935715
-    maxlongitude: 121.706085
-    maxlatitude: 17.017351
-    latitude: 16.991943
-    longitude: 121.63695
-- name: Leyte
-  names:
-  - Leyte
-  code: LEY
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.395874
-    minlatitude: 11.20122
-    maxlongitude: 124.56016
-    maxlatitude: 11.456195
-    latitude: 11.366667
-    longitude: 124.48333
-- name: Mindoro Occidental
-  names:
-  - Mindoro Occidental
-  code: MDC
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.01744
-    minlatitude: 12.153019
-    maxlongitude: 121.2502
-    maxlatitude: 13.898959
-    latitude: 13.102411
-    longitude: 120.76513
+    minlongitude: 120.5281542
+    minlatitude: 15.4011971
+    maxlongitude: 120.6978608
+    maxlatitude: 15.543999
+    latitude: 15.4754786
+    longitude: 120.5963492
 - name: Tawi-Tawi
   names:
-  - Tawi-Tawi
+    - Tawi-Tawi
   code: TAW
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 119.38351
-    minlatitude: 4.616361
-    maxlongitude: 120.68294
-    maxlatitude: 5.991414
+    minlongitude: 119.3835042
+    minlatitude: 4.616361299999999
+    maxlongitude: 120.6829369
+    maxlatitude: 5.9914141
     latitude: 5.133811
-    longitude: 119.95093
-- name: Dinagat
+    longitude: 119.950926
+- name: Western Samar
   names:
-  - Dinagat
-  code: X1~
+    - Western Samar
+  code: WSA
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 125.46528
-    minlatitude: 9.85475
-    maxlongitude: 125.70675
-    maxlatitude: 10.471602
-    latitude: 10.128181
-    longitude: 125.60955
-- name: Agusan del Sur
+    minlongitude: 124.1477429
+    minlatitude: 11.0872409
+    maxlongitude: 125.307814
+    maxlatitude: 12.334325
+    latitude: 11.5795195
+    longitude: 124.9748219
+- name: Zamboanga del Norte
   names:
-  - Agusan del Sur
-  code: AGS
+    - Zamboanga del Norte
+  code: ZAN
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 125.23955
-    minlatitude: 7.936757
-    maxlongitude: 126.36195
-    maxlatitude: 9.231869
-    latitude: 8.605166
-    longitude: 125.91674
-- name: Compostela Valley
-  names:
-  - Compostela Valley
-  code: COM
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.67436
-    minlatitude: 7.078257
-    maxlongitude: 126.29885
-    maxlatitude: 7.999432
-    latitude: 7.512515
-    longitude: 126.17626
-- name: Misamis Oriental
-  names:
-  - Misamis Oriental
-  code: MSR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.2491
-    minlatitude: 8.235852
-    maxlongitude: 125.2555
-    maxlatitude: 9.0931015
-    latitude: 8.504556
-    longitude: 124.621956
+    minlongitude: 121.9014683
+    minlatitude: 7.1448079
+    maxlongitude: 123.559396
+    maxlatitude: 8.856403499999999
+    latitude: 8.3886282
+    longitude: 123.1688883
 - name: Zamboanga del Sur
   names:
-  - Zamboanga del Sur
+    - Zamboanga del Sur
   code: ZAS
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 122.91685
-    minlatitude: 7.3595233
-    maxlongitude: 123.669304
-    maxlatitude: 8.236422
-    latitude: 7.8383055
-    longitude: 123.29667
-- name: South Cotabato
+    minlongitude: 122.916847
+    minlatitude: 7.3595234
+    maxlongitude: 123.669302
+    maxlatitude: 8.2364218
+    latitude: 7.838305399999999
+    longitude: 123.2966657
+- name: Zambales
   names:
-  - South Cotabato
-  code: SCO
+    - Zambales
+  code: ZMB
   countryalpha2: PH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 124.27895
-    minlatitude: 5.957797
-    maxlongitude: 125.27233
-    maxlatitude: 6.667945
-    latitude: 6.3357563
-    longitude: 124.77408
-- name: Shariff Kabunsuan
-  names:
-  - Shariff Kabunsuan
-  code: X2~
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.25302
-    minlatitude: 7.2127833
-    maxlongitude: 124.25419
-    maxlatitude: 7.21553
-    latitude: 7.2141066
-    longitude: 124.25357
+    minlongitude: 117.8441242
+    minlatitude: 14.7397255
+    maxlongitude: 120.462163
+    maxlatitude: 15.845467
+    latitude: 15.5081766
+    longitude: 119.9697808
 - name: Zamboanga Sibuguey [Zamboanga Sibugay]
   names:
-  - Zamboanga Sibuguey [Zamboanga Sibugay]
+    - Zamboanga Sibuguey [Zamboanga Sibugay]
   code: ZSI
   countryalpha2: PH
   coordinates:
@@ -446,703 +1339,3 @@
     maxlatitude: 0
     latitude: 7.02427
     longitude: 122.189
-- name: Bulacan
-  names:
-  - Bulacan
-  code: BUL
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.82453
-    minlatitude: 14.709837
-    maxlongitude: 120.91499
-    maxlatitude: 14.823428
-    latitude: 14.794273
-    longitude: 120.8799
-- name: Ilocos Norte
-  names:
-  - Ilocos Norte
-  code: ILN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.42901
-    minlatitude: 17.698465
-    maxlongitude: 120.9804
-    maxlatitude: 18.650944
-    latitude: 18.164728
-    longitude: 120.711555
-- name: Mindoro Oriental
-  names:
-  - Mindoro Oriental
-  code: MDR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.80072
-    minlatitude: 12.195163
-    maxlongitude: 121.557625
-    maxlatitude: 13.531477
-    latitude: 13.056459
-    longitude: 121.406944
-- name: Abra
-  names:
-  - Abra
-  code: ABR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.46312
-    minlatitude: 17.154255
-    maxlongitude: 121.1249
-    maxlatitude: 17.979683
-    latitude: 17.595112
-    longitude: 120.798256
-- name: Antique
-  names:
-  - Antique
-  code: ANT
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.28288
-    minlatitude: 10.417268
-    maxlongitude: 122.32503
-    maxlatitude: 12.117357
-    latitude: 11.380579
-    longitude: 122.0635
-- name: Batangas
-  names:
-  - Batangas
-  code: BTG
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.027855
-    minlatitude: 13.526152
-    maxlongitude: 121.18207
-    maxlatitude: 13.851836
-    latitude: 13.756465
-    longitude: 121.058304
-- name: Camarines Sur
-  names:
-  - Camarines Sur
-  code: CAS
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.55095
-    minlatitude: 13.263883
-    maxlongitude: 123.97699
-    maxlatitude: 14.127997
-    latitude: 13.52502
-    longitude: 123.34862
-- name: Catanduanes
-  names:
-  - Catanduanes
-  code: CAT
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.01698
-    minlatitude: 13.518166
-    maxlongitude: 124.42189
-    maxlatitude: 14.100528
-    latitude: 13.708868
-    longitude: 124.24216
-- name: Ifugao
-  names:
-  - Ifugao
-  code: IFU
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.881096
-    minlatitude: 16.59826
-    maxlongitude: 121.58598
-    maxlatitude: 17.071432
-    latitude: 16.833078
-    longitude: 121.171036
-- name: Laguna
-  names:
-  - Laguna
-  code: LAG
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.42099
-    minlatitude: 14.264789
-    maxlongitude: 121.63068
-    maxlatitude: 14.348717
-    latitude: 14.2956295
-    longitude: 121.496155
-- name: Quezon
-  names:
-  - Quezon
-  code: QUE
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.04905
-    minlatitude: 14.000702
-    maxlongitude: 122.191
-    maxlatitude: 14.129496
-    latitude: 14.03139
-    longitude: 122.11309
-- name: Aklan
-  names:
-  - Aklan
-  code: AKL
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.84863
-    minlatitude: 11.311094
-    maxlongitude: 122.57729
-    maxlatitude: 11.999464
-    latitude: 11.816611
-    longitude: 122.094154
-- name: Apayao
-  names:
-  - Apayao
-  code: APA
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.92545
-    minlatitude: 17.623743
-    maxlongitude: 121.489784
-    maxlatitude: 18.541674
-    latitude: 18.01203
-    longitude: 121.171036
-- name: Tarlac
-  names:
-  - Tarlac
-  code: TAR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.52815
-    minlatitude: 15.401197
-    maxlongitude: 120.69786
-    maxlatitude: 15.543999
-    latitude: 15.475478
-    longitude: 120.59635
-- name: Cebu
-  names:
-  - Cebu
-  code: CEB
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.76339
-    minlatitude: 10.259438
-    maxlongitude: 123.93265
-    maxlatitude: 10.498277
-    latitude: 10.3157
-    longitude: 123.88544
-- name: Eastern Samar
-  names:
-  - Eastern Samar
-  code: EAS
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.111694
-    minlatitude: 10.690784
-    maxlongitude: 125.969376
-    maxlatitude: 12.370305
-    latitude: 11.500073
-    longitude: 125.49999
-- name: Ilocos Sur
-  names:
-  - Ilocos Sur
-  code: ILS
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.34275
-    minlatitude: 16.65548
-    maxlongitude: 120.86018
-    maxlatitude: 17.9007
-    latitude: 17.227867
-    longitude: 120.57396
-- name: Lanao del Sur
-  names:
-  - Lanao del Sur
-  code: LAS
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.826454
-    minlatitude: 7.3995557
-    maxlongitude: 124.80719
-    maxlatitude: 8.212189
-    latitude: 7.823176
-    longitude: 124.41982
-- name: Nueva Ecija
-  names:
-  - Nueva Ecija
-  code: NUE
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.61183
-    minlatitude: 15.165168
-    maxlongitude: 121.37824
-    maxlatitude: 16.130217
-    latitude: 15.690683
-    longitude: 120.98763
-- name: Sarangani
-  names:
-  - Sarangani
-  code: SAR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.3532
-    minlatitude: 5.566673
-    maxlongitude: 125.53871
-    maxlatitude: 6.468225
-    latitude: 5.9267173
-    longitude: 124.99475
-- name: Basilan
-  names:
-  - Basilan
-  code: BAS
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.42966
-    minlatitude: 6.2788596
-    maxlongitude: 122.326935
-    maxlatitude: 6.906267
-    latitude: 6.429635
-    longitude: 121.987015
-- name: Camiguin
-  names:
-  - Camiguin
-  code: CAM
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.63339
-    minlatitude: 9.078771
-    maxlongitude: 124.806465
-    maxlatitude: 9.25806
-    latitude: 9.173217
-    longitude: 124.72987
-- name: Surigao del Norte
-  names:
-  - Surigao del Norte
-  code: SUN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.39169
-    minlatitude: 9.325377
-    maxlongitude: 126.180466
-    maxlatitude: 10.062692
-    latitude: 9.514828
-    longitude: 125.697
-- name: Sulu
-  names:
-  - Sulu
-  code: SLU
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.41309
-    minlatitude: 5.442945
-    maxlongitude: 121.947624
-    maxlatitude: 6.439835
-    latitude: 5.974901
-    longitude: 121.03351
-- name: Pangasinan
-  names:
-  - Pangasinan
-  code: PAN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 119.74955
-    minlatitude: 15.61848
-    maxlongitude: 120.922905
-    maxlatitude: 16.426502
-    latitude: 15.894905
-    longitude: 120.286316
-- name: Rizal
-  names:
-  - Rizal
-  code: RIZ
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.09354
-    minlatitude: 14.28968
-    maxlongitude: 121.469826
-    maxlatitude: 14.888871
-    latitude: 14.6037445
-    longitude: 121.30841
-- name: Northern Samar
-  names:
-  - Northern Samar
-  code: NSA
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.00252
-    minlatitude: 12.140506
-    maxlongitude: 125.34225
-    maxlatitude: 12.696654
-    latitude: 12.36132
-    longitude: 124.77408
-- name: Romblon
-  names:
-  - Romblon
-  code: ROM
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.23042
-    minlatitude: 12.477836
-    maxlongitude: 122.32808
-    maxlatitude: 12.671213
-    latitude: 12.577855
-    longitude: 122.26913
-- name: Surigao del Sur
-  names:
-  - Surigao del Sur
-  code: SUR
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.74392
-    minlatitude: 7.908139
-    maxlongitude: 126.458336
-    maxlatitude: 9.49626
-    latitude: 8.54049
-    longitude: 126.11448
-- name: North Cotabato
-  names:
-  - North Cotabato
-  code: NCO
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.333435
-    minlatitude: 6.7588267
-    maxlongitude: 125.31497
-    maxlatitude: 7.681885
-    latitude: 7.108335
-    longitude: 125.03882
-- name: Negros Occidental
-  names:
-  - Negros Occidental
-  code: NEC
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.37675
-    minlatitude: 9.423715
-    maxlongitude: 123.57017
-    maxlatitude: 11.003171
-    latitude: 10.292561
-    longitude: 123.02465
-- name: Davao del Norte
-  names:
-  - Davao
-  code: DAV
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 125.25046
-    minlatitude: 6.894526
-    maxlongitude: 125.944496
-    maxlatitude: 7.997327
-    latitude: 7.56177
-    longitude: 125.65328
-- name: Guimaras
-  names:
-  - Guimaras
-  code: GUI
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.47498
-    minlatitude: 10.389255
-    maxlongitude: 122.74107
-    maxlatitude: 10.754443
-    latitude: 10.592866
-    longitude: 122.63251
-- name: Negros Oriental
-  names:
-  - Negros Oriental
-  code: NER
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.610115
-    minlatitude: 9.038528
-    maxlongitude: 123.34005
-    maxlatitude: 10.416358
-    latitude: 9.628208
-    longitude: 122.98883
-- name: Biliran
-  names:
-  - Biliran
-  code: BIL
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.43207
-    minlatitude: 11.455638
-    maxlongitude: 124.541016
-    maxlatitude: 11.5656395
-    latitude: 11.466667
-    longitude: 124.48333
-- name: Cagayan
-  names:
-  - Cagayan
-  code: CAG
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.96006
-    minlatitude: 17.508123
-    maxlongitude: 122.33802
-    maxlatitude: 19.966265
-    latitude: 18.248962
-    longitude: 121.878784
-- name: Sultan Kudarat
-  names:
-  - Sultan Kudarat
-  code: SUK
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 124.01589
-    minlatitude: 6.11725
-    maxlongitude: 125.19762
-    maxlatitude: 6.883467
-    latitude: 6.50694
-    longitude: 124.41982
-- name: Camarines Norte
-  names:
-  - Camarines Norte
-  code: CAN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.30129
-    minlatitude: 13.835935
-    maxlongitude: 123.1176
-    maxlatitude: 14.493024
-    latitude: 14.139027
-    longitude: 122.763306
-- name: Misamis Occidental
-  names:
-  - Misamis Occidental
-  code: MSC
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.555626
-    minlatitude: 8.01499
-    maxlongitude: 123.86902
-    maxlatitude: 8.668944
-    latitude: 8.33749
-    longitude: 123.70706
-- name: Zamboanga del Norte
-  names:
-  - Zamboanga del Norte
-  code: ZAN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.90147
-    minlatitude: 7.144808
-    maxlongitude: 123.559395
-    maxlatitude: 8.856403
-    latitude: 8.388628
-    longitude: 123.16889
-- name: Maguindanao
-  names:
-  - Maguindanao
-  code: MAG
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 123.94376
-    minlatitude: 6.6498184
-    maxlongitude: 125.12055
-    maxlatitude: 7.651929
-    latitude: 6.942258
-    longitude: 124.41982
-- name: Quirino
-  names:
-  - Angkaki
-  code: QUI
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.68137
-    minlatitude: 17.098825
-    maxlongitude: 121.81866
-    maxlatitude: 17.210377
-    latitude: 17.133333
-    longitude: 121.7
-- name: Batanes
-  names:
-  - Batanes
-  code: BTN
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.77898
-    minlatitude: 20.257833
-    maxlongitude: 122.03489
-    maxlatitude: 21.120611
-    latitude: 20.448507
-    longitude: 121.97081
-- name: Iloilo
-  names:
-  - Iloilo
-  code: ILI
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.49409
-    minlatitude: 10.679284
-    maxlongitude: 122.60016
-    maxlatitude: 10.781857
-    latitude: 10.72015
-    longitude: 122.5621
-- name: Isabela
-  names:
-  - Isabela
-  code: ISA
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.33645
-    minlatitude: 16.379475
-    maxlongitude: 122.52781
-    maxlatitude: 17.545425
-    latitude: 16.975376
-    longitude: 121.81071
-- name: Marinduque
-  names:
-  - Marinduque
-  code: MAD
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 121.80645
-    minlatitude: 13.199029
-    maxlongitude: 122.14915
-    maxlatitude: 13.570694
-    latitude: 13.476717
-    longitude: 121.90322
-- name: ""
-  names:
-  - ""
-  code: MNL
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 116.70292
-    minlatitude: 4.5870337
-    maxlongitude: 126.604385
-    maxlatitude: 19.574024
-    latitude: 12.879721
-    longitude: 121.77402
-- name: Nueva Vizcaya
-  names:
-  - Nueva Vizcaya
-  code: NUV
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.75663
-    minlatitude: 15.7672
-    maxlongitude: 121.46577
-    maxlatitude: 16.745735
-    latitude: 16.33011
-    longitude: 121.171036
-- name: Capiz
-  names:
-  - Capiz
-  code: CAP
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 122.19929
-    minlatitude: 11.143651
-    maxlongitude: 123.10003
-    maxlatitude: 11.645162
-    latitude: 11.38888
-    longitude: 122.62775
-- name: Cavite
-  names:
-  - Cavite
-  code: CAV
-  countryalpha2: PH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 120.521286
-    minlatitude: 14.364645
-    maxlongitude: 120.92099
-    maxlatitude: 14.500236
-    latitude: 14.47913
-    longitude: 120.896965

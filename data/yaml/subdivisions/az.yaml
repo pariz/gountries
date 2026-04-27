@@ -1,427 +1,313 @@
-- name: Xankändi
-  names:
-  - Xankändi
-  code: XA
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.72983
-    minlatitude: 39.799553
-    maxlongitude: 46.789055
-    maxlatitude: 39.852024
-    latitude: 39.819626
-    longitude: 46.75944
-- name: Zärdab
-  names:
-  - Zärdab
-  code: ZAR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.694267
-    minlatitude: 40.201263
-    maxlongitude: 47.731216
-    maxlatitude: 40.24486
-    latitude: 40.218334
-    longitude: 47.708332
-- name: Astara
-  names:
-  - Astara
-  code: AST
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.85354
-    minlatitude: 38.44223
-    maxlongitude: 48.881176
-    maxlatitude: 38.49367
-    latitude: 38.456112
-    longitude: 48.878613
-- name: Bärdä
-  names:
-  - Bärdä
-  code: BAR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.09221
-    minlatitude: 40.34471
-    maxlongitude: 47.17186
-    maxlatitude: 40.405914
-    latitude: 40.3667
-    longitude: 47.1167
-- name: Culfa
-  names:
-  - Culfa
-  code: CUL
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.60564
-    minlatitude: 38.944744
-    maxlongitude: 45.661755
-    maxlatitude: 38.973423
-    latitude: 38.955833
-    longitude: 45.630833
-- name: Kälbäcär
-  names:
-  - Kälbäcär
-  code: KAL
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.60906
-    minlatitude: 39.81311
-    maxlongitude: 46.75955
-    maxlatitude: 40.31434
-    latitude: 40.13156
-    longitude: 46.167465
-- name: Naxçivan
-  names:
-  - Naxçivan
-  code: NX
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.36976
-    minlatitude: 39.17083
-    maxlongitude: 45.437737
-    maxlatitude: 39.228264
-    latitude: 39.20889
-    longitude: 45.412224
-- name: Qobustan
-  names:
-  - Qobustan
-  code: QOB
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.3877
-    minlatitude: 40.03379
-    maxlongitude: 49.433758
-    maxlatitude: 40.10799
-    latitude: 40.087795
-    longitude: 49.403023
-- name: Haciqabul
-  names:
-  - Haciqabul
-  code: HAC
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.885643
-    minlatitude: 40.006554
-    maxlongitude: 48.959274
-    maxlatitude: 40.063572
-    latitude: 40.04333
-    longitude: 48.935555
-- name: Lerik
-  names:
-  - Lerik
-  code: LER
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.398422
-    minlatitude: 38.764324
-    maxlongitude: 48.429066
-    maxlatitude: 38.786537
-    latitude: 38.77362
-    longitude: 48.41515
-- name: Mingäçevir
-  names:
-  - Mingäçevir
-  code: MI
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.952045
-    minlatitude: 40.730934
-    maxlongitude: 47.11564
-    maxlatitude: 40.79581
-    latitude: 40.770256
-    longitude: 47.049603
-- name: Xaçmaz
-  names:
-  - Xaçmaz
-  code: XAC
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.77462
-    minlatitude: 41.43951
-    maxlongitude: 48.84178
-    maxlatitude: 41.486336
-    latitude: 41.470833
-    longitude: 48.809723
-- name: Sumqayit
-  names:
-  - Sumqayit
-  code: SM
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.52113
-    minlatitude: 40.500103
-    maxlongitude: 49.74103
-    maxlatitude: 40.657234
-    latitude: 40.585476
-    longitude: 49.63174
-- name: Tärtär
-  names:
-  - Tärtär
-  code: TAR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.91102
-    minlatitude: 40.326588
-    maxlongitude: 46.968014
-    maxlatitude: 40.357662
-    latitude: 40.333332
-    longitude: 46.916668
 - name: Abseron
   names:
-  - Abseron
+    - Abseron
   code: ABS
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.843647
-    minlatitude: 39.947876
-    maxlongitude: 49.908775
-    maxlatitude: 40.63827
-    latitude: 40.36297
-    longitude: 49.27368
-- name: Agsu
+    minlongitude: 48.843646
+    minlatitude: 39.9478741
+    maxlongitude: 49.908777
+    maxlatitude: 40.638273
+    latitude: 40.3629693
+    longitude: 49.2736815
+- name: Agstafa
   names:
-  - Agsu
-  code: AGU
+    - Agstafa
+  code: AGA
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.370014
-    minlatitude: 40.553135
-    maxlongitude: 48.419537
-    maxlatitude: 40.58743
-    latitude: 40.569168
-    longitude: 48.400833
-- name: Babäk
-  names:
-  - Babäk
-  code: BAB
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.430958
-    minlatitude: 39.13359
-    maxlongitude: 45.468292
-    maxlatitude: 39.167534
-    latitude: 39.15076
-    longitude: 45.448536
-- name: Ismayilli
-  names:
-  - Ismayilli
-  code: ISM
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.130074
-    minlatitude: 40.764683
-    maxlongitude: 48.20346
-    maxlatitude: 40.811924
-    latitude: 40.79
-    longitude: 48.151943
-- name: Länkäran
-  names:
-  - Länkäran
-  code: LAN
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.82322
-    minlatitude: 38.732174
-    maxlongitude: 48.866932
-    maxlatitude: 38.797543
-    latitude: 38.753613
-    longitude: 48.851112
-- name: Qäbälä
-  names:
-  - Qäbälä
-  code: QAB
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.82147
-    minlatitude: 40.9478
-    maxlongitude: 47.87742
-    maxlatitude: 41.004265
-    latitude: 40.998165
-    longitude: 47.869984
+    minlongitude: 45.4031037
+    minlatitude: 41.09837
+    maxlongitude: 45.48357
+    maxlatitude: 41.1373284
+    latitude: 41.118889
+    longitude: 45.453889
 - name: Agcabädi
   names:
-  - Agcabädi
+    - Agcabädi
   code: AGC
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.059727
-    minlatitude: 39.70285
-    maxlongitude: 47.735413
-    maxlatitude: 40.248543
-    latitude: 40.025723
-    longitude: 47.329094
-- name: Göyçay
+    minlongitude: 47.0597249
+    minlatitude: 39.702849
+    maxlongitude: 47.735411
+    maxlatitude: 40.248541
+    latitude: 40.0257239
+    longitude: 47.3290937
+- name: Agdam
   names:
-  - Göyçay
-  code: GOY
+    - Agdam
+  code: AGM
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.674484
-    minlatitude: 40.591534
-    maxlongitude: 47.78572
-    maxlatitude: 40.672306
-    latitude: 40.6531
-    longitude: 47.7406
-- name: Neftçala
+    minlongitude: 46.9491719
+    minlatitude: 39.5526992
+    maxlongitude: 46.95384989999999
+    maxlatitude: 39.5579602
+    latitude: 39.5554533
+    longitude: 46.9507608
+- name: Agdas
   names:
-  - Neftçala
-  code: NEF
+    - Agdas
+  code: AGS
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 49.219093
-    minlatitude: 39.34359
-    maxlongitude: 49.272564
-    maxlatitude: 39.422203
-    latitude: 39.358612
-    longitude: 49.246944
-- name: Sabirabad
+    minlongitude: 47.4376344
+    minlatitude: 40.6229434
+    maxlongitude: 47.5069858
+    maxlatitude: 40.6659586
+    latitude: 40.6335427
+    longitude: 47.467431
+- name: Agsu
   names:
-  - Sabirabad
-  code: SAB
+    - Agsu
+  code: AGU
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.44413
-    minlatitude: 39.96824
-    maxlongitude: 48.501034
-    maxlatitude: 40.02275
-    latitude: 40.01278
-    longitude: 48.47889
+    minlongitude: 48.3700133
+    minlatitude: 40.553135
+    maxlongitude: 48.4195375
+    maxlatitude: 40.587429
+    latitude: 40.569167
+    longitude: 48.400833
+- name: Astara
+  names:
+    - Astara
+  code: AST
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.8535404
+    minlatitude: 38.4422285
+    maxlongitude: 48.8811778
+    maxlatitude: 38.4936713
+    latitude: 38.45611100000001
+    longitude: 48.878611
+- name: Baki
+  names:
+    - Baki
+  code: BA
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.6538049
+    minlatitude: 40.3039993
+    maxlongitude: 50.0561143
+    maxlatitude: 40.486602
+    latitude: 40.40926169999999
+    longitude: 49.8670924
+- name: Babäk
+  names:
+    - Babäk
+  code: BAB
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.4309559
+    minlatitude: 39.1335888
+    maxlongitude: 45.46829229999999
+    maxlatitude: 39.1675349
+    latitude: 39.1507613
+    longitude: 45.4485368
 - name: Balakän
   names:
-  - Balakän
+    - Balakän
   code: BAL
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.349773
-    minlatitude: 41.662205
-    maxlongitude: 46.460068
-    maxlatitude: 41.756012
-    latitude: 41.725834
+    minlongitude: 46.3497733
+    minlatitude: 41.6622043
+    maxlongitude: 46.4600659
+    maxlatitude: 41.7560107
+    latitude: 41.725833
     longitude: 46.408333
-- name: Ordubad
+- name: Bärdä
   names:
-  - Ordubad
-  code: ORD
+    - Bärdä
+  code: BAR
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.008682
-    minlatitude: 38.891567
-    maxlongitude: 46.036064
-    maxlatitude: 38.919086
-    latitude: 38.9
-    longitude: 46.033333
-- name: Sädäräk
+    minlongitude: 47.09220879999999
+    minlatitude: 40.3447124
+    maxlongitude: 47.1718597
+    maxlatitude: 40.405915
+    latitude: 40.3667
+    longitude: 47.11669999999999
+- name: Beyläqan
   names:
-  - Sädäräk
-  code: SAD
+    - Beyläqan
+  code: BEY
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 44.8534
-    minlatitude: 39.687836
-    maxlongitude: 44.917347
-    maxlatitude: 39.72851
-    latitude: 39.7175
-    longitude: 44.87639
-- name: Sämkir
-  names:
-  - Sämkir
-  code: SKR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.71357
-    minlatitude: 40.570686
-    maxlongitude: 46.323193
-    maxlatitude: 41.12996
-    latitude: 40.88124
-    longitude: 46.017902
-- name: Xocali
-  names:
-  - Xocali
-  code: XCI
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.770264
-    minlatitude: 39.904053
-    maxlongitude: 46.81479
-    maxlatitude: 39.920662
-    latitude: 39.913254
-    longitude: 46.794304
+    minlongitude: 47.58363250000001
+    minlatitude: 39.7545479
+    maxlongitude: 47.6407099
+    maxlatitude: 39.7852244
+    latitude: 39.766667
+    longitude: 47.616667
 - name: Biläsuvar
   names:
-  - Biläsuvar
+    - Biläsuvar
   code: BIL
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.52629
-    minlatitude: 39.435
-    maxlongitude: 48.56704
-    maxlatitude: 39.4796
+    minlongitude: 48.5262895
+    minlatitude: 39.4349998
+    maxlongitude: 48.5670376
+    maxlatitude: 39.4795993
     latitude: 39.45
     longitude: 48.533333
-- name: Däväçi
+- name: Cäbrayil
   names:
-  - Däväçi
-  code: DAV
+    - Cäbrayil
+  code: CAB
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.692907
+    minlatitude: 39.132511
+    maxlongitude: 47.27655410000001
+    maxlatitude: 39.478561
+    latitude: 39.2645544
+    longitude: 46.9621561
+- name: Cälilabab
+  names:
+    - Cälilabab
+  code: CAL
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.1295969
+    minlatitude: 38.98947
+    maxlongitude: 48.754075
+    maxlatitude: 39.408813
+    latitude: 39.218442
+    longitude: 48.4295146
+- name: Culfa
+  names:
+    - Culfa
+  code: CUL
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.605641
+    minlatitude: 38.9447447
+    maxlongitude: 45.6617546
+    maxlatitude: 38.9734231
+    latitude: 38.955833
+    longitude: 45.630833
+- name: Daskäsän
+  names:
+    - Daskäsän
+  code: DAS
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.0622406
+    minlatitude: 40.5079263
+    maxlongitude: 46.09107969999999
+    maxlatitude: 40.5287404
+    latitude: 40.5202257
+    longitude: 46.0779304
+- name: Füzuli
+  names:
+    - Füzuli
+  code: FUZ
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.1216489
+    minlatitude: 39.5692419
+    maxlongitude: 47.1828459
+    maxlatitude: 39.6252594
+    latitude: 39.6003
+    longitude: 47.1431
+- name: Gäncä
+  names:
+    - Gäncä
+  code: GA
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.2979746
+    minlatitude: 40.6333659
+    maxlongitude: 46.4393805
+    maxlatitude: 40.7553196
+    latitude: 40.682778
+    longitude: 46.360556
+- name: Gädäbäy
+  names:
+    - Gädäbäy
+  code: GAD
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.3550831
+    minlatitude: 40.319229
+    maxlongitude: 45.915231
+    maxlatitude: 40.821649
+    latitude: 40.5087904
+    longitude: 45.67288509999999
+- name: Goranboy
+  names:
+    - Goranboy
+  code: GOR
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.7551517
+    minlatitude: 40.5915353
+    maxlongitude: 46.8130016
+    maxlatitude: 40.6267217
+    latitude: 40.610278
+    longitude: 46.789722
+- name: Göyçay
+  names:
+    - Göyçay
+  code: GOY
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.67448410000001
+    minlatitude: 40.5915353
+    maxlongitude: 47.78572080000001
+    maxlatitude: 40.6723061
+    latitude: 40.65309999999999
+    longitude: 47.7406
+- name: Göygöl
+  code: GYG
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
@@ -430,53 +316,441 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 41.287224
-    longitude: 49.074722
+    latitude: 0
+    longitude: 0
+- name: Haciqabul
+  names:
+    - Haciqabul
+  code: HAC
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.8856411
+    minlatitude: 40.00655500000001
+    maxlongitude: 48.959273
+    maxlatitude: 40.0635722
+    latitude: 40.043333
+    longitude: 48.935556
+- name: Imisli
+  names:
+    - Imisli
+  code: IMI
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.0193521
+    minlatitude: 39.8378046
+    maxlongitude: 48.1096519
+    maxlatitude: 39.8917536
+    latitude: 39.8692
+    longitude: 48.06
+- name: Ismayilli
+  names:
+    - Ismayilli
+  code: ISM
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.13007349999999
+    minlatitude: 40.7646814
+    maxlongitude: 48.2034588
+    maxlatitude: 40.8119253
+    latitude: 40.79
+    longitude: 48.151944
+- name: Kälbäcär
+  names:
+    - Kälbäcär
+  code: KAL
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.6090569
+    minlatitude: 39.81310999999999
+    maxlongitude: 46.759549
+    maxlatitude: 40.31433699999999
+    latitude: 40.1315615
+    longitude: 46.1674645
+- name: Kəngərli
+  code: KAN
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kürdämir
+  names:
+    - Kürdämir
+  code: KUR
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.120718
+    minlatitude: 40.3172317
+    maxlongitude: 48.2148742
+    maxlatitude: 40.3976794
+    latitude: 40.34
+    longitude: 48.16
+- name: Länkäran City
+  names:
+    - Länkäran City
+  code: LA
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.8232207
+    minlatitude: 38.7321757
+    maxlongitude: 48.8669301
+    maxlatitude: 38.7975439
+    latitude: 38.753611
+    longitude: 48.851111
 - name: Laçin
   names:
-  - Laçin
+    - Laçin
   code: LAC
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.526585
-    minlatitude: 39.6168
-    maxlongitude: 46.56579
-    maxlatitude: 39.65236
-    latitude: 39.63333
+    minlongitude: 46.5265846
+    minlatitude: 39.6167968
+    maxlongitude: 46.5657878
+    maxlatitude: 39.652359
+    latitude: 39.633333
     longitude: 46.55
+- name: Länkäran
+  names:
+    - Länkäran
+  code: LAN
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.8232207
+    minlatitude: 38.7321757
+    maxlongitude: 48.8669301
+    maxlatitude: 38.7975439
+    latitude: 38.753611
+    longitude: 48.851111
+- name: Lerik
+  names:
+    - Lerik
+  code: LER
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.3984231
+    minlatitude: 38.7643235
+    maxlongitude: 48.4290648
+    maxlatitude: 38.786539
+    latitude: 38.7736192
+    longitude: 48.4151483
+- name: Masalli
+  names:
+    - Masalli
+  code: MAS
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.6470318
+    minlatitude: 39.0163495
+    maxlongitude: 48.6902905
+    maxlatitude: 39.0481191
+    latitude: 39.033333
+    longitude: 48.65
+- name: Mingäçevir
+  names:
+    - Mingäçevir
+  code: MI
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.9520472
+    minlatitude: 40.73093360000001
+    maxlongitude: 47.1156406
+    maxlatitude: 40.7958107
+    latitude: 40.7702563
+    longitude: 47.0496015
 - name: Naftalan
   names:
-  - Naftalan
+    - Naftalan
   code: NA
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.809227
-    minlatitude: 40.494743
-    maxlongitude: 46.846046
-    maxlatitude: 40.521694
-    latitude: 40.506668
+    minlongitude: 46.8092251
+    minlatitude: 40.4947426
+    maxlongitude: 46.8460464
+    maxlatitude: 40.5216943
+    latitude: 40.506667
     longitude: 46.825
+- name: Neftçala
+  names:
+    - Neftçala
+  code: NEF
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.2190934
+    minlatitude: 39.3435909
+    maxlongitude: 49.2725657
+    maxlatitude: 39.4222045
+    latitude: 39.358611
+    longitude: 49.246944
+- name: Naxçıvan
+  code: NV
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Naxçivan
+  names:
+    - Naxçivan
+  code: NX
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.3697586
+    minlatitude: 39.1708288
+    maxlongitude: 45.4377366
+    maxlatitude: 39.228264
+    latitude: 39.208889
+    longitude: 45.412222
 - name: Oguz
   names:
-  - Oguz
+    - Oguz
   code: OGU
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.450638
-    minlatitude: 41.05955
-    maxlongitude: 47.478275
-    maxlatitude: 41.092354
-    latitude: 41.07083
-    longitude: 47.458332
+    minlongitude: 47.4506378
+    minlatitude: 41.0595502
+    maxlongitude: 47.4782753
+    maxlatitude: 41.0923544
+    latitude: 41.070833
+    longitude: 47.458333
+- name: Ordubad
+  names:
+    - Ordubad
+  code: ORD
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.0086823
+    minlatitude: 38.8915673
+    maxlongitude: 46.0360623
+    maxlatitude: 38.9190856
+    latitude: 38.9
+    longitude: 46.033333
+- name: Qäbälä
+  names:
+    - Qäbälä
+  code: QAB
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.8214693
+    minlatitude: 40.9477997
+    maxlongitude: 47.8774202
+    maxlatitude: 41.0042653
+    latitude: 40.9981633
+    longitude: 47.8699826
+- name: Qax
+  names:
+    - Qax
+  code: QAX
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.89085009999999
+    minlatitude: 41.4077159
+    maxlongitude: 46.9906713
+    maxlatitude: 41.4429194
+    latitude: 41.4225
+    longitude: 46.924167
+- name: Qazax
+  names:
+    - Qazax
+  code: QAZ
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.3229809
+    minlatitude: 41.0805481
+    maxlongitude: 45.3892851
+    maxlatitude: 41.1163487
+    latitude: 41.093333
+    longitude: 45.366111
+- name: Quba
+  names:
+    - Quba
+  code: QBA
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.4612941
+    minlatitude: 41.3494949
+    maxlongitude: 48.557725
+    maxlatitude: 41.3764865
+    latitude: 41.359722
+    longitude: 48.5125
+- name: Qubadli
+  names:
+    - Qubadli
+  code: QBI
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.3865889
+    minlatitude: 39.120843
+    maxlongitude: 46.829667
+    maxlatitude: 39.489675
+    latitude: 39.2713996
+    longitude: 46.6354312
+- name: Qobustan
+  names:
+    - Qobustan
+  code: QOB
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.38769749999999
+    minlatitude: 40.0337922
+    maxlongitude: 49.433756
+    maxlatitude: 40.1079896
+    latitude: 40.0877962
+    longitude: 49.4030219
+- name: Qusar
+  names:
+    - Qusar
+  code: QUS
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.3841753
+    minlatitude: 41.4036923
+    maxlongitude: 48.4615945
+    maxlatitude: 41.4406353
+    latitude: 41.426389
+    longitude: 48.435556
+- name: Säki City
+  names:
+    - Säki City
+  code: SA
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -114.8165909
+    minlatitude: 31.3321771
+    maxlongitude: -109.0452231
+    maxlatitude: 37.0042599
+    latitude: 34.0489281
+    longitude: -111.0937311
+- name: Sabirabad
+  names:
+    - Sabirabad
+  code: SAB
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.4441281
+    minlatitude: 39.9682403
+    maxlongitude: 48.5010339
+    maxlatitude: 40.0227507
+    latitude: 40.012778
+    longitude: 48.478889
+- name: Sädäräk
+  names:
+    - Sädäräk
+  code: SAD
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.85340129999999
+    minlatitude: 39.6878368
+    maxlongitude: 44.9173451
+    maxlatitude: 39.7285114
+    latitude: 39.7175
+    longitude: 44.876389
+- name: Sahbuz
+  names:
+    - Sahbuz
+  code: SAH
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.5522345
+    minlatitude: 39.39315759999999
+    maxlongitude: 45.597639
+    maxlatitude: 39.4185908
+    latitude: 39.407222
+    longitude: 45.57388900000001
+- name: Säki
+  names:
+    - Säki
+  code: SAK
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.808805
+    minlatitude: 40.7506485
+    maxlongitude: 47.6075521
+    maxlatitude: 41.485622
+    latitude: 41.1134662
+    longitude: 47.13169269999999
+- name: Salyan
+  names:
+    - Salyan
+  code: SAL
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.91036039999999
+    minlatitude: 39.5387341
+    maxlongitude: 49.0261459
+    maxlatitude: 39.6451555
+    latitude: 39.595
+    longitude: 48.979167
 - name: Särur
   names:
-  - Särur
+    - Särur
   code: SAR
   countryalpha2: AZ
   coordinates:
@@ -484,595 +758,325 @@
     latitudestring: ""
     minlongitude: 44.82024
     minlatitude: 39.3825
-    maxlongitude: 45.2861
+    maxlongitude: 45.2860981
     maxlatitude: 39.785526
-    latitude: 39.568752
-    longitude: 45.082333
-- name: Qusar
-  names:
-  - Qusar
-  code: QUS
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.384174
-    minlatitude: 41.403694
-    maxlongitude: 48.461594
-    maxlatitude: 41.440636
-    latitude: 41.426388
-    longitude: 48.435555
-- name: Säki City
-  names:
-  - Säki City
-  code: SA
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -114.81659
-    minlatitude: 31.332176
-    maxlongitude: -109.04522
-    maxlatitude: 37.00426
-    latitude: 34.048927
-    longitude: -111.093735
-- name: Xizi
-  names:
-  - Xizi
-  code: XIZ
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.051636
-    minlatitude: 40.89749
-    maxlongitude: 49.08949
-    maxlatitude: 40.92512
-    latitude: 40.9
-    longitude: 49.066666
-- name: Yevlax City
-  names:
-  - Yevlax City
-  code: YE
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.109806
-    minlatitude: 40.58306
-    maxlongitude: 47.183533
-    maxlatitude: 40.63317
-    latitude: 40.61722
-    longitude: 47.15
-- name: Zaqatala
-  names:
-  - Zaqatala
-  code: ZAQ
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.60778
-    minlatitude: 41.58502
-    maxlongitude: 46.67576
-    maxlatitude: 41.646973
-    latitude: 41.63361
-    longitude: 46.643333
-- name: Sahbuz
-  names:
-  - Sahbuz
-  code: SAH
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.552235
-    minlatitude: 39.393158
-    maxlongitude: 45.597637
-    maxlatitude: 39.41859
-    latitude: 39.407223
-    longitude: 45.57389
-- name: Salyan
-  names:
-  - Salyan
-  code: SAL
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.910362
-    minlatitude: 39.538734
-    maxlongitude: 49.026146
-    maxlatitude: 39.645157
-    latitude: 39.595
-    longitude: 48.979168
-- name: Siyäzän
-  names:
-  - Siyäzän
-  code: SIY
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.092323
-    minlatitude: 41.061913
-    maxlongitude: 49.137726
-    maxlatitude: 41.098824
-    latitude: 41.078384
-    longitude: 49.111847
-- name: Beyläqan
-  names:
-  - Beyläqan
-  code: BEY
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.583633
-    minlatitude: 39.754547
-    maxlongitude: 47.64071
-    maxlatitude: 39.785225
-    latitude: 39.766666
-    longitude: 47.61667
-- name: Gädäbäy
-  names:
-  - Gädäbäy
-  code: GAD
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.355083
-    minlatitude: 40.31923
-    maxlongitude: 45.91523
-    maxlatitude: 40.821648
-    latitude: 40.50879
-    longitude: 45.672886
-- name: Qazax
-  names:
-  - Qazax
-  code: QAZ
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.322983
-    minlatitude: 41.080547
-    maxlongitude: 45.389286
-    maxlatitude: 41.11635
-    latitude: 41.093334
-    longitude: 45.36611
-- name: Säki
-  names:
-  - Säki
-  code: SAK
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.808804
-    minlatitude: 40.75065
-    maxlongitude: 47.60755
-    maxlatitude: 41.485622
-    latitude: 41.113464
-    longitude: 47.13169
+    latitude: 39.5687523
+    longitude: 45.0823321
 - name: Saatli
   names:
-  - Saatli
+    - Saatli
   code: SAT
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.287487
-    minlatitude: 39.87681
-    maxlongitude: 48.456573
-    maxlatitude: 39.966858
-    latitude: 39.930832
-    longitude: 48.369446
-- name: Susa
-  names:
-  - Susa
-  code: SUS
+    minlongitude: 48.2874871
+    minlatitude: 39.8768098
+    maxlongitude: 48.4565735
+    maxlatitude: 39.9668589
+    latitude: 39.930833
+    longitude: 48.36944399999999
+- name: Şabran (rayon)
+  code: SBN
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.730774
-    minlatitude: 39.745605
-    maxlongitude: 46.76562
-    maxlatitude: 39.772594
-    latitude: 39.753742
-    longitude: 46.746475
-- name: Agstafa
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Siyäzän
   names:
-  - Agstafa
-  code: AGA
+    - Siyäzän
+  code: SIY
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 45.403103
-    minlatitude: 41.09837
-    maxlongitude: 45.48357
-    maxlatitude: 41.13733
-    latitude: 41.11889
-    longitude: 45.453888
-- name: Agdam
+    minlongitude: 49.0923215
+    minlatitude: 41.0619124
+    maxlongitude: 49.1377259
+    maxlatitude: 41.09882270000001
+    latitude: 41.0783833
+    longitude: 49.1118478
+- name: Sämkir
   names:
-  - Agdam
-  code: AGM
+    - Sämkir
+  code: SKR
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.949173
-    minlatitude: 39.5527
-    maxlongitude: 46.95385
-    maxlatitude: 39.55796
-    latitude: 39.555454
-    longitude: 46.95076
+    minlongitude: 45.713568
+    minlatitude: 40.570687
+    maxlongitude: 46.323192
+    maxlatitude: 41.129959
+    latitude: 40.88123969999999
+    longitude: 46.0179009
+- name: Sumqayit
+  names:
+    - Sumqayit
+  code: SM
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.5211315
+    minlatitude: 40.5001047
+    maxlongitude: 49.74102980000001
+    maxlatitude: 40.6572359
+    latitude: 40.5854765
+    longitude: 49.6317411
 - name: Samaxi
   names:
-  - Samaxi
+    - Samaxi
   code: SMI
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.60828
-    minlatitude: 40.605644
-    maxlongitude: 48.67141
-    maxlatitude: 40.654175
-    latitude: 40.631874
-    longitude: 48.63638
-- name: Xocavänd
-  names:
-  - Xocavänd
-  code: XVD
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.63206
-    minlatitude: 39.375195
-    maxlongitude: 47.345413
-    maxlatitude: 39.88367
-    latitude: 39.706028
-    longitude: 47.064533
-- name: Yardimli
-  names:
-  - Yardimli
-  code: YAR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.214832
-    minlatitude: 38.886826
-    maxlongitude: 48.286587
-    maxlatitude: 38.91568
-    latitude: 38.90589
-    longitude: 48.24961
-- name: Agdas
-  names:
-  - Agdas
-  code: AGS
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.437634
-    minlatitude: 40.622944
-    maxlongitude: 47.506985
-    maxlatitude: 40.66596
-    latitude: 40.63354
-    longitude: 47.46743
-- name: Daskäsän
-  names:
-  - Daskäsän
-  code: DAS
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.06224
-    minlatitude: 40.507927
-    maxlongitude: 46.09108
-    maxlatitude: 40.52874
-    latitude: 40.520226
-    longitude: 46.07793
-- name: Cäbrayil
-  names:
-  - Cäbrayil
-  code: CAB
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.692905
-    minlatitude: 39.13251
-    maxlongitude: 47.276554
-    maxlatitude: 39.47856
-    latitude: 39.264553
-    longitude: 46.962154
-- name: Imisli
-  names:
-  - Imisli
-  code: IMI
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.019352
-    minlatitude: 39.837803
-    maxlongitude: 48.109653
-    maxlatitude: 39.891754
-    latitude: 39.8692
-    longitude: 48.06
-- name: Qax
-  names:
-  - Qax
-  code: QAX
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.89085
-    minlatitude: 41.407715
-    maxlongitude: 46.990673
-    maxlatitude: 41.44292
-    latitude: 41.4225
-    longitude: 46.924168
-- name: Quba
-  names:
-  - Quba
-  code: QBA
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.461292
-    minlatitude: 41.349495
-    maxlongitude: 48.557724
-    maxlatitude: 41.376488
-    latitude: 41.359722
-    longitude: 48.5125
+    minlongitude: 48.6082792
+    minlatitude: 40.6056446
+    maxlongitude: 48.6714078
+    maxlatitude: 40.6541736
+    latitude: 40.63187310000001
+    longitude: 48.6363801
 - name: Samux
   names:
-  - Samux
+    - Samux
   code: SMX
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.392002
-    minlatitude: 40.74745
-    maxlongitude: 46.42376
-    maxlatitude: 40.782036
-    latitude: 40.765835
-    longitude: 46.40889
+    minlongitude: 46.3920022
+    minlatitude: 40.747452
+    maxlongitude: 46.42375939999999
+    maxlatitude: 40.7820362
+    latitude: 40.765833
+    longitude: 46.40888899999999
+- name: Şirvan
+  code: SR
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Susa
+  names:
+    - Susa
+  code: SUS
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.7307758
+    minlatitude: 39.7456061
+    maxlongitude: 46.765623
+    maxlatitude: 39.7725926
+    latitude: 39.7537438
+    longitude: 46.7464755
+- name: Tärtär
+  names:
+    - Tärtär
+  code: TAR
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.9110202
+    minlatitude: 40.3265895
+    maxlongitude: 46.96801199999999
+    maxlatitude: 40.3576638
+    latitude: 40.333333
+    longitude: 46.916667
 - name: Tovuz
   names:
-  - Tovuz
+    - Tovuz
   code: TOV
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 45.59075
-    minlatitude: 40.975426
-    maxlongitude: 45.643646
-    maxlatitude: 41.0085
+    minlongitude: 45.5907513
+    minlatitude: 40.9754255
+    maxlongitude: 45.6436444
+    maxlatitude: 41.0084997
     latitude: 40.9922
-    longitude: 45.6289
-- name: Baki
-  names:
-  - Baki
-  code: BA
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 49.653805
-    minlatitude: 40.304
-    maxlongitude: 50.056114
-    maxlatitude: 40.486603
-    latitude: 40.40926
-    longitude: 49.867092
-- name: Cälilabab
-  names:
-  - Cälilabab
-  code: CAL
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.129597
-    minlatitude: 38.98947
-    maxlongitude: 48.754074
-    maxlatitude: 39.408813
-    latitude: 39.21844
-    longitude: 48.429516
-- name: Qubadli
-  names:
-  - Qubadli
-  code: QBI
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.38659
-    minlatitude: 39.120842
-    maxlongitude: 46.829666
-    maxlatitude: 39.489674
-    latitude: 39.2714
-    longitude: 46.63543
+    longitude: 45.62889999999999
 - name: Ucar
   names:
-  - Ucar
+    - Ucar
   code: UCA
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.628307
-    minlatitude: 40.48965
-    maxlongitude: 47.67427
-    maxlatitude: 40.529686
+    minlongitude: 47.6283074
+    minlatitude: 40.4896513
+    maxlongitude: 47.6742697
+    maxlatitude: 40.5296863
     latitude: 40.518333
     longitude: 47.654167
-- name: Susa City
+- name: Xankändi
   names:
-  - Susa City
-  code: SS
+    - Xankändi
+  code: XA
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.730774
-    minlatitude: 39.745605
-    maxlongitude: 46.76562
-    maxlatitude: 39.772594
-    latitude: 39.753742
-    longitude: 46.746475
+    minlongitude: 46.7298317
+    minlatitude: 39.7995519
+    maxlongitude: 46.7890549
+    maxlatitude: 39.8520223
+    latitude: 39.8196258
+    longitude: 46.7594431
+- name: Xaçmaz
+  names:
+    - Xaçmaz
+  code: XAC
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.774619
+    minlatitude: 41.4395092
+    maxlongitude: 48.8417817
+    maxlatitude: 41.4863344
+    latitude: 41.470833
+    longitude: 48.809722
+- name: Xocali
+  names:
+    - Xocali
+  code: XCI
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.770262
+    minlatitude: 39.9040514
+    maxlongitude: 46.8147892
+    maxlatitude: 39.9206634
+    latitude: 39.9132553
+    longitude: 46.794305
+- name: Xizi
+  names:
+    - Xizi
+  code: XIZ
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.0516375
+    minlatitude: 40.8974897
+    maxlongitude: 49.0894889
+    maxlatitude: 40.9251219
+    latitude: 40.9
+    longitude: 49.066667
+- name: Xocavänd
+  names:
+    - Xocavänd
+  code: XVD
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.63206090000001
+    minlatitude: 39.3751951
+    maxlongitude: 47.345414
+    maxlatitude: 39.883672
+    latitude: 39.7060287
+    longitude: 47.064533
+- name: Yardimli
+  names:
+    - Yardimli
+  code: YAR
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 48.2148314
+    minlatitude: 38.886824
+    maxlongitude: 48.2865858
+    maxlatitude: 38.9156798
+    latitude: 38.9058917
+    longitude: 48.24961270000001
+- name: Yevlax City
+  names:
+    - Yevlax City
+  code: YE
+  countryalpha2: AZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.1098042
+    minlatitude: 40.5830618
+    maxlongitude: 47.1835326
+    maxlatitude: 40.6331705
+    latitude: 40.617222
+    longitude: 47.15
 - name: Yevlax
   names:
-  - Yevlax
+    - Yevlax
   code: YEV
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.109806
-    minlatitude: 40.58306
-    maxlongitude: 47.183533
-    maxlatitude: 40.63317
-    latitude: 40.61722
+    minlongitude: 47.1098042
+    minlatitude: 40.5830618
+    maxlongitude: 47.1835326
+    maxlatitude: 40.6331705
+    latitude: 40.617222
     longitude: 47.15
 - name: Zängilan
   names:
-  - Zängilan
+    - Zängilan
   code: ZAN
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 46.43834
+    minlongitude: 46.43833900000001
     minlatitude: 38.872734
-    maxlongitude: 46.876026
-    maxlatitude: 39.224586
-    latitude: 39.031895
-    longitude: 46.626537
-- name: Äli Bayramli
+    maxlongitude: 46.8760261
+    maxlatitude: 39.224588
+    latitude: 39.0318935
+    longitude: 46.6265379
+- name: Zaqatala
   names:
-  - Äli Bayramli
-  code: AB
+    - Zaqatala
+  code: ZAQ
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 48.867447
-    minlatitude: 39.86884
-    maxlongitude: 48.98074
-    maxlatitude: 39.983433
-    latitude: 39.931946
-    longitude: 48.920277
-- name: Füzuli
+    minlongitude: 46.6077804
+    minlatitude: 41.5850192
+    maxlongitude: 46.6757584
+    maxlatitude: 41.6469735
+    latitude: 41.63361099999999
+    longitude: 46.643333
+- name: Zärdab
   names:
-  - Füzuli
-  code: FUZ
+    - Zärdab
+  code: ZAR
   countryalpha2: AZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.12165
-    minlatitude: 39.56924
-    maxlongitude: 47.182846
-    maxlatitude: 39.62526
-    latitude: 39.6003
-    longitude: 47.1431
-- name: Gäncä
-  names:
-  - Gäncä
-  code: GA
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.297974
-    minlatitude: 40.633366
-    maxlongitude: 46.43938
-    maxlatitude: 40.75532
-    latitude: 40.682777
-    longitude: 46.360558
-- name: Goranboy
-  names:
-  - Goranboy
-  code: GOR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.75515
-    minlatitude: 40.591534
-    maxlongitude: 46.813
-    maxlatitude: 40.62672
-    latitude: 40.61028
-    longitude: 46.789722
-- name: Kürdämir
-  names:
-  - Kürdämir
-  code: KUR
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.120716
-    minlatitude: 40.31723
-    maxlongitude: 48.214874
-    maxlatitude: 40.39768
-    latitude: 40.34
-    longitude: 48.16
-- name: Länkäran City
-  names:
-  - Länkäran City
-  code: LA
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.82322
-    minlatitude: 38.732174
-    maxlongitude: 48.866932
-    maxlatitude: 38.797543
-    latitude: 38.753613
-    longitude: 48.851112
-- name: Masalli
-  names:
-  - Masalli
-  code: MAS
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 48.647034
-    minlatitude: 39.01635
-    maxlongitude: 48.690292
-    maxlatitude: 39.04812
-    latitude: 39.033333
-    longitude: 48.65
-- name: Xanlar
-  names:
-  - Xanlar
-  code: XAN
-  countryalpha2: AZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.078648
-    minlatitude: 40.274403
-    maxlongitude: 46.51906
-    maxlatitude: 40.841457
-    latitude: 40.50085
-    longitude: 46.345486
+    minlongitude: 47.6942681
+    minlatitude: 40.2012645
+    maxlongitude: 47.73121829999999
+    maxlatitude: 40.2448614
+    latitude: 40.218333
+    longitude: 47.708333

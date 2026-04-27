@@ -1,69 +1,112 @@
 name:
-  common: Monaco
-  official: Principality of Monaco
-  native:
-    fra:
-      common: Monaco
-      official: Principauté de Monaco
+    common: Monaco
+    official: The Principality of Monaco
+    native:
+        fra:
+            common: Monaco
+            official: Principauté de Monaco
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Monegasque
 tlds:
-- .mc
+    - .mc
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Monaco
-    official: Fürstentum Monaco
-  FIN:
-    common: Monaco
-    official: Monacon ruhtinaskunta
-  FRA:
-    common: Monaco
-    official: Principauté de Monaco
-  HRV:
-    common: Monako
-    official: Kneževina Monako
-  ITA:
-    common: Principato di Monaco
-    official: Principato di Monaco
-  JPN:
-    common: モナコ
-    official: モナコ公国
-  NLD:
-    common: Monaco
-    official: Vorstendom Monaco
-  POR:
-    common: Mónaco
-    official: Principado do Mónaco
-  SPA:
-    common: Mónaco
-    official: Principado de Mónaco
+    ARA:
+        common: موناكو
+        official: إمارة موناكو
+    CES:
+        common: Monako
+        official: Monacké knížectví
+    DEU:
+        common: Monaco
+        official: Fürstentum Monaco
+    EST:
+        common: Monaco
+        official: Monaco Vürstiriik
+    FIN:
+        common: Monaco
+        official: Monacon ruhtinaskunta
+    FRA:
+        common: Monaco
+        official: Principauté de Monaco
+    HRV:
+        common: Monako
+        official: Kneževina Monako
+    HUN:
+        common: Monaco
+        official: Monacói Hercegség
+    ITA:
+        common: Principato di Monaco
+        official: Principato di Monaco
+    JPN:
+        common: モナコ
+        official: モナコ公国
+    KOR:
+        common: 모나코
+        official: 모나코 공국
+    NLD:
+        common: Monaco
+        official: Vorstendom Monaco
+    PER:
+        common: موناکو
+        official: شاهزاده‌نشین موناکو
+    POL:
+        common: Monako
+        official: Księstwo Monako
+    POR:
+        common: Mónaco
+        official: Principado do Mónaco
+    RUS:
+        common: Монако
+        official: Княжество Монако
+    SLK:
+        common: Monako
+        official: Monacké kniežatstvo
+    SPA:
+        common: Mónaco
+        official: Principado de Mónaco
+    SRP:
+        common: Monako
+        official: Kneževina Monako
+    SWE:
+        common: Monaco
+        official: Furstendömet Monaco
+    TUR:
+        common: Monako
+        official: Monako Prensliği
+    URD:
+        common: موناکو
+        official: جمہوریہ مناکو
+    ZHO:
+        common: 摩纳哥
+        official: 摩纳哥公国
 currencies:
-- EUR
+    - EUR
 borders:
-- FRA
+    - FRA
 codes:
-  alpha2: MC
-  alpha3: MCO
-  cioc: MON
-  ccn3: "492"
-  callingcodes:
-  - "377"
-  internationalprefix: "00"
+    alpha2: MC
+    alpha3: MCO
+    cioc: MON
+    ccn3: "492"
+    callingcodes:
+        - "377"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Monaco
-  area: 2
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Monaco
+    area: 2.02
 coordinates:
-  longitudestring: 7 24 E
-  latitudestring: 43 44 N
-  minlongitude: 7.4
-  minlatitude: 43.716667
-  maxlongitude: 7.439444
-  maxlatitude: 43.745834
-  latitude: 43.73893
-  longitude: 7.425483
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.4091049
+    minlatitude: 43.7237999
+    maxlongitude: 7.4426
+    maxlatitude: 43.7519029
+    latitude: 43.73841760000001
+    longitude: 7.424615799999999

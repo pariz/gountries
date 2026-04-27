@@ -1,188 +1,118 @@
-- name: Comayagua
-  names:
-  - Comayagua
-  code: CM
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.08321
-    minlatitude: 14.066805
-    maxlongitude: -87.26158
-    maxlatitude: 15.0569
-    latitude: 14.553483
-    longitude: -87.61864
-- name: El Paraíso
-  names:
-  - El Paraíso
-  code: EP
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.2356
-    minlatitude: 13.50136
-    maxlongitude: -85.57648
-    maxlatitude: 14.380148
-    latitude: 14.073693
-    longitude: -86.41873
-- name: La Paz
-  names:
-  - La Paz
-  code: LP
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.23758
-    minlatitude: 13.822687
-    maxlongitude: -87.60881
-    maxlatitude: 14.417439
-    latitude: 13.998484
-    longitude: -87.93348
-- name: Ocotepeque
-  names:
-  - Ocotepeque
-  code: OC
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -89.35079
-    minlatitude: 14.249759
-    maxlongitude: -88.71631
-    maxlatitude: 14.747355
-    latitude: 14.517035
-    longitude: -89.05615
-- name: Valle
-  names:
-  - Valle
-  code: VA
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.86829
-    minlatitude: 13.248704
-    maxlongitude: -87.3612
-    maxlatitude: 13.853783
-    latitude: 13.578294
-    longitude: -87.57913
 - name: Atlántida
   names:
-  - Atlántida
+    - Atlántida
   code: AT
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.79709
+    minlongitude: -87.7970871
     minlatitude: 15.430607
-    maxlongitude: -86.327545
-    maxlatitude: 15.918292
-    latitude: 15.669628
-    longitude: -87.14229
+    maxlongitude: -86.3275431
+    maxlatitude: 15.9182919
+    latitude: 15.6696283
+    longitude: -87.14228949999999
+- name: Choluteca
+  names:
+    - Choluteca
+  code: CH
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.2275829
+    minlatitude: 13.2443735
+    maxlongitude: -87.11497299999999
+    maxlatitude: 13.3577214
+    latitude: 13.3198572
+    longitude: -87.1622344
+- name: Colón
+  names:
+    - Colón
+  code: CL
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.4258461
+    minlatitude: 15.0795581
+    maxlongitude: -84.9903293
+    maxlatitude: 16.0269222
+    latitude: 15.6391768
+    longitude: -85.35496499999999
+- name: Comayagua
+  names:
+    - Comayagua
+  code: CM
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.08321099999999
+    minlatitude: 14.0668049
+    maxlongitude: -87.261583
+    maxlatitude: 15.0569
+    latitude: 14.5534828
+    longitude: -87.6186379
 - name: Copán
   names:
-  - Copán
+    - Copán
   code: CP
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -89.22522
-    minlatitude: 14.526046
+    minlatitude: 14.5260461
     maxlongitude: -88.63253
     maxlatitude: 15.294539
-    latitude: 14.936084
-    longitude: -88.8647
-- name: Intibucá
-  names:
-  - Intibucá
-  code: IN
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -88.19772
-    minlatitude: 14.309215
-    maxlongitude: -88.13687
-    maxlatitude: 14.337657
-    latitude: 14.316667
-    longitude: -88.166664
-- name: Olancho
-  names:
-  - Olancho
-  code: OL
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.95449
-    minlatitude: 14.046359
-    maxlongitude: -84.987854
-    maxlatitude: 15.61391
-    latitude: 14.806741
-    longitude: -85.76666
-- name: Colón
-  names:
-  - Colón
-  code: CL
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.42585
-    minlatitude: 15.079558
-    maxlongitude: -84.990326
-    maxlatitude: 16.026922
-    latitude: 15.639176
-    longitude: -85.354965
+    latitude: 14.9360838
+    longitude: -88.86469799999999
 - name: Cortés
   names:
-  - Cortés
+    - Cortés
   code: CR
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.44253
-    minlatitude: 14.810416
-    maxlongitude: -87.725784
-    maxlatitude: 15.919812
-    latitude: 15.490952
-    longitude: -87.93348
-- name: Islas de la Bahía
+    minlongitude: -88.44252600000002
+    minlatitude: 14.8104159
+    maxlongitude: -87.7257844
+    maxlatitude: 15.9198125
+    latitude: 15.4909515
+    longitude: -87.9334803
+- name: El Paraíso
   names:
-  - Islas de la Bahía
-  code: IB
+    - El Paraíso
+  code: EP
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -86.98986
-    minlatitude: 16.069366
-    maxlongitude: -83.928764
-    maxlatitude: 17.415834
-    latitude: 16.352608
-    longitude: -86.48955
-- name: Choluteca
+    minlongitude: -87.23560499999999
+    minlatitude: 13.5013601
+    maxlongitude: -85.57647709999999
+    maxlatitude: 14.3801481
+    latitude: 14.0736932
+    longitude: -86.41873079999999
+- name: Francisco Morazán
   names:
-  - Choluteca
-  code: CH
+    - Francisco Morazán
+  code: FM
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.227585
-    minlatitude: 13.244373
-    maxlongitude: -87.114975
-    maxlatitude: 13.357721
-    latitude: 13.319858
-    longitude: -87.16223
+    minlongitude: -87.648878
+    minlatitude: 13.662749
+    maxlongitude: -86.70461999999999
+    maxlatitude: 15.013803
+    latitude: 14.45411
+    longitude: -87.0624261
 - name: Gracias a Dios
   names:
-  - Gracias a Dios
+    - Gracias a Dios
   code: GD
   countryalpha2: HN
   coordinates:
@@ -190,63 +120,133 @@
     latitudestring: ""
     minlongitude: -84.99412
     minlatitude: 14.614529
-    maxlongitude: -83.1554
-    maxlatitude: 15.978286
+    maxlongitude: -83.15540299999999
+    maxlatitude: 15.9782862
     latitude: 15.341806
-    longitude: -84.60605
+    longitude: -84.6060449
+- name: Islas de la Bahía
+  names:
+    - Islas de la Bahía
+  code: IB
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.98986409999999
+    minlatitude: 16.069366
+    maxlongitude: -83.9287665
+    maxlatitude: 17.415835
+    latitude: 16.3526078
+    longitude: -86.4895463
+- name: Intibucá
+  names:
+    - Intibucá
+  code: IN
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.1977272
+    minlatitude: 14.309215
+    maxlongitude: -88.1368732
+    maxlatitude: 14.3376566
+    latitude: 14.316667
+    longitude: -88.16666699999999
 - name: Lempira
   names:
-  - Lempira
+    - Lempira
   code: LE
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.990234
+    minlongitude: -88.99023400000002
     minlatitude: 13.978775
-    maxlongitude: -88.319244
+    maxlongitude: -88.3192471
     maxlatitude: 14.955633
-    latitude: 14.188769
-    longitude: -88.55653
+    latitude: 14.1887698
+    longitude: -88.55653099999999
+- name: La Paz
+  names:
+    - La Paz
+  code: LP
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -88.23758199999999
+    minlatitude: 13.822687
+    maxlongitude: -87.6088089
+    maxlatitude: 14.417439
+    latitude: 13.9984833
+    longitude: -87.9334803
+- name: Ocotepeque
+  names:
+    - Ocotepeque
+  code: OC
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -89.350792
+    minlatitude: 14.249759
+    maxlongitude: -88.716308
+    maxlatitude: 14.747355
+    latitude: 14.5170347
+    longitude: -89.0561532
+- name: Olancho
+  names:
+    - Olancho
+  code: OL
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.9544921
+    minlatitude: 14.046359
+    maxlongitude: -84.98785400000001
+    maxlatitude: 15.61391
+    latitude: 14.8067406
+    longitude: -85.76666449999999
 - name: Santa Bárbara
   names:
-  - Santa Bárbara
+    - Santa Bárbara
   code: SB
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -88.751595
-    minlatitude: 14.584976
-    maxlongitude: -87.995964
+    minlongitude: -88.751592
+    minlatitude: 14.5849759
+    maxlongitude: -87.9959605
     maxlatitude: 15.53789
-    latitude: 15.120279
-    longitude: -88.4016
+    latitude: 15.1202795
+    longitude: -88.4016041
+- name: Valle
+  names:
+    - Valle
+  code: VA
+  countryalpha2: HN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.8682931
+    minlatitude: 13.2487044
+    maxlongitude: -87.361198
+    maxlatitude: 13.853783
+    latitude: 13.5782936
+    longitude: -87.5791287
 - name: Yoro
   names:
-  - Yoro
+    - Yoro
   code: YO
   countryalpha2: HN
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.94176
-    minlatitude: 14.790506
-    maxlongitude: -86.21965
+    minlongitude: -87.9417579
+    minlatitude: 14.7905061
+    maxlongitude: -86.2196529
     maxlatitude: 15.729222
-    latitude: 15.294968
-    longitude: -87.14229
-- name: Francisco Morazán
-  names:
-  - Francisco Morazán
-  code: FM
-  countryalpha2: HN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.64888
-    minlatitude: 13.662749
-    maxlongitude: -86.70462
-    maxlatitude: 15.013803
-    latitude: 14.45411
-    longitude: -87.06242
+    latitude: 15.2949679
+    longitude: -87.14228949999999

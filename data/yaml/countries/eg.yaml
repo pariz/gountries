@@ -1,66 +1,116 @@
 name:
-  common: Egypt
-  official: Arab Republic of Egypt
-  native:
-    ara:
-      common: مصر
-      official: جمهورية مصر العربية
+    common: Egypt
+    official: The Arab Republic of Egypt
+    native:
+        ara:
+            common: مصر
+            official: جمهورية مصر العربية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Egyptian
 tlds:
-- .eg
-- .مصر
+    - .eg
+    - .مصر
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  DEU:
-    common: Ägypten
-    official: Arabische Republik Ägypten
-  FIN:
-    common: Egypti
-    official: Egyptin arabitasavalta
-  HRV:
-    common: Egipat
-    official: Arapska Republika Egipat
-  JPN:
-    common: エジプト
-    official: エジプト·アラブ共和国
-  NLD:
-    common: Egypte
-    official: Arabische Republiek Egypte
-  POR:
-    common: Egito
-    official: República Árabe do Egipto
-  RUS:
-    common: Египет
-    official: Арабская Республика Египет
+    ARA:
+        common: مصر
+        official: جمهورية مصر العربية
+    CES:
+        common: Egypt
+        official: Egyptská arabská republika
+    DEU:
+        common: Ägypten
+        official: Arabische Republik Ägypten
+    EST:
+        common: Egiptus
+        official: Egiptuse Araabia Vabariik
+    FIN:
+        common: Egypti
+        official: Egyptin arabitasavalta
+    FRA:
+        common: Égypte
+        official: République arabe d'Égypte
+    HRV:
+        common: Egipat
+        official: Arapska Republika Egipat
+    HUN:
+        common: Egyiptom
+        official: Egyiptomi Arab Köztársaság
+    ITA:
+        common: Egitto
+        official: Repubblica araba d'Egitto
+    JPN:
+        common: エジプト
+        official: エジプト・アラブ共和国
+    KOR:
+        common: 이집트
+        official: 이집트 아랍 공화국
+    NLD:
+        common: Egypte
+        official: Arabische Republiek Egypte
+    PER:
+        common: مصر
+        official: جمهوری عربی مصر
+    POL:
+        common: Egipt
+        official: Arabska Republika Egiptu
+    POR:
+        common: Egito
+        official: República Árabe do Egipto
+    RUS:
+        common: Египет
+        official: Арабская Республика Египет
+    SLK:
+        common: Egypt
+        official: Egyptská arabská republika
+    SPA:
+        common: Egipto
+        official: República Árabe de Egipto
+    SRP:
+        common: Egipat
+        official: Arapska Republika Egipat
+    SWE:
+        common: Egypten
+        official: Arabrepubliken Egypten
+    TUR:
+        common: Mısır
+        official: Mısır Arap Cumhuriyeti
+    URD:
+        common: مصر
+        official: مصری عرب جمہوریہ
+    ZHO:
+        common: 埃及
+        official: 阿拉伯埃及共和国
 currencies:
-- EGP
+    - EGP
 borders:
-- ISR
-- LBY
-- SDN
+    - ISR
+    - LBY
+    - PSE
+    - SDN
 codes:
-  alpha2: EG
-  alpha3: EGY
-  cioc: EGY
-  ccn3: "818"
-  callingcodes:
-  - "20"
-  internationalprefix: "00"
+    alpha2: EG
+    alpha3: EGY
+    cioc: EGY
+    ccn3: "818"
+    callingcodes:
+        - "20"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Northern Africa
-  continent: Africa
-  capital: Cairo
-  area: 1.00245e+06
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: Cairo
+    area: 1.00245e+06
 coordinates:
-  longitudestring: 30 00 E
-  latitudestring: 27 00 N
-  minlongitude: 24.7
-  minlatitude: 20.383333
-  maxlongitude: 36.333332
-  maxlatitude: 31.916668
-  latitude: 26.756104
-  longitude: 29.862297
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.696775
+    minlatitude: 21.9999999
+    maxlongitude: 37.0569
+    maxlatitude: 31.8122
+    latitude: 26.820553
+    longitude: 30.802498

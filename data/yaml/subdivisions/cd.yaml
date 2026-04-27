@@ -1,155 +1,326 @@
-- name: Kinshasa
-  names:
-  - Kinshasa
-  code: KN
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.176498
-    minlatitude: -4.5093665
-    maxlongitude: 15.46941
-    maxlatitude: -4.2934484
-    latitude: -4.325
-    longitude: 15.322222
-- name: Kasai-Occidental
-  names:
-  - Kasai-Occidental
-  code: KW
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.680138
-    minlatitude: -7.902227
-    maxlongitude: 23.742882
-    maxlatitude: -2.338351
-    latitude: -5.320547
-    longitude: 21.85686
-- name: Maniema
-  names:
-  - Maniema
-  code: MA
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.456905
-    minlatitude: -5.0007424
-    maxlongitude: 28.842041
-    maxlatitude: -0.082443
-    latitude: -3.073093
-    longitude: 26.04139
-- name: Nord-Kivu
-  names:
-  - Nord-Kivu
-  code: NK
-  countryalpha2: CD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.201624
-    minlatitude: -2.066176
-    maxlongitude: 29.984388
-    maxlatitude: 0.9623669
-    latitude: -0.7917729
-    longitude: 29.045992
 - name: Bas-Congo
   names:
-  - Bas-Zaire
+    - Bas-Zaire
   code: BC
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 12.206631
-    minlatitude: -6.0573
-    maxlongitude: 16.258595
-    maxlatitude: -4.279238
+    minlatitude: -6.0573001
+    maxlongitude: 16.2585949
+    maxlatitude: -4.279237999999999
     latitude: -5.2365685
     longitude: 13.914399
+- name: Bas-Uele
+  code: BU
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Équateur
   names:
-  - Équateur
+    - Équateur
   code: EQ
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 16.538164
+    minlongitude: 16.5381639
     minlatitude: -2.529217
-    maxlongitude: 24.426718
+    maxlongitude: 24.4267169
     maxlatitude: 5.14574
-    latitude: 0.5640036
-    longitude: 20.330881
-- name: Katanga
-  names:
-  - Shaba
-  code: KA
+    latitude: 0.5640035999999999
+    longitude: 20.3308814
+- name: Haut-Katanga
+  code: HK
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.744753
-    minlatitude: -13.455676
-    maxlongitude: 30.592884
-    maxlatitude: -4.999066
-    latitude: -8.885115
-    longitude: 26.41939
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Haut-Lomami
+  code: HL
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Haut-Uele
+  code: HU
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ituri
+  code: IT
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lulua
+  code: KC
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Kasai-Oriental
   names:
-  - Kasai-Oriental
+    - Kasai-Oriental
   code: KE
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.910015
-    minlatitude: -7.938774
-    maxlongitude: 26.265938
+    minlongitude: 21.9100151
+    minlatitude: -7.9387741
+    maxlongitude: 26.265937
     maxlatitude: -1.738482
-    latitude: -2.8437452
-    longitude: 23.382355
+    latitude: -2.8437453
+    longitude: 23.3823545
+- name: Kwango
+  code: KG
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kwilu
+  code: KL
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kinshasa
+  names:
+    - Kinshasa
+  code: KN
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.1764986
+    minlatitude: -4.5093664
+    maxlongitude: 15.4694102
+    maxlatitude: -4.2934483
+    latitude: -4.325
+    longitude: 15.322222
+- name: Kasaï
+  code: KS
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kabinda
+  code: LO
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lualaba
+  code: LU
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Maniema
+  names:
+    - Maniema
+  code: MA
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.456906
+    minlatitude: -5.000742499999999
+    maxlongitude: 28.8420401
+    maxlatitude: -0.082443
+    latitude: -3.0730929
+    longitude: 26.0413889
+- name: Mai-Ndombe
+  code: MN
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mongala
+  code: MO
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nord-Kivu
+  names:
+    - Nord-Kivu
+  code: NK
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.201624
+    minlatitude: -2.0661759
+    maxlongitude: 29.984388
+    maxlatitude: 0.9623669
+    latitude: -0.7917729
+    longitude: 29.0459927
+- name: Nord-Ubangi
+  code: NU
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sankuru
+  code: SA
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Sud-Kivu
   names:
-  - Sud-Kivu
+    - Sud-Kivu
   code: SK
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 26.798393
-    minlatitude: -4.999978
-    maxlongitude: 29.264492
+    minlatitude: -4.9999781
+    maxlongitude: 29.2644927
     maxlatitude: -1.568222
     latitude: -3.011658
     longitude: 28.299435
-- name: Bandundu
-  names:
-  - Bandundu
-  code: BN
+- name: Sud-Ubangi
+  code: SU
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 17.357605
-    minlatitude: -3.3406136
-    maxlongitude: 17.404497
-    maxlatitude: -3.2987835
-    latitude: -3.316667
-    longitude: 17.366667
-- name: Orientale
-  names:
-  - Haut-Zaire
-  - Orientale
-  code: OR
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tanganyika
+  code: TA
   countryalpha2: CD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.290453
-    minlatitude: -2.1170778
-    maxlongitude: 31.276947
-    maxlatitude: 5.386098
-    latitude: 1.6406296
-    longitude: 26.41939
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tshopo
+  code: TO
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tshuapa
+  code: TU
+  countryalpha2: CD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

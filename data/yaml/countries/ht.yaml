@@ -1,68 +1,117 @@
 name:
-  common: Haiti
-  official: Republic of Haiti
-  native:
-    fra:
-      common: Haïti
-      official: République d'Haïti
-    hat:
-      common: Ayiti
-      official: Repiblik Ayiti
+    common: Haiti
+    official: The Republic of Haiti
+    native:
+        fra:
+            common: Haïti
+            official: République d'Haïti
+        hat:
+            common: Ayiti
+            official: Repiblik Ayiti
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Haitian
 tlds:
-- .ht
+    - .ht
 languages:
-  fra: French
-  hat: Haitian Creole
+    fr: ""
+    fra: French
+    hat: Haitian Creole
+    ht: ""
 translations:
-  DEU:
-    common: Haiti
-    official: Republik Haiti
-  FRA:
-    common: Haïti
-    official: République d'Haïti
-  ITA:
-    common: Haiti
-    official: Repubblica di Haiti
-  JPN:
-    common: ハイチ
-    official: ハイチ共和国
-  NLD:
-    common: Haïti
-    official: Republiek Haïti
-  POR:
-    common: Haiti
-    official: República do Haiti
-  RUS:
-    common: Гаити
-    official: Республика Гаити
+    ARA:
+        common: هايتي
+        official: جمهورية هايتي
+    CES:
+        common: Haiti
+        official: Republika Haiti
+    DEU:
+        common: Haiti
+        official: Republik Haiti
+    EST:
+        common: Haiti
+        official: Haiti Vabariik
+    FIN:
+        common: Haiti
+        official: Haitin tasavalta
+    FRA:
+        common: Haïti
+        official: République d'Haïti
+    HRV:
+        common: Haiti
+        official: Republika Haiti
+    HUN:
+        common: Haiti
+        official: Haiti Köztársaság
+    ITA:
+        common: Haiti
+        official: Repubblica di Haiti
+    JPN:
+        common: ハイチ
+        official: ハイチ共和国
+    KOR:
+        common: 아이티
+        official: 아이티 공화국
+    NLD:
+        common: Haïti
+        official: Republiek Haïti
+    PER:
+        common: هائیتی
+        official: جمهوری هائیتی
+    POL:
+        common: Haiti
+        official: Republika Haiti
+    POR:
+        common: Haiti
+        official: República do Haiti
+    RUS:
+        common: Гаити
+        official: Республика Гаити
+    SLK:
+        common: Haiti
+        official: Haitská republika
+    SPA:
+        common: Haití
+        official: República de Haití
+    SRP:
+        common: Haiti
+        official: Republika Haiti
+    SWE:
+        common: Haiti
+        official: Republiken Haiti
+    TUR:
+        common: Haiti
+        official: Haiti Cumhuriyeti
+    URD:
+        common: ہیٹی
+        official: جمہوریہ ہیٹی
+    ZHO:
+        common: 海地
+        official: 海地共和国
 currencies:
-- HTG
-- USD
+    - HTG
 borders:
-- DOM
+    - DOM
 codes:
-  alpha2: HT
-  alpha3: HTI
-  cioc: HAI
-  ccn3: "332"
-  callingcodes:
-  - "509"
-  internationalprefix: "00"
+    alpha2: HT
+    alpha3: HTI
+    cioc: HAI
+    ccn3: "332"
+    callingcodes:
+        - "509"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Port-au-Prince
-  area: 27750
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Port-au-Prince
+    area: 27750
 coordinates:
-  longitudestring: 72 25 W
-  latitudestring: 19 00 N
-  minlongitude: -74.48333
-  minlatitude: 18.016666
-  maxlongitude: -71.63333
-  maxlatitude: 20.083332
-  latitude: 19.073242
-  longitude: -72.24128
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.6082
+    minlatitude: 17.9422
+    maxlongitude: -71.621754
+    maxlatitude: 20.1282
+    latitude: 18.971187
+    longitude: -72.285215

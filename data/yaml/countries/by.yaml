@@ -1,80 +1,121 @@
 name:
-  common: Belarus
-  official: Republic of Belarus
-  native:
-    bel:
-      common: Белару́сь
-      official: Рэспубліка Беларусь
-    rus:
-      common: Белоруссия
-      official: Республика Беларусь
+    common: Belarus
+    official: The Republic of Belarus
+    native:
+        bel:
+            common: Белару́сь
+            official: Рэспубліка Беларусь
+        rus:
+            common: Беларусь
+            official: Республика Беларусь
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Belarusian
 tlds:
-- .by
+    - .by
 languages:
-  bel: Belarusian
-  rus: Russian
+    be: ""
+    bel: Belarusian
+    ru: ""
+    rus: Russian
 translations:
-  CYM:
-    common: Belarws
-    official: Republic of Belarus
-  DEU:
-    common: Weißrussland
-    official: Republik Belarus
-  FIN:
-    common: Valko-Venäjä
-    official: Valko-Venäjän tasavalta
-  FRA:
-    common: Biélorussie
-    official: République de Biélorussie
-  HRV:
-    common: Bjelorusija
-    official: Republika Bjelorusija
-  ITA:
-    common: Bielorussia
-    official: Repubblica di Belarus
-  JPN:
-    common: ベラルーシ
-    official: ベラルーシ共和国
-  NLD:
-    common: Wit-Rusland
-    official: Republiek Belarus
-  RUS:
-    common: Белоруссия
-    official: Республика Беларусь
-  SPA:
-    common: Bielorrusia
-    official: República de Belarús
+    ARA:
+        common: بيلاروسيا
+        official: جمهورية بيلاروسيا
+    CES:
+        common: Bělorusko
+        official: Běloruská republika
+    DEU:
+        common: Belarus
+        official: Republik Belarus
+    EST:
+        common: Valgevene
+        official: Valgevene Vabariik
+    FIN:
+        common: Valko-Venäjä
+        official: Valko-Venäjän tasavalta
+    FRA:
+        common: Biélorussie
+        official: République de Biélorussie
+    HRV:
+        common: Bjelorusija
+        official: Republika Bjelorusija
+    HUN:
+        common: Fehéroroszország
+        official: Fehérorosz Köztársaság
+    ITA:
+        common: Bielorussia
+        official: Repubblica di Belarus
+    JPN:
+        common: ベラルーシ
+        official: ベラルーシ共和国
+    KOR:
+        common: 벨라루스
+        official: 벨라루스 공화국
+    NLD:
+        common: Wit-Rusland
+        official: Republiek Belarus
+    PER:
+        common: بلاروس
+        official: جمهوری بلاروس
+    POL:
+        common: Białoruś
+        official: Republika Białorusi
+    POR:
+        common: Bielorússia
+        official: República da Bielorrússia
+    RUS:
+        common: Беларусь
+        official: Республика Беларусь
+    SLK:
+        common: Bielorusko
+        official: Bieloruská republika
+    SPA:
+        common: Bielorrusia
+        official: República de Belarús
+    SRP:
+        common: Belorusija
+        official: Republika Belorusija
+    SWE:
+        common: Belarus
+        official: Republiken Vitryssland
+    TUR:
+        common: Belarus
+        official: Belarus Cumhuriyeti
+    URD:
+        common: بیلاروس
+        official: جمہوریہ بیلاروس
+    ZHO:
+        common: 白俄罗斯
+        official: 白俄罗斯共和国
 currencies:
-- BYR
+    - BYN
 borders:
-- LVA
-- LTU
-- POL
-- RUS
-- UKR
+    - LVA
+    - LTU
+    - POL
+    - RUS
+    - UKR
 codes:
-  alpha2: BY
-  alpha3: BLR
-  cioc: BLR
-  ccn3: "112"
-  callingcodes:
-  - "375"
-  internationalprefix: "810"
+    alpha2: BY
+    alpha3: BLR
+    cioc: BLR
+    ccn3: "112"
+    callingcodes:
+        - "375"
+    internationalprefix: "810"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Minsk
-  area: 207600
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Minsk
+    area: 207600
 coordinates:
-  longitudestring: 28 00 E
-  latitudestring: 53 00 N
-  minlongitude: 22.55
-  minlatitude: 50.716667
-  maxlongitude: 32.708057
-  maxlatitude: 56.066666
-  latitude: 53.543472
-  longitude: 28.054094
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.1783377
+    minlatitude: 51.26201100000001
+    maxlongitude: 32.7768202
+    maxlatitude: 56.1718719
+    latitude: 53.709807
+    longitude: 27.953389

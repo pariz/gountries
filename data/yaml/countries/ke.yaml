@@ -1,77 +1,121 @@
 name:
-  common: Kenya
-  official: Republic of Kenya
-  native:
-    eng:
-      common: Kenya
-      official: Republic of Kenya
-    swa:
-      common: Kenya
-      official: Republic of Kenya
+    common: Kenya
+    official: The Republic of Kenya
+    native:
+        eng:
+            common: Kenya
+            official: Republic of Kenya
+        swa:
+            common: Kenya
+            official: Republic of Kenya
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Kenyan
 tlds:
-- .ke
+    - .ke
 languages:
-  eng: English
-  swa: Swahili
+    en: ""
+    eng: English
+    sw: ""
+    swa: Swahili
 translations:
-  DEU:
-    common: Kenia
-    official: Republik Kenia
-  FIN:
-    common: Kenia
-    official: Kenian tasavalta
-  FRA:
-    common: Kenya
-    official: République du Kenya
-  HRV:
-    common: Kenija
-    official: Republika Kenija
-  ITA:
-    common: Kenya
-    official: Repubblica del Kenya
-  NLD:
-    common: Kenia
-    official: Republiek Kenia
-  POR:
-    common: Quénia
-    official: República do Quénia
-  RUS:
-    common: Кения
-    official: Республика Кения
-  SPA:
-    common: Kenia
-    official: República de Kenya
+    ARA:
+        common: كينيا
+        official: جمهورية كينيا
+    CES:
+        common: Keňa
+        official: Keňská republika
+    DEU:
+        common: Kenia
+        official: Republik Kenia
+    EST:
+        common: Keenia
+        official: Keenia Vabariik
+    FIN:
+        common: Kenia
+        official: Kenian tasavalta
+    FRA:
+        common: Kenya
+        official: République du Kenya
+    HRV:
+        common: Kenija
+        official: Republika Kenija
+    HUN:
+        common: Kenya
+        official: Kenyai Köztársaság
+    ITA:
+        common: Kenya
+        official: Repubblica del Kenya
+    JPN:
+        common: ケニア
+        official: ケニア共和国
+    KOR:
+        common: 케냐
+        official: 케냐 공화국
+    NLD:
+        common: Kenia
+        official: Republiek Kenia
+    PER:
+        common: کنیا
+        official: جمهوری کنیا
+    POL:
+        common: Kenia
+        official: Republika Kenii
+    POR:
+        common: Quénia
+        official: República do Quénia
+    RUS:
+        common: Кения
+        official: Республика Кения
+    SLK:
+        common: Keňa
+        official: Kenská republika
+    SPA:
+        common: Kenia
+        official: República de Kenya
+    SRP:
+        common: Kenija
+        official: Republika Kenija
+    SWE:
+        common: Kenya
+        official: Republiken Kenya
+    TUR:
+        common: Kenya
+        official: Kenya Cumhuriyeti
+    URD:
+        common: کینیا
+        official: جمہوریہ کینیا
+    ZHO:
+        common: 肯尼亚
+        official: 肯尼亚共和国
 currencies:
-- KES
+    - KES
 borders:
-- ETH
-- SOM
-- SSD
-- TZA
-- UGA
+    - ETH
+    - SOM
+    - SSD
+    - TZA
+    - UGA
 codes:
-  alpha2: KE
-  alpha3: KEN
-  cioc: KEN
-  ccn3: "404"
-  callingcodes:
-  - "254"
-  internationalprefix: "000"
+    alpha2: KE
+    alpha3: KEN
+    cioc: KEN
+    ccn3: "404"
+    callingcodes:
+        - "254"
+    internationalprefix: "000"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Nairobi
-  area: 580367
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Nairobi
+    area: 580367
 coordinates:
-  longitudestring: 38 00 E
-  latitudestring: 1 00 N
-  minlongitude: 27.433332
-  minlatitude: -4.716667
-  maxlongitude: 41.858383
-  maxlatitude: 4.883333
-  latitude: 0.57650316
-  longitude: 37.83989
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.90982109999999
+    minlatitude: -4.724299999999999
+    maxlongitude: 41.9069449
+    maxlatitude: 5.033420899999999
+    latitude: -0.023559
+    longitude: 37.906193

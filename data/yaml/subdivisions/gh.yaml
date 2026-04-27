@@ -1,76 +1,84 @@
 - name: Greater Accra
   names:
-  - Greater Accra
+    - Greater Accra
   code: AA
   countryalpha2: GH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -0.51121
-    minlatitude: 5.494835
+    minlongitude: -0.5112099999999999
+    minlatitude: 5.4948349
     maxlongitude: 0.72458
-    maxlatitude: 5.9961557
-    latitude: 5.8142834
+    maxlatitude: 5.9961559
+    latitude: 5.8142836
     longitude: 0.0746767
-- name: Brong-Ahafo
-  names:
-  - Brong-Ahafo
-  code: BA
+- name: Ahafo
+  code: AF
   countryalpha2: GH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -3.091438
-    minlatitude: 6.386345
-    maxlongitude: 0.1875014
-    maxlatitude: 8.778668
-    latitude: 7.9559245
-    longitude: -1.6760691
-- name: Central
-  names:
-  - Central
-  code: CP
-  countryalpha2: GH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -2.176695
-    minlatitude: 5.0336657
-    maxlongitude: -0.369136
-    maxlatitude: 6.304273
-    latitude: 5.560785
-    longitude: -1.0586135
-- name: Upper East
-  names:
-  - Upper East
-  code: UE
-  countryalpha2: GH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.575864
-    minlatitude: 10.270471
-    maxlongitude: 0.032068
-    maxlatitude: 11.173301
-    latitude: 10.70825
-    longitude: -0.9820668
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194
 - name: Ashanti
   names:
-  - Asante
+    - Asante
   code: AH
   countryalpha2: GH
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -2.451715
-    minlatitude: 5.853754
+    minlatitude: 5.853753999999999
     maxlongitude: -0.222413
-    maxlatitude: 7.62166
+    maxlatitude: 7.621659999999999
     latitude: 6.7470436
-    longitude: -1.5208623
+    longitude: -1.5208624
+- name: Bono East
+  code: BE
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194
+- name: Bono
+  code: BO
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194
+- name: Central
+  names:
+    - Central
+  code: CP
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.176695
+    minlatitude: 5.0336656
+    maxlongitude: -0.369136
+    maxlatitude: 6.3042729
+    latitude: 5.5607846
+    longitude: -1.0586135
 - name: Eastern
   names:
-  - Eastern
+    - Eastern
   code: EP
   countryalpha2: GH
   coordinates:
@@ -79,26 +87,62 @@
     minlongitude: -1.2483401
     minlatitude: 5.729348
     maxlongitude: 0.322644
-    maxlatitude: 7.186541
-    latitude: 6.2374034
+    maxlatitude: 7.186541000000001
+    latitude: 6.237403599999999
     longitude: -0.4502368
+- name: North East
+  code: NE
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194
 - name: Northern
   names:
-  - Northern
+    - Northern
   code: NP
   countryalpha2: GH
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -2.779666
-    minlatitude: 7.954847
+    minlatitude: 7.954847000000001
     maxlongitude: 0.56338
     maxlatitude: 10.714593
-    latitude: 9.543927
+    latitude: 9.543926899999999
     longitude: -0.9056623
+- name: Oti
+  code: OT
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Savannah
+  code: SV
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194
 - name: Volta
   names:
-  - Volta
+    - Volta
   code: TV
   countryalpha2: GH
   coordinates:
@@ -108,25 +152,51 @@
     minlatitude: 5.7696366
     maxlongitude: 1.1917686
     maxlatitude: 8.754108
-    latitude: 6.5781374
+    latitude: 6.5781373
     longitude: 0.4502368
+- name: Upper East
+  names:
+    - Upper East
+  code: UE
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.575864
+    minlatitude: 10.270471
+    maxlongitude: 0.032068
+    maxlatitude: 11.173301
+    latitude: 10.7082499
+    longitude: -0.9820667999999999
 - name: Upper West
   names:
-  - Upper West
+    - Upper West
   code: UW
   countryalpha2: GH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.9455967
-    minlatitude: 9.652964
+    minlongitude: -2.9455968
+    minlatitude: 9.6529639
     maxlongitude: -1.3693439
-    maxlatitude: 11.0189705
-    latitude: 10.252975
+    maxlatitude: 11.0189701
+    latitude: 10.2529757
     longitude: -2.1450245
+- name: Western North
+  code: WN
+  countryalpha2: GH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194
 - name: Western
   names:
-  - Western
+    - Western
   code: WP
   countryalpha2: GH
   coordinates:
@@ -135,6 +205,6 @@
     minlongitude: -3.25542
     minlatitude: 4.738815
     maxlongitude: -1.417818
-    maxlatitude: 7.052661
+    maxlatitude: 7.052660899999999
     latitude: 5.3901978
     longitude: -2.1450245

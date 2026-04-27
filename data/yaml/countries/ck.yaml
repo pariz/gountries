@@ -1,69 +1,114 @@
 name:
-  common: Cook Islands
-  official: Cook Islands
-  native:
-    eng:
-      common: Cook Islands
-      official: Cook Islands
-    rar:
-      common: Kūki 'Āirani
-      official: Kūki 'Āirani
+    common: Cook Islands
+    official: The Cook Islands
+    native:
+        eng:
+            common: Cook Islands
+            official: Cook Islands
+        rar:
+            common: Kūki 'Āirani
+            official: Kūki 'Āirani
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cook Islander
 tlds:
-- .ck
+    - .ck
 languages:
-  eng: English
-  rar: Cook Islands Māori
+    en: ""
+    eng: English
+    rar: Cook Islands Māori
 translations:
-  CYM:
-    common: Ynysoedd Cook
-    official: Cook Islands
-  DEU:
-    common: Cookinseln
-    official: Cook-Inseln
-  FIN:
-    common: Cookinsaaret
-    official: Cookinsaaret
-  FRA:
-    common: Îles Cook
-    official: Îles Cook
-  ITA:
-    common: Isole Cook
-    official: Isole Cook
-  JPN:
-    common: クック諸島
-    official: クック諸島
-  NLD:
-    common: Cookeilanden
-    official: Cook eilanden
-  SPA:
-    common: Islas Cook
-    official: Islas Cook
+    ARA:
+        common: جزر كوك
+        official: جزر كوك
+    CES:
+        common: Cookovy ostrovy
+        official: Cookovy ostrovy
+    DEU:
+        common: Cookinseln
+        official: Cookinseln
+    EST:
+        common: Cooki saared
+        official: Cooki saared
+    FIN:
+        common: Cookinsaaret
+        official: Cookinsaaret
+    FRA:
+        common: Îles Cook
+        official: Îles Cook
+    HRV:
+        common: Cookovo Otočje
+        official: Cook Islands
+    HUN:
+        common: Cook-szigetek
+        official: Cook-szigetek
+    ITA:
+        common: Isole Cook
+        official: Isole Cook
+    JPN:
+        common: クック諸島
+        official: クック諸島
+    KOR:
+        common: 쿡 제도
+        official: 쿡 제도
+    NLD:
+        common: Cookeilanden
+        official: Cook eilanden
+    PER:
+        common: جزایر کوک
+        official: جزایر کوک
+    POL:
+        common: Wyspy Cooka
+        official: Wyspy Cooka
+    POR:
+        common: Ilhas Cook
+        official: Ilhas Cook
+    RUS:
+        common: Острова Кука
+        official: острова Кука
+    SLK:
+        common: Cookove ostrovy
+        official: Cookove ostrovy
+    SPA:
+        common: Islas Cook
+        official: Islas Cook
+    SRP:
+        common: Kukova Ostrva
+        official: Kukova Ostrva
+    SWE:
+        common: Cooköarna
+        official: Cooköarna
+    TUR:
+        common: Cook Adaları
+        official: Cook Adaları
+    URD:
+        common: جزائر کک
+        official: جزائر کک
+    ZHO:
+        common: 库克群岛
+        official: 库克群岛
 currencies:
-- NZD
-borders: []
+    - NZD
 codes:
-  alpha2: CK
-  alpha3: COK
-  cioc: COK
-  ccn3: "184"
-  callingcodes:
-  - "682"
-  internationalprefix: "00"
+    alpha2: CK
+    alpha3: COK
+    cioc: COK
+    ccn3: "184"
+    callingcodes:
+        - "682"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Avarua
-  area: 236
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Avarua
+    area: 236
 coordinates:
-  longitudestring: 159 46 W
-  latitudestring: 21 14 S
-  minlongitude: -171.78334
-  minlatitude: -21.953056
-  maxlongitude: -157.3375
-  maxlatitude: -8.918611
-  latitude: -21.223307
-  longitude: -159.74055
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -166.1791992
+    minlatitude: -23.0898384
+    maxlongitude: -155.6982422
+    maxlatitude: -8.1679932
+    latitude: -21.236736
+    longitude: -159.777671

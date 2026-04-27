@@ -1,65 +1,114 @@
 name:
-  common: Guyana
-  official: Co-operative Republic of Guyana
-  native:
-    eng:
-      common: Guyana
-      official: Co-operative Republic of Guyana
+    common: Guyana
+    official: The Co-operative Republic of Guyana
+    native:
+        eng:
+            common: Guyana
+            official: Co-operative Republic of Guyana
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guyanese
 tlds:
-- .gy
+    - .gy
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Guayana
-    official: Guayanan osuustoiminnallinen tasavalta
-  HRV:
-    common: Gvajana
-    official: Zadruga Republika Gvajana
-  ITA:
-    common: Guyana
-    official: Co -operative Republic of Guyana
-  JPN:
-    common: ガイアナ
-    official: ガイアナの協同共和国
-  POR:
-    common: Guiana
-    official: Co -operative República da Guiana
-  RUS:
-    common: Гайана
-    official: Кооперативная Республика Гайана
-  SPA:
-    common: Guyana
-    official: República Cooperativa de Guyana
+    ARA:
+        common: غيانا
+        official: جمهورية غيانا التعاونية
+    CES:
+        common: Guyana
+        official: Kooperativní republika Guyana
+    DEU:
+        common: Guyana
+        official: Kooperative Republik Guyana
+    EST:
+        common: Guyana
+        official: Guyana Vabariik
+    FIN:
+        common: Guayana
+        official: Guayanan osuustoiminnallinen tasavalta
+    FRA:
+        common: Guyana
+        official: République coopérative de Guyana
+    HRV:
+        common: Gvajana
+        official: Zadruga Republika Gvajana
+    HUN:
+        common: Guyana
+        official: Guyanai Szövetkezeti Köztársaság
+    ITA:
+        common: Guyana
+        official: Co -operative Republic of Guyana
+    JPN:
+        common: ガイアナ
+        official: ガイアナ共和国
+    KOR:
+        common: 가이아나
+        official: 가이아나 협동 공화국
+    NLD:
+        common: Guyana
+        official: Coöperatieve Republiek Guyana
+    PER:
+        common: گویان
+        official: جمهوری تعاونی گویان
+    POL:
+        common: Gujana
+        official: Kooperacyjna Republika Gujany
+    POR:
+        common: Guiana
+        official: Co -operative República da Guiana
+    RUS:
+        common: Гайана
+        official: Кооперативная Республика Гайана
+    SLK:
+        common: Guyana
+        official: Guyanská kooperatívna republika
+    SPA:
+        common: Guyana
+        official: República Cooperativa de Guyana
+    SRP:
+        common: Gvajana
+        official: Kooperativna Republika Gvajana
+    SWE:
+        common: Guyana
+        official: Kooperativa republiken Guyana
+    TUR:
+        common: Guyana
+        official: Guyana Kooperatif Cumhuriyeti
+    URD:
+        common: گیانا
+        official: تعاونی جمہوریہ گیانا
+    ZHO:
+        common: 圭亚那
+        official: 圭亚那共和国
 currencies:
-- GYD
+    - GYD
 borders:
-- BRA
-- SUR
-- VEN
+    - BRA
+    - SUR
+    - VEN
 codes:
-  alpha2: GY
-  alpha3: GUY
-  cioc: GUY
-  ccn3: "328"
-  callingcodes:
-  - "592"
-  internationalprefix: "00"
+    alpha2: GY
+    alpha3: GUY
+    cioc: GUY
+    ccn3: "328"
+    callingcodes:
+        - "592"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Georgetown
-  area: 214969
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Georgetown
+    area: 214969
 coordinates:
-  longitudestring: 59 00 W
-  latitudestring: 5 00 N
-  minlongitude: -61.233334
-  minlatitude: 1.316667
-  maxlongitude: -56
-  maxlatitude: 8.433333
-  latitude: 4.917311
-  longitude: -58.943462
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.414905
+    minlatitude: 1.164724
+    maxlongitude: -56.49112
+    maxlatitude: 8.722199999999999
+    latitude: 4.860416
+    longitude: -58.93018

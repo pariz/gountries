@@ -1,60 +1,115 @@
 name:
-  common: Latvia
-  official: Republic of Latvia
-  native:
-    lav:
-      common: Latvija
-      official: Latvijas Republikas
+    common: Latvia
+    official: The Republic of Latvia
+    native:
+        lav:
+            common: Latvija
+            official: Latvijas Republikas
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Latvian
 tlds:
-- .lv
+    - .lv
 languages:
-  lav: Latvian
+    lav: Latvian
+    lv: ""
 translations:
-  FRA:
-    common: Lettonie
-    official: République de Lettonie
-  HRV:
-    common: Latvija
-    official: Republika Latvija
-  JPN:
-    common: ラトビア
-    official: ラトビア共和国
-  RUS:
-    common: Латвия
-    official: Латвийская Республика
-  SPA:
-    common: Letonia
-    official: República de Letonia
+    ARA:
+        common: لاتفيا
+        official: جمهورية لاتفيا
+    CES:
+        common: Lotyšsko
+        official: Lotyšská republika
+    DEU:
+        common: Lettland
+        official: Republik Lettland
+    EST:
+        common: Läti
+        official: Läti Vabariik
+    FIN:
+        common: Latvia
+        official: Latvian tasavalta
+    FRA:
+        common: Lettonie
+        official: République de Lettonie
+    HRV:
+        common: Latvija
+        official: Republika Latvija
+    HUN:
+        common: Lettország
+        official: Lett Köztársaság
+    ITA:
+        common: Lettonia
+        official: Repubblica di Lettonia
+    JPN:
+        common: ラトビア
+        official: ラトビア共和国
+    KOR:
+        common: 라트비아
+        official: 라트비아 공화국
+    NLD:
+        common: Letland
+        official: Republiek Letland
+    PER:
+        common: لتونی
+        official: جمهوری لتونی
+    POL:
+        common: Łotwa
+        official: Republika Łotewska
+    POR:
+        common: Letónia
+        official: República da Letónia
+    RUS:
+        common: Латвия
+        official: Латвийская Республика
+    SLK:
+        common: Lotyšsko
+        official: Lotyšská republika
+    SPA:
+        common: Letonia
+        official: República de Letonia
+    SRP:
+        common: Letonija
+        official: Republika Letonija
+    SWE:
+        common: Lettland
+        official: Republiken Lettland
+    TUR:
+        common: Letonya
+        official: Letonya Cumhuriyeti
+    URD:
+        common: لٹویا
+        official: جمہوریہ لٹویا
+    ZHO:
+        common: 拉脱维亚
+        official: 拉脱维亚共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- BLR
-- EST
-- LTU
-- RUS
+    - BLR
+    - EST
+    - LTU
+    - RUS
 codes:
-  alpha2: LV
-  alpha3: LVA
-  cioc: LAT
-  ccn3: "428"
-  callingcodes:
-  - "371"
-  internationalprefix: "00"
+    alpha2: LV
+    alpha3: LVA
+    cioc: LAT
+    ccn3: "428"
+    callingcodes:
+        - "371"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Riga
-  area: 64559
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Riga
+    area: 64559
 coordinates:
-  longitudestring: 25 00 E
-  latitudestring: 57 00 N
-  minlongitude: 20.966667
-  minlatitude: 55.7
-  maxlongitude: 28.2
-  maxlatitude: 58.066666
-  latitude: 56.868732
-  longitude: 24.840244
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.8465999
+    minlatitude: 55.6747769
+    maxlongitude: 28.2414029
+    maxlatitude: 58.0855688
+    latitude: 56.879635
+    longitude: 24.603189

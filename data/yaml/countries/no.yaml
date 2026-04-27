@@ -1,70 +1,123 @@
 name:
-  common: Norway
-  official: Kingdom of Norway
-  native:
-    nno:
-      common: Noreg
-      official: Kongeriket Noreg
-    nob:
-      common: Norge
-      official: Kongeriket Norge
-    smi:
-      common: Norgga
-      official: Norgga gonagasriika
+    common: Norway
+    official: The Kingdom of Norway
+    native:
+        nno:
+            common: Noreg
+            official: Kongeriket Noreg
+        nob:
+            common: Norge
+            official: Kongeriket Norge
+        smi:
+            common: Norgga
+            official: Norgga gonagasriika
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Norwegian
 tlds:
-- .no
+    - .no
 languages:
-  nno: Norwegian Nynorsk
-  nob: Norwegian Bokmål
-  smi: Sami
+    nb: ""
+    nn: ""
+    nno: Norwegian Nynorsk
+    nob: Norwegian Bokmål
+    smi: Sami
 translations:
-  FRA:
-    common: Norvège
-    official: Royaume de Norvège
-  HRV:
-    common: Norveška
-    official: Kraljevina Norveška
-  JPN:
-    common: ノルウェー
-    official: ノルウェー王国
-  NLD:
-    common: Noorwegen
-    official: Koninkrijk Noorwegen
-  RUS:
-    common: Норвегия
-    official: Королевство Норвегия
-  SPA:
-    common: Noruega
-    official: Reino de Noruega
+    ARA:
+        common: النرويج
+        official: مملكة النرويج
+    CES:
+        common: Norsko
+        official: Norské království
+    DEU:
+        common: Norwegen
+        official: Königreich Norwegen
+    EST:
+        common: Norra
+        official: Norra Kuningriik
+    FIN:
+        common: Norja
+        official: Norjan kuningaskunta
+    FRA:
+        common: Norvège
+        official: Royaume de Norvège
+    HRV:
+        common: Norveška
+        official: Kraljevina Norveška
+    HUN:
+        common: Norvégia
+        official: Norvég Királyság
+    ITA:
+        common: Norvegia
+        official: Regno di Norvegia
+    JPN:
+        common: ノルウェー
+        official: ノルウェー王国
+    KOR:
+        common: 노르웨이
+        official: 노르웨이 왕국
+    NLD:
+        common: Noorwegen
+        official: Koninkrijk Noorwegen
+    PER:
+        common: نروژ
+        official: پادشاهی نروژ
+    POL:
+        common: Norwegia
+        official: Królestwo Norwegii
+    POR:
+        common: Noruega
+        official: Reino da Noruega
+    RUS:
+        common: Норвегия
+        official: Королевство Норвегия
+    SLK:
+        common: Nórsko
+        official: Nórske kráľovstvo
+    SPA:
+        common: Noruega
+        official: Reino de Noruega
+    SRP:
+        common: Norveška
+        official: Kraljevina Norveška
+    SWE:
+        common: Norge
+        official: Konungariket Norge
+    TUR:
+        common: Norveç
+        official: Norveç Krallığı
+    URD:
+        common: ناروے
+        official: مملکتِ ناروے
+    ZHO:
+        common: 挪威
+        official: 挪威王国
 currencies:
-- NOK
+    - NOK
 borders:
-- FIN
-- SWE
-- RUS
+    - FIN
+    - SWE
+    - RUS
 codes:
-  alpha2: "NO"
-  alpha3: NOR
-  cioc: NOR
-  ccn3: "578"
-  callingcodes:
-  - "47"
-  internationalprefix: "00"
+    alpha2: "NO"
+    alpha3: NOR
+    cioc: NOR
+    ccn3: "578"
+    callingcodes:
+        - "47"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Oslo
-  area: 323802
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Oslo
+    area: 323802
 coordinates:
-  longitudestring: 10 00 E
-  latitudestring: 62 00 N
-  minlongitude: 3.033333
-  minlatitude: 56.15
-  maxlongitude: 31.166668
-  maxlatitude: 71.181946
-  latitude: 66.76667
-  longitude: 14.899925
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.0649
+    minlatitude: 57.8097
+    maxlongitude: 31.3549999
+    maxlatitude: 71.30780000000001
+    latitude: 60.47202399999999
+    longitude: 8.468945999999999

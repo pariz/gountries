@@ -1,80 +1,121 @@
 name:
-  common: Argentina
-  official: Argentine Republic
-  native:
-    grn:
-      common: Argentina
-      official: Argentine Republic
-    spa:
-      common: Argentina
-      official: República Argentina
+    common: Argentina
+    official: The Argentine Republic
+    native:
+        grn:
+            common: Argentina
+            official: Argentine Republic
+        spa:
+            common: Argentina
+            official: República Argentina
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Argentinean
 tlds:
-- .ar
+    - .ar
 languages:
-  grn: Guaraní
-  spa: Spanish
+    es: ""
+    gn: ""
+    grn: Guaraní
+    spa: Spanish
 translations:
-  CYM:
-    common: Ariannin
-    official: Argentine Republic
-  FIN:
-    common: Argentiina
-    official: Argentiinan tasavalta
-  FRA:
-    common: Argentine
-    official: République argentine
-  HRV:
-    common: Argentina
-    official: Argentinski Republika
-  ITA:
-    common: Argentina
-    official: Repubblica Argentina
-  JPN:
-    common: アルゼンチン
-    official: アルゼンチン共和国
-  NLD:
-    common: Argentinië
-    official: Argentijnse Republiek
-  POR:
-    common: Argentina
-    official: República Argentina
-  RUS:
-    common: Аргентина
-    official: Аргентинская Республика
-  SPA:
-    common: Argentina
-    official: República Argentina
+    ARA:
+        common: الأرجنتين
+        official: جمهورية الأرجنتين
+    CES:
+        common: Argentina
+        official: Argentinská republika
+    DEU:
+        common: Argentinien
+        official: Argentinische Republik
+    EST:
+        common: Argentina
+        official: Argentina Vabariik
+    FIN:
+        common: Argentiina
+        official: Argentiinan tasavalta
+    FRA:
+        common: Argentine
+        official: République argentine
+    HRV:
+        common: Argentina
+        official: Argentinski Republika
+    HUN:
+        common: Argentína
+        official: Argentin Köztársaság
+    ITA:
+        common: Argentina
+        official: Repubblica Argentina
+    JPN:
+        common: アルゼンチン
+        official: アルゼンチン共和国
+    KOR:
+        common: 아르헨티나
+        official: 아르헨티나 공화국
+    NLD:
+        common: Argentinië
+        official: Argentijnse Republiek
+    PER:
+        common: آرژانتین
+        official: جمهوری آرژانتین
+    POL:
+        common: Argentyna
+        official: Republika Argentyńska
+    POR:
+        common: Argentina
+        official: República Argentina
+    RUS:
+        common: Аргентина
+        official: Аргентинская Республика
+    SLK:
+        common: Argentína
+        official: Argentínska republika
+    SPA:
+        common: Argentina
+        official: República Argentina
+    SRP:
+        common: Argentina
+        official: Republika Argentina
+    SWE:
+        common: Argentina
+        official: Republiken Argentina
+    TUR:
+        common: Arjantin
+        official: Arjantin Cumhuriyeti
+    URD:
+        common: ارجنٹائن
+        official: جمہوریہ ارجنٹائن
+    ZHO:
+        common: 阿根廷
+        official: 阿根廷共和国
 currencies:
-- ARS
+    - ARS
 borders:
-- BOL
-- BRA
-- CHL
-- PRY
-- URY
+    - BOL
+    - BRA
+    - CHL
+    - PRY
+    - URY
 codes:
-  alpha2: AR
-  alpha3: ARG
-  cioc: ARG
-  ccn3: "032"
-  callingcodes:
-  - "54"
-  internationalprefix: "00"
+    alpha2: AR
+    alpha3: ARG
+    cioc: ARG
+    ccn3: "032"
+    callingcodes:
+        - "54"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Buenos Aires
-  area: 2.7804e+06
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Buenos Aires
+    area: 2.7804e+06
 coordinates:
-  longitudestring: 64 00 W
-  latitudestring: 34 00 S
-  minlongitude: -73.53333
-  minlatitude: -58.11667
-  maxlongitude: -53.65
-  maxlatitude: -21.783333
-  latitude: -37.071964
-  longitude: -64.85451
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.5603601
+    minlatitude: -55.1250224
+    maxlongitude: -53.637481
+    maxlatitude: -21.7810459
+    latitude: -38.416097
+    longitude: -63.61667199999999

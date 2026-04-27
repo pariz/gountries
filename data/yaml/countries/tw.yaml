@@ -1,64 +1,112 @@
 name:
-  common: Taiwan
-  official: Republic of China (Taiwan)
-  native:
-    cmn:
-      common: 臺灣
-      official: 中华民国
+    common: Taiwan, Province of China
+    official: Taiwan, Province of China
+    native:
+        zho:
+            common: 台灣
+            official: 中華民國
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Taiwanese
 tlds:
-- .tw
-- .台湾
-- .台灣
+    - .tw
+    - .台灣
+    - .台湾
 languages:
-  cmn: Mandarin
+    zh: ""
+    zho: Chinese
 translations:
-  DEU:
-    common: Taiwan
-    official: Republik China (Taiwan)
-  FIN:
-    common: Taiwan
-    official: Kiinan tasavalta
-  FRA:
-    common: Taïwan
-    official: République de Chine (Taïwan)
-  JPN:
-    common: 台湾（台湾省/中華民国）
-    official: 中華民国
-  NLD:
-    common: Taiwan
-    official: Republiek China (Taiwan)
-  RUS:
-    common: Тайвань
-    official: Китайская Республика
-  SPA:
-    common: Taiwán
-    official: República de China en Taiwán
+    ARA:
+        common: تايوان
+        official: جمهورية الصين (تايوان)
+    CES:
+        common: Tchaj-wan
+        official: Čínská republika
+    DEU:
+        common: Taiwan
+        official: Republik China (Taiwan)
+    EST:
+        common: Taiwan
+        official: Taiwani
+    FIN:
+        common: Taiwan
+        official: Kiinan tasavalta
+    FRA:
+        common: Taïwan
+        official: République de Chine (Taïwan)
+    HRV:
+        common: Tajvan
+        official: Republika Kina
+    HUN:
+        common: Tajvan
+        official: Kínai Köztársaság
+    ITA:
+        common: Taiwan
+        official: Repubblica cinese (Taiwan)
+    JPN:
+        common: 中華民国
+        official: 台湾
+    KOR:
+        common: 대만
+        official: 중화민국
+    NLD:
+        common: Taiwan
+        official: Republiek China (Taiwan)
+    PER:
+        common: تایوان
+        official: جمهوری چین
+    POL:
+        common: Tajwan
+        official: Republika Chińska (Tajwan)
+    POR:
+        common: Ilha Formosa
+        official: República da China
+    RUS:
+        common: Тайвань
+        official: Китайская Республика
+    SLK:
+        common: Taiwan
+        official: Čínska republika
+    SPA:
+        common: Taiwán
+        official: República de China en Taiwán
+    SRP:
+        common: Tajvan
+        official: Republika Kina (Tajvan)
+    SWE:
+        common: Taiwan
+        official: Republiken Kina
+    TUR:
+        common: Tayvan
+        official: çin Cumhuriyeti (Tayvan)
+    URD:
+        common: تائیوان
+        official: جمہوریہ چین (تائیوان)
+    ZHO:
+        common: 台灣
+        official: 中華民國
 currencies:
-- TWD
-borders: []
+    - TWD
 codes:
-  alpha2: TW
-  alpha3: TWN
-  cioc: TPE
-  ccn3: "158"
-  callingcodes:
-  - "886"
-  internationalprefix: "002"
+    alpha2: TW
+    alpha3: TWN
+    cioc: TPE
+    ccn3: "158"
+    callingcodes:
+        - "886"
+    internationalprefix: "002"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: Taipei
-  area: 36193
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: Taipei
+    area: 36193
 coordinates:
-  longitudestring: 121 00 E
-  latitudestring: 23 30 N
-  minlongitude: 118.11526
-  minlatitude: 21.733334
-  maxlongitude: 122.10778
-  maxlatitude: 26.389444
-  latitude: 23.68579
-  longitude: 120.89749
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 116.6665
+    minlatitude: 20.5170001
+    maxlongitude: 123.5021012
+    maxlatitude: 26.4545
+    latitude: 23.69781
+    longitude: 120.960515

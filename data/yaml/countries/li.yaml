@@ -1,55 +1,113 @@
 name:
-  common: Liechtenstein
-  official: Principality of Liechtenstein
-  native:
-    deu:
-      common: Liechtenstein
-      official: Fürstentum Liechtenstein
+    common: Liechtenstein
+    official: The Principality of Liechtenstein
+    native:
+        deu:
+            common: Liechtenstein
+            official: Fürstentum Liechtenstein
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Liechtensteiner
 tlds:
-- .li
+    - .li
 languages:
-  deu: German
+    de: ""
+    deu: German
 translations:
-  DEU:
-    common: Liechtenstein
-    official: Fürstentum Liechtenstein
-  FRA:
-    common: Liechtenstein
-    official: Principauté du Liechtenstein
-  HRV:
-    common: Lihtenštajn
-    official: Kneževina Lihtenštajn
-  POR:
-    common: Liechtenstein
-    official: Principado de Liechtenstein
+    ARA:
+        common: ليختنشتاين
+        official: إمارة ليختنشتاين
+    CES:
+        common: Lichtenštejnsko
+        official: Knížectví Lichtenštejnské
+    DEU:
+        common: Liechtenstein
+        official: Fürstentum Liechtenstein
+    EST:
+        common: Liechtenstein
+        official: Liechtensteini Vürstiriik
+    FIN:
+        common: Liechenstein
+        official: Liechensteinin ruhtinaskunta
+    FRA:
+        common: Liechtenstein
+        official: Principauté du Liechtenstein
+    HRV:
+        common: Lihtenštajn
+        official: Kneževina Lihtenštajn
+    HUN:
+        common: Liechtenstein
+        official: Liechtensteini Hercegség
+    ITA:
+        common: Liechtenstein
+        official: Principato del Liechtenstein
+    JPN:
+        common: リヒテンシュタイン
+        official: リヒテンシュタイン公国
+    KOR:
+        common: 리히텐슈타인
+        official: 리히텐슈타인 공국
+    NLD:
+        common: Liechtenstein
+        official: Vorstendom Liechtenstein
+    PER:
+        common: لیختن‌اشتاین
+        official: شاهزاده‌نشین لیختن‌اشتاین
+    POL:
+        common: Liechtenstein
+        official: Księstwo Liechtensteinu
+    POR:
+        common: Liechtenstein
+        official: Principado de Liechtenstein
+    RUS:
+        common: Лихтенштейн
+        official: Княжество Лихтенштейн
+    SLK:
+        common: Lichtenštajnsko
+        official: Lichtenštajnské kniežatstvo
+    SPA:
+        common: Liechtenstein
+        official: Principado de Liechtenstein
+    SRP:
+        common: Lihtenštajn
+        official: Kneževina Lihtenštajn
+    SWE:
+        common: Liechtenstein
+        official: Furstendömet Liechtenstein
+    TUR:
+        common: Lihtenştayn
+        official: Lihtenştayn Prensliği
+    URD:
+        common: لیختینستائن
+        official: امارات لیختینستائن
+    ZHO:
+        common: 列支敦士登
+        official: 列支敦士登公国
 currencies:
-- CHF
+    - CHF
 borders:
-- AUT
-- CHE
+    - AUT
+    - CHE
 codes:
-  alpha2: LI
-  alpha3: LIE
-  cioc: LIE
-  ccn3: "438"
-  callingcodes:
-  - "423"
-  internationalprefix: "00"
+    alpha2: LI
+    alpha3: LIE
+    cioc: LIE
+    ccn3: "438"
+    callingcodes:
+        - "423"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Vaduz
-  area: 160
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Vaduz
+    area: 160
 coordinates:
-  longitudestring: 9 32 E
-  latitudestring: 47 16 N
-  minlongitude: 9.5
-  minlatitude: 47.05
-  maxlongitude: 9.75
-  maxlatitude: 47.233334
-  latitude: 47.14127
-  longitude: 9.552783
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.47162
+    minlatitude: 47.04828999999999
+    maxlongitude: 9.6356501
+    maxlatitude: 47.2705467
+    latitude: 47.166
+    longitude: 9.555373

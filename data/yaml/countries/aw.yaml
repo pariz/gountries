@@ -1,66 +1,114 @@
 name:
-  common: Aruba
-  official: Aruba
-  native:
-    nld:
-      common: Aruba
-      official: Aruba
-    pap:
-      common: Aruba
-      official: Aruba
+    common: Aruba
+    official: Aruba
+    native:
+        nld:
+            common: Aruba
+            official: Aruba
+        pap:
+            common: Aruba
+            official: Aruba
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Aruban
 tlds:
-- .aw
+    - .aw
 languages:
-  nld: Dutch
-  pap: Papiamento
+    nl: ""
+    nld: Dutch
+    pap: Papiamento
 translations:
-  FIN:
-    common: Aruba
-    official: Aruba
-  HRV:
-    common: Aruba
-    official: Aruba
-  JPN:
-    common: アルバ
-    official: アルバ
-  NLD:
-    common: Aruba
-    official: Aruba
-  POR:
-    common: Aruba
-    official: Aruba
-  RUS:
-    common: Аруба
-    official: Аруба
-  SPA:
-    common: Aruba
-    official: Aruba
+    ARA:
+        common: أروبا
+        official: أروبا
+    CES:
+        common: Aruba
+        official: Aruba
+    DEU:
+        common: Aruba
+        official: Aruba
+    EST:
+        common: Aruba
+        official: Aruba
+    FIN:
+        common: Aruba
+        official: Aruba
+    FRA:
+        common: Aruba
+        official: Aruba
+    HRV:
+        common: Aruba
+        official: Aruba
+    HUN:
+        common: Aruba
+        official: Aruba
+    ITA:
+        common: Aruba
+        official: Aruba
+    JPN:
+        common: アルバ
+        official: アルバ
+    KOR:
+        common: 아루바
+        official: 아루바
+    NLD:
+        common: Aruba
+        official: Aruba
+    PER:
+        common: آروبا
+        official: آروبا
+    POL:
+        common: Aruba
+        official: Aruba
+    POR:
+        common: Aruba
+        official: Aruba
+    RUS:
+        common: Аруба
+        official: Аруба
+    SLK:
+        common: Aruba
+        official: Aruba
+    SPA:
+        common: Aruba
+        official: Aruba
+    SRP:
+        common: Aruba
+        official: Aruba
+    SWE:
+        common: Aruba
+        official: Aruba
+    TUR:
+        common: Aruba
+        official: Aruba
+    URD:
+        common: اروبا
+        official: اروبا
+    ZHO:
+        common: 阿鲁巴
+        official: 阿鲁巴
 currencies:
-- AWG
-borders: []
+    - AWG
 codes:
-  alpha2: AW
-  alpha3: ABW
-  cioc: ARU
-  ccn3: "533"
-  callingcodes:
-  - "297"
-  internationalprefix: "00"
+    alpha2: AW
+    alpha3: ABW
+    cioc: ARU
+    ccn3: "533"
+    callingcodes:
+        - "297"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Oranjestad
-  area: 180
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Oranjestad
+    area: 180
 coordinates:
-  longitudestring: 69 58 W
-  latitudestring: 12 30 N
-  minlongitude: -70.066666
-  minlatitude: 12.416667
-  maxlongitude: -69.85
-  maxlatitude: 12.616667
-  latitude: 12.506523
-  longitude: -69.969315
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.070114
+    minlatitude: 12.406093
+    maxlongitude: -69.8644638
+    maxlatitude: 12.6306179
+    latitude: 12.52111
+    longitude: -69.968338

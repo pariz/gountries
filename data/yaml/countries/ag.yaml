@@ -1,59 +1,110 @@
 name:
-  common: Antigua and Barbuda
-  official: Antigua and Barbuda
-  native:
-    eng:
-      common: Antigua and Barbuda
-      official: Antigua and Barbuda
+    common: Antigua and Barbuda
+    official: Antigua and Barbuda
+    native:
+        eng:
+            common: Antigua and Barbuda
+            official: Antigua and Barbuda
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Antiguan, Barbudan
 tlds:
-- .ag
+    - .ag
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Antigua und Barbuda
-    official: Antigua und Barbuda
-  FIN:
-    common: Antigua ja Barbuda
-    official: Antigua ja Barbuda
-  ITA:
-    common: Antigua e Barbuda
-    official: Antigua e Barbuda
-  JPN:
-    common: アンティグア・バーブーダ
-    official: アンチグアバーブーダ
-  NLD:
-    common: Antigua en Barbuda
-    official: Antigua en Barbuda
-  RUS:
-    common: Антигуа и Барбуда
-    official: Антигуа и Барбуда
+    ARA:
+        common: أنتيغوا وباربودا
+        official: أنتيغوا وباربودا
+    CES:
+        common: Antigua a Barbuda
+        official: Antigua a Barbuda
+    DEU:
+        common: Antigua und Barbuda
+        official: Antigua und Barbuda
+    EST:
+        common: Antigua ja Barbuda
+        official: Antigua ja Barbuda
+    FIN:
+        common: Antigua ja Barbuda
+        official: Antigua ja Barbuda
+    FRA:
+        common: Antigua-et-Barbuda
+        official: Antigua -et-Barbuda
+    HRV:
+        common: Antigva i Barbuda
+        official: Antigva i Barbuda
+    HUN:
+        common: Antigua és Barbuda
+        official: Antigua és Barbuda
+    ITA:
+        common: Antigua e Barbuda
+        official: Antigua e Barbuda
+    JPN:
+        common: アンティグア・バーブーダ
+        official: アンティグア・バーブーダ
+    KOR:
+        common: 앤티가 바부다
+        official: 앤티가 바부다
+    NLD:
+        common: Antigua en Barbuda
+        official: Antigua en Barbuda
+    PER:
+        common: آنتیگوا و باربودا
+        official: آنتیگوا و باربودا
+    POL:
+        common: Antigua i Barbuda
+        official: Antigua i Barbuda
+    POR:
+        common: Antígua e Barbuda
+        official: Antigua e Barbuda
+    RUS:
+        common: Антигуа и Барбуда
+        official: Антигуа и Барбуда
+    SLK:
+        common: Antigua a Barbuda
+        official: Antigua a Barbuda
+    SPA:
+        common: Antigua y Barbuda
+        official: Antigua y Barbuda
+    SRP:
+        common: Antigva i Barbuda
+        official: Antigva i Barbuda
+    SWE:
+        common: Antigua och Barbuda
+        official: Antigua och Barbuda
+    TUR:
+        common: Antigua ve Barbuda
+        official: Antigua ve Barbuda
+    URD:
+        common: اینٹیگوا و باربوڈا
+        official: اینٹیگوا و باربوڈا
+    ZHO:
+        common: 安提瓜和巴布达
+        official: 安提瓜和巴布达
 currencies:
-- XCD
-borders: []
+    - XCD
 codes:
-  alpha2: AG
-  alpha3: ATG
-  cioc: ANT
-  ccn3: "028"
-  callingcodes:
-  - "1268"
-  internationalprefix: "011"
+    alpha2: AG
+    alpha3: ATG
+    cioc: ANT
+    ccn3: "028"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Saint John's
-  area: 442
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Saint John's
+    area: 442
 coordinates:
-  longitudestring: 61 48 W
-  latitudestring: 17 03 N
-  minlongitude: -62.333332
-  minlatitude: 16.916668
-  maxlongitude: -61.666668
-  maxlatitude: 17.733334
-  latitude: 17.09274
-  longitude: -61.81041
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.38100009999999
+    minlatitude: 16.9018
+    maxlongitude: -61.6394
+    maxlatitude: 17.7499946
+    latitude: 17.060816
+    longitude: -61.796428

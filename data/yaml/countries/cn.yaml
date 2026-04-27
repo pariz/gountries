@@ -1,81 +1,131 @@
 name:
-  common: China
-  official: People's Republic of China
-  native:
-    cmn:
-      common: 中国
-      official: 中华人民共和国
+    common: China
+    official: The People's Republic of China
+    native:
+        zho:
+            common: 中国
+            official: 中华人民共和国
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Chinese
 tlds:
-- .cn
-- .中国
-- .中國
-- .公司
-- .网络
+    - .cn
+    - .中国
+    - .中國
+    - .公司
+    - .网络
 languages:
-  cmn: Mandarin
+    zh: ""
+    zho: Chinese
 translations:
-  FRA:
-    common: Chine
-    official: République populaire de Chine
-  ITA:
-    common: Cina
-    official: Repubblica popolare cinese
-  JPN:
-    common: 中国
-    official: 中華人民共和国
-  NLD:
-    common: China
-    official: Volksrepubliek China
-  POR:
-    common: China
-    official: República Popular da China
-  RUS:
-    common: Китай
-    official: Народная Республика Китай
-  SPA:
-    common: China
-    official: República Popular de China
+    ARA:
+        common: الصين
+        official: جمهورية الصين الشعبية
+    CES:
+        common: Čína
+        official: Čínská lidová republika
+    DEU:
+        common: China
+        official: Volksrepublik China
+    EST:
+        common: Hiina
+        official: Hiina Rahvavabariik
+    FIN:
+        common: Kiina
+        official: Kiinan kansantasavalta
+    FRA:
+        common: Chine
+        official: République populaire de Chine
+    HRV:
+        common: Kina
+        official: Narodna Republika Kina
+    HUN:
+        common: Kína
+        official: Kínai Népköztársaság
+    ITA:
+        common: Cina
+        official: Repubblica popolare cinese
+    JPN:
+        common: 中国
+        official: 中華人民共和国
+    KOR:
+        common: 중국
+        official: 중화인민공화국
+    NLD:
+        common: China
+        official: Volksrepubliek China
+    PER:
+        common: چین
+        official: جمهوری خلق چین
+    POL:
+        common: Chiny
+        official: Chińska Republika Ludowa
+    POR:
+        common: China
+        official: República Popular da China
+    RUS:
+        common: Китай
+        official: Народная Республика Китай
+    SLK:
+        common: Čína
+        official: Čínska ľudová republika
+    SPA:
+        common: China
+        official: República Popular de China
+    SRP:
+        common: Kina
+        official: Narodna Republika Kina
+    SWE:
+        common: Kina
+        official: Folkrepubliken Kina
+    TUR:
+        common: çin
+        official: çin Halk Cumhuriyeti
+    URD:
+        common: چین
+        official: عوامی جمہوریہ چین
+    ZHO:
+        common: 中国
+        official: 中华人民共和国
 currencies:
-- CNY
+    - CNY
 borders:
-- AFG
-- BTN
-- MMR
-- HKG
-- IND
-- KAZ
-- PRK
-- KGZ
-- LAO
-- MAC
-- MNG
-- PAK
-- RUS
-- TJK
-- VNM
+    - AFG
+    - BTN
+    - MMR
+    - HKG
+    - IND
+    - KAZ
+    - NPL
+    - PRK
+    - KGZ
+    - LAO
+    - MAC
+    - MNG
+    - PAK
+    - RUS
+    - TJK
+    - VNM
 codes:
-  alpha2: CN
-  alpha3: CHN
-  cioc: CHN
-  ccn3: "156"
-  callingcodes:
-  - "86"
-  internationalprefix: "00"
+    alpha2: CN
+    alpha3: CHN
+    cioc: CHN
+    ccn3: "156"
+    callingcodes:
+        - "86"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: Beijing
-  area: 9.706961e+06
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: Beijing
+    area: 9.706961e+06
 coordinates:
-  longitudestring: 105 00 E
-  latitudestring: 35 00 N
-  minlongitude: 106.7
-  minlatitude: 6.183333
-  maxlongitude: 117.816666
-  maxlatitude: 20.7
-  latitude: 36.553085
-  longitude: 103.97543
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 73.4994136
+    minlatitude: 17.9996
+    maxlongitude: 134.7754563
+    maxlatitude: 53.5609739
+    latitude: 35.86166
+    longitude: 104.195397

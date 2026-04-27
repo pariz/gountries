@@ -1,98 +1,98 @@
-- name: Saint John
-  names:
-  - Saint John
-  code: "04"
-  countryalpha2: GD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.752625
-    minlatitude: 12.108849
-    maxlongitude: -61.682125
-    maxlatitude: 12.177205
-    latitude: 12.130824
-    longitude: -61.712257
-- name: Saint Mark
-  names:
-  - Saint Mark
-  code: "05"
-  countryalpha2: GD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.724277
-    minlatitude: 12.151645
-    maxlongitude: -61.670155
-    maxlatitude: 12.219914
-    latitude: 12.19023
-    longitude: -61.688873
-- name: Saint Patrick
-  names:
-  - Saint Patrick
-  code: "06"
-  countryalpha2: GD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.682793
-    minlatitude: 12.167092
-    maxlongitude: -61.543976
-    maxlatitude: 12.330823
-    latitude: 12.205692
-    longitude: -61.642117
-- name: Southern Grenadine Islands
-  names:
-  - Southern Grenadine Islands
-  code: "10"
-  countryalpha2: GD
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -61.498947
-    minlatitude: 12.401671
-    maxlongitude: -61.378178
-    maxlatitude: 12.529858
-    latitude: 12.478589
-    longitude: -61.449383
 - name: Saint Andrew
   names:
-  - Saint Andrew
+    - Saint Andrew
   code: "01"
   countryalpha2: GD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -61.70144
+    minlongitude: -61.701438
     minlatitude: 12.048629
-    maxlongitude: -61.59251
+    maxlongitude: -61.59250969999999
     maxlatitude: 12.17327
-    latitude: 12.12306
-    longitude: -61.642117
+    latitude: 12.1230598
+    longitude: -61.64211719999999
 - name: Saint David
   names:
-  - Saint David
+    - Saint David
   code: "02"
   countryalpha2: GD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -61.717384
-    minlatitude: 12.006513
-    maxlongitude: -61.635696
+    minlongitude: -61.71738500000001
+    minlatitude: 12.0065127
+    maxlongitude: -61.6356962
     maxlatitude: 12.07608
-    latitude: 12.045644
-    longitude: -61.688873
+    latitude: 12.0456435
+    longitude: -61.6888738
 - name: Saint George
   names:
-  - Saint George
+    - Saint George
   code: "03"
   countryalpha2: GD
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -61.801937
-    minlatitude: 11.985208
-    maxlongitude: -61.6959
-    maxlatitude: 12.110826
-    latitude: 12.071432
-    longitude: -61.73564
+    minlongitude: -61.80193610000001
+    minlatitude: 11.9852072
+    maxlongitude: -61.6958989
+    maxlatitude: 12.1108259
+    latitude: 12.0714317
+    longitude: -61.73564330000001
+- name: Saint John
+  names:
+    - Saint John
+  code: "04"
+  countryalpha2: GD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.75262300000001
+    minlatitude: 12.108849
+    maxlongitude: -61.682125
+    maxlatitude: 12.177205
+    latitude: 12.130824
+    longitude: -61.71225699999999
+- name: Saint Mark
+  names:
+    - Saint Mark
+  code: "05"
+  countryalpha2: GD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.72427709999999
+    minlatitude: 12.1516449
+    maxlongitude: -61.6701531
+    maxlatitude: 12.219914
+    latitude: 12.19023
+    longitude: -61.6888738
+- name: Saint Patrick
+  names:
+    - Saint Patrick
+  code: "06"
+  countryalpha2: GD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.68279190000001
+    minlatitude: 12.1670921
+    maxlongitude: -61.54397489999999
+    maxlatitude: 12.3308232
+    latitude: 12.2056921
+    longitude: -61.64211719999999
+- name: Southern Grenadine Islands
+  names:
+    - Southern Grenadine Islands
+  code: "10"
+  countryalpha2: GD
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.4989469
+    minlatitude: 12.401671
+    maxlongitude: -61.378178
+    maxlatitude: 12.5298576
+    latitude: 12.4785888
+    longitude: -61.4493842

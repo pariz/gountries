@@ -1,58 +1,107 @@
 name:
-  common: Bouvet Island
-  official: Bouvet Island
-  native:
-    nor:
-      common: Bouvetøya
-      official: Bouvetøya
+    common: Bouvet Island
+    official: Bouvet Island
+    native:
+        nor:
+            common: Bouvetøya
+            official: Bouvetøya
 eumember: false
 landlocked: false
 nationality: ""
 tlds:
-- .bv
+    - .bv
 languages:
-  nor: Norwegian
+    nor: Norwegian
 translations:
-  FIN:
-    common: Bouvet'nsaari
-    official: Bouvet'nsaari
-  FRA:
-    common: Île Bouvet
-    official: Île Bouvet
-  HRV:
-    common: Otok Bouvet
-    official: Bouvet Island
-  NLD:
-    common: Bouveteiland
-    official: Bouvet Island
-  POR:
-    common: Ilha Bouvet
-    official: Ilha Bouvet
-  SPA:
-    common: Isla Bouvet
-    official: Isla Bouvet
+    ARA:
+        common: جزر بوفيه
+        official: جزر بوفيه
+    CES:
+        common: Bouvetův ostrov
+        official: Bouvetův ostrov
+    DEU:
+        common: Bouvetinsel
+        official: Bouvetinsel
+    EST:
+        common: Bouvet’ saar
+        official: Bouvet’ saar
+    FIN:
+        common: Bouvet'nsaari
+        official: Bouvet'nsaari
+    FRA:
+        common: Île Bouvet
+        official: Île Bouvet
+    HRV:
+        common: Otok Bouvet
+        official: Bouvet Island
+    HUN:
+        common: Bouvet-sziget
+        official: Bouvet-sziget
+    ITA:
+        common: Isola Bouvet
+        official: Isola Bouvet
+    JPN:
+        common: ブーベ島
+        official: ブーベ島
+    KOR:
+        common: 부베 섬
+        official: 부베 섬
+    NLD:
+        common: Bouveteiland
+        official: Bouvet Island
+    PER:
+        common: جزیرهٔ بووه
+        official: جزیرهٔ بووه
+    POL:
+        common: Wyspa Bouveta
+        official: Wyspa Bouveta
+    POR:
+        common: Ilha Bouvet
+        official: Ilha Bouvet
+    RUS:
+        common: Остров Буве
+        official: Остров Буве
+    SLK:
+        common: Bouvetov ostrov
+        official: Bouvetov ostrov
+    SPA:
+        common: Isla Bouvet
+        official: Isla Bouvet
+    SRP:
+        common: Buve
+        official: Ostrvo Buve
+    SWE:
+        common: Bouvetön
+        official: Bouvetön
+    TUR:
+        common: Bouvet Adası
+        official: Bouvet Adası
+    URD:
+        common: جزیرہ بووہ
+        official: جزیرہ بووہ
+    ZHO:
+        common: 布维岛
+        official: 布维岛
 currencies:
-- NOK
-borders: []
+    - NOK
 codes:
-  alpha2: BV
-  alpha3: BVT
-  cioc: ""
-  ccn3: "074"
-  callingcodes: []
-  internationalprefix: ""
+    alpha2: BV
+    alpha3: BVT
+    ccn3: "074"
+    callingcodes:
+        - "47"
 geo:
-  region: ""
-  subregion: ""
-  continent: Antarctica
-  capital: ""
-  area: 49
+    region: ""
+    subregion: ""
+    continent: Antarctica
+    capital: ""
+    area: 49
 coordinates:
-  longitudestring: 3 24 E
-  latitudestring: 54 26 S
-  minlongitude: 3.285278
-  minlatitude: -54.452778
-  maxlongitude: 3.433889
-  maxlatitude: -54.386112
-  latitude: -54.434204
-  longitude: 3.4102511
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.2858826
+    minlatitude: -54.4541004
+    maxlongitude: 3.4332785
+    maxlatitude: -54.3869298
+    latitude: -54.4207915
+    longitude: 3.3464497

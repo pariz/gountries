@@ -1,81 +1,126 @@
 name:
-  common: India
-  official: Republic of India
-  native:
-    eng:
-      common: India
-      official: Republic of India
-    hin:
-      common: भारत
-      official: भारत गणराज्य
-    tam:
-      common: இந்தியா
-      official: இந்தியக் குடியரசு
+    common: India
+    official: The Republic of India
+    native:
+        eng:
+            common: India
+            official: Republic of India
+        hin:
+            common: भारत
+            official: भारत गणराज्य
+        tam:
+            common: இந்தியா
+            official: இந்தியக் குடியரசு
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Indian
 tlds:
-- .in
+    - .in
 languages:
-  eng: English
-  hin: Hindi
-  tam: Tamil
+    en: ""
+    eng: English
+    hi: ""
+    hin: Hindi
+    tam: Tamil
 translations:
-  DEU:
-    common: Indien
-    official: Republik Indien
-  FIN:
-    common: Intia
-    official: Intian tasavalta
-  FRA:
-    common: Inde
-    official: République de l'Inde
-  HRV:
-    common: Indija
-    official: Republika Indija
-  JPN:
-    common: インド
-    official: インド共和国
-  POR:
-    common: Índia
-    official: República da Índia
-  RUS:
-    common: Индия
-    official: Республика Индия
-  SPA:
-    common: India
-    official: República de la India
+    ARA:
+        common: الهند
+        official: جمهورية الهند
+    CES:
+        common: Indie
+        official: Indická republika
+    DEU:
+        common: Indien
+        official: Republik Indien
+    EST:
+        common: India
+        official: India Vabariik
+    FIN:
+        common: Intia
+        official: Intian tasavalta
+    FRA:
+        common: Inde
+        official: République de l'Inde
+    HRV:
+        common: Indija
+        official: Republika Indija
+    HUN:
+        common: India
+        official: Indiai Köztársaság
+    ITA:
+        common: India
+        official: Repubblica dell'India
+    JPN:
+        common: インド
+        official: インド
+    KOR:
+        common: 인도
+        official: 인도 공화국
+    NLD:
+        common: India
+        official: Republiek India
+    PER:
+        common: هند
+        official: جمهوری هندوستان
+    POL:
+        common: Indie
+        official: Republika Indii
+    POR:
+        common: Índia
+        official: República da Índia
+    RUS:
+        common: Индия
+        official: Республика Индия
+    SLK:
+        common: India
+        official: Indická republika
+    SPA:
+        common: India
+        official: República de la India
+    SRP:
+        common: Indija
+        official: Republika Indija
+    SWE:
+        common: Indien
+        official: Republiken Indien
+    TUR:
+        common: Hindistan
+        official: Hindistan Cumhuriyeti
+    URD:
+        common: بھارت
+        official: جمہوریہ بھارت
+    ZHO:
+        common: 印度
+        official: 印度共和国
 currencies:
-- INR
+    - INR
 borders:
-- AFG
-- BGD
-- BTN
-- MMR
-- CHN
-- NPL
-- PAK
-- LKA
+    - BGD
+    - BTN
+    - MMR
+    - CHN
+    - NPL
+    - PAK
 codes:
-  alpha2: IN
-  alpha3: IND
-  cioc: IND
-  ccn3: "356"
-  callingcodes:
-  - "91"
-  internationalprefix: "00"
+    alpha2: IN
+    alpha3: IND
+    cioc: IND
+    ccn3: "356"
+    callingcodes:
+        - "91"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: New Delhi
-  area: 3.28759e+06
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: New Delhi
+    area: 3.28759e+06
 coordinates:
-  longitudestring: 77 00 E
-  latitudestring: 20 00 N
-  minlongitude: 67.01667
-  minlatitude: 6.755556
-  maxlongitude: 97.35
-  maxlatitude: 35.955833
-  latitude: 23.406012
-  longitude: 79.45809
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 68.1097
+    minlatitude: 6.4626999
+    maxlongitude: 97.39535869999999
+    maxlatitude: 35.513327
+    latitude: 20.593684
+    longitude: 78.96288

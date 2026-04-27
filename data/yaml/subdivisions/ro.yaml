@@ -1,139 +1,322 @@
-- name: Ialomita
+- name: Alba
   names:
-  - Ialomita
-  code: IL
+    - Alba
+  code: AB
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.300869
-    minlatitude: 44.330837
-    maxlongitude: 28.110025
-    maxlatitude: 44.864067
-    latitude: 44.603134
-    longitude: 27.378992
-- name: Iasi
+    minlongitude: 22.6724509
+    minlatitude: 45.467659
+    maxlongitude: 24.2515318
+    maxlatitude: 46.569062
+    latitude: 46.1558924
+    longitude: 23.5556121
+- name: Arges
   names:
-  - Iasi
-  - Jasch
-  - Jassy
-  - Yassy
-  code: IS
+    - Arges
+  code: AG
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 27.476957
-    minlatitude: 47.08484
-    maxlongitude: 27.696983
-    maxlatitude: 47.227436
-    latitude: 47.156944
-    longitude: 27.590279
-- name: Mehedinti
+    minlongitude: 24.427089
+    minlatitude: 44.366297
+    maxlongitude: 25.325839
+    maxlatitude: 45.610782
+    latitude: 45.0722527
+    longitude: 24.8142726
+- name: Arad
   names:
-  - Mehedinti
-  code: MH
+    - Arad
+  code: AR
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.000015
-    minlatitude: 44.098347
-    maxlongitude: 23.458584
-    maxlatitude: 45.108288
-    latitude: 44.551506
-    longitude: 22.904415
-- name: Vrancea
-  names:
-  - Vrancea
-  code: VN
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.374235
-    minlatitude: 45.366077
-    maxlongitude: 27.558525
-    maxlatitude: 46.204407
-    latitude: 45.813488
-    longitude: 27.065754
+    minlongitude: 21.230371
+    minlatitude: 46.1286903
+    maxlongitude: 21.3823449
+    maxlatitude: 46.2217118
+    latitude: 46.166667
+    longitude: 21.316667
 - name: Bucuresti
   names:
-  - Bucuresti
-  - Bucureşti
-  - Bukarest
-  - Bucarest
-  - Bucarest
+    - Bucuresti
+    - Bucureşti
+    - Bukarest
+    - Bucarest
+    - Bucarest
   code: B
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.9637
-    minlatitude: 44.334244
-    maxlongitude: 26.225574
-    maxlatitude: 44.54141
-    latitude: 44.42677
-    longitude: 26.10254
-- name: Cluj
-  names:
-  - Cluj
-  code: CJ
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.522545
-    minlatitude: 46.705475
-    maxlongitude: 23.710482
-    maxlatitude: 46.861294
-    latitude: 46.766666
-    longitude: 23.583332
-- name: Prahova
-  names:
-  - Prahova
-  code: PH
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.451437
-    minlatitude: 44.69248
-    maxlongitude: 26.605476
-    maxlatitude: 45.514774
-    latitude: 45.08919
-    longitude: 26.082932
+    minlongitude: 25.9637001
+    minlatitude: 44.3342445
+    maxlongitude: 26.225575
+    maxlatitude: 44.541407
+    latitude: 44.4267674
+    longitude: 26.1025384
 - name: Bacau
   names:
-  - Bacau
+    - Bacau
   code: BC
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.862925
-    minlatitude: 46.507366
-    maxlongitude: 26.954796
-    maxlatitude: 46.62072
-    latitude: 46.583332
-    longitude: 26.916668
-- name: Ilfov
+    minlongitude: 26.8629241
+    minlatitude: 46.5073649
+    maxlongitude: 26.9547951
+    maxlatitude: 46.6207201
+    latitude: 46.583333
+    longitude: 26.916667
+- name: Bihor
   names:
-  - Sectorul Agricol Ilfov
-  code: IF
+    - Bihor
+  code: BH
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.823767
-    minlatitude: 44.21543
-    maxlongitude: 26.454578
-    maxlatitude: 44.767887
-    latitude: 44.53555
-    longitude: 26.232489
+    minlongitude: 21.427627
+    minlatitude: 46.38481789999999
+    maxlongitude: 22.816566
+    maxlatitude: 47.607922
+    latitude: 47.01575159999999
+    longitude: 22.172266
+- name: Bistrita-Nasaud
+  names:
+    - Bistrita-Nasaud
+  code: BN
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.9229529
+    minlatitude: 46.7517591
+    maxlongitude: 25.0916189
+    maxlatitude: 47.6071391
+    latitude: 47.2486107
+    longitude: 24.5322814
+- name: Braila
+  names:
+    - Braila
+  code: BR
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.8928493
+    minlatitude: 45.1678028
+    maxlongitude: 28.0004168
+    maxlatitude: 45.3137327
+    latitude: 45.269194
+    longitude: 27.957472
+- name: Botosani
+  names:
+    - Botosani
+  code: BT
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.609519
+    minlatitude: 47.7045958
+    maxlongitude: 26.709298
+    maxlatitude: 47.7705485
+    latitude: 47.748611
+    longitude: 26.669444
+- name: Brasov
+  names:
+    - Brasov
+  code: BV
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.514449
+    minlatitude: 45.5828542
+    maxlongitude: 25.6784767
+    maxlatitude: 45.72210200000001
+    latitude: 45.666667
+    longitude: 25.616667
+- name: Buzau
+  names:
+    - Buzau
+  code: BZ
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.7563438
+    minlatitude: 45.1162977
+    maxlongitude: 26.8720435
+    maxlatitude: 45.1814771
+    latitude: 45.166667
+    longitude: 26.816667
+- name: Cluj
+  names:
+    - Cluj
+  code: CJ
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.522544
+    minlatitude: 46.7054762
+    maxlongitude: 23.7104809
+    maxlatitude: 46.8612951
+    latitude: 46.766667
+    longitude: 23.583333
+- name: Calarasi
+  names:
+    - Calarasi
+  code: CL
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.277003
+    minlatitude: 44.1794956
+    maxlongitude: 27.3725225
+    maxlatitude: 44.23818929999999
+    latitude: 44.2
+    longitude: 27.333333
+- name: Caras-Severin
+  names:
+    - Caras-Severin
+  code: CS
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.3522489
+    minlatitude: 44.589462
+    maxlongitude: 22.7100121
+    maxlatitude: 45.67003099999999
+    latitude: 45.1139646
+    longitude: 22.0740993
+- name: Constanta
+  names:
+    - Constanta
+    - Konstanza
+  code: CT
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.5510205
+    minlatitude: 44.0842815
+    maxlongitude: 28.7076575
+    maxlatitude: 44.2782744
+    latitude: 44.173333
+    longitude: 28.638333
+- name: Covasna
+  names:
+    - Covasna
+  code: CV
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.1405088
+    minlatitude: 45.83421149999999
+    maxlongitude: 26.2171125
+    maxlatitude: 45.8621916
+    latitude: 45.849167
+    longitude: 26.185278
+- name: Dâmbovita
+  names:
+    - Dambovita
+    - Dimbovita
+    - Dîmboviţa
+  code: DB
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.124594
+    minlatitude: 44.403276
+    maxlongitude: 25.992037
+    maxlatitude: 45.440805
+    latitude: 44.9289893
+    longitude: 25.425385
+- name: Dolj
+  names:
+    - Dolj
+  code: DJ
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.8383393
+    minlatitude: 43.699738
+    maxlongitude: 24.2646289
+    maxlatitude: 44.728214
+    latitude: 44.1623022
+    longitude: 23.6325054
+- name: Gorj
+  names:
+    - Gorj
+  code: GJ
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.5596509
+    minlatitude: 44.568317
+    maxlongitude: 23.8601481
+    maxlatitude: 45.3546451
+    latitude: 44.94855949999999
+    longitude: 23.2427079
+- name: Galati
+  names:
+    - Galati
+    - Galatz
+  code: GL
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.9515362
+    minlatitude: 45.3905241
+    maxlongitude: 28.1434536
+    maxlatitude: 45.484793
+    latitude: 45.423333
+    longitude: 28.0425
+- name: Giurgiu
+  names:
+    - Giurgiu
+  code: GR
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.8950758
+    minlatitude: 43.8592715
+    maxlongitude: 26.0299587
+    maxlatitude: 43.9360169
+    latitude: 43.900833
+    longitude: 25.973889
+- name: Hunedoara
+  names:
+    - Hunedoara
+  code: HD
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.8775477
+    minlatitude: 45.7303145
+    maxlongitude: 22.9378867
+    maxlatitude: 45.7960152
+    latitude: 45.76972199999999
+    longitude: 22.920278
 - name: Harghita
   names:
-  - Harghita
+    - Harghita
   code: HR
   countryalpha2: RO
   coordinates:
@@ -141,459 +324,276 @@
     latitudestring: ""
     minlongitude: 24.838758
     minlatitude: 46.118927
-    maxlongitude: 26.292679
-    maxlatitude: 47.182224
-    latitude: 46.49285
-    longitude: 25.64567
+    maxlongitude: 26.2926781
+    maxlatitude: 47.182226
+    latitude: 46.4928507
+    longitude: 25.6456696
+- name: Ilfov
+  names:
+    - Sectorul Agricol Ilfov
+  code: IF
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.823766
+    minlatitude: 44.21543
+    maxlongitude: 26.454579
+    maxlatitude: 44.767888
+    latitude: 44.535548
+    longitude: 26.2324886
+- name: Ialomita
+  names:
+    - Ialomita
+  code: IL
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.300869
+    minlatitude: 44.330837
+    maxlongitude: 28.1100249
+    maxlatitude: 44.86406700000001
+    latitude: 44.603133
+    longitude: 27.3789914
+- name: Iasi
+  names:
+    - Iasi
+    - Jasch
+    - Jassy
+    - Yassy
+  code: IS
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 27.4769569
+    minlatitude: 47.08483709999999
+    maxlongitude: 27.6969839
+    maxlatitude: 47.2274375
+    latitude: 47.156944
+    longitude: 27.590278
+- name: Mehedinti
+  names:
+    - Mehedinti
+  code: MH
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.0000145
+    minlatitude: 44.0983461
+    maxlongitude: 23.458584
+    maxlatitude: 45.108286
+    latitude: 44.5515053
+    longitude: 22.9044157
 - name: Maramures
   names:
-  - Maramures
+    - Maramures
   code: MM
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.965185
-    minlatitude: 47.32437
-    maxlongitude: 25.0557
-    maxlatitude: 48.020275
-    latitude: 47.67376
-    longitude: 23.745628
-- name: Tulcea
-  names:
-  - Tulcea
-  code: TL
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.747915
-    minlatitude: 45.157433
-    maxlongitude: 28.833414
-    maxlatitude: 45.20107
-    latitude: 45.171616
-    longitude: 28.791445
-- name: Bistrita-Nasaud
-  names:
-  - Bistrita-Nasaud
-  code: BN
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.922953
-    minlatitude: 46.75176
-    maxlongitude: 25.09162
-    maxlatitude: 47.60714
-    latitude: 47.24861
-    longitude: 24.532282
-- name: Caras-Severin
-  names:
-  - Caras-Severin
-  code: CS
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.35225
-    minlatitude: 44.589462
-    maxlongitude: 22.710012
-    maxlatitude: 45.670033
-    latitude: 45.113964
-    longitude: 22.074099
-- name: Covasna
-  names:
-  - Covasna
-  code: CV
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.140509
-    minlatitude: 45.834213
-    maxlongitude: 26.217112
-    maxlatitude: 45.86219
-    latitude: 45.849167
-    longitude: 26.185278
+    minlongitude: 22.965186
+    minlatitude: 47.324372
+    maxlongitude: 25.0557001
+    maxlatitude: 48.020276
+    latitude: 47.6737598
+    longitude: 23.7456285
 - name: Mures
   names:
-  - Mures
+    - Mures
   code: MS
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 23.957735
-    minlatitude: 46.075016
-    maxlongitude: 25.313915
-    maxlatitude: 47.1438
-    latitude: 46.55699
-    longitude: 24.672321
-- name: Teleorman
-  names:
-  - Teleorman
-  code: TR
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.585499
-    minlatitude: 43.618618
-    maxlongitude: 25.713873
-    maxlatitude: 44.51808
-    latitude: 44.01605
-    longitude: 25.298662
-- name: Buzau
-  names:
-  - Buzau
-  code: BZ
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.756344
-    minlatitude: 45.1163
-    maxlongitude: 26.872044
-    maxlatitude: 45.181477
-    latitude: 45.166668
-    longitude: 26.816668
-- name: Calarasi
-  names:
-  - Calarasi
-  code: CL
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.277002
-    minlatitude: 44.179497
-    maxlongitude: 27.372522
-    maxlatitude: 44.23819
-    latitude: 44.2
-    longitude: 27.333332
-- name: Braila
-  names:
-  - Braila
-  code: BR
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.892849
-    minlatitude: 45.1678
-    maxlongitude: 28.000418
-    maxlatitude: 45.313732
-    latitude: 45.269196
-    longitude: 27.957472
-- name: Botosani
-  names:
-  - Botosani
-  code: BT
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.609518
-    minlatitude: 47.704597
-    maxlongitude: 26.709297
-    maxlatitude: 47.77055
-    latitude: 47.74861
-    longitude: 26.669443
-- name: Brasov
-  names:
-  - Brasov
-  code: BV
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.514448
-    minlatitude: 45.582855
-    maxlongitude: 25.678476
-    maxlatitude: 45.722103
-    latitude: 45.666668
-    longitude: 25.616667
-- name: Dolj
-  names:
-  - Dolj
-  code: DJ
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.838339
-    minlatitude: 43.699738
-    maxlongitude: 24.26463
-    maxlatitude: 44.728214
-    latitude: 44.162304
-    longitude: 23.632505
-- name: Galati
-  names:
-  - Galati
-  - Galatz
-  code: GL
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.951536
-    minlatitude: 45.390526
-    maxlongitude: 28.143454
-    maxlatitude: 45.484795
-    latitude: 45.423332
-    longitude: 28.0425
-- name: Giurgiu
-  names:
-  - Giurgiu
-  code: GR
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 25.895077
-    minlatitude: 43.859272
-    maxlongitude: 26.029959
-    maxlatitude: 43.936016
-    latitude: 43.900833
-    longitude: 25.973888
-- name: Arad
-  names:
-  - Arad
-  code: AR
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.230371
-    minlatitude: 46.12869
-    maxlongitude: 21.382345
-    maxlatitude: 46.22171
-    latitude: 46.166668
-    longitude: 21.316668
-- name: Bihor
-  names:
-  - Bihor
-  code: BH
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 21.427628
-    minlatitude: 46.38482
-    maxlongitude: 22.816566
-    maxlatitude: 47.60792
-    latitude: 47.01575
-    longitude: 22.172266
-- name: Vaslui
-  names:
-  - Vaslui
-  code: VS
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 27.707777
-    minlatitude: 46.615784
-    maxlongitude: 27.74932
-    maxlatitude: 46.668995
-    latitude: 46.638332
-    longitude: 27.729168
-- name: Hunedoara
-  names:
-  - Hunedoara
-  code: HD
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.877548
-    minlatitude: 45.730316
-    maxlongitude: 22.937887
-    maxlatitude: 45.796017
-    latitude: 45.769722
-    longitude: 22.920279
-- name: Vâlcea
-  names:
-  - Vîlcea
-  code: VL
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.577042
-    minlatitude: 44.491413
-    maxlongitude: 24.5211
-    maxlatitude: 45.5877
-    latitude: 45.079803
-    longitude: 24.083529
-- name: Suceava
-  names:
-  - Suceava
-  code: SV
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.201492
-    minlatitude: 47.608536
-    maxlongitude: 26.321718
-    maxlatitude: 47.719166
-    latitude: 47.65139
-    longitude: 26.255556
-- name: Constanta
-  names:
-  - Constanta
-  - Konstanza
-  code: CT
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.55102
-    minlatitude: 44.084282
-    maxlongitude: 28.707657
-    maxlatitude: 44.278275
-    latitude: 44.173332
-    longitude: 28.638332
-- name: Satu Mare
-  names:
-  - Satu Mare
-  code: SM
-  countryalpha2: RO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.79015
-    minlatitude: 47.711666
-    maxlongitude: 22.977133
-    maxlatitude: 47.894566
-    latitude: 47.79
-    longitude: 22.89
+    minlongitude: 23.9577359
+    minlatitude: 46.075015
+    maxlongitude: 25.3139161
+    maxlatitude: 47.143799
+    latitude: 46.5569904
+    longitude: 24.6723215
 - name: Neamt
   names:
-  - Neamt
+    - Neamt
   code: NT
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.663082
-    minlatitude: 46.64095
+    minlongitude: 25.6630821
+    minlatitude: 46.640951
     maxlongitude: 27.246063
-    maxlatitude: 47.337543
-    latitude: 46.97587
-    longitude: 26.381876
+    maxlatitude: 47.337545
+    latitude: 46.9758685
+    longitude: 26.3818764
 - name: Olt
   names:
-  - Olt
+    - Olt
   code: OT
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 23.881878
-    minlatitude: 43.682045
-    maxlongitude: 24.854551
-    maxlatitude: 44.89697
-    latitude: 44.200798
-    longitude: 24.502298
+    minlongitude: 23.881877
+    minlatitude: 43.6820435
+    maxlongitude: 24.8545519
+    maxlatitude: 44.896967
+    latitude: 44.200797
+    longitude: 24.5022981
+- name: Prahova
+  names:
+    - Prahova
+  code: PH
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.4514369
+    minlatitude: 44.692479
+    maxlongitude: 26.6054759
+    maxlatitude: 45.5147729
+    latitude: 45.08919059999999
+    longitude: 26.0829312
 - name: Sibiu
   names:
-  - Sibiu
+    - Sibiu
   code: SB
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.063148
-    minlatitude: 45.7244
-    maxlongitude: 24.216528
-    maxlatitude: 45.841595
-    latitude: 45.792786
-    longitude: 24.15207
+    minlongitude: 24.0631485
+    minlatitude: 45.72439780000001
+    maxlongitude: 24.2165279
+    maxlatitude: 45.8415964
+    latitude: 45.792784
+    longitude: 24.152069
 - name: Salaj
   names:
-  - Salaj
+    - Salaj
   code: SJ
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 22.493326
-    minlatitude: 46.8541
-    maxlongitude: 23.840996
-    maxlatitude: 47.46011
-    latitude: 47.20908
-    longitude: 23.21219
+    minlatitude: 46.854099
+    maxlongitude: 23.8409952
+    maxlatitude: 47.460111
+    latitude: 47.2090813
+    longitude: 23.2121901
+- name: Satu Mare
+  names:
+    - Satu Mare
+  code: SM
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.7901506
+    minlatitude: 47.71166729999999
+    maxlongitude: 22.9771327
+    maxlatitude: 47.8945642
+    latitude: 47.79
+    longitude: 22.89
+- name: Suceava
+  names:
+    - Suceava
+  code: SV
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.2014914
+    minlatitude: 47.6085356
+    maxlongitude: 26.3217187
+    maxlatitude: 47.7191674
+    latitude: 47.65138899999999
+    longitude: 26.255556
+- name: Tulcea
+  names:
+    - Tulcea
+  code: TL
+  countryalpha2: RO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.7479162
+    minlatitude: 45.1574314
+    maxlongitude: 28.8334142
+    maxlatitude: 45.2010679
+    latitude: 45.1716165
+    longitude: 28.7914439
 - name: Timis
   names:
-  - Timis
+    - Timis
   code: TM
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.261759
-    minlatitude: 45.19184
-    maxlongitude: 22.546127
+    minlongitude: 20.2617593
+    minlatitude: 45.1918419
+    maxlongitude: 22.5461279
     maxlatitude: 46.18994
-    latitude: 45.81389
-    longitude: 21.333105
-- name: Alba
+    latitude: 45.8138902
+    longitude: 21.3331055
+- name: Teleorman
   names:
-  - Alba
-  code: AB
+    - Teleorman
+  code: TR
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.672451
-    minlatitude: 45.46766
-    maxlongitude: 24.251532
-    maxlatitude: 46.56906
-    latitude: 46.15589
-    longitude: 23.555613
-- name: Gorj
+    minlongitude: 24.585499
+    minlatitude: 43.6186193
+    maxlongitude: 25.713873
+    maxlatitude: 44.518081
+    latitude: 44.0160491
+    longitude: 25.2986628
+- name: Vâlcea
   names:
-  - Gorj
-  code: GJ
+    - Vîlcea
+  code: VL
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.55965
-    minlatitude: 44.568317
-    maxlongitude: 23.860147
-    maxlatitude: 45.354645
-    latitude: 44.94856
-    longitude: 23.242708
-- name: Arges
+    minlongitude: 23.5770419
+    minlatitude: 44.49141210000001
+    maxlongitude: 24.5211
+    maxlatitude: 45.587699
+    latitude: 45.07980509999999
+    longitude: 24.0835282
+- name: Vrancea
   names:
-  - Arges
-  code: AG
+    - Vrancea
+  code: VN
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.42709
-    minlatitude: 44.3663
-    maxlongitude: 25.325838
-    maxlatitude: 45.610783
-    latitude: 45.072254
-    longitude: 24.814272
-- name: Dâmbovita
+    minlongitude: 26.3742352
+    minlatitude: 45.366076
+    maxlongitude: 27.558525
+    maxlatitude: 46.204405
+    latitude: 45.81348759999999
+    longitude: 27.0657531
+- name: Vaslui
   names:
-  - Dambovita
-  - Dimbovita
-  - Dîmboviţa
-  code: DB
+    - Vaslui
+  code: VS
   countryalpha2: RO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.124594
-    minlatitude: 44.403275
-    maxlongitude: 25.992037
-    maxlatitude: 45.440804
-    latitude: 44.92899
-    longitude: 25.425385
+    minlongitude: 27.707777
+    minlatitude: 46.6157827
+    maxlongitude: 27.7493192
+    maxlatitude: 46.6689939
+    latitude: 46.638333
+    longitude: 27.729167

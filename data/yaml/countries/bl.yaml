@@ -1,62 +1,108 @@
 name:
-  common: Saint Barthélemy
-  official: Collectivity of Saint Barthélemy
-  native:
-    fra:
-      common: Saint-Barthélemy
-      official: Collectivité de Saint-Barthélemy
+    common: Saint Barthélemy
+    official: The Collectivity of Saint-Barthélemy
+    native:
+        fra:
+            common: Saint-Barthélemy
+            official: Collectivité de Saint-Barthélemy
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Saint Barthélemy Islander
 tlds:
-- .bl
+    - .bl
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  FRA:
-    common: Saint-Barthélemy
-    official: Collectivité de Saint-Barthélemy
-  ITA:
-    common: Antille Francesi
-    official: Collettività di Saint Barthélemy
-  JPN:
-    common: サン・バルテルミー
-    official: サン·バルテルミー島の集合体
-  NLD:
-    common: Saint Barthélemy
-    official: Gemeenschap Saint Barthélemy
-  POR:
-    common: São Bartolomeu
-    official: Coletividade de Saint Barthélemy
-  RUS:
-    common: Сен-Бартелеми
-    official: Коллективность Санкт -Бартельми
-  SPA:
-    common: San Bartolomé
-    official: Colectividad de San Barthélemy
+    ARA:
+        common: سان بارتليمي
+        official: التجمع الإقليمي لسانت بارتيليمي
+    CES:
+        common: Svatý Bartoloměj
+        official: Svatý Bartoloměj
+    DEU:
+        common: Saint-Barthélemy
+        official: Gebietskörperschaft Saint-Barthélemy
+    EST:
+        common: Saint-Barthélemy
+        official: Saint-Barthélemy territoriaalühendus
+    FIN:
+        common: Saint-Barthélemy
+        official: Saint-Barthélemyn yhteisö
+    FRA:
+        common: Saint-Barthélemy
+        official: Collectivité de Saint-Barthélemy
+    HRV:
+        common: Saint Barthélemy
+        official: Kolektivnost sv Barthélemy
+    HUN:
+        common: Saint-Barthélemy
+        official: Saint-Barthélemy
+    ITA:
+        common: Antille Francesi
+        official: Collettività di Saint Barthélemy
+    JPN:
+        common: サン・バルテルミー島
+        official: サンバルテルミー
+    KOR:
+        common: 생바르텔레미
+        official: 생바르텔레미
+    NLD:
+        common: Saint Barthélemy
+        official: Gemeenschap Saint Barthélemy
+    PER:
+        common: سن بارتلمی
+        official: سن بارتلمی
+    POL:
+        common: Saint-Barthélemy
+        official: Saint-Barthélemy
+    POR:
+        common: São Bartolomeu
+        official: Coletividade de Saint Barthélemy
+    RUS:
+        common: Сен-Бартелеми
+        official: Коллективность Санкт -Бартельми
+    SLK:
+        common: Svätý Bartolomej
+        official: Svätý Bartolomej
+    SPA:
+        common: San Bartolomé
+        official: Colectividad de San Barthélemy
+    SRP:
+        common: kolektivitet Sveti Bartolomej
+        official: Sveti Bartolomej
+    SWE:
+        common: Saint-Barthélemy
+        official: Saint-Barthélemy
+    TUR:
+        common: Saint Barthélemy
+        official: Saint Barthélemy
+    URD:
+        common: سینٹ بارتھیملے
+        official: سینٹ بارتھیملے
+    ZHO:
+        common: 圣巴泰勒米
+        official: 圣巴泰勒米集体
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: BL
-  alpha3: BLM
-  cioc: ""
-  ccn3: "652"
-  callingcodes:
-  - "590"
-  internationalprefix: ""
+    alpha2: BL
+    alpha3: BLM
+    ccn3: "652"
+    callingcodes:
+        - "590"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Gustavia
-  area: 21
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Gustavia
+    area: 21
 coordinates:
-  longitudestring: 62 85 W
-  latitudestring: 17 90 N
-  minlongitude: -62.911846
-  minlatitude: 17.870829
-  maxlongitude: -62.789215
-  maxlatitude: 17.960854
-  latitude: 17.896261
-  longitude: -62.830612
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.9559999
+    minlatitude: 17.8663
+    maxlongitude: -62.7869
+    maxlatitude: 17.978
+    latitude: 17.9
+    longitude: -62.833333

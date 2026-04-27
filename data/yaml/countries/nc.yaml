@@ -1,56 +1,109 @@
 name:
-  common: New Caledonia
-  official: New Caledonia
-  native:
-    fra:
-      common: Nouvelle-Calédonie
-      official: Nouvelle-Calédonie
+    common: New Caledonia
+    official: New Caledonia
+    native:
+        fra:
+            common: Nouvelle-Calédonie
+            official: Nouvelle-Calédonie
 eumember: false
 landlocked: false
-nationality: ""
+nationality: New Caledonian
 tlds:
-- .nc
+    - .nc
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  FRA:
-    common: Nouvelle-Calédonie
-    official: Nouvelle-Calédonie
-  ITA:
-    common: Nuova Caledonia
-    official: Nuova Caledonia
-  JPN:
-    common: ニューカレドニア
-    official: ニューカレドニア
-  POR:
-    common: Nova Caledónia
-    official: New Caledonia
-  RUS:
-    common: Новая Каледония
-    official: Новая Каледония
+    ARA:
+        common: كاليدونيا الجديدة
+        official: كاليدونيا الجديدة
+    CES:
+        common: Nová Kaledonie
+        official: Nová Kaledonie
+    DEU:
+        common: Neukaledonien
+        official: Neukaledonien
+    EST:
+        common: Uus-Kaledoonia
+        official: Uus-Kaledoonia
+    FIN:
+        common: Uusi-Kaledonia
+        official: Uusi-Kaledonia
+    FRA:
+        common: Nouvelle-Calédonie
+        official: Nouvelle-Calédonie
+    HRV:
+        common: Nova Kaledonija
+        official: Nova Kaledonija
+    HUN:
+        common: Új-Kaledónia
+        official: Új-Kaledónia
+    ITA:
+        common: Nuova Caledonia
+        official: Nuova Caledonia
+    JPN:
+        common: ニューカレドニア
+        official: ニューカレドニア
+    KOR:
+        common: 누벨칼레도니
+        official: 누벨칼레도니
+    NLD:
+        common: Nieuw-Caledonië
+        official: nieuw -Caledonië
+    PER:
+        common: کالدونیای جدید
+        official: کالدونیای جدید
+    POL:
+        common: Nowa Kaledonia
+        official: Nowa Kaledonia
+    POR:
+        common: Nova Caledónia
+        official: New Caledonia
+    RUS:
+        common: Новая Каледония
+        official: Новая Каледония
+    SLK:
+        common: Nová Kaledónia
+        official: Nová Kaledónia
+    SPA:
+        common: Nueva Caledonia
+        official: nueva Caledonia
+    SRP:
+        common: Nova Kaledonija
+        official: Nova Kaledonija
+    SWE:
+        common: Nya Kaledonien
+        official: Nya Kaledonien
+    TUR:
+        common: Yeni Kaledonya
+        official: Yeni Kaledonya
+    URD:
+        common: نیو کیلیڈونیا
+        official: نیو کیلیڈونیا
+    ZHO:
+        common: 新喀里多尼亚
+        official: 新喀里多尼亚
 currencies:
-- XPF
-borders: []
+    - XPF
 codes:
-  alpha2: NC
-  alpha3: NCL
-  cioc: ""
-  ccn3: "540"
-  callingcodes:
-  - "687"
-  internationalprefix: "00"
+    alpha2: NC
+    alpha3: NCL
+    ccn3: "540"
+    callingcodes:
+        - "687"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Melanesia
-  continent: Australia
-  capital: Nouméa
-  area: 18575
+    region: Oceania
+    subregion: Melanesia
+    continent: Australia
+    capital: Nouméa
+    area: 18575
 coordinates:
-  longitudestring: 165 30 E
-  latitudestring: 21 30 S
-  minlongitude: 158.24667
-  minlatitude: -22.783333
-  maxlongitude: 172.05
-  maxlatitude: -18.016666
-  latitude: -21.317823
-  longitude: 165.29858
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 163.3557129
+    minlatitude: -23.2514406
+    maxlongitude: 168.3325194
+    maxlatitude: -19.1607355
+    latitude: -20.904305
+    longitude: 165.618042

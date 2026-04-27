@@ -1,72 +1,114 @@
 name:
-  common: Chile
-  official: Republic of Chile
-  native:
-    spa:
-      common: Chile
-      official: República de Chile
+    common: Chile
+    official: The Republic of Chile
+    native:
+        spa:
+            common: Chile
+            official: República de Chile
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Chilean
 tlds:
-- .cl
+    - .cl
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  CYM:
-    common: Chile
-    official: Republic of Chile
-  DEU:
-    common: Chile
-    official: Republik Chile
-  FIN:
-    common: Chile
-    official: Chilen tasavalta
-  FRA:
-    common: Chili
-    official: République du Chili
-  HRV:
-    common: Čile
-    official: Republika Čile
-  ITA:
-    common: Cile
-    official: Repubblica del Cile
-  NLD:
-    common: Chili
-    official: Republiek Chili
-  RUS:
-    common: Чили
-    official: Республика Чили
-  SPA:
-    common: Chile
-    official: República de Chile
+    ARA:
+        common: تشيلي
+        official: جمهورية تشيلي
+    CES:
+        common: Chile
+        official: Chilská republika
+    DEU:
+        common: Chile
+        official: Republik Chile
+    EST:
+        common: Tšiili
+        official: Tšiili Vabariik
+    FIN:
+        common: Chile
+        official: Chilen tasavalta
+    FRA:
+        common: Chili
+        official: République du Chili
+    HRV:
+        common: Čile
+        official: Republika Čile
+    HUN:
+        common: Chile
+        official: Chilei Köztársaság
+    ITA:
+        common: Cile
+        official: Repubblica del Cile
+    JPN:
+        common: チリ
+        official: チリ共和国
+    KOR:
+        common: 칠레
+        official: 칠레 공화국
+    NLD:
+        common: Chili
+        official: Republiek Chili
+    PER:
+        common: شیلی
+        official: جمهوری شیلی
+    POL:
+        common: Chile
+        official: Republika Chile
+    POR:
+        common: Chile
+        official: República do Chile
+    RUS:
+        common: Чили
+        official: Республика Чили
+    SLK:
+        common: Čile
+        official: Čílska republika
+    SPA:
+        common: Chile
+        official: República de Chile
+    SRP:
+        common: Čile
+        official: Republika Čile
+    SWE:
+        common: Chile
+        official: Republiken Chile
+    TUR:
+        common: şili
+        official: şili Cumhuriyeti
+    URD:
+        common: چلی
+        official: جمہوریہ چلی
+    ZHO:
+        common: 智利
+        official: 智利共和国
 currencies:
-- CLF
-- CLP
+    - CLP
 borders:
-- ARG
-- BOL
-- PER
+    - ARG
+    - BOL
+    - PER
 codes:
-  alpha2: CL
-  alpha3: CHL
-  cioc: CHI
-  ccn3: "152"
-  callingcodes:
-  - "56"
-  internationalprefix: "00"
+    alpha2: CL
+    alpha3: CHL
+    cioc: CHI
+    ccn3: "152"
+    callingcodes:
+        - "56"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Santiago
-  area: 756102
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Santiago
+    area: 756102
 coordinates:
-  longitudestring: 71 00 W
-  latitudestring: 30 00 S
-  minlongitude: -109.46667
-  minlatitude: -56.533333
-  maxlongitude: -66.433334
-  maxlatitude: -17.53
-  latitude: -35.78623
-  longitude: -71.674675
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -110.0281
+    minlatitude: -56.1455
+    maxlongitude: -66.3327
+    maxlatitude: -17.4983291
+    latitude: -35.675147
+    longitude: -71.542969

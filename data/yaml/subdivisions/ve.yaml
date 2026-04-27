@@ -1,350 +1,350 @@
+- name: Distrito Federal
+  names:
+    - Distrito Federal
+  code: A
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.8206768
+    minlatitude: 10.4846835
+    maxlongitude: -66.8186636
+    maxlatitude: 10.4915618
+    latitude: 10.4883092
+    longitude: -66.8201397
 - name: Anzoátegui
   names:
-  - Anzoátegui
+    - Anzoátegui
   code: B
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -65.72311
-    minlatitude: 7.662309
-    maxlongitude: -62.69042
-    maxlatitude: 10.306285
-    latitude: 8.591308
-    longitude: -63.95861
-- name: Bolívar
+    minlongitude: -65.7231031
+    minlatitude: 7.662308999999999
+    maxlongitude: -62.690419
+    maxlatitude: 10.3062849
+    latitude: 8.5913073
+    longitude: -63.95861110000001
+- name: Apure
   names:
-  - Bolívar
-  code: F
+    - Apure
+  code: C
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 77.18535
-    minlatitude: 28.599989
-    maxlongitude: 77.18609
-    maxlatitude: 28.60059
-    latitude: 28.60029
-    longitude: 77.18572
-- name: Cojedes
-  names:
-  - Cojedes
-  code: H
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -68.97396
-    minlatitude: 8.447204
-    maxlongitude: -67.72992
-    maxlatitude: 10.136926
-    latitude: 9.381668
-    longitude: -68.33393
-- name: Miranda
-  names:
-  - Miranda
-  code: M
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.82068
-    minlatitude: 10.484683
-    maxlongitude: -66.818665
-    maxlatitude: 10.491562
-    latitude: 10.488309
-    longitude: -66.82014
-- name: Sucre
-  names:
-  - Sucre
-  code: R
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.82068
-    minlatitude: 10.484683
-    maxlongitude: -66.818665
-    maxlatitude: 10.491562
-    latitude: 10.488309
-    longitude: -66.82014
-- name: Táchira
-  names:
-  - Táchira
-  code: S
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.4872
-    minlatitude: 7.328788
-    maxlongitude: -71.34912
-    maxlatitude: 8.665776
-    latitude: 7.9137
-    longitude: -72.14162
-- name: Delta Amacuro
-  names:
-  - Delta Amacuro
-  code: "Y"
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -62.614975
-    minlatitude: 7.608759
-    maxlongitude: -59.80378
-    maxlatitude: 10.053239
-    latitude: 8.831594
-    longitude: -61.518047
+    minlongitude: -72.44940199999999
+    minlatitude: 6.087082100000001
+    maxlongitude: -66.387362
+    maxlatitude: 8.071935
+    latitude: 6.926948299999999
+    longitude: -68.52471489999999
 - name: Aragua
   names:
-  - Aragua
+    - Aragua
   code: D
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -67.84169
+    minlongitude: -67.8416931
     minlatitude: 9.236194
-    maxlongitude: -66.57771
-    maxlatitude: 10.534842
-    latitude: 10.23132
-    longitude: -67.28479
+    maxlongitude: -66.577714
+    maxlatitude: 10.5348419
+    latitude: 10.2313205
+    longitude: -67.2847875
 - name: Barinas
   names:
-  - Barinas
+    - Barinas
   code: E
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.316185
-    minlatitude: 8.567697
-    maxlongitude: -70.154915
-    maxlatitude: 8.676318
-    latitude: 8.62315
-    longitude: -70.23711
+    minlongitude: -70.3161825
+    minlatitude: 8.567696399999999
+    maxlongitude: -70.1549148
+    maxlatitude: 8.676318000000002
+    latitude: 8.6231498
+    longitude: -70.2371045
+- name: Bolívar
+  names:
+    - Bolívar
+  code: F
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 77.1853477
+    minlatitude: 28.5999888
+    maxlongitude: 77.1860916
+    maxlatitude: 28.6005899
+    latitude: 28.6002894
+    longitude: 77.1857196
 - name: Carabobo
   names:
-  - Carabobo
+    - Carabobo
   code: G
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -68.36164
-    minlatitude: 9.84061
-    maxlongitude: -67.50059
+    minlongitude: -68.3616419
+    minlatitude: 9.840609899999999
+    maxlongitude: -67.500586
     maxlatitude: 10.582696
-    latitude: 10.117643
-    longitude: -68.04775
+    latitude: 10.1176433
+    longitude: -68.0477509
+- name: Cojedes
+  names:
+    - Cojedes
+  code: H
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -68.973962
+    minlatitude: 8.447204
+    maxlongitude: -67.729923
+    maxlatitude: 10.136926
+    latitude: 9.3816682
+    longitude: -68.3339275
 - name: Falcón
   names:
-  - Falcón
+    - Falcón
   code: I
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -71.25438
-    minlatitude: 10.300759
-    maxlongitude: -68.223915
-    maxlatitude: 12.196749
-    latitude: 11.181067
-    longitude: -69.85974
+    minlongitude: -71.2543781
+    minlatitude: 10.3007589
+    maxlongitude: -68.2239176
+    maxlatitude: 12.1967488
+    latitude: 11.1810674
+    longitude: -69.8597406
+- name: Guárico
+  names:
+    - Guárico
+  code: J
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -68.0238901
+    minlatitude: 7.605169999999998
+    maxlongitude: -64.75399209999999
+    maxlatitude: 10.057669
+    latitude: 8.7489309
+    longitude: -66.2367172
 - name: Lara
   names:
-  - Lara
+    - Lara
   code: K
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.86321
+    minlongitude: -70.86321000000001
     minlatitude: 9.471193
-    maxlongitude: -68.86313
-    maxlatitude: 10.783326
-    latitude: 10.153784
-    longitude: -69.85974
+    maxlongitude: -68.86312699999999
+    maxlatitude: 10.7833261
+    latitude: 10.1537842
+    longitude: -69.8597406
+- name: Mérida
+  names:
+    - Mérida
+  code: L
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.2217046
+    minlatitude: 8.550806399999999
+    maxlongitude: -71.1248876
+    maxlatitude: 8.6325337
+    latitude: 8.6
+    longitude: -71.14999999999999
+- name: Miranda
+  names:
+    - Miranda
+  code: M
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.8206768
+    minlatitude: 10.4846835
+    maxlongitude: -66.8186636
+    maxlatitude: 10.4915618
+    latitude: 10.4883092
+    longitude: -66.8201397
+- name: Monagas
+  names:
+    - Monagas
+  code: "N"
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -64.060521
+    minlatitude: 8.370352
+    maxlongitude: -61.992819
+    maxlatitude: 10.313212
+    latitude: 9.3241652
+    longitude: -63.0147578
 - name: Nueva Esparta
   names:
-  - Nueva Esparta
+    - Nueva Esparta
   code: O
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -64.408394
-    minlatitude: 10.736247
-    maxlongitude: -63.78019
-    maxlatitude: 11.175168
-    latitude: 10.997072
-    longitude: -63.91133
-- name: Zulia
-  names:
-  - Zulia
-  code: V
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.37431
-    minlatitude: 8.387665
-    maxlongitude: -70.63523
-    maxlatitude: 11.855274
-    latitude: 9.967492
-    longitude: -72.520485
-- name: Guárico
-  names:
-  - Guárico
-  code: J
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -68.02389
-    minlatitude: 7.60517
-    maxlongitude: -64.75399
-    maxlatitude: 10.057669
-    latitude: 8.748931
-    longitude: -66.23672
-- name: Monagas
-  names:
-  - Monagas
-  code: "N"
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -64.060524
-    minlatitude: 8.370352
-    maxlongitude: -61.99282
-    maxlatitude: 10.313212
-    latitude: 9.324165
-    longitude: -63.01476
+    minlatitude: 10.7362473
+    maxlongitude: -63.7801904
+    maxlatitude: 11.1751676
+    latitude: 10.9970723
+    longitude: -63.91132959999999
 - name: Portuguesa
   names:
-  - Portuguesa
+    - Portuguesa
   code: P
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.20323
-    minlatitude: 8.066404
-    maxlongitude: -68.42865
+    minlongitude: -70.20322999999999
+    minlatitude: 8.0664041
+    maxlongitude: -68.4286499
     maxlatitude: 9.936261
-    latitude: 9.094399
-    longitude: -69.09702
-- name: Yaracuy
+    latitude: 9.094399899999999
+    longitude: -69.097023
+- name: Sucre
   names:
-  - Yaracuy
-  code: U
+    - Sucre
+  code: R
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -69.18032
-    minlatitude: 9.898343
-    maxlongitude: -68.2399
-    maxlatitude: 10.766163
-    latitude: 10.417644
-    longitude: -68.7155
-- name: Dependencias Federales
+    minlongitude: -66.8206768
+    minlatitude: 10.4846835
+    maxlongitude: -66.8186636
+    maxlatitude: 10.4915618
+    latitude: 10.4883092
+    longitude: -66.8201397
+- name: Táchira
   names:
-  - Dependencias Federales
-  code: W
+    - Táchira
+  code: S
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -67.669495
-    minlatitude: 10.889361
-    maxlongitude: -63.078728
-    maxlatitude: 11.984823
-    latitude: 10.937705
-    longitude: -65.35696
-- name: Amazonas
-  names:
-  - Amazonas
-  code: Z
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -67.87779
-    minlatitude: 0.674502
-    maxlongitude: -63.371845
-    maxlatitude: 6.155679
-    latitude: 2.8101413
-    longitude: -65.09578
-- name: Distrito Federal
-  names:
-  - Distrito Federal
-  code: A
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.82068
-    minlatitude: 10.484683
-    maxlongitude: -66.818665
-    maxlatitude: 10.491562
-    latitude: 10.488309
-    longitude: -66.82014
-- name: Apure
-  names:
-  - Apure
-  code: C
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.4494
-    minlatitude: 6.087082
-    maxlongitude: -66.38736
-    maxlatitude: 8.071935
-    latitude: 6.926948
-    longitude: -68.52471
-- name: Mérida
-  names:
-  - Mérida
-  code: L
-  countryalpha2: VE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.2217
-    minlatitude: 8.550806
-    maxlongitude: -71.124886
-    maxlatitude: 8.632534
-    latitude: 8.6
-    longitude: -71.15
+    minlongitude: -72.48719799999999
+    minlatitude: 7.328787999999999
+    maxlongitude: -71.349119
+    maxlatitude: 8.6657761
+    latitude: 7.9137001
+    longitude: -72.1416132
 - name: Trujillo
   names:
-  - Trujillo
+    - Trujillo
   code: T
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.4553
-    minlatitude: 9.343721
-    maxlongitude: -70.42305
-    maxlatitude: 9.398063
+    minlongitude: -70.4553008
+    minlatitude: 9.3437211
+    maxlongitude: -70.4230498
+    maxlatitude: 9.398062699999999
     latitude: 9.366667
-    longitude: -70.43306
+    longitude: -70.433056
+- name: Yaracuy
+  names:
+    - Yaracuy
+  code: U
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.1803231
+    minlatitude: 9.898342999999999
+    maxlongitude: -68.239899
+    maxlatitude: 10.7661631
+    latitude: 10.417644
+    longitude: -68.7154975
+- name: Zulia
+  names:
+    - Zulia
+  code: V
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.37431289999999
+    minlatitude: 8.387665
+    maxlongitude: -70.63522999999999
+    maxlatitude: 11.8552741
+    latitude: 9.967492
+    longitude: -72.5204827
+- name: Dependencias Federales
+  names:
+    - Dependencias Federales
+  code: W
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.6694946
+    minlatitude: 10.889361
+    maxlongitude: -63.07872800000001
+    maxlatitude: 11.9848232
+    latitude: 10.9377053
+    longitude: -65.35695729999999
 - name: Vargas
   names:
-  - Vargas
+    - Vargas
   code: X
   countryalpha2: VE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -67.37259
+    minlongitude: -67.3725891
     minlatitude: 10.417451
-    maxlongitude: -66.33789
-    maxlatitude: 10.630414
-    latitude: 10.589002
-    longitude: -66.73673
+    maxlongitude: -66.337891
+    maxlatitude: 10.6304144
+    latitude: 10.5890015
+    longitude: -66.7367345
+- name: Delta Amacuro
+  names:
+    - Delta Amacuro
+  code: "Y"
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.6149749
+    minlatitude: 7.608759
+    maxlongitude: -59.80378
+    maxlatitude: 10.053239
+    latitude: 8.8315945
+    longitude: -61.5180455
+- name: Amazonas
+  names:
+    - Amazonas
+  code: Z
+  countryalpha2: VE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -67.877792
+    minlatitude: 0.6745019999999999
+    maxlongitude: -63.37184399999999
+    maxlatitude: 6.1556791
+    latitude: 2.8101413
+    longitude: -65.0957792

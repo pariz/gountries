@@ -1,55 +1,119 @@
 name:
-  common: Montenegro
-  official: Montenegro
-  native:
-    srp:
-      common: Црна Гора
-      official: Црна Гора
+    common: Montenegro
+    official: Montenegro
+    native:
+        cnr:
+            common: Црна Гора
+            official: Црна Гора
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Montenegrin
 tlds:
-- .me
+    - .me
 languages:
-  srp: Montenegrin
+    bs: ""
+    cnr: Montenegrin
+    hr: ""
+    sq: ""
+    sr: ""
 translations:
-  ITA:
-    common: Montenegro
-    official: Montenegro
-  NLD:
-    common: Montenegro
-    official: Montenegro
-  RUS:
-    common: Черногория
-    official: Черногория
+    ARA:
+        common: الجبل الاسود
+        official: الجبل الاسود
+    CES:
+        common: Černá Hora
+        official: Černá Hora
+    DEU:
+        common: Montenegro
+        official: Montenegro
+    EST:
+        common: Montenegro
+        official: Montenegro
+    FIN:
+        common: Montenegro
+        official: Montenegro
+    FRA:
+        common: Monténégro
+        official: Monténégro
+    HRV:
+        common: Crna Gora
+        official: Crna Gora
+    HUN:
+        common: Montenegró
+        official: Montenegró
+    ITA:
+        common: Montenegro
+        official: Montenegro
+    JPN:
+        common: モンテネグロ
+        official: モンテネグロ
+    KOR:
+        common: 몬테네그로
+        official: 몬테네그로
+    NLD:
+        common: Montenegro
+        official: Montenegro
+    PER:
+        common: مونته‌نگرو
+        official: مونته‌نگرو
+    POL:
+        common: Czarnogóra
+        official: Czarnogóra
+    POR:
+        common: Montenegro
+        official: Montenegro
+    RUS:
+        common: Черногория
+        official: Черногория
+    SLK:
+        common: Čierna Hora
+        official: Čierna Hora
+    SPA:
+        common: Montenegro
+        official: Montenegro
+    SRP:
+        common: Crna Gora
+        official: Crna Gora
+    SWE:
+        common: Montenegro
+        official: Montenegro
+    TUR:
+        common: Karadağ
+        official: Karadağ
+    URD:
+        common: مونٹینیگرو
+        official: مونٹینیگرو
+    ZHO:
+        common: 黑山
+        official: 黑山
 currencies:
-- EUR
+    - EUR
 borders:
-- ALB
-- BIH
-- HRV
-- KOS
-- SRB
+    - ALB
+    - BIH
+    - HRV
+    - UNK
+    - SRB
 codes:
-  alpha2: ME
-  alpha3: MNE
-  cioc: MNE
-  ccn3: "499"
-  callingcodes:
-  - "382"
-  internationalprefix: "99"
+    alpha2: ME
+    alpha3: MNE
+    cioc: MNE
+    ccn3: "499"
+    callingcodes:
+        - "382"
+    internationalprefix: "99"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Podgorica
-  area: 13812
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Podgorica
+    area: 13812
 coordinates:
-  longitudestring: 19 18 E
-  latitudestring: 42 30 N
-  minlongitude: 18.438057
-  minlatitude: 41.864166
-  maxlongitude: 20.3425
-  maxlatitude: 43.54778
-  latitude: 42.752804
-  longitude: 19.237919
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.4337921
+    minlatitude: 41.8297
+    maxlongitude: 20.352926
+    maxlatitude: 43.558743
+    latitude: 42.708678
+    longitude: 19.37439

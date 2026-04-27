@@ -1,60 +1,115 @@
 name:
-  common: Guatemala
-  official: Republic of Guatemala
-  native:
-    spa:
-      common: Guatemala
-      official: República de Guatemala
+    common: Guatemala
+    official: The Republic of Guatemala
+    native:
+        spa:
+            common: Guatemala
+            official: República de Guatemala
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guatemalan
 tlds:
-- .gt
+    - .gt
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  DEU:
-    common: Guatemala
-    official: Republik Guatemala
-  FIN:
-    common: Guatemala
-    official: Guatemalan tasavalta
-  HRV:
-    common: Gvatemala
-    official: Republika Gvatemala
-  ITA:
-    common: Guatemala
-    official: Repubblica del Guatemala
-  NLD:
-    common: Guatemala
-    official: Republiek Guatemala
+    ARA:
+        common: غواتيمالا
+        official: جمهورية غواتيمالا
+    CES:
+        common: Guatemala
+        official: Republika Guatemala
+    DEU:
+        common: Guatemala
+        official: Republik Guatemala
+    EST:
+        common: Guatemala
+        official: Guatemala Vabariik
+    FIN:
+        common: Guatemala
+        official: Guatemalan tasavalta
+    FRA:
+        common: Guatemala
+        official: République du Guatemala
+    HRV:
+        common: Gvatemala
+        official: Republika Gvatemala
+    HUN:
+        common: Guatemala
+        official: Guatemalai Köztársaság
+    ITA:
+        common: Guatemala
+        official: Repubblica del Guatemala
+    JPN:
+        common: グアテマラ
+        official: グアテマラ共和国
+    KOR:
+        common: 과테말라
+        official: 과테말라 공화국
+    NLD:
+        common: Guatemala
+        official: Republiek Guatemala
+    PER:
+        common: گواتِمالا
+        official: جمهوری گواتِمالا
+    POL:
+        common: Gwatemala
+        official: Republika Gwatemali
+    POR:
+        common: Guatemala
+        official: República da Guatemala
+    RUS:
+        common: Гватемала
+        official: Республика Гватемала
+    SLK:
+        common: Guatemala
+        official: Guatemalská republika
+    SPA:
+        common: Guatemala
+        official: República de Guatemala
+    SRP:
+        common: Gvatemala
+        official: Republika Gvatemala
+    SWE:
+        common: Guatemala
+        official: Republiken Guatemala
+    TUR:
+        common: Guatemala
+        official: Guatemala Cumhuriyeti
+    URD:
+        common: گواتیمالا
+        official: جمہوریہ گواتیمالا
+    ZHO:
+        common: 危地马拉
+        official: 危地马拉共和国
 currencies:
-- GTQ
+    - GTQ
 borders:
-- BLZ
-- SLV
-- HND
-- MEX
+    - BLZ
+    - SLV
+    - HND
+    - MEX
 codes:
-  alpha2: GT
-  alpha3: GTM
-  cioc: GUA
-  ccn3: "320"
-  callingcodes:
-  - "502"
-  internationalprefix: "00"
+    alpha2: GT
+    alpha3: GTM
+    cioc: GUA
+    ccn3: "320"
+    callingcodes:
+        - "502"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Central America
-  continent: North America
-  capital: Guatemala City
-  area: 108889
+    region: Americas
+    subregion: Central America
+    continent: North America
+    capital: Guatemala City
+    area: 108889
 coordinates:
-  longitudestring: 90 15 W
-  latitudestring: 15 30 N
-  minlongitude: -92.583336
-  minlatitude: 13.751111
-  maxlongitude: -87.05
-  maxlatitude: 17.816668
-  latitude: 15.670566
-  longitude: -90.348656
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -92.2714
+    minlatitude: 13.63
+    maxlongitude: -88.1982001
+    maxlatitude: 17.815697
+    latitude: 15.783471
+    longitude: -90.23075899999999

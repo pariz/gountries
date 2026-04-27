@@ -1,63 +1,113 @@
 name:
-  common: Niue
-  official: Niue
-  native:
-    eng:
-      common: Niue
-      official: Niue
-    niu:
-      common: Niuē
-      official: Niuē
+    common: Niue
+    official: Niue
+    native:
+        eng:
+            common: Niue
+            official: Niue
+        niu:
+            common: Niuē
+            official: Niuē
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Niuean
 tlds:
-- .nu
+    - .nu
 languages:
-  eng: English
-  niu: Niuean
+    en: ""
+    eng: English
+    niu: Niuean
 translations:
-  FIN:
-    common: Niue
-    official: Niue
-  HRV:
-    common: Niue
-    official: Niue
-  ITA:
-    common: Niue
-    official: Niue
-  JPN:
-    common: ニウエ
-    official: ニウエ
-  NLD:
-    common: Niue
-    official: Niue
-  SPA:
-    common: Niue
-    official: Niue
+    ARA:
+        common: نييوي
+        official: نييوي
+    CES:
+        common: Niue
+        official: Niue
+    DEU:
+        common: Niue
+        official: Niue
+    EST:
+        common: Niue
+        official: Niue
+    FIN:
+        common: Niue
+        official: Niue
+    FRA:
+        common: Niue
+        official: Niue
+    HRV:
+        common: Niue
+        official: Niue
+    HUN:
+        common: Niue
+        official: Niue
+    ITA:
+        common: Niue
+        official: Niue
+    JPN:
+        common: ニウエ
+        official: ニウエ
+    KOR:
+        common: 니우에
+        official: 니우에
+    NLD:
+        common: Niue
+        official: Niue
+    PER:
+        common: نیووی
+        official: نیووی
+    POL:
+        common: Niue
+        official: Niue
+    POR:
+        common: Niue
+        official: Niue
+    RUS:
+        common: Ниуэ
+        official: Ниуэ
+    SLK:
+        common: Niue
+        official: Niue
+    SPA:
+        common: Niue
+        official: Niue
+    SRP:
+        common: Nijue
+        official: Nijue
+    SWE:
+        common: Niue
+        official: Niue
+    TUR:
+        common: Niue
+        official: Niue
+    URD:
+        common: نیووے
+        official: نیووے
+    ZHO:
+        common: 纽埃
+        official: 纽埃
 currencies:
-- NZD
-borders: []
+    - NZD
 codes:
-  alpha2: NU
-  alpha3: NIU
-  cioc: ""
-  ccn3: "570"
-  callingcodes:
-  - "683"
-  internationalprefix: "00"
+    alpha2: NU
+    alpha3: NIU
+    ccn3: "570"
+    callingcodes:
+        - "683"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Alofi
-  area: 260
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Alofi
+    area: 260
 coordinates:
-  longitudestring: 169 52 W
-  latitudestring: 19 02 S
-  minlongitude: -169.91667
-  minlatitude: -19.1
-  maxlongitude: -169.78334
-  maxlatitude: -18.933332
-  latitude: -19.038065
-  longitude: -169.83025
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -169.9500846
+    minlatitude: -19.1555668
+    maxlongitude: -169.7743248
+    maxlatitude: -18.952625
+    latitude: -19.054445
+    longitude: -169.867233

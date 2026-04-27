@@ -1,169 +1,241 @@
-- name: Gelderland
-  names:
-  - Gueldre
-  code: GE
+- name: Aruba
+  code: AW
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.9938807
-    minlatitude: 51.73361
-    maxlongitude: 6.8330417
-    maxlatitude: 52.522007
-    latitude: 52.045155
-    longitude: 5.8718233
-- name: Noord-Holland
-  names:
-  - Noord-Holland
-  code: NH
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bonaire
+  code: BQ1
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.4937415
-    minlatitude: 52.16577
-    maxlongitude: 5.32828
-    maxlatitude: 53.18333
-    latitude: 52.520588
-    longitude: 4.788474
-- name: Overijssel
-  names:
-  - Overijssel
-  code: OV
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Saba
+  code: BQ2
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 5.7778254
-    minlatitude: 52.118023
-    maxlongitude: 7.072763
-    maxlatitude: 52.854237
-    latitude: 52.43878
-    longitude: 6.5016413
-- name: Utrecht
-  names:
-  - Utrecht
-  code: UT
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sint Eustatius
+  code: BQ3
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.9697757
-    minlatitude: 52.02611
-    maxlongitude: 5.195207
-    maxlatitude: 52.14226
-    latitude: 52.090736
-    longitude: 5.12142
-- name: Zeeland
-  names:
-  - Zeeland
-  code: ZE
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Curaçao
+  code: CW
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 3.357962
-    minlatitude: 51.200333
-    maxlongitude: 4.279691
-    maxlatitude: 51.758423
-    latitude: 51.49403
-    longitude: 3.8496816
-- name: Zuid-Holland
-  names:
-  - Zuid-Holland
-  code: ZH
-  countryalpha2: NL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 3.8393204
-    minlatitude: 51.656067
-    maxlongitude: 5.1492624
-    maxlatitude: 52.328274
-    latitude: 52.020798
-    longitude: 4.4937835
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Drenthe
   names:
-  - Drenthe
+    - Drenthe
   code: DR
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 6.11985
-    minlatitude: 52.612186
+    minlongitude: 6.1198503
+    minlatitude: 52.6121857
     maxlongitude: 7.0929356
-    maxlatitude: 53.203743
-    latitude: 52.9476
-    longitude: 6.623059
+    maxlatitude: 53.2037415
+    latitude: 52.9476012
+    longitude: 6.623058599999999
 - name: Flevoland
   names:
-  - Flevoland
+    - Flevoland
   code: FL
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 5.122124
-    minlatitude: 52.252625
-    maxlongitude: 6.0116673
-    maxlatitude: 52.844048
-    latitude: 52.527977
-    longitude: 5.5953507
+    minlongitude: 5.1221244
+    minlatitude: 52.2526254
+    maxlongitude: 6.011667099999999
+    maxlatitude: 52.8440468
+    latitude: 52.5279781
+    longitude: 5.595350799999999
 - name: Friesland
   names:
-  - Friesland
+    - Friesland
   code: FR
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 4.8455653
-    minlatitude: 52.800694
-    maxlongitude: 6.4274764
-    maxlatitude: 53.5146
-    latitude: 53.164165
-    longitude: 5.781754
+    minlongitude: 4.8455655
+    minlatitude: 52.8006928
+    maxlongitude: 6.4274762
+    maxlatitude: 53.5145975
+    latitude: 53.1641642
+    longitude: 5.7817542
+- name: Gelderland
+  names:
+    - Gueldre
+  code: GE
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.9938809
+    minlatitude: 51.7336076
+    maxlongitude: 6.833041799999999
+    maxlatitude: 52.5220087
+    latitude: 52.045155
+    longitude: 5.871823399999999
 - name: Groningen
   names:
-  - Groningue
-  - Groninga
+    - Groningue
+    - Groninga
   code: GR
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 6.4625993
-    minlatitude: 53.178684
+    minlongitude: 6.4625995
+    minlatitude: 53.1786842
     maxlongitude: 6.6669044
-    maxlatitude: 53.264725
-    latitude: 53.219383
-    longitude: 6.5665016
+    maxlatitude: 53.26472589999999
+    latitude: 53.2193835
+    longitude: 6.566501799999999
 - name: Limburg
   names:
-  - Limburg
+    - Limburg
   code: LI
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 5.5660667
-    minlatitude: 50.750385
-    maxlongitude: 6.2268014
-    maxlatitude: 51.778576
-    latitude: 51.442722
+    minlongitude: 5.5660666
+    minlatitude: 50.75038379999999
+    maxlongitude: 6.226801399999999
+    maxlatitude: 51.778577
+    latitude: 51.4427238
     longitude: 6.0608726
 - name: Noord-Brabant
   names:
-  - Noord-Brabant
+    - Noord-Brabant
   code: NB
   countryalpha2: NL
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 4.190081
-    minlatitude: 51.220936
+    minlatitude: 51.2209373
     maxlongitude: 6.047724
-    maxlatitude: 51.830715
-    latitude: 51.482655
+    maxlatitude: 51.8307142
+    latitude: 51.4826537
     longitude: 5.2321687
+- name: Noord-Holland
+  names:
+    - Noord-Holland
+  code: NH
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.4937415
+    minlatitude: 52.1657716
+    maxlongitude: 5.328279999999999
+    maxlatitude: 53.1833322
+    latitude: 52.5205869
+    longitude: 4.788474
+- name: Overijssel
+  names:
+    - Overijssel
+  code: OV
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.7778252
+    minlatitude: 52.118023
+    maxlongitude: 7.0727632
+    maxlatitude: 52.85423489999999
+    latitude: 52.4387814
+    longitude: 6.5016411
+- name: Sint Maarten
+  code: SX
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Utrecht
+  names:
+    - Utrecht
+  code: UT
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 4.9697758
+    minlatitude: 52.02611109999999
+    maxlongitude: 5.1952072
+    maxlatitude: 52.1422624
+    latitude: 52.09073739999999
+    longitude: 5.1214201
+- name: Zeeland
+  names:
+    - Zeeland
+  code: ZE
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.357962
+    minlatitude: 51.2003318
+    maxlongitude: 4.279691
+    maxlatitude: 51.75842100000001
+    latitude: 51.4940309
+    longitude: 3.8496815
+- name: Zuid-Holland
+  names:
+    - Zuid-Holland
+  code: ZH
+  countryalpha2: NL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 3.8393205
+    minlatitude: 51.656067
+    maxlongitude: 5.1492625
+    maxlatitude: 52.3282742
+    latitude: 52.0207975
+    longitude: 4.4937836

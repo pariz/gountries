@@ -1,73 +1,117 @@
 name:
-  common: Tokelau
-  official: Tokelau
-  native:
-    eng:
-      common: Tokelau
-      official: Tokelau
-    smo:
-      common: Tokelau
-      official: Tokelau
-    tkl:
-      common: Tokelau
-      official: Tokelau
+    common: Tokelau
+    official: Tokelau
+    native:
+        eng:
+            common: Tokelau
+            official: Tokelau
+        smo:
+            common: Tokelau
+            official: Tokelau
+        tkl:
+            common: Tokelau
+            official: Tokelau
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tokelauan
 tlds:
-- .tk
+    - .tk
 languages:
-  eng: English
-  smo: Samoan
-  tkl: Tokelauan
+    en: ""
+    eng: English
+    smo: Samoan
+    tkl: Tokelauan
 translations:
-  FIN:
-    common: Tokelau
-    official: Tokelau
-  HRV:
-    common: Tokelau
-    official: Tokelau
-  ITA:
-    common: Isole Tokelau
-    official: Tokelau
-  JPN:
-    common: トケラウ
-    official: トケラウ諸島
-  NLD:
-    common: Tokelau
-    official: Tokelau
-  POR:
-    common: Tokelau
-    official: Tokelau
-  RUS:
-    common: Токелау
-    official: Токелау
-  SPA:
-    common: Islas Tokelau
-    official: Tokelau
+    ARA:
+        common: توكيلاو
+        official: توكيلاو
+    CES:
+        common: Tokelau
+        official: Tokelau
+    DEU:
+        common: Tokelau
+        official: Tokelau
+    EST:
+        common: Tokelau
+        official: Tokelau
+    FIN:
+        common: Tokelau
+        official: Tokelau
+    FRA:
+        common: Tokelau
+        official: Îles Tokelau
+    HRV:
+        common: Tokelau
+        official: Tokelau
+    HUN:
+        common: Tokelau-szigetek
+        official: Tokelau-szigetek
+    ITA:
+        common: Isole Tokelau
+        official: Tokelau
+    JPN:
+        common: トケラウ
+        official: トケラウ諸島
+    KOR:
+        common: 토켈라우
+        official: 토켈라우
+    NLD:
+        common: Tokelau
+        official: Tokelau
+    PER:
+        common: توکلائو
+        official: توکلائو
+    POL:
+        common: Tokelau
+        official: Tokelau
+    POR:
+        common: Tokelau
+        official: Tokelau
+    RUS:
+        common: Токелау
+        official: Токелау
+    SLK:
+        common: Tokelau
+        official: Tokelauské ostrovy
+    SPA:
+        common: Islas Tokelau
+        official: Tokelau
+    SRP:
+        common: Tokelau
+        official: Tokelau
+    SWE:
+        common: Tokelauöarna
+        official: Tokelauöarna
+    TUR:
+        common: Tokelau
+        official: Tokelau
+    URD:
+        common: ٹوکیلاؤ
+        official: ٹوکیلاؤ
+    ZHO:
+        common: 托克劳
+        official: 托克劳
 currencies:
-- NZD
-borders: []
+    - NZD
 codes:
-  alpha2: TK
-  alpha3: TKL
-  cioc: ""
-  ccn3: "772"
-  callingcodes:
-  - "690"
-  internationalprefix: "00"
+    alpha2: TK
+    alpha3: TKL
+    ccn3: "772"
+    callingcodes:
+        - "690"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Fakaofo
-  area: 12
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Fakaofo
+    area: 12
 coordinates:
-  longitudestring: 172 00 W
-  latitudestring: 9 00 S
-  minlongitude: -172.51666
-  minlatitude: -9.433333
-  maxlongitude: -171.18333
-  maxlatitude: -8.533333
-  latitude: -8.979208
-  longitude: -172.2017
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -172.6625061
+    minlatitude: -9.5059527
+    maxlongitude: -171.0928346
+    maxlatitude: -8.4221116
+    latitude: -9.200199999999999
+    longitude: -171.8484

@@ -1,242 +1,242 @@
-- name: Carazo
-  names:
-  - Carazo
-  code: CA
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.492775
-    minlatitude: 11.515095
-    maxlongitude: -86.063385
-    maxlatitude: 11.933541
-    latitude: 11.727473
-    longitude: -86.21585
-- name: Chinandega
-  names:
-  - Chinandega
-  code: CI
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.69031
-    minlatitude: 12.44511
-    maxlongitude: -86.62994
-    maxlatitude: 13.306297
-    latitude: 12.882007
-    longitude: -87.14229
-- name: Managua
-  names:
-  - Managua
-  code: MN
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.39183
-    minlatitude: 12.01996
-    maxlongitude: -86.12509
-    maxlatitude: 12.172447
-    latitude: 12.136389
-    longitude: -86.25139
-- name: Río San Juan
-  names:
-  - Río San Juan
-  code: SJ
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -83.69882
-    minlatitude: 10.924511
-    maxlongitude: -83.68437
-    maxlatitude: 10.9404335
-    latitude: 10.932472
-    longitude: -83.6916
-- name: Atlántico Sur*
-  names:
-  - RAAS
-  - Región Autónoma Atlántico Sur
-  - Zelaya Sur
-  code: AS
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.21458
-    minlatitude: 11.0285845
-    maxlongitude: -82.971504
-    maxlatitude: 13.277237
-    latitude: 12.191851
-    longitude: -84.10129
-- name: Chontales
-  names:
-  - Chontales
-  code: CO
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.64551
-    minlatitude: 11.628046
-    maxlongitude: -84.567696
-    maxlatitude: 12.632429
-    latitude: 11.939471
-    longitude: -85.18941
-- name: Masaya
-  names:
-  - Masaya
-  code: MS
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.11333
-    minlatitude: 11.952426
-    maxlongitude: -86.07212
-    maxlatitude: 11.997598
-    latitude: 11.966667
-    longitude: -86.1
-- name: Nueva Segovia
-  names:
-  - Nueva Segovia
-  code: NS
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.785194
-    minlatitude: 13.453336
-    maxlongitude: -85.72843
-    maxlatitude: 14.077059
-    latitude: 13.78944
-    longitude: -86.01215
-- name: Estelí
-  names:
-  - Estelí
-  code: ES
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.383095
-    minlatitude: 13.061686
-    maxlongitude: -86.33846
-    maxlatitude: 13.117765
-    latitude: 13.083333
-    longitude: -86.35
-- name: Granada
-  names:
-  - Granada
-  code: GR
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.97849
-    minlatitude: 11.9084215
-    maxlongitude: -85.94111
-    maxlatitude: 11.949277
-    latitude: 11.933333
-    longitude: -85.95
-- name: Madriz
-  names:
-  - Madriz
-  code: MD
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.76827
-    minlatitude: 13.197792
-    maxlongitude: -86.0422
-    maxlatitude: 13.653297
-    latitude: 13.472601
-    longitude: -86.459206
-- name: Matagalpa
-  names:
-  - Matagalpa
-  code: MT
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.946556
-    minlatitude: 12.902509
-    maxlongitude: -85.896454
-    maxlatitude: 12.9567175
-    latitude: 12.916667
-    longitude: -85.916664
-- name: Rivas
-  names:
-  - Rivas
-  code: RI
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.17159
-    minlatitude: 11.041925
-    maxlongitude: -85.175415
-    maxlatitude: 11.671718
-    latitude: 11.402349
-    longitude: -85.68458
 - name: Atlántico Norte*
   names:
-  - RAAN
-  - Región Autónoma Atlántico Norte
-  - Zelaya Norte
+    - RAAN
+    - Región Autónoma Atlántico Norte
+    - Zelaya Norte
   code: AN
   countryalpha2: NI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -85.48369
+    minlongitude: -85.483689
     minlatitude: 13.028599
-    maxlongitude: -82.59207
-    maxlatitude: 15.025908
-    latitude: 13.839446
-    longitude: -83.93208
+    maxlongitude: -82.59207239999999
+    maxlatitude: 15.0259089
+    latitude: 13.8394456
+    longitude: -83.93208059999999
+- name: Atlántico Sur*
+  names:
+    - RAAS
+    - Región Autónoma Atlántico Sur
+    - Zelaya Sur
+  code: AS
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.21458009999999
+    minlatitude: 11.0285841
+    maxlongitude: -82.97150719999999
+    maxlatitude: 13.277237
+    latitude: 12.1918502
+    longitude: -84.1012861
 - name: Boaco
   names:
-  - Boaco
+    - Boaco
   code: BO
   countryalpha2: NI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -85.9631
-    minlatitude: 12.023197
-    maxlongitude: -84.95344
-    maxlatitude: 12.790205
+    minlongitude: -85.96309579999999
+    minlatitude: 12.0231972
+    maxlongitude: -84.953434
+    maxlatitude: 12.7902051
     latitude: 12.492724
-    longitude: -85.52003
+    longitude: -85.52002399999999
+- name: Carazo
+  names:
+    - Carazo
+  code: CA
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.4927755
+    minlatitude: 11.5150947
+    maxlongitude: -86.063385
+    maxlatitude: 11.933541
+    latitude: 11.7274729
+    longitude: -86.21584969999999
+- name: Chinandega
+  names:
+    - Chinandega
+  code: CI
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.6903076
+    minlatitude: 12.44511
+    maxlongitude: -86.629938
+    maxlatitude: 13.306297
+    latitude: 12.8820062
+    longitude: -87.14228949999999
+- name: Chontales
+  names:
+    - Chontales
+  code: CO
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.64550899999999
+    minlatitude: 11.6280457
+    maxlongitude: -84.56769709999999
+    maxlatitude: 12.632429
+    latitude: 11.9394717
+    longitude: -85.1894045
+- name: Estelí
+  names:
+    - Estelí
+  code: ES
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.3830947
+    minlatitude: 13.0616854
+    maxlongitude: -86.3384628
+    maxlatitude: 13.1177659
+    latitude: 13.083333
+    longitude: -86.35
+- name: Granada
+  names:
+    - Granada
+  code: GR
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.978489
+    minlatitude: 11.9084219
+    maxlongitude: -85.94110979999999
+    maxlatitude: 11.9492767
+    latitude: 11.933333
+    longitude: -85.95
 - name: Jinotega
   names:
-  - Jinotega
+    - Jinotega
   code: JI
   countryalpha2: NI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -86.00853
-    minlatitude: 13.073004
-    maxlongitude: -85.990074
-    maxlatitude: 13.106671
+    minlongitude: -86.0085301
+    minlatitude: 13.0730035
+    maxlongitude: -85.990076
+    maxlatitude: 13.1066716
     latitude: 13.1
-    longitude: 0
+    longitude: -86
 - name: León
   names:
-  - León
+    - León
   code: LE
   countryalpha2: NI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -87.17588
+    minlongitude: -87.175883
     minlatitude: 11.988095
-    maxlongitude: -86.245544
+    maxlongitude: -86.245541
     maxlatitude: 13.107796
-    latitude: 12.509204
-    longitude: -86.66111
+    latitude: 12.5092037
+    longitude: -86.6611083
+- name: Madriz
+  names:
+    - Madriz
+  code: MD
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.768272
+    minlatitude: 13.197792
+    maxlongitude: -86.0422011
+    maxlatitude: 13.6532971
+    latitude: 13.4726005
+    longitude: -86.4592091
+- name: Managua
+  names:
+    - Managua
+  code: MN
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.3918334
+    minlatitude: 12.0199606
+    maxlongitude: -86.1250878
+    maxlatitude: 12.1724475
+    latitude: 12.136389
+    longitude: -86.251389
+- name: Masaya
+  names:
+    - Masaya
+  code: MS
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.113329
+    minlatitude: 11.9524256
+    maxlongitude: -86.07212059999999
+    maxlatitude: 11.9975977
+    latitude: 11.966667
+    longitude: -86.1
+- name: Matagalpa
+  names:
+    - Matagalpa
+  code: MT
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.9465599
+    minlatitude: 12.9025089
+    maxlongitude: -85.8964561
+    maxlatitude: 12.9567171
+    latitude: 12.916667
+    longitude: -85.91666699999999
+- name: Nueva Segovia
+  names:
+    - Nueva Segovia
+  code: NS
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.78519399999999
+    minlatitude: 13.4533359
+    maxlongitude: -85.72843209999999
+    maxlatitude: 14.0770589
+    latitude: 13.7894404
+    longitude: -86.0121573
+- name: Rivas
+  names:
+    - Rivas
+  code: RI
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.17159649999999
+    minlatitude: 11.041925
+    maxlongitude: -85.1754141
+    maxlatitude: 11.6717179
+    latitude: 11.402349
+    longitude: -85.684578
+- name: Río San Juan
+  names:
+    - Río San Juan
+  code: SJ
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -83.6988258
+    minlatitude: 10.924511
+    maxlongitude: -83.6843687
+    maxlatitude: 10.9404334
+    latitude: 10.9324722
+    longitude: -83.69159719999999

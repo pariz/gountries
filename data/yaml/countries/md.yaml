@@ -1,64 +1,113 @@
 name:
-  common: Moldova
-  official: Republic of Moldova
-  native:
-    ron:
-      common: Moldova
-      official: Republica Moldova
+    common: Moldova (Republic of)
+    official: The Republic of Moldova
+    native:
+        ron:
+            common: Moldova
+            official: Republica Moldova
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Moldovan
 tlds:
-- .md
+    - .md
 languages:
-  ron: Moldavian
+    ro: ""
+    ron: Moldavian
 translations:
-  DEU:
-    common: Moldawie
-    official: Republik Moldau
-  FRA:
-    common: Moldavie
-    official: République de Moldavie
-  HRV:
-    common: Moldova
-    official: Moldavija
-  JPN:
-    common: モルドバ共和国
-    official: モルドバ共和国
-  NLD:
-    common: Moldavië
-    official: Republiek Moldavië
-  RUS:
-    common: Молдавия
-    official: Молдова
-  SPA:
-    common: Moldavia
-    official: República de Moldova
+    ARA:
+        common: مولدوڤا
+        official: جمهورية مولدوڤا
+    CES:
+        common: Moldavsko
+        official: Moldavská republika
+    DEU:
+        common: Moldawien
+        official: Republik Moldau
+    EST:
+        common: Moldova
+        official: Moldova Vabariik
+    FIN:
+        common: Moldova
+        official: Moldovan tasavalta
+    FRA:
+        common: Moldavie
+        official: République de Moldavie
+    HRV:
+        common: Moldova
+        official: Moldavija
+    HUN:
+        common: Moldova
+        official: Moldovai Köztársaság
+    ITA:
+        common: Moldavia
+        official: Repubblica di Moldova
+    JPN:
+        common: モルドバ
+        official: モルドバ共和国
+    KOR:
+        common: 몰도바
+        official: 몰도바 공화국
+    NLD:
+        common: Moldavië
+        official: Republiek Moldavië
+    PER:
+        common: مولداوی
+        official: جمهوری مولداوی
+    POL:
+        common: Mołdawia
+        official: Republika Mołdawii
+    POR:
+        common: Moldávia
+        official: República da Moldávia
+    RUS:
+        common: Молдавия
+        official: Молдова
+    SLK:
+        common: Moldavsko
+        official: Moldavská republika
+    SPA:
+        common: Moldavia
+        official: República de Moldova
+    SRP:
+        common: Moldavija
+        official: Republika Moldavija
+    SWE:
+        common: Moldavien
+        official: Republiken Moldavien
+    TUR:
+        common: Moldova
+        official: Moldova Cumhuriyeti
+    URD:
+        common: مالدووا
+        official: جمہوریہ مالدووا
+    ZHO:
+        common: 摩尔多瓦
+        official: 摩尔多瓦共和国
 currencies:
-- MDL
+    - MDL
 borders:
-- ROU
-- UKR
+    - ROU
+    - UKR
 codes:
-  alpha2: MD
-  alpha3: MDA
-  cioc: MDA
-  ccn3: "498"
-  callingcodes:
-  - "373"
-  internationalprefix: "00"
+    alpha2: MD
+    alpha3: MDA
+    cioc: MDA
+    ccn3: "498"
+    callingcodes:
+        - "373"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Chișinău
-  area: 33846
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Chișinău
+    area: 33846
 coordinates:
-  longitudestring: 29 00 E
-  latitudestring: 47 00 N
-  minlongitude: 26.672222
-  minlatitude: 45.481667
-  maxlongitude: 30.096111
-  maxlatitude: 48.46722
-  latitude: 47.203705
-  longitude: 28.468344
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 26.6164248
+    minlatitude: 45.4674379
+    maxlongitude: 30.1635898
+    maxlatitude: 48.492029
+    latitude: 47.411631
+    longitude: 28.369885

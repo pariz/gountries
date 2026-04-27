@@ -1,63 +1,115 @@
 name:
-  common: Georgia
-  official: Georgia
-  native:
-    kat:
-      common: საქართველო
-      official: საქართველო
+    common: Georgia
+    official: Georgia
+    native:
+        kat:
+            common: საქართველო
+            official: საქართველო
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Georgian
 tlds:
-- .ge
+    - .ge
 languages:
-  kat: Georgian
+    ka: ""
+    kat: Georgian
 translations:
-  FIN:
-    common: Georgia
-    official: Georgia
-  HRV:
-    common: Gruzija
-    official: Gruzija
-  ITA:
-    common: Georgia
-    official: Georgia
-  JPN:
-    common: グルジア
-    official: グルジア
-  POR:
-    common: Geórgia
-    official: Georgia
-  RUS:
-    common: Грузия
-    official: Грузия
+    ARA:
+        common: جورجيا
+        official: جورجيا
+    CES:
+        common: Gruzie
+        official: Gruzie
+    DEU:
+        common: Georgien
+        official: Georgien
+    EST:
+        common: Gruusia
+        official: Gruusia
+    FIN:
+        common: Georgia
+        official: Georgia
+    FRA:
+        common: Géorgie
+        official: République de Géorgie
+    HRV:
+        common: Gruzija
+        official: Gruzija
+    HUN:
+        common: Grúzia
+        official: Grúzia
+    ITA:
+        common: Georgia
+        official: Georgia
+    JPN:
+        common: ジョージア
+        official: ジョージア
+    KOR:
+        common: 조지아
+        official: 조지아
+    NLD:
+        common: Georgië
+        official: Georgia
+    PER:
+        common: گرجستان
+        official: گرجستان
+    POL:
+        common: Gruzja
+        official: Gruzja
+    POR:
+        common: Geórgia
+        official: Georgia
+    RUS:
+        common: Грузия
+        official: Грузия
+    SLK:
+        common: Gruzínsko
+        official: Gruzínsko
+    SPA:
+        common: Georgia
+        official: Georgia
+    SRP:
+        common: Gruzija
+        official: Gruzija
+    SWE:
+        common: Georgien
+        official: Georgien
+    TUR:
+        common: Gürcistan
+        official: Gürcistan
+    URD:
+        common: جارجیا
+        official: جارجیا
+    ZHO:
+        common: 格鲁吉亚
+        official: 格鲁吉亚
 currencies:
-- GEL
+    - GEL
 borders:
-- ARM
-- AZE
-- RUS
-- TUR
+    - ARM
+    - AZE
+    - RUS
+    - TUR
 codes:
-  alpha2: GE
-  alpha3: GEO
-  cioc: GEO
-  ccn3: "268"
-  callingcodes:
-  - "995"
-  internationalprefix: "810"
+    alpha2: GE
+    alpha3: GEO
+    cioc: GEO
+    ccn3: "268"
+    callingcodes:
+        - "995"
+    internationalprefix: "810"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Tbilisi
-  area: 69700
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Tbilisi
+    area: 69700
 coordinates:
-  longitudestring: 43 30 E
-  latitudestring: 42 00 N
-  minlongitude: 40.013058
-  minlatitude: 41.15
-  maxlongitude: 46.635555
-  maxlatitude: 43.570557
-  latitude: 42.320786
-  longitude: 43.37136
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.9792001
+    minlatitude: 41.054942
+    maxlongitude: 46.7361189
+    maxlatitude: 43.5866269
+    latitude: 42.315407
+    longitude: 43.35689199999999

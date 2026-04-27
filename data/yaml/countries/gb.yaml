@@ -1,63 +1,112 @@
 name:
-  common: United Kingdom
-  official: United Kingdom of Great Britain and Northern Ireland
-  native:
-    eng:
-      common: United Kingdom
-      official: United Kingdom of Great Britain and Northern Ireland
-eumember: true
+    common: United Kingdom of Great Britain and Northern Ireland
+    official: The United Kingdom of Great Britain and Northern Ireland
+    native:
+        eng:
+            common: United Kingdom
+            official: United Kingdom of Great Britain and Northern Ireland
+eumember: false
 landlocked: false
-nationality: ""
+nationality: British
 tlds:
-- .uk
+    - .uk
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FRA:
-    common: Royaume-Uni
-    official: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
-  HRV:
-    common: Ujedinjeno Kraljevstvo
-    official: Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske
-  ITA:
-    common: Regno Unito
-    official: Regno Unito di Gran Bretagna e Irlanda del Nord
-  NLD:
-    common: Verenigd Koninkrijk
-    official: Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-  POR:
-    common: Reino Unido
-    official: Reino Unido da Grã-Bretanha e Irlanda do Norte
-  RUS:
-    common: Великобритания
-    official: Соединенное Королевство Великобритании и Северной Ирландии
-  SPA:
-    common: Reino Unido
-    official: Reino Unido de Gran Bretaña e Irlanda del Norte
+    ARA:
+        common: المملكة المتحدة
+        official: المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية
+    CES:
+        common: Spojené království
+        official: Spojené království Velké Británie a Severního Irska
+    DEU:
+        common: Vereinigtes Königreich
+        official: Vereinigtes Königreich Großbritannien und Nordirland
+    EST:
+        common: Suurbritannia
+        official: Suurbritannia ja Põhja-Iiri Ühendkuningriik
+    FIN:
+        common: Yhdistynyt kuningaskunta
+        official: Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta
+    FRA:
+        common: Royaume-Uni
+        official: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    HRV:
+        common: Ujedinjeno Kraljevstvo
+        official: Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske
+    HUN:
+        common: Egyesült Királyság
+        official: Nagy-Britannia és Észak-Írország Egyesült Királysága
+    ITA:
+        common: Regno Unito
+        official: Regno Unito di Gran Bretagna e Irlanda del Nord
+    JPN:
+        common: イギリス
+        official: グレートブリテン及び北アイルランド連合王国
+    KOR:
+        common: 영국
+        official: 그레이트브리튼 북아일랜드 연합 왕국
+    NLD:
+        common: Verenigd Koninkrijk
+        official: Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+    PER:
+        common: انگلیس
+        official: پادشاهی متحد بریتانیای کبیر و ایرلند شمالی
+    POL:
+        common: Zjednoczone Królestwo
+        official: Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej
+    POR:
+        common: Reino Unido
+        official: Reino Unido da Grã-Bretanha e Irlanda do Norte
+    RUS:
+        common: Великобритания
+        official: Соединенное Королевство Великобритании и Северной Ирландии
+    SLK:
+        common: Veľká Británia (Spojené kráľovstvo)
+        official: Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska
+    SPA:
+        common: Reino Unido
+        official: Reino Unido de Gran Bretaña e Irlanda del Norte
+    SRP:
+        common: Ujedinjeno Kraljevstvo
+        official: Ujedinjeno Kraljevstvo Velike Britanije i Severne Irske
+    SWE:
+        common: Storbritannien
+        official: Förenade konungariket Storbritannien och Nordirland
+    TUR:
+        common: Birleşik Krallık
+        official: Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı
+    URD:
+        common: مملکتِ متحدہ
+        official: مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ
+    ZHO:
+        common: 英国
+        official: 大不列颠及北爱尔兰联合王国
 currencies:
-- GBP
+    - GBP
 borders:
-- IRL
+    - IRL
 codes:
-  alpha2: GB
-  alpha3: GBR
-  cioc: GBR
-  ccn3: "826"
-  callingcodes:
-  - "44"
-  internationalprefix: "00"
+    alpha2: GB
+    alpha3: GBR
+    cioc: GBR
+    ccn3: "826"
+    callingcodes:
+        - "44"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: London
-  area: 242900
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: London
+    area: 242900
 coordinates:
-  longitudestring: 2 00 W
-  latitudestring: 54 00 N
-  minlongitude: -13.65
-  minlatitude: 49.86667
-  maxlongitude: 2.866667
-  maxlatitude: 61.5
-  latitude: 54.560886
-  longitude: -2.2125118
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.57216793459
+    minlatitude: 49.959999905
+    maxlongitude: 1.68153079591
+    maxlatitude: 60.91569999999999
+    latitude: 55.378051
+    longitude: -3.435973

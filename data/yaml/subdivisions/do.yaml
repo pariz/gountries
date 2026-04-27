@@ -1,435 +1,567 @@
-- name: Barahona
-  names:
-  - Barahona
-  code: "04"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.125046
-    minlatitude: 18.183971
-    maxlongitude: -71.081474
-    maxlatitude: 18.236332
-    latitude: 18.21208
-    longitude: -71.10241
-- name: Espaillat
-  names:
-  - Espaillat
-  code: "09"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.62556
-    minlatitude: 19.356487
-    maxlongitude: -70.060814
-    maxlatitude: 19.695435
-    latitude: 19.578806
-    longitude: -70.35988
-- name: Independencia
-  names:
-  - Independencia
-  code: "10"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.00349
-    minlatitude: 18.167526
-    maxlongitude: -71.207405
-    maxlatitude: 18.696548
-    latitude: 18.412682
-    longitude: -71.619865
-- name: San Juan
-  names:
-  - San Juan
-  code: "22"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.61811
-    minlatitude: 18.505682
-    maxlongitude: -70.87681
-    maxlatitude: 19.237646
-    latitude: 18.881092
-    longitude: -71.28742
 - name: Distrito Nacional (Santo Domingo)
   names:
-  - Distrito Nacional (Santo Domingo)
+    - Distrito Nacional (Santo Domingo)
   code: "01"
   countryalpha2: DO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.01879
-    minlatitude: 18.413048
-    maxlongitude: -69.87505
-    maxlatitude: 18.547527
+    minlongitude: -70.0187874
+    minlatitude: 18.4130476
+    maxlongitude: -69.8750532
+    maxlatitude: 18.5475279
     latitude: 18.466667
     longitude: -69.95
-- name: Bahoruco
-  names:
-  - Bahoruco
-  - Baoruco
-  code: "03"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.628494
-    minlatitude: 18.332962
-    maxlongitude: -70.993805
-    maxlatitude: 18.655159
-    latitude: 18.47529
-    longitude: -71.33493
-- name: Dajabón
-  names:
-  - Dajabón
-  code: "05"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.71281
-    minlatitude: 19.532492
-    maxlongitude: -71.69435
-    maxlatitude: 19.565208
-    latitude: 19.549925
-    longitude: -71.70865
-- name: El Seybo [El Seibo]
-  names:
-  - El Seybo [El Seibo]
-  code: "08"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -69.05139
-    minlatitude: 18.749659
-    maxlongitude: -69.03066
-    maxlatitude: 18.778835
-    latitude: 18.763
-    longitude: -69.042
-- name: Monte Cristi
-  names:
-  - Monte Cristi
-  code: "15"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.65944
-    minlatitude: 19.829412
-    maxlongitude: -71.62983
-    maxlatitude: 19.86106
-    latitude: 19.847345
-    longitude: -71.64063
-- name: Pedernales
-  names:
-  - Pedernales
-  code: "16"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.75154
-    minlatitude: 18.027098
-    maxlongitude: -71.7324
-    maxlatitude: 18.053703
-    latitude: 18.033333
-    longitude: -71.75
-- name: Valverde
-  names:
-  - Valverde
-  code: "27"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.21335
-    minlatitude: 19.498182
-    maxlongitude: -70.875854
-    maxlatitude: 19.77729
-    latitude: 19.632343
-    longitude: -71.049774
-- name: Samaná
-  names:
-  - Samaná
-  code: "20"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -69.35201
-    minlatitude: 19.19669
-    maxlongitude: -69.32639
-    maxlatitude: 19.220497
-    latitude: 19.20807
-    longitude: -69.33245
-- name: San Jose de Ocoa
-  names:
-  - San Jose de Ocoa
-  code: "31"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.51476
-    minlatitude: 18.530886
-    maxlongitude: -70.49832
-    maxlatitude: 18.555544
-    latitude: 18.55
-    longitude: -70.5
-- name: Duarte
-  names:
-  - Duarte
-  code: "06"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.35894
-    minlatitude: 19.023293
-    maxlongitude: -69.64218
-    maxlatitude: 19.498377
-    latitude: 19.253529
-    longitude: -70.097946
-- name: María Trinidad Sánchez
-  names:
-  - María Trinidad Sánchez
-  code: "14"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.17287
-    minlatitude: 19.195942
-    maxlongitude: -69.715576
-    maxlatitude: 19.683487
-    latitude: 19.424545
-    longitude: -70.00268
-- name: Puerto Plata
-  names:
-  - Puerto Plata
-  code: "18"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.74062
-    minlatitude: 19.749983
-    maxlongitude: -70.631546
-    maxlatitude: 19.828423
-    latitude: 19.78077
-    longitude: -70.68711
-- name: Santiago Rodríguez
-  names:
-  - Santiago Rodríguez
-  code: "26"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.34392
-    minlatitude: 19.46815
-    maxlongitude: -71.33548
-    maxlatitude: 19.474268
-    latitude: 19.471317
-    longitude: -71.33958
-- name: Monseñor Nouel
-  names:
-  - Monseñor Nouel
-  code: "28"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.565094
-    minlatitude: 18.731047
-    maxlongitude: -70.20462
-    maxlatitude: 19.12408
-    latitude: 18.921524
-    longitude: -70.38368
-- name: Hato Mayor
-  names:
-  - Hato Mayor
-  code: "30"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -69.266655
-    minlatitude: 18.741287
-    maxlongitude: -69.2366
-    maxlatitude: 18.78499
-    latitude: 18.766666
-    longitude: -69.25
-- name: Monte Plata
-  names:
-  - Monte Plata
-  code: "29"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -69.805885
-    minlatitude: 18.797646
-    maxlongitude: -69.77593
-    maxlatitude: 18.822508
-    latitude: 18.81
-    longitude: -69.79
-- name: La Altagracia
-  names:
-  - La Altagracia
-  code: "11"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -68.91419
-    minlatitude: 18.110409
-    maxlongitude: -68.32341
-    maxlatitude: 18.964184
-    latitude: 18.585024
-    longitude: -68.62011
-- name: La Romana
-  names:
-  - La Romana
-  code: "12"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -69.059975
-    minlatitude: 18.397173
-    maxlongitude: -68.88507
-    maxlatitude: 18.46927
-    latitude: 18.43
-    longitude: -68.97
-- name: Peravia
-  names:
-  - Peravia
-  code: "17"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.58623
-    minlatitude: 18.193577
-    maxlongitude: -70.15099
-    maxlatitude: 18.507507
-    latitude: 18.285503
-    longitude: -70.38368
-- name: Salcedo
-  names:
-  - Salcedo
-  code: "19"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.46292
-    minlatitude: 19.235521
-    maxlongitude: -70.232315
-    maxlatitude: 19.57457
-    latitude: 19.396658
-    longitude: -70.35988
-- name: San Cristóbal
-  names:
-  - San Cristóbal
-  code: "21"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.1532
-    minlatitude: 18.378672
-    maxlongitude: -70.08522
-    maxlatitude: 18.491848
-    latitude: 18.41888
-    longitude: -70.103065
-- name: Sánchez Ramírez
-  names:
-  - Sánchez Ramírez
-  code: "24"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.37289
-    minlatitude: 18.854074
-    maxlongitude: -69.912094
-    maxlatitude: 19.159525
-    latitude: 18.980894
-    longitude: -70.097946
-- name: Santiago
-  names:
-  - Santiago
-  code: "25"
-  countryalpha2: DO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.75649
-    minlatitude: 19.365
-    maxlongitude: -70.589554
-    maxlatitude: 19.51469
-    latitude: 19.466667
-    longitude: -70.7
 - name: Azua
   names:
-  - Azua
+    - Azua
   code: "02"
   countryalpha2: DO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.75877
-    minlatitude: 18.435116
-    maxlongitude: -70.70649
-    maxlatitude: 18.468374
+    minlongitude: -70.75877659999999
+    minlatitude: 18.4351155
+    maxlongitude: -70.706486
+    maxlatitude: 18.4683747
     latitude: 18.46
     longitude: -70.74
+- name: Bahoruco
+  names:
+    - Bahoruco
+    - Baoruco
+  code: "03"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.628498
+    minlatitude: 18.3329619
+    maxlongitude: -70.99380289999999
+    maxlatitude: 18.6551589
+    latitude: 18.4752899
+    longitude: -71.3349322
+- name: Barahona
+  names:
+    - Barahona
+  code: "04"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.12504799999999
+    minlatitude: 18.183971
+    maxlongitude: -71.0814747
+    maxlatitude: 18.2363322
+    latitude: 18.2120807
+    longitude: -71.10240759999999
+- name: Dajabón
+  names:
+    - Dajabón
+  code: "05"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.7128062
+    minlatitude: 19.5324915
+    maxlongitude: -71.6943526
+    maxlatitude: 19.5652088
+    latitude: 19.5499241
+    longitude: -71.7086514
+- name: Duarte
+  names:
+    - Duarte
+  code: "06"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.35893709999999
+    minlatitude: 19.023292
+    maxlongitude: -69.642184
+    maxlatitude: 19.4983759
+    latitude: 19.2535285
+    longitude: -70.0979491
 - name: La Estrelleta [Elías Piña]
   names:
-  - La Estrelleta [Elías Piña]
+    - La Estrelleta [Elías Piña]
   code: "07"
   countryalpha2: DO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -71.710335
-    minlatitude: 18.869295
-    maxlongitude: -71.691025
-    maxlatitude: 18.884686
-    latitude: 18.876696
-    longitude: -71.704414
+    minlongitude: -71.71033849999999
+    minlatitude: 18.8692959
+    maxlongitude: -71.6910266
+    maxlatitude: 18.8846859
+    latitude: 18.8766964
+    longitude: -71.7044138
+- name: El Seybo [El Seibo]
+  names:
+    - El Seybo [El Seibo]
+  code: "08"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.0513898
+    minlatitude: 18.7496595
+    maxlongitude: -69.0306616
+    maxlatitude: 18.7788351
+    latitude: 18.763
+    longitude: -69.042
+- name: Espaillat
+  names:
+    - Espaillat
+  code: "09"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.625559
+    minlatitude: 19.356488
+    maxlongitude: -70.0608123
+    maxlatitude: 19.6954355
+    latitude: 19.5788064
+    longitude: -70.3598758
+- name: Independencia
+  names:
+    - Independencia
+  code: "10"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.00348699999999
+    minlatitude: 18.167527
+    maxlongitude: -71.2074061
+    maxlatitude: 18.6965481
+    latitude: 18.4126807
+    longitude: -71.6198686
+- name: La Altagracia
+  names:
+    - La Altagracia
+  code: "11"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -68.914192
+    minlatitude: 18.1104096
+    maxlongitude: -68.3234068
+    maxlatitude: 18.9641829
+    latitude: 18.5850236
+    longitude: -68.62010719999999
+- name: La Romana
+  names:
+    - La Romana
+  code: "12"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.0599727
+    minlatitude: 18.3971731
+    maxlongitude: -68.8850681
+    maxlatitude: 18.4692704
+    latitude: 18.43
+    longitude: -68.97
 - name: La Vega
   names:
-  - La Vega
+    - La Vega
   code: "13"
   countryalpha2: DO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -70.560295
-    minlatitude: 19.190208
-    maxlongitude: -70.49609
+    minlongitude: -70.5602932
+    minlatitude: 19.1902093
+    maxlongitude: -70.4960917
     maxlatitude: 19.250633
     latitude: 19.22
     longitude: -70.53
+- name: María Trinidad Sánchez
+  names:
+    - María Trinidad Sánchez
+  code: "14"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.17286589999999
+    minlatitude: 19.1959421
+    maxlongitude: -69.7155799
+    maxlatitude: 19.6834869
+    latitude: 19.4245445
+    longitude: -70.0026756
+- name: Monte Cristi
+  names:
+    - Monte Cristi
+  code: "15"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.65944089999999
+    minlatitude: 19.8294117
+    maxlongitude: -71.62982939999999
+    maxlatitude: 19.8610592
+    latitude: 19.8473452
+    longitude: -71.6406361
+- name: Pedernales
+  names:
+    - Pedernales
+  code: "16"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.7515374
+    minlatitude: 18.027098
+    maxlongitude: -71.7323972
+    maxlatitude: 18.0537032
+    latitude: 18.033333
+    longitude: -71.75
+- name: Peravia
+  names:
+    - Peravia
+  code: "17"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.58622679999999
+    minlatitude: 18.193577
+    maxlongitude: -70.1509938
+    maxlatitude: 18.5075071
+    latitude: 18.2855033
+    longitude: -70.3836815
+- name: Puerto Plata
+  names:
+    - Puerto Plata
+  code: "18"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.74062339999999
+    minlatitude: 19.7499826
+    maxlongitude: -70.63154279999999
+    maxlatitude: 19.8284223
+    latitude: 19.7807686
+    longitude: -70.6871091
+- name: Salcedo
+  names:
+    - Salcedo
+  code: "19"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.462923
+    minlatitude: 19.2355209
+    maxlongitude: -70.2323139
+    maxlatitude: 19.574569
+    latitude: 19.3966586
+    longitude: -70.3598758
+- name: Samaná
+  names:
+    - Samaná
+  code: "20"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.35201169999999
+    minlatitude: 19.1966887
+    maxlongitude: -69.32639110000001
+    maxlatitude: 19.2204978
+    latitude: 19.2080704
+    longitude: -69.3324518
+- name: San Cristóbal
+  names:
+    - San Cristóbal
+  code: "21"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.15319819999999
+    minlatitude: 18.3786707
+    maxlongitude: -70.0852203
+    maxlatitude: 18.4918471
+    latitude: 18.4188797
+    longitude: -70.1030668
+- name: San Juan
+  names:
+    - San Juan
+  code: "22"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.61811399999999
+    minlatitude: 18.505682
+    maxlongitude: -70.87680499999999
+    maxlatitude: 19.237646
+    latitude: 18.8810919
+    longitude: -71.2874209
 - name: San Pedro de Macorís
   names:
-  - San Pedro de Macorís
+    - San Pedro de Macorís
   code: "23"
   countryalpha2: DO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -69.35021
-    minlatitude: 18.434006
-    maxlongitude: -69.25508
-    maxlatitude: 18.505192
+    minlongitude: -69.35020999999999
+    minlatitude: 18.4340059
+    maxlongitude: -69.2550814
+    maxlatitude: 18.5051913
     latitude: 18.45
     longitude: -69.3
+- name: Sánchez Ramírez
+  names:
+    - Sánchez Ramírez
+  code: "24"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.37288490000002
+    minlatitude: 18.854074
+    maxlongitude: -69.91209599999999
+    maxlatitude: 19.159525
+    latitude: 18.9808932
+    longitude: -70.0979491
+- name: Santiago
+  names:
+    - Santiago
+  code: "25"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.75648989999999
+    minlatitude: 19.3650005
+    maxlongitude: -70.5895568
+    maxlatitude: 19.5146896
+    latitude: 19.466667
+    longitude: -70.7
+- name: Santiago Rodríguez
+  names:
+    - Santiago Rodríguez
+  code: "26"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.3439197
+    minlatitude: 19.4681499
+    maxlongitude: -71.3354799
+    maxlatitude: 19.4742671
+    latitude: 19.4713181
+    longitude: -71.33958009999999
+- name: Valverde
+  names:
+    - Valverde
+  code: "27"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.21334999999999
+    minlatitude: 19.498182
+    maxlongitude: -70.875855
+    maxlatitude: 19.77729
+    latitude: 19.6323442
+    longitude: -71.0497768
+- name: Monseñor Nouel
+  names:
+    - Monseñor Nouel
+  code: "28"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.56509500000001
+    minlatitude: 18.7310471
+    maxlongitude: -70.2046211
+    maxlatitude: 19.124081
+    latitude: 18.9215234
+    longitude: -70.3836815
+- name: Monte Plata
+  names:
+    - Monte Plata
+  code: "29"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.8058844
+    minlatitude: 18.7976463
+    maxlongitude: -69.7759295
+    maxlatitude: 18.8225077
+    latitude: 18.81
+    longitude: -69.78999999999999
+- name: Hato Mayor
+  names:
+    - Hato Mayor
+  code: "30"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.2666531
+    minlatitude: 18.7412879
+    maxlongitude: -69.2366016
+    maxlatitude: 18.7849907
+    latitude: 18.766667
+    longitude: -69.25
+- name: San Jose de Ocoa
+  names:
+    - San Jose de Ocoa
+  code: "31"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.5147601
+    minlatitude: 18.5308865
+    maxlongitude: -70.4983234
+    maxlatitude: 18.555543
+    latitude: 18.55
+    longitude: -70.5
+- name: Santo Domingo
+  code: "32"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cibao Nordeste
+  code: "33"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cibao Noroeste
+  code: "34"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cibao Norte
+  code: "35"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cibao Sur
+  code: "36"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: El Valle
+  code: "37"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Enriquillo
+  code: "38"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Higüamo
+  code: "39"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ozama
+  code: "40"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Valdesia
+  code: "41"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Yuma
+  code: "42"
+  countryalpha2: DO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

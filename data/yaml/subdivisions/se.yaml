@@ -1,218 +1,260 @@
-- name: Kalmar län
+- name: Stockholms län
   names:
-  - Calmar
-  code: H
+    - Stockholms län
+  code: AB
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.3360815
-    minlatitude: 56.194195
-    maxlongitude: 17.150608
-    maxlatitude: 58.141144
-    latitude: 57.235016
-    longitude: 16.184935
+    minlongitude: 17.2375371
+    minlatitude: 58.7356979
+    maxlongitude: 19.3499043
+    maxlatitude: 60.2557827
+    latitude: 59.60249579999999
+    longitude: 18.1384383
 - name: Västerbottens län
   names:
-  - Västerbottens län
+    - Västerbottens län
   code: AC
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.25681
-    minlatitude: 63.405464
-    maxlongitude: 21.616947
-    maxlatitude: 66.34033
-    latitude: 65.33373
-    longitude: 16.516169
+    minlongitude: 14.2568099
+    minlatitude: 63.4054636
+    maxlongitude: 21.6169479
+    maxlatitude: 66.340329
+    latitude: 65.3337311
+    longitude: 16.5161695
+- name: Norrbottens län
+  names:
+    - Norrbottens län
+  code: BD
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.3723748
+    minlatitude: 65.06063499999999
+    maxlongitude: 24.1624078
+    maxlatitude: 69.06307199999999
+    latitude: 66.8309216
+    longitude: 20.3991966
+- name: Uppsala län
+  names:
+    - Uppsala län
+  code: C
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.678336
+    minlatitude: 59.4050129
+    maxlongitude: 18.7711579
+    maxlatitude: 60.7313874
+    latitude: 60.00922619999999
+    longitude: 17.2714589
 - name: Södermanlands län
   names:
-  - Södermanlands län
+    - Södermanlands län
   code: D
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 15.5932
-    minlatitude: 58.562138
-    maxlongitude: 17.745312
-    maxlatitude: 59.52284
-    latitude: 59.033634
-    longitude: 16.75189
-- name: Skåne län
-  names:
-  - Scania
-  code: M
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.441755
-    minlatitude: 55.33668
-    maxlongitude: 14.584478
-    maxlatitude: 56.542606
-    latitude: 55.990257
-    longitude: 13.595769
-- name: Dalarnas län
-  names:
-  - Dalarnas
-  - Dalecarlia
-  - Kopparberg
-  code: W
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.133113
-    minlatitude: 59.85217
-    maxlongitude: 16.739265
-    maxlatitude: 62.28024
-    latitude: 61.0917
-    longitude: 14.666366
-- name: Västernorrlands län
-  names:
-  - Västernorrlands län
-  code: "Y"
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.776302
-    minlatitude: 62.13979
-    maxlongitude: 19.286709
-    maxlatitude: 64.002235
-    latitude: 63.427647
-    longitude: 17.729244
-- name: Jämtlands län
-  names:
-  - Jämtlands län
-  code: Z
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.968866
-    minlatitude: 61.569695
-    maxlongitude: 17.064892
-    maxlatitude: 65.073135
-    latitude: 63.171192
-    longitude: 14.95918
-- name: Västmanlands län
-  names:
-  - Västmanlands län
-  code: U
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.41747
-    minlatitude: 59.232754
-    maxlongitude: 16.945858
-    maxlatitude: 60.19066
-    latitude: 59.671387
-    longitude: 16.215895
-- name: Uppsala län
-  names:
-  - Uppsala län
-  code: C
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.678335
-    minlatitude: 59.405014
-    maxlongitude: 18.771158
-    maxlatitude: 60.731388
-    latitude: 60.009228
-    longitude: 17.27146
+    minlatitude: 58.56213729999999
+    maxlongitude: 17.7453121
+    maxlatitude: 59.5228374
+    latitude: 59.03363489999999
+    longitude: 16.7518899
 - name: Östergötlands län
   names:
-  - Östergötlands län
+    - Östergötlands län
   code: E
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.540924
-    minlatitude: 57.70226
-    maxlongitude: 17.085331
-    maxlatitude: 59.019962
-    latitude: 58.345364
-    longitude: 15.519784
+    minlongitude: 14.5409236
+    minlatitude: 57.702259
+    maxlongitude: 17.0853315
+    maxlatitude: 59.01996210000001
+    latitude: 58.3453635
+    longitude: 15.5197843
 - name: Jönköpings län
   names:
-  - Jönköpings län
+    - Jönköpings län
   code: F
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.068845
-    minlatitude: 56.88517
-    maxlongitude: 15.65625
-    maxlatitude: 58.153374
-    latitude: 57.370842
-    longitude: 14.343917
+    minlongitude: 13.0688452
+    minlatitude: 56.885171
+    maxlongitude: 15.6562501
+    maxlatitude: 58.153372
+    latitude: 57.3708434
+    longitude: 14.3439173
+- name: Kronobergs län
+  names:
+    - Kronobergs län
+  code: G
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.2767319
+    minlatitude: 56.35664389999999
+    maxlongitude: 15.844141
+    maxlatitude: 57.238187
+    latitude: 56.71834029999999
+    longitude: 14.4114674
+- name: Kalmar län
+  names:
+    - Calmar
+  code: H
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.3360812
+    minlatitude: 56.1941934
+    maxlongitude: 17.1506084
+    maxlatitude: 58.141144
+    latitude: 57.2350156
+    longitude: 16.1849349
 - name: Gotlands län
   names:
-  - Gotlands län
+    - Gotlands län
   code: I
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 17.956436
-    minlatitude: 56.904865
-    maxlongitude: 19.350414
-    maxlatitude: 58.39873
-    latitude: 57.46841
-    longitude: 18.486744
+    minlongitude: 17.9564368
+    minlatitude: 56.9048659
+    maxlongitude: 19.3504137
+    maxlatitude: 58.3987317
+    latitude: 57.46841209999999
+    longitude: 18.4867447
 - name: Blekinge län
   names:
-  - Blekinge län
+    - Blekinge län
   code: K
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.352885
-    minlatitude: 55.990143
-    maxlongitude: 16.067924
-    maxlatitude: 56.502213
-    latitude: 56.278385
-    longitude: 15.018005
+    minlongitude: 14.3528851
+    minlatitude: 55.9901428
+    maxlongitude: 16.0679243
+    maxlatitude: 56.5022141
+    latitude: 56.2783837
+    longitude: 15.0180058
+- name: Skåne län
+  names:
+    - Scania
+  code: M
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.4417552
+    minlatitude: 55.33668249999999
+    maxlongitude: 14.5844781
+    maxlatitude: 56.54260590000001
+    latitude: 55.99025719999999
+    longitude: 13.5957692
+- name: Hallands län
+  names:
+    - Hallands län
+  code: "N"
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.821994
+    minlatitude: 56.324419
+    maxlongitude: 13.7176809
+    maxlatitude: 57.5731741
+    latitude: 56.8966805
+    longitude: 12.8033993
+- name: Västra Götalands län
+  names:
+    - Västra Götalands län
+  code: O
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.9631866
+    minlatitude: 57.14008
+    maxlongitude: 14.7148173
+    maxlatitude: 59.26203409999999
+    latitude: 58.2527926
+    longitude: 13.0596425
 - name: Värmlands län
   names:
-  - Värmlands län
+    - Värmlands län
   code: S
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 11.681877
-    minlatitude: 58.830826
+    minlatitude: 58.83082580000001
     maxlongitude: 14.48975
-    maxlatitude: 61.069454
-    latitude: 59.72941
-    longitude: 13.235402
+    maxlatitude: 61.06945409999999
+    latitude: 59.7294065
+    longitude: 13.2354024
 - name: Örebro län
   names:
-  - Örebro län
+    - Örebro län
   code: T
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 14.243871
-    minlatitude: 58.656612
-    maxlongitude: 15.78801
-    maxlatitude: 60.10566
-    latitude: 59.535034
-    longitude: 15.006573
+    minlatitude: 58.656611
+    maxlongitude: 15.7880099
+    maxlatitude: 60.1056601
+    latitude: 59.535036
+    longitude: 15.0065731
+- name: Västmanlands län
+  names:
+    - Västmanlands län
+  code: U
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.41747
+    minlatitude: 59.23275400000001
+    maxlongitude: 16.9458588
+    maxlatitude: 60.1906571
+    latitude: 59.6713879
+    longitude: 16.2158954
+- name: Dalarnas län
+  names:
+    - Dalarnas
+    - Dalecarlia
+    - Kopparberg
+  code: W
+  countryalpha2: SE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.1331131
+    minlatitude: 59.852169
+    maxlongitude: 16.739265
+    maxlatitude: 62.28024099999999
+    latitude: 61.0917012
+    longitude: 14.6663653
 - name: Gävleborgs län
   names:
-  - Gävleborgs län
+    - Gävleborgs län
   code: X
   countryalpha2: SE
   coordinates:
@@ -220,77 +262,35 @@
     latitudestring: ""
     minlongitude: 14.459403
     minlatitude: 60.201385
-    maxlongitude: 17.641476
+    maxlongitude: 17.6414757
     maxlatitude: 62.37083
-    latitude: 61.3012
-    longitude: 16.153421
-- name: Stockholms län
+    latitude: 61.30119930000001
+    longitude: 16.1534215
+- name: Västernorrlands län
   names:
-  - Stockholms län
-  code: AB
+    - Västernorrlands län
+  code: "Y"
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 17.237537
-    minlatitude: 58.7357
-    maxlongitude: 19.349905
-    maxlatitude: 60.255783
-    latitude: 59.602497
-    longitude: 18.13844
-- name: Norrbottens län
+    minlongitude: 14.776302
+    minlatitude: 62.13979099999999
+    maxlongitude: 19.2867079
+    maxlatitude: 64.00223489999999
+    latitude: 63.4276473
+    longitude: 17.7292444
+- name: Jämtlands län
   names:
-  - Norrbottens län
-  code: BD
+    - Jämtlands län
+  code: Z
   countryalpha2: SE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.372375
-    minlatitude: 65.06064
-    maxlongitude: 24.162407
-    maxlatitude: 69.06307
-    latitude: 66.830925
-    longitude: 20.399197
-- name: Kronobergs län
-  names:
-  - Kronobergs län
-  code: G
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.2767315
-    minlatitude: 56.356644
-    maxlongitude: 15.844141
-    maxlatitude: 57.238186
-    latitude: 56.71834
-    longitude: 14.411468
-- name: Hallands län
-  names:
-  - Hallands län
-  code: "N"
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.821994
-    minlatitude: 56.324417
-    maxlongitude: 13.717681
-    maxlatitude: 57.573174
-    latitude: 56.89668
-    longitude: 12.803399
-- name: Västra Götalands län
-  names:
-  - Västra Götalands län
-  code: O
-  countryalpha2: SE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.963186
-    minlatitude: 57.14008
-    maxlongitude: 14.714817
-    maxlatitude: 59.262035
-    latitude: 58.252792
-    longitude: 13.059643
+    minlongitude: 11.9688662
+    minlatitude: 61.569695
+    maxlongitude: 17.0648909
+    maxlatitude: 65.073133
+    latitude: 63.1711922
+    longitude: 14.95918

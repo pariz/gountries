@@ -1,65 +1,110 @@
 name:
-  common: Saint Helena
-  official: Saint Helena, Ascension and Tristan da Cunha
-  native:
-    cat:
-      common: Saint Helena
-      official: Saint Helena, Ascension and Tristan da Cunha
+    common: Saint Helena, Ascension and Tristan da Cunha
+    official: Saint Helena, Ascension and Tristan da Cunha
+    native:
+        eng:
+            common: Saint Helena, Ascension and Tristan da Cunha
+            official: Saint Helena, Ascension and Tristan da Cunha
 eumember: false
 landlocked: false
-nationality: ''
+nationality: Saint Helenian
 tlds:
-  - .sh
-  - .ac
+    - .sh
+    - .ac
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: St. Helena
-    official: St. Helena, Ascension und Tristan da Cunha
-  FRA:
-    common: Sainte-Hélène
-    official: Sainte-Hélène, Ascension et Tristan da Cunha
-  ITA:
-    common: Sant'Elena
-    official: Sant'Elena, Ascensione e Tristan da Cunha
-  NLD:
-    common: Sint-Helena
-    official: Sint-Helena, Ascension en Tristan da Cunha
-  POR:
-    common: Santa Helena
-    official: Santa Helena, Ascensão e Tristão da Cunha
-  RUS:
-    common: Острова Святой Елены
-    official: Острова Святой Елены, Вознесения и Тристан-да-Кунья
-  SPA:
-    common: Santa Elena, Ascensión y Tristán de Acuña
-    official: Santa Elena
+    ARA:
+        common: سانت هيلينا وأسينشين وتريستان دا كونا
+        official: سانت هيلينا وأسينشين وتريستان دا كونا
+    CES:
+        common: Svatá Helena, Ascension a Tristan da Cunha
+        official: Svatá Helena, Ascension a Tristan da Cunha
+    DEU:
+        common: St. Helena, Ascension und Tristan da Cunha
+        official: Sankt Helena, Ascension und Tristan da Cunha
+    EST:
+        common: Saint Helena, Ascension ja Tristan da Cunha
+        official: Saint Helena, Ascension ja Tristan da Cunha
+    FIN:
+        common: Saint Helena, Ascension ja Tristan da Cunha
+        official: Saint Helena, Ascension ja Tristan da Cunha
+    FRA:
+        common: Sainte-Hélène, Ascension et Tristan da Cunha
+        official: Sainte-Hélène, Ascension et Tristan da Cunha
+    HRV:
+        common: Sveta Helena
+        official: Sveta Helena
+    HUN:
+        common: Szent Ilona-sziget
+        official: Szent Ilona
+    ITA:
+        common: Sant'Elena, Ascensione e Tristan da Cunha
+        official: Sant'Elena, Ascensione e Tristan da Cunha
+    JPN:
+        common: セントヘレナ
+        official: セントヘレナ・アセンション・トリスタンダクーニャ
+    KOR:
+        common: 세인트헬레나
+        official: 세인트헬레나
+    NLD:
+        common: Sint-Helena, Ascension en Tristan da Cunha
+        official: Sint-Helena, Ascension en Tristan da Cunha
+    PER:
+        common: سنت هلن
+        official: سنت هلن
+    POL:
+        common: Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha
+        official: Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha
+    POR:
+        common: Santa Helena, Ascensão e Tristão da Cunha
+        official: Santa Helena, Ascensão e Tristão da Cunha
+    RUS:
+        common: Острова Святой Елены, Вознесения и Тристан-да-Кунья
+        official: Острова Святой Елены, Вознесения и Тристан-да-Кунья
+    SLK:
+        common: Svätá Helena (zámorské územie)
+        official: Svätá Helena (zámorské územie)
+    SPA:
+        common: Santa Elena, Ascensión y Tristán de Acuña
+        official: Santa Elena, Ascensión y Tristán de Acuña
+    SRP:
+        common: Sveta Jelena
+        official: Sveta Jelena
+    SWE:
+        common: Sankta Helena
+        official: Sankta Helena
+    TUR:
+        common: Saint Helena
+        official: Saint Helena
+    URD:
+        common: سینٹ ہلینا، اسینشن و ترسٹان دا کونیا
+        official: سینٹ ہلینا، اسینشن و ترسٹان دا کونیا
+    ZHO:
+        common: 圣赫勒拿、阿森松和特里斯坦-达库尼亚
+        official: 圣赫勒拿、阿森松和特里斯坦-达库尼亚
 currencies:
-  - SHP
-  - GBP
-borders: []
+    - SHP
 codes:
-  alpha2: SH
-  alpha3: SHN
-  cioc: HEL
-  ccn3: '654'
-  callingcodes:
-    - '290'
-    - '247'
-  internationalprefix: '00'
+    alpha2: SH
+    alpha3: SHN
+    ccn3: "654"
+    callingcodes:
+        - "290"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Jamestown
-  area: 394
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Jamestown
+    area: 394
 coordinates:
-  longitudestring: 5 42 W
-  latitudestring: 15 55 S
-  minlongitude: -15.4248047
-  minlatitude: -37.7880815
-  maxlongitude: -5.0976561
-  maxlatitude: -7.1008926
-  latitude: -15.9656004
-  longitude: -5.7115281
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -15.4248047
+    minlatitude: -41.0371886
+    maxlongitude: -5.0976561
+    maxlatitude: -7.1008926
+    latitude: -24.1434812
+    longitude: -10.0306945

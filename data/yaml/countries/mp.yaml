@@ -1,67 +1,118 @@
 name:
-  common: Northern Mariana Islands
-  official: Commonwealth of the Northern Mariana Islands
-  native:
-    cal:
-      common: Northern Mariana Islands
-      official: Commonwealth of the Northern Mariana Islands
-    cha:
-      common: Na Islas Mariånas
-      official: Sankattan Siha Na Islas Mariånas
-    eng:
-      common: Northern Mariana Islands
-      official: Commonwealth of the Northern Mariana Islands
+    common: Northern Mariana Islands
+    official: The Commonwealth of the Northern Mariana Islands
+    native:
+        cal:
+            common: Northern Mariana Islands
+            official: Commonwealth of the Northern Mariana Islands
+        cha:
+            common: Na Islas Mariånas
+            official: Sankattan Siha Na Islas Mariånas
+        eng:
+            common: Northern Mariana Islands
+            official: Commonwealth of the Northern Mariana Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American
 tlds:
-- .mp
+    - .mp
 languages:
-  cal: Carolinian
-  cha: Chamorro
-  eng: English
+    cal: Carolinian
+    ch: ""
+    cha: Chamorro
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Nördliche Marianen
-    official: Commonwealth der Nördlichen Marianen
-  FIN:
-    common: Pohjois-Mariaanit
-    official: Pohjois-Mariaanit
-  HRV:
-    common: Sjevernomarijanski otoci
-    official: Zajednica je Sjeverni Marijanski otoci
-  ITA:
-    common: Isole Marianne Settentrionali
-    official: Commonwealth delle Isole Marianne Settentrionali
-  POR:
-    common: Marianas Setentrionais
-    official: Comunidade das Ilhas Marianas do Norte
-  RUS:
-    common: Северные Марианские острова
-    official: Содружество Северных Марианских островов
+    ARA:
+        common: جزر ماريانا الشمالية
+        official: كومونولث جزر ماريانا الشمالية
+    CES:
+        common: Severní Mariany
+        official: Společenství Severních Marian
+    DEU:
+        common: Nördliche Marianen
+        official: Commonwealth der Nördlichen Marianen
+    EST:
+        common: Põhja-Mariaanid
+        official: Põhja-Mariaani Ühendus
+    FIN:
+        common: Pohjois-Mariaanit
+        official: Pohjois-Mariaanit
+    FRA:
+        common: Îles Mariannes du Nord
+        official: Commonwealth des îles Mariannes du Nord
+    HRV:
+        common: Sjevernomarijanski otoci
+        official: Zajednica je Sjeverni Marijanski otoci
+    HUN:
+        common: Északi-Mariana-szigetek
+        official: Északi-Mariana-szigetek
+    ITA:
+        common: Isole Marianne Settentrionali
+        official: Commonwealth delle Isole Marianne Settentrionali
+    JPN:
+        common: 北マリアナ諸島
+        official: 北マリアナ諸島
+    KOR:
+        common: 북마리아나 제도
+        official: 북마리아나 제도
+    NLD:
+        common: Noordelijke Marianeneilanden
+        official: Commonwealth van de Noordelijke Marianen
+    PER:
+        common: جزایر ماریانای شمالی
+        official: جزایر ماریانای شمالی
+    POL:
+        common: Mariany Północne
+        official: Wspólnota Marianów Północnych
+    POR:
+        common: Marianas Setentrionais
+        official: Comunidade das Ilhas Marianas do Norte
+    RUS:
+        common: Северные Марианские острова
+        official: Содружество Северных Марианских островов
+    SLK:
+        common: Severné Mariány
+        official: Spoločenstvo ostrovov Severné Mariány
+    SPA:
+        common: Islas Marianas del Norte
+        official: Mancomunidad de las Islas Marianas del Norte
+    SRP:
+        common: Severna Marijanska Ostrva
+        official: Komonvelt Severna Marijanska Ostrva
+    SWE:
+        common: Nordmarianerna
+        official: Nordmarianerna
+    TUR:
+        common: Kuzey Mariana Adaları
+        official: Kuzey Mariana Adaları Milletler Topluluğu
+    URD:
+        common: جزائر شمالی ماریانا
+        official: دولتِ مشترکہ جزائر شمالی ماریانا
+    ZHO:
+        common: 北马里亚纳群岛
+        official: 北马里亚纳群岛
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: MP
-  alpha3: MNP
-  cioc: ""
-  ccn3: "580"
-  callingcodes:
-  - "1670"
-  internationalprefix: "011"
+    alpha2: MP
+    alpha3: MNP
+    ccn3: "580"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Oceania
-  subregion: Micronesia
-  continent: Australia
-  capital: Saipan
-  area: 464
+    region: Oceania
+    subregion: Micronesia
+    continent: Australia
+    capital: Saipan
+    area: 464
 coordinates:
-  longitudestring: 145 45 E
-  latitudestring: 15 12 N
-  minlongitude: 144.88637
-  minlatitude: 4.110382
-  maxlongitude: 146.06465
-  maxlatitude: 20.553482
-  latitude: 15.262779
-  longitude: 145.80457
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 144.7668457
+    minlatitude: 13.9713848
+    maxlongitude: 146.2060546
+    maxlatitude: 20.6584862
+    latitude: 15.0979
+    longitude: 145.6739

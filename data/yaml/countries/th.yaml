@@ -1,64 +1,116 @@
 name:
-  common: Thailand
-  official: Kingdom of Thailand
-  native:
-    tha:
-      common: ประเทศไทย
-      official: ราชอาณาจักรไทย
+    common: Thailand
+    official: The Kingdom of Thailand
+    native:
+        tha:
+            common: ประเทศไทย
+            official: ราชอาณาจักรไทย
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Thai
 tlds:
-- .th
-- .ไทย
+    - .th
+    - .ไทย
 languages:
-  tha: Thai
+    th: ""
+    tha: Thai
 translations:
-  FIN:
-    common: Thaimaa
-    official: Thaimaan kuningaskunta
-  FRA:
-    common: Thaïlande
-    official: Royaume de Thaïlande
-  JPN:
-    common: タイ
-    official: タイ王国
-  NLD:
-    common: Thailand
-    official: Koninkrijk Thailand
-  POR:
-    common: Tailândia
-    official: Reino da Tailândia
-  SPA:
-    common: Tailandia
-    official: Reino de Tailandia
+    ARA:
+        common: تايلند
+        official: مملكة تايلند
+    CES:
+        common: Thajsko
+        official: Thajské království
+    DEU:
+        common: Thailand
+        official: Königreich Thailand
+    EST:
+        common: Tai
+        official: Tai Kuningriik
+    FIN:
+        common: Thaimaa
+        official: Thaimaan kuningaskunta
+    FRA:
+        common: Thaïlande
+        official: Royaume de Thaïlande
+    HRV:
+        common: Tajland
+        official: Kraljevina Tajland
+    HUN:
+        common: Thaiföld
+        official: Thaiföldi Királyság
+    ITA:
+        common: Tailandia
+        official: Regno di Thailandia
+    JPN:
+        common: タイ
+        official: タイ王国
+    KOR:
+        common: 태국
+        official: 타이 왕국
+    NLD:
+        common: Thailand
+        official: Koninkrijk Thailand
+    PER:
+        common: تایلند
+        official: پادشاهی تایلند
+    POL:
+        common: Tajlandia
+        official: Królestwo Tajlandii
+    POR:
+        common: Tailândia
+        official: Reino da Tailândia
+    RUS:
+        common: Таиланд
+        official: Королевство Таиланд
+    SLK:
+        common: Thajsko
+        official: Thajské kráľovstvo
+    SPA:
+        common: Tailandia
+        official: Reino de Tailandia
+    SRP:
+        common: Tajland
+        official: Kraljevina Tajland
+    SWE:
+        common: Thailand
+        official: Konungariket Thailand
+    TUR:
+        common: Tayland
+        official: Tayland Krallığı
+    URD:
+        common: تھائی لینڈ
+        official: مملکتِ تھائی لینڈ
+    ZHO:
+        common: 泰国
+        official: 泰王国
 currencies:
-- THB
+    - THB
 borders:
-- MMR
-- KHM
-- LAO
-- MYS
+    - MMR
+    - KHM
+    - LAO
+    - MYS
 codes:
-  alpha2: TH
-  alpha3: THA
-  cioc: THA
-  ccn3: "764"
-  callingcodes:
-  - "66"
-  internationalprefix: "001"
+    alpha2: TH
+    alpha3: THA
+    cioc: THA
+    ccn3: "764"
+    callingcodes:
+        - "66"
+    internationalprefix: "001"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Bangkok
-  area: 513120
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Bangkok
+    area: 513120
 coordinates:
-  longitudestring: 100 00 E
-  latitudestring: 15 00 N
-  minlongitude: 97.36667
-  minlatitude: 5.616667
-  maxlongitude: 105.76667
-  maxlatitude: 20.442778
-  latitude: 14.484582
-  longitude: 100.85191
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 97.343396
+    minlatitude: 5.613038
+    maxlongitude: 105.636812
+    maxlatitude: 20.465143
+    latitude: 15.870032
+    longitude: 100.992541

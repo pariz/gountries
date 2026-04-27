@@ -1,20 +1,20 @@
-- name: Austurland
+- name: Reykjavík
   names:
-  - Austurland
-  code: "7"
+    - Reykjavík
+  code: "0"
   countryalpha2: IS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -17.368185
-    minlatitude: 63.77614
-    maxlongitude: -13.495815
-    maxlatitude: 66.18994
-    latitude: 64.833
-    longitude: -15.743398
+    minlongitude: -21.9865021
+    minlatitude: 64.0898138
+    maxlongitude: -21.7183826
+    maxlatitude: 64.1750702
+    latitude: 64.133333
+    longitude: -21.933333
 - name: Höfuðborgarsvæði utan Reykjavíkur
   names:
-  - Höfuðborgarsvæði utan Reykjavíkur
+    - Höfuðborgarsvæði utan Reykjavíkur
   code: "1"
   countryalpha2: IS
   coordinates:
@@ -24,103 +24,931 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 64.14752
-    longitude: -21.942808
-- name: Norðurland vestra
-  names:
-  - Norðurland vestra
-  code: "5"
-  countryalpha2: IS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -21.119078
-    minlatitude: 64.773224
-    maxlongitude: -18.295774
-    maxlatitude: 66.16005
-    latitude: 65.19625
-    longitude: -19.24258
-- name: Norðurland eystra
-  names:
-  - Norðurland eystra
-  code: "6"
-  countryalpha2: IS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -19.042782
-    minlatitude: 64.41007
-    maxlongitude: -14.541981
-    maxlatitude: 66.563774
-    latitude: 65.471375
-    longitude: -17.028028
-- name: Vestfirðir
-  names:
-  - Vestfirðir
-  code: "4"
-  countryalpha2: IS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -24.546524
-    minlatitude: 64.96292
-    maxlongitude: -20.974667
-    maxlatitude: 66.46997
-    latitude: 65.91962
-    longitude: -21.881176
-- name: Suðurland
-  names:
-  - Suðurland
-  code: "8"
-  countryalpha2: IS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -21.922003
-    minlatitude: 63.297382
-    maxlongitude: -17.265951
-    maxlatitude: 64.877304
-    latitude: 64.26614
-    longitude: -18.815813
-- name: Reykjavík
-  names:
-  - Reykjavík
-  code: "0"
-  countryalpha2: IS
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -21.986502
-    minlatitude: 64.08981
-    maxlongitude: -21.718382
-    maxlatitude: 64.17507
-    latitude: 64.13333
-    longitude: -21.933332
+    latitude: 64.1475182
+    longitude: -21.9428079
 - name: Suðurnes
   names:
-  - Suðurnes
+    - Suðurnes
   code: "2"
   countryalpha2: IS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -22.754467
-    minlatitude: 63.80002
-    maxlongitude: -21.711943
-    maxlatitude: 64.08244
-    latitude: 63.91548
-    longitude: -22.364967
+    minlongitude: -22.7544665
+    minlatitude: 63.8000178
+    maxlongitude: -21.7119429
+    maxlatitude: 64.08244680000001
+    latitude: 63.91548030000001
+    longitude: -22.3649667
 - name: Vesturland
   names:
-  - Vesturland
+    - Vesturland
   code: "3"
   countryalpha2: IS
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -24.06094
-    minlatitude: 64.3024
-    maxlongitude: -19.78107
-    maxlatitude: 65.51734
-    latitude: 64.77043
-    longitude: -21.53413
+    minlongitude: -24.0609395
+    minlatitude: 64.302399
+    maxlongitude: -19.7810714
+    maxlatitude: 65.51733899999999
+    latitude: 64.770434
+    longitude: -21.5341294
+- name: Vestfirðir
+  names:
+    - Vestfirðir
+  code: "4"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -24.5465237
+    minlatitude: 64.96292199999999
+    maxlongitude: -20.9746663
+    maxlatitude: 66.46997069999999
+    latitude: 65.91961500000001
+    longitude: -21.8811763
+- name: Norðurland vestra
+  names:
+    - Norðurland vestra
+  code: "5"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -21.1190769
+    minlatitude: 64.773222
+    maxlongitude: -18.295774
+    maxlatitude: 66.1600471
+    latitude: 65.19625049999999
+    longitude: -19.2425804
+- name: Norðurland eystra
+  names:
+    - Norðurland eystra
+  code: "6"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -19.0427822
+    minlatitude: 64.4100729
+    maxlongitude: -14.5419811
+    maxlatitude: 66.5637741
+    latitude: 65.4713712
+    longitude: -17.0280279
+- name: Austurland
+  names:
+    - Austurland
+  code: "7"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.3681851
+    minlatitude: 63.77613830000001
+    maxlongitude: -13.4958154
+    maxlatitude: 66.1899378
+    latitude: 64.8329974
+    longitude: -15.7433981
+- name: Suðurland
+  names:
+    - Suðurland
+  code: "8"
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -21.9220031
+    minlatitude: 63.2973824
+    maxlongitude: -17.2659519
+    maxlatitude: 64.87730599999999
+    latitude: 64.2661426
+    longitude: -18.8158138
+- name: Akrahreppur
+  code: AKH
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Akraneskaupstaður
+  code: AKN
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Akureyrarbær
+  code: AKU
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Árneshreppur
+  code: ARN
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ásahreppur
+  code: ASA
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bláskógabyggð
+  code: BLA
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Blönduósbær
+  code: BLO
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Borgarbyggð
+  code: BOG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bolungarvíkurkaupstaður
+  code: BOL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Dalabyggð
+  code: DAB
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Dalvíkurbyggð
+  code: DAV
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Eyja- og Miklaholtshreppur
+  code: EOM
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Eyjafjarðarsveit
+  code: EYF
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Fjarðabyggð
+  code: FJD
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Fjallabyggð
+  code: FJL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Flóahreppur
+  code: FLA
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Fljótsdalshreppur
+  code: FLR
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Garðabær
+  code: GAR
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Grímsnes- og Grafningshreppur
+  code: GOG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Grindavíkurbær
+  code: GRN
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Grundarfjarðarbær
+  code: GRU
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Grýtubakkahreppur
+  code: GRY
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hafnarfjarðarkaupstaður
+  code: HAF
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Helgafellssveit
+  code: HEL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hörgársveit
+  code: HRG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hrunamannahreppur
+  code: HRU
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Húnavatnshreppur
+  code: HUT
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Húnaþing vestra
+  code: HUV
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hvalfjarðarsveit
+  code: HVA
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hveragerðisbær
+  code: HVE
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ísafjarðarbær
+  code: ISA
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kaldrananeshreppur
+  code: KAL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kjósarhreppur
+  code: KJO
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kópavogsbær
+  code: KOP
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Langanesbyggð
+  code: LAN
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mosfellsbær
+  code: MOS
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Múlaþing
+  code: MUL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mýrdalshreppur
+  code: MYR
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Norðurþing
+  code: NOR
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rangárþing eystra
+  code: RGE
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rangárþing ytra
+  code: RGY
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Reykhólahreppur
+  code: RHH
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Reykjanesbær
+  code: RKN
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Reykjavíkurborg
+  code: RKV
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Svalbarðshreppur
+  code: SBH
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Svalbarðsstrandarhreppur
+  code: SBT
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Suðurnesjabær
+  code: SDN
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Súðavíkurhreppur
+  code: SDV
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Seltjarnarnesbær
+  code: SEL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sveitarfélagið Árborg
+  code: SFA
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sveitarfélagið Hornafjörður
+  code: SHF
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Skaftárhreppur
+  code: SKF
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Skagabyggð
+  code: SKG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Skorradalshreppur
+  code: SKO
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Skútustaðahreppur
+  code: SKU
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Snæfellsbær
+  code: SNF
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Skeiða- og Gnúpverjahreppur
+  code: SOG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sveitarfélagið Ölfus
+  code: SOL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sveitarfélagið Skagafjörður
+  code: SSF
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sveitarfélagið Skagaströnd
+  code: SSS
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Strandabyggð
+  code: STR
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Stykkishólmsbær
+  code: STY
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sveitarfélagið Vogar
+  code: SVG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tálknafjarðarhreppur
+  code: TAL
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Þingeyjarsveit
+  code: THG
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tjörneshreppur
+  code: TJO
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vestmannaeyjabær
+  code: VEM
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vesturbyggð
+  code: VER
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vopnafjarðarhreppur
+  code: VOP
+  countryalpha2: IS
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

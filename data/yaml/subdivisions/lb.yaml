@@ -1,21 +1,19 @@
-- name: Nabatîyé
-  names:
-  - Nabatiyeh
-  code: NA
+- name: محافظة عكار
+  code: AK
   countryalpha2: LB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 35.241882
-    minlatitude: 33.054935
-    maxlongitude: 35.863857
-    maxlatitude: 33.511253
-    latitude: 33.285507
-    longitude: 35.5001
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Loubnâne ech Chemâli
   names:
-  - Ash Shamal
-  - North
+    - Ash Shamal
+    - North
   code: AS
   countryalpha2: LB
   coordinates:
@@ -29,12 +27,12 @@
     longitude: 0
 - name: Beirut
   names:
-  - Bayrout
-  - Bayrut
-  - Beirut
-  - Beyrout
-  - Beyrouth
-  - Beyrût
+    - Bayrout
+    - Bayrut
+    - Beirut
+    - Beyrout
+    - Beyrouth
+    - Beyrût
   code: BA
   countryalpha2: LB
   coordinates:
@@ -44,11 +42,23 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 33.88863
-    longitude: 35.49548
+    latitude: 33.8886289
+    longitude: 35.4954794
+- name: محافظة بعلبك الهرمل
+  code: BH
+  countryalpha2: LB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: El Béqaa
   names:
-  - Bekaa
+    - Bekaa
   code: BI
   countryalpha2: LB
   coordinates:
@@ -58,11 +68,11 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 33.761604
-    longitude: 35.883545
+    latitude: 33.7616036
+    longitude: 35.8835437
 - name: Loubnâne ej Jnoûbi
   names:
-  - South
+    - South
   code: JA
   countryalpha2: LB
   coordinates:
@@ -76,15 +86,29 @@
     longitude: 0
 - name: Jabal Loubnâne
   names:
-  - Mount Lebanon
+    - Mount Lebanon
   code: JL
   countryalpha2: LB
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 35.38587
-    minlatitude: 33.491684
-    maxlongitude: 36.015064
-    maxlatitude: 34.21135
-    latitude: 33.904663
-    longitude: 35.697
+    minlongitude: 35.3858701
+    minlatitude: 33.4916836
+    maxlongitude: 36.0150637
+    maxlatitude: 34.2113502
+    latitude: 33.9046635
+    longitude: 35.6969984
+- name: Nabatîyé
+  names:
+    - Nabatiyeh
+  code: NA
+  countryalpha2: LB
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.2418835
+    minlatitude: 33.0549366
+    maxlongitude: 35.86385569999999
+    maxlatitude: 33.5112517
+    latitude: 33.285507
+    longitude: 35.5000999

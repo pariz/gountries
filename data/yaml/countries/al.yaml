@@ -1,72 +1,115 @@
 name:
-  common: Albania
-  official: Republic of Albania
-  native:
-    sqi:
-      common: Shqipëria
-      official: Republika e Shqipërisë
+    common: Albania
+    official: The Republic of Albania
+    native:
+        sqi:
+            common: Shqipëria
+            official: Republika e Shqipërisë
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Albanian
 tlds:
-- .al
+    - .al
 languages:
-  sqi: Albanian
+    sq: ""
+    sqi: Albanian
 translations:
-  CYM:
-    common: Albania
-    official: Republic of Albania
-  DEU:
-    common: Albanien
-    official: Republik Albanien
-  FIN:
-    common: Albania
-    official: Albanian tasavalta
-  HRV:
-    common: Albanija
-    official: Republika Albanija
-  JPN:
-    common: アルバニア
-    official: アルバニア共和国
-  NLD:
-    common: Albanië
-    official: Republiek Albanië
-  POR:
-    common: Albânia
-    official: República da Albânia
-  RUS:
-    common: Албания
-    official: Республика Албания
-  SPA:
-    common: Albania
-    official: República de Albania
+    ARA:
+        common: ألبانيا
+        official: جمهورية ألبانيا
+    CES:
+        common: Albánie
+        official: Albánská republika
+    DEU:
+        common: Albanien
+        official: Republik Albanien
+    EST:
+        common: Albaania
+        official: Albaania Vabariik
+    FIN:
+        common: Albania
+        official: Albanian tasavalta
+    FRA:
+        common: Albanie
+        official: République d'Albanie
+    HRV:
+        common: Albanija
+        official: Republika Albanija
+    HUN:
+        common: Albánia
+        official: Albán Köztársaság
+    ITA:
+        common: Albania
+        official: Repubblica d'Albania
+    JPN:
+        common: アルバニア
+        official: アルバニア共和国
+    KOR:
+        common: 알바니아
+        official: 알바니아 공화국
+    NLD:
+        common: Albanië
+        official: Republiek Albanië
+    PER:
+        common: آلبانی
+        official: جمهوری آلبانی
+    POL:
+        common: Albania
+        official: Republika Albanii
+    POR:
+        common: Albânia
+        official: República da Albânia
+    RUS:
+        common: Албания
+        official: Республика Албания
+    SLK:
+        common: Albánsko
+        official: Albánska republika
+    SPA:
+        common: Albania
+        official: República de Albania
+    SRP:
+        common: Albanija
+        official: Republika Albanija
+    SWE:
+        common: Albanien
+        official: Republiken Albanien
+    TUR:
+        common: Arnavutluk
+        official: Arnavutluk Cumhuriyeti
+    URD:
+        common: البانیا
+        official: جمہوریہ البانیا
+    ZHO:
+        common: 阿尔巴尼亚
+        official: 阿尔巴尼亚共和国
 currencies:
-- ALL
+    - ALL
 borders:
-- MNE
-- GRC
-- MKD
-- KOS
+    - MNE
+    - GRC
+    - MKD
+    - UNK
 codes:
-  alpha2: AL
-  alpha3: ALB
-  cioc: ALB
-  ccn3: "008"
-  callingcodes:
-  - "355"
-  internationalprefix: "00"
+    alpha2: AL
+    alpha3: ALB
+    cioc: ALB
+    ccn3: "008"
+    callingcodes:
+        - "355"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Tirana
-  area: 28748
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Tirana
+    area: 28748
 coordinates:
-  longitudestring: 20 00 E
-  latitudestring: 41 00 N
-  minlongitude: 19.266666
-  minlatitude: 39.65
-  maxlongitude: 21.05
-  maxlatitude: 42.65917
-  latitude: 41.111134
-  longitude: 20.027452
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.1217
+    minlatitude: 39.6447296
+    maxlongitude: 21.0572394
+    maxlatitude: 42.6611669
+    latitude: 41.153332
+    longitude: 20.168331

@@ -1,64 +1,117 @@
 name:
-  common: Curaçao
-  official: Country of Curaçao
-  native:
-    eng:
-      common: Curaçao
-      official: Country of Curaçao
-    nld:
-      common: Curaçao
-      official: Land Curaçao
-    pap:
-      common: Pais Kòrsou
-      official: Pais Kòrsou
+    common: Curaçao
+    official: The Country of Curaçao
+    native:
+        eng:
+            common: Curaçao
+            official: Country of Curaçao
+        nld:
+            common: Curaçao
+            official: Land Curaçao
+        pap:
+            common: Pais Kòrsou
+            official: Pais Kòrsou
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Dutch
 tlds:
-- .cw
+    - .cw
 languages:
-  eng: English
-  nld: Dutch
-  pap: Papiamento
+    eng: English
+    nl: ""
+    nld: Dutch
+    pap: Papiamento
 translations:
-  FIN:
-    common: Curaçao
-    official: Curaçao
-  NLD:
-    common: Curaçao
-    official: Land Curaçao
-  POR:
-    common: ilha da Curação
-    official: País de Curaçao
-  RUS:
-    common: Кюрасао
-    official: Страна Кюрасао
-  SPA:
-    common: Curazao
-    official: País de Curazao
+    ARA:
+        common: كوراساو
+        official: دولة كوراساو
+    CES:
+        common: Curaçao
+        official: Autonomní země Curaçao
+    DEU:
+        common: Curaçao
+        official: Land Curaçao
+    EST:
+        common: Curaçao
+        official: Curaçao
+    FIN:
+        common: Curaçao
+        official: Curaçao
+    FRA:
+        common: Curaçao
+        official: Pays de Curaçao
+    HRV:
+        common: Curaçao
+        official: Curaçao
+    HUN:
+        common: Curaçao
+        official: Curaçao
+    ITA:
+        common: Curaçao
+        official: Paese di Curaçao
+    JPN:
+        common: キュラソー
+        official: キュラソー
+    KOR:
+        common: 퀴라소
+        official: 퀴라소
+    NLD:
+        common: Curaçao
+        official: Land Curaçao
+    PER:
+        common: کوراسائو
+        official: کوراسائو
+    POL:
+        common: Curaçao
+        official: Curaçao
+    POR:
+        common: ilha da Curação
+        official: País de Curaçao
+    RUS:
+        common: Кюрасао
+        official: Страна Кюрасао
+    SLK:
+        common: Curacao
+        official: Curacao
+    SPA:
+        common: Curazao
+        official: País de Curazao
+    SRP:
+        common: Kurasao
+        official: Država Kurasao
+    SWE:
+        common: Curaçao
+        official: Curaçao
+    TUR:
+        common: Curaçao
+        official: Curaçao
+    URD:
+        common: کیوراساؤ
+        official: مملکتِ کیوراساؤ
+    ZHO:
+        common: 库拉索
+        official: 库拉索
 currencies:
-- ANG
-borders: []
+    - XCG
 codes:
-  alpha2: CW
-  alpha3: CUW
-  cioc: ""
-  ccn3: "531"
-  callingcodes:
-  - "5999"
-  internationalprefix: "00"
+    alpha2: CW
+    alpha3: CUW
+    ccn3: "531"
+    callingcodes:
+        - "599"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Willemstad
-  area: 444
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Willemstad
+    area: 444
 coordinates:
-  longitudestring: 69 0 W
-  latitudestring: 12 11 N
-  minlongitude: -69.1572
-  minlatitude: 11.97319
-  maxlongitude: -68.63933
-  maxlatitude: 12.38567
-  latitude: 12.16322
-  longitude: -68.94505
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -69.29899999999999
+    minlatitude: 11.9224
+    maxlongitude: -68.5670001
+    maxlatitude: 12.4941999
+    latitude: 12.16957
+    longitude: -68.99002

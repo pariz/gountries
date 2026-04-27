@@ -1,69 +1,115 @@
 name:
-  common: Nauru
-  official: Republic of Nauru
-  native:
-    eng:
-      common: Nauru
-      official: Republic of Nauru
-    nau:
-      common: Nauru
-      official: Republic of Nauru
+    common: Nauru
+    official: The Republic of Nauru
+    native:
+        eng:
+            common: Nauru
+            official: Republic of Nauru
+        nau:
+            common: Nauru
+            official: Republic of Nauru
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Nauruan
 tlds:
-- .nr
+    - .nr
 languages:
-  eng: English
-  nau: Nauru
+    en: ""
+    eng: English
+    na: ""
+    nau: Nauru
 translations:
-  DEU:
-    common: Nauru
-    official: Republik Nauru
-  FIN:
-    common: Nauru
-    official: Naurun tasavalta
-  FRA:
-    common: Nauru
-    official: République de Nauru
-  ITA:
-    common: Nauru
-    official: Repubblica di Nauru
-  JPN:
-    common: ナウル
-    official: ナウル共和国
-  NLD:
-    common: Nauru
-    official: Republiek Nauru
-  RUS:
-    common: Науру
-    official: Республика Науру
-  SPA:
-    common: Nauru
-    official: República de Nauru
+    ARA:
+        common: ناورو
+        official: جمهورية ناورو
+    CES:
+        common: Nauru
+        official: Republika Nauru
+    DEU:
+        common: Nauru
+        official: Republik Nauru
+    EST:
+        common: Nauru
+        official: Nauru Vabariik
+    FIN:
+        common: Nauru
+        official: Naurun tasavalta
+    FRA:
+        common: Nauru
+        official: République de Nauru
+    HRV:
+        common: Nauru
+        official: Republika Nauru
+    HUN:
+        common: Nauru
+        official: Naurui Köztársaság
+    ITA:
+        common: Nauru
+        official: Repubblica di Nauru
+    JPN:
+        common: ナウル
+        official: ナウル共和国
+    KOR:
+        common: 나우루
+        official: 나우루 공화국
+    NLD:
+        common: Nauru
+        official: Republiek Nauru
+    PER:
+        common: نائورو
+        official: جمهوری نائورو
+    POL:
+        common: Nauru
+        official: Republika Nauru
+    POR:
+        common: Nauru
+        official: República de Nauru
+    RUS:
+        common: Науру
+        official: Республика Науру
+    SLK:
+        common: Nauru
+        official: Naurská republika
+    SPA:
+        common: Nauru
+        official: República de Nauru
+    SRP:
+        common: Nauru
+        official: Republika Nauru
+    SWE:
+        common: Nauru
+        official: Republiken Nauru
+    TUR:
+        common: Nauru
+        official: Nauru Cumhuriyeti
+    URD:
+        common: ناورو
+        official: جمہوریہ ناورو
+    ZHO:
+        common: 瑙鲁
+        official: 瑙鲁共和国
 currencies:
-- AUD
-borders: []
+    - AUD
 codes:
-  alpha2: NR
-  alpha3: NRU
-  cioc: NRU
-  ccn3: "520"
-  callingcodes:
-  - "674"
-  internationalprefix: "00"
+    alpha2: NR
+    alpha3: NRU
+    cioc: NRU
+    ccn3: "520"
+    callingcodes:
+        - "674"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Micronesia
-  continent: Australia
-  capital: Yaren
-  area: 21
+    region: Oceania
+    subregion: Micronesia
+    continent: Australia
+    capital: Yaren
+    area: 21
 coordinates:
-  longitudestring: 166 55 E
-  latitudestring: 0 32 S
-  minlongitude: 166.91667
-  minlatitude: -0.55
-  maxlongitude: 166.95
-  maxlatitude: -0.5
-  latitude: -0.5316065
-  longitude: 166.9364
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.9071293
+    minlatitude: -0.5580623
+    maxlongitude: 166.9631767
+    maxlatitude: -0.4978976000000001
+    latitude: -0.522778
+    longitude: 166.931503

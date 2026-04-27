@@ -1,64 +1,120 @@
 name:
-  common: Guam
-  official: Guam
-  native:
-    cha:
-      common: Guåhån
-      official: Guåhån
-    eng:
-      common: Guam
-      official: Guam
-    spa:
-      common: Guam
-      official: Guam
+    common: Guam
+    official: The Territory of Guam
+    native:
+        cha:
+            common: Guåhån
+            official: Guåhån
+        eng:
+            common: Guam
+            official: Guam
+        spa:
+            common: Guam
+            official: Guam
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Guamanian
 tlds:
-- .gu
+    - .gu
 languages:
-  cha: Chamorro
-  eng: English
-  spa: Spanish
+    ch: ""
+    cha: Chamorro
+    en: ""
+    eng: English
+    es: ""
+    spa: Spanish
 translations:
-  DEU:
-    common: Guam
-    official: Guam
-  FRA:
-    common: Guam
-    official: Guam
-  HRV:
-    common: Guam
-    official: Guam
-  ITA:
-    common: Guam
-    official: Guam
-  SPA:
-    common: Guam
-    official: Guam
+    ARA:
+        common: غوام
+        official: غوام
+    CES:
+        common: Guam
+        official: Guam
+    DEU:
+        common: Guam
+        official: Guam
+    EST:
+        common: Guam
+        official: Guami ala
+    FIN:
+        common: Guam
+        official: Guam
+    FRA:
+        common: Guam
+        official: Guam
+    HRV:
+        common: Guam
+        official: Guam
+    HUN:
+        common: Guam
+        official: Guam
+    ITA:
+        common: Guam
+        official: Guam
+    JPN:
+        common: グアム
+        official: グアム
+    KOR:
+        common: 괌
+        official: 괌
+    NLD:
+        common: Guam
+        official: Guam
+    PER:
+        common: گوآم
+        official: گوآم
+    POL:
+        common: Guam
+        official: Terytorium Guamu
+    POR:
+        common: Guam
+        official: Guam
+    RUS:
+        common: Гуам
+        official: Гуам
+    SLK:
+        common: Guam
+        official: Guam
+    SPA:
+        common: Guam
+        official: Guam
+    SRP:
+        common: Gvam
+        official: Gvam
+    SWE:
+        common: Guam
+        official: Guam
+    TUR:
+        common: Guam
+        official: Guam Toprağı
+    URD:
+        common: گوام
+        official: گوام
+    ZHO:
+        common: 关岛
+        official: 关岛
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: GU
-  alpha3: GUM
-  cioc: GUM
-  ccn3: "316"
-  callingcodes:
-  - "1671"
-  internationalprefix: "011"
+    alpha2: GU
+    alpha3: GUM
+    cioc: GUM
+    ccn3: "316"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Oceania
-  subregion: Micronesia
-  continent: Australia
-  capital: Hagåtña
-  area: 549
+    region: Oceania
+    subregion: Micronesia
+    continent: Australia
+    capital: Hagåtña
+    area: 549
 coordinates:
-  longitudestring: 144 47 E
-  latitudestring: 13 28 N
-  minlongitude: 144.61926
-  minlatitude: 13.24059
-  maxlongitude: 144.954
-  maxlatitude: 13.65232
-  latitude: 13.421129
-  longitude: 144.73972
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 144.4647218
+    minlatitude: 13.1022175
+    maxlongitude: 145.112915
+    maxlatitude: 13.7994072
+    latitude: 13.444304
+    longitude: 144.793731

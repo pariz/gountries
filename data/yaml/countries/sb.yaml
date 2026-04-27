@@ -1,56 +1,110 @@
 name:
-  common: Solomon Islands
-  official: Solomon Islands
-  native:
-    eng:
-      common: Solomon Islands
-      official: Solomon Islands
+    common: Solomon Islands
+    official: The Solomon Islands
+    native:
+        eng:
+            common: Solomon Islands
+            official: Solomon Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Solomon Islander
 tlds:
-- .sb
+    - .sb
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Salomonen
-    official: Salomon-Inseln
-  FRA:
-    common: Îles Salomon
-    official: Îles Salomon
-  JPN:
-    common: ソロモン諸島
-    official: ソロモン諸島
-  POR:
-    common: Ilhas Salomão
-    official: Ilhas Salomão
-  SPA:
-    common: Islas Salomón
-    official: islas Salomón
+    ARA:
+        common: جزر سليمان
+        official: جزر سليمان
+    CES:
+        common: Šalamounovy ostrovy
+        official: Šalamounovy ostrovy
+    DEU:
+        common: Salomonen
+        official: Salomonen
+    EST:
+        common: Saalomoni Saared
+        official: Saalomoni Saared
+    FIN:
+        common: Salomonsaaret
+        official: Salomonsaaret
+    FRA:
+        common: Îles Salomon
+        official: Îles Salomon
+    HRV:
+        common: Solomonski Otoci
+        official: Solomonski Otoci
+    HUN:
+        common: Salamon-szigetek
+        official: Salamon-szigetek
+    ITA:
+        common: Isole Salomone
+        official: Isole Salomone
+    JPN:
+        common: ソロモン諸島
+        official: ソロモン諸島
+    KOR:
+        common: 솔로몬 제도
+        official: 솔로몬 제도
+    NLD:
+        common: Salomonseilanden
+        official: Solomon eilanden
+    PER:
+        common: جزایر سلیمان
+        official: جزایر سلیمان
+    POL:
+        common: Wyspy Salomona
+        official: Wyspy Salomona
+    POR:
+        common: Ilhas Salomão
+        official: Ilhas Salomão
+    RUS:
+        common: Соломоновы Острова
+        official: Соломоновы острова
+    SLK:
+        common: Salomonove ostrovy
+        official: Salomonove ostrovy
+    SPA:
+        common: Islas Salomón
+        official: islas Salomón
+    SRP:
+        common: Solomonova Ostrva
+        official: Solomonova Ostrva
+    SWE:
+        common: Salomonöarna
+        official: Salomonöarna
+    TUR:
+        common: Solomon Adaları
+        official: Solomon Adaları
+    URD:
+        common: جزائر سلیمان
+        official: جزائر سلیمان
+    ZHO:
+        common: 所罗门群岛
+        official: 所罗门群岛
 currencies:
-- SBD
-borders: []
+    - SBD
 codes:
-  alpha2: SB
-  alpha3: SLB
-  cioc: SOL
-  ccn3: "090"
-  callingcodes:
-  - "677"
-  internationalprefix: "00"
+    alpha2: SB
+    alpha3: SLB
+    cioc: SOL
+    ccn3: "090"
+    callingcodes:
+        - "677"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Melanesia
-  continent: Australia
-  capital: Honiara
-  area: 28896
+    region: Oceania
+    subregion: Melanesia
+    continent: Australia
+    capital: Honiara
+    area: 28896
 coordinates:
-  longitudestring: 159 00 E
-  latitudestring: 8 00 S
-  minlongitude: 155.51666
-  minlatitude: -12.883333
-  maxlongitude: 170.2
-  maxlatitude: -5.166667
-  latitude: -9.548113
-  longitude: 160.0193
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 155.1187134
+    minlatitude: -12.6832149
+    maxlongitude: 168.0249023
+    maxlatitude: -6.075011
+    latitude: -9.64571
+    longitude: 160.156194

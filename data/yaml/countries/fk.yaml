@@ -1,62 +1,109 @@
 name:
-  common: Falkland Islands
-  official: Falkland Islands
-  native:
-    eng:
-      common: Falkland Islands
-      official: Falkland Islands
+    common: Falkland Islands (Malvinas)
+    official: The Falkland Islands
+    native:
+        eng:
+            common: Falkland Islands
+            official: Falkland Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Falkland Islander
 tlds:
-- .fk
+    - .fk
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Falklandinseln
-    official: Falkland-Inseln
-  FIN:
-    common: Falkandinsaaret
-    official: Falkandinsaaret
-  FRA:
-    common: Îles Malouines
-    official: Îles Malouines
-  HRV:
-    common: Falklandski Otoci
-    official: Falklandski otoci
-  ITA:
-    common: Isole Falkland o Isole Malvine
-    official: Isole Falkland
-  NLD:
-    common: Falklandeilanden
-    official: Falkland eilanden
-  SPA:
-    common: Islas Malvinas
-    official: islas Malvinas
+    ARA:
+        common: جزر فوكلاند
+        official: جزر فوكلاند
+    CES:
+        common: Falklandy
+        official: Falklandské ostrovy
+    DEU:
+        common: Falklandinseln
+        official: Falklandinseln
+    EST:
+        common: Falklandi saared
+        official: Falklandi saared
+    FIN:
+        common: Falkandinsaaret
+        official: Falkandinsaaret
+    FRA:
+        common: Îles Malouines
+        official: Îles Malouines
+    HRV:
+        common: Falklandski Otoci
+        official: Falklandski otoci
+    HUN:
+        common: Falkland-szigetek
+        official: Falkland-szigetek
+    ITA:
+        common: Isole Falkland o Isole Malvine
+        official: Isole Falkland
+    JPN:
+        common: フォークランド諸島
+        official: フォークランド（マルビナス）諸島
+    KOR:
+        common: 포클랜드 제도
+        official: 포클랜드 제도
+    NLD:
+        common: Falklandeilanden
+        official: Falkland eilanden
+    PER:
+        common: جزایر فالکلند
+        official: جزایر فالکلند
+    POL:
+        common: Falklandy
+        official: Falklandy
+    POR:
+        common: Ilhas Malvinas
+        official: Ilhas Malvinas
+    RUS:
+        common: Фолклендские острова
+        official: Фолклендские острова
+    SLK:
+        common: Falklandy
+        official: Falklandské ostrovy
+    SPA:
+        common: Islas Malvinas
+        official: islas Malvinas
+    SRP:
+        common: Folklandska ostrva
+        official: Folklandska ostrva
+    SWE:
+        common: Falklandsöarna
+        official: Falklandsöarna
+    TUR:
+        common: Falkland (Malvina) Adaları
+        official: Falkland (Malvina) Adaları
+    URD:
+        common: جزائر فاکلینڈ
+        official: جزائر فاکلینڈ
+    ZHO:
+        common: 福克兰群岛
+        official: 福克兰群岛
 currencies:
-- FKP
-borders: []
+    - FKP
 codes:
-  alpha2: FK
-  alpha3: FLK
-  cioc: ""
-  ccn3: "238"
-  callingcodes:
-  - "500"
-  internationalprefix: "00"
+    alpha2: FK
+    alpha3: FLK
+    ccn3: "238"
+    callingcodes:
+        - "500"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Stanley
-  area: 12173
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Stanley
+    area: 12173
 coordinates:
-  longitudestring: 59 00 W
-  latitudestring: 51 45 S
-  minlongitude: -61.433334
-  minlatitude: -52.966667
-  maxlongitude: -57.666668
-  maxlatitude: -50.966667
-  latitude: -51.773125
-  longitude: -59.72791
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.3792419
+    minlatitude: -52.4744161
+    maxlongitude: -57.6768495
+    maxlatitude: -50.9809115
+    latitude: -51.796253
+    longitude: -59.523613

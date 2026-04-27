@@ -1,67 +1,116 @@
 name:
-  common: Ivory Coast
-  official: Republic of Côte d'Ivoire
-  native:
-    fra:
-      common: Côte d'Ivoire
-      official: République de Côte d'Ivoire
+    common: Côte d'Ivoire
+    official: The Republic of Côte d'Ivoire
+    native:
+        fra:
+            common: Côte d'Ivoire
+            official: République de Côte d'Ivoire
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ivorian
 tlds:
-- .ci
+    - .ci
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Elfenbeinküste
-    official: Republik Côte d'Ivoire
-  FIN:
-    common: Norsunluurannikko
-    official: Norsunluurannikon tasavalta
-  FRA:
-    common: Côte d'Ivoire
-    official: République de Côte d' Ivoire
-  HRV:
-    common: Obala Bjelokosti
-    official: Republika Côte d'Ivoire
-  JPN:
-    common: コートジボワール
-    official: コートジボワール共和国
-  POR:
-    common: Costa do Marfim
-    official: República da Côte d'Ivoire
-  SPA:
-    common: Costa de Marfil
-    official: República de Côte d'Ivoire
+    ARA:
+        common: ساحل العاج
+        official: جمهورية ساحل العاج
+    CES:
+        common: Pobřeží slonoviny
+        official: Republika Pobřeží slonoviny
+    DEU:
+        common: Côte d'Ivoire
+        official: Republik Côte d'Ivoire
+    EST:
+        common: Elevandiluurannik
+        official: Côte d’Ivoire’i Vabariik
+    FIN:
+        common: Norsunluurannikko
+        official: Norsunluurannikon tasavalta
+    FRA:
+        common: Côte d'Ivoire
+        official: République de Côte d' Ivoire
+    HRV:
+        common: Obala Bjelokosti
+        official: Republika Côte d'Ivoire
+    HUN:
+        common: Elefántcsontpart
+        official: Elefántcsontparti Köztársaság
+    ITA:
+        common: Costa d'Avorio
+        official: Repubblica della Costa d'Avorio
+    JPN:
+        common: コートジボワール
+        official: コートジボワール共和国
+    KOR:
+        common: 코트디부아르
+        official: 코트디부아르 공화국
+    NLD:
+        common: Ivoorkust
+        official: Republiek Ivoorkust
+    PER:
+        common: ساحل عاج
+        official: جمهوری ساحل عاج
+    POL:
+        common: WybrzeŻe Kości Słoniowej
+        official: Republika WybrzeŻa Kości Słoniowej
+    POR:
+        common: Costa do Marfim
+        official: República da Côte d'Ivoire
+    RUS:
+        common: Кот-д’Ивуар
+        official: Республика Кот-д'Ивуаре
+    SLK:
+        common: Pobržie Slonoviny
+        official: Republika Pobrežie Slonoviny
+    SPA:
+        common: Costa de Marfil
+        official: República de Côte d'Ivoire
+    SRP:
+        common: Obala Slonovače
+        official: Republika Obala Slonovače
+    SWE:
+        common: Elfenbenskusten
+        official: Republiken Elfenbenskusten
+    TUR:
+        common: Fildişi Sahili
+        official: Fildişi Sahili
+    URD:
+        common: آئیوری کوسٹ
+        official: جمہوریہ کوت دیواغ
+    ZHO:
+        common: 科特迪瓦
+        official: 科特迪瓦共和国
 currencies:
-- XOF
+    - XOF
 borders:
-- BFA
-- GHA
-- GIN
-- LBR
-- MLI
+    - BFA
+    - GHA
+    - GIN
+    - LBR
+    - MLI
 codes:
-  alpha2: CI
-  alpha3: CIV
-  cioc: CIV
-  ccn3: "384"
-  callingcodes:
-  - "225"
-  internationalprefix: "00"
+    alpha2: CI
+    alpha3: CIV
+    cioc: CIV
+    ccn3: "384"
+    callingcodes:
+        - "225"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Yamoussoukro
-  area: 322463
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Yamoussoukro
+    area: 322463
 coordinates:
-  longitudestring: 5 00 W
-  latitudestring: 8 00 N
-  minlongitude: -8.538889
-  minlatitude: 4.35
-  maxlongitude: -2.566667
-  maxlatitude: 10.652222
-  latitude: 7.5987554
-  longitude: -5.5525746
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.6020589
+    minlatitude: 4.193
+    maxlongitude: -2.493031
+    maxlatitude: 10.7400149
+    latitude: 7.539988999999999
+    longitude: -5.547079999999999

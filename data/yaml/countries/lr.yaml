@@ -1,71 +1,114 @@
 name:
-  common: Liberia
-  official: Republic of Liberia
-  native:
-    eng:
-      common: Liberia
-      official: Republic of Liberia
+    common: Liberia
+    official: The Republic of Liberia
+    native:
+        eng:
+            common: Liberia
+            official: Republic of Liberia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Liberian
 tlds:
-- .lr
+    - .lr
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Liberia
-    official: Liberian tasavalta
-  FRA:
-    common: Liberia
-    official: République du Libéria
-  HRV:
-    common: Liberija
-    official: Republika Liberija
-  ITA:
-    common: Liberia
-    official: Repubblica di Liberia
-  JPN:
-    common: リベリア
-    official: リベリア共和国
-  NLD:
-    common: Liberia
-    official: Republiek Liberia
-  POR:
-    common: Libéria
-    official: República da Libéria
-  RUS:
-    common: Либерия
-    official: Республика Либерия
-  SPA:
-    common: Liberia
-    official: República de Liberia
+    ARA:
+        common: ليبيريا
+        official: جمهورية ليبيريا
+    CES:
+        common: Libérie
+        official: Liberijská republika
+    DEU:
+        common: Liberia
+        official: Republik Liberia
+    EST:
+        common: Libeeria
+        official: Libeeria Vabariik
+    FIN:
+        common: Liberia
+        official: Liberian tasavalta
+    FRA:
+        common: Liberia
+        official: République du Libéria
+    HRV:
+        common: Liberija
+        official: Republika Liberija
+    HUN:
+        common: Libéria
+        official: Libériai Köztársaság
+    ITA:
+        common: Liberia
+        official: Repubblica di Liberia
+    JPN:
+        common: リベリア
+        official: リベリア共和国
+    KOR:
+        common: 라이베리아
+        official: 라이베리아 공화국
+    NLD:
+        common: Liberia
+        official: Republiek Liberia
+    PER:
+        common: لیبـِریا
+        official: جمهوری لیبریا
+    POL:
+        common: Liberia
+        official: Republika Liberii
+    POR:
+        common: Libéria
+        official: República da Libéria
+    RUS:
+        common: Либерия
+        official: Республика Либерия
+    SLK:
+        common: Libéria
+        official: Libérijská republika
+    SPA:
+        common: Liberia
+        official: República de Liberia
+    SRP:
+        common: Liberija
+        official: Republika Liberija
+    SWE:
+        common: Liberia
+        official: Republiken Liberia
+    TUR:
+        common: Liberya
+        official: Liberya Cumhuriyeti
+    URD:
+        common: لائبیریا
+        official: جمہوریہ لائبیریا
+    ZHO:
+        common: 利比里亚
+        official: 利比里亚共和国
 currencies:
-- LRD
+    - LRD
 borders:
-- GIN
-- CIV
-- SLE
+    - GIN
+    - CIV
+    - SLE
 codes:
-  alpha2: LR
-  alpha3: LBR
-  cioc: LBR
-  ccn3: "430"
-  callingcodes:
-  - "231"
-  internationalprefix: "00"
+    alpha2: LR
+    alpha3: LBR
+    cioc: LBR
+    ccn3: "430"
+    callingcodes:
+        - "231"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Monrovia
-  area: 111369
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Monrovia
+    area: 111369
 coordinates:
-  longitudestring: 9 30 W
-  latitudestring: 6 30 N
-  minlongitude: -11.472222
-  minlatitude: 4.328333
-  maxlongitude: -4
-  maxlatitude: 9.5
-  latitude: 6.411513
-  longitude: -9.323492
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -11.5355999
+    minlatitude: 4.269699999999999
+    maxlongitude: -7.3692549
+    maxlatitude: 8.551986
+    latitude: 6.428055
+    longitude: -9.429499000000002

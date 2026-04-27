@@ -1,73 +1,115 @@
 name:
-  common: Armenia
-  official: Republic of Armenia
-  native:
-    hye:
-      common: Հայաստան
-      official: Հայաստանի Հանրապետություն
-    rus:
-      common: Армения
-      official: Республика Армения
+    common: Armenia
+    official: The Republic of Armenia
+    native:
+        hye:
+            common: Հայաստան
+            official: Հայաստանի Հանրապետություն
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Armenian
 tlds:
-- .am
+    - .am
 languages:
-  hye: Armenian
-  rus: Russian
+    hy: ""
+    hye: Armenian
 translations:
-  CYM:
-    common: Armenia
-    official: Republic of Armenia
-  DEU:
-    common: Armenien
-    official: Republik Armenien
-  FIN:
-    common: Armenia
-    official: Armenian tasavalta
-  HRV:
-    common: Armenija
-    official: Republika Armenija
-  JPN:
-    common: アルメニア
-    official: アルメニア共和国
-  POR:
-    common: Arménia
-    official: República da Arménia
-  RUS:
-    common: Армения
-    official: Республика Армения
-  SPA:
-    common: Armenia
-    official: República de Armenia
+    ARA:
+        common: أرمينيا
+        official: جمهورية أرمينيا
+    CES:
+        common: Arménie
+        official: Arménská republika
+    DEU:
+        common: Armenien
+        official: Republik Armenien
+    EST:
+        common: Armeenia
+        official: Armeenia Vabariik
+    FIN:
+        common: Armenia
+        official: Armenian tasavalta
+    FRA:
+        common: Arménie
+        official: République d'Arménie
+    HRV:
+        common: Armenija
+        official: Republika Armenija
+    HUN:
+        common: Örményország
+        official: Örményország
+    ITA:
+        common: Armenia
+        official: Repubblica di Armenia
+    JPN:
+        common: アルメニア
+        official: アルメニア共和国
+    KOR:
+        common: 아르메니아
+        official: 아르메니아 공화국
+    NLD:
+        common: Armenië
+        official: Republiek Armenië
+    PER:
+        common: ارمنستان
+        official: جمهوری ارمنستان
+    POL:
+        common: Armenia
+        official: Republika Armenii
+    POR:
+        common: Arménia
+        official: República da Arménia
+    RUS:
+        common: Армения
+        official: Республика Армения
+    SLK:
+        common: Arménsko
+        official: Arménska republika
+    SPA:
+        common: Armenia
+        official: República de Armenia
+    SRP:
+        common: Jermenija
+        official: Republika Jermenija
+    SWE:
+        common: Armenien
+        official: Republiken Armenien
+    TUR:
+        common: Ermenistan
+        official: Ermenistan Cumhuriyeti
+    URD:
+        common: آرمینیا
+        official: جمہوریہ آرمینیا
+    ZHO:
+        common: 亚美尼亚
+        official: 亚美尼亚共和国
 currencies:
-- AMD
+    - AMD
 borders:
-- AZE
-- GEO
-- IRN
-- TUR
+    - AZE
+    - GEO
+    - IRN
+    - TUR
 codes:
-  alpha2: AM
-  alpha3: ARM
-  cioc: ARM
-  ccn3: "051"
-  callingcodes:
-  - "374"
-  internationalprefix: "00"
+    alpha2: AM
+    alpha3: ARM
+    cioc: ARM
+    ccn3: "051"
+    callingcodes:
+        - "374"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Yerevan
-  area: 29743
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Yerevan
+    area: 29743
 coordinates:
-  longitudestring: 45 00 E
-  latitudestring: 40 00 N
-  minlongitude: 43.4425
-  minlatitude: 38.89417
-  maxlongitude: 46.560555
-  maxlatitude: 41.3
-  latitude: 40.292664
-  longitude: 44.939472
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.4472601
+    minlatitude: 38.840244
+    maxlongitude: 46.6342219
+    maxlatitude: 41.300993
+    latitude: 40.069099
+    longitude: 45.038189

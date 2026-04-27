@@ -1,65 +1,114 @@
 name:
-  common: Suriname
-  official: Republic of Suriname
-  native:
-    nld:
-      common: Suriname
-      official: Republiek Suriname
+    common: Suriname
+    official: The Republic of Suriname
+    native:
+        nld:
+            common: Suriname
+            official: Republiek Suriname
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Surinamer
 tlds:
-- .sr
+    - .sr
 languages:
-  nld: Dutch
+    nl: ""
+    nld: Dutch
 translations:
-  FIN:
-    common: Suriname
-    official: Surinamen tasavalta
-  FRA:
-    common: Surinam
-    official: République du Suriname
-  ITA:
-    common: Suriname
-    official: Repubblica del Suriname
-  JPN:
-    common: スリナム
-    official: スリナム共和国
-  POR:
-    common: Suriname
-    official: República do Suriname
-  RUS:
-    common: Суринам
-    official: Республика Суринам
-  SPA:
-    common: Surinam
-    official: República de Suriname
+    ARA:
+        common: سورينام
+        official: جمهورية سورينام
+    CES:
+        common: Surinam
+        official: Republika Surinam
+    DEU:
+        common: Suriname
+        official: Republik Suriname
+    EST:
+        common: Suriname
+        official: Suriname Vabariik
+    FIN:
+        common: Suriname
+        official: Surinamen tasavalta
+    FRA:
+        common: Surinam
+        official: République du Suriname
+    HRV:
+        common: Surinam
+        official: Republika Surinam
+    HUN:
+        common: Suriname
+        official: Suriname Köztársaság
+    ITA:
+        common: Suriname
+        official: Repubblica del Suriname
+    JPN:
+        common: スリナム
+        official: スリナム共和国
+    KOR:
+        common: 수리남
+        official: 수리남 공화국
+    NLD:
+        common: Suriname
+        official: Republiek Suriname
+    PER:
+        common: سورینام
+        official: جمهوری سورینام
+    POL:
+        common: Surinam
+        official: Republika Surinamu
+    POR:
+        common: Suriname
+        official: República do Suriname
+    RUS:
+        common: Суринам
+        official: Республика Суринам
+    SLK:
+        common: Surinam
+        official: Surinamská republika
+    SPA:
+        common: Surinam
+        official: República de Suriname
+    SRP:
+        common: Surinam
+        official: Republika Surinam
+    SWE:
+        common: Surinam
+        official: Republiken Surinam
+    TUR:
+        common: Surinam
+        official: Surinam Cumhuriyeti
+    URD:
+        common: سرینام
+        official: جمہوریہ سرینام
+    ZHO:
+        common: 苏里南
+        official: 苏里南共和国
 currencies:
-- SRD
+    - SRD
 borders:
-- BRA
-- GUF
-- GUY
+    - BRA
+    - GUF
+    - GUY
 codes:
-  alpha2: SR
-  alpha3: SUR
-  cioc: SUR
-  ccn3: "740"
-  callingcodes:
-  - "597"
-  internationalprefix: "00"
+    alpha2: SR
+    alpha3: SUR
+    cioc: SUR
+    ccn3: "740"
+    callingcodes:
+        - "597"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Paramaribo
-  area: 163820
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Paramaribo
+    area: 163820
 coordinates:
-  longitudestring: 56 00 W
-  latitudestring: 4 00 N
-  minlongitude: -60
-  minlatitude: 2.1
-  maxlongitude: -53.983334
-  maxlatitude: 6
-  latitude: 4.216929
-  longitude: -55.889217
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.07050590000001
+    minlatitude: 1.837306
+    maxlongitude: -53.94289999999999
+    maxlatitude: 6.1295999
+    latitude: 3.919305
+    longitude: -56.027783

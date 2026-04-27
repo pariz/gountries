@@ -1,67 +1,119 @@
 name:
-  common: Comoros
-  official: Union of the Comoros
-  native:
-    ara:
-      common: القمر‎
-      official: الاتحاد القمري
-    fra:
-      common: Comores
-      official: Union des Comores
-    zdj:
-      common: Komori
-      official: Udzima wa Komori
+    common: Comoros
+    official: The Union of the Comoros
+    native:
+        ara:
+            common: جزر القمر
+            official: الاتحاد القمري
+        fra:
+            common: Comores
+            official: Union des Comores
+        zdj:
+            common: Komori
+            official: Udzima wa Komori
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Comoran
 tlds:
-- .km
+    - .km
 languages:
-  ara: Arabic
-  fra: French
-  zdj: Comorian
+    ar: ""
+    ara: Arabic
+    fr: ""
+    fra: French
+    zdj: Comorian
 translations:
-  DEU:
-    common: Union der Komoren
-    official: Union der Komoren
-  FRA:
-    common: Comores
-    official: Union des Comores
-  HRV:
-    common: Komori
-    official: Savez Komori
-  JPN:
-    common: コモロ
-    official: コモロ連合
-  POR:
-    common: Comores
-    official: União das Comores
-  RUS:
-    common: Коморы
-    official: Союз Коморских Островов
+    ARA:
+        common: جزر القمر
+        official: الإتحاد القمري
+    CES:
+        common: Komory
+        official: Komorský svaz
+    DEU:
+        common: Komoren
+        official: Union der Komoren
+    EST:
+        common: Komoorid
+        official: Komoori Liit
+    FIN:
+        common: Komorit
+        official: Komorien liitto
+    FRA:
+        common: Comores
+        official: Union des Comores
+    HRV:
+        common: Komori
+        official: Savez Komori
+    HUN:
+        common: Comore-szigetek
+        official: Comore-szigeteki Unió
+    ITA:
+        common: Comore
+        official: Unione delle Comore
+    JPN:
+        common: コモロ
+        official: コモロ連合
+    KOR:
+        common: 코모로
+        official: 코모로 연방
+    NLD:
+        common: Comoren
+        official: Unie van de Comoren
+    PER:
+        common: اتحاد قُمُر
+        official: مجمع‌الجزایر قمر
+    POL:
+        common: Komory
+        official: Związek Komorów
+    POR:
+        common: Comores
+        official: União das Comores
+    RUS:
+        common: Коморы
+        official: Союз Коморских Островов
+    SLK:
+        common: Komory
+        official: Komorská únia
+    SPA:
+        common: Comoras
+        official: Unión de las Comoras
+    SRP:
+        common: Komori
+        official: Unija Komora
+    SWE:
+        common: Komorerna
+        official: Unionen Komorerna
+    TUR:
+        common: Komorlar
+        official: Komorlar Birliği
+    URD:
+        common: القمری
+        official: اتحاد القمری
+    ZHO:
+        common: 科摩罗
+        official: 科摩罗联盟
 currencies:
-- KMF
-borders: []
+    - KMF
 codes:
-  alpha2: KM
-  alpha3: COM
-  cioc: COM
-  ccn3: "174"
-  callingcodes:
-  - "269"
-  internationalprefix: "00"
+    alpha2: KM
+    alpha3: COM
+    cioc: COM
+    ccn3: "174"
+    callingcodes:
+        - "269"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Moroni
-  area: 1862
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Moroni
+    area: 1862
 coordinates:
-  longitudestring: 44 15 E
-  latitudestring: 12 10 S
-  minlongitude: 43.226112
-  minlatitude: -13
-  maxlongitude: 45.316666
-  maxlatitude: -11.35
-  latitude: -11.866102
-  longitude: 43.43264
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.1968689
+    minlatitude: -12.4687602
+    maxlongitude: 44.5646666
+    maxlatitude: -11.3373321
+    latitude: -11.6455
+    longitude: 43.3333

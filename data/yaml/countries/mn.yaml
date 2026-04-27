@@ -1,58 +1,113 @@
 name:
-  common: Mongolia
-  official: Mongolia
-  native:
-    mon:
-      common: Монгол улс
-      official: Монгол улс
-eumember: false
-landlocked: true
-nationality: ""
-tlds:
-- .mn
-languages:
-  mon: Mongolian
-translations:
-  FIN:
-    common: Mongolia
-    official: Mongolian tasavalta
-  FRA:
-    common: Mongolie
-    official: Mongolie
-  HRV:
-    common: Mongolija
-    official: Mongolija
-  NLD:
-    common: Mongolië
-    official: Mongolië
-  SPA:
     common: Mongolia
     official: Mongolia
+    native:
+        mon:
+            common: Монгол улс
+            official: Монгол улс
+eumember: false
+landlocked: true
+nationality: Mongolian
+tlds:
+    - .mn
+languages:
+    mn: ""
+    mon: Mongolian
+translations:
+    ARA:
+        common: منغوليا
+        official: جمهورية منغوليا
+    CES:
+        common: Mongolsko
+        official: Stát Mongolsko
+    DEU:
+        common: Mongolei
+        official: Mongolei
+    EST:
+        common: Mongoolia
+        official: Mongoolia
+    FIN:
+        common: Mongolia
+        official: Mongolian tasavalta
+    FRA:
+        common: Mongolie
+        official: Mongolie
+    HRV:
+        common: Mongolija
+        official: Mongolija
+    HUN:
+        common: Mongólia
+        official: Mongólia
+    ITA:
+        common: Mongolia
+        official: Mongolia
+    JPN:
+        common: モンゴル
+        official: モンゴル国
+    KOR:
+        common: 몽골국
+        official: 몽골
+    NLD:
+        common: Mongolië
+        official: Mongolië
+    PER:
+        common: مغولستان
+        official: مغولستان
+    POL:
+        common: Mongolia
+        official: Mongolia
+    POR:
+        common: Mongólia
+        official: Mongólia
+    RUS:
+        common: Монголия
+        official: Монголия
+    SLK:
+        common: Mongolsko
+        official: Mongolsko
+    SPA:
+        common: Mongolia
+        official: Mongolia
+    SRP:
+        common: Mongolija
+        official: Mongolija
+    SWE:
+        common: Mongoliet
+        official: Mongoliet
+    TUR:
+        common: Moğolistan
+        official: Moğolistan
+    URD:
+        common: منگولیا
+        official: منگولیا
+    ZHO:
+        common: 蒙古
+        official: 蒙古
 currencies:
-- MNT
+    - MNT
 borders:
-- CHN
-- RUS
+    - CHN
+    - RUS
 codes:
-  alpha2: MN
-  alpha3: MNG
-  cioc: MGL
-  ccn3: "496"
-  callingcodes:
-  - "976"
-  internationalprefix: "001"
+    alpha2: MN
+    alpha3: MNG
+    cioc: MGL
+    ccn3: "496"
+    callingcodes:
+        - "976"
+    internationalprefix: "001"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: Ulan Bator
-  area: 1.56411e+06
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: Ulan Bator
+    area: 1.56411e+06
 coordinates:
-  longitudestring: 105 00 E
-  latitudestring: 46 00 N
-  minlongitude: 87.78333
-  minlatitude: 41.55
-  maxlongitude: 119.916664
-  maxlatitude: 52.1
-  latitude: 46.83648
-  longitude: 103.066895
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 87.7344789
+    minlatitude: 41.581833
+    maxlongitude: 119.9315098
+    maxlatitude: 52.148355
+    latitude: 46.862496
+    longitude: 103.846656

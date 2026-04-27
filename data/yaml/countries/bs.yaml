@@ -1,65 +1,110 @@
 name:
-  common: Bahamas
-  official: Commonwealth of the Bahamas
-  native:
-    eng:
-      common: Bahamas
-      official: Commonwealth of the Bahamas
+    common: Bahamas
+    official: The Commonwealth of The Bahamas
+    native:
+        eng:
+            common: Bahamas
+            official: Commonwealth of the Bahamas
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bahamian
 tlds:
-- .bs
+    - .bs
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  CYM:
-    common: Bahamas
-    official: Commonwealth of the Bahamas
-  FIN:
-    common: Bahamasaaret
-    official: Bahaman liittovaltio
-  FRA:
-    common: Bahamas
-    official: Commonwealth des Bahamas
-  HRV:
-    common: Bahami
-    official: Zajednica Bahama
-  ITA:
-    common: Bahamas
-    official: Commonwealth delle Bahamas
-  JPN:
-    common: バハマ
-    official: バハマ
-  RUS:
-    common: Багамские Острова
-    official: Содружество Багамских Островов
-  SPA:
-    common: Bahamas
-    official: Commonwealth de las Bahamas
+    ARA:
+        common: البهاما
+        official: كومنولث جزر البهاما
+    CES:
+        common: Bahamy
+        official: Bahamské společenství
+    DEU:
+        common: Bahamas
+        official: Commonwealth der Bahamas
+    EST:
+        common: Bahama
+        official: Bahama Ühendus
+    FIN:
+        common: Bahamasaaret
+        official: Bahaman liittovaltio
+    FRA:
+        common: Bahamas
+        official: Commonwealth des Bahamas
+    HRV:
+        common: Bahami
+        official: Zajednica Bahama
+    HUN:
+        common: Bahama-szigetek
+        official: Bahamai Közösség
+    ITA:
+        common: Bahamas
+        official: Commonwealth delle Bahamas
+    JPN:
+        common: バハマ
+        official: バハマ国
+    KOR:
+        common: 바하마
+        official: 바하마 연방
+    NLD:
+        common: Bahama’s
+        official: Gemenebest van de Bahama's
+    PER:
+        common: باهاما
+        official: قلمرو همسود باهاما
+    POL:
+        common: Bahamy
+        official: Bahamy
+    POR:
+        common: Bahamas
+        official: Comunidade das Bahamas
+    RUS:
+        common: Багамские Острова
+        official: Содружество Багамских Островов
+    SLK:
+        common: Bahamy
+        official: Bahamské spoločenstvo
+    SPA:
+        common: Bahamas
+        official: Commonwealth de las Bahamas
+    SRP:
+        common: Bahami
+        official: Komonvelt Bahama
+    SWE:
+        common: Bahamas
+        official: Samväldet Bahamas
+    TUR:
+        common: Bahamalar
+        official: Bahama Milletler Topluluğu
+    URD:
+        common: بہاماس
+        official: دولتِ مشترکہ بہاماس
+    ZHO:
+        common: 巴哈马
+        official: 巴哈马联邦
 currencies:
-- BSD
-borders: []
+    - BSD
 codes:
-  alpha2: BS
-  alpha3: BHS
-  cioc: BAH
-  ccn3: "044"
-  callingcodes:
-  - "1242"
-  internationalprefix: "011"
+    alpha2: BS
+    alpha3: BHS
+    cioc: BAH
+    ccn3: "044"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Nassau
-  area: 13943
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Nassau
+    area: 13943
 coordinates:
-  longitudestring: 76 00 W
-  latitudestring: 24 15 N
-  minlongitude: -80.48333
-  minlatitude: 20
-  maxlongitude: -70
-  maxlatitude: 29.375
-  latitude: 25.035648
-  longitude: -77.39513
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.4775603
+    minlatitude: 20.9082735
+    maxlongitude: -72.70975390000001
+    maxlatitude: 27.263412
+    latitude: 25.03428
+    longitude: -77.39627999999999

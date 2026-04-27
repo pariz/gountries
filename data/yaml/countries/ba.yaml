@@ -1,79 +1,124 @@
 name:
-  common: Bosnia and Herzegovina
-  official: Bosnia and Herzegovina
-  native:
-    bos:
-      common: Bosna i Hercegovina
-      official: Bosna i Hercegovina
-    hrv:
-      common: Bosna i Hercegovina
-      official: Bosna i Hercegovina
-    srp:
-      common: Боснa и Херцеговина
-      official: Боснa и Херцеговина
+    common: Bosnia and Herzegovina
+    official: Bosnia and Herzegovina
+    native:
+        bos:
+            common: Bosna i Hercegovina
+            official: Bosna i Hercegovina
+        hrv:
+            common: Bosna i Hercegovina
+            official: Bosna i Hercegovina
+        srp:
+            common: Боснa и Херцеговина
+            official: Боснa и Херцеговина
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Bosnian, Herzegovinian
 tlds:
-- .ba
+    - .ba
 languages:
-  bos: Bosnian
-  hrv: Croatian
-  srp: Serbian
+    bos: Bosnian
+    bs: ""
+    hr: ""
+    hrv: Croatian
+    sr: ""
+    srp: Serbian
 translations:
-  CYM:
-    common: Bosnia a Hercegovina
-    official: Bosnia and Herzegovina
-  DEU:
-    common: Bosnien und Herzegowina
-    official: Bosnien und Herzegowina
-  FRA:
-    common: Bosnie-Herzégovine
-    official: Bosnie-et-Herzégovine
-  HRV:
-    common: Bosna i Hercegovina
-    official: Bosna i Hercegovina
-  ITA:
-    common: Bosnia ed Erzegovina
-    official: Bosnia-Erzegovina
-  JPN:
-    common: ボスニア・ヘルツェゴビナ
-    official: ボスニア·ヘルツェゴビナ
-  NLD:
-    common: Bosnië en Herzegovina
-    official: Bosnië-Herzegovina
-  POR:
-    common: Bósnia e Herzegovina
-    official: Bósnia e Herzegovina
-  SPA:
-    common: Bosnia y Herzegovina
-    official: Bosnia y Herzegovina
+    ARA:
+        common: البوسنة والهرسك
+        official: البوسنة والهرسك
+    CES:
+        common: Bosna a Hercegovina
+        official: Bosna a Hercegovina
+    DEU:
+        common: Bosnien und Herzegowina
+        official: Bosnien und Herzegowina
+    EST:
+        common: Bosnia ja Hertsegoviina
+        official: Bosnia ja Hertsegoviina
+    FIN:
+        common: Bosnia ja Hertsegovina
+        official: Bosnia ja Hertsegovina
+    FRA:
+        common: Bosnie-Herzégovine
+        official: Bosnie-et-Herzégovine
+    HRV:
+        common: Bosna i Hercegovina
+        official: Bosna i Hercegovina
+    HUN:
+        common: Bosznia-Hercegovina
+        official: Bosznia-Hercegovina
+    ITA:
+        common: Bosnia ed Erzegovina
+        official: Bosnia-Erzegovina
+    JPN:
+        common: ボスニア・ヘルツェゴビナ
+        official: ボスニア・ヘルツェゴビナ
+    KOR:
+        common: 보스니아 헤르체고비나
+        official: 보스니아 헤르체고비나
+    NLD:
+        common: Bosnië en Herzegovina
+        official: Bosnië-Herzegovina
+    PER:
+        common: بوسنی و هرزگوین
+        official: بوسنی و هرزگوین
+    POL:
+        common: Bośnia i Hercegowina
+        official: Bośnia i Hercegowina
+    POR:
+        common: Bósnia e Herzegovina
+        official: Bósnia e Herzegovina
+    RUS:
+        common: Босния и Герцеговина
+        official: Босния и Герцеговина
+    SLK:
+        common: Bosna a Hercegovina
+        official: Republika Bosny a Hercegoviny
+    SPA:
+        common: Bosnia y Herzegovina
+        official: Bosnia y Herzegovina
+    SRP:
+        common: Bosna i Hercegovina
+        official: Bosna i Hercegovina
+    SWE:
+        common: Bosnien och Hercegovina
+        official: Bosnien och Hercegovina
+    TUR:
+        common: Bosna-Hersek
+        official: Bosna ve Hersek
+    URD:
+        common: بوسنیا و ہرزیگووینا
+        official: بوسنیا و ہرزیگووینا
+    ZHO:
+        common: 波斯尼亚和黑塞哥维那
+        official: 波斯尼亚和黑塞哥维那
 currencies:
-- BAM
+    - BAM
 borders:
-- HRV
-- MNE
-- SRB
+    - HRV
+    - MNE
+    - SRB
 codes:
-  alpha2: BA
-  alpha3: BIH
-  cioc: BIH
-  ccn3: "070"
-  callingcodes:
-  - "387"
-  internationalprefix: "00"
+    alpha2: BA
+    alpha3: BIH
+    cioc: BIH
+    ccn3: "070"
+    callingcodes:
+        - "387"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Sarajevo
-  area: 51209
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Sarajevo
+    area: 51209
 coordinates:
-  longitudestring: 18 00 E
-  latitudestring: 44 00 N
-  minlongitude: 15.747222
-  minlatitude: 42.558056
-  maxlongitude: 19.618334
-  maxlatitude: 45.268333
-  latitude: 44.165333
-  longitude: 17.790241
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.7223665
+    minlatitude: 42.5564808
+    maxlongitude: 19.6237016
+    maxlatitude: 45.2766262
+    latitude: 43.915886
+    longitude: 17.679076

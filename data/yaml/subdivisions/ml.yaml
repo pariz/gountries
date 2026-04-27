@@ -1,126 +1,150 @@
+- name: Kayes
+  names:
+    - Kayes
+  code: "1"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -11.4719188
+    minlatitude: 14.4186581
+    maxlongitude: -11.3716221
+    maxlatitude: 14.4902814
+    latitude: 14.4367876
+    longitude: -11.4452717
+- name: Région de Taoudénit
+  code: "10"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -47.817425
+    minlatitude: -15.7804757
+    maxlongitude: -47.8095817
+    maxlatitude: -15.7724352
+    latitude: -15.7753392
+    longitude: -47.8138065
+- name: Koulikoro
+  names:
+    - Koulikoro
+  code: "2"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -7.571923199999999
+    minlatitude: 12.8513625
+    maxlongitude: -7.5457191
+    maxlatitude: 12.8789565
+    latitude: 12.861111
+    longitude: -7.558332999999999
+- name: Sikasso
+  names:
+    - Sikasso
+  code: "3"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.7206155
+    minlatitude: 11.2896322
+    maxlongitude: -5.634414
+    maxlatitude: 11.3538204
+    latitude: 11.316667
+    longitude: -5.666666999999999
+- name: Ségou
+  names:
+    - Ségou
+  code: "4"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -6.3270675
+    minlatitude: 13.4017673
+    maxlongitude: -6.2011928
+    maxlatitude: 13.4589132
+    latitude: 13.45
+    longitude: -6.266667
 - name: Mopti
   names:
-  - Mopti
+    - Mopti
   code: "5"
   countryalpha2: ML
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -4.204553
-    minlatitude: 14.452631
-    maxlongitude: -4.1471443
-    maxlatitude: 14.517884
+    minlongitude: -4.2045531
+    minlatitude: 14.4526312
+    maxlongitude: -4.1471441
+    maxlatitude: 14.5178846
     latitude: 14.495833
     longitude: -4.198611
 - name: Tombouctou
   names:
-  - Tombouctou
+    - Tombouctou
   code: "6"
   countryalpha2: ML
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -3.0226994
-    minlatitude: 16.752605
+    minlatitude: 16.7526054
     maxlongitude: -2.9932594
-    maxlatitude: 16.790161
-    latitude: 16.766588
-    longitude: -3.0025616
+    maxlatitude: 16.7901617
+    latitude: 16.7665887
+    longitude: -3.0025615
 - name: Gao
   names:
-  - Gao
+    - Gao
   code: "7"
   countryalpha2: ML
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -0.0576808
-    minlatitude: 16.223736
+    minlatitude: 16.2237359
     maxlongitude: 0.0254726
-    maxlatitude: 16.304796
-    latitude: 16.26398
+    maxlatitude: 16.3047953
+    latitude: 16.2639807
     longitude: -0.0279867
 - name: Kidal
   names:
-  - Kidal
+    - Kidal
   code: "8"
   countryalpha2: ML
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 1.39359
-    minlatitude: 18.422617
+    minlatitude: 18.4226161
     maxlongitude: 1.4252616
-    maxlatitude: 18.464773
+    maxlatitude: 18.4647725
     latitude: 18.438889
     longitude: 1.408333
+- name: Région de Ménaka
+  code: "9"
+  countryalpha2: ML
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Bamako
   names:
-  - Bamako
+    - Bamako
   code: BKO
   countryalpha2: ML
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -8.115081
-    minlatitude: 12.490909
-    maxlongitude: -7.875945
-    maxlatitude: 12.732974
+    minlongitude: -8.1150808
+    minlatitude: 12.4909088
+    maxlongitude: -7.8759453
+    maxlatitude: 12.7329742
     latitude: 12.65
-    longitude: 0
-- name: Sikasso
-  names:
-  - Sikasso
-  code: "3"
-  countryalpha2: ML
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -5.7206154
-    minlatitude: 11.289632
-    maxlongitude: -5.634414
-    maxlatitude: 11.353821
-    latitude: 11.316667
-    longitude: -5.666667
-- name: Koulikoro
-  names:
-  - Koulikoro
-  code: "2"
-  countryalpha2: ML
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -7.5719233
-    minlatitude: 12.851362
-    maxlongitude: -7.545719
-    maxlatitude: 12.878957
-    latitude: 12.861111
-    longitude: -7.558333
-- name: Ségou
-  names:
-  - Ségou
-  code: "4"
-  countryalpha2: ML
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -6.3270674
-    minlatitude: 13.401768
-    maxlongitude: -6.201193
-    maxlatitude: 13.458913
-    latitude: 13.45
-    longitude: -6.266667
-- name: Kayes
-  names:
-  - Kayes
-  code: "1"
-  countryalpha2: ML
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -11.471919
-    minlatitude: 14.418658
-    maxlongitude: -11.371622
-    maxlatitude: 14.490281
-    latitude: 14.436788
-    longitude: -11.4452715
+    longitude: -8

@@ -1,65 +1,110 @@
 name:
-  common: Barbados
-  official: Barbados
-  native:
-    eng:
-      common: Barbados
-      official: Barbados
+    common: Barbados
+    official: Barbados
+    native:
+        eng:
+            common: Barbados
+            official: Barbados
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Barbadian
 tlds:
-- .bb
+    - .bb
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Barbados
-    official: Barbados
-  FIN:
-    common: Barbados
-    official: Barbados
-  FRA:
-    common: Barbade
-    official: Barbade
-  HRV:
-    common: Barbados
-    official: Barbados
-  ITA:
-    common: Barbados
-    official: Barbados
-  NLD:
-    common: Barbados
-    official: Barbados
-  POR:
-    common: Barbados
-    official: Barbados
-  SPA:
-    common: Barbados
-    official: Barbados
+    ARA:
+        common: باربادوس
+        official: باربادوس
+    CES:
+        common: Barbados
+        official: Barbados
+    DEU:
+        common: Barbados
+        official: Barbados
+    EST:
+        common: Barbados
+        official: Barbados
+    FIN:
+        common: Barbados
+        official: Barbados
+    FRA:
+        common: Barbade
+        official: Barbade
+    HRV:
+        common: Barbados
+        official: Barbados
+    HUN:
+        common: Barbados
+        official: Barbados
+    ITA:
+        common: Barbados
+        official: Barbados
+    JPN:
+        common: バルバドス
+        official: バルバドス
+    KOR:
+        common: 바베이도스
+        official: 바베이도스
+    NLD:
+        common: Barbados
+        official: Barbados
+    PER:
+        common: باربادوس
+        official: باربادوس
+    POL:
+        common: Barbados
+        official: Barbados
+    POR:
+        common: Barbados
+        official: Barbados
+    RUS:
+        common: Барбадос
+        official: Барбадос
+    SLK:
+        common: Barbados
+        official: Barbados
+    SPA:
+        common: Barbados
+        official: Barbados
+    SRP:
+        common: Barbados
+        official: Barbados
+    SWE:
+        common: Barbados
+        official: Barbados
+    TUR:
+        common: Barbados
+        official: Barbados
+    URD:
+        common: بارباڈوس
+        official: بارباڈوس
+    ZHO:
+        common: 巴巴多斯
+        official: 巴巴多斯
 currencies:
-- BBD
-borders: []
+    - BBD
 codes:
-  alpha2: BB
-  alpha3: BRB
-  cioc: BAR
-  ccn3: "052"
-  callingcodes:
-  - "1246"
-  internationalprefix: "011"
+    alpha2: BB
+    alpha3: BRB
+    cioc: BAR
+    ccn3: "052"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Bridgetown
-  area: 430
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Bridgetown
+    area: 430
 coordinates:
-  longitudestring: 59 32 W
-  latitudestring: 13 10 N
-  minlongitude: -59.65
-  minlatitude: 13.033333
-  maxlongitude: -59.416668
-  maxlatitude: 13.333333
-  latitude: 13.178099
-  longitude: -59.548595
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.6530151
+    minlatitude: 13.039844
+    maxlongitude: -59.4174957
+    maxlatitude: 13.3365093
+    latitude: 13.193887
+    longitude: -59.543198

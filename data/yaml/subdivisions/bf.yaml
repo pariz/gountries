@@ -1,147 +1,162 @@
-- name: Mouhoun
-  names:
-  - Mouhoun
-  code: MOU
+- name: Boucle du Mouhoun
+  code: "01"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -3.984274
-    minlatitude: 11.727559
-    maxlongitude: -2.797602
-    maxlatitude: 12.746741
-    latitude: 12.143238
-    longitude: -3.3388917
-- name: Zondoma
-  names:
-  - Zondoma
-  code: ZON
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Cascades
+  code: "02"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.727262
-    minlatitude: 12.953415
-    maxlongitude: -2.0683491
-    maxlatitude: 13.35255
-    latitude: 13.116592
-    longitude: -2.4208713
-- name: Banwa
-  names:
-  - Banwa
-  code: BAN
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Centre
+  code: "03"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -4.646696
-    minlatitude: 11.687353
-    maxlongitude: -3.5671952
-    maxlatitude: 12.731423
-    latitude: 12.132305
-    longitude: -4.1513762
-- name: Boulkiemdé
-  names:
-  - Boulkiemdé
-  code: BLK
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Centre-Est
+  code: "04"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.5120628
-    minlatitude: 11.928603
-    maxlongitude: -1.774864
-    maxlatitude: 12.715336
-    latitude: 12.337376
-    longitude: -2.2236667
-- name: Comoé
-  names:
-  - Comoé
-  code: COM
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Centre-Nord
+  code: "05"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -5.131688
-    minlatitude: 9.594069
-    maxlongitude: -3.677724
-    maxlatitude: 10.906152
-    latitude: 10.407299
-    longitude: -4.562443
-- name: Kadiogo
-  names:
-  - Kadiogo
-  code: KAD
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Centre-Ouest
+  code: "06"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -1.838807
-    minlatitude: 12.028085
-    maxlongitude: -1.061279
-    maxlatitude: 12.651055
-    latitude: 12.342589
-    longitude: -1.443469
-- name: Ioba
-  names:
-  - Ioba
-  code: IOB
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Centre-Sud
+  code: "07"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -3.4346218
-    minlatitude: 10.702713
-    maxlongitude: -2.623533
-    maxlatitude: 11.348253
-    latitude: 11.056204
-    longitude: -3.0175712
-- name: Komondjari
-  names:
-  - Komandjoari
-  - Komondjari
-  code: KMD
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Est
+  code: "08"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0.223796
-    minlatitude: 12.3178835
-    maxlongitude: 1.327212
-    maxlatitude: 13.107947
-    latitude: 12.712653
-    longitude: 0.6773046
-- name: Kompienga
-  names:
-  - Kompienga
-  code: KMP
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Hauts-Bassins
+  code: "09"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0.406261
-    minlatitude: 10.930996
-    maxlongitude: 1.390587
-    maxlatitude: 11.938555
-    latitude: 11.523836
-    longitude: 0.7532809
-- name: Kourwéogo
-  names:
-  - Kourwéogo
-  code: KOW
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Nord
+  code: "10"
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.053207
-    minlatitude: 12.258193
-    maxlongitude: -1.6024919
-    maxlatitude: 12.854551
-    latitude: 12.707749
-    longitude: -1.7538817
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Plateau-Central
+  code: "11"
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sahel
+  code: "12"
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sud-Ouest
+  code: "13"
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Balé
   names:
-  - Balé
+    - Balé
   code: BAL
   countryalpha2: BF
   coordinates:
@@ -153,9 +168,65 @@
     maxlatitude: 0
     latitude: 13.383333
     longitude: 0.133333
+- name: Bam
+  names:
+    - Bam
+  code: BAM
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.5372276
+    minlatitude: 13.3089475
+    maxlongitude: -1.4912223
+    maxlatitude: 13.4943028
+    latitude: 13.4061979
+    longitude: -1.5160212
+- name: Banwa
+  names:
+    - Banwa
+  code: BAN
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.646695999999999
+    minlatitude: 11.687353
+    maxlongitude: -3.5671951
+    maxlatitude: 12.731423
+    latitude: 12.1323053
+    longitude: -4.1513764
+- name: Bazèga
+  names:
+    - Bazèga
+  code: BAZ
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.995481
+    minlatitude: 11.5704171
+    maxlongitude: -0.8822188999999999
+    maxlatitude: 12.186012
+    latitude: 11.9767692
+    longitude: -1.443469
+- name: Bougouriba
+  names:
+    - Bougouriba
+  code: BGR
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.7324119
+    minlatitude: 10.573969
+    maxlongitude: -3.0406049
+    maxlatitude: 11.164746
+    latitude: 10.8722646
+    longitude: -3.3388917
 - name: Boulgou
   names:
-  - Boulgou
+    - Boulgou
   code: BLG
   countryalpha2: BF
   coordinates:
@@ -165,67 +236,222 @@
     minlatitude: 10.90218
     maxlongitude: 0.025269
     maxlatitude: 11.992653
-    latitude: 11.433677
+    latitude: 11.4336766
     longitude: -0.3748354
+- name: Boulkiemdé
+  names:
+    - Boulkiemdé
+  code: BLK
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.5120629
+    minlatitude: 11.9286029
+    maxlongitude: -1.7748639
+    maxlatitude: 12.715336
+    latitude: 12.3373752
+    longitude: -2.2236667
+- name: Comoé
+  names:
+    - Comoé
+  code: COM
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.131688
+    minlatitude: 9.594069
+    maxlongitude: -3.677724
+    maxlatitude: 10.906152
+    latitude: 10.4072992
+    longitude: -4.5624426
+- name: Ganzourgou
+  names:
+    - Ganzourgou
+  code: GAN
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.11665
+    minlatitude: 11.83368
+    maxlongitude: -0.417549
+    maxlatitude: 12.6701701
+    latitude: 12.2537648
+    longitude: -0.7532808999999999
 - name: Gnagna
   names:
-  - Gnagna
+    - Gnagna
   code: GNA
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -0.391241
-    minlatitude: 12.246585
+    minlatitude: 12.2465851
     maxlongitude: 0.5907659
     maxlatitude: 13.564223
-    latitude: 12.897499
+    latitude: 12.8974992
     longitude: 0.0746767
+- name: Gourma
+  names:
+    - Gourma
+  code: GOU
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.14185
+    minlatitude: 11.653354
+    maxlongitude: 1.325947
+    maxlatitude: 12.774307
+    latitude: 12.1624473
+    longitude: 0.6773045999999999
 - name: Houet
   names:
-  - Houet
+    - Houet
   code: HOU
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -4.830123
-    minlatitude: 10.668477
+    minlatitude: 10.6684769
     maxlongitude: -3.606641
-    maxlatitude: 12.094728
-    latitude: 11.132045
+    maxlatitude: 12.0947281
+    latitude: 11.1320447
     longitude: -4.2333355
-- name: Sissili
+- name: Ioba
   names:
-  - Sissili
-  code: SIS
+    - Ioba
+  code: IOB
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.81077
-    minlatitude: 10.976135
-    maxlongitude: -1.4617729
-    maxlatitude: 11.928603
-    latitude: 11.244122
-    longitude: -2.2236667
-- name: Tui
+    minlongitude: -3.4346219
+    minlatitude: 10.7027129
+    maxlongitude: -2.6235329
+    maxlatitude: 11.348253
+    latitude: 11.0562034
+    longitude: -3.0175712
+- name: Kadiogo
   names:
-  - Tui
-  code: TUI
+    - Kadiogo
+  code: KAD
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -3.979866
-    minlatitude: 10.980337
-    maxlongitude: -2.831935
-    maxlatitude: 11.87174
-    latitude: 11.5029
-    longitude: -3.5812693
+    minlongitude: -1.838807
+    minlatitude: 12.0280849
+    maxlongitude: -1.061279
+    maxlatitude: 12.651055
+    latitude: 12.3425897
+    longitude: -1.443469
+- name: Kénédougou
+  names:
+    - Kénédougou
+  code: KEN
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.496531
+    minlatitude: 10.818135
+    maxlongitude: -4.5546
+    maxlatitude: 12.0652081
+    latitude: 11.3919395
+    longitude: -4.976654
+- name: Komondjari
+  names:
+    - Komandjoari
+    - Komondjari
+  code: KMD
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.223796
+    minlatitude: 12.3178831
+    maxlongitude: 1.327212
+    maxlatitude: 13.1079471
+    latitude: 12.7126527
+    longitude: 0.6773045999999999
+- name: Kompienga
+  names:
+    - Kompienga
+  code: KMP
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.406261
+    minlatitude: 10.930996
+    maxlongitude: 1.390587
+    maxlatitude: 11.9385549
+    latitude: 11.5238362
+    longitude: 0.7532808999999999
+- name: Koulpélogo
+  names:
+    - Koulpélogo
+  code: KOP
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.197487
+    minlatitude: 11.028617
+    maxlongitude: 0.558619
+    maxlatitude: 11.7926739
+    latitude: 11.5247674
+    longitude: 0.1494988
+- name: Kossi
+  names:
+    - Kossi
+  code: KOS
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.3569829
+    minlatitude: 12.3918809
+    maxlongitude: -3.420758
+    maxlatitude: 13.5011959
+    latitude: 12.960458
+    longitude: -3.9062688
+- name: Kouritenga
+  names:
+    - Kouritenga
+  code: KOT
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -0.549895
+    minlatitude: 11.800252
+    maxlongitude: -0.013345
+    maxlatitude: 12.5637131
+    latitude: 12.1631813
+    longitude: -0.2244662
+- name: Kourwéogo
+  names:
+    - Kourwéogo
+  code: KOW
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.053207
+    minlatitude: 12.258193
+    maxlongitude: -1.6024919
+    maxlatitude: 12.854551
+    latitude: 12.7077495
+    longitude: -1.7538817
 - name: Léraba
   names:
-  - Léraba
+    - Léraba
   code: LER
   countryalpha2: BF
   coordinates:
@@ -234,194 +460,54 @@
     minlongitude: -5.518916
     minlatitude: 10.285268
     maxlongitude: -4.950835
-    maxlatitude: 11.063068
-    latitude: 10.664879
-    longitude: -5.3102503
-- name: Oubritenga
-  names:
-  - Oubritenga
-  code: OUB
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.711143
-    minlatitude: 12.228066
-    maxlongitude: -0.8792981
-    maxlatitude: 12.898948
-    latitude: 12.709609
-    longitude: -1.443469
-- name: Oudalan
-  names:
-  - Oudalan
-  code: OUD
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.036602
-    minlatitude: 14.16146
-    maxlongitude: 0.237572
-    maxlatitude: 15.082593
-    latitude: 14.471902
-    longitude: -0.4502368
-- name: Poni
-  names:
-  - Poni
-  code: PON
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -3.960881
-    minlatitude: 9.851627
-    maxlongitude: -2.762533
-    maxlatitude: 10.7633295
-    latitude: 10.3326
-    longitude: -3.3388917
-- name: Noumbiel
-  names:
-  - Noumbiel
-  code: NOU
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -3.2736118
-    minlatitude: 9.401108
-    maxlongitude: -2.689926
-    maxlatitude: 10.179468
-    latitude: 9.844094
-    longitude: -2.9775558
-- name: Ziro
-  names:
-  - Ziro
-  code: ZIR
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -2.337875
-    minlatitude: 11.293042
-    maxlongitude: -1.288668
-    maxlatitude: 12.017244
-    latitude: 11.6095
-    longitude: -1.9099238
-- name: Zoundwéogo
-  names:
-  - Zoundwéogo
-  code: ZOU
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.336139
-    minlatitude: 11.161501
-    maxlongitude: -0.552774
-    maxlatitude: 11.909723
-    latitude: 11.614118
-    longitude: -0.9820668
-- name: Bam
-  names:
-  - Bam
-  code: BAM
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.5372276
-    minlatitude: 13.308948
-    maxlongitude: -1.4912223
-    maxlatitude: 13.494303
-    latitude: 13.406198
-    longitude: -1.5160213
-- name: Kossi
-  names:
-  - Kossi
-  code: KOS
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -4.3569827
-    minlatitude: 12.391881
-    maxlongitude: -3.420758
-    maxlatitude: 13.501196
-    latitude: 12.960458
-    longitude: -3.9062688
+    maxlatitude: 11.0630681
+    latitude: 10.6648785
+    longitude: -5.3102505
 - name: Loroum
   names:
-  - Loroum
+    - Loroum
   code: LOR
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.662622
+    minlongitude: -2.6626219
     minlatitude: 13.543141
     maxlongitude: -1.741041
     maxlatitude: 14.287777
-    latitude: 13.812982
+    latitude: 13.8129814
     longitude: -2.0665197
-- name: Sanmatenga
+- name: Mouhoun
   names:
-  - Sanmatenga
-  code: SMT
+    - Mouhoun
+  code: MOU
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -1.558366
-    minlatitude: 12.508294
-    maxlongitude: -0.656181
-    maxlatitude: 13.94149
-    latitude: 13.35653
-    longitude: -1.0586135
-- name: Tapoa
-  names:
-  - Tapoa
-  code: TAP
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.188077
-    minlatitude: 11.390404
-    maxlongitude: 2.405395
-    maxlatitude: 12.835267
-    latitude: 12.249707
-    longitude: 1.6760691
-- name: Bazèga
-  names:
-  - Bazèga
-  code: BAZ
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -1.995481
-    minlatitude: 11.570417
-    maxlongitude: -0.8822189
-    maxlatitude: 12.186012
-    latitude: 11.976769
-    longitude: -1.443469
+    minlongitude: -3.984274
+    minlatitude: 11.7275591
+    maxlongitude: -2.7976019
+    maxlatitude: 12.746741
+    latitude: 12.1432381
+    longitude: -3.3388917
 - name: Namentenga
   names:
-  - Namentenga
+    - Namentenga
   code: NAM
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -0.816957
-    minlatitude: 12.389976
+    minlatitude: 12.3899759
     maxlongitude: -0.2123129
     maxlatitude: 13.991249
-    latitude: 13.081259
-    longitude: -0.5257823
+    latitude: 13.0812584
+    longitude: -0.5257822999999999
 - name: Nahouri
   names:
-  - Naouri
+    - Naouri
   code: NAO
   countryalpha2: BF
   coordinates:
@@ -431,39 +517,165 @@
     minlatitude: 10.959089
     maxlongitude: -0.6820199
     maxlatitude: 11.522449
-    latitude: 11.250227
+    latitude: 11.2502267
     longitude: -1.135302
+- name: Nayala
+  names:
+    - Nayala
+  code: NAY
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.4210301
+    minlatitude: 12.338824
+    maxlongitude: -2.6541769
+    maxlatitude: 12.9881389
+    latitude: 12.6964558
+    longitude: -3.0175712
+- name: Noumbiel
+  names:
+    - Noumbiel
+  code: NOU
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2736119
+    minlatitude: 9.401107999999999
+    maxlongitude: -2.689926
+    maxlatitude: 10.1794679
+    latitude: 9.8440946
+    longitude: -2.9775558
+- name: Oubritenga
+  names:
+    - Oubritenga
+  code: OUB
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.711143
+    minlatitude: 12.2280669
+    maxlongitude: -0.8792981
+    maxlatitude: 12.898948
+    latitude: 12.7096087
+    longitude: -1.443469
+- name: Oudalan
+  names:
+    - Oudalan
+  code: OUD
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.036602
+    minlatitude: 14.1614599
+    maxlongitude: 0.237572
+    maxlatitude: 15.0825929
+    latitude: 14.471902
+    longitude: -0.4502368
+- name: Passoré
+  names:
+    - Passoré
+  code: PAS
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.7353291
+    minlatitude: 12.616918
+    maxlongitude: -1.5174049
+    maxlatitude: 13.1489779
+    latitude: 12.8881221
+    longitude: -2.2236667
+- name: Poni
+  names:
+    - Poni
+  code: PON
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.960880999999999
+    minlatitude: 9.851626999999999
+    maxlongitude: -2.762533
+    maxlatitude: 10.7633291
+    latitude: 10.3325996
+    longitude: -3.3388917
 - name: Séno
   names:
-  - Séno
+    - Séno
   code: SEN
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -0.629656
-    minlatitude: 13.5140085
+    minlatitude: 13.5140089
     maxlongitude: 0.53044
-    maxlatitude: 14.439069
-    latitude: 14.007223
+    maxlatitude: 14.4390691
+    latitude: 14.0072234
     longitude: -0.0746767
+- name: Sissili
+  names:
+    - Sissili
+  code: SIS
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.81077
+    minlatitude: 10.976135
+    maxlongitude: -1.4617729
+    maxlatitude: 11.9286029
+    latitude: 11.2441219
+    longitude: -2.2236667
+- name: Sanmatenga
+  names:
+    - Sanmatenga
+  code: SMT
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -1.558366
+    minlatitude: 12.508294
+    maxlongitude: -0.656181
+    maxlatitude: 13.94149
+    latitude: 13.3565304
+    longitude: -1.0586135
+- name: Sanguié
+  names:
+    - Sanguié
+  code: SNG
+  countryalpha2: BF
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.9356
+    minlatitude: 11.6107929
+    maxlongitude: -2.2357741
+    maxlatitude: 12.8316141
+    latitude: 12.1501861
+    longitude: -2.6983868
 - name: Soum
   names:
-  - Soum
+    - Soum
   code: SOM
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -2.317958
-    minlatitude: 12.572802
-    maxlongitude: -2.2242115
-    maxlatitude: 12.6329365
+    minlongitude: -2.3179582
+    minlatitude: 12.5728018
+    maxlongitude: -2.2242114
+    maxlatitude: 12.6329361
     latitude: 12.600536
     longitude: -2.2728877
 - name: Sourou
   names:
-  - Sourou
+    - Sourou
   code: SOR
   countryalpha2: BF
   coordinates:
@@ -474,80 +686,52 @@
     maxlongitude: -2.455232
     maxlatitude: 13.718467
     latitude: 13.341803
-    longitude: -2.937574
-- name: Gourma
+    longitude: -2.9375739
+- name: Tapoa
   names:
-  - Gourma
-  code: GOU
+    - Tapoa
+  code: TAP
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -0.14185
-    minlatitude: 11.653354
-    maxlongitude: 1.325947
-    maxlatitude: 12.774307
-    latitude: 12.162447
-    longitude: 0.6773046
-- name: Kénédougou
+    minlongitude: 1.188077
+    minlatitude: 11.390404
+    maxlongitude: 2.405395
+    maxlatitude: 12.835267
+    latitude: 12.2497072
+    longitude: 1.6760691
+- name: Tui
   names:
-  - Kénédougou
-  code: KEN
+    - Tui
+  code: TUI
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -5.496531
-    minlatitude: 10.818135
-    maxlongitude: -4.5546
-    maxlatitude: 12.065208
-    latitude: 11.391939
-    longitude: -4.976654
-- name: Nayala
+    minlongitude: -3.9798661
+    minlatitude: 10.9803371
+    maxlongitude: -2.831935
+    maxlatitude: 11.8717401
+    latitude: 11.5029004
+    longitude: -3.5812692
+- name: Yagha
   names:
-  - Nayala
-  code: NAY
+    - Yagha
+  code: YAG
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -3.42103
-    minlatitude: 12.338824
-    maxlongitude: -2.654177
-    maxlatitude: 12.988139
-    latitude: 12.696456
-    longitude: -3.0175712
-- name: Passoré
-  names:
-  - Passoré
-  code: PAS
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -2.7353292
-    minlatitude: 12.616918
-    maxlongitude: -1.5174049
-    maxlatitude: 13.148978
-    latitude: 12.888123
-    longitude: -2.2236667
-- name: Koulpélogo
-  names:
-  - Koulpélogo
-  code: KOP
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -0.197487
-    minlatitude: 11.028617
-    maxlongitude: 0.558619
-    maxlatitude: 11.792674
-    latitude: 11.524768
-    longitude: 0.1494988
+    minlongitude: 0.04778900000000001
+    minlatitude: 12.9720259
+    maxlongitude: 1.282974
+    maxlatitude: 13.8406751
+    latitude: 13.3576157
+    longitude: 0.7532808999999999
 - name: Yatenga
   names:
-  - Yatenga
+    - Yatenga
   code: YAT
   countryalpha2: BF
   coordinates:
@@ -557,75 +741,47 @@
     minlatitude: 13.017303
     maxlongitude: -1.737376
     maxlatitude: 14.145415
-    latitude: 13.624934
-    longitude: -2.3813622
-- name: Yagha
+    latitude: 13.6249344
+    longitude: -2.3813621
+- name: Ziro
   names:
-  - Yagha
-  code: YAG
+    - Ziro
+  code: ZIR
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 0.047789
-    minlatitude: 12.972026
-    maxlongitude: 1.282974
-    maxlatitude: 13.840675
-    latitude: 13.357615
-    longitude: 0.7532809
-- name: Bougouriba
+    minlongitude: -2.337875
+    minlatitude: 11.2930421
+    maxlongitude: -1.288668
+    maxlatitude: 12.017244
+    latitude: 11.6094995
+    longitude: -1.9099238
+- name: Zondoma
   names:
-  - Bougouriba
-  code: BGR
+    - Zondoma
+  code: ZON
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -3.7324119
-    minlatitude: 10.573969
-    maxlongitude: -3.0406048
-    maxlatitude: 11.164746
-    latitude: 10.872265
-    longitude: -3.3388917
-- name: Ganzourgou
+    minlongitude: -2.7272621
+    minlatitude: 12.9534151
+    maxlongitude: -2.0683491
+    maxlatitude: 13.35255
+    latitude: 13.1165926
+    longitude: -2.4208713
+- name: Zoundwéogo
   names:
-  - Ganzourgou
-  code: GAN
+    - Zoundwéogo
+  code: ZOU
   countryalpha2: BF
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -1.11665
-    minlatitude: 11.83368
-    maxlongitude: -0.417549
-    maxlatitude: 12.67017
-    latitude: 12.253765
-    longitude: -0.7532809
-- name: Kouritenga
-  names:
-  - Kouritenga
-  code: KOT
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -0.549895
-    minlatitude: 11.800252
-    maxlongitude: -0.013345
-    maxlatitude: 12.563713
-    latitude: 12.163181
-    longitude: -0.2244662
-- name: Sanguié
-  names:
-  - Sanguié
-  code: SNG
-  countryalpha2: BF
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -2.9356
-    minlatitude: 11.610793
-    maxlongitude: -2.235774
-    maxlatitude: 12.8316145
-    latitude: 12.150187
-    longitude: -2.698387
+    minlongitude: -1.336139
+    minlatitude: 11.1615009
+    maxlongitude: -0.5527740000000001
+    maxlatitude: 11.909723
+    latitude: 11.6141174
+    longitude: -0.9820667999999999

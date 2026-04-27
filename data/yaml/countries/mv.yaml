@@ -1,65 +1,110 @@
 name:
-  common: Maldives
-  official: Republic of the Maldives
-  native:
-    div:
-      common: ދިވެހިރާއްޖޭގެ
-      official: ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ
+    common: Maldives
+    official: The Republic of Maldives
+    native:
+        div:
+            common: ދިވެހިރާއްޖޭގެ
+            official: ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Maldivan
 tlds:
-- .mv
+    - .mv
 languages:
-  div: Maldivian
+    div: Maldivian
+    dv: ""
 translations:
-  DEU:
-    common: Malediven
-    official: Republik Malediven
-  FIN:
-    common: Malediivit
-    official: Malediivien tasavalta
-  FRA:
-    common: Maldives
-    official: République des Maldives
-  HRV:
-    common: Maldivi
-    official: Republika Maldivi
-  JPN:
-    common: モルディブ
-    official: モルディブ共和国
-  NLD:
-    common: Maldiven
-    official: Republiek van de Malediven
-  RUS:
-    common: Мальдивы
-    official: Республика Мальдивы
-  SPA:
-    common: Maldivas
-    official: República de las Maldivas
+    ARA:
+        common: المالديف
+        official: جمهورية المالديف
+    CES:
+        common: Maledivy
+        official: Maledivská republika
+    DEU:
+        common: Malediven
+        official: Republik Malediven
+    EST:
+        common: Maldiivid
+        official: Maldiivi Vabariik
+    FIN:
+        common: Malediivit
+        official: Malediivien tasavalta
+    FRA:
+        common: Maldives
+        official: République des Maldives
+    HRV:
+        common: Maldivi
+        official: Republika Maldivi
+    HUN:
+        common: Maldív-szigetek
+        official: Maldív-szigetek
+    ITA:
+        common: Maldive
+        official: Repubblica delle Maldive
+    JPN:
+        common: モルディブ
+        official: モルディブ共和国
+    KOR:
+        common: 몰디브
+        official: 몰디브 공화국
+    NLD:
+        common: Maldiven
+        official: Republiek van de Malediven
+    PER:
+        common: مالدیو
+        official: جمهوری مالدیو
+    POL:
+        common: Malediwy
+        official: Republika Malediwów
+    POR:
+        common: Maldivas
+        official: República das Maldivas
+    RUS:
+        common: Мальдивы
+        official: Республика Мальдивы
+    SLK:
+        common: Maldivy
+        official: Maldivská republika
+    SPA:
+        common: Maldivas
+        official: República de las Maldivas
+    SRP:
+        common: Maldivi
+        official: Republika Maldivi
+    SWE:
+        common: Maldiverna
+        official: Republiken Maldiverna
+    TUR:
+        common: Maldivler
+        official: Maldivler Cumhuriyeti
+    URD:
+        common: مالدیپ
+        official: جمہوریہ مالدیپ
+    ZHO:
+        common: 马尔代夫
+        official: 马尔代夫共和国
 currencies:
-- MVR
-borders: []
+    - MVR
 codes:
-  alpha2: MV
-  alpha3: MDV
-  cioc: MDV
-  ccn3: "462"
-  callingcodes:
-  - "960"
-  internationalprefix: "00"
+    alpha2: MV
+    alpha3: MDV
+    cioc: MDV
+    ccn3: "462"
+    callingcodes:
+        - "960"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Malé
-  area: 300
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Malé
+    area: 300
 coordinates:
-  longitudestring: 73 00 E
-  latitudestring: 3 15 N
-  minlongitude: 72.583336
-  minlatitude: -0.7
-  maxlongitude: 73.7
-  maxlatitude: 7.1
-  latitude: 4.185885
-  longitude: 73.530716
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 71.75170899999999
+    minlatitude: -1.2907844
+    maxlongitude: 74.7290038
+    maxlatitude: 7.5149809
+    latitude: 3.202778
+    longitude: 73.22068

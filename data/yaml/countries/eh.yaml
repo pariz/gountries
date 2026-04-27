@@ -1,81 +1,121 @@
 name:
-  common: Western Sahara
-  official: Sahrawi Arab Democratic Republic
-  native:
-    ber:
-      common: Western Sahara
-      official: Sahrawi Arab Democratic Republic
-    mey:
-      common: الصحراء الغربية
-      official: الجمهورية العربية الصحراوية الديمقراطية
-    spa:
-      common: Sahara Occidental
-      official: República Árabe Saharaui Democrática
+    common: Western Sahara
+    official: The Sahrawi Arab Democratic Republic
+    native:
+        ber:
+            common: Western Sahara
+            official: Sahrawi Arab Democratic Republic
+        mey:
+            common: الصحراء الغربية
+            official: الجمهورية العربية الصحراوية الديمقراطية
+        spa:
+            common: Sahara Occidental
+            official: República Árabe Saharaui Democrática
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sahrawi
 tlds:
-- .eh
+    - .eh
 languages:
-  ber: Berber
-  mey: Hassaniya
-  spa: Spanish
+    ber: Berber
+    es: ""
+    fr: ""
+    mey: Hassaniya
+    spa: Spanish
 translations:
-  DEU:
-    common: Westsahara
-    official: Demokratische Arabische Republik Sahara
-  FRA:
-    common: Sahara Occidental
-    official: République arabe sahraouie démocratique
-  HRV:
-    common: Zapadna Sahara
-    official: Sahrawi Arab Demokratska Republika
-  ITA:
-    common: Sahara Occidentale
-    official: Repubblica Araba Saharawi Democratica
-  JPN:
-    common: 西サハラ
-    official: サハラアラブ民主共和国
-  NLD:
-    common: Westelijke Sahara
-    official: Sahrawi Arabische Democratische Republiek
-  POR:
-    common: Saara Ocidental
-    official: República Árabe Saharaui Democrática
-  RUS:
-    common: Западная Сахара
-    official: Sahrawi Арабская Демократическая Республика
-  SPA:
-    common: Sahara Occidental
-    official: República Árabe Saharaui Democrática
+    ARA:
+        common: الصحراء الغربية
+        official: الجمهورية العربية الصحراوية الديمقراطية
+    CES:
+        common: Západní Sahara
+        official: Západní Sahara
+    DEU:
+        common: Westsahara
+        official: Demokratische Arabische Republik Sahara
+    EST:
+        common: Lääne-Sahara
+        official: Lääne-Sahara
+    FIN:
+        common: Länsi-Sahara
+        official: Länsi-Sahara
+    FRA:
+        common: Sahara Occidental
+        official: République arabe sahraouie démocratique
+    HRV:
+        common: Zapadna Sahara
+        official: Sahrawi Arab Demokratska Republika
+    HUN:
+        common: Nyugat-Szahara
+        official: Nyugat-Szahara
+    ITA:
+        common: Sahara Occidentale
+        official: Repubblica Araba Saharawi Democratica
+    JPN:
+        common: 西サハラ
+        official: 西サハラ
+    KOR:
+        common: 서사하라
+        official: 사하라 아랍 민주 공화국
+    NLD:
+        common: Westelijke Sahara
+        official: Sahrawi Arabische Democratische Republiek
+    PER:
+        common: صحرای غربی
+        official: صحرای غربی
+    POL:
+        common: Sahara Zachodnia
+        official: Saharyjska Arabska Republika Demokratyczna
+    POR:
+        common: Saara Ocidental
+        official: República Árabe Saharaui Democrática
+    RUS:
+        common: Западная Сахара
+        official: Sahrawi Арабская Демократическая Республика
+    SLK:
+        common: Západná Sahara
+        official: Západná Sahara
+    SPA:
+        common: Sahara Occidental
+        official: República Árabe Saharaui Democrática
+    SRP:
+        common: Zapadna Sahara
+        official: Saharska Arapska Demokratska Republika
+    SWE:
+        common: Västsahara
+        official: Västsahara
+    TUR:
+        common: Sahra Demokratik Arap Cumhuriyeti
+        official: Sahra Demokratik Arap Cumhuriyeti
+    URD:
+        common: مغربی صحارا
+        official: صحراوی عرب عوامی جمہوریہ
+    ZHO:
+        common: 西撒哈拉
+        official: 阿拉伯撒哈拉民主共和国
 currencies:
-- MAD
-- DZD
-- MRO
+    - MAD
 borders:
-- DZA
-- MRT
-- MAR
+    - DZA
+    - MRT
+    - MAR
 codes:
-  alpha2: EH
-  alpha3: ESH
-  cioc: ""
-  ccn3: "732"
-  callingcodes:
-  - "212"
-  internationalprefix: ""
+    alpha2: EH
+    alpha3: ESH
+    ccn3: "732"
+    callingcodes:
+        - "212"
 geo:
-  region: Africa
-  subregion: Northern Africa
-  continent: Africa
-  capital: El Aaiún
-  area: 266000
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: El Aaiún
+    area: 266000
 coordinates:
-  longitudestring: 13 00 W
-  latitudestring: 24 30 N
-  minlongitude: -17.110556
-  minlatitude: 20.8
-  maxlongitude: -8.666667
-  maxlatitude: 27.666668
-  latitude: 25
-  longitude: -13
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.4573001
+    minlatitude: 20.427
+    maxlongitude: -8.667525
+    maxlatitude: 27.7223999
+    latitude: 24.215527
+    longitude: -12.885834

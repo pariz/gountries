@@ -1,66 +1,115 @@
 name:
-  common: Samoa
-  official: Independent State of Samoa
-  native:
-    eng:
-      common: Samoa
-      official: Independent State of Samoa
-    smo:
-      common: Sāmoa
-      official: Malo Saʻoloto Tutoʻatasi o Sāmoa
+    common: Samoa
+    official: The Independent State of Samoa
+    native:
+        eng:
+            common: Samoa
+            official: Independent State of Samoa
+        smo:
+            common: Sāmoa
+            official: Malo Saʻoloto Tutoʻatasi o Sāmoa
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Samoan
 tlds:
-- .ws
+    - .ws
 languages:
-  eng: English
-  smo: Samoan
+    en: ""
+    eng: English
+    sm: ""
+    smo: Samoan
 translations:
-  DEU:
-    common: Samoa
-    official: Unabhängige Staat Samoa
-  FIN:
-    common: Samoa
-    official: Samoan itsenäinen valtio
-  FRA:
-    common: Samoa
-    official: Samoa
-  HRV:
-    common: Samoa
-    official: Nezavisna Država Samoa
-  NLD:
-    common: Samoa
-    official: Onafhankelijke Staat Samoa
-  POR:
-    common: Samoa
-    official: Estado Independente de Samoa
-  SPA:
-    common: Samoa
-    official: Estado Independiente de Samoa
+    ARA:
+        common: ساموا
+        official: دولة ساموا المستقلة
+    CES:
+        common: Samoa
+        official: Nezávislý stát Samoa
+    DEU:
+        common: Samoa
+        official: Unabhängige Staat Samoa
+    EST:
+        common: Samoa
+        official: Samoa Iseseisvusriik
+    FIN:
+        common: Samoa
+        official: Samoan itsenäinen valtio
+    FRA:
+        common: Samoa
+        official: Samoa
+    HRV:
+        common: Samoa
+        official: Nezavisna Država Samoa
+    HUN:
+        common: Szamoa
+        official: Szamoai Független Állam
+    ITA:
+        common: Samoa
+        official: Stato indipendente di Samoa
+    JPN:
+        common: サモア
+        official: サモア独立国
+    KOR:
+        common: 사모아
+        official: 사모아 독립국
+    NLD:
+        common: Samoa
+        official: Onafhankelijke Staat Samoa
+    PER:
+        common: ساموآ
+        official: ایالت مستقل ساموآ
+    POL:
+        common: Samoa
+        official: Niezależne Państwo Samoa
+    POR:
+        common: Samoa
+        official: Estado Independente de Samoa
+    RUS:
+        common: Самоа
+        official: Независимое Государство Самоа
+    SLK:
+        common: Samoa
+        official: Nezávislý štátSamoa
+    SPA:
+        common: Samoa
+        official: Estado Independiente de Samoa
+    SRP:
+        common: Samoa
+        official: Nezavisna Država Samoa
+    SWE:
+        common: Samoa
+        official: Självständiga staten Samoa
+    TUR:
+        common: Bağımsız Samoa Devleti
+        official: Bağımsız Samoa Devleti
+    URD:
+        common: سامووا
+        official: آزاد سلطنتِ ساموا
+    ZHO:
+        common: 萨摩亚
+        official: 萨摩亚独立国
 currencies:
-- WST
-borders: []
+    - WST
 codes:
-  alpha2: WS
-  alpha3: WSM
-  cioc: SAM
-  ccn3: "882"
-  callingcodes:
-  - "685"
-  internationalprefix: "00"
+    alpha2: WS
+    alpha3: WSM
+    cioc: SAM
+    ccn3: "882"
+    callingcodes:
+        - "685"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Apia
-  area: 2842
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Apia
+    area: 2842
 coordinates:
-  longitudestring: 172 20 W
-  latitudestring: 13 35 S
-  minlongitude: -172.81667
-  minlatitude: -14.05
-  maxlongitude: -171
-  maxlatitude: -13.433333
-  latitude: -13.668973
-  longitude: -172.32202
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -172.8108215
+    minlatitude: -14.0833012
+    maxlongitude: -171.3950515
+    maxlatitude: -13.4203449
+    latitude: -13.759029
+    longitude: -172.104629

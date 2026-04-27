@@ -1,74 +1,118 @@
 name:
-  common: Swaziland
-  official: Kingdom of Swaziland
-  native:
-    eng:
-      common: Swaziland
-      official: Kingdom of Swaziland
-    ssw:
-      common: Swaziland
-      official: Kingdom of Swaziland
+    common: Eswatini
+    official: The Kingdom of Eswatini
+    native:
+        eng:
+            common: Eswatini
+            official: Kingdom of Eswatini
+        ssw:
+            common: eSwatini
+            official: Umbuso weSwatini
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Swazi
 tlds:
-- .sz
+    - .sz
 languages:
-  eng: English
-  ssw: Swazi
+    en: ""
+    eng: English
+    ss: ""
+    ssw: Swazi
 translations:
-  DEU:
-    common: Swasiland
-    official: Königreich Swasiland
-  FIN:
-    common: Swazimaa
-    official: Swazimaan kuningaskunta
-  FRA:
-    common: Swaziland
-    official: Royaume du Swaziland
-  HRV:
-    common: Svazi
-    official: Kraljevina Svazi
-  ITA:
-    common: Swaziland
-    official: Regno dello Swaziland
-  JPN:
-    common: スワジランド
-    official: スワジランド王国
-  NLD:
-    common: Swaziland
-    official: Koninkrijk Swaziland
-  POR:
-    common: Suazilândia
-    official: Reino da Suazilândia
-  RUS:
-    common: Свазиленд
-    official: Королевство Свазиленд
+    ARA:
+        common: إسواتيني
+        official: مملكة إسواتيني
+    CES:
+        common: Svazijsko
+        official: Svazijské království
+    DEU:
+        common: Swasiland
+        official: Königreich Eswatini
+    EST:
+        common: Svaasimaa
+        official: eSwatini Kuningriik
+    FIN:
+        common: Swazimaa
+        official: Swazimaan kuningaskunta
+    FRA:
+        common: Swaziland
+        official: Royaume d’Eswatini
+    HRV:
+        common: Svazi
+        official: Kraljevina eSwatini
+    HUN:
+        common: Szváziföld
+        official: Szváziföldi Királyság
+    ITA:
+        common: Swaziland
+        official: Regno di eSwatini
+    JPN:
+        common: エスワティニ
+        official: エスワティニ王国
+    KOR:
+        common: 에스와티니
+        official: 에스와티니 왕국
+    NLD:
+        common: Swaziland
+        official: Koninkrijk eSwatini
+    PER:
+        common: اسواتینی
+        official: پادشاهی سوازیلند
+    POL:
+        common: Suazi
+        official: Królestwo Suazi
+    POR:
+        common: Suazilândia
+        official: Reino de eSwatini
+    RUS:
+        common: Свазиленд
+        official: Королевство Свазиленд
+    SLK:
+        common: Svazijsko
+        official: Svazijské kráľovstvo
+    SPA:
+        common: Suazilandia
+        official: Reino de eSwatini
+    SRP:
+        common: Esvatini
+        official: Kraljevina Esvatini
+    SWE:
+        common: Swaziland
+        official: Konungariket Eswatini
+    TUR:
+        common: Esvatini
+        official: Esvatini Krallığı
+    URD:
+        common: سوازی لینڈ
+        official: مملکتِ سوازی لینڈ
+    ZHO:
+        common: 斯威士兰
+        official: 斯威士兰王国
 currencies:
-- SZL
+    - SZL
 borders:
-- MOZ
-- ZAF
+    - MOZ
+    - ZAF
 codes:
-  alpha2: SZ
-  alpha3: SWZ
-  cioc: SWZ
-  ccn3: "748"
-  callingcodes:
-  - "268"
-  internationalprefix: "00"
+    alpha2: SZ
+    alpha3: SWZ
+    cioc: SWZ
+    ccn3: "748"
+    callingcodes:
+        - "268"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Southern Africa
-  continent: Africa
-  capital: Lobamba
-  area: 17364
+    region: Africa
+    subregion: Southern Africa
+    continent: Africa
+    capital: Lobamba
+    area: 17364
 coordinates:
-  longitudestring: 31 30 E
-  latitudestring: 26 30 S
-  minlongitude: 30.783333
-  minlatitude: -27.316668
-  maxlongitude: 32.13333
-  maxlatitude: -25.783333
-  latitude: -26.565134
-  longitude: 31.498114
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.79064
+    minlatitude: -27.317402
+    maxlongitude: 32.1349067
+    maxlatitude: -25.71792
+    latitude: -26.522503
+    longitude: 31.465866

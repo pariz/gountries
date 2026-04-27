@@ -1,259 +1,110 @@
-- name: Al Jawf
-  names:
-  - Al Jawf
-  code: JA
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.06769
-    minlatitude: 15.722451
-    maxlongitude: 47.00873
-    maxlatitude: 17.404171
-    latitude: 16.790182
-    longitude: 45.299385
-- name: Ma'rib
-  names:
-  - Marab
-  - Mareb
-  code: MA
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 45.29845
-    minlatitude: 15.451168
-    maxlongitude: 45.34706
-    maxlatitude: 15.49817
-    latitude: 15.470031
-    longitude: 45.322857
-- name: Al Bay?a'
-  names:
-  - Al Baida
-  code: BA
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.58074
-    minlatitude: 13.806784
-    maxlongitude: 46.048065
-    maxlatitude: 14.796471
-    latitude: 14.358866
-    longitude: 45.449806
-- name: Hadramawt
-  names:
-  - Hadramout
-  code: HD
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.29749
-    minlatitude: 12.111558
-    maxlongitude: 54.53054
-    maxlatitude: 19.00233
-    latitude: 16.930414
-    longitude: 49.365314
-- name: Ad¸ D¸ali'
-  names:
-  - Ad¸ D¸ali'
-  code: DA
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 44.718132
-    minlatitude: 13.692177
-    maxlongitude: 44.744698
-    maxlatitude: 13.719569
-    latitude: 13.696667
-    longitude: 44.73083
-- name: Taʿizz
-  names:
-  - Taiz
-  code: TA
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.239784
-    minlatitude: 12.634096
-    maxlongitude: 44.510998
-    maxlatitude: 13.887883
-    latitude: 13.413116
-    longitude: 43.63753
-- name: '''Amran'
-  names:
-  - '''Amran'
-  code: AM
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.524033
-    minlatitude: 15.488677
-    maxlongitude: 44.35948
-    maxlatitude: 16.641642
-    latitude: 16.256922
-    longitude: 43.94368
-- name: Dhamar
-  names:
-  - Dhamar
-  - Dhomar
-  - Đomar
-  code: DH
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.475582
-    minlatitude: 14.031811
-    maxlongitude: 44.836548
-    maxlatitude: 14.983461
-    latitude: 14.719535
-    longitude: 44.247902
-- name: Al ?udaydah
-  names:
-  - Hodeida
-  - Hodeidah
-  - Hodeïah
-  - H̨udaydah
-  - al-Hudaydah
-  code: HU
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 41.816055
-    minlatitude: 13.60423
-    maxlongitude: 43.777107
-    maxlatitude: 15.922458
-    latitude: 15.305307
-    longitude: 43.01949
-- name: Ibb
-  names:
-  - Ibb
-  code: IB
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.647663
-    minlatitude: 13.674915
-    maxlongitude: 44.67299
-    maxlatitude: 14.433573
-    latitude: 14.141572
-    longitude: 44.247902
-- name: Al Mahrah
-  names:
-  - Al Mahrah
-  code: MR
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.113754
-    minlatitude: 15.080156
-    maxlongitude: 53.0783
-    maxlatitude: 19.00233
-    latitude: 16.523842
-    longitude: 51.683426
-- name: Al Mahwit
-  names:
-  - Al Mahwit
-  code: MW
-  countryalpha2: YE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 43.252296
-    minlatitude: 15.006784
-    maxlongitude: 43.924873
-    maxlatitude: 15.530416
-    latitude: 15.396323
-    longitude: 43.560696
 - name: Abyan
   names:
-  - Abyan
+    - Abyan
   code: AB
   countryalpha2: YE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 45.046047
-    minlatitude: 12.919175
-    maxlongitude: 47.166515
+    minlongitude: 45.046048
+    minlatitude: 12.9191754
+    maxlongitude: 47.166517
     maxlatitude: 14.303409
-    latitude: 13.634341
-    longitude: 46.05632
+    latitude: 13.6343413
+    longitude: 46.0563212
 - name: ʿAdan
   names:
-  - Adan
-  - ʿAdan
-  - Aden
-  - Aden
-  - Adén
+    - Adan
+    - ʿAdan
+    - Aden
+    - Aden
+    - Adén
   code: AD
   countryalpha2: YE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 44.407803
-    minlatitude: 12.669748
-    maxlongitude: 45.08219
+    minlongitude: 44.4078031
+    minlatitude: 12.6697487
+    maxlongitude: 45.0821905
     maxlatitude: 12.92427
-    latitude: 12.825748
-    longitude: 44.79438
-- name: Sanʿā
+    latitude: 12.8257481
+    longitude: 44.7943804
+- name: '''Amran'
   names:
-  - Sana
-  - Sanaa
-  - Sanaʿa
-  - Sanaʿa City
-  - Sanʿaʿ
-  code: SN
+    - '''Amran'
+  code: AM
   countryalpha2: YE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 49.645714
-    minlatitude: 16.08029
-    maxlongitude: 49.66627
-    maxlatitude: 16.098145
-    latitude: 16.09053
-    longitude: 49.65541
-- name: Sa`dah
+    minlongitude: 43.524034
+    minlatitude: 15.488677
+    maxlongitude: 44.3594831
+    maxlatitude: 16.641641
+    latitude: 16.2569214
+    longitude: 43.9436788
+- name: Al Bayḑā’
   names:
-  - Saʿadah
-  code: SD
+    - Al Baida
+  code: BA
   countryalpha2: YE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 43.721638
-    minlatitude: 16.921347
-    maxlongitude: 43.77761
-    maxlatitude: 16.984234
-    latitude: 16.950941
-    longitude: 43.747776
-- name: Shabwah
+    minlongitude: 44.58074209999999
+    minlatitude: 13.806784
+    maxlongitude: 46.0480639
+    maxlatitude: 14.7964711
+    latitude: 14.3588662
+    longitude: 45.4498065
+- name: Ad¸ D¸ali'
   names:
-  - Shabwah
-  code: SH
+    - Ad¸ D¸ali'
+  code: DA
   countryalpha2: YE
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 47.02204
-    minlatitude: 15.3665085
-    maxlongitude: 47.03173
-    maxlatitude: 15.371784
-    latitude: 15.368889
-    longitude: 47.02361
+    minlongitude: 44.7181321
+    minlatitude: 13.6921764
+    maxlongitude: 44.7446966
+    maxlatitude: 13.7195688
+    latitude: 13.696667
+    longitude: 44.730833
+- name: Dhamar
+  names:
+    - Dhamar
+    - Dhomar
+    - Đomar
+  code: DH
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.475584
+    minlatitude: 14.031811
+    maxlongitude: 44.8365489
+    maxlatitude: 14.9834611
+    latitude: 14.7195344
+    longitude: 44.2479015
+- name: Hadramawt
+  names:
+    - Hadramout
+  code: HD
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.2974891
+    minlatitude: 12.1115582
+    maxlongitude: 54.53053990000001
+    maxlatitude: 19.002331
+    latitude: 16.9304135
+    longitude: 49.36531489999999
 - name: Hajjah
   names:
-  - Hajjah
+    - Hajjah
   code: HJ
   countryalpha2: YE
   coordinates:
@@ -261,14 +112,60 @@
     latitudestring: ""
     minlongitude: 42.778236
     minlatitude: 15.463984
-    maxlongitude: 43.766582
-    maxlatitude: 16.679726
-    latitude: 16.118063
-    longitude: 43.329468
-- name: La?ij
+    maxlongitude: 43.766581
+    maxlatitude: 16.6797261
+    latitude: 16.1180631
+    longitude: 43.329466
+- name: Al Ḩudaydah
   names:
-  - Lahej
-  - Lahj
+    - Hodeida
+    - Hodeidah
+    - Hodeïah
+    - H̨udaydah
+    - al-Hudaydah
+  code: HU
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.8160553
+    minlatitude: 13.6042295
+    maxlongitude: 43.777108
+    maxlatitude: 15.9224578
+    latitude: 15.3053072
+    longitude: 43.0194897
+- name: Ibb
+  names:
+    - Ibb
+  code: IB
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.647663
+    minlatitude: 13.674915
+    maxlongitude: 44.6729879
+    maxlatitude: 14.433573
+    latitude: 14.1415717
+    longitude: 44.2479015
+- name: Al Jawf
+  names:
+    - Al Jawf
+  code: JA
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.067691
+    minlatitude: 15.722451
+    maxlongitude: 47.0087311
+    maxlatitude: 17.4041709
+    latitude: 16.7901819
+    longitude: 45.29938620000001
+- name: Laḩij
+  names:
+    - Lahej
+    - Lahj
   code: LA
   countryalpha2: YE
   coordinates:
@@ -278,5 +175,144 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 16.402222
-    longitude: 44.32389
+    latitude: 16.4022222
+    longitude: 44.3238889
+- name: Ma'rib
+  names:
+    - Marab
+    - Mareb
+  code: MA
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 45.2984496
+    minlatitude: 15.4511678
+    maxlongitude: 45.3470603
+    maxlatitude: 15.4981702
+    latitude: 15.4700312
+    longitude: 45.3228575
+- name: Al Mahrah
+  names:
+    - Al Mahrah
+  code: MR
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.1137559
+    minlatitude: 15.0801567
+    maxlongitude: 53.0783
+    maxlatitude: 19.002331
+    latitude: 16.5238423
+    longitude: 51.6834275
+- name: Al Mahwit
+  names:
+    - Al Mahwit
+  code: MW
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.25229710000001
+    minlatitude: 15.006784
+    maxlongitude: 43.924874
+    maxlatitude: 15.5304159
+    latitude: 15.3963229
+    longitude: 43.5606946
+- name: محافظة ريمة
+  code: RA
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: صنعاء
+  code: SA
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Sa`dah
+  names:
+    - Saʿadah
+  code: SD
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.7216377
+    minlatitude: 16.9213471
+    maxlongitude: 43.7776101
+    maxlatitude: 16.9842336
+    latitude: 16.9509413
+    longitude: 43.7477743
+- name: Shabwah
+  names:
+    - Shabwah
+  code: SH
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.0220423
+    minlatitude: 15.3665084
+    maxlongitude: 47.0317305
+    maxlatitude: 15.3717846
+    latitude: 15.368889
+    longitude: 47.023611
+- name: Sanʿā
+  names:
+    - Sana
+    - Sanaa
+    - Sanaʿa
+    - Sanaʿa City
+    - Sanʿaʿ
+  code: SN
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 49.64571480000001
+    minlatitude: 16.08029
+    maxlongitude: 49.6662712
+    maxlatitude: 16.0981446
+    latitude: 16.0905301
+    longitude: 49.6554124
+- name: محافظة أرخبيل سقطرى
+  code: SU
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Taʿizz
+  names:
+    - Taiz
+  code: TA
+  countryalpha2: YE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 43.2397839
+    minlatitude: 12.6340961
+    maxlongitude: 44.510999
+    maxlatitude: 13.887883
+    latitude: 13.4131166
+    longitude: 43.6375314

@@ -1,415 +1,77 @@
+- name: Banghazi
+  names:
+    - Banghazi
+  code: BA
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.9999527
+    minlatitude: 31.9760544
+    maxlongitude: 20.2884299
+    maxlatitude: 32.2094962
+    latitude: 32.116667
+    longitude: 20.066667
 - name: Al Butnan
   names:
-  - Al Butnan
+    - Al Butnan
   code: BU
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 23.002487
-    minlatitude: 27.971699
-    maxlongitude: 25.149536
-    maxlatitude: 32.213783
-    latitude: 29.757986
-    longitude: 23.763283
+    minlongitude: 23.0024879
+    minlatitude: 27.971698
+    maxlongitude: 25.1495356
+    maxlatitude: 32.2137814
+    latitude: 29.7579854
+    longitude: 23.7632828
 - name: Darnah
   names:
-  - Darnah
+    - Darnah
   code: DR
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.611889
-    minlatitude: 32.742535
-    maxlongitude: 22.674128
-    maxlatitude: 32.775063
-    latitude: 32.766666
+    minlongitude: 22.6118888
+    minlatitude: 32.7425359
+    maxlongitude: 22.6741272
+    maxlatitude: 32.7750619
+    latitude: 32.766667
     longitude: 22.633333
 - name: Ghat
   names:
-  - Ghat
+    - Ghat
   code: GT
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 10.148612
-    minlatitude: 24.93402
-    maxlongitude: 10.209718
-    maxlatitude: 24.990591
-    latitude: 24.964037
-    longitude: 10.175928
-- name: Al Jabal al Akh?ar
+    minlatitude: 24.9340191
+    maxlongitude: 10.2097174
+    maxlatitude: 24.9905903
+    latitude: 24.9640371
+    longitude: 10.1759285
+- name: Al Jabal al Akhḑar
   names:
-  - Al Jabal al Akh?ar
+    - Al Jabal al Akhḑar
   code: JA
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.37075
-    minlatitude: 31.252527
-    maxlongitude: 22.0534
-    maxlatitude: 32.93859
-    latitude: 32.403233
-    longitude: 21.666073
-- name: Al Marj
+    minlongitude: 21.3707509
+    minlatitude: 31.2525281
+    maxlongitude: 22.0534001
+    maxlatitude: 32.9385909
+    latitude: 32.4032332
+    longitude: 21.6660725
+- name: Al Jabal al Gharbī
   names:
-  - Al Marj
-  code: MJ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.794115
-    minlatitude: 32.46981
-    maxlongitude: 20.861616
-    maxlatitude: 32.51975
-    latitude: 32.486668
-    longitude: 20.833889
-- name: Mizdah
-  names:
-  - Mizdah
-  code: MZ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.967644
-    minlatitude: 31.433205
-    maxlongitude: 13.00138
-    maxlatitude: 31.471498
-    latitude: 31.447823
-    longitude: 12.983856
-- name: Jaghbub
-  names:
-  - Jaghbub
-  code: JB
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.504019
-    minlatitude: 29.7358
-    maxlongitude: 24.531012
-    maxlatitude: 29.747948
-    latitude: 29.7425
-    longitude: 24.516945
-- name: Murzuq
-  names:
-  - Murzuq
-  code: MQ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.895116
-    minlatitude: 25.889273
-    maxlongitude: 13.962629
-    maxlatitude: 25.942764
-    latitude: 25.918226
-    longitude: 13.926
-- name: Al Qatrun
-  names:
-  - Al Qatrun
-  code: QT
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 24.933332
-    longitude: 14.633333
-- name: Sabha
-  names:
-  - Sabha
-  code: SB
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.3821335
-    minlatitude: 26.969202
-    maxlongitude: 14.536114
-    maxlatitude: 27.089848
-    latitude: 27.038889
-    longitude: 14.426389
-- name: Wadi al ?ayat
-  names:
-  - Wadi al ?ayat
-  code: WD
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 31.262724
-    minlatitude: 29.502644
-    maxlongitude: 31.305119
-    maxlatitude: 29.544794
-    latitude: 29.524075
-    longitude: 31.291246
-- name: Sabratah Surman
-  names:
-  - Sabratah Surman
-  code: SS
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.354813
-    minlatitude: 32.719997
-    maxlongitude: 12.53762
-    maxlatitude: 32.820747
-    latitude: 32.787994
-    longitude: 12.380755
-- name: Tarabulus
-  names:
-  - Ţarābulus
-  - Tripoli
-  - Tripoli
-  code: TB
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.153188
-    minlatitude: 32.863945
-    maxlongitude: 13.223484
-    maxlatitude: 32.901928
-    latitude: 32.88294
-    longitude: 13.188336
-- name: Tarhunah-Masallatah
-  names:
-  - Tarhunah-Masallatah
-  code: TM
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.614678
-    minlatitude: 32.41359
-    maxlongitude: 13.660898
-    maxlatitude: 32.449158
-    latitude: 32.433887
-    longitude: 13.634444
-- name: Yafran-Jadu
-  names:
-  - Yafran-Jadu
-  code: YJ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 31.95361
-    longitude: 12.028581
-- name: Ash Shati'
-  names:
-  - Ash Shati'
-  code: SH
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.833501
-    minlatitude: 26.210707
-    maxlongitude: 15.752599
-    maxlatitude: 29.485025
-    latitude: 27.735147
-    longitude: 12.438058
-- name: Ghadamis
-  names:
-  - Ghadamis
-  code: GD
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.476566
-    minlatitude: 30.107637
-    maxlongitude: 9.514847
-    maxlatitude: 30.15381
-    latitude: 30.133333
-    longitude: 9.5
-- name: Gharyan
-  names:
-  - Gharyan
-  code: GR
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.9915905
-    minlatitude: 32.154324
-    maxlongitude: 13.039952
-    maxlatitude: 32.182602
-    latitude: 32.169724
-    longitude: 13.016667
-- name: Al Kufrah
-  names:
-  - Al Kufrah
-  code: KF
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.936377
-    minlatitude: 19.508043
-    maxlongitude: 0
-    maxlatitude: 27.02153
-    latitude: 23.31124
-    longitude: 21.85686
-- name: Al Wa?ah
-  names:
-  - Al Wa?ah
-  code: WA
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.493796
-    minlatitude: 32.312016
-    maxlongitude: 14.515101
-    maxlatitude: 32.31858
-    latitude: 32.3147
-    longitude: 14.5032835
-- name: Bani Walid
-  names:
-  - Bani Walid
-  code: BW
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 13.921051
-    minlatitude: 31.652798
-    maxlongitude: 14.174423
-    maxlatitude: 31.867645
-    latitude: 31.766666
-    longitude: 13.983333
-- name: Misratah
-  names:
-  - Misratah
-  code: MI
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.919176
-    minlatitude: 32.199364
-    maxlongitude: 15.275288
-    maxlatitude: 32.430687
-    latitude: 32.377533
-    longitude: 15.092017
-- name: An Nuqat al Khams
-  names:
-  - An Nuqat al Khams
-  code: NQ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.392413
-    minlatitude: 32.201756
-    maxlongitude: 12.434038
-    maxlatitude: 33.16886
-    latitude: 32.69149
-    longitude: 11.889173
-- name: Al Qubbah
-  names:
-  - Al Qubbah
-  code: QB
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.210024
-    minlatitude: 32.745934
-    maxlongitude: 22.263594
-    maxlatitude: 32.77895
-    latitude: 32.766666
-    longitude: 22.25
-- name: Az Zawiyah
-  names:
-  - Az Zawiyah
-  code: ZA
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.934911
-    minlatitude: 32.204903
-    maxlongitude: 12.985418
-    maxlatitude: 32.82881
-    latitude: 32.53949
-    longitude: 12.529803
-- name: Ajdabiya
-  names:
-  - Ajdabiya
-  code: AJ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.72345
-    minlatitude: 29.62361
-    maxlongitude: 21.107483
-    maxlatitude: 31.22807
-    latitude: 30.75
-    longitude: 20.216667
-- name: Al ?izam al Akh?ar
-  names:
-  - Al ?izam al Akh?ar
-  code: HZ
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.022196
-    minlatitude: 31.969156
-    maxlongitude: 20.031986
-    maxlatitude: 31.98209
-    latitude: 31.973412
-    longitude: 20.026941
-- name: Al Jifarah
-  names:
-  - Al Jifarah
-  code: JI
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.678772
-    minlatitude: 32.236122
-    maxlongitude: 13.112502
-    maxlatitude: 32.75619
-    latitude: 32.45259
-    longitude: 12.943554
-- name: Surt
-  names:
-  - Surt
-  code: SR
-  countryalpha2: LY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.515553
-    minlatitude: 31.156979
-    maxlongitude: 16.628641
-    maxlatitude: 31.213552
-    latitude: 31.205315
-    longitude: 16.588936
-- name: Tajura' wa an Nawa?i Arba?
-  names:
-  - Tajura' wa an Nawa?i Arba?
-  code: TN
+    - Al Jabal al Gharbī
+  code: JG
   countryalpha2: LY
   coordinates:
     longitudestring: ""
@@ -420,23 +82,24 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
-- name: Banghazi
+- name: Al Jifarah
   names:
-  - Banghazi
-  code: BA
+    - Al Jifarah
+  code: JI
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.999952
-    minlatitude: 31.976055
-    maxlongitude: 20.28843
-    maxlatitude: 32.209496
-    latitude: 32.11667
-    longitude: 20.066668
+    minlongitude: 12.678772
+    minlatitude: 32.236122
+    maxlongitude: 13.1125019
+    maxlatitude: 32.756192
+    latitude: 32.4525904
+    longitude: 12.9435536
 - name: Al Jufrah
   names:
-  - Al Jufrah
+    - Al Jufrah
+    - Jofra
   code: JU
   countryalpha2: LY
   coordinates:
@@ -444,35 +107,219 @@
     latitudestring: ""
     minlongitude: 14.263115
     minlatitude: 26.03828
-    maxlongitude: 18.978786
-    maxlatitude: 29.888914
-    latitude: 27.983513
-    longitude: 16.91225
-- name: Al Marqab
+    maxlongitude: 18.9787859
+    maxlatitude: 29.8889149
+    latitude: 27.9835135
+    longitude: 16.912251
+- name: Al Kufrah
   names:
-  - Al Marqab
+    - Al Kufrah
+    - Kofra
+    - Kufra
+    - Cufra
+  code: KF
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.9363769
+    minlatitude: 19.5080431
+    maxlongitude: 25
+    maxlatitude: 27.0215295
+    latitude: 23.3112389
+    longitude: 21.8568586
+- name: Al Murqub
+  names:
+    - Al Murqub
+    - Al Marqab
+    - al-Morqib
   code: MB
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 13.112502
+    minlongitude: 13.1125019
     minlatitude: 31.961752
-    maxlongitude: 14.669188
+    maxlongitude: 14.6691879
     maxlatitude: 32.783028
-    latitude: 32.45997
-    longitude: 14.100133
-- name: Nalut
+    latitude: 32.4599677
+    longitude: 14.1001326
+- name: Mişrātah
   names:
-  - Nalut
+    - Mişrātah
+    - Misurata
+    - Misratah
+  code: MI
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.9191761
+    minlatitude: 32.1993655
+    maxlongitude: 15.2752876
+    maxlatitude: 32.4306869
+    latitude: 32.377533
+    longitude: 15.092017
+- name: Al Marj
+  names:
+    - Al Marj
+    - The Meadows
+    - Marj
+  code: MJ
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.7941151
+    minlatitude: 32.4698104
+    maxlongitude: 20.8616169
+    maxlatitude: 32.5197498
+    latitude: 32.486667
+    longitude: 20.833889
+- name: Murzuq
+  names:
+    - Murzuq
+  code: MQ
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.8951154
+    minlatitude: 25.8892733
+    maxlongitude: 13.9626293
+    maxlatitude: 25.9427651
+    latitude: 25.9182262
+    longitude: 13.9260001
+- name: Nālūt
+  names:
+    - Nālūt
   code: NL
   countryalpha2: LY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.96104
-    minlatitude: 31.836712
-    maxlongitude: 10.994503
-    maxlatitude: 31.896671
-    latitude: 31.868334
+    minlongitude: 10.9610395
+    minlatitude: 31.8367114
+    maxlongitude: 10.9945031
+    maxlatitude: 31.8966715
+    latitude: 31.868333
     longitude: 10.9825
+- name: An Nuqaţ al Khams
+  names:
+    - An Nuqaţ al Khams
+    - Nuqāṭ al Ḫams
+  code: NQ
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.3924129
+    minlatitude: 32.201754
+    maxlongitude: 12.4340378
+    maxlatitude: 33.1688603
+    latitude: 32.6914909
+    longitude: 11.8891721
+- name: Sabhā
+  names:
+    - Sabhā
+  code: SB
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.3821335
+    minlatitude: 26.9692017
+    maxlongitude: 14.5361138
+    maxlatitude: 27.0898485
+    latitude: 27.038889
+    longitude: 14.426389
+- name: Sirte
+  names:
+    - Sirt
+    - Surt
+  code: SR
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.5155527
+    minlatitude: 31.156979
+    maxlongitude: 16.6286411
+    maxlatitude: 31.2135519
+    latitude: 31.205314
+    longitude: 16.588936
+- name: Tarabulus
+  names:
+    - Ţarābulus
+    - Tripoli
+    - Tripoli
+  code: TB
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 13.1531882
+    minlatitude: 32.8639441
+    maxlongitude: 13.2234836
+    maxlatitude: 32.9019297
+    latitude: 32.8829369
+    longitude: 13.1883359
+- name: Al Wahat
+  names:
+    - Al Wahat
+    - The Oases
+    - Al Wahad
+    - Al Wahah
+  code: WA
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.4937963
+    minlatitude: 32.3120172
+    maxlongitude: 14.5151013
+    maxlatitude: 32.3185818
+    latitude: 32.3147011
+    longitude: 14.5032835
+- name: Wādī al Ḩayāt
+  names:
+    - Wādī al Ḩayāt
+  code: WD
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 31.2627233
+    minlatitude: 29.5026438
+    maxlongitude: 31.305119
+    maxlatitude: 29.5447935
+    latitude: 29.5240753
+    longitude: 31.2912463
+- name: Wādī ash Shāţiʾ
+  names:
+    - Wādī ash Shāţiʾ
+  code: WS
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Az Zawiyah
+  names:
+    - Az Zawiyah
+  code: ZA
+  countryalpha2: LY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.934911
+    minlatitude: 32.2049039
+    maxlongitude: 12.9854179
+    maxlatitude: 32.828812
+    latitude: 32.5394906
+    longitude: 12.5298028

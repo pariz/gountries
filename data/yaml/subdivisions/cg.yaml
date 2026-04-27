@@ -1,104 +1,6 @@
-- name: Plateaux
-  names:
-  - Plateaux
-  code: "14"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.083022
-    minlatitude: -3.098674
-    maxlongitude: 16.660954
-    maxlatitude: -0.939503
-    latitude: -2.068009
-    longitude: 15.406808
-- name: Lékoumou
-  names:
-  - Lékoumou
-  code: "2"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.605733
-    minlatitude: -4.050693
-    maxlongitude: 14.326258
-    maxlatitude: -2.113381
-    latitude: -3.170382
-    longitude: 13.358728
-- name: Cuvette
-  names:
-  - Cuvette
-  code: "8"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 14.349458
-    minlatitude: -2.028305
-    maxlongitude: 17.550545
-    maxlatitude: 0.453031
-    latitude: -0.2877446
-    longitude: 16.158094
-- name: Kouilou
-  names:
-  - Kouilou
-  code: "5"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.2050085
-    minlatitude: -5.0283127
-    maxlongitude: 12.760083
-    maxlatitude: -3.512756
-    latitude: -4.1428413
-    longitude: 11.889173
-- name: Likouala
-  names:
-  - Likouala
-  code: "7"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.435879
-    minlatitude: -0.7595563
-    maxlongitude: 18.64984
-    maxlatitude: 3.703082
-    latitude: 2.043924
-    longitude: 17.668886
-- name: Niari
-  names:
-  - Niari
-  code: "9"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.607122
-    minlatitude: -4.919864
-    maxlongitude: 13.609751
-    maxlatitude: -1.858259
-    latitude: -3.18427
-    longitude: 12.254792
-- name: Brazzaville
-  names:
-  - Brazzaville
-  code: BZV
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 15.1371
-    minlatitude: -4.3710427
-    maxlongitude: 15.317345
-    maxlatitude: -4.1233473
-    latitude: -4.267778
-    longitude: 15.291944
 - name: Bouenza
   names:
-  - Bouénza
+    - Bouénza
   code: "11"
   countryalpha2: CG
   coordinates:
@@ -108,25 +10,25 @@
     minlatitude: -4.78104
     maxlongitude: 14.383406
     maxlatitude: -3.45881
-    latitude: -4.1128078
-    longitude: 13.728917
+    latitude: -4.1128079
+    longitude: 13.7289167
 - name: Pool
   names:
-  - Pool
+    - Pool
   code: "12"
   countryalpha2: CG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.365086
-    minlatitude: -6.1148615
-    maxlongitude: 25.198055
+    minlongitude: 12.3650857
+    minlatitude: -6.1148617
+    maxlongitude: 25.1980562
     maxlatitude: 2.2295692
     latitude: -2.420088
-    longitude: 16.18162
+    longitude: 16.1816196
 - name: Sangha
   names:
-  - Sangha
+    - Sangha
   code: "13"
   countryalpha2: CG
   coordinates:
@@ -137,10 +39,24 @@
     maxlongitude: 17.014767
     maxlatitude: 2.685291
     latitude: 1.4662328
-    longitude: 15.406808
+    longitude: 15.4068079
+- name: Plateaux
+  names:
+    - Plateaux
+  code: "14"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.0830219
+    minlatitude: -3.098674
+    maxlongitude: 16.6609534
+    maxlatitude: -0.939503
+    latitude: -2.0680088
+    longitude: 15.4068079
 - name: Cuvette-Ouest
   names:
-  - Cuvette Ouest
+    - Cuvette Ouest
   code: "15"
   countryalpha2: CG
   coordinates:
@@ -149,6 +65,102 @@
     minlongitude: 13.88563
     minlatitude: -1.283519
     maxlongitude: 15.387269
-    maxlatitude: 1.373401
+    maxlatitude: 1.3734011
     latitude: 0.144755
-    longitude: 14.47233
+    longitude: 14.4723301
+- name: Pointe-Noire
+  code: "16"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lékoumou
+  names:
+    - Lékoumou
+  code: "2"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.6057329
+    minlatitude: -4.0506931
+    maxlongitude: 14.3262581
+    maxlatitude: -2.1133809
+    latitude: -3.170382
+    longitude: 13.3587288
+- name: Kouilou
+  names:
+    - Kouilou
+  code: "5"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.2050089
+    minlatitude: -5.0283128
+    maxlongitude: 12.7600829
+    maxlatitude: -3.512756
+    latitude: -4.1428413
+    longitude: 11.8891721
+- name: Likouala
+  names:
+    - Likouala
+  code: "7"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.435879
+    minlatitude: -0.7595563
+    maxlongitude: 18.649839
+    maxlatitude: 3.7030821
+    latitude: 2.043924000000001
+    longitude: 17.668887
+- name: Cuvette
+  names:
+    - Cuvette
+  code: "8"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.349458
+    minlatitude: -2.028305
+    maxlongitude: 17.5505448
+    maxlatitude: 0.453031
+    latitude: -0.2877446
+    longitude: 16.1580937
+- name: Niari
+  names:
+    - Niari
+  code: "9"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 11.607122
+    minlatitude: -4.919864
+    maxlongitude: 13.609751
+    maxlatitude: -1.858259
+    latitude: -3.18427
+    longitude: 12.2547919
+- name: Brazzaville
+  names:
+    - Brazzaville
+  code: BZV
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 15.1371001
+    minlatitude: -4.3710429
+    maxlongitude: 15.3173448
+    maxlatitude: -4.1233473
+    latitude: -4.267778
+    longitude: 15.291944

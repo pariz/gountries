@@ -1,104 +1,90 @@
 - name: Bulawayo
   names:
-  - Bulawayo
+    - Bulawayo
   code: BU
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.42701
-    minlatitude: -20.271227
-    maxlongitude: 28.763237
-    maxlatitude: -19.992064
-    latitude: -20.132507
-    longitude: 28.626478
+    minlongitude: 28.4270096
+    minlatitude: -20.2712278
+    maxlongitude: 28.7632372
+    maxlatitude: -19.9920628
+    latitude: -20.1325066
+    longitude: 28.626479
+- name: Harare
+  names:
+    - Harare
+  code: HA
+  countryalpha2: ZW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.8890352
+    minlatitude: -17.955721
+    maxlongitude: 31.2246813
+    maxlatitude: -17.6775542
+    latitude: -17.863889
+    longitude: 31.029722
 - name: Manicaland
   names:
-  - Manicaland
+    - Manicaland
   code: MA
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 31.233463
+    minlongitude: 31.23346299999999
     minlatitude: -21.328112
-    maxlongitude: 33.056305
-    maxlatitude: -17.250582
-    latitude: -18.921638
-    longitude: 32.174606
+    maxlongitude: 33.0563049
+    maxlatitude: -17.250581
+    latitude: -18.9216386
+    longitude: 32.174605
 - name: Mashonaland Central
   names:
-  - Mashonaland Central
+    - Mashonaland Central
   code: MC
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 30.04864
-    minlatitude: -17.744137
-    maxlongitude: 32.761333
+    minlongitude: 30.048639
+    minlatitude: -17.744136
+    maxlongitude: 32.7613351
     maxlatitude: -15.617567
-    latitude: -16.76443
-    longitude: 31.07937
+    latitude: -16.7644295
+    longitude: 31.0793705
 - name: Mashonaland East
   names:
-  - Mashonaland East
+    - Mashonaland East
   code: ME
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 30.485893
-    minlatitude: -19.271246
-    maxlongitude: 32.994667
-    maxlatitude: -16.69894
-    latitude: -18.587164
-    longitude: 31.262636
-- name: Masvingo
-  names:
-  - Masvingo
-  code: MV
-  countryalpha2: ZW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.79326
-    minlatitude: -20.107685
-    maxlongitude: 30.867418
-    maxlatitude: -20.037718
-    latitude: -20.074444
-    longitude: 30.832779
-- name: Harare
-  names:
-  - Harare
-  code: HA
-  countryalpha2: ZW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.889034
-    minlatitude: -17.95572
-    maxlongitude: 31.224682
-    maxlatitude: -17.677555
-    latitude: -17.86389
-    longitude: 31.029722
+    minlatitude: -19.2712461
+    maxlongitude: 32.9946659
+    maxlatitude: -16.6989399
+    latitude: -18.5871642
+    longitude: 31.2626366
 - name: Midlands
   names:
-  - Midlands
+    - Midlands
   code: MI
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 27.989973
-    minlatitude: -21.04587
-    maxlongitude: 30.854223
-    maxlatitude: -17.132797
-    latitude: -19.0552
-    longitude: 29.60355
+    minlatitude: -21.045869
+    maxlongitude: 30.8542231
+    maxlatitude: -17.132798
+    latitude: -19.0552009
+    longitude: 29.6035495
 - name: Matabeleland North
   names:
-  - Matabeleland North
+    - Matabeleland North
   code: MN
   countryalpha2: ZW
   coordinates:
@@ -106,35 +92,49 @@
     latitudestring: ""
     minlongitude: 25.237028
     minlatitude: -20.343325
-    maxlongitude: 29.229252
-    maxlatitude: -17.020487
-    latitude: -18.533157
-    longitude: 27.549585
+    maxlongitude: 29.2292519
+    maxlatitude: -17.0204861
+    latitude: -18.5331566
+    longitude: 27.5495846
 - name: Matabeleland South
   names:
-  - Matabeleland South
+    - Matabeleland South
   code: MS
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.698244
+    minlongitude: 26.6982439
     minlatitude: -22.351074
-    maxlongitude: 31.114895
+    maxlongitude: 31.1148949
     maxlatitude: -19.48262
-    latitude: -21.052338
-    longitude: 29.045992
+    latitude: -21.052337
+    longitude: 29.0459927
+- name: Masvingo
+  names:
+    - Masvingo
+  code: MV
+  countryalpha2: ZW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.7932604
+    minlatitude: -20.1076843
+    maxlongitude: 30.86741769999999
+    maxlatitude: -20.0377179
+    latitude: -20.074444
+    longitude: 30.83277799999999
 - name: Mashonaland West
   names:
-  - Mashonaland West
+    - Mashonaland West
   code: MW
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.026283
+    minlongitude: 28.026284
     minlatitude: -18.902802
-    maxlongitude: 30.993065
-    maxlatitude: -15.608834
-    latitude: -17.485104
-    longitude: 29.788925
+    maxlongitude: 30.993064
+    maxlatitude: -15.6088341
+    latitude: -17.4851029
+    longitude: 29.7889248

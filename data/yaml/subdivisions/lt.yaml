@@ -1,140 +1,860 @@
-- name: Šiauliu Apskritis
-  names:
-  - Shiauliu
-  code: SA
+- name: Akmenės rajono savivaldybė
+  code: "01"
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.465702
-    minlatitude: 55.4631
-    maxlongitude: 24.182453
-    maxlatitude: 56.415054
-    latitude: 55.998573
-    longitude: 23.138004
-- name: Telšiu Apskritis
-  names:
-  - Telshiu
-  code: TE
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Alytaus miesto savivaldybė
+  code: "02"
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.512012
-    minlatitude: 55.597427
-    maxlongitude: 22.738138
-    maxlatitude: 56.43201
-    latitude: 56.10266
-    longitude: 22.111391
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Alytaus rajono savivaldybė
+  code: "03"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Anykščių rajono savivaldybė
+  code: "04"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Birštono savivaldybė
+  code: "05"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Biržų rajono savivaldybė
+  code: "06"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Druskininkų savivaldybė
+  code: "07"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Elektrėnų savivaldybė
+  code: "08"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ignalinos rajono savivaldybė
+  code: "09"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Jonavos rajono savivaldybė
+  code: "10"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Joniškio rajono savivaldybė
+  code: "11"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Jurbarko rajono savivaldybė
+  code: "12"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kaišiadorių rajono savivaldybė
+  code: "13"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kalvarijos savivaldybė
+  code: "14"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kauno miesto savivaldybė
+  code: "15"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kauno rajono savivaldybė
+  code: "16"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kazlų Rūdos savivaldybė
+  code: "17"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kėdainių rajono savivaldybė
+  code: "18"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kelmės rajono savivaldybė
+  code: "19"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Klaipėdos miesto savivaldybė
+  code: "20"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Klaipėdos rajono savivaldybė
+  code: "21"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kretingos rajono savivaldybė
+  code: "22"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Kupiškio rajono savivaldybė
+  code: "23"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Lazdijų rajono savivaldybė
+  code: "24"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Marijampolės savivaldybė
+  code: "25"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Mažeikių rajono savivaldybė
+  code: "26"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Molėtų rajono savivaldybė
+  code: "27"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Neringos savivaldybė
+  code: "28"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Pagėgių savivaldybė
+  code: "29"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Pakruojo rajono savivaldybė
+  code: "30"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Palangos miesto savivaldybė
+  code: "31"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Panevėžio miesto savivaldybė
+  code: "32"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Panevėžio rajono savivaldybė
+  code: "33"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Pasvalio rajono savivaldybė
+  code: "34"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Plungės rajono savivaldybė
+  code: "35"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Prienų rajono savivaldybė
+  code: "36"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Radviliškio rajono savivaldybė
+  code: "37"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Raseinių rajono savivaldybė
+  code: "38"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rietavo savivaldybė
+  code: "39"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Rokiškio rajono savivaldybė
+  code: "40"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Šakių rajono savivaldybė
+  code: "41"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Šalčininkų rajono savivaldybė
+  code: "42"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Šiaulių miesto savivaldybė
+  code: "43"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Šiaulių rajono savivaldybė
+  code: "44"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Šilalės rajono savivaldybė
+  code: "45"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Šilutės rajono savivaldybė
+  code: "46"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Širvintų rajono savivaldybė
+  code: "47"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Skuodo rajono savivaldybė
+  code: "48"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Švenčionių rajono savivaldybė
+  code: "49"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tauragės rajono savivaldybė
+  code: "50"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Telšių rajono savivaldybė
+  code: "51"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Trakų rajono savivaldybė
+  code: "52"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Ukmergės rajono savivaldybė
+  code: "53"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Utenos rajono savivaldybė
+  code: "54"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Varėnos rajono savivaldybė
+  code: "55"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vilkaviškio rajono savivaldybė
+  code: "56"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vilniaus miesto savivaldybė
+  code: "57"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Vilniaus rajono savivaldybė
+  code: "58"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Visagino savivaldybė
+  code: "59"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Zarasų rajono savivaldybė
+  code: "60"
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Alytaus Apskritis
+  names:
+    - Alytaus Apskritis
+  code: AL
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.3125978
+    minlatitude: 53.89747999999999
+    maxlongitude: 25.025222
+    maxlatitude: 54.5634689
+    latitude: 54.2000214
+    longitude: 24.1512634
 - name: Klaipedos Apskritis
   names:
-  - Klaipedos
+    - Klaipedos
   code: KL
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.9532
-    minlatitude: 55.18057
-    maxlongitude: 22.02608
-    maxlatitude: 56.384026
-    latitude: 55.668697
-    longitude: 21.424137
+    minlongitude: 20.9531999
+    minlatitude: 55.18056989999999
+    maxlongitude: 22.0260791
+    maxlatitude: 56.38402379999999
+    latitude: 55.6686983
+    longitude: 21.4241373
 - name: Kauno Apskritis
   names:
-  - Kauno Apskritis
+    - Kauno Apskritis
   code: KU
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 22.67151
-    minlatitude: 54.454308
+    minlongitude: 22.6715098
+    minlatitude: 54.4543069
     maxlongitude: 24.811666
-    maxlatitude: 55.576916
-    latitude: 54.987286
-    longitude: 23.952574
+    maxlatitude: 55.57691699999999
+    latitude: 54.9872863
+    longitude: 23.9525736
 - name: Marijampoles Apskritis
   names:
-  - Mariampoles
+    - Mariampoles
   code: MR
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 22.58981
-    minlatitude: 54.253696
-    maxlongitude: 23.79384
-    maxlatitude: 55.10449
-    latitude: 54.781998
-    longitude: 23.134136
+    minlatitude: 54.253698
+    maxlongitude: 23.7938401
+    maxlatitude: 55.104489
+    latitude: 54.78199710000001
+    longitude: 23.1341364
 - name: Panevežio Apskritis
   names:
-  - Panevezhio
+    - Panevezhio
   code: PN
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 23.879047
-    minlatitude: 55.38714
-    maxlongitude: 26.045708
-    maxlatitude: 56.45032
-    latitude: 55.974804
-    longitude: 25.079477
+    minlongitude: 23.8790478
+    minlatitude: 55.38713989999999
+    maxlongitude: 26.0457081
+    maxlatitude: 56.45032089999999
+    latitude: 55.9748049
+    longitude: 25.0794767
+- name: Šiauliu Apskritis
+  names:
+    - Shiauliu
+  code: SA
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.4657018
+    minlatitude: 55.4631011
+    maxlongitude: 24.1824539
+    maxlatitude: 56.41505489999999
+    latitude: 55.9985751
+    longitude: 23.1380051
 - name: Taurages Apskritis
   names:
-  - Taurages
+    - Taurages
   code: TA
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.649399
+    minlongitude: 21.649398
     minlatitude: 55.02444
-    maxlongitude: 23.503891
-    maxlatitude: 55.688732
-    latitude: 55.30726
+    maxlongitude: 23.5038912
+    maxlatitude: 55.68873199999999
+    latitude: 55.3072586
     longitude: 22.357294
+- name: Telšiu Apskritis
+  names:
+    - Telshiu
+  code: TE
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.5120119
+    minlatitude: 55.59742689999999
+    maxlongitude: 22.7381388
+    maxlatitude: 56.4320116
+    latitude: 56.1026616
+    longitude: 22.1113916
 - name: Utenos Apskritis
   names:
-  - Utenos Apskritis
+    - Utenos Apskritis
   code: UT
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.653175
-    minlatitude: 55.030975
-    maxlongitude: 26.835579
+    minlongitude: 24.653176
+    minlatitude: 55.0309768
+    maxlongitude: 26.8355798
     maxlatitude: 55.94378
-    latitude: 55.5319
-    longitude: 25.79047
+    latitude: 55.53189690000001
+    longitude: 25.7904699
 - name: Vilniaus Apskritis
   names:
-  - Vilniaus Apskritis
+    - Vilniaus Apskritis
   code: VL
   countryalpha2: LT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.386375
-    minlatitude: 54.12766
-    maxlongitude: 26.760214
-    maxlatitude: 55.517437
-    latitude: 54.80865
-    longitude: 25.218214
-- name: Alytaus Apskritis
-  names:
-  - Alytaus Apskritis
-  code: AL
-  countryalpha2: LT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.312597
-    minlatitude: 53.89748
-    maxlongitude: 25.025223
-    maxlatitude: 54.56347
-    latitude: 54.20002
-    longitude: 24.151264
+    minlongitude: 24.3863751
+    minlatitude: 54.1276599
+    maxlongitude: 26.760213
+    maxlatitude: 55.5174369
+    latitude: 54.8086502
+    longitude: 25.2182138

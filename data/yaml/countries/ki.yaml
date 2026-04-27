@@ -1,72 +1,114 @@
 name:
-  common: Kiribati
-  official: Independent and Sovereign Republic of Kiribati
-  native:
-    eng:
-      common: Kiribati
-      official: Independent and Sovereign Republic of Kiribati
-    gil:
-      common: Kiribati
-      official: Ribaberiki Kiribati
+    common: Kiribati
+    official: The Republic of Kiribati
+    native:
+        eng:
+            common: Kiribati
+            official: Independent and Sovereign Republic of Kiribati
+        gil:
+            common: Kiribati
+            official: Ribaberiki Kiribati
 eumember: false
 landlocked: false
-nationality: ""
+nationality: I-Kiribati
 tlds:
-- .ki
+    - .ki
 languages:
-  eng: English
-  gil: Gilbertese
+    en: ""
+    eng: English
+    gil: Gilbertese
 translations:
-  DEU:
-    common: Kiribati
-    official: Unabhängige und souveräne Republik Kiribati
-  FIN:
-    common: Kiribati
-    official: Kiribatin tasavalta
-  FRA:
-    common: Kiribati
-    official: République de Kiribati
-  ITA:
-    common: Kiribati
-    official: Repubblica indipendente e sovrano di Kiribati
-  JPN:
-    common: キリバス
-    official: キリバスの独立と主権共和国
-  NLD:
-    common: Kiribati
-    official: Onafhankelijke en soevereine republiek Kiribati
-  POR:
-    common: Kiribati
-    official: Independente e soberano República de Kiribati
-  RUS:
-    common: Кирибати
-    official: Независимой и суверенной Республики Кирибати
-  SPA:
-    common: Kiribati
-    official: República Independiente y Soberano de Kiribati
+    ARA:
+        common: كيريباتي
+        official: جمهورية كيريباتي
+    CES:
+        common: Kiribati
+        official: Republika Kiribati
+    DEU:
+        common: Kiribati
+        official: Republik Kiribati
+    EST:
+        common: Kiribati
+        official: Kiribati Vabariik
+    FIN:
+        common: Kiribati
+        official: Kiribatin tasavalta
+    FRA:
+        common: Kiribati
+        official: République de Kiribati
+    HRV:
+        common: Kiribati
+        official: Samostalne i suverene Republike Kiribati
+    HUN:
+        common: Kiribati
+        official: Kiribati Köztársaság
+    ITA:
+        common: Kiribati
+        official: Repubblica indipendente e sovrano di Kiribati
+    JPN:
+        common: キリバス
+        official: キリバス共和国
+    KOR:
+        common: 키리바시
+        official: 키리바시 공화국
+    NLD:
+        common: Kiribati
+        official: Onafhankelijke en soevereine republiek Kiribati
+    PER:
+        common: کیریباتی
+        official: جمهوری کیریباتی
+    POL:
+        common: Kiribati
+        official: Republika Kiribati
+    POR:
+        common: Kiribati
+        official: Independente e soberano República de Kiribati
+    RUS:
+        common: Кирибати
+        official: Независимой и суверенной Республики Кирибати
+    SLK:
+        common: Kiribati
+        official: Kiribatská republika
+    SPA:
+        common: Kiribati
+        official: República Independiente y Soberano de Kiribati
+    SRP:
+        common: Kiribati
+        official: Republika Kiribati
+    SWE:
+        common: Kiribati
+        official: Republiken Kiribati
+    TUR:
+        common: Kiribati
+        official: Kiribati Cumhuriyeti
+    URD:
+        common: کیریباتی
+        official: سلطنت آزاد جمہوریہ کیریباتی
+    ZHO:
+        common: 基里巴斯
+        official: 基里巴斯共和国
 currencies:
-- AUD
-borders: []
+    - AUD
 codes:
-  alpha2: KI
-  alpha3: KIR
-  cioc: KIR
-  ccn3: "296"
-  callingcodes:
-  - "686"
-  internationalprefix: "00"
+    alpha2: KI
+    alpha3: KIR
+    cioc: KIR
+    ccn3: "296"
+    callingcodes:
+        - "686"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Micronesia
-  continent: Australia
-  capital: South Tarawa
-  area: 811
+    region: Oceania
+    subregion: Micronesia
+    continent: Australia
+    capital: South Tarawa
+    area: 811
 coordinates:
-  longitudestring: 173 00 E
-  latitudestring: 1 25 N
-  minlongitude: 179.71666
-  minlatitude: -10.3
-  maxlongitude: -174.53334
-  maxlatitude: 4.716667
-  latitude: 1.8428332
-  longitude: -157.67583
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 168.8818359
+    minlatitude: -13.0502263
+    maxlongitude: -145.1513674
+    maxlatitude: 5.4082108
+    latitude: -3.370417
+    longitude: -168.734039

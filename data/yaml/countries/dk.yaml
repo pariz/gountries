@@ -1,69 +1,112 @@
 name:
-  common: Denmark
-  official: Kingdom of Denmark
-  native:
-    dan:
-      common: Danmark
-      official: Kongeriget Danmark
+    common: Denmark
+    official: The Kingdom of Denmark
+    native:
+        dan:
+            common: Danmark
+            official: Kongeriget Danmark
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Danish
 tlds:
-- .dk
+    - .dk
 languages:
-  dan: Danish
+    da: ""
+    dan: Danish
 translations:
-  FIN:
-    common: Tanska
-    official: Tanskan kuningaskunta
-  FRA:
-    common: Danemark
-    official: Royaume du Danemark
-  HRV:
-    common: Danska
-    official: Kraljevina Danska
-  ITA:
-    common: Danimarca
-    official: Regno di Danimarca
-  JPN:
-    common: デンマーク
-    official: デンマーク王国
-  NLD:
-    common: Denemarken
-    official: Koninkrijk Denemarken
-  POR:
-    common: Dinamarca
-    official: Reino da Dinamarca
-  RUS:
-    common: Дания
-    official: Королевство Дания
-  SPA:
-    common: Dinamarca
-    official: Reino de Dinamarca
+    ARA:
+        common: الدنمارك
+        official: مملكة الدنمارك
+    CES:
+        common: Dánsko
+        official: Dánské království
+    DEU:
+        common: Dänemark
+        official: Königreich Dänemark
+    EST:
+        common: Taani
+        official: Taani Kuningriik
+    FIN:
+        common: Tanska
+        official: Tanskan kuningaskunta
+    FRA:
+        common: Danemark
+        official: Royaume du Danemark
+    HRV:
+        common: Danska
+        official: Kraljevina Danska
+    HUN:
+        common: Dánia
+        official: Dán Királyság
+    ITA:
+        common: Danimarca
+        official: Regno di Danimarca
+    JPN:
+        common: デンマーク
+        official: デンマーク王国
+    KOR:
+        common: 덴마크
+        official: 덴마크 왕국
+    NLD:
+        common: Denemarken
+        official: Koninkrijk Denemarken
+    PER:
+        common: دانمارک
+        official: پادشاهی دانمارک
+    POL:
+        common: Dania
+        official: Królestwo Danii
+    POR:
+        common: Dinamarca
+        official: Reino da Dinamarca
+    RUS:
+        common: Дания
+        official: Королевство Дания
+    SLK:
+        common: Dánsko
+        official: Dánske kráľovstvo
+    SPA:
+        common: Dinamarca
+        official: Reino de Dinamarca
+    SRP:
+        common: Danska
+        official: Kraljevina Danska
+    SWE:
+        common: Danmark
+        official: Konungariket Danmark
+    TUR:
+        common: Danimarka
+        official: Danimarka Krallığı
+    URD:
+        common: ڈنمارک
+        official: مملکتِ ڈنمارک
+    ZHO:
+        common: 丹麦
+        official: 丹麦王国
 currencies:
-- DKK
+    - DKK
 borders:
-- DEU
+    - DEU
 codes:
-  alpha2: DK
-  alpha3: DNK
-  cioc: DEN
-  ccn3: "208"
-  callingcodes:
-  - "45"
-  internationalprefix: "00"
+    alpha2: DK
+    alpha3: DNK
+    cioc: DEN
+    ccn3: "208"
+    callingcodes:
+        - "45"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Copenhagen
-  area: 43094
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Copenhagen
+    area: 43094
 coordinates:
-  longitudestring: 10 00 E
-  latitudestring: 56 00 N
-  minlongitude: 4.516667
-  minlatitude: 53.583332
-  maxlongitude: 18
-  maxlatitude: 64
-  latitude: 56.10176
-  longitude: 9.555907
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 7.855200099999999
+    minlatitude: 54.4317001
+    maxlongitude: 15.2298
+    maxlatitude: 58.02846
+    latitude: 56.26392
+    longitude: 9.501785

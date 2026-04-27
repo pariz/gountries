@@ -1,67 +1,117 @@
 name:
-  common: Jersey
-  official: Bailiwick of Jersey
-  native:
-    eng:
-      common: Jersey
-      official: Bailiwick of Jersey
-    fra:
-      common: Jersey
-      official: Bailliage de Jersey
-    nrf:
-      common: Jèrri
-      official: Bailliage dé Jèrri
+    common: Jersey
+    official: The Bailiwick of Jersey
+    native:
+        eng:
+            common: Jersey
+            official: Bailiwick of Jersey
+        fra:
+            common: Jersey
+            official: Bailliage de Jersey
+        nrf:
+            common: Jèrri
+            official: Bailliage dé Jèrri
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Channel Islander
 tlds:
-- .je
+    - .je
 languages:
-  eng: English
-  fra: French
-  nrf: Jèrriais
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
+    nrf: Jèrriais
 translations:
-  FRA:
-    common: Jersey
-    official: Bailliage de Jersey
-  HRV:
-    common: Jersey
-    official: Struka od Jersey
-  ITA:
-    common: Isola di Jersey
-    official: Baliato di Jersey
-  NLD:
-    common: Jersey
-    official: Baljuwschap Jersey
-  POR:
-    common: Jersey
-    official: Bailiado de Jersey
-  SPA:
-    common: Jersey
-    official: Bailía de Jersey
+    ARA:
+        common: جيرزي
+        official: جيرزي
+    CES:
+        common: Jersey
+        official: Rychtářství Jersey
+    DEU:
+        common: Jersey
+        official: Vogtei Jersey
+    EST:
+        common: Jersey
+        official: Jersey foogtkond
+    FIN:
+        common: Jersey
+        official: Jersey
+    FRA:
+        common: Jersey
+        official: Bailliage de Jersey
+    HRV:
+        common: Jersey
+        official: Struka od Jersey
+    HUN:
+        common: Jersey
+        official: Jersey
+    ITA:
+        common: Isola di Jersey
+        official: Baliato di Jersey
+    JPN:
+        common: ジャージー
+        official: ジャージー島
+    KOR:
+        common: 저지 섬
+        official: 저지 섬
+    NLD:
+        common: Jersey
+        official: Baljuwschap Jersey
+    PER:
+        common: جرزی
+        official: جرزی
+    POL:
+        common: Jersey
+        official: Jersey
+    POR:
+        common: Jersey
+        official: Bailiado de Jersey
+    RUS:
+        common: Джерси
+        official: Коронное владение Джерси
+    SLK:
+        common: Jersey
+        official: Bailiwick Jersey
+    SPA:
+        common: Jersey
+        official: Bailía de Jersey
+    SRP:
+        common: Džerzi
+        official: Bejlivik Džerzi
+    SWE:
+        common: Jersey
+        official: Jersey
+    TUR:
+        common: Jersey
+        official: Jersey
+    URD:
+        common: جرزی
+        official: جرزی
+    ZHO:
+        common: 泽西岛
+        official: 泽西岛
 currencies:
-- GBP
-borders: []
+    - GBP
 codes:
-  alpha2: JE
-  alpha3: JEY
-  cioc: ""
-  ccn3: "832"
-  callingcodes:
-  - "44"
-  internationalprefix: ""
+    alpha2: JE
+    alpha3: JEY
+    ccn3: "832"
+    callingcodes:
+        - "44"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Saint Helier
-  area: 116
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Saint Helier
+    area: 116
 coordinates:
-  longitudestring: 2 10 W
-  latitudestring: 49 15 N
-  minlongitude: -2.253889
-  minlatitude: 49.112778
-  maxlongitude: -1.927778
-  maxlatitude: 49.305832
-  latitude: 49.228504
-  longitude: -2.1228929
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -2.2602001
+    minlatitude: 49.1582
+    maxlongitude: -2.0013001
+    maxlatitude: 49.26650009999999
+    latitude: 49.214439
+    longitude: -2.13125

@@ -1,99 +1,207 @@
-- name: Stueng Traeng [Stœ?ng Trêng]
+- name: Banteay Mean Chey [Bântéay Méanchey]
   names:
-  - Stoeng Trêng
-  - Stung Treng
-  - s.t
-  - st
-  code: "19"
+    - Banteay Mean Chey [Bântéay Méanchey]
+    - banteay meanchey
+    - b.chey
+    - bm
+    - b.m
+  code: "1"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 105.52118
-    minlatitude: 13.108477
-    maxlongitude: 106.6629
-    maxlatitude: 14.587619
-    latitude: 13.576473
-    longitude: 105.969986
-- name: Kandaal [Kândal]
+    minlongitude: 102.3400039
+    minlatitude: 13.343196
+    maxlongitude: 103.44429
+    maxlatitude: 14.24883
+    latitude: 13.6672596
+    longitude: 102.8975098
+- name: Kracheh [Krâchéh]
   names:
-  - Kandaal [Kândal]
-  - Kandal
-  - Kondal
-  - kd
-  - k.d
-  code: "8"
+    - Kratié
+    - Kratie
+    - kr.ch
+    - kr
+    - k.r
+  code: "10"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 104.69091
-    minlatitude: 11.456819
-    maxlongitude: 104.69495
-    maxlatitude: 11.45899
-    latitude: 11.457332
-    longitude: 104.693405
+    minlongitude: 105.9990121
+    minlatitude: 12.332707
+    maxlongitude: 106.409197
+    maxlatitude: 12.7869431
+    latitude: 12.5759862
+    longitude: 106.2522143
+- name: Mondol Kiri [Môndól Kiri]
+  names:
+    - Mondolkiri
+    - Mondulkiri
+    - m.ri
+    - mk
+    - m.k
+  code: "11"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.3519529
+    minlatitude: 12.059729
+    maxlongitude: 107.606102
+    maxlatitude: 13.423394
+    latitude: 12.7879427
+    longitude: 107.1011931
 - name: Phnom Penh [Phnum Pénh]
   names:
-  - Phnom Penh
-  - pp
-  - p.p
+    - Phnom Penh
+    - pp
+    - p.p
   code: "12"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 104.779655
+    minlongitude: 104.779653
     minlatitude: 11.428726
-    maxlongitude: 104.9688
+    maxlongitude: 104.968803
     maxlatitude: 11.682486
-    latitude: 11.544873
-    longitude: 104.892166
+    latitude: 11.5448729
+    longitude: 104.8921668
 - name: Preah Vihear [Preah Vihéar]
   names:
-  - Preah Vihear [Preah Vihéar]
-  - pr.h
-  - ph
-  - p.h
+    - Preah Vihear [Preah Vihéar]
+    - pr.h
+    - ph
+    - p.h
   code: "13"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 104.35393
+    minlongitude: 104.3539239
     minlatitude: 13.099064
-    maxlongitude: 105.88687
+    maxlongitude: 105.8868709
     maxlatitude: 14.434327
-    latitude: 14.008579
-    longitude: 104.84546
+    latitude: 14.0085797
+    longitude: 104.8454619
+- name: Prey Veaeng [Prey Vêng]
+  names:
+    - Prey Vêng
+    - Prey Veng
+    - pr.v
+    - pv
+    - p.v
+  code: "14"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 11.485114
+    longitude: 105.328098
+- name: Pousaat [Pouthisat]
+  names:
+    - Poŭthĭsăt
+    - Pursat
+    - p.s
+    - ps
+  code: "15"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.7871553
+    minlatitude: 12.3524528
+    maxlongitude: 104.0180611
+    maxlatitude: 12.5827952
+    latitude: 12.533333
+    longitude: 103.916667
+- name: Rotanak Kiri [Rôtânôkiri]
+  names:
+    - Ratanakiri
+    - Rotanokiri
+    - Rôtanah Kiri
+    - r.r
+    - rr
+    - rk
+    - r.k
+  code: "16"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 106.5465848
+    minlatitude: 13.1666069
+    maxlongitude: 107.6277161
+    maxlatitude: 14.6864041
+    latitude: 13.8576607
+    longitude: 107.1011931
+- name: Siem Reab [Siemréab]
+  names:
+    - Siem Reap
+    - Siemréab
+    - s.r
+    - sr
+  code: "17"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 13.3529103
+    longitude: 103.8594171
 - name: Krong Preah Sihanouk [Krong Preah Sihanouk]
   names:
-  - Preah Seihânu
-  - Sihanoukville
-  - Kompong Som
-  - Kampong Som
-  - Kompong Saom
-  - Kampong Saom
-  - k.som
-  - k.saom
-  - s.v
+    - Preah Seihânu
+    - Sihanoukville
+    - Kompong Som
+    - Kampong Som
+    - Kompong Saom
+    - Kampong Saom
+    - k.som
+    - k.saom
+    - s.v
   code: "18"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 103.18169
-    minlatitude: 10.542725
-    maxlongitude: 103.59259
-    maxlatitude: 10.78036
-    latitude: 10.625301
-    longitude: 103.5234
+    minlongitude: 103.1816841
+    minlatitude: 10.5427244
+    maxlongitude: 103.5925877
+    maxlatitude: 10.7803603
+    latitude: 10.6253016
+    longitude: 103.5233963
+- name: Stueng Traeng
+  names:
+    - Stoeng Trêng
+    - Stung Treng
+    - s.t
+    - st
+  code: "19"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.521177
+    minlatitude: 13.108477
+    maxlongitude: 106.6629029
+    maxlatitude: 14.587619
+    latitude: 13.576473
+    longitude: 105.9699878
 - name: Baat Dambang [Batdâmbâng]
   names:
-  - Batdâmbâng
-  - Battambang
-  - bb
-  - b.b
+    - Batdâmbâng
+    - Battambang
+    - bb
+    - b.b
   code: "2"
   countryalpha2: KH
   coordinates:
@@ -105,52 +213,147 @@
     maxlatitude: 0
     latitude: 0
     longitude: 0
+- name: Svaay Rieng [Svay Rieng]
+  names:
+    - Svaay Rieng [Svay Rieng]
+    - svay rieng
+    - sv.r
+    - svr
+  code: "20"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.7366598
+    minlatitude: 11.024966
+    maxlongitude: 105.8909941
+    maxlatitude: 11.1564031
+    latitude: 11.0877866
+    longitude: 105.800951
+- name: Taakaev [Takêv]
+  names:
+    - Takeo
+    - Takêv
+    - tk
+    - t.k
+  code: "21"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.4379809
+    minlatitude: 10.5201891
+    maxlongitude: 105.0994111
+    maxlatitude: 11.3528621
+    latitude: 10.9321519
+    longitude: 104.798771
 - name: 'Otdar Mean Chey [Otdâr Méanchey] '
   names:
-  - 'Otdar Mean Chey [Otdâr Méanchey] '
-  - Oddar Meanchey
-  - o.chey
-  - om
-  - o.m
+    - 'Otdar Mean Chey [Otdâr Méanchey] '
+    - Oddar Meanchey
+    - o.chey
+    - om
+    - o.m
   code: "22"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 103.04056
+    minlongitude: 103.0405579
     minlatitude: 13.909678
-    maxlongitude: 104.47485
-    maxlatitude: 14.4395075
-    latitude: 14.17172
-    longitude: 103.63627
+    maxlongitude: 104.4748511
+    maxlatitude: 14.4395071
+    latitude: 14.1717195
+    longitude: 103.6362715
+- name: Krong Kep [Krong Kêb]
+  names:
+    - Krong Kep [Krong Kêb]
+    - Kep
+  code: "23"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.2153591
+    minlatitude: 10.3438702
+    maxlongitude: 104.3620275
+    maxlatitude: 10.5781139
+    latitude: 10.543246
+    longitude: 104.319142
+- name: Krong Pailin [Krong Pailin]
+  names:
+    - Krong Pailin [Krong Pailin]
+    - Pailin
+    - pl
+    - p.l
+  code: "24"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 102.4972057
+    minlatitude: 12.6638293
+    maxlongitude: 102.7534103
+    maxlatitude: 12.8922183
+    latitude: 12.8539496
+    longitude: 102.6083506
+- name: Tbong Khmum
+  code: "25"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Kampong Chaam [Kâmpóng Cham]
   names:
-  - Kompong Cham
-  - Kompong Chaam
-  - Kampong Cham
-  - k.cham
-  - kc
-  - k.c
+    - Kompong Cham
+    - Kompong Chaam
+    - Kampong Cham
+    - k.cham
+    - kc
+    - k.c
   code: "3"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 105.400276
-    minlatitude: 11.960088
-    maxlongitude: 105.47371
-    maxlatitude: 12.017873
-    latitude: 11.99243
-    longitude: 105.46454
+    minlongitude: 105.4002787
+    minlatitude: 11.9600879
+    maxlongitude: 105.4737067
+    maxlatitude: 12.0178724
+    latitude: 11.9924294
+    longitude: 105.4645408
+- name: Kampong Chhnang [Kâmpóng Chhnang]
+  names:
+    - Kompong Chhnang
+    - k.chhnang
+    - kn
+    - k.n
+  code: "4"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.6459342
+    minlatitude: 12.2167587
+    maxlongitude: 104.7148133
+    maxlatitude: 12.3243638
+    latitude: 12.25
+    longitude: 104.666667
 - name: Kampong Spueu [Kâmpóng Spœ]
   names:
-  - Kompong Speu
-  - Kompong Spoe
-  - Kampong Speu
-  - Kampong Spoe
-  - k.speu
-  - ks
-  - k.s
+    - Kompong Speu
+    - Kompong Spoe
+    - Kampong Speu
+    - Kampong Spoe
+    - k.speu
+    - ks
+    - k.s
   code: "5"
   countryalpha2: KH
   coordinates:
@@ -161,187 +364,16 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: 11.45311
-    longitude: 104.52026
-- name: Mondol Kiri [Môndól Kiri]
-  names:
-  - Mondolkiri
-  - Mondulkiri
-  - m.ri
-  - mk
-  - m.k
-  code: "11"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 106.35195
-    minlatitude: 12.059729
-    maxlongitude: 107.6061
-    maxlatitude: 13.423394
-    latitude: 12.787943
-    longitude: 107.1012
-- name: Prey Veaeng [Prey Vêng]
-  names:
-  - Prey Vêng
-  - Prey Veng
-  - pr.v
-  - pv
-  - p.v
-  code: "14"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 11.485114
-    longitude: 105.328094
-- name: Siem Reab [Siemréab]
-  names:
-  - Siem Reap
-  - Siemréab
-  - s.r
-  - sr
-  code: "17"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 13.35291
-    longitude: 103.85942
-- name: Svaay Rieng [Svay Rieng]
-  names:
-  - Svaay Rieng [Svay Rieng]
-  - svay rieng
-  - sv.r
-  - svr
-  code: "20"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 105.73666
-    minlatitude: 11.024966
-    maxlongitude: 105.89099
-    maxlatitude: 11.156404
-    latitude: 11.087787
-    longitude: 105.80095
-- name: Taakaev [Takêv]
-  names:
-  - Takeo
-  - Takêv
-  - tk
-  - t.k
-  code: "21"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 104.43798
-    minlatitude: 10.520189
-    maxlongitude: 105.09941
-    maxlatitude: 11.352862
-    latitude: 10.932152
-    longitude: 104.798775
-- name: Krong Pailin [Krong Pailin]
-  names:
-  - Krong Pailin [Krong Pailin]
-  - Pailin
-  - pl
-  - p.l
-  code: "24"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.49721
-    minlatitude: 12.663829
-    maxlongitude: 102.75341
-    maxlatitude: 12.892219
-    latitude: 12.85395
-    longitude: 102.60835
-- name: Banteay Mean Chey [Bântéay Méanchey]
-  names:
-  - Banteay Mean Chey [Bântéay Méanchey]
-  - banteay meanchey
-  - b.chey
-  - bm
-  - b.m
-  code: "1"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 102.340004
-    minlatitude: 13.343196
-    maxlongitude: 103.44429
-    maxlatitude: 14.24883
-    latitude: 13.667259
-    longitude: 102.89751
-- name: Pousaat [Pouthisat]
-  names:
-  - Poŭthĭsăt
-  - Pursat
-  - p.s
-  - ps
-  code: "15"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 103.787155
-    minlatitude: 12.352453
-    maxlongitude: 104.01806
-    maxlatitude: 12.582795
-    latitude: 12.533333
-    longitude: 103.916664
-- name: Krong Kep [Krong Kêb]
-  names:
-  - Krong Kep [Krong Kêb]
-  - Kep
-  code: "23"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 104.21536
-    minlatitude: 10.34387
-    maxlongitude: 104.36203
-    maxlatitude: 10.578114
-    latitude: 10.543246
-    longitude: 104.319145
-- name: Kampong Chhnang [Kâmpóng Chhnang]
-  names:
-  - Kompong Chhnang
-  - k.chhnang
-  - kn
-  - k.n
-  code: "4"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 104.645935
-    minlatitude: 12.216759
-    maxlongitude: 104.71481
-    maxlatitude: 12.324364
-    latitude: 12.25
-    longitude: 104.666664
+    longitude: 104.5202599
 - name: Kampong Thum [Kâmpóng Thum]
   names:
-  - Kompong Thom
-  - Kompong Thum
-  - Kampong Thom
-  - Kampong Thum
-  - k.thom
-  - kt
-  - k.t
+    - Kompong Thom
+    - Kompong Thum
+    - Kampong Thom
+    - Kampong Thum
+    - k.thom
+    - kt
+    - k.t
   code: "6"
   countryalpha2: KH
   coordinates:
@@ -352,75 +384,55 @@
     maxlongitude: 0
     maxlatitude: 0
     latitude: 12.71197
-    longitude: 104.8886
+    longitude: 104.888603
 - name: Kampot [Kâmpôt]
   names:
-  - Kampot [Kâmpôt]
-  - k.pot
-  - kp
-  - k.p
+    - Kampot [Kâmpôt]
+    - k.pot
+    - kp
+    - k.p
   code: "7"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 103.83281
-    minlatitude: 9.903992
-    maxlongitude: 104.72443
-    maxlatitude: 11.173013
-    latitude: 10.741209
-    longitude: 104.19309
+    minlongitude: 103.8328105
+    minlatitude: 9.9039915
+    maxlongitude: 104.7244262
+    maxlatitude: 11.1730128
+    latitude: 10.7412089
+    longitude: 104.1930918
+- name: Kandaal [Kândal]
+  names:
+    - Kandaal [Kândal]
+    - Kandal
+    - Kondal
+    - kd
+    - k.d
+  code: "8"
+  countryalpha2: KH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 104.6909094
+    minlatitude: 11.4568189
+    maxlongitude: 104.6949489
+    maxlatitude: 11.4589902
+    latitude: 11.4573319
+    longitude: 104.693403
 - name: Kaoh Kong [Kaôh Kong]
   names:
-  - Koh Kong
-  - kk
-  - k.k
+    - Koh Kong
+    - kk
+    - k.k
   code: "9"
   countryalpha2: KH
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 102.78002
-    minlatitude: 9.28784
-    maxlongitude: 104.14687
-    maxlatitude: 12.149456
-    latitude: 11.576281
-    longitude: 103.35873
-- name: Kracheh [Krâchéh]
-  names:
-  - Kratié
-  - Kratie
-  - kr.ch
-  - kr
-  - k.r
-  code: "10"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 105.999016
-    minlatitude: 12.332707
-    maxlongitude: 106.409195
-    maxlatitude: 12.786943
-    latitude: 12.575986
-    longitude: 106.25221
-- name: Rotanak Kiri [Rôtânôkiri]
-  names:
-  - Ratanakiri
-  - Rotanokiri
-  - Rôtanah Kiri
-  - r.r
-  - rr
-  - rk
-  - r.k
-  code: "16"
-  countryalpha2: KH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 106.546585
-    minlatitude: 13.166607
-    maxlongitude: 107.627716
-    maxlatitude: 14.686404
-    latitude: 13.85766
-    longitude: 107.1012
+    minlongitude: 102.7800221
+    minlatitude: 9.287840300000001
+    maxlongitude: 104.146877
+    maxlatitude: 12.1494559
+    latitude: 11.5762804
+    longitude: 103.3587288

@@ -1,62 +1,114 @@
 name:
-  common: Ghana
-  official: Republic of Ghana
-  native:
-    eng:
-      common: Ghana
-      official: Republic of Ghana
+    common: Ghana
+    official: The Republic of Ghana
+    native:
+        eng:
+            common: Ghana
+            official: Republic of Ghana
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ghanaian
 tlds:
-- .gh
+    - .gh
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Ghana
-    official: Republik Ghana
-  FRA:
-    common: Ghana
-    official: République du Ghana
-  HRV:
-    common: Gana
-    official: Republika Gana
-  JPN:
-    common: ガーナ
-    official: ガーナ共和国
-  POR:
-    common: Gana
-    official: República do Gana
-  SPA:
-    common: Ghana
-    official: República de Ghana
+    ARA:
+        common: غانا
+        official: جمهورية غانا
+    CES:
+        common: Ghana
+        official: Ghanská republika
+    DEU:
+        common: Ghana
+        official: Republik Ghana
+    EST:
+        common: Ghana
+        official: Ghana Vabariik
+    FIN:
+        common: Ghana
+        official: Ghanan tasavalta
+    FRA:
+        common: Ghana
+        official: République du Ghana
+    HRV:
+        common: Gana
+        official: Republika Gana
+    HUN:
+        common: Ghána
+        official: Ghánai Köztársaság
+    ITA:
+        common: Ghana
+        official: Repubblica del Ghana
+    JPN:
+        common: ガーナ
+        official: ガーナ共和国
+    KOR:
+        common: 가나
+        official: 가나 공화국
+    NLD:
+        common: Ghana
+        official: Republiek Ghana
+    PER:
+        common: غنا
+        official: جمهوری غنا
+    POL:
+        common: Ghana
+        official: Republika Ghany
+    POR:
+        common: Gana
+        official: República do Gana
+    RUS:
+        common: Гана
+        official: Республика Гана
+    SLK:
+        common: Ghana
+        official: Ghanská republika
+    SPA:
+        common: Ghana
+        official: República de Ghana
+    SRP:
+        common: Gana
+        official: Republika Gana
+    SWE:
+        common: Ghana
+        official: Republiken Ghana
+    TUR:
+        common: Gana
+        official: Gana Cumhuriyeti
+    URD:
+        common: گھانا
+        official: جمہوریہ گھانا
+    ZHO:
+        common: 加纳
+        official: 加纳共和国
 currencies:
-- GHS
+    - GHS
 borders:
-- BFA
-- CIV
-- TGO
+    - BFA
+    - CIV
+    - TGO
 codes:
-  alpha2: GH
-  alpha3: GHA
-  cioc: GHA
-  ccn3: "288"
-  callingcodes:
-  - "233"
-  internationalprefix: "00"
+    alpha2: GH
+    alpha3: GHA
+    cioc: GHA
+    ccn3: "288"
+    callingcodes:
+        - "233"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Accra
-  area: 238533
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Accra
+    area: 238533
 coordinates:
-  longitudestring: 2 00 W
-  latitudestring: 8 00 N
-  minlongitude: -4
-  minlatitude: 4.733333
-  maxlongitude: 1.192778
-  maxlatitude: 11.15
-  latitude: 7.9213305
-  longitude: -1.2043862
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -3.2607859
+    minlatitude: 4.6339001
+    maxlongitude: 1.199972
+    maxlatitude: 11.1750308
+    latitude: 7.946527
+    longitude: -1.023194

@@ -1,72 +1,119 @@
 name:
-  common: Djibouti
-  official: Republic of Djibouti
-  native:
-    ara:
-      common: جيبوتي‎
-      official: جمهورية جيبوتي
-    fra:
-      common: Djibouti
-      official: République de Djibouti
+    common: Djibouti
+    official: The Republic of Djibouti
+    native:
+        ara:
+            common: جيبوتي
+            official: جمهورية جيبوتي
+        fra:
+            common: Djibouti
+            official: République de Djibouti
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Djibouti
 tlds:
-- .dj
+    - .dj
 languages:
-  ara: Arabic
-  fra: French
+    ar: ""
+    ara: Arabic
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Dschibuti
-    official: Republik Dschibuti
-  FIN:
-    common: Dijibouti
-    official: Dijiboutin tasavalta
-  FRA:
-    common: Djibouti
-    official: République de Djibouti
-  HRV:
-    common: Džibuti
-    official: Republika Džibuti
-  NLD:
-    common: Djibouti
-    official: Republiek Djibouti
-  POR:
-    common: Djibouti
-    official: República do Djibouti
-  RUS:
-    common: Джибути
-    official: Республика Джибути
-  SPA:
-    common: Djibouti
-    official: República de Djibouti
+    ARA:
+        common: جيبوتي
+        official: جمهورية جيبوتي
+    CES:
+        common: Džibutsko
+        official: Džibutská republika
+    DEU:
+        common: Dschibuti
+        official: Republik Dschibuti
+    EST:
+        common: Djibouti
+        official: Djibouti Vabariik
+    FIN:
+        common: Dijibouti
+        official: Dijiboutin tasavalta
+    FRA:
+        common: Djibouti
+        official: République de Djibouti
+    HRV:
+        common: Džibuti
+        official: Republika Džibuti
+    HUN:
+        common: Dzsibuti
+        official: Dzsibuti Köztársaság
+    ITA:
+        common: Gibuti
+        official: Repubblica di Gibuti
+    JPN:
+        common: ジブチ
+        official: ジブチ共和国
+    KOR:
+        common: 지부티
+        official: 지부티 공화국
+    NLD:
+        common: Djibouti
+        official: Republiek Djibouti
+    PER:
+        common: جیبوتی
+        official: جمهوری جیبوتی
+    POL:
+        common: Dżibuti
+        official: Republika Dżibuti
+    POR:
+        common: Djibouti
+        official: República do Djibouti
+    RUS:
+        common: Джибути
+        official: Республика Джибути
+    SLK:
+        common: ǅibutsko
+        official: ǅibutská republika
+    SPA:
+        common: Djibouti
+        official: República de Djibouti
+    SRP:
+        common: Džibuti
+        official: Republika Džibuti
+    SWE:
+        common: Djibouti
+        official: Republiken Djibouti
+    TUR:
+        common: Cibuti
+        official: Cibuti Cumhuriyeti
+    URD:
+        common: جبوتی
+        official: جمہوریہ جبوتی
+    ZHO:
+        common: 吉布提
+        official: 吉布提共和国
 currencies:
-- DJF
+    - DJF
 borders:
-- ERI
-- ETH
-- SOM
+    - ERI
+    - ETH
+    - SOM
 codes:
-  alpha2: DJ
-  alpha3: DJI
-  cioc: DJI
-  ccn3: "262"
-  callingcodes:
-  - "253"
-  internationalprefix: "00"
+    alpha2: DJ
+    alpha3: DJI
+    cioc: DJI
+    ccn3: "262"
+    callingcodes:
+        - "253"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Djibouti
-  area: 23200
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Djibouti
+    area: 23200
 coordinates:
-  longitudestring: 43 00 E
-  latitudestring: 11 30 N
-  minlongitude: 41
-  minlatitude: 10.9825
-  maxlongitude: 43.451942
-  maxlatitude: 13
-  latitude: 11.742592
-  longitude: 42.63183
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.77084600000001
+    minlatitude: 10.912953
+    maxlongitude: 43.4839
+    maxlatitude: 12.7136972
+    latitude: 11.825138
+    longitude: 42.590275

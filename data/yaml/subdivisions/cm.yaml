@@ -1,6 +1,6 @@
 - name: Adamaoua
   names:
-  - Adamawa
+    - Adamawa
   code: AD
   countryalpha2: CM
   coordinates:
@@ -8,133 +8,133 @@
     latitudestring: ""
     minlongitude: 11.173742
     minlatitude: 5.992985
-    maxlongitude: 15.249244
-    maxlatitude: 8.1690445
-    latitude: 6.9181952
-    longitude: 12.805475
-- name: Littoral
-  names:
-  - Littoral
-  code: LT
-  countryalpha2: CM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.328249
-    minlatitude: 3.2601087
-    maxlongitude: 11.133462
-    maxlatitude: 5.34718
-    latitude: 4.168214
-    longitude: 10.0807295
-- name: North-West
-  names:
-  - North-West
-  code: NW
-  countryalpha2: CM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.630775
-    minlatitude: 5.733761
-    maxlongitude: 11.194967
-    maxlatitude: 7.161691
-    latitude: 6.470374
-    longitude: 10.439656
-- name: West
-  names:
-  - West
-  code: OU
-  countryalpha2: CM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.881679
-    minlatitude: 4.897808
-    maxlongitude: 11.321056
-    maxlatitude: 6.271624
-    latitude: 5.4638157
-    longitude: 10.800005
-- name: South
-  names:
-  - South
-  code: SU
-  countryalpha2: CM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 9.820998
-    minlatitude: 2.1588318
-    maxlongitude: 13.681523
-    maxlatitude: 3.6768782
-    latitude: 2.7202833
-    longitude: 11.706829
-- name: South-West
-  names:
-  - South-West
-  code: SW
-  countryalpha2: CM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.494763
-    minlatitude: 3.9221988
-    maxlongitude: 10.15105
-    maxlatitude: 6.530784
-    latitude: 5.157349
-    longitude: 9.367309
+    maxlongitude: 15.2492441
+    maxlatitude: 8.1690449
+    latitude: 6.9181954
+    longitude: 12.8054753
 - name: Centre
   names:
-  - Centre
+    - Centre
   code: CE
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 10.261895
+    minlongitude: 10.2618951
     minlatitude: 3.139809
     maxlongitude: 13.248086
-    maxlatitude: 6.262234
-    latitude: 4.6298413
-    longitude: 11.706829
+    maxlatitude: 6.262233999999999
+    latitude: 4.6298411
+    longitude: 11.7068294
 - name: Far North
   names:
-  - Far North
+    - Far North
   code: EN
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 13.363565
-    minlatitude: 9.924493
+    minlatitude: 9.9244931
     maxlongitude: 15.683687
-    maxlatitude: 12.979705
-    latitude: 10.631559
-    longitude: 14.658782
+    maxlatitude: 12.9797045
+    latitude: 10.6315589
+    longitude: 14.6587821
 - name: East
   names:
-  - East
+    - East
   code: ES
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.5253725
-    minlatitude: 1.652548
-    maxlongitude: 16.192116
-    maxlatitude: 6.0856643
-    latitude: 3.950513
+    minlongitude: 12.5253721
+    minlatitude: 1.6525479
+    maxlongitude: 16.1921161
+    maxlatitude: 6.0856641
+    latitude: 3.950512799999999
     longitude: 13.914399
+- name: Littoral
+  names:
+    - Littoral
+  code: LT
+  countryalpha2: CM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.328249399999999
+    minlatitude: 3.2601088
+    maxlongitude: 11.133462
+    maxlatitude: 5.3471799
+    latitude: 4.1682138
+    longitude: 10.0807298
 - name: North
   names:
-  - Bénoué
+    - Bénoué
   code: "NO"
   countryalpha2: CM
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 12.2255
-    minlatitude: 7.029079
+    minlatitude: 7.029078999999999
     maxlongitude: 15.598204
     maxlatitude: 10.219281
-    latitude: 8.580901
+    latitude: 8.580901299999999
     longitude: 13.914399
+- name: North-West
+  names:
+    - North-West
+  code: NW
+  countryalpha2: CM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.6307759
+    minlatitude: 5.733760999999999
+    maxlongitude: 11.194967
+    maxlatitude: 7.1616911
+    latitude: 6.470373899999999
+    longitude: 10.439656
+- name: West
+  names:
+    - West
+  code: OU
+  countryalpha2: CM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.881679
+    minlatitude: 4.897807999999999
+    maxlongitude: 11.3210561
+    maxlatitude: 6.2716239
+    latitude: 5.4638158
+    longitude: 10.8000051
+- name: South
+  names:
+    - South
+  code: SU
+  countryalpha2: CM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.820998
+    minlatitude: 2.1588319
+    maxlongitude: 13.681523
+    maxlatitude: 3.6768781
+    latitude: 2.7202832
+    longitude: 11.7068294
+- name: South-West
+  names:
+    - South-West
+  code: SW
+  countryalpha2: CM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.4947634
+    minlatitude: 3.9221987
+    maxlongitude: 10.15105
+    maxlatitude: 6.530783899999999
+    latitude: 5.1573493
+    longitude: 9.367308399999999

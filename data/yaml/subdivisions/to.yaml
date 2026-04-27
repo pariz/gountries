@@ -1,71 +1,71 @@
 - name: '''Eua'
   names:
-  - Middleburg Island
-  - ʿEua
+    - Middleburg Island
+    - ʿEua
   code: "01"
   countryalpha2: TO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -174.97226
+    minlongitude: -174.9722574
     minlatitude: -21.455057
-    maxlongitude: -174.90436
-    maxlatitude: -21.283373
-    latitude: -21.363195
-    longitude: -174.92972
+    maxlongitude: -174.9043558
+    maxlatitude: -21.2833727
+    latitude: -21.3631956
+    longitude: -174.9297206
 - name: Ha'apai
   names:
-  - Ha'apai
+    - Ha'apai
   code: "02"
   countryalpha2: TO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -175.41776
-    minlatitude: -20.5584
-    maxlongitude: -174.26846
-    maxlatitude: -19.593002
-    latitude: -19.750633
-    longitude: -175.05452
+    minlongitude: -175.417755
+    minlatitude: -20.5583992
+    maxlongitude: -174.268463
+    maxlatitude: -19.5930023
+    latitude: -19.7506337
+    longitude: -175.0545197
 - name: Niuas
   names:
-  - Niuas
+    - Niuas
   code: "03"
   countryalpha2: TO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -175.67961
-    minlatitude: -15.963783
-    maxlongitude: -173.70248
-    maxlatitude: -15.566393
-    latitude: -15.609761
-    longitude: -175.63321
+    minlongitude: -175.6796157
+    minlatitude: -15.9637832
+    maxlongitude: -173.7024841
+    maxlatitude: -15.5663927
+    latitude: -15.6097616
+    longitude: -175.6332093
 - name: Tongatapu
   names:
-  - Tongatapu
+    - Tongatapu
   code: "04"
   countryalpha2: TO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -175.36137
+    minlongitude: -175.3613689
     minlatitude: -21.278193
-    maxlongitude: -175.02852
+    maxlongitude: -175.0285149
     maxlatitude: -21.061676
-    latitude: -21.146597
-    longitude: -175.25154
+    latitude: -21.1465968
+    longitude: -175.2515482
 - name: Vava'u
   names:
-  - Vava'u
+    - Vava'u
   code: "05"
   countryalpha2: TO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -174.86719
+    minlongitude: -174.8671875
     minlatitude: -19.180176
-    maxlongitude: -173.90758
-    maxlatitude: -18.00829
-    latitude: -18.581196
-    longitude: -173.985
+    maxlongitude: -173.907578
+    maxlatitude: -18.0082895
+    latitude: -18.5811962
+    longitude: -173.985008

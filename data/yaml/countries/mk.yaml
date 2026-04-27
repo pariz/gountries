@@ -1,64 +1,116 @@
 name:
-  common: Macedonia
-  official: Republic of Macedonia
-  native:
-    mkd:
-      common: Македонија
-      official: Република Македонија
+    common: North Macedonia
+    official: The Republic of North Macedonia
+    native:
+        mkd:
+            common: Македонија
+            official: Република Северна Македонија
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Macedonian
 tlds:
-- .mk
+    - .mk
 languages:
-  mkd: Macedonian
+    mk: ""
+    mkd: Macedonian
 translations:
-  DEU:
-    common: Mazedonien
-    official: Republik Mazedonien
-  FIN:
-    common: Makedonia
-    official: Makedonian tasavalta
-  HRV:
-    common: Makedonija
-    official: Republika Makedonija
-  NLD:
-    common: Macedonië
-    official: Republic of Macedonia
-  RUS:
-    common: Республика Македония
-    official: Республика Македония
-  SPA:
-    common: Macedonia
-    official: República de Macedonia
+    ARA:
+        common: شمال مقدونيا
+        official: جمهورية شمال مقدونيا
+    CES:
+        common: Severní Makedonie
+        official: Republika Severní Makedonie
+    DEU:
+        common: Nordmazedonien
+        official: Republik Nordmazedonien
+    EST:
+        common: Põhja-Makedoonia
+        official: Põhja-Makedoonia Vabariik
+    FIN:
+        common: Pohjois-Makedonia
+        official: Pohjois-Makedonian tasavalta
+    FRA:
+        common: Macédoine du Nord
+        official: République de Macédoine du Nord
+    HRV:
+        common: Sjeverna Makedonija
+        official: Republika Sjeverna Makedonija
+    HUN:
+        common: Észak-Macedónia
+        official: Észak-macedón Köztársaság
+    ITA:
+        common: Macedonia del Nord
+        official: Repubblica di Macedonia del Nord
+    JPN:
+        common: 北マケドニア
+        official: 北マケドニア共和国
+    KOR:
+        common: 북마케도니아
+        official: 북마케도니아 공화국
+    NLD:
+        common: Noord-Macedonië
+        official: Republiek Noord-Macedonië
+    PER:
+        common: مقدونیه شمالی
+        official: جمهوری مقدونیه شمالی
+    POL:
+        common: Macedonia Północna
+        official: Republika Macedonii Północnej
+    POR:
+        common: Macedónia do Norte
+        official: República da Macedônia do Norte
+    RUS:
+        common: Северная Македония
+        official: Республика Северная Македония
+    SLK:
+        common: Severné Macedónsko
+        official: Severomacedónska republika
+    SPA:
+        common: Macedonia del Norte
+        official: República de Macedonia del Norte
+    SRP:
+        common: Severna Makedonija
+        official: Republika Severna Makedonija
+    SWE:
+        common: Nordmakedonien
+        official: Republiken Nordmakedonien
+    TUR:
+        common: Kuzey Makedonya
+        official: Kuzey Makedonya Cumhuriyeti
+    URD:
+        common: شمالی مقدونیہ
+        official: جمہوریہ مقدونیہ
+    ZHO:
+        common: 北馬其頓
+        official: 北馬其頓共和國
 currencies:
-- MKD
+    - MKD
 borders:
-- ALB
-- BGR
-- GRC
-- KOS
-- SRB
+    - ALB
+    - BGR
+    - GRC
+    - UNK
+    - SRB
 codes:
-  alpha2: MK
-  alpha3: MKD
-  cioc: MKD
-  ccn3: "807"
-  callingcodes:
-  - "389"
-  internationalprefix: "00"
+    alpha2: MK
+    alpha3: MKD
+    cioc: MKD
+    ccn3: "807"
+    callingcodes:
+        - "389"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Skopje
-  area: 25713
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Skopje
+    area: 25713
 coordinates:
-  longitudestring: 22 00 E
-  latitudestring: 41 50 N
-  minlongitude: 20.459167
-  minlatitude: 40.86667
-  maxlongitude: 23.033333
-  maxlatitude: 42.373055
-  latitude: 41.600456
-  longitude: 21.700895
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.452423
+    minlatitude: 40.8537826
+    maxlongitude: 23.0340441
+    maxlatitude: 42.373646
+    latitude: 41.608635
+    longitude: 21.745275

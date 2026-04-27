@@ -1,75 +1,122 @@
 name:
-  common: Cameroon
-  official: Republic of Cameroon
-  native:
-    eng:
-      common: Cameroon
-      official: Republic of Cameroon
-    fra:
-      common: Cameroun
-      official: République du Cameroun
+    common: Cameroon
+    official: The Republic of Cameroon
+    native:
+        eng:
+            common: Cameroon
+            official: Republic of Cameroon
+        fra:
+            common: Cameroun
+            official: République du Cameroun
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cameroonian
 tlds:
-- .cm
+    - .cm
 languages:
-  eng: English
-  fra: French
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Kamerun
-    official: Republik Kamerun
-  FRA:
-    common: Cameroun
-    official: République du Cameroun
-  HRV:
-    common: Kamerun
-    official: Republika Kamerun
-  ITA:
-    common: Camerun
-    official: Repubblica del Camerun
-  JPN:
-    common: カメルーン
-    official: カメルーン共和国
-  NLD:
-    common: Kameroen
-    official: Republiek Kameroen
-  POR:
-    common: Camarões
-    official: República dos Camarões
-  RUS:
-    common: Камерун
-    official: Республика Камерун
+    ARA:
+        common: الكاميرون
+        official: جمهورية الكاميرون
+    CES:
+        common: Kamerun
+        official: Kamerunská republika
+    DEU:
+        common: Kamerun
+        official: Republik Kamerun
+    EST:
+        common: Kamerun
+        official: Kameruni Vabariik
+    FIN:
+        common: Kamerun
+        official: Kamerunin tasavalta
+    FRA:
+        common: Cameroun
+        official: République du Cameroun
+    HRV:
+        common: Kamerun
+        official: Republika Kamerun
+    HUN:
+        common: Kamerun
+        official: Kameruni Köztársaság
+    ITA:
+        common: Camerun
+        official: Repubblica del Camerun
+    JPN:
+        common: カメルーン
+        official: カメルーン共和国
+    KOR:
+        common: 카메룬
+        official: 카메룬 공화국
+    NLD:
+        common: Kameroen
+        official: Republiek Kameroen
+    PER:
+        common: کامِرون
+        official: جمهوری کامِرون
+    POL:
+        common: WybrzeŻe Kości Słoniowej
+        official: Republika WybrzeŻa Kości Słoniowej
+    POR:
+        common: Camarões
+        official: República dos Camarões
+    RUS:
+        common: Камерун
+        official: Республика Камерун
+    SLK:
+        common: Kamerun
+        official: Kamerunská republika
+    SPA:
+        common: Camerún
+        official: República de Camerún
+    SRP:
+        common: Kamerun
+        official: Republika Kamerun
+    SWE:
+        common: Kamerun
+        official: Republiken Kamerun
+    TUR:
+        common: Kamerun
+        official: Kamerun Cumhuriyeti
+    URD:
+        common: کیمرون
+        official: جمہوریہ کیمرون
+    ZHO:
+        common: 喀麦隆
+        official: 喀麦隆共和国
 currencies:
-- XAF
+    - XAF
 borders:
-- CAF
-- TCD
-- COG
-- GNQ
-- GAB
-- NGA
+    - CAF
+    - TCD
+    - COG
+    - GNQ
+    - GAB
+    - NGA
 codes:
-  alpha2: CM
-  alpha3: CMR
-  cioc: CMR
-  ccn3: "120"
-  callingcodes:
-  - "237"
-  internationalprefix: "00"
+    alpha2: CM
+    alpha3: CMR
+    cioc: CMR
+    ccn3: "120"
+    callingcodes:
+        - "237"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Yaoundé
-  area: 475442
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: Yaoundé
+    area: 475442
 coordinates:
-  longitudestring: 12 00 E
-  latitudestring: 6 00 N
-  minlongitude: 8.483333
-  minlatitude: 2.016667
-  maxlongitude: 16
-  maxlatitude: 16
-  latitude: 5.685477
-  longitude: 12.7228775
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.3936001
+    minlatitude: 1.6559
+    maxlongitude: 16.1944081
+    maxlatitude: 13.083335
+    latitude: 7.369721999999999
+    longitude: 12.354722

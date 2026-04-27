@@ -1,35 +1,5 @@
-- name: Diekirch
-  names:
-  - Diekirch
-  code: D
-  countryalpha2: LU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.1175203
-    minlatitude: 49.83493
-    maxlongitude: 6.18069
-    maxlatitude: 49.8987
-    latitude: 49.86718
-    longitude: 6.159563
-- name: Grevenmacher
-  names:
-  - Grevenmacher
-  code: G
-  countryalpha2: LU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.3601103
-    minlatitude: 49.65408
-    maxlongitude: 6.46106
-    maxlatitude: 49.6997
-    latitude: 49.68084
-    longitude: 6.440759
-- name: Luxembourg (fr)
-  names:
-  - Luxemburg
-  code: L
+- name: Kapellen
+  code: CA
   countryalpha2: LU
   coordinates:
     longitudestring: ""
@@ -38,5 +8,137 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 48.845577
-    longitude: 2.339852
+    latitude: 49.633333
+    longitude: 6
+- name: Klierf
+  code: CL
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 50.066667
+    longitude: 6.033333
+- name: Diekrech
+  code: DI
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.1175201
+    minlatitude: 49.83493
+    maxlongitude: 6.180689999999999
+    maxlatitude: 49.8987
+    latitude: 49.8671784
+    longitude: 6.159563299999999
+- name: Iechternach
+  code: EC
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.8
+    longitude: 6.4
+- name: Esch-Uelzecht
+  code: ES
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.5
+    longitude: 6
+- name: Gréivemaacher
+  code: GR
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.3601101
+    minlatitude: 49.6540799
+    maxlongitude: 6.4610601
+    maxlatitude: 49.6997
+    latitude: 49.680841
+    longitude: 6.440759300000001
+- name: Lëtzebuerg
+  code: LU
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Miersch
+  code: ME
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.6
+    longitude: 6.1
+- name: Réiden-Atert
+  code: RD
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.8
+    longitude: 5.8
+- name: Réimech
+  code: RM
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.5
+    longitude: 6.3
+- name: Veianen
+  code: VD
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.933333
+    longitude: 6.166667
+- name: Wolz
+  code: WI
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 49.95
+    longitude: 5.933333

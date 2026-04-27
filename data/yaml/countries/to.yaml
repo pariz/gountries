@@ -1,69 +1,115 @@
 name:
-  common: Tonga
-  official: Kingdom of Tonga
-  native:
-    eng:
-      common: Tonga
-      official: Kingdom of Tonga
-    ton:
-      common: Tonga
-      official: Kingdom of Tonga
+    common: Tonga
+    official: The Kingdom of Tonga
+    native:
+        eng:
+            common: Tonga
+            official: Kingdom of Tonga
+        ton:
+            common: Tonga
+            official: Kingdom of Tonga
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Tongan
 tlds:
-- .to
+    - .to
 languages:
-  eng: English
-  ton: Tongan
+    en: ""
+    eng: English
+    to: ""
+    ton: Tongan
 translations:
-  DEU:
-    common: Tonga
-    official: Königreich Tonga
-  FIN:
-    common: Tonga
-    official: Tongan kuningaskunta
-  FRA:
-    common: Tonga
-    official: Royaume des Tonga
-  HRV:
-    common: Tonga
-    official: Kraljevina Tonga
-  ITA:
-    common: Tonga
-    official: Regno di Tonga
-  JPN:
-    common: トンガ
-    official: トンガ王国
-  POR:
-    common: Tonga
-    official: Reino de Tonga
-  SPA:
-    common: Tonga
-    official: Reino de Tonga
+    ARA:
+        common: تونغا
+        official: مملكة تونغا
+    CES:
+        common: Tonga
+        official: Království Tonga
+    DEU:
+        common: Tonga
+        official: Königreich Tonga
+    EST:
+        common: Tonga
+        official: Tonga Kuningriik
+    FIN:
+        common: Tonga
+        official: Tongan kuningaskunta
+    FRA:
+        common: Tonga
+        official: Royaume des Tonga
+    HRV:
+        common: Tonga
+        official: Kraljevina Tonga
+    HUN:
+        common: Tonga
+        official: Tongai Királyság
+    ITA:
+        common: Tonga
+        official: Regno di Tonga
+    JPN:
+        common: トンガ
+        official: トンガ王国
+    KOR:
+        common: 통가
+        official: 통가 왕국
+    NLD:
+        common: Tonga
+        official: Koninkrijk Tonga
+    PER:
+        common: تونگا
+        official: پادشاهی تونگا
+    POL:
+        common: Tonga
+        official: Królestwo Tonga
+    POR:
+        common: Tonga
+        official: Reino de Tonga
+    RUS:
+        common: Тонга
+        official: Королевство Тонга
+    SLK:
+        common: Tonga
+        official: Tongské kráľovstvo
+    SPA:
+        common: Tonga
+        official: Reino de Tonga
+    SRP:
+        common: Tonga
+        official: Kraljevina Tonga
+    SWE:
+        common: Tonga
+        official: Konungariket Tonga
+    TUR:
+        common: Tonga
+        official: Tonga Krallığı
+    URD:
+        common: ٹونگا
+        official: مملکتِ ٹونگا
+    ZHO:
+        common: 汤加
+        official: 汤加王国
 currencies:
-- TOP
-borders: []
+    - TOP
 codes:
-  alpha2: TO
-  alpha3: TON
-  cioc: TGA
-  ccn3: "776"
-  callingcodes:
-  - "676"
-  internationalprefix: "00"
+    alpha2: TO
+    alpha3: TON
+    cioc: TGA
+    ccn3: "776"
+    callingcodes:
+        - "676"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Nuku'alofa
-  area: 747
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Nuku'alofa
+    area: 747
 coordinates:
-  longitudestring: 175 00 W
-  latitudestring: 20 00 S
-  minlongitude: -176.2
-  minlatitude: -22.333332
-  maxlongitude: -150
-  maxlatitude: -15.566667
-  latitude: -21.147612
-  longitude: -175.25067
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -175.9570313
+    minlatitude: -21.8360059
+    maxlongitude: -173.2543946
+    maxlatitude: -15.4060236
+    latitude: -21.178986
+    longitude: -175.198242

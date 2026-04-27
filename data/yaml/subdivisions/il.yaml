@@ -1,92 +1,92 @@
-- name: Haifa
-  names:
-  - Hefa
-  - H̱efa
-  - Haifa
-  - Haifa
-  - Haifa
-  code: HA
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.95406
-    minlatitude: 32.756565
-    maxlongitude: 35.079494
-    maxlatitude: 32.84268
-    latitude: 32.794044
-    longitude: 34.98957
-- name: Yerushalayim
-  names:
-  - al-Quds
-  - Yerushalayim
-  - Jerusalem
-  - Jérusalem
-  - Jerusalén
-  code: JM
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.08543
-    minlatitude: 31.709677
-    maxlongitude: 35.265285
-    maxlatitude: 31.88296
-    latitude: 31.768318
-    longitude: 35.21371
-- name: HaMerkaz
-  names:
-  - Central
-  code: M
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.666542
-    minlatitude: 31.757193
-    maxlongitude: 35.051422
-    maxlatitude: 32.4126
-    latitude: 31.95211
-    longitude: 34.90655
-- name: Tel-Aviv
-  names:
-  - Tel-Aviv
-  code: TA
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 34.742516
-    minlatitude: 32.029255
-    maxlongitude: 34.851974
-    maxlatitude: 32.146507
-    latitude: 32.0853
-    longitude: 34.78177
-- name: HaZafon
-  names:
-  - Northern
-  code: Z
-  countryalpha2: IL
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.027298
-    minlatitude: 32.386967
-    maxlongitude: 35.896244
-    maxlatitude: 33.332806
-    latitude: 32.897224
-    longitude: 35.302723
 - name: HaDarom
   names:
-  - Southern
+    - Southern
   code: D
   countryalpha2: IL
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 34.267387
-    minlatitude: 29.490646
-    maxlongitude: 35.454918
-    maxlatitude: 31.87795
-    latitude: 30.829561
-    longitude: 35.038815
+    minlongitude: 34.2673871
+    minlatitude: 29.4906471
+    maxlongitude: 35.4549186
+    maxlatitude: 31.8779508
+    latitude: 30.829562
+    longitude: 35.0388164
+- name: Haifa
+  names:
+    - Hefa
+    - H̱efa
+    - Haifa
+    - Haifa
+    - Haifa
+  code: HA
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.954059
+    minlatitude: 32.7565638
+    maxlongitude: 35.079493
+    maxlatitude: 32.842681
+    latitude: 32.7940463
+    longitude: 34.989571
+- name: Yerushalayim
+  names:
+    - al-Quds
+    - Yerushalayim
+    - Jerusalem
+    - Jérusalem
+    - Jerusalén
+  code: JM
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.0854311
+    minlatitude: 31.7096771
+    maxlongitude: 35.2652869
+    maxlatitude: 31.8829601
+    latitude: 31.768319
+    longitude: 35.21371
+- name: HaMerkaz
+  names:
+    - Central
+  code: M
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.66654279999999
+    minlatitude: 31.7571918
+    maxlongitude: 35.051422
+    maxlatitude: 32.4126018
+    latitude: 31.9521108
+    longitude: 34.906551
+- name: Tel-Aviv
+  names:
+    - Tel-Aviv
+  code: TA
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.7425159
+    minlatitude: 32.0292531
+    maxlongitude: 34.8519761
+    maxlatitude: 32.1465073
+    latitude: 32.0852999
+    longitude: 34.78176759999999
+- name: HaZafon
+  names:
+    - Northern
+  code: Z
+  countryalpha2: IL
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.0272979
+    minlatitude: 32.3869671
+    maxlongitude: 35.896244
+    maxlatitude: 33.33280500000001
+    latitude: 32.8972246
+    longitude: 35.3027226

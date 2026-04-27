@@ -1,63 +1,111 @@
 name:
-  common: Gibraltar
-  official: Gibraltar
-  native:
-    eng:
-      common: Gibraltar
-      official: Gibraltar
+    common: Gibraltar
+    official: Gibraltar
+    native:
+        eng:
+            common: Gibraltar
+            official: Gibraltar
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Gibraltar
 tlds:
-- .gi
+    - .gi
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Gibraltar
-    official: Gibraltar
-  FIN:
-    common: Gibraltar
-    official: Gibraltar
-  ITA:
-    common: Gibilterra
-    official: Gibilterra
-  JPN:
-    common: ジブラルタル
-    official: ジブラルタル
-  NLD:
-    common: Gibraltar
-    official: Gibraltar
-  RUS:
-    common: Гибралтар
-    official: Гибралтар
-  SPA:
-    common: Gibraltar
-    official: Gibraltar
+    ARA:
+        common: جبل طارق
+        official: جبل طارق
+    CES:
+        common: Gibraltar
+        official: Gibraltar
+    DEU:
+        common: Gibraltar
+        official: Gibraltar
+    EST:
+        common: Gibraltar
+        official: Gibraltar
+    FIN:
+        common: Gibraltar
+        official: Gibraltar
+    FRA:
+        common: Gibraltar
+        official: Gibraltar
+    HRV:
+        common: Gibraltar
+        official: Gibraltar
+    HUN:
+        common: Gibraltár
+        official: Gibraltár
+    ITA:
+        common: Gibilterra
+        official: Gibilterra
+    JPN:
+        common: ジブラルタル
+        official: ジブラルタル
+    KOR:
+        common: 지브롤터
+        official: 지브롤터
+    NLD:
+        common: Gibraltar
+        official: Gibraltar
+    PER:
+        common: جبل طارق
+        official: جبل طارق
+    POL:
+        common: Gibraltar
+        official: Gibraltar
+    POR:
+        common: Gibraltar
+        official: Gibraltar
+    RUS:
+        common: Гибралтар
+        official: Гибралтар
+    SLK:
+        common: Gibraltár
+        official: Gibraltár
+    SPA:
+        common: Gibraltar
+        official: Gibraltar
+    SRP:
+        common: Gibraltar
+        official: Gibraltar
+    SWE:
+        common: Gibraltar
+        official: Gibraltar
+    TUR:
+        common: Cebelitarık
+        official: Cebelitarık
+    URD:
+        common: جبل الطارق
+        official: جبل الطارق
+    ZHO:
+        common: 直布罗陀
+        official: 直布罗陀
 currencies:
-- GIP
+    - GIP
 borders:
-- ESP
+    - ESP
 codes:
-  alpha2: GI
-  alpha3: GIB
-  cioc: ""
-  ccn3: "292"
-  callingcodes:
-  - "350"
-  internationalprefix: "00"
+    alpha2: GI
+    alpha3: GIB
+    ccn3: "292"
+    callingcodes:
+        - "350"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Gibraltar
-  area: 6
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Gibraltar
+    area: 6
 coordinates:
-  longitudestring: 5 21 W
-  latitudestring: 36 08 N
-  minlongitude: -5.35
-  minlatitude: 36.1
-  maxlongitude: -5.333333
-  maxlatitude: 36.15
-  latitude: 36.13584
-  longitude: -5.349249
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -5.3721
+    minlatitude: 36.1038999
+    maxlongitude: -5.334499999999999
+    maxlatitude: 36.1551186
+    latitude: 36.140751
+    longitude: -5.353585

@@ -1,73 +1,126 @@
 name:
-  common: Singapore
-  official: Republic of Singapore
-  native:
-    cmn:
-      common: 新加坡
-      official: 新加坡共和国
-    eng:
-      common: Singapore
-      official: Republic of Singapore
-    msa:
-      common: Singapura
-      official: Republik Singapura
-    tam:
-      common: சிங்கப்பூர்
-      official: சிங்கப்பூர் குடியரசு
+    common: Singapore
+    official: The Republic of Singapore
+    native:
+        eng:
+            common: Singapore
+            official: Republic of Singapore
+        msa:
+            common: Singapura
+            official: Republik Singapura
+        tam:
+            common: சிங்கப்பூர்
+            official: சிங்கப்பூர் குடியரசு
+        zho:
+            common: 新加坡
+            official: 新加坡共和国
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Singaporean
 tlds:
-- .sg
-- .新加坡
-- .சிங்கப்பூர்
+    - .sg
+    - .新加坡
+    - .சிங்கப்பூர்
 languages:
-  cmn: Mandarin
-  eng: English
-  msa: Malay
-  tam: Tamil
+    en: ""
+    eng: English
+    ms: ""
+    msa: Malay
+    ta: ""
+    tam: Tamil
+    zho: Chinese
 translations:
-  FIN:
-    common: Singapore
-    official: Singaporen tasavalta
-  FRA:
-    common: Singapour
-    official: République de Singapour
-  ITA:
-    common: Singapore
-    official: Repubblica di Singapore
-  JPN:
-    common: シンガポール
-    official: シンガポール共和国
-  POR:
-    common: Singapura
-    official: República de Singapura
-  RUS:
-    common: Сингапур
-    official: Республика Сингапур
+    ARA:
+        common: سنغافورة
+        official: جمهورية سنغافورة
+    CES:
+        common: Singapur
+        official: Singapurská republika
+    DEU:
+        common: Singapur
+        official: Republik Singapur
+    EST:
+        common: Singapur
+        official: Singapuri Vabariik
+    FIN:
+        common: Singapore
+        official: Singaporen tasavalta
+    FRA:
+        common: Singapour
+        official: République de Singapour
+    HRV:
+        common: Singapur
+        official: Republika Singapur
+    HUN:
+        common: Szingapúr
+        official: Szingapúri Köztársaság
+    ITA:
+        common: Singapore
+        official: Repubblica di Singapore
+    JPN:
+        common: シンガポール
+        official: シンガポール共和国
+    KOR:
+        common: 싱가포르
+        official: 싱가포르 공화국
+    NLD:
+        common: Singapore
+        official: Republiek Singapore
+    PER:
+        common: سنگاپور
+        official: جمهوری سنگاپور
+    POL:
+        common: Singapur
+        official: Republika Singapuru
+    POR:
+        common: Singapura
+        official: República de Singapura
+    RUS:
+        common: Сингапур
+        official: Республика Сингапур
+    SLK:
+        common: Singapur
+        official: Singapurská republika
+    SPA:
+        common: Singapur
+        official: República de Singapur
+    SRP:
+        common: Singapur
+        official: Republika Singapur
+    SWE:
+        common: Singapore
+        official: Republiken Singapore
+    TUR:
+        common: Singapur
+        official: Singapur Cumhuriyeti
+    URD:
+        common: سنگاپور
+        official: جمہوریہ سنگاپور
+    ZHO:
+        common: 新加坡
+        official: 新加坡共和国
 currencies:
-- SGD
-borders: []
+    - SGD
 codes:
-  alpha2: SG
-  alpha3: SGP
-  cioc: SIN
-  ccn3: "702"
-  callingcodes:
-  - "65"
-  internationalprefix: "001"
+    alpha2: SG
+    alpha3: SGP
+    cioc: SGP
+    ccn3: "702"
+    callingcodes:
+        - "65"
+    internationalprefix: "001"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Singapore
-  area: 710
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Singapore
+    area: 710
 coordinates:
-  longitudestring: 103 48 E
-  latitudestring: 1 22 N
-  minlongitude: 102
-  minlatitude: 1.159444
-  maxlongitude: 104.4075
-  maxlatitude: 4
-  latitude: 1.3219959
-  longitude: 103.82053
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 103.594
+    minlatitude: 1.1496
+    maxlongitude: 104.0945001
+    maxlatitude: 1.4784001
+    latitude: 1.352083
+    longitude: 103.819836

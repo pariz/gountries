@@ -1,64 +1,118 @@
 name:
-  common: New Zealand
-  official: New Zealand
-  native:
-    eng:
-      common: New Zealand
-      official: New Zealand
-    mri:
-      common: Aotearoa
-      official: Aotearoa
-    nzs:
-      common: New Zealand
-      official: New Zealand
+    common: New Zealand
+    official: New Zealand
+    native:
+        eng:
+            common: New Zealand
+            official: New Zealand
+        mri:
+            common: Aotearoa
+            official: Aotearoa
+        nzs:
+            common: New Zealand
+            official: New Zealand
 eumember: false
 landlocked: false
-nationality: ""
+nationality: New Zealander
 tlds:
-- .nz
+    - .nz
 languages:
-  eng: English
-  mri: Māori
-  nzs: New Zealand Sign Language
+    en: ""
+    eng: English
+    mri: Māori
+    nzs: New Zealand Sign Language
 translations:
-  DEU:
-    common: Neuseeland
-    official: Neuseeland
-  FRA:
-    common: Nouvelle-Zélande
-    official: Nouvelle-Zélande
-  JPN:
-    common: ニュージーランド
-    official: ニュージーランド
-  POR:
-    common: Nova Zelândia
-    official: nova Zelândia
-  RUS:
-    common: Новая Зеландия
-    official: Новая Зеландия
+    ARA:
+        common: نيوزيلندا
+        official: نيوزيلندا
+    CES:
+        common: Nový Zéland
+        official: Nový Zéland
+    DEU:
+        common: Neuseeland
+        official: Neuseeland
+    EST:
+        common: Uus-Meremaa
+        official: Uus-Meremaa
+    FIN:
+        common: Uusi-Seelanti
+        official: Uusi-Seelanti
+    FRA:
+        common: Nouvelle-Zélande
+        official: Nouvelle-Zélande
+    HRV:
+        common: Novi Zeland
+        official: Novi Zeland
+    HUN:
+        common: Új-Zéland
+        official: Új-Zéland
+    ITA:
+        common: Nuova Zelanda
+        official: Nuova Zelanda
+    JPN:
+        common: ニュージーランド
+        official: ニュージーランド
+    KOR:
+        common: 뉴질랜드
+        official: 뉴질랜드
+    NLD:
+        common: Nieuw-Zeeland
+        official: Nieuw Zeeland
+    PER:
+        common: نیوزیلند
+        official: نیوزیلند
+    POL:
+        common: Nowa Zelandia
+        official: Nowa Zelandia
+    POR:
+        common: Nova Zelândia
+        official: nova Zelândia
+    RUS:
+        common: Новая Зеландия
+        official: Новая Зеландия
+    SLK:
+        common: Nový Zéland
+        official: Nový Zéland
+    SPA:
+        common: Nueva Zelanda
+        official: nueva Zelanda
+    SRP:
+        common: Novi Zeland
+        official: Novi Zeland
+    SWE:
+        common: Nya Zeeland
+        official: Nya Zeeland
+    TUR:
+        common: Yeni Zelanda
+        official: Yeni Zelanda
+    URD:
+        common: نیوزی لینڈ
+        official: نیوزی لینڈ
+    ZHO:
+        common: 新西兰
+        official: 新西兰
 currencies:
-- NZD
-borders: []
+    - NZD
 codes:
-  alpha2: NZ
-  alpha3: NZL
-  cioc: NZL
-  ccn3: "554"
-  callingcodes:
-  - "64"
-  internationalprefix: "00"
+    alpha2: NZ
+    alpha3: NZL
+    cioc: NZL
+    ccn3: "554"
+    callingcodes:
+        - "64"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Australia and New Zealand
-  continent: Australia
-  capital: Wellington
-  area: 270467
+    region: Oceania
+    subregion: Australia and New Zealand
+    continent: Australia
+    capital: Wellington
+    area: 270467
 coordinates:
-  longitudestring: 174 00 E
-  latitudestring: 41 00 S
-  minlongitude: 179.06667
-  minlatitude: -52.61667
-  maxlongitude: -178.9
-  maxlatitude: -29.216667
-  latitude: -44.056293
-  longitude: 170.35416
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 165.7437641
+    minlatitude: -52.7224663
+    maxlongitude: -175.1235077
+    maxlatitude: -28.8773225
+    latitude: -40.900557
+    longitude: 174.885971

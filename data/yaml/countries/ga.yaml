@@ -1,65 +1,114 @@
 name:
-  common: Gabon
-  official: Gabonese Republic
-  native:
-    fra:
-      common: Gabon
-      official: République gabonaise
+    common: Gabon
+    official: The Gabonese Republic
+    native:
+        fra:
+            common: Gabon
+            official: République gabonaise
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Gabonese
 tlds:
-- .ga
+    - .ga
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Gabun
-    official: Gabunische Republik
-  FIN:
-    common: Gabon
-    official: Gabonin tasavalta
-  HRV:
-    common: Gabon
-    official: Gabon Republika
-  ITA:
-    common: Gabon
-    official: Repubblica gabonese
-  NLD:
-    common: Gabon
-    official: Republiek Gabon
-  POR:
-    common: Gabão
-    official: República do Gabão
-  RUS:
-    common: Габон
-    official: Габона Республика
+    ARA:
+        common: الغابون
+        official: جمهورية الغابون
+    CES:
+        common: Gabon
+        official: Gabonská republika
+    DEU:
+        common: Gabun
+        official: Gabunische Republik
+    EST:
+        common: Gabon
+        official: Gaboni Vabariik
+    FIN:
+        common: Gabon
+        official: Gabonin tasavalta
+    FRA:
+        common: Gabon
+        official: République gabonaise
+    HRV:
+        common: Gabon
+        official: Gabon Republika
+    HUN:
+        common: Gabon
+        official: Gaboni Köztársaság
+    ITA:
+        common: Gabon
+        official: Repubblica gabonese
+    JPN:
+        common: ガボン
+        official: ガボン共和国
+    KOR:
+        common: 가봉
+        official: 가봉 공화국
+    NLD:
+        common: Gabon
+        official: Republiek Gabon
+    PER:
+        common: گابن
+        official: جمهوری گابُن
+    POL:
+        common: Gabon
+        official: Republika Gabońska
+    POR:
+        common: Gabão
+        official: República do Gabão
+    RUS:
+        common: Габон
+        official: Габона Республика
+    SLK:
+        common: Gabon
+        official: Gabonská republika
+    SPA:
+        common: Gabón
+        official: República de Gabón
+    SRP:
+        common: Gabon
+        official: Gabonska Republika
+    SWE:
+        common: Gabon
+        official: Republiken Gabon
+    TUR:
+        common: Gabon
+        official: Gabon Cumhuriyeti
+    URD:
+        common: گیبون
+        official: جمہوریہ گیبون
+    ZHO:
+        common: 加蓬
+        official: 加蓬共和国
 currencies:
-- XAF
+    - XAF
 borders:
-- CMR
-- COG
-- GNQ
+    - CMR
+    - COG
+    - GNQ
 codes:
-  alpha2: GA
-  alpha3: GAB
-  cioc: GAB
-  ccn3: "266"
-  callingcodes:
-  - "241"
-  internationalprefix: "00"
+    alpha2: GA
+    alpha3: GAB
+    cioc: GAB
+    ccn3: "266"
+    callingcodes:
+        - "241"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Libreville
-  area: 267668
+    region: Africa
+    subregion: Middle Africa
+    continent: Africa
+    capital: Libreville
+    area: 267668
 coordinates:
-  longitudestring: 11 45 E
-  latitudestring: 1 00 S
-  minlongitude: 8.7
-  minlatitude: -3.9
-  maxlongitude: 14.483333
-  maxlatitude: 2.283333
-  latitude: -0.6345401
-  longitude: 11.738608
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.421
+    minlatitude: -4.1656
+    maxlongitude: 14.5269234
+    maxlatitude: 2.318109
+    latitude: -0.803689
+    longitude: 11.609444

@@ -1,57 +1,112 @@
 name:
-  common: San Marino
-  official: Most Serene Republic of San Marino
-  native:
-    ita:
-      common: San Marino
-      official: Serenissima Repubblica di San Marino
+    common: San Marino
+    official: The Republic of San Marino
+    native:
+        ita:
+            common: San Marino
+            official: Serenissima Repubblica di San Marino
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Sammarinese
 tlds:
-- .sm
+    - .sm
 languages:
-  ita: Italian
+    it: ""
+    ita: Italian
 translations:
-  DEU:
-    common: San Marino
-    official: Republik San Marino
-  FIN:
-    common: San Marino
-    official: San Marinon seesteinen tasavalta
-  FRA:
-    common: Saint-Marin
-    official: République de Saint-Marin
-  POR:
-    common: San Marino
-    official: Sereníssima República de San Marino
-  SPA:
-    common: San Marino
-    official: Serenísima República de San Marino
+    ARA:
+        common: سان مارينو
+        official: جمهورية سان مارينو
+    CES:
+        common: San Marino
+        official: Republika San Marino
+    DEU:
+        common: San Marino
+        official: Republik San Marino
+    EST:
+        common: San Marino
+        official: San Marino Vabariik
+    FIN:
+        common: San Marino
+        official: San Marinon seesteinen tasavalta
+    FRA:
+        common: Saint-Marin
+        official: République de Saint-Marin
+    HRV:
+        common: San Marino
+        official: Većina Serene Republika San Marino
+    HUN:
+        common: San Marino
+        official: San Marino Köztársaság
+    ITA:
+        common: San Marino
+        official: Serenissima Repubblica di San Marino
+    JPN:
+        common: サンマリノ
+        official: サンマリノ共和国
+    KOR:
+        common: 산마리노
+        official: 산마리노 공화국
+    NLD:
+        common: San Marino
+        official: Meest Serene Republiek San Marino
+    PER:
+        common: سان مارینو
+        official: جمهوری سان مارینو
+    POL:
+        common: San Marino
+        official: Republika San Marino
+    POR:
+        common: San Marino
+        official: Sereníssima República de San Marino
+    RUS:
+        common: Сан-Марино
+        official: Большинство Serene Республика Сан-Марино
+    SLK:
+        common: San Maríno
+        official: Sanmarínska republika
+    SPA:
+        common: San Marino
+        official: Serenísima República de San Marino
+    SRP:
+        common: San Marino
+        official: Republika San Marino
+    SWE:
+        common: San Marino
+        official: Republiken San Marino
+    TUR:
+        common: San Marino
+        official: San Marino Cumhuriyeti
+    URD:
+        common: سان مارینو
+        official: جمہوریہ سان مارینو
+    ZHO:
+        common: 圣马力诺
+        official: 圣马力诺共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- ITA
+    - ITA
 codes:
-  alpha2: SM
-  alpha3: SMR
-  cioc: SMR
-  ccn3: "674"
-  callingcodes:
-  - "378"
-  internationalprefix: "00"
+    alpha2: SM
+    alpha3: SMR
+    cioc: SMR
+    ccn3: "674"
+    callingcodes:
+        - "378"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: City of San Marino
-  area: 61
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: City of San Marino
+    area: 61
 coordinates:
-  longitudestring: 12 25 E
-  latitudestring: 43 46 N
-  minlongitude: 12.416667
-  minlatitude: 43.908333
-  maxlongitude: 12.5
-  maxlatitude: 43.966667
-  latitude: 43.938133
-  longitude: 12.463393
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.4034824
+    minlatitude: 43.8936809
+    maxlongitude: 12.5167041
+    maxlatitude: 43.992075
+    latitude: 43.94236
+    longitude: 12.457777

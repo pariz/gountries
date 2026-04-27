@@ -1,61 +1,119 @@
 name:
-  common: Iran
-  official: Islamic Republic of Iran
-  native:
-    fas:
-      common: ایران
-      official: جمهوری اسلامی ایران
+    common: Iran (Islamic Republic of)
+    official: The Islamic Republic of Iran
+    native:
+        fas:
+            common: ایران
+            official: جمهوری اسلامی ایران
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Iranian
 tlds:
-- .ir
-- ایران.
+    - .ir
+    - ایران.
 languages:
-  fas: Persian
+    fa: ""
+    fas: Persian (Farsi)
 translations:
-  DEU:
-    common: Iran
-    official: Islamische Republik Iran
-  FRA:
-    common: Iran
-    official: République islamique d'Iran
-  JPN:
-    common: イラン・イスラム共和国
-    official: イラン·イスラム共和国
-  SPA:
-    common: Iran
-    official: República Islámica de Irán
+    ARA:
+        common: إيران
+        official: جمهورية إيران الإسلامية
+    CES:
+        common: Írán
+        official: Islámská republika Írán
+    DEU:
+        common: Iran
+        official: Islamische Republik Iran
+    EST:
+        common: Iraan
+        official: Iraani Islamivabariik
+    FIN:
+        common: Iran
+        official: Iranin islamilainen tasavalta
+    FRA:
+        common: Iran
+        official: République islamique d'Iran
+    HRV:
+        common: Iran
+        official: Islamska Republika Iran
+    HUN:
+        common: Irán
+        official: Iráni Iszlám Köztársaság
+    ITA:
+        common: Iran
+        official: Repubblica islamica dell'Iran
+    JPN:
+        common: イラン
+        official: イラン・イスラム共和国
+    KOR:
+        common: 이란
+        official: 이란 이슬람 공화국
+    NLD:
+        common: Iran
+        official: Islamitische Republiek Iran
+    PER:
+        common: ایران
+        official: جمهوری اسلامی ایران
+    POL:
+        common: Iran
+        official: Islamska Republika Iranu
+    POR:
+        common: Irão
+        official: República Islâmica do Irã
+    RUS:
+        common: Иран
+        official: Исламская Республика Иран
+    SLK:
+        common: Irán
+        official: Iránska islamská republika
+    SPA:
+        common: Iran
+        official: República Islámica de Irán
+    SRP:
+        common: Iran
+        official: Islamska Republika Iran
+    SWE:
+        common: Iran
+        official: Islamiska republiken Iran
+    TUR:
+        common: İran
+        official: İran İslam Cumhuriyeti
+    URD:
+        common: ایران
+        official: جمہوریہ ایران
+    ZHO:
+        common: 伊朗
+        official: 伊朗伊斯兰共和国
 currencies:
-- IRR
+    - IRR
 borders:
-- AFG
-- ARM
-- AZE
-- IRQ
-- PAK
-- TUR
-- TKM
+    - AFG
+    - ARM
+    - AZE
+    - IRQ
+    - PAK
+    - TUR
+    - TKM
 codes:
-  alpha2: IR
-  alpha3: IRN
-  cioc: IRI
-  ccn3: "364"
-  callingcodes:
-  - "98"
-  internationalprefix: "00"
+    alpha2: IR
+    alpha3: IRN
+    cioc: IRI
+    ccn3: "364"
+    callingcodes:
+        - "98"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Tehran
-  area: 1.648195e+06
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Tehran
+    area: 1.648195e+06
 coordinates:
-  longitudestring: 53 00 E
-  latitudestring: 32 00 N
-  minlongitude: 27.4455
-  minlatitude: 25.05
-  maxlongitude: 62
-  maxlatitude: 39.7754
-  latitude: 32.50078
-  longitude: 54.2942
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.0326949
+    minlatitude: 24.8066999
+    maxlongitude: 63.3333366
+    maxlatitude: 39.782056
+    latitude: 32.427908
+    longitude: 53.688046

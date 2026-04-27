@@ -1,61 +1,113 @@
 name:
-  common: South Korea
-  official: Republic of Korea
-  native:
-    kor:
-      common: 대한민국
-      official: 한국
+    common: Korea (Republic of)
+    official: The Republic of Korea
+    native:
+        kor:
+            common: 한국
+            official: 대한민국
 eumember: false
 landlocked: false
-nationality: ""
+nationality: South Korean
 tlds:
-- .kr
-- .한국
+    - .kr
+    - .한국
 languages:
-  kor: Korean
+    ko: ""
+    kor: Korean
 translations:
-  DEU:
-    common: Südkorea
-    official: Republik Korea
-  FIN:
-    common: Etelä-Korea
-    official: Korean tasavalta
-  HRV:
-    common: Južna Koreja
-    official: Republika Koreja
-  POR:
-    common: Coreia do Sul
-    official: República da Coreia
-  RUS:
-    common: Южная Корея
-    official: Республика Корея
-  SPA:
-    common: Corea del Sur
-    official: República de Corea
+    ARA:
+        common: كوريا الجنوبية
+        official: جمهورية كوريا
+    CES:
+        common: Jižní Korea
+        official: Korejská republika
+    DEU:
+        common: Südkorea
+        official: Republik Korea
+    EST:
+        common: Lõuna-Korea
+        official: Korea Vabariik
+    FIN:
+        common: Etelä-Korea
+        official: Korean tasavalta
+    FRA:
+        common: Corée du Sud
+        official: République de Corée
+    HRV:
+        common: Južna Koreja
+        official: Republika Koreja
+    HUN:
+        common: Dél-Korea
+        official: Koreai Köztársaság
+    ITA:
+        common: Corea del Sud
+        official: Repubblica di Corea
+    JPN:
+        common: 韓国
+        official: 大韓民国
+    KOR:
+        common: 한국
+        official: 대한민국
+    NLD:
+        common: Zuid-Korea
+        official: Republiek Korea
+    PER:
+        common: کرهٔ جنوبی
+        official: جمهوری کره
+    POL:
+        common: Korea Południowa
+        official: Republika Korei
+    POR:
+        common: Coreia do Sul
+        official: República da Coreia
+    RUS:
+        common: Южная Корея
+        official: Республика Корея
+    SLK:
+        common: Južná Kórea
+        official: Kórejská republika
+    SPA:
+        common: Corea del Sur
+        official: República de Corea
+    SRP:
+        common: Južna Koreja
+        official: Republika Koreja
+    SWE:
+        common: Sydkorea
+        official: Republiken Korea
+    TUR:
+        common: Güney Kore
+        official: Kore Cumhuriyeti
+    URD:
+        common: جنوبی کوریا
+        official: 'جمہوریہ کوریا '
+    ZHO:
+        common: 韩国
+        official: 大韩民国
 currencies:
-- KRW
+    - KRW
 borders:
-- PRK
+    - PRK
 codes:
-  alpha2: KR
-  alpha3: KOR
-  cioc: KOR
-  ccn3: "410"
-  callingcodes:
-  - "82"
-  internationalprefix: "001"
+    alpha2: KR
+    alpha3: KOR
+    cioc: KOR
+    ccn3: "410"
+    callingcodes:
+        - "82"
+    internationalprefix: "001"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: Seoul
-  area: 100210
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: Seoul
+    area: 100210
 coordinates:
-  longitudestring: 127 30 E
-  latitudestring: 37 00 N
-  minlongitude: 124.61222
-  minlatitude: 33.1175
-  maxlongitude: 131.86667
-  maxlatitude: 38.586666
-  latitude: 40.07764
-  longitude: 127.13385
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 124.5863
+    minlatitude: 33.0041
+    maxlongitude: 131.1603
+    maxlatitude: 38.63400000000001
+    latitude: 35.907757
+    longitude: 127.766922

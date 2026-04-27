@@ -1,65 +1,101 @@
 name:
-  common: Antarctica
-  official: Antarctica
-  native: {}
+    common: Antarctica
+    official: Antarctica
 eumember: false
 landlocked: false
 nationality: ""
 tlds:
-- .aq
-languages: {}
+    - .aq
 translations:
-  CYM:
-    common: Antarctica
-    official: Antarctica
-  DEU:
-    common: Antarktis
-    official: Antarktika
-  FIN:
-    common: Etelämanner
-    official: Etelämanner
-  FRA:
-    common: Antarctique
-    official: Antarctique
-  HRV:
-    common: Antarktika
-    official: Antarktika
-  ITA:
-    common: Antartide
-    official: Antartide
-  JPN:
-    common: 南極
-    official: 南極大陸
-  POR:
-    common: Antártida
-    official: Antártica
-  RUS:
-    common: Антарктида
-    official: Антарктида
-  SPA:
-    common: Antártida
-    official: Antártida
-currencies: []
-borders: []
+    ARA:
+        common: أنتارتيكا
+        official: أنتارتيكا
+    CES:
+        common: Antarktida
+        official: Antarktida
+    DEU:
+        common: Antarktis
+        official: Antarktika
+    EST:
+        common: Antarktika
+        official: Antarktika
+    FIN:
+        common: Etelämanner
+        official: Etelämanner
+    FRA:
+        common: Antarctique
+        official: Antarctique
+    HRV:
+        common: Antarktika
+        official: Antarktika
+    HUN:
+        common: Antarktisz
+        official: Antarktisz
+    ITA:
+        common: Antartide
+        official: Antartide
+    JPN:
+        common: 南極大陸
+        official: 南極
+    KOR:
+        common: 남극
+        official: 남극
+    NLD:
+        common: Antarctica
+        official: Antarctica
+    PER:
+        common: جنوبگان
+        official: جنوبگان
+    POL:
+        common: Antarktyka
+        official: Antarktyka
+    POR:
+        common: Antártida
+        official: Antártica
+    RUS:
+        common: Антарктида
+        official: Антарктида
+    SLK:
+        common: Antarktída
+        official: Antarktída
+    SPA:
+        common: Antártida
+        official: Antártida
+    SRP:
+        common: Antarktik
+        official: Antarktik
+    SWE:
+        common: Antarktis
+        official: Antarktis
+    TUR:
+        common: Antarktika
+        official: Antarktika
+    URD:
+        common: انٹارکٹکا
+        official: انٹارکٹکا
+    ZHO:
+        common: 南极洲
+        official: 南极洲
+currencies:
+    - USD
 codes:
-  alpha2: AQ
-  alpha3: ATA
-  cioc: ""
-  ccn3: "010"
-  callingcodes: []
-  internationalprefix: ""
+    alpha2: AQ
+    alpha3: ATA
+    ccn3: "010"
+    callingcodes:
+        - "672"
 geo:
-  region: ""
-  subregion: ""
-  continent: Antarctica
-  capital: ""
-  area: 1.4e+07
+    region: ""
+    subregion: ""
+    continent: Antarctica
+    capital: ""
+    area: 1.4e+07
 coordinates:
-  longitudestring: 0 00 E
-  latitudestring: 90 00 S
-  minlongitude: -180
-  minlatitude: -90
-  maxlongitude: 180
-  maxlatitude: -60
-  latitude: -82.862755
-  longitude: -135
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -180
+    minlatitude: -90
+    maxlongitude: 180
+    maxlatitude: -60.1086999
+    latitude: -82.862752
+    longitude: 135

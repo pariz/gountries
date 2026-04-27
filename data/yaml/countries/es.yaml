@@ -1,83 +1,116 @@
 name:
-  common: Spain
-  official: Kingdom of Spain
-  native:
-    cat:
-      common: Espanya
-      official: Regne d'Espanya
-    eus:
-      common: Espainia
-      official: Espainiako Erresuma
-    glg:
-      common: España
-      official: Reino de España
-    oci:
-      common: Espanha
-      official: Reialme d'Espanha
-    spa:
-      common: España
-      official: Reino de España
+    common: Spain
+    official: The Kingdom of Spain
+    native:
+        spa:
+            common: España
+            official: Reino de España
 eumember: true
 landlocked: false
-nationality: ""
+nationality: Spanish
 tlds:
-- .es
+    - .es
 languages:
-  cat: Catalan
-  eus: Basque
-  glg: Galician
-  oci: Occitan
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  DEU:
-    common: Spanien
-    official: Königreich Spanien
-  FRA:
-    common: Espagne
-    official: Royaume d'Espagne
-  HRV:
-    common: Španjolska
-    official: Kraljevina Španjolska
-  ITA:
-    common: Spagna
-    official: Regno di Spagna
-  JPN:
-    common: スペイン
-    official: スペイン王国
-  NLD:
-    common: Spanje
-    official: Koninkrijk Spanje
-  POR:
-    common: Espanha
-    official: Reino de Espanha
+    ARA:
+        common: إسبانيا
+        official: مملكة إسبانيا
+    CES:
+        common: Španělsko
+        official: Španělské království
+    DEU:
+        common: Spanien
+        official: Königreich Spanien
+    EST:
+        common: Hispaania
+        official: Hispaania Kuningriik
+    FIN:
+        common: Espanja
+        official: Espanjan kuningaskunta
+    FRA:
+        common: Espagne
+        official: Royaume d'Espagne
+    HRV:
+        common: Španjolska
+        official: Kraljevina Španjolska
+    HUN:
+        common: Spanyolország
+        official: Spanyol Királyság
+    ITA:
+        common: Spagna
+        official: Regno di Spagna
+    JPN:
+        common: スペイン
+        official: スペイン
+    KOR:
+        common: 스페인
+        official: 에스파냐 왕국
+    NLD:
+        common: Spanje
+        official: Koninkrijk Spanje
+    PER:
+        common: اسپانیا
+        official: پادشاهی اسپانیا
+    POL:
+        common: Hiszpania
+        official: 'Królestwo Hiszpanii '
+    POR:
+        common: Espanha
+        official: Reino de Espanha
+    RUS:
+        common: Испания
+        official: Королевство Испания
+    SLK:
+        common: Španielsko
+        official: Španielske kráľovstvo
+    SPA:
+        common: España
+        official: Reino de España
+    SRP:
+        common: Španija
+        official: Kraljevina Španija
+    SWE:
+        common: Spanien
+        official: Konungariket Spanien
+    TUR:
+        common: İspanya
+        official: İspanya Krallığı
+    URD:
+        common: ہسپانیہ
+        official: مملکتِ ہسپانیہ
+    ZHO:
+        common: 西班牙
+        official: 西班牙王国
 currencies:
-- EUR
+    - EUR
 borders:
-- AND
-- FRA
-- GIB
-- PRT
-- MAR
+    - AND
+    - FRA
+    - GIB
+    - PRT
+    - MAR
 codes:
-  alpha2: ES
-  alpha3: ESP
-  cioc: ESP
-  ccn3: "724"
-  callingcodes:
-  - "34"
-  internationalprefix: "00"
+    alpha2: ES
+    alpha3: ESP
+    cioc: ESP
+    ccn3: "724"
+    callingcodes:
+        - "34"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Southern Europe
-  continent: Europe
-  capital: Madrid
-  area: 505992
+    region: Europe
+    subregion: Southern Europe
+    continent: Europe
+    capital: Madrid
+    area: 505992
 coordinates:
-  longitudestring: 4 00 W
-  latitudestring: 40 00 N
-  minlongitude: -18.166668
-  minlatitude: 27.633333
-  maxlongitude: 4.333333
-  maxlatitude: 43.916668
-  latitude: 40.396027
-  longitude: -3.5506926
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -18.2648001
+    minlatitude: 27.4985
+    maxlongitude: 4.6362
+    maxlatitude: 43.8504
+    latitude: 40.46366700000001
+    longitude: -3.74922

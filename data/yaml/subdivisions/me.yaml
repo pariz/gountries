@@ -1,294 +1,330 @@
-- name: Šavnik
-  names:
-  - Šavnik
-  code: "18"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.091148
-    minlatitude: 42.952118
-    maxlongitude: 19.100203
-    maxlatitude: 42.96148
-    latitude: 42.95778
-    longitude: 19.094362
-- name: Tivat
-  names:
-  - Tivat
-  code: "19"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.684483
-    minlatitude: 42.417572
-    maxlongitude: 18.723728
-    maxlatitude: 42.446117
-    latitude: 42.43
-    longitude: 18.7
-- name: Žabljak
-  names:
-  - Žabljak
-  code: "21"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.109045
-    minlatitude: 43.147182
-    maxlongitude: 19.15033
-    maxlatitude: 43.168625
-    latitude: 43.155514
-    longitude: 19.122602
-- name: Budva
-  names:
-  - Budva
-  code: "05"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.822048
-    minlatitude: 42.273476
-    maxlongitude: 18.860903
-    maxlatitude: 42.30277
-    latitude: 42.288055
-    longitude: 18.8425
-- name: Bijelo Polje
-  names:
-  - Bijelo Polje
-  code: "04"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.727325
-    minlatitude: 43.008915
-    maxlongitude: 19.787235
-    maxlatitude: 43.065437
-    latitude: 43.04
-    longitude: 19.75
-- name: Cetinje
-  names:
-  - Cetinje
-  code: "06"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.88627
-    minlatitude: 42.372543
-    maxlongitude: 18.940216
-    maxlatitude: 42.40863
-    latitude: 42.38
-    longitude: 18.92
-- name: Danilovgrad
-  names:
-  - Danilovgrad
-  code: "07"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.085354
-    minlatitude: 42.54119
-    maxlongitude: 19.120373
-    maxlatitude: 42.563133
-    latitude: 42.553753
-    longitude: 19.107738
-- name: Kolašin
-  names:
-  - Kolašin
-  code: "09"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.511032
-    minlatitude: 42.814606
-    maxlongitude: 19.542017
-    maxlatitude: 42.83387
-    latitude: 42.823612
-    longitude: 19.5225
-- name: Kotor
-  names:
-  - Kotor
-  code: "10"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.766357
-    minlatitude: 42.421158
-    maxlongitude: 18.774809
-    maxlatitude: 42.42732
-    latitude: 42.424664
-    longitude: 18.771235
-- name: Nikšic´
-  names:
-  - Nikšic´
-  code: "12"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.897964
-    minlatitude: 42.73715
-    maxlongitude: 18.99828
-    maxlatitude: 42.809444
-    latitude: 42.78
-    longitude: 18.94
-- name: Rožaje
-  names:
-  - Rožaje
-  code: "17"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 20.142488
-    minlatitude: 42.827324
-    maxlongitude: 20.191755
-    maxlatitude: 42.85882
-    latitude: 42.8333
-    longitude: 20.1667
-- name: Bar
-  names:
-  - Bar
-  code: "02"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.934523
-    minlatitude: 42.00697
-    maxlongitude: 19.343842
-    maxlatitude: 42.315067
-    latitude: 42.204044
-    longitude: 19.140438
-- name: Ulcinj
-  names:
-  - Ulcinj
-  code: "20"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.191406
-    minlatitude: 41.91879
-    maxlongitude: 19.231396
-    maxlatitude: 41.938618
-    latitude: 41.931087
-    longitude: 19.214764
-- name: Herceg-Novi
-  names:
-  - Herceg-Novi
-  code: "08"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.514153
-    minlatitude: 42.449097
-    maxlongitude: 18.561363
-    maxlatitude: 42.46616
-    latitude: 42.45725
-    longitude: 18.531475
-- name: Plav
-  names:
-  - Plav
-  code: "13"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.930225
-    minlatitude: 42.58929
-    maxlongitude: 19.953407
-    maxlatitude: 42.609135
-    latitude: 42.600132
-    longitude: 19.940754
-- name: Pljevlja
-  names:
-  - Pljevlja
-  code: "14"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.32066
-    minlatitude: 43.33854
-    maxlongitude: 19.383144
-    maxlatitude: 43.37361
-    latitude: 43.36
-    longitude: 19.36
-- name: Plužine
-  names:
-  - Plužine
-  code: "15"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 18.83267
-    minlatitude: 43.15085
-    maxlongitude: 18.848011
-    maxlatitude: 43.15822
-    latitude: 43.154137
-    longitude: 18.841038
 - name: Andrijevica
   names:
-  - Andrijevica
+    - Andrijevica
   code: "01"
   countryalpha2: ME
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.771658
-    minlatitude: 42.725075
-    maxlongitude: 19.79951
+    minlongitude: 19.771657
+    minlatitude: 42.7250737
+    maxlongitude: 19.799509
     maxlatitude: 42.744286
-    latitude: 42.739723
+    latitude: 42.739722
     longitude: 19.785833
-- name: Mojkovac
+- name: Bar
   names:
-  - Mojkovac
-  code: "11"
+    - Bar
+  code: "02"
   countryalpha2: ME
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.57283
-    minlatitude: 42.952213
-    maxlongitude: 19.591026
-    maxlatitude: 42.967228
-    latitude: 42.96
-    longitude: 19.58
-- name: Podgorica
-  names:
-  - Podgorica
-  code: "16"
-  countryalpha2: ME
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 19.181507
-    minlatitude: 42.36836
-    maxlongitude: 19.330252
-    maxlatitude: 42.495644
-    latitude: 42.441284
-    longitude: 19.262892
+    minlongitude: 18.9345229
+    minlatitude: 42.006969
+    maxlongitude: 19.3438407
+    maxlatitude: 42.315069
+    latitude: 42.2040425
+    longitude: 19.140438
 - name: Berane
   names:
-  - Berane
+    - Berane
   code: "03"
   countryalpha2: ME
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 19.844742
-    minlatitude: 42.80718
-    maxlongitude: 19.88483
-    maxlatitude: 42.86966
+    minlongitude: 19.8447418
+    minlatitude: 42.807177
+    maxlongitude: 19.8848308
+    maxlatitude: 42.8696597
     latitude: 42.84
     longitude: 19.86
+- name: Bijelo Polje
+  names:
+    - Bijelo Polje
+  code: "04"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.7273254
+    minlatitude: 43.0089153
+    maxlongitude: 19.7872352
+    maxlatitude: 43.065439
+    latitude: 43.04
+    longitude: 19.75
+- name: Budva
+  names:
+    - Budva
+  code: "05"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.8220477
+    minlatitude: 42.2734745
+    maxlongitude: 18.8609032
+    maxlatitude: 42.3027695
+    latitude: 42.288056
+    longitude: 18.8425
+- name: Cetinje
+  names:
+    - Cetinje
+  code: "06"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.8862705
+    minlatitude: 42.3725432
+    maxlongitude: 18.9402152
+    maxlatitude: 42.4086289
+    latitude: 42.38
+    longitude: 18.92
+- name: Danilovgrad
+  names:
+    - Danilovgrad
+  code: "07"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.0853548
+    minlatitude: 42.5411924
+    maxlongitude: 19.1203737
+    maxlatitude: 42.5631326
+    latitude: 42.5537532
+    longitude: 19.1077389
+- name: Herceg-Novi
+  names:
+    - Herceg-Novi
+  code: "08"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.5141516
+    minlatitude: 42.4490956
+    maxlongitude: 18.5613638
+    maxlatitude: 42.4661614
+    latitude: 42.4572478
+    longitude: 18.5314753
+- name: Kolašin
+  names:
+    - Kolašin
+  code: "09"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.5110321
+    minlatitude: 42.8146069
+    maxlongitude: 19.5420171
+    maxlatitude: 42.8338702
+    latitude: 42.823611
+    longitude: 19.5225
+- name: Kotor
+  names:
+    - Kotor
+  code: "10"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.7663583
+    minlatitude: 42.4211597
+    maxlongitude: 18.7748086
+    maxlatitude: 42.4273177
+    latitude: 42.424662
+    longitude: 18.771234
+- name: Mojkovac
+  names:
+    - Mojkovac
+  code: "11"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.5728303
+    minlatitude: 42.9522135
+    maxlongitude: 19.5910262
+    maxlatitude: 42.9672261
+    latitude: 42.96
+    longitude: 19.58
+- name: Nikšic´
+  names:
+    - Nikšic´
+  code: "12"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.897965
+    minlatitude: 42.7371471
+    maxlongitude: 18.9982796
+    maxlatitude: 42.8094439
+    latitude: 42.78
+    longitude: 18.94
+- name: Plav
+  names:
+    - Plav
+  code: "13"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.930226
+    minlatitude: 42.5892922
+    maxlongitude: 19.9534082
+    maxlatitude: 42.6091342
+    latitude: 42.6001337
+    longitude: 19.9407541
+- name: Pljevlja
+  names:
+    - Pljevlja
+  code: "14"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.3206596
+    minlatitude: 43.3385382
+    maxlongitude: 19.3831443
+    maxlatitude: 43.3736113
+    latitude: 43.36
+    longitude: 19.36
+- name: Plužine
+  names:
+    - Plužine
+  code: "15"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.8326693
+    minlatitude: 43.1508473
+    maxlongitude: 18.8480115
+    maxlatitude: 43.1582202
+    latitude: 43.1541366
+    longitude: 18.8410376
+- name: Podgorica
+  names:
+    - Podgorica
+  code: "16"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.1815065
+    minlatitude: 42.368358
+    maxlongitude: 19.3302512
+    maxlatitude: 42.4956435
+    latitude: 42.441286
+    longitude: 19.262892
+- name: Rožaje
+  names:
+    - Rožaje
+  code: "17"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.1424885
+    minlatitude: 42.8273239
+    maxlongitude: 20.1917553
+    maxlatitude: 42.8588217
+    latitude: 42.8333
+    longitude: 20.1667
+- name: Šavnik
+  names:
+    - Šavnik
+  code: "18"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.0911485
+    minlatitude: 42.95211949999999
+    maxlongitude: 19.1002035
+    maxlatitude: 42.9614791
+    latitude: 42.9577803
+    longitude: 19.0943627
+- name: Tivat
+  names:
+    - Tivat
+  code: "19"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.6844826
+    minlatitude: 42.4175716
+    maxlongitude: 18.7237287
+    maxlatitude: 42.44611889999999
+    latitude: 42.43
+    longitude: 18.7
+- name: Ulcinj
+  names:
+    - Ulcinj
+  code: "20"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.1914062
+    minlatitude: 41.9187885
+    maxlongitude: 19.2313958
+    maxlatitude: 41.9386158
+    latitude: 41.9310884
+    longitude: 19.2147632
+- name: Žabljak
+  names:
+    - Žabljak
+  code: "21"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.1090442
+    minlatitude: 43.1471842
+    maxlongitude: 19.1503287
+    maxlatitude: 43.1686245
+    latitude: 43.1555152
+    longitude: 19.1226018
+- name: Општина Гусиње
+  code: "22"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Општина Петњица
+  code: "23"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Tuzi
+  code: "24"
+  countryalpha2: ME
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 18.4337921
+    minlatitude: 41.8297
+    maxlongitude: 20.352926
+    maxlatitude: 43.558743
+    latitude: 42.708678
+    longitude: 19.37439

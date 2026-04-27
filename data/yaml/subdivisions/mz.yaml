@@ -1,154 +1,154 @@
 - name: Niassa
   names:
-  - Niassa
+    - Niassa
   code: A
   countryalpha2: MZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 34.60633
-    minlatitude: -15.507289
-    maxlongitude: 38.483837
-    maxlatitude: -11.259668
-    latitude: -12.78262
-    longitude: 36.609394
+    minlatitude: -15.5072889
+    maxlongitude: 38.4838371
+    maxlatitude: -11.2596681
+    latitude: -12.7826202
+    longitude: 36.6093926
 - name: Manica
   names:
-  - Manica
+    - Manica
   code: B
   countryalpha2: MZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 32.36672
+    minlongitude: 32.3667179
     minlatitude: -21.58149
-    maxlongitude: 34.576134
-    maxlatitude: -16.389622
-    latitude: -19.50598
-    longitude: 33.438354
-- name: Maputo
-  names:
-  - Maputo
-  code: L
-  countryalpha2: MZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.523308
-    minlatitude: -25.983961
-    maxlongitude: 32.69806
-    maxlatitude: -25.808546
-    latitude: -25.966667
-    longitude: 32.583332
-- name: Maputo City
-  names:
-  - Maputo City
-  code: MPM
-  countryalpha2: MZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 32.523308
-    minlatitude: -25.983961
-    maxlongitude: 32.69806
-    maxlatitude: -25.808546
-    latitude: -25.966667
-    longitude: 32.583332
-- name: Nampula
-  names:
-  - Nampula
-  code: "N"
-  countryalpha2: MZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 39.21148
-    minlatitude: -15.157082
-    maxlongitude: 39.318
-    maxlatitude: -15.086273
-    latitude: -15.116667
-    longitude: 39.266666
-- name: Cabo Delgado
-  names:
-  - Cabo Delgado
-  code: P
-  countryalpha2: MZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 37.984303
-    minlatitude: -14.162181
-    maxlongitude: 40.716587
-    maxlatitude: -10.472919
-    latitude: -12.333548
-    longitude: 39.320625
-- name: Zambézia
-  names:
-  - Zambézia
-  code: Q
-  countryalpha2: MZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 35.14721
-    minlatitude: -18.916801
-    maxlongitude: 39.13336
-    maxlatitude: -14.989042
-    latitude: -16.563898
-    longitude: 36.609394
-- name: Tete
-  names:
-  - Tete
-  code: T
-  countryalpha2: MZ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 33.556084
-    minlatitude: -16.189184
-    maxlongitude: 33.653008
-    maxlatitude: -16.0808
-    latitude: -16.166668
-    longitude: 33.6
+    maxlongitude: 34.576135
+    maxlatitude: -16.3896211
+    latitude: -19.5059787
+    longitude: 33.438353
 - name: Gaza
   names:
-  - Gaza
+    - Gaza
   code: G
   countryalpha2: MZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 31.306301
-    minlatitude: -25.372038
+    minlongitude: 31.3063011
+    minlatitude: -25.3720382
     maxlongitude: 34.492104
     maxlatitude: -21.309147
-    latitude: -23.022192
-    longitude: 32.718136
+    latitude: -23.0221928
+    longitude: 32.7181375
 - name: Inhambane
   names:
-  - Inhambane
+    - Inhambane
   code: I
   countryalpha2: MZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 35.37778
-    minlatitude: -23.939428
-    maxlongitude: 35.42593
-    maxlatitude: -23.860878
+    minlongitude: 35.3777797
+    minlatitude: -23.9394282
+    maxlongitude: 35.4259301
+    maxlatitude: -23.8608789
     latitude: -23.866667
-    longitude: 35.38333
+    longitude: 35.383333
+- name: Maputo
+  names:
+    - Maputo
+  code: L
+  countryalpha2: MZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.5233079
+    minlatitude: -25.9839604
+    maxlongitude: 32.6980592
+    maxlatitude: -25.8085457
+    latitude: -25.966667
+    longitude: 32.583333
+- name: Maputo City
+  names:
+    - Maputo City
+  code: MPM
+  countryalpha2: MZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 32.5233079
+    minlatitude: -25.9839604
+    maxlongitude: 32.6980592
+    maxlatitude: -25.8085457
+    latitude: -25.966667
+    longitude: 32.583333
+- name: Nampula
+  names:
+    - Nampula
+  code: "N"
+  countryalpha2: MZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.21147759999999
+    minlatitude: -15.1570817
+    maxlongitude: 39.3180005
+    maxlatitude: -15.0862734
+    latitude: -15.116667
+    longitude: 39.266667
+- name: Cabo Delgado
+  names:
+    - Cabo Delgado
+  code: P
+  countryalpha2: MZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 37.9843029
+    minlatitude: -14.162181
+    maxlongitude: 40.7165883
+    maxlatitude: -10.4729195
+    latitude: -12.3335474
+    longitude: 39.3206241
+- name: Zambézia
+  names:
+    - Zambézia
+  code: Q
+  countryalpha2: MZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 35.147209
+    minlatitude: -18.9168009
+    maxlongitude: 39.1333621
+    maxlatitude: -14.989042
+    latitude: -16.5638987
+    longitude: 36.6093926
 - name: Sofala
   names:
-  - Sofala
+    - Sofala
   code: S
   countryalpha2: MZ
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 33.399296
-    minlatitude: -21.315643
-    maxlongitude: 36.19298
+    minlongitude: 33.3992959
+    minlatitude: -21.3156439
+    maxlongitude: 36.1929811
     maxlatitude: -16.810862
-    latitude: -19.203907
-    longitude: 34.862415
+    latitude: -19.2039073
+    longitude: 34.8624166
+- name: Tete
+  names:
+    - Tete
+  code: T
+  countryalpha2: MZ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 33.55608369999999
+    minlatitude: -16.1891847
+    maxlongitude: 33.6530061
+    maxlatitude: -16.0807983
+    latitude: -16.166667
+    longitude: 33.6

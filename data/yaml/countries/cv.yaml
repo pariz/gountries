@@ -1,62 +1,110 @@
 name:
-  common: Cape Verde
-  official: Republic of Cabo Verde
-  native:
-    por:
-      common: Cabo Verde
-      official: República de Cabo Verde
+    common: Cabo Verde
+    official: The Republic of Cabo Verde
+    native:
+        por:
+            common: Cabo Verde
+            official: República de Cabo Verde
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Cape Verdian
 tlds:
-- .cv
+    - .cv
 languages:
-  por: Portuguese
+    por: Portuguese
+    pt: ""
 translations:
-  FIN:
-    common: Kap Verde
-    official: Kap Verden tasavalta
-  FRA:
-    common: Îles du Cap-Vert
-    official: République du Cap-Vert
-  JPN:
-    common: カーボベルデ
-    official: カーボベルデ共和国
-  NLD:
-    common: Kaapverdië
-    official: Republiek van Cabo Verde
-  POR:
-    common: Cabo Verde
-    official: República de Cabo Verde
-  RUS:
-    common: Кабо-Верде
-    official: Республика Кабо -Верде
-  SPA:
-    common: Cabo Verde
-    official: República de Cabo Verde
+    ARA:
+        common: كابو فيردي
+        official: جمهورية كابو فيردي
+    CES:
+        common: Kapverdy
+        official: Kapverdská republika
+    DEU:
+        common: Kap Verde
+        official: Republik Cabo Verde
+    EST:
+        common: Roheneemesaared
+        official: Cabo Verde Vabariik
+    FIN:
+        common: Kap Verde
+        official: Kap Verden tasavalta
+    FRA:
+        common: Îles du Cap-Vert
+        official: République du Cap-Vert
+    HRV:
+        common: Zelenortska Republika
+        official: Republika Cabo Verde
+    HUN:
+        common: Zöld-foki Köztársaság
+        official: Zöld-foki Köztársaság
+    ITA:
+        common: Capo Verde
+        official: Repubblica di Capo Verde
+    JPN:
+        common: カーボベルデ
+        official: カーボベルデ共和国
+    KOR:
+        common: 카보베르데
+        official: 카보베르데 공화국
+    NLD:
+        common: Kaapverdië
+        official: Republiek van Cabo Verde
+    PER:
+        common: دماغهٔ سبز
+        official: جمهوری کبو ورد
+    POL:
+        common: Republika Zielonego Przylądka
+        official: Republika Zielonego Przylądka
+    POR:
+        common: Cabo Verde
+        official: República de Cabo Verde
+    RUS:
+        common: Кабо-Верде
+        official: Республика Кабо -Верде
+    SLK:
+        common: Kapverdy
+        official: Kapverdská republika
+    SPA:
+        common: Cabo Verde
+        official: República de Cabo Verde
+    SRP:
+        common: Zelenortska Ostrva
+        official: Republika Zelenortska Ostrva
+    SWE:
+        common: Kap Verde
+        official: Republiken Kap Verde
+    TUR:
+        common: Yeşil Burun
+        official: Yeşil Burun Cumhuriyeti
+    URD:
+        common: کیپ ورڈی
+        official: جمہوریہ کیپ ورڈی
+    ZHO:
+        common: 佛得角
+        official: 佛得角共和国
 currencies:
-- CVE
-borders: []
+    - CVE
 codes:
-  alpha2: CV
-  alpha3: CPV
-  cioc: CPV
-  ccn3: "132"
-  callingcodes:
-  - "238"
-  internationalprefix: "00"
+    alpha2: CV
+    alpha3: CPV
+    cioc: CPV
+    ccn3: "132"
+    callingcodes:
+        - "238"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Praia
-  area: 4033
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Praia
+    area: 4033
 coordinates:
-  longitudestring: 24 00 W
-  latitudestring: 16 00 N
-  minlongitude: -25.366667
-  minlatitude: 14.8
-  maxlongitude: -22.666668
-  maxlatitude: 17.2
-  latitude: 15.183002
-  longitude: -23.703451
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -25.383911
+    minlatitude: 14.7270733
+    maxlongitude: -22.5933839
+    maxlatitude: 17.3191764
+    latitude: 16.5388
+    longitude: -23.0418

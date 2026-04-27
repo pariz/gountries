@@ -1,62 +1,110 @@
 name:
-  common: Iceland
-  official: Iceland
-  native:
-    isl:
-      common: Ísland
-      official: Ísland
+    common: Iceland
+    official: Iceland
+    native:
+        isl:
+            common: Ísland
+            official: Ísland
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Icelander
 tlds:
-- .is
+    - .is
 languages:
-  isl: Icelandic
+    is: ""
+    isl: Icelandic
 translations:
-  DEU:
-    common: Island
-    official: Island
-  FRA:
-    common: Islande
-    official: République d'Islande
-  HRV:
-    common: Island
-    official: Island
-  ITA:
-    common: Islanda
-    official: Islanda
-  JPN:
-    common: アイスランド
-    official: アイスランド
-  NLD:
-    common: IJsland
-    official: IJsland
-  POR:
-    common: Islândia
-    official: Islândia
+    ARA:
+        common: آيسلندا
+        official: آيسلندا
+    CES:
+        common: Island
+        official: Island
+    DEU:
+        common: Island
+        official: Island
+    EST:
+        common: Island
+        official: Islandi Vabariik
+    FIN:
+        common: Islanti
+        official: Islanti
+    FRA:
+        common: Islande
+        official: République d'Islande
+    HRV:
+        common: Island
+        official: Island
+    HUN:
+        common: Izland
+        official: Izland
+    ITA:
+        common: Islanda
+        official: Islanda
+    JPN:
+        common: アイスランド
+        official: アイスランド
+    KOR:
+        common: 아이슬란드
+        official: 아이슬란드 공화국
+    NLD:
+        common: IJsland
+        official: IJsland
+    PER:
+        common: ایسلند
+        official: جمهوری ایسلند
+    POL:
+        common: Islandia
+        official: Republika Islandii
+    POR:
+        common: Islândia
+        official: Islândia
+    RUS:
+        common: Исландия
+        official: Исландия
+    SLK:
+        common: Island
+        official: Islandská republika
+    SPA:
+        common: Islandia
+        official: Islandia
+    SRP:
+        common: Island
+        official: Republika Island
+    SWE:
+        common: Island
+        official: Island
+    TUR:
+        common: İzlanda
+        official: İzlanda
+    URD:
+        common: آئس لینڈ
+        official: آئس لینڈ
+    ZHO:
+        common: 冰岛
+        official: 冰岛
 currencies:
-- ISK
-borders: []
+    - ISK
 codes:
-  alpha2: IS
-  alpha3: ISL
-  cioc: ISL
-  ccn3: "352"
-  callingcodes:
-  - "354"
-  internationalprefix: "00"
+    alpha2: IS
+    alpha3: ISL
+    cioc: ISL
+    ccn3: "352"
+    callingcodes:
+        - "354"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Reykjavik
-  area: 103000
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Reykjavik
+    area: 103000
 coordinates:
-  longitudestring: 18 00 W
-  latitudestring: 65 00 N
-  minlongitude: -24.533333
-  minlatitude: 63.3
-  maxlongitude: -13.2
-  maxlatitude: 66.566666
-  latitude: 64.928566
-  longitude: -18.9617
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -26.2572999
+    minlatitude: 62.4819
+    maxlongitude: -12.2388001
+    maxlatitude: 67.2466
+    latitude: 64.963051
+    longitude: -19.020835

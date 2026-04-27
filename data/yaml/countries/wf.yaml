@@ -1,62 +1,109 @@
 name:
-  common: Wallis and Futuna
-  official: Territory of the Wallis and Futuna Islands
-  native:
-    fra:
-      common: Wallis et Futuna
-      official: Territoire des îles Wallis et Futuna
+    common: Wallis and Futuna
+    official: The Territory of the Wallis and Futuna Islands
+    native:
+        fra:
+            common: Wallis et Futuna
+            official: Territoire des îles Wallis et Futuna
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Wallis and Futuna Islander
 tlds:
-- .wf
+    - .wf
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  DEU:
-    common: Wallis und Futuna
-    official: Gebiet der Wallis und Futuna
-  FRA:
-    common: Wallis-et-Futuna
-    official: Territoire des îles Wallis et Futuna
-  HRV:
-    common: Wallis i Fortuna
-    official: Teritoriju Wallis i Futuna
-  NLD:
-    common: Wallis en Futuna
-    official: Grondgebied van de Wallis en Futuna
-  POR:
-    common: Wallis e Futuna
-    official: Território das Ilhas Wallis e Futuna
-  RUS:
-    common: Уоллис и Футуна
-    official: Территория Уоллис и Футуна острова
-  SPA:
-    common: Wallis y Futuna
-    official: Territorio de las Islas Wallis y Futuna
+    ARA:
+        common: واليس وفوتونا
+        official: إقليم جزر واليس وفوتونا
+    CES:
+        common: Wallis a Futuna
+        official: Teritorium ostrovů Wallis a Futuna
+    DEU:
+        common: Wallis und Futuna
+        official: Gebiet der Wallis und Futuna
+    EST:
+        common: Wallis ja Futuna
+        official: Wallise ja Futuna ala
+    FIN:
+        common: Wallis ja Futuna
+        official: Wallisin ja Futunan yhteisö
+    FRA:
+        common: Wallis-et-Futuna
+        official: Territoire des îles Wallis et Futuna
+    HRV:
+        common: Wallis i Fortuna
+        official: Teritoriju Wallis i Futuna
+    HUN:
+        common: Wallis és Futuna
+        official: Wallis és Futuna
+    ITA:
+        common: Wallis e Futuna
+        official: Territorio delle Isole Wallis e Futuna
+    JPN:
+        common: ウォリス・フツナ
+        official: ワリス・フテュナ諸島
+    KOR:
+        common: 왈리스 퓌튀나
+        official: 왈리스 퓌튀나
+    NLD:
+        common: Wallis en Futuna
+        official: Grondgebied van de Wallis en Futuna
+    PER:
+        common: والیس و فوتونا
+        official: جزایر والیس و فوتونا
+    POL:
+        common: Wallis i Futuna
+        official: Terytorium Wysp Wallis i Futuna
+    POR:
+        common: Wallis e Futuna
+        official: Território das Ilhas Wallis e Futuna
+    RUS:
+        common: Уоллис и Футуна
+        official: Территория Уоллис и Футуна острова
+    SLK:
+        common: Wallis a Futuna
+        official: Teritórium ostrovov Wallis a Futuna
+    SPA:
+        common: Wallis y Futuna
+        official: Territorio de las Islas Wallis y Futuna
+    SRP:
+        common: Valis i Futuna ostrva
+        official: Teritorija ostrva Valis i Futuna
+    SWE:
+        common: Wallis- och Futunaöarna
+        official: Territoriet Wallis- och Futunaöarna
+    TUR:
+        common: Wallis ve Futuna Adaları Bölgesi
+        official: Wallis ve Futuna Adaları Bölgesi
+    URD:
+        common: والس و فتونہ
+        official: سر زمینِ والس و فتونہ جزائر
+    ZHO:
+        common: 瓦利斯和富图纳群岛
+        official: 瓦利斯和富图纳群岛
 currencies:
-- XPF
-borders: []
+    - XPF
 codes:
-  alpha2: WF
-  alpha3: WLF
-  cioc: ""
-  ccn3: "876"
-  callingcodes:
-  - "681"
-  internationalprefix: "19"
+    alpha2: WF
+    alpha3: WLF
+    ccn3: "876"
+    callingcodes:
+        - "681"
+    internationalprefix: "19"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Mata-Utu
-  area: 142
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Mata-Utu
+    area: 142
 coordinates:
-  longitudestring: 176 12 W
-  latitudestring: 13 18 S
-  minlongitude: -178.18333
-  minlatitude: -14.35
-  maxlongitude: -176.08333
-  maxlatitude: -13.183333
-  latitude: -13.299612
-  longitude: -176.17012
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -178.2284546
+    minlatitude: -14.4187203
+    maxlongitude: -176.0971068
+    maxlatitude: -13.1303042
+    latitude: -14.2938
+    longitude: -178.1165

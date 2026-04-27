@@ -1,57 +1,113 @@
 name:
-  common: Isle of Man
-  official: Isle of Man
-  native:
-    eng:
-      common: Isle of Man
-      official: Isle of Man
-    glv:
-      common: Mannin
-      official: Ellan Vannin or Mannin
+    common: Isle of Man
+    official: The Isle of Man
+    native:
+        eng:
+            common: Isle of Man
+            official: Isle of Man
+        glv:
+            common: Mannin
+            official: Ellan Vannin or Mannin
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Manx
 tlds:
-- .im
+    - .im
 languages:
-  eng: English
-  glv: Manx
+    en: ""
+    eng: English
+    glv: Manx
+    gv: ""
 translations:
-  FIN:
-    common: Mansaari
-    official: Mansaari
-  JPN:
-    common: マン島
-    official: マン島
-  RUS:
-    common: Остров Мэн
-    official: Остров Мэн
-  SPA:
-    common: Isla de Man
-    official: Isla de Man
+    ARA:
+        common: جزيرة مان
+        official: جزيرة مان
+    CES:
+        common: Ostrov Man
+        official: Ostrov Man
+    DEU:
+        common: Insel Man
+        official: Isle of Man
+    EST:
+        common: Mani saar
+        official: Mani saar
+    FIN:
+        common: Mansaari
+        official: Mansaari
+    FRA:
+        common: Île de Man
+        official: Isle of Man
+    HRV:
+        common: Otok Man
+        official: Mana ostrvo
+    HUN:
+        common: Man
+        official: Man
+    ITA:
+        common: Isola di Man
+        official: Isola di Man
+    JPN:
+        common: マン島
+        official: マン島
+    KOR:
+        common: 맨섬
+        official: 맨섬
+    NLD:
+        common: Isle of Man
+        official: Isle of Man
+    PER:
+        common: جزیرهٔ مَن
+        official: جزیرهٔ مَن
+    POL:
+        common: Wyspa Man
+        official: Wyspa Man
+    POR:
+        common: Ilha de Man
+        official: Isle of Man
+    RUS:
+        common: Остров Мэн
+        official: Остров Мэн
+    SLK:
+        common: Man
+        official: Ostrov Man
+    SPA:
+        common: Isla de Man
+        official: Isla de Man
+    SRP:
+        common: Men Ostrvo
+        official: Ostrvo Men
+    SWE:
+        common: Isle of Man
+        official: Isle of Man
+    TUR:
+        common: Man Adası
+        official: Man Adası
+    URD:
+        common: آئل آف مین
+        official: آئل آف مین
+    ZHO:
+        common: 马恩岛
+        official: 马恩岛
 currencies:
-- GBP
-borders: []
+    - GBP
 codes:
-  alpha2: IM
-  alpha3: IMN
-  cioc: ""
-  ccn3: "833"
-  callingcodes:
-  - "44"
-  internationalprefix: ""
+    alpha2: IM
+    alpha3: IMN
+    ccn3: "833"
+    callingcodes:
+        - "44"
 geo:
-  region: Europe
-  subregion: Northern Europe
-  continent: Europe
-  capital: Douglas
-  area: 572
+    region: Europe
+    subregion: Northern Europe
+    continent: Europe
+    capital: Douglas
+    area: 572
 coordinates:
-  longitudestring: 4 30 W
-  latitudestring: 54 15 N
-  minlongitude: -4.833333
-  minlatitude: 54.033333
-  maxlongitude: -4.316667
-  maxlatitude: 54.4
-  latitude: 54.224514
-  longitude: -4.5621333
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -4.8736609
+    minlatitude: 54.0186764
+    maxlongitude: -4.270618199999999
+    maxlatitude: 54.4369363
+    latitude: 54.236107
+    longitude: -4.548056

@@ -1,59 +1,110 @@
 name:
-  common: Cayman Islands
-  official: Cayman Islands
-  native:
-    eng:
-      common: Cayman Islands
-      official: Cayman Islands
+    common: Cayman Islands
+    official: The Cayman Islands
+    native:
+        eng:
+            common: Cayman Islands
+            official: Cayman Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Caymanian
 tlds:
-- .ky
+    - .ky
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  CYM:
-    common: Ynysoedd_Cayman
-    official: Cayman Islands
-  DEU:
-    common: Kaimaninseln
-    official: Cayman-Inseln
-  FIN:
-    common: Caymansaaret
-    official: Caymansaaret
-  ITA:
-    common: Isole Cayman
-    official: Isole Cayman
-  NLD:
-    common: Caymaneilanden
-    official: Caymaneilanden
-  POR:
-    common: Ilhas Caimão
-    official: Ilhas Cayman
+    ARA:
+        common: جزر كايمان
+        official: جزر كايمان
+    CES:
+        common: Kajmanské ostrovy
+        official: Kajmanské ostrovy
+    DEU:
+        common: Kaimaninseln
+        official: Cayman-Inseln
+    EST:
+        common: Kaimanisaared
+        official: Kaimanisaared
+    FIN:
+        common: Caymansaaret
+        official: Caymansaaret
+    FRA:
+        common: Îles Caïmans
+        official: Îles Caïmans
+    HRV:
+        common: Kajmanski otoci
+        official: Kajmanski otoci
+    HUN:
+        common: Kajmán-szigetek
+        official: Kajmán-szigetek
+    ITA:
+        common: Isole Cayman
+        official: Isole Cayman
+    JPN:
+        common: ケイマン諸島
+        official: ケイマン諸島
+    KOR:
+        common: 케이맨 제도
+        official: 케이맨 제도
+    NLD:
+        common: Caymaneilanden
+        official: Caymaneilanden
+    PER:
+        common: جزایر کیمن
+        official: جزایر کیمن
+    POL:
+        common: Kajmany
+        official: Kajmany
+    POR:
+        common: Ilhas Caimão
+        official: Ilhas Cayman
+    RUS:
+        common: Каймановы острова
+        official: Каймановы острова
+    SLK:
+        common: Kajmanie ostrovy
+        official: Kajmanie ostrovy
+    SPA:
+        common: Islas Caimán
+        official: Islas Caimán
+    SRP:
+        common: Kajmanska Ostrva
+        official: Kajmanska Ostrva
+    SWE:
+        common: Caymanöarna
+        official: Caymanöarna
+    TUR:
+        common: Cayman Adaları
+        official: Cayman Adaları
+    URD:
+        common: جزائر کیمین
+        official: جزائر کیمین
+    ZHO:
+        common: 开曼群岛
+        official: 开曼群岛
 currencies:
-- KYD
-borders: []
+    - KYD
 codes:
-  alpha2: KY
-  alpha3: CYM
-  cioc: CAY
-  ccn3: "136"
-  callingcodes:
-  - "1345"
-  internationalprefix: "011"
+    alpha2: KY
+    alpha3: CYM
+    cioc: CAY
+    ccn3: "136"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: George Town
-  area: 264
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: George Town
+    area: 264
 coordinates:
-  longitudestring: 80 30 W
-  latitudestring: 19 30 N
-  minlongitude: -81.416664
-  minlatitude: 19.25
-  maxlongitude: -79.71667
-  maxlatitude: 19.75
-  latitude: 19.308863
-  longitude: -81.256805
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -81.42940010000001
+    minlatitude: 19.2538999
+    maxlongitude: -79.7191
+    maxlatitude: 19.7616
+    latitude: 19.3133
+    longitude: -81.2546

@@ -1,102 +1,166 @@
 name:
-  common: South Africa
-  official: Republic of South Africa
-  native:
-    afr:
-      common: South Africa
-      official: Republiek van Suid-Afrika
-    eng:
-      common: South Africa
-      official: Republic of South Africa
-    nbl:
-      common: Sewula Afrika
-      official: IRiphabliki yeSewula Afrika
-    nso:
-      common: Afrika-Borwa
-      official: 'Rephaboliki ya Afrika-Borwa '
-    sot:
-      common: Afrika Borwa
-      official: Rephaboliki ya Afrika Borwa
-    ssw:
-      common: Ningizimu Afrika
-      official: IRiphabhulikhi yeNingizimu Afrika
-    tsn:
-      common: Aforika Borwa
-      official: Rephaboliki ya Aforika Borwa
-    tso:
-      common: Afrika Dzonga
-      official: Riphabliki ra Afrika Dzonga
-    ven:
-      common: Afurika Tshipembe
-      official: Riphabuḽiki ya Afurika Tshipembe
-    xho:
-      common: Mzantsi Afrika
-      official: IRiphabliki yaseMzantsi Afrika
-    zul:
-      common: Ningizimu Afrika
-      official: IRiphabliki yaseNingizimu Afrika
+    common: South Africa
+    official: The Republic of South Africa
+    native:
+        afr:
+            common: South Africa
+            official: Republiek van Suid-Afrika
+        eng:
+            common: South Africa
+            official: Republic of South Africa
+        nbl:
+            common: Sewula Afrika
+            official: IRiphabliki yeSewula Afrika
+        nso:
+            common: Afrika-Borwa
+            official: 'Rephaboliki ya Afrika-Borwa '
+        sot:
+            common: Afrika Borwa
+            official: Rephaboliki ya Afrika Borwa
+        ssw:
+            common: Ningizimu Afrika
+            official: IRiphabhulikhi yeNingizimu Afrika
+        tsn:
+            common: Aforika Borwa
+            official: Rephaboliki ya Aforika Borwa
+        tso:
+            common: Afrika Dzonga
+            official: Riphabliki ra Afrika Dzonga
+        ven:
+            common: Afurika Tshipembe
+            official: Riphabuḽiki ya Afurika Tshipembe
+        xho:
+            common: Mzantsi Afrika
+            official: IRiphabliki yaseMzantsi Afrika
+        zul:
+            common: Ningizimu Afrika
+            official: IRiphabliki yaseNingizimu Afrika
 eumember: false
 landlocked: false
-nationality: ""
+nationality: South African
 tlds:
-- .za
+    - .za
 languages:
-  afr: Afrikaans
-  eng: English
-  nbl: Southern Ndebele
-  nso: Northern Sotho
-  sot: Southern Sotho
-  ssw: Swazi
-  tsn: Tswana
-  tso: Tsonga
-  ven: Venda
-  xho: Xhosa
-  zul: Zulu
+    af: ""
+    afr: Afrikaans
+    en: ""
+    eng: English
+    nbl: Southern Ndebele
+    nr: ""
+    nso: Northern Sotho
+    sot: Southern Sotho
+    ss: ""
+    ssw: Swazi
+    st: ""
+    tn: ""
+    ts: ""
+    tsn: Tswana
+    tso: Tsonga
+    ve: ""
+    ven: Venda
+    xh: ""
+    xho: Xhosa
+    zu: ""
+    zul: Zulu
 translations:
-  FIN:
-    common: Etelä-Afrikka
-    official: Etelä-Afrikan tasavalta
-  FRA:
-    common: Afrique du Sud
-    official: République d'Afrique du Sud
-  ITA:
-    common: Sud Africa
-    official: Repubblica del Sud Africa
-  RUS:
-    common: Южно-Африканская Республика
-    official: Южно-Африканская Республика
-  SPA:
-    common: República de Sudáfrica
-    official: República de Sudáfrica
+    ARA:
+        common: جنوب أفريقيا
+        official: جمهورية جنوب أفريقيا
+    CES:
+        common: Jihoafrická republika
+        official: Jihoafrická republika
+    DEU:
+        common: Südafrika
+        official: Republik Südafrika
+    EST:
+        common: Lõuna-Aafrika Vabariik
+        official: Lõuna-Aafrika Vabariik
+    FIN:
+        common: Etelä-Afrikka
+        official: Etelä-Afrikan tasavalta
+    FRA:
+        common: Afrique du Sud
+        official: République d'Afrique du Sud
+    HRV:
+        common: Južnoafrička Republika
+        official: Južnoafrička Republika
+    HUN:
+        common: Dél-afrikai Köztársaság
+        official: Dél-afrikai Köztársaság
+    ITA:
+        common: Sud Africa
+        official: Repubblica del Sud Africa
+    JPN:
+        common: 南アフリカ
+        official: 南アフリカ共和国
+    KOR:
+        common: 남아프리카
+        official: 남아프리카 공화국
+    NLD:
+        common: Zuid-Afrika
+        official: Republiek Zuid-Afrika
+    PER:
+        common: آفریقای جنوبی
+        official: جمهوری آفریقای جنوبی
+    POL:
+        common: Południowa Afryka
+        official: Republika Południowej Afryki
+    POR:
+        common: África do Sul
+        official: República da África do Sul
+    RUS:
+        common: Южно-Африканская Республика
+        official: Южно-Африканская Республика
+    SLK:
+        common: Juhoafrická republika
+        official: Juhoafrická republika
+    SPA:
+        common: Sudáfrica
+        official: República de Sudáfrica
+    SRP:
+        common: Južnoafrička Republika
+        official: Republika Južna Afrika
+    SWE:
+        common: Sydafrika
+        official: Republiken Sydafrika
+    TUR:
+        common: Güney Afrika
+        official: Güney Afrika Cumhuriyeti
+    URD:
+        common: جنوبی افریقا
+        official: جمہوریہ جنوبی افریقا
+    ZHO:
+        common: 南非
+        official: 南非共和国
 currencies:
-- ZAR
+    - ZAR
 borders:
-- BWA
-- LSO
-- MOZ
-- NAM
-- SWZ
-- ZWE
+    - BWA
+    - LSO
+    - MOZ
+    - NAM
+    - SWZ
+    - ZWE
 codes:
-  alpha2: ZA
-  alpha3: ZAF
-  cioc: RSA
-  ccn3: "710"
-  callingcodes:
-  - "27"
-  internationalprefix: "09"
+    alpha2: ZA
+    alpha3: ZAF
+    cioc: RSA
+    ccn3: "710"
+    callingcodes:
+        - "27"
+    internationalprefix: "09"
 geo:
-  region: Africa
-  subregion: Southern Africa
-  continent: Africa
-  capital: Pretoria
-  area: 1.221037e+06
+    region: Africa
+    subregion: Southern Africa
+    continent: Africa
+    capital: Pretoria
+    area: 1.221037e+06
 coordinates:
-  longitudestring: 24 00 E
-  latitudestring: 29 00 S
-  minlongitude: 16.466667
-  minlatitude: -34.833332
-  maxlongitude: 32.88333
-  maxlatitude: -22.133333
-  latitude: -29.046185
-  longitude: 25.06288
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.2816999
+    minlatitude: -47.1313489
+    maxlongitude: 38.2216904
+    maxlatitude: -22.1254239
+    latitude: -30.559482
+    longitude: 22.937506

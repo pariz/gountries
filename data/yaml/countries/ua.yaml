@@ -1,59 +1,119 @@
 name:
-  common: Ukraine
-  official: Ukraine
-  native:
-    rus:
-      common: Украина
-      official: Украина
-    ukr:
-      common: Україна
-      official: Україна
+    common: Ukraine
+    official: Ukraine
+    native:
+        ukr:
+            common: Україна
+            official: Україна
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Ukrainian
 tlds:
-- .ua
-- .укр
+    - .ua
+    - .укр
 languages:
-  rus: Russian
-  ukr: Ukrainian
+    uk: ""
+    ukr: Ukrainian
 translations:
-  NLD:
-    common: Oekraïne
-    official: Oekraïne
-  SPA:
-    common: Ucrania
-    official: Ucrania
+    ARA:
+        common: أوكرانيا
+        official: أوكرانيا
+    CES:
+        common: Ukrajina
+        official: Ukrajina
+    DEU:
+        common: Ukraine
+        official: Ukraine
+    EST:
+        common: Ukraina
+        official: Ukraina
+    FIN:
+        common: Ukraina
+        official: Ukraina
+    FRA:
+        common: Ukraine
+        official: Ukraine
+    HRV:
+        common: Ukrajina
+        official: Ukrajina
+    HUN:
+        common: Ukrajna
+        official: Ukrajna
+    ITA:
+        common: Ucraina
+        official: Ucraina
+    JPN:
+        common: ウクライナ
+        official: ウクライナ
+    KOR:
+        common: 우크라이나
+        official: 우크라이나
+    NLD:
+        common: Oekraïne
+        official: Oekraïne
+    PER:
+        common: اوکراین
+        official: اوکراین
+    POL:
+        common: Ukraina
+        official: Ukraina
+    POR:
+        common: Ucrânia
+        official: Ucrânia
+    RUS:
+        common: Украина
+        official: Украина
+    SLK:
+        common: Ukrajina
+        official: Ukrajina
+    SPA:
+        common: Ucrania
+        official: Ucrania
+    SRP:
+        common: Ukrajina
+        official: Ukrajina
+    SWE:
+        common: Ukraina
+        official: Ukraina
+    TUR:
+        common: Ukrayna
+        official: Ukrayna
+    URD:
+        common: یوکرین
+        official: یوکرین
+    ZHO:
+        common: 乌克兰
+        official: 乌克兰
 currencies:
-- UAH
+    - UAH
 borders:
-- BLR
-- HUN
-- MDA
-- POL
-- ROU
-- RUS
-- SVK
+    - BLR
+    - HUN
+    - MDA
+    - POL
+    - ROU
+    - RUS
+    - SVK
 codes:
-  alpha2: UA
-  alpha3: UKR
-  cioc: UKR
-  ccn3: "804"
-  callingcodes:
-  - "380"
-  internationalprefix: "810"
+    alpha2: UA
+    alpha3: UKR
+    cioc: UKR
+    ccn3: "804"
+    callingcodes:
+        - "380"
+    internationalprefix: "810"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Kiev
-  area: 603500
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Kyiv
+    area: 603500
 coordinates:
-  longitudestring: 32 00 E
-  latitudestring: 49 00 N
-  minlongitude: 20.933332
-  minlatitude: 37.8
-  maxlongitude: 68.85
-  maxlatitude: 63.4
-  latitude: 48.926563
-  longitude: 31.475782
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.137159
+    minlatitude: 44.2924
+    maxlongitude: 40.2204802
+    maxlatitude: 52.3793713
+    latitude: 48.379433
+    longitude: 31.1655799

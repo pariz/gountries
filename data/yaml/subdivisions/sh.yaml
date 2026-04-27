@@ -1,11 +1,11 @@
-- name: Ascencion
+- name: Ascension
   names:
-    - Ascension Island
+    - Ascension
   code: AC
   countryalpha2: SH
   coordinates:
-    longitudestring: ''
-    latitudestring: ''
+    longitudestring: ""
+    latitudestring: ""
     minlongitude: -14.4202423
     minlatitude: -7.9922519
     maxlongitude: -14.2954026
@@ -13,27 +13,25 @@
     latitude: -7.946716599999999
     longitude: -14.3559158
 - name: Saint Helena
-  names:
-    - Saint Helena
-  code: SH
+  code: HL
   countryalpha2: SH
   coordinates:
-    longitudestring: ''
-    latitudestring: ''
-    minlongitude: -5.7874086
-    minlatitude: -16.0203149
-    maxlongitude: -5.639430099999999
-    maxlatitude: -15.9038239
-    latitude: -15.9650104
-    longitude: -5.7089241
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Tristan da Cunha
   names:
     - Tristan da Cunha
   code: TA
   countryalpha2: SH
   coordinates:
-    longitudestring: ''
-    latitudestring: ''
+    longitudestring: ""
+    latitudestring: ""
     minlongitude: -12.3511792
     minlatitude: -37.1702333
     maxlongitude: -12.2167732

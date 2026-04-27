@@ -1,130 +1,144 @@
+- name: محافظة جنوب الباطنة
+  code: BJ
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: محافظة شمال الباطنة
+  code: BS
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: محافظة البريمي
+  code: BU
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
 - name: Ad Dakhiliyah
   names:
-  - Ad Dakhiliya
+    - Ad Dakhiliya
   code: DA
   countryalpha2: OM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 56.576046
+    minlongitude: 56.576047
     minlatitude: 20.904974
-    maxlongitude: 58.341885
-    maxlatitude: 23.563232
-    latitude: 22.347633
-    longitude: 57.281864
-- name: Adh Dhahirah
-  names:
-  - Adh Dhahirah
-  code: ZA
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 55.20692
-    minlatitude: 21.273594
-    maxlongitude: 57.116875
-    maxlatitude: 24.019926
-    latitude: 22.559027
-    longitude: 56.024998
-- name: Musandam
-  names:
-  - Musandam
-  code: MU
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 56.09789
-    minlatitude: 25.24196
-    maxlongitude: 56.537693
-    maxlatitude: 26.385954
-    latitude: 25.994265
-    longitude: 56.248226
-- name: Ash Sharqiyah
-  names:
-  - Ash Sharqiyah
-  code: SH
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 57.909008
-    minlatitude: 20.750053
-    maxlongitude: 59.430973
-    maxlatitude: 23.340828
-    latitude: 22.118692
-    longitude: 58.554382
-- name: Al Wustá
-  names:
-  - Al Wustá
-  code: WU
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 55
-    minlatitude: 17.945673
-    maxlongitude: 58.322742
-    maxlatitude: 21.420908
-    latitude: 20.173866
-    longitude: 56.561646
-- name: Al Buraymi
-  names:
-  - Al Buraymi
-  code: X1~
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 55.75347
-    minlatitude: 24.224815
-    maxlongitude: 55.889854
-    maxlatitude: 24.326763
-    latitude: 24.25
-    longitude: 55.7999
-- name: Al Batinah
-  names:
-  - Al Batinah
-  code: BA
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 56.188816
-    minlatitude: 23.384352
-    maxlongitude: 57.439053
-    maxlatitude: 24.977919
-    latitude: 24.13316
-    longitude: 56.651386
-- name: Dhofar
-  names:
-  - Dhofar
-  - Dhufar
-  - Janubiyah
-  code: JA
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 52.0007
-    minlatitude: 16.645761
-    maxlongitude: 56.3556
-    maxlatitude: 20.001837
-    latitude: 18.397036
-    longitude: 54.434216
+    maxlongitude: 58.34188510000001
+    maxlatitude: 23.5632319
+    latitude: 22.3476325
+    longitude: 57.2818625
 - name: Masqat
   names:
-  - Masqaţ
-  - Maskat
-  - Mascate
+    - Masqaţ
+    - Maskat
+    - Mascate
   code: MA
   countryalpha2: OM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 58.228374
-    minlatitude: 23.521122
-    maxlongitude: 58.618958
-    maxlatitude: 23.645569
+    minlongitude: 58.2283758
+    minlatitude: 23.5211218
+    maxlongitude: 58.6189567
+    maxlatitude: 23.6455689
     latitude: 23.61
     longitude: 58.54
+- name: Musandam
+  names:
+    - Musandam
+  code: MU
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 56.09789079999999
+    minlatitude: 25.2419609
+    maxlongitude: 56.5376924
+    maxlatitude: 26.385954
+    latitude: 25.9942638
+    longitude: 56.24822769999999
+- name: محافظة جنوب الشرقية
+  code: SJ
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: محافظة شمال الشرقية
+  code: SS
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Al Wustá
+  names:
+    - Al Wustá
+  code: WU
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 54.9999999
+    minlatitude: 17.9456731
+    maxlongitude: 58.3227421
+    maxlatitude: 21.420908
+    latitude: 20.1738655
+    longitude: 56.56164700000001
+- name: Adh Dhahirah
+  names:
+    - Adh Dhahirah
+  code: ZA
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.2069211
+    minlatitude: 21.2735939
+    maxlongitude: 57.116874
+    maxlatitude: 24.019926
+    latitude: 22.5590272
+    longitude: 56.0249982
+- name: محافظة ظفار
+  code: ZU
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

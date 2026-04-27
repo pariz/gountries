@@ -1,64 +1,117 @@
 name:
-  common: Canada
-  official: Canada
-  native:
-    eng:
-      common: Canada
-      official: Canada
-    fra:
-      common: Canada
-      official: Canada
+    common: Canada
+    official: Canada
+    native:
+        eng:
+            common: Canada
+            official: Canada
+        fra:
+            common: Canada
+            official: Canada
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Canadian
 tlds:
-- .ca
+    - .ca
 languages:
-  eng: English
-  fra: French
+    en: ""
+    eng: English
+    fr: ""
+    fra: French
 translations:
-  FRA:
-    common: Canada
-    official: Canada
-  HRV:
-    common: Kanada
-    official: Kanada
-  JPN:
-    common: カナダ
-    official: カナダ
-  NLD:
-    common: Canada
-    official: Canada
-  RUS:
-    common: Канада
-    official: Канада
-  SPA:
-    common: Canadá
-    official: Canadá
+    ARA:
+        common: كندا
+        official: كندا
+    CES:
+        common: Kanada
+        official: Kanada
+    DEU:
+        common: Kanada
+        official: Kanada
+    EST:
+        common: Kanada
+        official: Kanada
+    FIN:
+        common: Kanada
+        official: Kanada
+    FRA:
+        common: Canada
+        official: Canada
+    HRV:
+        common: Kanada
+        official: Kanada
+    HUN:
+        common: Kanada
+        official: Kanada
+    ITA:
+        common: Canada
+        official: Canada
+    JPN:
+        common: カナダ
+        official: カナダ
+    KOR:
+        common: 캐나다
+        official: 캐나다
+    NLD:
+        common: Canada
+        official: Canada
+    PER:
+        common: کانادا
+        official: کانادا
+    POL:
+        common: Kanada
+        official: Kanada
+    POR:
+        common: Canadá
+        official: Canadá
+    RUS:
+        common: Канада
+        official: Канада
+    SLK:
+        common: Kanada
+        official: Kanada
+    SPA:
+        common: Canadá
+        official: Canadá
+    SRP:
+        common: Kanada
+        official: Kanada
+    SWE:
+        common: Kanada
+        official: Kanada
+    TUR:
+        common: Kanada
+        official: Kanada
+    URD:
+        common: کینیڈا
+        official: کینیڈا
+    ZHO:
+        common: 加拿大
+        official: 加拿大
 currencies:
-- CAD
+    - CAD
 borders:
-- USA
+    - USA
 codes:
-  alpha2: CA
-  alpha3: CAN
-  cioc: CAN
-  ccn3: "124"
-  callingcodes:
-  - "1"
-  internationalprefix: "011"
+    alpha2: CA
+    alpha3: CAN
+    cioc: CAN
+    ccn3: "124"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Northern America
-  continent: North America
-  capital: Ottawa
-  area: 9.98467e+06
+    region: Americas
+    subregion: Northern America
+    continent: North America
+    capital: Ottawa
+    area: 9.98467e+06
 coordinates:
-  longitudestring: 95 00 W
-  latitudestring: 60 00 N
-  minlongitude: -141.66667
-  minlatitude: 40
-  maxlongitude: -52.666668
-  maxlatitude: 83.11667
-  latitude: 62.83291
-  longitude: -95.91332
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -141.00187
+    minlatitude: 41.6765559
+    maxlongitude: -50.9766
+    maxlatitude: 83.6381
+    latitude: 56.130366
+    longitude: -106.346771

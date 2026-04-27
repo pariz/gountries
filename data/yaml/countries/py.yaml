@@ -1,63 +1,119 @@
 name:
-  common: Paraguay
-  official: Republic of Paraguay
-  native:
-    grn:
-      common: Paraguái
-      official: Tetã Paraguái
-    spa:
-      common: Paraguay
-      official: República de Paraguay
+    common: Paraguay
+    official: The Republic of Paraguay
+    native:
+        grn:
+            common: Paraguái
+            official: Tetã Paraguái
+        spa:
+            common: Paraguay
+            official: República de Paraguay
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Paraguayan
 tlds:
-- .py
+    - .py
 languages:
-  grn: Guaraní
-  spa: Spanish
+    es: ""
+    gn: ""
+    grn: Guaraní
+    spa: Spanish
 translations:
-  DEU:
-    common: Paraguay
-    official: Republik Paraguay
-  HRV:
-    common: Paragvaj
-    official: Republika Paragvaj
-  ITA:
-    common: Paraguay
-    official: Repubblica del Paraguay
-  JPN:
-    common: パラグアイ
-    official: パラグアイ共和国
-  POR:
-    common: Paraguai
-    official: República do Paraguai
+    ARA:
+        common: باراغواي
+        official: جمهورية باراغواي
+    CES:
+        common: Paraguay
+        official: Paraguayská republika
+    DEU:
+        common: Paraguay
+        official: Republik Paraguay
+    EST:
+        common: Paraguay
+        official: Paraguay Vabariik
+    FIN:
+        common: Paraguay
+        official: Paraguayn tasavalta
+    FRA:
+        common: Paraguay
+        official: République du Paraguay
+    HRV:
+        common: Paragvaj
+        official: Republika Paragvaj
+    HUN:
+        common: Paraguay
+        official: Paraguayi Köztársaság
+    ITA:
+        common: Paraguay
+        official: Repubblica del Paraguay
+    JPN:
+        common: パラグアイ
+        official: パラグアイ共和国
+    KOR:
+        common: 파라과이
+        official: 파라과이 공화국
+    NLD:
+        common: Paraguay
+        official: Republiek Paraguay
+    PER:
+        common: پاراگوئه
+        official: جمهوری پاراگوئه
+    POL:
+        common: Paragwaj
+        official: Republika Paragwaju
+    POR:
+        common: Paraguai
+        official: República do Paraguai
+    RUS:
+        common: Парагвай
+        official: Республика Парагвай
+    SLK:
+        common: Paraguaj
+        official: Paraguajská republika
+    SPA:
+        common: Paraguay
+        official: República de Paraguay
+    SRP:
+        common: Paragvaj
+        official: Republika Paragvaj
+    SWE:
+        common: Paraguay
+        official: Republiken Paraguay
+    TUR:
+        common: Paraguay
+        official: Paraguay Cumhuriyeti
+    URD:
+        common: پیراگوئے
+        official: جمہوریہ پیراگوئے
+    ZHO:
+        common: 巴拉圭
+        official: 巴拉圭共和国
 currencies:
-- PYG
+    - PYG
 borders:
-- ARG
-- BOL
-- BRA
+    - ARG
+    - BOL
+    - BRA
 codes:
-  alpha2: PY
-  alpha3: PRY
-  cioc: PAR
-  ccn3: "600"
-  callingcodes:
-  - "595"
-  internationalprefix: "002"
+    alpha2: PY
+    alpha3: PRY
+    cioc: PAR
+    ccn3: "600"
+    callingcodes:
+        - "595"
+    internationalprefix: "002"
 geo:
-  region: Americas
-  subregion: South America
-  continent: South America
-  capital: Asunción
-  area: 406752
+    region: Americas
+    subregion: South America
+    continent: South America
+    capital: Asunción
+    area: 406752
 coordinates:
-  longitudestring: 58 00 W
-  latitudestring: 23 00 S
-  minlongitude: -62.63333
-  minlatitude: -27.533333
-  maxlongitude: -54.35
-  maxlatitude: -19.333332
-  latitude: -23.24029
-  longitude: -58.395172
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -62.63895230000001
+    minlatitude: -27.5817594
+    maxlongitude: -54.258562
+    maxlatitude: -19.2876589
+    latitude: -23.442503
+    longitude: -58.443832

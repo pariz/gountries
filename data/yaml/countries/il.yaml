@@ -1,64 +1,121 @@
 name:
-  common: Israel
-  official: State of Israel
-  native:
-    ara:
-      common: إسرائيل
-      official: دولة إسرائيل
-    heb:
-      common: ישראל
-      official: מדינת ישראל
+    common: Israel
+    official: The State of Israel
+    native:
+        ara:
+            common: إسرائيل
+            official: دولة إسرائيل
+        heb:
+            common: ישראל
+            official: מדינת ישראל
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Israeli
 tlds:
-- .il
+    - .il
 languages:
-  ara: Arabic
-  heb: Hebrew
+    ar: ""
+    ara: Arabic
+    he: ""
+    heb: Hebrew
 translations:
-  DEU:
-    common: Israel
-    official: Staat Israel
-  FRA:
-    common: Israël
-    official: État d'Israël
-  HRV:
-    common: Izrael
-    official: Država Izrael
-  ITA:
-    common: Israele
-    official: Stato di Israele
-  NLD:
-    common: Israël
-    official: Staat Israël
+    ARA:
+        common: إسرائيل
+        official: دولة إسرائيل
+    CES:
+        common: Izrael
+        official: Stát Izrael
+    DEU:
+        common: Israel
+        official: Staat Israel
+    EST:
+        common: Iisrael
+        official: Iisraeli Riik
+    FIN:
+        common: Israel
+        official: Israelin valtio
+    FRA:
+        common: Israël
+        official: État d'Israël
+    HRV:
+        common: Izrael
+        official: Država Izrael
+    HUN:
+        common: Izrael
+        official: Izrael
+    ITA:
+        common: Israele
+        official: Stato di Israele
+    JPN:
+        common: イスラエル
+        official: イスラエル国
+    KOR:
+        common: 이스라엘
+        official: 이스라엘국
+    NLD:
+        common: Israël
+        official: Staat Israël
+    PER:
+        common: فلسطين اشغالی
+        official: فلسطين اشغالی
+    POL:
+        common: Izrael
+        official: Państwo Izrael
+    POR:
+        common: Israel
+        official: Estado de Israel
+    RUS:
+        common: Израиль
+        official: Государство Израиль
+    SLK:
+        common: Izrael
+        official: Izraelský štát
+    SPA:
+        common: Israel
+        official: Estado de Israel
+    SRP:
+        common: Izrael
+        official: Država Izrael
+    SWE:
+        common: Israel
+        official: Staten Israel
+    TUR:
+        common: İsrail
+        official: İsrail Devleti
+    URD:
+        common: اسرائیل
+        official: ریاستِ اسرائیل
+    ZHO:
+        common: 以色列
+        official: 以色列国
 currencies:
-- ILS
+    - ILS
 borders:
-- EGY
-- JOR
-- LBN
-- SYR
+    - EGY
+    - JOR
+    - LBN
+    - PSE
+    - SYR
 codes:
-  alpha2: IL
-  alpha3: ISR
-  cioc: ISR
-  ccn3: "376"
-  callingcodes:
-  - "972"
-  internationalprefix: "00"
+    alpha2: IL
+    alpha3: ISR
+    cioc: ISR
+    ccn3: "376"
+    callingcodes:
+        - "972"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Jerusalem
-  area: 20770
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Jerusalem
+    area: 20770
 coordinates:
-  longitudestring: 34 45 E
-  latitudestring: 31 30 N
-  minlongitude: 34.283333
-  minlatitude: 29.516666
-  maxlongitude: 35.666668
-  maxlatitude: 33.28611
-  latitude: 31.814194
-  longitude: 34.753372
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 34.2673871
+    minlatitude: 29.47969999999999
+    maxlongitude: 35.896244
+    maxlatitude: 33.33280500000001
+    latitude: 31.046051
+    longitude: 34.851612

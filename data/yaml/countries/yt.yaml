@@ -1,62 +1,109 @@
 name:
-  common: Mayotte
-  official: Department of Mayotte
-  native:
-    fra:
-      common: Mayotte
-      official: Département de Mayotte
-eumember: false
+    common: Mayotte
+    official: The Department of Mayotte
+    native:
+        fra:
+            common: Mayotte
+            official: Département de Mayotte
+eumember: true
 landlocked: false
-nationality: ""
+nationality: French
 tlds:
-- .yt
+    - .yt
 languages:
-  fra: French
+    fr: ""
+    fra: French
 translations:
-  FRA:
-    common: Mayotte
-    official: Département de Mayotte
-  HRV:
-    common: Mayotte
-    official: Odjel Mayotte
-  JPN:
-    common: マヨット
-    official: マヨット科
-  NLD:
-    common: Mayotte
-    official: Afdeling Mayotte
-  POR:
-    common: Mayotte
-    official: Departamento de Mayotte
-  RUS:
-    common: Майотта
-    official: Департамент Майотта
-  SPA:
-    common: Mayotte
-    official: Departamento de Mayotte
+    ARA:
+        common: مايوت
+        official: مايوت
+    CES:
+        common: Mayotte
+        official: Mayotte
+    DEU:
+        common: Mayotte
+        official: Übersee-Département Mayotte
+    EST:
+        common: Mayotte
+        official: Mayotte
+    FIN:
+        common: Mayotte
+        official: Mayotte
+    FRA:
+        common: Mayotte
+        official: Département de Mayotte
+    HRV:
+        common: Mayotte
+        official: Odjel Mayotte
+    HUN:
+        common: Mayotte
+        official: Mayotte
+    ITA:
+        common: Mayotte
+        official: Dipartimento di Mayotte
+    JPN:
+        common: マヨット
+        official: マイヨット島
+    KOR:
+        common: 마요트
+        official: 마요트
+    NLD:
+        common: Mayotte
+        official: Afdeling Mayotte
+    PER:
+        common: مایوت
+        official: مجموعه شهرستانی مایوت
+    POL:
+        common: Majotta
+        official: Majotta
+    POR:
+        common: Mayotte
+        official: Departamento de Mayotte
+    RUS:
+        common: Майотта
+        official: Департамент Майотта
+    SLK:
+        common: Mayotte
+        official: Department Mayotte
+    SPA:
+        common: Mayotte
+        official: Departamento de Mayotte
+    SRP:
+        common: Majot
+        official: Kolektivitet Majot
+    SWE:
+        common: Mayotte
+        official: Departementsområdet Mayotte
+    TUR:
+        common: Mayotte
+        official: Mayotte
+    URD:
+        common: مایوٹ
+        official: مایوٹ
+    ZHO:
+        common: 马约特
+        official: 马约特
 currencies:
-- EUR
-borders: []
+    - EUR
 codes:
-  alpha2: YT
-  alpha3: MYT
-  cioc: ""
-  ccn3: "175"
-  callingcodes:
-  - "262"
-  internationalprefix: "00"
+    alpha2: YT
+    alpha3: MYT
+    ccn3: "175"
+    callingcodes:
+        - "262"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Eastern Africa
-  continent: Africa
-  capital: Mamoudzou
-  area: 374
+    region: Africa
+    subregion: Eastern Africa
+    continent: Africa
+    capital: Mamoudzou
+    area: 374
 coordinates:
-  longitudestring: 45 10 E
-  latitudestring: 12 50 S
-  minlongitude: 45.024445
-  minlatitude: -12.993889
-  maxlongitude: 45.288612
-  maxlatitude: -12.641389
-  latitude: -12.79636
-  longitude: 45.142273
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.9914169
+    minlatitude: -13.0358332
+    maxlongitude: 45.32014849999999
+    maxlatitude: -12.5772665
+    latitude: -12.8275
+    longitude: 45.166244

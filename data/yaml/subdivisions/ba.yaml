@@ -1,28 +1,40 @@
-- name: Republika Srpska
-  names:
-  - Republika Srpska
-  code: SRP
-  countryalpha2: BA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.192438
-    minlatitude: 42.5562
-    maxlongitude: 19.625618
-    maxlatitude: 45.273712
-    latitude: 44.72802
-    longitude: 17.314814
 - name: Federacija Bosna i Hercegovina
   names:
-  - Federacija Bosna i Hercegovina
+    - Federacija Bosna i Hercegovina
   code: BIH
   countryalpha2: BA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 15.723747
-    minlatitude: 42.607502
-    maxlongitude: 19.039251
-    maxlatitude: 45.22713
-    latitude: 43.88749
+    minlongitude: 15.7237473
+    minlatitude: 42.6075035
+    maxlongitude: 19.0392512
+    maxlatitude: 45.2271323
+    latitude: 43.8874897
     longitude: 17.842793
+- name: Brčko Distrikt
+  code: BRC
+  countryalpha2: BA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Republika Srpska
+  names:
+    - Republika Srpska
+  code: SRP
+  countryalpha2: BA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.1924385
+    minlatitude: 42.5561996
+    maxlongitude: 19.6256174
+    maxlatitude: 45.2737124
+    latitude: 44.7280186
+    longitude: 17.3148136

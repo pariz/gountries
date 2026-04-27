@@ -1,112 +1,112 @@
+- name: Australian Capital Territory
+  names:
+    - Australian Capital Territory
+  code: ACT
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 148.7640971
+    minlatitude: -35.9205307
+    maxlongitude: 149.3992848
+    maxlatitude: -35.1245128
+    latitude: -35.4734679
+    longitude: 149.0123679
+- name: New South Wales
+  names:
+    - New South Wales
+  code: NSW
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.9992123
+    minlatitude: -37.5052772
+    maxlongitude: 153.6535617
+    maxlatitude: -28.156192
+    latitude: -33.864174
+    longitude: 151.2052868
+- name: Northern Territory
+  names:
+    - Northern Territory
+  code: NT
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 129.0004244
+    minlatitude: -26.0168698
+    maxlongitude: 137.9990092
+    maxlatitude: -10.9055196
+    latitude: -19.4914108
+    longitude: 132.5509603
 - name: Queensland
   names:
-  - Queensland
+    - Queensland
   code: QLD
   countryalpha2: AU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 137.99457
-    minlatitude: -29.178587
-    maxlongitude: 153.55292
+    minlongitude: 137.9945748
+    minlatitude: -29.1785876
+    maxlongitude: 153.5529199
     maxlatitude: -9.92973
-    latitude: -20.917574
-    longitude: 142.70279
+    latitude: -20.9175738
+    longitude: 142.7027956
 - name: South Australia
   names:
-  - South Australia
+    - South Australia
   code: SA
   countryalpha2: AU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 129.00052
+    minlongitude: 129.0005162
     minlatitude: -38.06121
-    maxlongitude: 141.00288
-    maxlatitude: -25.996391
-    latitude: -30.00023
-    longitude: 136.20915
+    maxlongitude: 141.0028804
+    maxlatitude: -25.996392
+    latitude: -30.0002315
+    longitude: 136.2091547
 - name: Tasmania
   names:
-  - Tasmania
+    - Tasmania
   code: TAS
   countryalpha2: AU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 143.81828
-    minlatitude: -43.807728
-    maxlongitude: 148.7284
-    maxlatitude: -39.438034
-    latitude: -41.365044
-    longitude: 146.6285
+    minlongitude: 143.8182852
+    minlatitude: -43.8077261
+    maxlongitude: 148.7283943
+    maxlatitude: -39.4380355
+    latitude: -41.3650419
+    longitude: 146.6284905
 - name: Victoria
   names:
-  - Victoria
+    - Victoria
   code: VIC
   countryalpha2: AU
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 140.96248
-    minlatitude: -39.22473
-    maxlongitude: 149.97649
-    maxlatitude: -33.981052
-    latitude: -37.471306
-    longitude: 144.78516
+    minlongitude: 140.9624773
+    minlatitude: -39.2247306
+    maxlongitude: 149.9764882
+    maxlatitude: -33.9810507
+    latitude: -37.4713077
+    longitude: 144.7851531
 - name: Western Australia
   names:
-  - Western Australia
+    - Western Australia
   code: WA
   countryalpha2: AU
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 112.92145
-    minlatitude: -35.193993
-    maxlongitude: 129.0026
-    maxlatitude: -13.68949
-    latitude: -27.672817
-    longitude: 121.62831
-- name: Australian Capital Territory
-  names:
-  - Australian Capital Territory
-  code: ACT
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 148.7641
-    minlatitude: -35.920532
-    maxlongitude: 149.39929
-    maxlatitude: -35.12451
-    latitude: -35.47347
-    longitude: 149.01237
-- name: New South Wales
-  names:
-  - New South Wales
-  code: NSW
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.9992
-    minlatitude: -37.505276
-    maxlongitude: 153.65356
-    maxlatitude: -28.156193
-    latitude: -33.864174
-    longitude: 151.20529
-- name: Northern Territory
-  names:
-  - Northern Territory
-  code: NT
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 129.00043
-    minlatitude: -26.01687
-    maxlongitude: 137.99901
-    maxlatitude: -10.9055195
-    latitude: -19.491411
-    longitude: 132.55096
+    minlatitude: -35.1939944
+    maxlongitude: 129.0025979
+    maxlatitude: -13.6894901
+    latitude: -27.6728168
+    longitude: 121.6283098

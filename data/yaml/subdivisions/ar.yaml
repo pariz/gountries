@@ -1,336 +1,336 @@
-- name: Santa Fe
-  names:
-  - Santa Fe
-  code: S
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.73878
-    minlatitude: -31.673004
-    maxlongitude: -60.663807
-    maxlatitude: -31.568546
-    latitude: -31.63239
-    longitude: -60.69946
-- name: Jujuy
-  names:
-  - Jujuy
-  code: "Y"
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -65.3763
-    minlatitude: -24.255764
-    maxlongitude: -65.23361
-    maxlatitude: -24.150234
-    latitude: -24.185787
-    longitude: -65.29948
-- name: San Luis
-  names:
-  - San Luis
-  code: D
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.38437
-    minlatitude: -33.34124
-    maxlongitude: -66.23453
-    maxlatitude: -33.258358
-    latitude: -33.30222
-    longitude: -66.3368
-- name: La Rioja
-  names:
-  - La Rioja
-  code: F
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -66.92537
-    minlatitude: -29.456886
-    maxlongitude: -66.78907
-    maxlatitude: -29.379902
-    latitude: -29.4128
-    longitude: -66.85598
-- name: Chaco
-  names:
-  - Chaco
-  code: H
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -63.42736
-    minlatitude: -27.995535
-    maxlongitude: -58.36363
-    maxlatitude: -24.087868
-    latitude: -26.585766
-    longitude: -60.954006
-- name: Catamarca
-  names:
-  - Catamarca
-  code: K
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -65.824875
-    minlatitude: -28.510153
-    maxlongitude: -65.728935
-    maxlatitude: -28.420322
-    latitude: -28.46899
-    longitude: -65.77897
-- name: Misiones
-  names:
-  - Misiones
-  code: "N"
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.059505
-    minlatitude: -28.163359
-    maxlongitude: -53.638557
-    maxlatitude: -25.49549
-    latitude: -26.937716
-    longitude: -54.434216
-- name: Río Negro
-  names:
-  - Río Negro
-  code: R
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.90291
-    minlatitude: -42.0025
-    maxlongitude: -62.791084
-    maxlatitude: -37.572914
-    latitude: -40.734436
-    longitude: -66.617645
-- name: Santa Cruz
-  names:
-  - Santa Cruz
-  code: Z
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.59483
-    minlatitude: -52.397503
-    maxlongitude: -65.71716
-    maxlatitude: -45.99154
-    latitude: -48.77368
-    longitude: -69.19172
-- name: Tucumán
-  names:
-  - Tucumán
-  code: T
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -65.33633
-    minlatitude: -26.893568
-    maxlongitude: -65.16677
-    maxlatitude: -26.763601
-    latitude: -26.808285
-    longitude: -65.21759
-- name: Chubut
-  names:
-  - Chubut
-  code: U
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -72.19734
-    minlatitude: -46.00223
-    maxlongitude: -58.08801
-    maxlatitude: -32.951775
-    latitude: -43.68462
-    longitude: -69.27455
 - name: Salta
   names:
-  - Salta
+    - Salta
   code: A
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -65.499115
-    minlatitude: -24.87247
-    maxlongitude: -65.354614
-    maxlatitude: -24.710188
-    latitude: -24.782932
-    longitude: -65.412155
+    minlongitude: -65.4991155
+    minlatitude: -24.8724718
+    maxlongitude: -65.35461169999999
+    maxlatitude: -24.7101875
+    latitude: -24.7829323
+    longitude: -65.4121552
+- name: Buenos Aires
+  names:
+    - Buenos Aires
+  code: B
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.5314522
+    minlatitude: -34.7051589
+    maxlongitude: -58.33518840000001
+    maxlatitude: -34.5265464
+    latitude: -34.6037232
+    longitude: -58.3815931
 - name: Capital federal
   names:
-  - Capital federal
+    - Capital federal
   code: C
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -58.531452
-    minlatitude: -34.70516
-    maxlongitude: -58.33519
-    maxlatitude: -34.526546
-    latitude: -34.60372
-    longitude: -58.38159
+    minlongitude: -58.5314522
+    minlatitude: -34.7051589
+    maxlongitude: -58.33518840000001
+    maxlatitude: -34.5265464
+    latitude: -34.6037232
+    longitude: -58.3815931
+- name: San Luis
+  names:
+    - San Luis
+  code: D
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.38436519999999
+    minlatitude: -33.3412384
+    maxlongitude: -66.2345254
+    maxlatitude: -33.2583568
+    latitude: -33.3022202
+    longitude: -66.3367976
+- name: Entre Ríos
+  names:
+    - Entre Ríos
+  code: E
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -60.7680611
+    minlatitude: -34.0391276
+    maxlongitude: -57.80086299999999
+    maxlatitude: -30.1576867
+    latitude: -32.5175643
+    longitude: -59.1041758
+- name: La Rioja
+  names:
+    - La Rioja
+  code: F
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -66.9253657
+    minlatitude: -29.4568857
+    maxlongitude: -66.7890698
+    maxlatitude: -29.3799026
+    latitude: -29.4128001
+    longitude: -66.8559803
 - name: Santiago del Estero
   names:
-  - Santiago del Estero
+    - Santiago del Estero
   code: G
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -64.31144
-    minlatitude: -27.855165
-    maxlongitude: -64.22169
-    maxlatitude: -27.742628
+    minlongitude: -64.3114394
+    minlatitude: -27.8551652
+    maxlongitude: -64.2216859
+    maxlatitude: -27.7426275
     latitude: -27.78442
-    longitude: -64.26728
+    longitude: -64.26728059999999
+- name: Chaco
+  names:
+    - Chaco
+  code: H
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -63.42735869999999
+    minlatitude: -27.9955354
+    maxlongitude: -58.36362680000001
+    maxlatitude: -24.087868
+    latitude: -26.5857656
+    longitude: -60.9540073
 - name: San Juan
   names:
-  - San Juan
+    - San Juan
   code: J
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -68.64415
-    minlatitude: -31.601707
-    maxlongitude: -68.463135
-    maxlatitude: -31.48947
-    latitude: -31.527273
-    longitude: -68.52141
+    minlongitude: -68.644147
+    minlatitude: -31.6017076
+    maxlongitude: -68.4631344
+    maxlatitude: -31.4894698
+    latitude: -31.5272732
+    longitude: -68.5214081
+- name: Catamarca
+  names:
+    - Catamarca
+  code: K
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -65.8248732
+    minlatitude: -28.5101532
+    maxlongitude: -65.7289342
+    maxlatitude: -28.4203217
+    latitude: -28.4689906
+    longitude: -65.77897159999999
 - name: La Pampa
   names:
-  - Pampa
+    - Pampa
   code: L
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: -68.29545
-    minlatitude: -39.316147
-    maxlongitude: -63.386826
-    maxlatitude: -34.992317
-    latitude: -37.89566
-    longitude: -65.09578
-- name: Neuquén
-  names:
-  - Neuquén
-  code: Q
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -68.19299
-    minlatitude: -38.986538
-    maxlongitude: -68.01474
-    maxlatitude: -38.89346
-    latitude: -38.952446
-    longitude: -68.06414
-- name: Corrientes
-  names:
-  - Corrientes
-  code: W
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.857273
-    minlatitude: -27.532797
-    maxlongitude: -58.747494
-    maxlatitude: -27.4386
-    latitude: -27.471226
-    longitude: -58.839584
-- name: Buenos Aires
-  names:
-  - Buenos Aires
-  code: B
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.531452
-    minlatitude: -34.70516
-    maxlongitude: -58.33519
-    maxlatitude: -34.526546
-    latitude: -34.60372
-    longitude: -58.38159
-- name: Entre Ríos
-  names:
-  - Entre Ríos
-  code: E
-  countryalpha2: AR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.768063
-    minlatitude: -34.039127
-    maxlongitude: -57.80086
-    maxlatitude: -30.157686
-    latitude: -32.517563
-    longitude: -59.104176
+    minlatitude: -39.3161456
+    maxlongitude: -63.38682430000001
+    maxlatitude: -34.9923158
+    latitude: -37.8956594
+    longitude: -65.0957792
 - name: Mendoza
   names:
-  - Mendoza
+    - Mendoza
   code: M
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -68.900635
-    minlatitude: -33.04376
-    maxlongitude: -68.72692
-    maxlatitude: -32.80914
-    latitude: -32.890182
-    longitude: -68.84405
+    minlongitude: -68.900637
+    minlatitude: -33.0437567
+    maxlongitude: -68.7269211
+    maxlatitude: -32.8091398
+    latitude: -32.890183
+    longitude: -68.8440498
+- name: Misiones
+  names:
+    - Misiones
+  code: "N"
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.0595043
+    minlatitude: -28.1633594
+    maxlongitude: -53.6385579
+    maxlatitude: -25.4954899
+    latitude: -26.9377146
+    longitude: -54.4342138
 - name: Formosa
   names:
-  - Formosa
+    - Formosa
   code: P
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -58.247944
-    minlatitude: -26.22028
-    maxlongitude: -58.141994
+    minlongitude: -58.24794379999999
+    minlatitude: -26.2202789
+    maxlongitude: -58.1419959
     maxlatitude: -26.124033
-    latitude: -26.185202
-    longitude: -58.17537
+    latitude: -26.185201
+    longitude: -58.1753697
+- name: Neuquén
+  names:
+    - Neuquén
+  code: Q
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -68.1929919
+    minlatitude: -38.986537
+    maxlongitude: -68.0147382
+    maxlatitude: -38.893459
+    latitude: -38.9524444
+    longitude: -68.0641389
+- name: Río Negro
+  names:
+    - Río Negro
+  code: R
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.902908
+    minlatitude: -42.0024984
+    maxlongitude: -62.79108240000001
+    maxlatitude: -37.5729141
+    latitude: -40.7344343
+    longitude: -66.6176455
+- name: Santa Fe
+  names:
+    - Santa Fe
+  code: S
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -60.73878
+    minlatitude: -31.6730042
+    maxlongitude: -60.66380530000001
+    maxlatitude: -31.5685461
+    latitude: -31.6323891
+    longitude: -60.6994591
+- name: Tucumán
+  names:
+    - Tucumán
+  code: T
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -65.3363281
+    minlatitude: -26.8935681
+    maxlongitude: -65.16676939999999
+    maxlatitude: -26.7636021
+    latitude: -26.8082848
+    longitude: -65.2175903
+- name: Chubut
+  names:
+    - Chubut
+  code: U
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.1973387
+    minlatitude: -46.0022302
+    maxlongitude: -58.0880073
+    maxlatitude: -32.9517763
+    latitude: -43.6846192
+    longitude: -69.2745537
 - name: Tierra del Fuego
   names:
-  - Tierra del Fuego
+    - Tierra del Fuego
   code: V
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -68.61186
-    minlatitude: -55.05719
-    maxlongitude: -64.11058
-    maxlatitude: -52.658768
-    latitude: -54.308353
-    longitude: -67.745155
+    minlongitude: -68.611864
+    minlatitude: -55.05719070000001
+    maxlongitude: -64.11057989999999
+    maxlatitude: -52.658766
+    latitude: -54.3083548
+    longitude: -67.7451565
+- name: Corrientes
+  names:
+    - Corrientes
+  code: W
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.8572739
+    minlatitude: -27.5327967
+    maxlongitude: -58.74749370000001
+    maxlatitude: -27.4386008
+    latitude: -27.4712257
+    longitude: -58.83958440000001
 - name: Córdoba
   names:
-  - Córdoba
+    - Córdoba
   code: X
   countryalpha2: AR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -64.311584
-    minlatitude: -31.491217
-    maxlongitude: -64.06213
-    maxlatitude: -31.306293
-    latitude: -31.39893
-    longitude: -64.18213
+    minlongitude: -64.31158649999999
+    minlatitude: -31.4912166
+    maxlongitude: -64.0621309
+    maxlatitude: -31.3062938
+    latitude: -31.3989296
+    longitude: -64.1821289
+- name: Jujuy
+  names:
+    - Jujuy
+  code: "Y"
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -65.37630039999999
+    minlatitude: -24.2557641
+    maxlongitude: -65.2336132
+    maxlatitude: -24.1502348
+    latitude: -24.1857864
+    longitude: -65.2994767
+- name: Santa Cruz
+  names:
+    - Santa Cruz
+  code: Z
+  countryalpha2: AR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.5948315
+    minlatitude: -52.3975018
+    maxlongitude: -65.7171603
+    maxlatitude: -45.9915403
+    latitude: -48.7736825
+    longitude: -69.1917167

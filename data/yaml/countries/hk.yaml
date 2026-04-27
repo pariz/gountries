@@ -1,65 +1,118 @@
 name:
-  common: Hong Kong
-  official: Hong Kong Special Administrative Region of the People's Republic of China
-  native:
-    eng:
-      common: Hong Kong
-      official: Hong Kong Special Administrative Region of the People's Republic of
-        China
-    zho:
-      common: 香港
-      official: 香港中国特别行政区的人民共和国
+    common: Hong Kong
+    official: The Hong Kong Special Administrative Region of China
+    native:
+        eng:
+            common: Hong Kong
+            official: Hong Kong Special Administrative Region of the People's Republic of China
+        zho:
+            common: 香港
+            official: 中华人民共和国香港特别行政区
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Hong Kongese
 tlds:
-- .hk
-- .香港
+    - .hk
+    - .香港
 languages:
-  eng: English
-  zho: Chinese
+    en: ""
+    eng: English
+    zh: ""
+    zho: Chinese
 translations:
-  DEU:
-    common: Hongkong
-    official: Sonderverwaltungszone der Volksrepublik China
-  FIN:
-    common: Hongkong
-    official: Hong Kongin erityishallintoalue
-  FRA:
-    common: Hong Kong
-    official: Région administrative spéciale de Hong Kong de la République populaire
-      de Chine
-  ITA:
-    common: Hong Kong
-    official: Hong Kong Regione amministrativa speciale della Repubblica Popolare
-      Cinese
-  POR:
-    common: Hong Kong
-    official: Hong Kong Região Administrativa Especial da República Popular da China
+    ARA:
+        common: هونغ كونغ
+        official: منطقة هونغ كونغ الادارية التابعة لجمهورية الصين الشعبية
+    CES:
+        common: Hongkong
+        official: Zvláštní administrativní oblast Čínské lidové republiky Hongkong
+    DEU:
+        common: Hongkong
+        official: Sonderverwaltungszone Hongkong der Volksrepublik China
+    EST:
+        common: Hongkong
+        official: Hongkongi erihalduspiirkond
+    FIN:
+        common: Hongkong
+        official: Hong Kongin erityishallintoalue
+    FRA:
+        common: Hong Kong
+        official: Région administrative spéciale de Hong Kong de la République populaire de Chine
+    HRV:
+        common: Hong Kong
+        official: Hong Kong Posebnog upravnog područjaNarodne Republike Kine
+    HUN:
+        common: Hongkong
+        official: Hongkong
+    ITA:
+        common: Hong Kong
+        official: Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese
+    JPN:
+        common: 香港
+        official: 香港特別行政区
+    KOR:
+        common: 홍콩
+        official: 중화인민공화국 홍콩 특별행정구
+    NLD:
+        common: Hongkong
+        official: Hong Kong Speciale Administratieve Regio van de Volksrepubliek China
+    PER:
+        common: هُنگ کُنگ
+        official: هُنگ کُنگ
+    POL:
+        common: Hongkong
+        official: Specjalny Region Administracyjny Chińskiej Republiki Ludowej Hongkong
+    POR:
+        common: Hong Kong
+        official: Hong Kong Região Administrativa Especial da República Popular da China
+    RUS:
+        common: Гонконг
+        official: Hong Kong Специальный административный район Китайской Народной Республики Китая
+    SLK:
+        common: Hongkong
+        official: Špeciálna administratívna oblasťČínskej ľudovej republiky Hongkong
+    SPA:
+        common: Hong Kong
+        official: Hong Kong Región Administrativa Especial de la República Popular China
+    SRP:
+        common: Hongkong
+        official: Hongkong specijalna administrativna oblast Narodne Republike Kine
+    SWE:
+        common: Hongkong
+        official: Hongkong
+    TUR:
+        common: Hong Kong
+        official: çin Halk Cumhuriyeti Hong Kong özel İdari Bölgesi
+    URD:
+        common: ہانگ کانگ
+        official: ہانگ کانگ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ
+    ZHO:
+        common: 香港
+        official: 中华人民共和国香港特别行政区
 currencies:
-- HKD
+    - HKD
 borders:
-- CHN
+    - CHN
 codes:
-  alpha2: HK
-  alpha3: HKG
-  cioc: HKG
-  ccn3: "344"
-  callingcodes:
-  - "852"
-  internationalprefix: "001"
+    alpha2: HK
+    alpha3: HKG
+    cioc: HKG
+    ccn3: "344"
+    callingcodes:
+        - "852"
+    internationalprefix: "001"
 geo:
-  region: Asia
-  subregion: Eastern Asia
-  continent: Asia
-  capital: City of Victoria
-  area: 1104
+    region: Asia
+    subregion: Eastern Asia
+    continent: Asia
+    capital: City of Victoria
+    area: 1104
 coordinates:
-  longitudestring: 114 10 E
-  latitudestring: 22 15 N
-  minlongitude: 113.833336
-  minlatitude: 22.15
-  maxlongitude: 114.433334
-  maxlatitude: 22.566668
-  latitude: 22.336157
-  longitude: 114.186966
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 113.8259001
+    minlatitude: 22.1435
+    maxlongitude: 114.4294999
+    maxlatitude: 22.5619469
+    latitude: 22.3193039
+    longitude: 114.1693611

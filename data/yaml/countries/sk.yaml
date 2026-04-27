@@ -1,73 +1,116 @@
 name:
-  common: Slovakia
-  official: Slovak Republic
-  native:
-    slk:
-      common: Slovensko
-      official: Slovenská republika
+    common: Slovakia
+    official: The Slovak Republic
+    native:
+        slk:
+            common: Slovensko
+            official: Slovenská republika
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Slovak
 tlds:
-- .sk
+    - .sk
 languages:
-  slk: Slovak
+    sk: ""
+    slk: Slovak
 translations:
-  DEU:
-    common: Slowakei
-    official: Slowakische Republik
-  FRA:
-    common: Slovaquie
-    official: République slovaque
-  HRV:
-    common: Slovačka
-    official: slovačka
-  ITA:
-    common: Slovacchia
-    official: Repubblica slovacca
-  JPN:
-    common: スロバキア
-    official: スロバキア共和国
-  NLD:
-    common: Slowakije
-    official: Slowaakse Republiek
-  POR:
-    common: Eslováquia
-    official: República Eslovaca
-  RUS:
-    common: Словакия
-    official: Словацкая Республика
-  SPA:
-    common: República Eslovaca
-    official: República Eslovaca
+    ARA:
+        common: سلوفاكيا
+        official: جمهورية سلوفاكيا
+    CES:
+        common: Slovensko
+        official: Slovenská republika
+    DEU:
+        common: Slowakei
+        official: Slowakische Republik
+    EST:
+        common: Slovakkia
+        official: Slovaki Vabariik
+    FIN:
+        common: Slovakia
+        official: Slovakian tasavalta
+    FRA:
+        common: Slovaquie
+        official: République slovaque
+    HRV:
+        common: Slovačka
+        official: slovačka
+    HUN:
+        common: Szlovákia
+        official: Szlovák Köztársaság
+    ITA:
+        common: Slovacchia
+        official: Repubblica slovacca
+    JPN:
+        common: スロバキア
+        official: スロバキア共和国
+    KOR:
+        common: 슬로바키아
+        official: 슬로바키아 공화국
+    NLD:
+        common: Slowakije
+        official: Slowaakse Republiek
+    PER:
+        common: اِسلُواکی
+        official: جمهوری اسلواکی
+    POL:
+        common: Słowacja
+        official: Republika Słowacka
+    POR:
+        common: Eslováquia
+        official: República Eslovaca
+    RUS:
+        common: Словакия
+        official: Словацкая Республика
+    SLK:
+        common: Slovensko
+        official: Slovenská republika
+    SPA:
+        common: Eslovaquia
+        official: República Eslovaca
+    SRP:
+        common: Slovačka
+        official: Slovačka republika
+    SWE:
+        common: Slovakien
+        official: Republiken Slovakien
+    TUR:
+        common: Slovakya
+        official: Slovak Cumhuriyeti
+    URD:
+        common: سلوواکیہ
+        official: جمہوریہ سلوواکیہ
+    ZHO:
+        common: 斯洛伐克
+        official: 斯洛伐克共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- AUT
-- CZE
-- HUN
-- POL
-- UKR
+    - AUT
+    - CZE
+    - HUN
+    - POL
+    - UKR
 codes:
-  alpha2: SK
-  alpha3: SVK
-  cioc: SVK
-  ccn3: "703"
-  callingcodes:
-  - "421"
-  internationalprefix: "00"
+    alpha2: SK
+    alpha3: SVK
+    cioc: SVK
+    ccn3: "703"
+    callingcodes:
+        - "421"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Bratislava
-  area: 49037
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Bratislava
+    area: 49037
 coordinates:
-  longitudestring: 19 30 E
-  latitudestring: 48 40 N
-  minlongitude: 17
-  minlatitude: 45.5
-  maxlongitude: 26.5
-  maxlatitude: 49.6
-  latitude: 48.707485
-  longitude: 19.48489
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.8331821
+    minlatitude: 47.731159
+    maxlongitude: 22.5658602
+    maxlatitude: 49.613805
+    latitude: 48.669026
+    longitude: 19.699024

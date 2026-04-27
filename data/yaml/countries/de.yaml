@@ -1,74 +1,120 @@
 name:
-  common: Germany
-  official: Federal Republic of Germany
-  native:
-    deu:
-      common: Deutschland
-      official: Bundesrepublik Deutschland
+    common: Germany
+    official: The Federal Republic of Germany
+    native:
+        deu:
+            common: Deutschland
+            official: Bundesrepublik Deutschland
 eumember: true
 landlocked: false
-nationality: ""
+nationality: German
 tlds:
-- .de
+    - .de
 languages:
-  deu: German
+    de: ""
+    deu: German
 translations:
-  DEU:
-    common: Deutschland
-    official: Bundesrepublik Deutschland
-  FIN:
-    common: Saksa
-    official: Saksan liittotasavalta
-  FRA:
-    common: Allemagne
-    official: République fédérale d'Allemagne
-  HRV:
-    common: Njemačka
-    official: Njemačka Federativna Republika
-  ITA:
-    common: Germania
-    official: Repubblica federale di Germania
-  JPN:
-    common: ドイツ
-    official: ドイツ連邦共和国
-  NLD:
-    common: Duitsland
-    official: Bondsrepubliek Duitsland
-  POR:
-    common: Alemanha
-    official: República Federal da Alemanha
+    ARA:
+        common: ألمانيا
+        official: جمهورية ألمانيا الاتحادية
+    CES:
+        common: Německo
+        official: Spolková republika Německo
+    DEU:
+        common: Deutschland
+        official: Bundesrepublik Deutschland
+    EST:
+        common: Saksamaa
+        official: Saksamaa Liitvabariik
+    FIN:
+        common: Saksa
+        official: Saksan liittotasavalta
+    FRA:
+        common: Allemagne
+        official: République fédérale d'Allemagne
+    HRV:
+        common: Njemačka
+        official: Njemačka Federativna Republika
+    HUN:
+        common: Németország
+        official: Német Szövetségi Köztársaság
+    ITA:
+        common: Germania
+        official: Repubblica federale di Germania
+    JPN:
+        common: ドイツ
+        official: ドイツ連邦共和国
+    KOR:
+        common: 독일
+        official: 독일 연방 공화국
+    NLD:
+        common: Duitsland
+        official: Bondsrepubliek Duitsland
+    PER:
+        common: آلمان
+        official: جمهوری فدرال آلمان
+    POL:
+        common: Niemcy
+        official: Republika Federalna Niemiec
+    POR:
+        common: Alemanha
+        official: República Federal da Alemanha
+    RUS:
+        common: Германия
+        official: Федеративная Республика Германия
+    SLK:
+        common: Nemecko
+        official: Nemecká spolková republika
+    SPA:
+        common: Alemania
+        official: República Federal de Alemania
+    SRP:
+        common: Nemačka
+        official: Savezna Republika Nemačka
+    SWE:
+        common: Tyskland
+        official: Förbundsrepubliken Tyskland
+    TUR:
+        common: Almanya
+        official: Almanya Federal Cumhuriyeti
+    URD:
+        common: جرمنی
+        official: وفاقی جمہوریہ جرمنی
+    ZHO:
+        common: 德国
+        official: 德意志联邦共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- AUT
-- BEL
-- CZE
-- DNK
-- FRA
-- LUX
-- NLD
-- POL
-- CHE
+    - AUT
+    - BEL
+    - CZE
+    - DNK
+    - FRA
+    - LUX
+    - NLD
+    - POL
+    - CHE
 codes:
-  alpha2: DE
-  alpha3: DEU
-  cioc: GER
-  ccn3: "276"
-  callingcodes:
-  - "49"
-  internationalprefix: "00"
+    alpha2: DE
+    alpha3: DEU
+    cioc: GER
+    ccn3: "276"
+    callingcodes:
+        - "49"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Berlin
-  area: 357114
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Berlin
+    area: 357114
 coordinates:
-  longitudestring: 9 00 E
-  latitudestring: 51 00 N
-  minlongitude: 5.9
-  minlatitude: 47.266666
-  maxlongitude: 15.033333
-  maxlatitude: 55.05
-  latitude: 51.202465
-  longitude: 10.382203
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.8663425
+    minlatitude: 47.2701115
+    maxlongitude: 15.0418962
+    maxlatitude: 55.0815
+    latitude: 51.165691
+    longitude: 10.451526

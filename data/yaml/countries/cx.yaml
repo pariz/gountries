@@ -1,53 +1,111 @@
 name:
-  common: Christmas Island
-  official: Territory of Christmas Island
-  native:
-    eng:
-      common: Christmas Island
-      official: Territory of Christmas Island
+    common: Christmas Island
+    official: The Territory of Christmas Island
+    native:
+        eng:
+            common: Christmas Island
+            official: Territory of Christmas Island
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Christmas Island
 tlds:
-- .cx
+    - .cx
 languages:
-  eng: English
+    en: ""
+    eng: English
+    ms: ""
+    zh: ""
 translations:
-  JPN:
-    common: クリスマス島
-    official: クリスマス島の領土
-  POR:
-    common: Ilha do Natal
-    official: Território da Ilha Christmas
-  RUS:
-    common: Остров Рождества
-    official: Территория острова Рождества
-  SPA:
-    common: Isla de Navidad
-    official: Territorio de la Isla de Navidad
+    ARA:
+        common: جزيرة كريسماس
+        official: جزيرة كريسماس
+    CES:
+        common: Vánoční ostrov
+        official: Teritorium Vánočního ostrova
+    DEU:
+        common: Weihnachtsinsel
+        official: Gebiet der Weihnachtsinsel
+    EST:
+        common: Jõulusaar
+        official: Jõulusaare ala
+    FIN:
+        common: Joulusaari
+        official: Joulusaaren alue
+    FRA:
+        common: Île Christmas
+        official: Territoire de l'île Christmas
+    HRV:
+        common: Božićni otok
+        official: Teritorij Božićni otok
+    HUN:
+        common: Karácsony-sziget
+        official: Karácsony-sziget
+    ITA:
+        common: Isola di Natale
+        official: Territorio di Christmas Island
+    JPN:
+        common: クリスマス島
+        official: クリスマス島
+    KOR:
+        common: 크리스마스 섬
+        official: 크리스마스 섬
+    NLD:
+        common: Christmaseiland
+        official: Grondgebied van Christmas Island
+    PER:
+        common: جزیرهٔ کریسمس
+        official: جزیرهٔ کریسمس
+    POL:
+        common: Wyspa Bożego Narodzenia
+        official: Wyspa Bożego Narodzenia
+    POR:
+        common: Ilha do Natal
+        official: Território da Ilha Christmas
+    RUS:
+        common: Остров Рождества
+        official: Территория острова Рождества
+    SLK:
+        common: Vianočnú ostrov
+        official: Teritórium Vianočného ostrova
+    SPA:
+        common: Isla de Navidad
+        official: Territorio de la Isla de Navidad
+    SRP:
+        common: Božićno Ostrvo
+        official: Teritorija Božićno ostrvo
+    SWE:
+        common: Julön
+        official: Julön
+    TUR:
+        common: Christmas Adası
+        official: Christmas Adası
+    URD:
+        common: جزیرہ کرسمس
+        official: ریاستِ جزیرہ کرسمس
+    ZHO:
+        common: 圣诞岛
+        official: 圣诞岛
 currencies:
-- AUD
-borders: []
+    - AUD
 codes:
-  alpha2: CX
-  alpha3: CXR
-  cioc: ""
-  ccn3: "162"
-  callingcodes:
-  - "61"
-  internationalprefix: "0011"
+    alpha2: CX
+    alpha3: CXR
+    ccn3: "162"
+    callingcodes:
+        - "61"
+    internationalprefix: "0011"
 geo:
-  region: Oceania
-  subregion: Australia and New Zealand
-  continent: Asia
-  capital: Flying Fish Cove
-  area: 135
+    region: Oceania
+    subregion: Australia and New Zealand
+    continent: Asia
+    capital: Flying Fish Cove
+    area: 135
 coordinates:
-  longitudestring: 105 40 E
-  latitudestring: 10 30 S
-  minlongitude: 105.566666
-  minlatitude: -10.566667
-  maxlongitude: 105.75
-  maxlatitude: -10.4
-  latitude: -10.490291
-  longitude: 105.63275
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 105.5333161
+    minlatitude: -10.5703619
+    maxlongitude: 105.7129382
+    maxlatitude: -10.412352
+    latitude: -10.447525
+    longitude: 105.690449

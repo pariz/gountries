@@ -1,73 +1,119 @@
 name:
-  common: Algeria
-  official: People's Democratic Republic of Algeria
-  native:
-    ara:
-      common: الجزائر
-      official: الجمهورية الديمقراطية الشعبية الجزائرية
+    common: Algeria
+    official: The People's Democratic Republic of Algeria
+    native:
+        ara:
+            common: الجزائر
+            official: الجمهورية الديمقراطية الشعبية الجزائرية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Algerian
 tlds:
-- .dz
-- الجزائر.
+    - .dz
+    - الجزائر.
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  CYM:
-    common: Algeria
-    official: People's Democratic Republic of Algeria
-  DEU:
-    common: Algerien
-    official: Demokratische Volksrepublik Algerien
-  FIN:
-    common: Algeria
-    official: Algerian demokraattinen kansantasavalta
-  HRV:
-    common: Alžir
-    official: Narodna Demokratska Republika Alžir
-  ITA:
-    common: Algeria
-    official: Repubblica popolare democratica di Algeria
-  NLD:
-    common: Algerije
-    official: Democratische Volksrepubliek Algerije
-  POR:
-    common: Argélia
-    official: República Argelina Democrática e Popular
-  SPA:
-    common: Argelia
-    official: República Argelina Democrática y Popular
+    ARA:
+        common: الجزائر
+        official: الجمهورية الديمقراطية الشعبية الجزائرية
+    CES:
+        common: Alžírsko
+        official: Alžírská demokratická a lidová republika
+    DEU:
+        common: Algerien
+        official: Demokratische Volksrepublik Algerien
+    EST:
+        common: Alžeeria
+        official: Alžeeria Demokraatlik Rahvavabariik
+    FIN:
+        common: Algeria
+        official: Algerian demokraattinen kansantasavalta
+    FRA:
+        common: Algérie
+        official: République démocratique et populaire d'Algérie
+    HRV:
+        common: Alžir
+        official: Narodna Demokratska Republika Alžir
+    HUN:
+        common: Algéria
+        official: Algériai Népi Demokratikus Köztársaság
+    ITA:
+        common: Algeria
+        official: Repubblica popolare democratica di Algeria
+    JPN:
+        common: アルジェリア
+        official: アルジェリア人民民主共和国
+    KOR:
+        common: 알제리
+        official: 알제리 인민 민주 공화국
+    NLD:
+        common: Algerije
+        official: Democratische Volksrepubliek Algerije
+    PER:
+        common: الجزایر
+        official: جمهوری دموکراتیک خلق الجزایر
+    POL:
+        common: Algieria
+        official: Algierska Republika Ludowo-Demokratyczna
+    POR:
+        common: Argélia
+        official: República Argelina Democrática e Popular
+    RUS:
+        common: Алжир
+        official: Народно-Демократическая Республика Алжир
+    SLK:
+        common: Alžírsko
+        official: Alžírska demokratická ľudová republika
+    SPA:
+        common: Argelia
+        official: República Argelina Democrática y Popular
+    SRP:
+        common: Alžir
+        official: Narodna Demokratska Republika Alžir
+    SWE:
+        common: Algeriet
+        official: Demokratiska folkrepubliken Algeriet
+    TUR:
+        common: Cezayir
+        official: Cezayir Demokratik Halk Cumhuriyeti
+    URD:
+        common: الجزائر
+        official: عوامی جمہوری جمہوریہ الجزائر
+    ZHO:
+        common: 阿尔及利亚
+        official: 阿尔及利亚人民民主共和国
 currencies:
-- DZD
+    - DZD
 borders:
-- TUN
-- LBY
-- NER
-- ESH
-- MRT
-- MLI
-- MAR
+    - TUN
+    - LBY
+    - NER
+    - ESH
+    - MRT
+    - MLI
+    - MAR
 codes:
-  alpha2: DZ
-  alpha3: DZA
-  cioc: ALG
-  ccn3: "012"
-  callingcodes:
-  - "213"
-  internationalprefix: "00"
+    alpha2: DZ
+    alpha3: DZA
+    cioc: ALG
+    ccn3: "012"
+    callingcodes:
+        - "213"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Northern Africa
-  continent: Africa
-  capital: Algiers
-  area: 2.381741e+06
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: Algiers
+    area: 2.381741e+06
 coordinates:
-  longitudestring: 3 00 E
-  latitudestring: 28 00 N
-  minlongitude: -8.666667
-  minlatitude: 19
-  maxlongitude: 13
-  maxlatitude: 37.11667
-  latitude: 28.213646
-  longitude: 2.6547282
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -8.6676111
+    minlatitude: 18.9681469
+    maxlongitude: 11.9999992
+    maxlatitude: 37.2216
+    latitude: 28.033886
+    longitude: 1.659626

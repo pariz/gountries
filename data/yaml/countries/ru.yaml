@@ -1,75 +1,127 @@
 name:
-  common: Russia
-  official: Russian Federation
-  native:
-    rus:
-      common: Россия
-      official: Русская Федерация
+    common: Russian Federation
+    official: The Russian Federation
+    native:
+        rus:
+            common: Россия
+            official: Российская Федерация
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Russian
 tlds:
-- .ru
-- .su
-- .рф
+    - .ru
+    - .su
+    - .рф
 languages:
-  rus: Russian
+    ru: ""
+    rus: Russian
 translations:
-  DEU:
-    common: Russland
-    official: Russische Föderation
-  FIN:
-    common: Venäjä
-    official: Venäjän federaatio
-  FRA:
-    common: Russie
-    official: Fédération de Russie
-  HRV:
-    common: Rusija
-    official: Ruska Federacija
-  POR:
-    common: Rússia
-    official: Federação Russa
-  RUS:
-    common: Россия
-    official: Россия Федерация
+    ARA:
+        common: روسيا
+        official: روسيا الاتحادية
+    CES:
+        common: Rusko
+        official: Ruská federace
+    DEU:
+        common: Russland
+        official: Russische Föderation
+    EST:
+        common: Venemaa
+        official: Venemaa Föderatsioon
+    FIN:
+        common: Venäjä
+        official: Venäjän federaatio
+    FRA:
+        common: Russie
+        official: Fédération de Russie
+    HRV:
+        common: Rusija
+        official: Ruska Federacija
+    HUN:
+        common: Oroszország
+        official: Oroszországi Föderáció
+    ITA:
+        common: Russia
+        official: Federazione russa
+    JPN:
+        common: ロシア
+        official: ロシア連邦
+    KOR:
+        common: 러시아
+        official: 러시아 연방
+    NLD:
+        common: Rusland
+        official: Russische Federatie
+    PER:
+        common: روسیه
+        official: فدراسیون روسیه
+    POL:
+        common: Rosja
+        official: Federacja Rosyjska
+    POR:
+        common: Rússia
+        official: Federação Russa
+    RUS:
+        common: Россия
+        official: Российская Федерация
+    SLK:
+        common: Rusko
+        official: Ruská federácia
+    SPA:
+        common: Rusia
+        official: Federación de Rusia
+    SRP:
+        common: Rusija
+        official: Ruska Federacija
+    SWE:
+        common: Ryssland
+        official: Ryska federationen
+    TUR:
+        common: Rusya
+        official: Rusya Federasyonu
+    URD:
+        common: روس
+        official: روسی وفاق
+    ZHO:
+        common: 俄罗斯
+        official: 俄罗斯联邦
 currencies:
-- RUB
+    - RUB
 borders:
-- AZE
-- BLR
-- CHN
-- EST
-- FIN
-- GEO
-- KAZ
-- PRK
-- LVA
-- LTU
-- MNG
-- NOR
-- POL
-- UKR
+    - AZE
+    - BLR
+    - CHN
+    - EST
+    - FIN
+    - GEO
+    - KAZ
+    - PRK
+    - LVA
+    - LTU
+    - MNG
+    - NOR
+    - POL
+    - UKR
 codes:
-  alpha2: RU
-  alpha3: RUS
-  cioc: RUS
-  ccn3: "643"
-  callingcodes:
-  - "7"
-  internationalprefix: "810"
+    alpha2: RU
+    alpha3: RUS
+    cioc: RUS
+    ccn3: "643"
+    callingcodes:
+        - "7"
+    internationalprefix: "810"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Moscow
-  area: 1.7098242e+07
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Moscow
+    area: 1.7098242e+07
 coordinates:
-  longitudestring: 100 00 E
-  latitudestring: 60 00 N
-  minlongitude: 19.655556
-  minlatitude: 38.7
-  maxlongitude: 147.17223
-  maxlatitude: 86.21667
-  latitude: 63.125187
-  longitude: 103.75398
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 19.6160999
+    minlatitude: 41.185353
+    maxlongitude: -168.97788
+    maxlatitude: 82.1673907
+    latitude: 61.52401
+    longitude: 105.318756

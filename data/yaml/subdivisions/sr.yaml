@@ -1,34 +1,34 @@
 - name: Brokopondo
   names:
-  - Brokopondo
+    - Brokopondo
   code: BR
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.521053
-    minlatitude: 4.016883
-    maxlongitude: -54.726257
-    maxlatitude: 5.364842
+    minlongitude: -55.5210531
+    minlatitude: 4.016883000000001
+    maxlongitude: -54.7262569
+    maxlatitude: 5.364841999999999
     latitude: 4.7710247
-    longitude: -55.04934
+    longitude: -55.0493375
 - name: Commewijne
   names:
-  - Commewijne
+    - Commewijne
   code: CM
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.160072
+    minlongitude: -55.1600742
     minlatitude: 5.4846897
-    maxlongitude: -54.620186
-    maxlatitude: 5.9952574
+    maxlongitude: -54.6201869
+    maxlatitude: 5.9952576
     latitude: 5.740211
-    longitude: -54.873123
+    longitude: -54.8731219
 - name: Coronie
   names:
-  - Coronie
+    - Coronie
   code: CR
   countryalpha2: SR
   coordinates:
@@ -36,105 +36,105 @@
     latitudestring: ""
     minlongitude: -56.604008
     minlatitude: 5.331499
-    maxlongitude: -55.888096
+    maxlongitude: -55.8880948
     maxlatitude: 5.942436
-    latitude: 5.694327
-    longitude: -56.29294
-- name: Nickerie
-  names:
-  - Nickerie
-  code: NI
-  countryalpha2: SR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -57.34863
-    minlatitude: 5.208519
-    maxlongitude: -56.452526
-    maxlatitude: 6.00015
-    latitude: 5.585547
-    longitude: -56.831112
-- name: Saramacca
-  names:
-  - Saramacca
-  code: SA
-  countryalpha2: SR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -55.971146
-    minlatitude: 5.4037232
-    maxlongitude: -55.30576
-    maxlatitude: 5.981152
-    latitude: 5.7240815
-    longitude: -55.668964
-- name: Sipaliwini
-  names:
-  - Sipaliwini
-  code: SI
-  countryalpha2: SR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.140736
-    minlatitude: 2.0274127
-    maxlongitude: -56.12477
-    maxlatitude: 2.0413084
-    latitude: 2.0331028
-    longitude: -56.133755
-- name: Wanica
-  names:
-  - Wanica
-  code: WA
-  countryalpha2: SR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -55.356987
-    minlatitude: 5.658413
-    maxlongitude: -55.079983
-    maxlatitude: 5.938986
-    latitude: 5.732376
-    longitude: -55.270123
+    latitude: 5.6943271
+    longitude: -56.2929381
 - name: Marowijne
   names:
-  - Marowijne
+    - Marowijne
   code: MA
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -54.737736
+    minlongitude: -54.737735
     minlatitude: 5.234248
-    maxlongitude: -53.98701
+    maxlongitude: -53.987011
     maxlatitude: 5.971927
-    latitude: 5.626813
-    longitude: -54.25931
+    latitude: 5.6268128
+    longitude: -54.25931180000001
+- name: Nickerie
+  names:
+    - Nickerie
+  code: NI
+  countryalpha2: SR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -57.34862889999999
+    minlatitude: 5.208519
+    maxlongitude: -56.45252499999999
+    maxlatitude: 6.00015
+    latitude: 5.5855469
+    longitude: -56.83111169999999
 - name: Paramaribo
   names:
-  - Paramaribo
+    - Paramaribo
   code: PM
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.258114
-    minlatitude: 5.778771
-    maxlongitude: -55.09829
-    maxlatitude: 5.9178786
+    minlongitude: -55.25811539999999
+    minlatitude: 5.7787709
+    maxlongitude: -55.0982876
+    maxlatitude: 5.9178787
     latitude: 5.8520355
-    longitude: -55.203827
+    longitude: -55.2038278
 - name: Para
   names:
-  - Para
+    - Para
   code: PR
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -56.04479
+    minlongitude: -56.04478899999999
     minlatitude: 4.990305
-    maxlongitude: -54.624836
+    maxlongitude: -54.6248351
     maxlatitude: 5.700753
-    latitude: 5.481732
-    longitude: -55.22592
+    latitude: 5.481731799999999
+    longitude: -55.2259207
+- name: Saramacca
+  names:
+    - Saramacca
+  code: SA
+  countryalpha2: SR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -55.971144
+    minlatitude: 5.4037231
+    maxlongitude: -55.30576
+    maxlatitude: 5.981152
+    latitude: 5.7240813
+    longitude: -55.6689636
+- name: Sipaliwini
+  names:
+    - Sipaliwini
+  code: SI
+  countryalpha2: SR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -56.1407374
+    minlatitude: 2.0274126
+    maxlongitude: -56.124773
+    maxlatitude: 2.0413084
+    latitude: 2.0331027
+    longitude: -56.1337552
+- name: Wanica
+  names:
+    - Wanica
+  code: WA
+  countryalpha2: SR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -55.35698799999999
+    minlatitude: 5.6584129
+    maxlongitude: -55.0799841
+    maxlatitude: 5.938986
+    latitude: 5.7323762
+    longitude: -55.2701235

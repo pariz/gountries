@@ -1,57 +1,116 @@
 name:
-  common: Mauritania
-  official: Islamic Republic of Mauritania
-  native:
-    ara:
-      common: موريتانيا
-      official: الجمهورية الإسلامية الموريتانية
+    common: Mauritania
+    official: The Islamic Republic of Mauritania
+    native:
+        ara:
+            common: موريتانيا
+            official: الجمهورية الإسلامية الموريتانية
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Mauritanian
 tlds:
-- .mr
+    - .mr
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
+    fr: ""
 translations:
-  FIN:
-    common: Mauritania
-    official: Mauritanian islamilainen tasavalta
-  FRA:
-    common: Mauritanie
-    official: République islamique de Mauritanie
-  ITA:
-    common: Mauritania
-    official: Repubblica islamica di Mauritania
-  RUS:
-    common: Мавритания
-    official: Исламская Республика Мавритания
+    ARA:
+        common: موريتانيا
+        official: الجمهورية الإسلامية الموريتانية
+    CES:
+        common: Mauritánie
+        official: Mauritánská islámská republika
+    DEU:
+        common: Mauretanien
+        official: Islamische Republik Mauretanien
+    EST:
+        common: Mauritaania
+        official: Mauritaania Islamivabariik
+    FIN:
+        common: Mauritania
+        official: Mauritanian islamilainen tasavalta
+    FRA:
+        common: Mauritanie
+        official: République islamique de Mauritanie
+    HRV:
+        common: Mauritanija
+        official: Islamska Republika Mauritanija
+    HUN:
+        common: Mauritánia
+        official: Mauritániai Iszlám Köztársaság
+    ITA:
+        common: Mauritania
+        official: Repubblica islamica di Mauritania
+    JPN:
+        common: モーリタニア
+        official: モーリタニア・イスラム共和国
+    KOR:
+        common: 모리타니
+        official: 모리타니 이슬람 공화국
+    NLD:
+        common: Mauritanië
+        official: Islamitische Republiek Mauritanië
+    PER:
+        common: موریتانی
+        official: جمهوری اسلامی موریتانی
+    POL:
+        common: Mauretania
+        official: Islamska Republika Mauretańska
+    POR:
+        common: Mauritânia
+        official: República Islâmica da Mauritânia
+    RUS:
+        common: Мавритания
+        official: Исламская Республика Мавритания
+    SLK:
+        common: Mauritánia
+        official: Mauritánska islamská republika
+    SPA:
+        common: Mauritania
+        official: República Islámica de Mauritania
+    SRP:
+        common: Mauritanija
+        official: Islamska Republika Mauritanija
+    SWE:
+        common: Mauretanien
+        official: Islamiska republiken Mauretanien
+    TUR:
+        common: Moritanya
+        official: Moritanya İslam Cumhuriyeti
+    URD:
+        common: موریتانیہ
+        official: اسلامی جمہوریہ موریتانیہ
+    ZHO:
+        common: 毛里塔尼亚
+        official: 毛里塔尼亚伊斯兰共和国
 currencies:
-- MRO
+    - MRU
 borders:
-- DZA
-- MLI
-- SEN
-- ESH
+    - DZA
+    - MLI
+    - SEN
+    - ESH
 codes:
-  alpha2: MR
-  alpha3: MRT
-  cioc: MTN
-  ccn3: "478"
-  callingcodes:
-  - "222"
-  internationalprefix: "00"
+    alpha2: MR
+    alpha3: MRT
+    cioc: MTN
+    ccn3: "478"
+    callingcodes:
+        - "222"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Western Africa
-  continent: Africa
-  capital: Nouakchott
-  area: 1.0307e+06
+    region: Africa
+    subregion: Western Africa
+    continent: Africa
+    capital: Nouakchott
+    area: 1.0307e+06
 coordinates:
-  longitudestring: 12 00 W
-  latitudestring: 20 00 N
-  minlongitude: -17.079445
-  minlatitude: 14.738274
-  maxlongitude: 13
-  maxlatitude: 26.9
-  latitude: 20.258995
-  longitude: -10.364437
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -17.0687276
+    minlatitude: 14.721273
+    maxlongitude: -4.833334799999999
+    maxlatitude: 27.3158916
+    latitude: 21.00789
+    longitude: -10.940835

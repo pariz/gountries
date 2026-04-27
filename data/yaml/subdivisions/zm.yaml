@@ -1,62 +1,76 @@
-- name: Lusaka
+- name: Western
   names:
-  - Lusaka
-  code: "09"
+    - Western
+  code: "01"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.198755
-    minlatitude: -15.534407
-    maxlongitude: 28.48875
-    maxlatitude: -15.299253
-    latitude: -15.416667
-    longitude: 28.283333
+    minlongitude: 21.999371
+    minlatitude: -17.6392799
+    maxlongitude: 25.52071
+    maxlatitude: -13.709041
+    latitude: -15.9454906
+    longitude: 23.3823545
+- name: Central
+  names:
+    - Central
+  code: "02"
+  countryalpha2: ZM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 25.350383
+    minlatitude: -15.7121141
+    maxlongitude: 31.4494591
+    maxlatitude: -12.0036589
+    latitude: -14.3112263
+    longitude: 28.299435
 - name: Eastern
   names:
-  - Eastern
+    - Eastern
   code: "03"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 29.98653
+    minlongitude: 29.98652989999999
     minlatitude: -14.997233
-    maxlongitude: 33.689503
-    maxlatitude: -10.32513
-    latitude: -13.805618
-    longitude: 31.992807
+    maxlongitude: 33.6895011
+    maxlatitude: -10.3251301
+    latitude: -13.8056187
+    longitude: 31.99280779999999
+- name: Luapula
+  names:
+    - Luapula
+  code: "04"
+  countryalpha2: ZM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.3809699
+    minlatitude: -12.471966
+    maxlongitude: 30.46612799999999
+    maxlatitude: -8.375692899999999
+    latitude: -11.564831
+    longitude: 29.0459927
 - name: Northern
   names:
-  - Northern
+    - Northern
   code: "05"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 29.10338
-    minlatitude: -13.427572
+    minlatitude: -13.4275721
     maxlongitude: 33.705704
     maxlatitude: -8.251887
-    latitude: -9.767017
-    longitude: 30.895824
-- name: Copperbelt
-  names:
-  - Copperbelt
-  code: "08"
-  countryalpha2: ZM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 26.801155
-    minlatitude: -13.924553
-    maxlongitude: 29.020134
-    maxlatitude: -12.218456
-    latitude: -13.057007
-    longitude: 27.549585
+    latitude: -9.7670177
+    longitude: 30.8958242
 - name: North-Western
   names:
-  - North-Western
+    - North-Western
   code: "06"
   countryalpha2: ZM
   coordinates:
@@ -64,63 +78,61 @@
     latitudestring: ""
     minlongitude: 21.999899
     minlatitude: -14.72759
-    maxlongitude: 27.601658
+    maxlongitude: 27.6016581
     maxlatitude: -10.885152
-    latitude: -13.005026
-    longitude: 24.90422
+    latitude: -13.0050258
+    longitude: 24.9042208
 - name: Southern
   names:
-  - Southern
+    - Southern
   code: "07"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 24.97155
+    minlongitude: 24.9715499
     minlatitude: -18.079473
     maxlongitude: 28.912453
     maxlatitude: -15.293982
-    latitude: -16.962063
-    longitude: 26.41939
-- name: Western
+    latitude: -16.9620634
+    longitude: 26.419389
+- name: Copperbelt
   names:
-  - Western
-  code: "01"
+    - Copperbelt
+  code: "08"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 21.99937
-    minlatitude: -17.63928
-    maxlongitude: 25.52071
-    maxlatitude: -13.709041
-    latitude: -15.945491
-    longitude: 23.382355
-- name: Central
+    minlongitude: 26.801156
+    minlatitude: -13.9245529
+    maxlongitude: 29.0201341
+    maxlatitude: -12.218456
+    latitude: -13.0570073
+    longitude: 27.5495846
+- name: Lusaka
   names:
-  - Central
-  code: "02"
+    - Lusaka
+  code: "09"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.350384
-    minlatitude: -15.712114
-    maxlongitude: 31.44946
-    maxlatitude: -12.003659
-    latitude: -14.311226
-    longitude: 28.299435
-- name: Luapula
-  names:
-  - Luapula
-  code: "04"
+    minlongitude: 28.1987555
+    minlatitude: -15.5344065
+    maxlongitude: 28.4887506
+    maxlatitude: -15.2992532
+    latitude: -15.416667
+    longitude: 28.283333
+- name: Muchinga
+  code: "10"
   countryalpha2: ZM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 28.38097
-    minlatitude: -12.471966
-    maxlongitude: 30.466127
-    maxlatitude: -8.375693
-    latitude: -11.564831
-    longitude: 29.045992
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0

@@ -1,68 +1,114 @@
 name:
-  common: Indonesia
-  official: Republic of Indonesia
-  native:
-    ind:
-      common: Indonesia
-      official: Republik Indonesia
+    common: Indonesia
+    official: The Republic of Indonesia
+    native:
+        ind:
+            common: Indonesia
+            official: Republik Indonesia
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Indonesian
 tlds:
-- .id
+    - .id
 languages:
-  ind: Indonesian
+    id: ""
+    ind: Indonesian
 translations:
-  DEU:
-    common: Indonesien
-    official: Republik Indonesien
-  FIN:
-    common: Indonesia
-    official: Indonesian tasavalta
-  FRA:
-    common: Indonésie
-    official: République d'Indonésie
-  ITA:
-    common: Indonesia
-    official: Repubblica di Indonesia
-  JPN:
-    common: インドネシア
-    official: インドネシア共和国
-  NLD:
-    common: Indonesië
-    official: Republiek Indonesië
-  POR:
-    common: Indonésia
-    official: República da Indonésia
-  RUS:
-    common: Индонезия
-    official: Республика Индонезия
+    ARA:
+        common: إندونيسيا
+        official: جمهورية إندونيسيا
+    CES:
+        common: Indonésie
+        official: Indonéská republika
+    DEU:
+        common: Indonesien
+        official: Republik Indonesien
+    EST:
+        common: Indoneesia
+        official: Indoneesia Vabariik
+    FIN:
+        common: Indonesia
+        official: Indonesian tasavalta
+    FRA:
+        common: Indonésie
+        official: République d'Indonésie
+    HRV:
+        common: Indonezija
+        official: Republika Indonezija
+    HUN:
+        common: Indonézia
+        official: Indonéz Köztársaság
+    ITA:
+        common: Indonesia
+        official: Repubblica di Indonesia
+    JPN:
+        common: インドネシア
+        official: インドネシア共和国
+    KOR:
+        common: 인도네시아
+        official: 인도네시아 공화국
+    NLD:
+        common: Indonesië
+        official: Republiek Indonesië
+    PER:
+        common: اندونزی
+        official: جمهوری اندونزی
+    POL:
+        common: Indonezja
+        official: Republika Indonezji
+    POR:
+        common: Indonésia
+        official: República da Indonésia
+    RUS:
+        common: Индонезия
+        official: Республика Индонезия
+    SLK:
+        common: Indonézia
+        official: Indonézska republika
+    SPA:
+        common: Indonesia
+        official: República de Indonesia
+    SRP:
+        common: Indonezija
+        official: Republika Indonezija
+    SWE:
+        common: Indonesien
+        official: Republiken Indonesien
+    TUR:
+        common: Endonezya
+        official: Endonezya Cumhuriyeti
+    URD:
+        common: انڈونیشیا
+        official: جمہوریہ انڈونیشیا
+    ZHO:
+        common: 印度尼西亚
+        official: 印度尼西亚共和国
 currencies:
-- IDR
+    - IDR
 borders:
-- TLS
-- MYS
-- PNG
+    - TLS
+    - MYS
+    - PNG
 codes:
-  alpha2: ID
-  alpha3: IDN
-  cioc: INA
-  ccn3: "360"
-  callingcodes:
-  - "62"
-  internationalprefix: "001"
+    alpha2: ID
+    alpha3: IDN
+    cioc: INA
+    ccn3: "360"
+    callingcodes:
+        - "62"
+    internationalprefix: "001"
 geo:
-  region: Asia
-  subregion: South-Eastern Asia
-  continent: Asia
-  capital: Jakarta
-  area: 1.904569e+06
+    region: Asia
+    subregion: South-Eastern Asia
+    continent: Asia
+    capital: Jakarta
+    area: 1.904569e+06
 coordinates:
-  longitudestring: 120 00 E
-  latitudestring: 5 00 S
-  minlongitude: 94.970276
-  minlatitude: -11
-  maxlongitude: 141.01666
-  maxlatitude: 10.616667
-  latitude: -1.2480891
-  longitude: 115.419
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 94.7351
+    minlatitude: -11.1082999
+    maxlongitude: 141.0425
+    maxlatitude: 6.216999899999999
+    latitude: -0.789275
+    longitude: 113.921327

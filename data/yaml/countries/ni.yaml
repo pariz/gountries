@@ -1,55 +1,113 @@
 name:
-  common: Nicaragua
-  official: Republic of Nicaragua
-  native:
-    spa:
-      common: Nicaragua
-      official: República de Nicaragua
+    common: Nicaragua
+    official: The Republic of Nicaragua
+    native:
+        spa:
+            common: Nicaragua
+            official: República de Nicaragua
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Nicaraguan
 tlds:
-- .ni
+    - .ni
 languages:
-  spa: Spanish
+    es: ""
+    spa: Spanish
 translations:
-  FIN:
-    common: Nicaragua
-    official: Nicaraguan tasavalta
-  ITA:
-    common: Nicaragua
-    official: Repubblica del Nicaragua
-  JPN:
-    common: ニカラグア
-    official: ニカラグア共和国
-  POR:
-    common: Nicarágua
-    official: República da Nicarágua
+    ARA:
+        common: نيكاراغوا
+        official: جمهورية نيكاراغوا
+    CES:
+        common: Nikaragua
+        official: Republika Nikaragua
+    DEU:
+        common: Nicaragua
+        official: Republik Nicaragua
+    EST:
+        common: Nicaragua
+        official: Nicaragua Vabariik
+    FIN:
+        common: Nicaragua
+        official: Nicaraguan tasavalta
+    FRA:
+        common: Nicaragua
+        official: République du Nicaragua
+    HRV:
+        common: Nikaragva
+        official: Republika Nikaragva
+    HUN:
+        common: Nicaragua
+        official: Nicaraguai Köztársaság
+    ITA:
+        common: Nicaragua
+        official: Repubblica del Nicaragua
+    JPN:
+        common: ニカラグア
+        official: ニカラグア共和国
+    KOR:
+        common: 니카라과
+        official: 니카라과 공화국
+    NLD:
+        common: Nicaragua
+        official: Republiek Nicaragua
+    PER:
+        common: نیکاراگوئه
+        official: جمهوری نیکاراگوئه
+    POL:
+        common: Nikaragua
+        official: Republika Nikaragui
+    POR:
+        common: Nicarágua
+        official: República da Nicarágua
+    RUS:
+        common: Никарагуа
+        official: Республика Никарагуа
+    SLK:
+        common: Nikaragua
+        official: Nikaragujská republika
+    SPA:
+        common: Nicaragua
+        official: República de Nicaragua
+    SRP:
+        common: Nikaragva
+        official: Republika Nikaragva
+    SWE:
+        common: Nicaragua
+        official: Republiken Nicaragua
+    TUR:
+        common: Nikaragua
+        official: Nikaragua Cumhuriyeti
+    URD:
+        common: نکاراگوا
+        official: جمہوریہ نکاراگوا
+    ZHO:
+        common: 尼加拉瓜
+        official: 尼加拉瓜共和国
 currencies:
-- NIO
+    - NIO
 borders:
-- CRI
-- HND
+    - CRI
+    - HND
 codes:
-  alpha2: NI
-  alpha3: NIC
-  cioc: NCA
-  ccn3: "558"
-  callingcodes:
-  - "505"
-  internationalprefix: "00"
+    alpha2: NI
+    alpha3: NIC
+    cioc: NCA
+    ccn3: "558"
+    callingcodes:
+        - "505"
+    internationalprefix: "00"
 geo:
-  region: Americas
-  subregion: Central America
-  continent: North America
-  capital: Managua
-  area: 130373
+    region: Americas
+    subregion: Central America
+    continent: North America
+    capital: Managua
+    area: 130373
 coordinates:
-  longitudestring: 85 00 W
-  latitudestring: 13 00 N
-  minlongitude: -87.684166
-  minlatitude: 10.716667
-  maxlongitude: -82.566666
-  maxlatitude: 15
-  latitude: 12.903773
-  longitude: -84.92182
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.7588
+    minlatitude: 10.7080549
+    maxlongitude: -82.2766
+    maxlatitude: 15.0297369
+    latitude: 12.865416
+    longitude: -85.207229

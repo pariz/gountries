@@ -1,64 +1,123 @@
 name:
-  common: Sudan
-  official: Republic of the Sudan
-  native:
-    ara:
-      common: السودان
-      official: جمهورية السودان
-    eng:
-      common: Sudan
-      official: Republic of the Sudan
+    common: Sudan
+    official: The Republic of the Sudan
+    native:
+        ara:
+            common: السودان
+            official: جمهورية السودان
+        eng:
+            common: Sudan
+            official: Republic of the Sudan
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Sudanese
 tlds:
-- .sd
+    - .sd
 languages:
-  ara: Arabic
-  eng: English
+    ar: ""
+    ara: Arabic
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Sudan
-    official: Sudanin tasavalta
-  FRA:
-    common: Soudan
-    official: République du Soudan
-  HRV:
-    common: Sudan
-    official: Republika Sudan
-  JPN:
-    common: スーダン
-    official: スーダン共和国
+    ARA:
+        common: السودان
+        official: جمهورية السودان
+    CES:
+        common: Súdán
+        official: Súdánská republika
+    DEU:
+        common: Sudan
+        official: Republik Sudan
+    EST:
+        common: Sudaan
+        official: Sudaani Vabariik
+    FIN:
+        common: Sudan
+        official: Sudanin tasavalta
+    FRA:
+        common: Soudan
+        official: République du Soudan
+    HRV:
+        common: Sudan
+        official: Republika Sudan
+    HUN:
+        common: Szudán
+        official: Szudáni Köztársaság
+    ITA:
+        common: Sudan
+        official: Repubblica del Sudan
+    JPN:
+        common: スーダン
+        official: スーダン共和国
+    KOR:
+        common: 수단
+        official: 수단 공화국
+    NLD:
+        common: Soedan
+        official: Republiek Soedan
+    PER:
+        common: سودان
+        official: جمهوری سودان
+    POL:
+        common: Sudan
+        official: Republika Sudanu
+    POR:
+        common: Sudão
+        official: República do Sudão
+    RUS:
+        common: Судан
+        official: Республика Судан
+    SLK:
+        common: Sudán
+        official: Sudánska republika
+    SPA:
+        common: Sudán
+        official: República de Sudán
+    SRP:
+        common: Sudan
+        official: Republika Sudan
+    SWE:
+        common: Sudan
+        official: Republiken Sudan
+    TUR:
+        common: Sudan
+        official: Sudan Cumhuriyeti
+    URD:
+        common: سودان
+        official: جمہوریہ سودان
+    ZHO:
+        common: 苏丹
+        official: 苏丹共和国
 currencies:
-- SDG
+    - SDG
 borders:
-- CAF
-- TCD
-- EGY
-- ERI
-- ETH
-- LBY
-- SSD
+    - CAF
+    - TCD
+    - EGY
+    - ERI
+    - ETH
+    - LBY
+    - SSD
 codes:
-  alpha2: SD
-  alpha3: SDN
-  cioc: SUD
-  ccn3: "729"
-  callingcodes:
-  - "249"
-  internationalprefix: "00"
+    alpha2: SD
+    alpha3: SDN
+    cioc: SUD
+    ccn3: "729"
+    callingcodes:
+        - "249"
+    internationalprefix: "00"
 geo:
-  region: Africa
-  subregion: Northern Africa
-  continent: Africa
-  capital: Khartoum
-  area: 1.886068e+06
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: Khartoum
+    area: 1.886068e+06
 coordinates:
-  longitudestring: 30 00 E
-  latitudestring: 15 00 N
-  minlongitude: 21.883333
-  minlatitude: 3.516667
-  maxlongitude: 38.833332
-  maxlatitude: 27.166668
-  latitude: 16.085785
-  longitude: 30.08739
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 21.8146345
+    minlatitude: 9.3472209
+    maxlongitude: 38.69379989999999
+    maxlatitude: 22.224918
+    latitude: 12.862807
+    longitude: 30.217636

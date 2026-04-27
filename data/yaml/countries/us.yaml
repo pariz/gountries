@@ -1,66 +1,113 @@
 name:
-  common: United States
-  official: United States of America
-  native:
-    eng:
-      common: United States
-      official: United States of America
+    common: United States of America
+    official: The United States of America
+    native:
+        eng:
+            common: United States
+            official: United States of America
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American
 tlds:
-- .us
+    - .us
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  FRA:
-    common: États-Unis
-    official: Les états-unis d'Amérique
-  HRV:
-    common: Sjedinjene Američke Države
-    official: Sjedinjene Države Amerike
-  ITA:
-    common: Stati Uniti d'America
-    official: Stati Uniti d'America
-  JPN:
-    common: アメリカ合衆国
-    official: アメリカ合衆国
-  NLD:
-    common: Verenigde Staten
-    official: Verenigde Staten van Amerika
-  RUS:
-    common: Соединённые Штаты Америки
-    official: Соединенные Штаты Америки
-  SPA:
-    common: Estados Unidos
-    official: Estados Unidos de América
+    ARA:
+        common: الولايات المتحدة
+        official: الولايات المتحدة الامريكية
+    CES:
+        common: Spojené státy
+        official: Spojené státy americké
+    DEU:
+        common: Vereinigte Staaten
+        official: Vereinigte Staaten von Amerika
+    EST:
+        common: Ameerika Ühendriigid
+        official: Ameerika Ühendriigid
+    FIN:
+        common: Yhdysvallat
+        official: Amerikan yhdysvallat
+    FRA:
+        common: États-Unis
+        official: Les états-unis d'Amérique
+    HRV:
+        common: Sjedinjene Američke Države
+        official: Sjedinjene Države Amerike
+    HUN:
+        common: Amerikai Egyesült Államok
+        official: Amerikai Egyesült Államok
+    ITA:
+        common: Stati Uniti d'America
+        official: Stati Uniti d'America
+    JPN:
+        common: アメリカ
+        official: アメリカ合衆国
+    KOR:
+        common: 미국
+        official: 아메리카 합중국
+    NLD:
+        common: Verenigde Staten
+        official: Verenigde Staten van Amerika
+    PER:
+        common: ایالات متحده آمریکا
+        official: ایالات متحده آمریکا
+    POL:
+        common: Stany Zjednoczone
+        official: Stany Zjednoczone Ameryki
+    POR:
+        common: Estados Unidos
+        official: Estados Unidos da América
+    RUS:
+        common: Соединённые Штаты Америки
+        official: Соединенные Штаты Америки
+    SLK:
+        common: Spojené štáty americké
+        official: Spojené štáty Americké
+    SPA:
+        common: Estados Unidos
+        official: Estados Unidos de América
+    SRP:
+        common: SAD
+        official: Sjedinjene Američke Države
+    SWE:
+        common: USA
+        official: Amerikas förenta stater
+    TUR:
+        common: Amerika Birleşik Devletleri
+        official: Amerika Birleşik Devletleri
+    URD:
+        common: ریاستہائے متحدہ
+        official: ریاستہائے متحدہ امریکا
+    ZHO:
+        common: 美国
+        official: 美利坚合众国
 currencies:
-- USD
-- USN
-- USS
+    - USD
 borders:
-- CAN
-- MEX
+    - CAN
+    - MEX
 codes:
-  alpha2: US
-  alpha3: USA
-  cioc: USA
-  ccn3: "840"
-  callingcodes:
-  - "1"
-  internationalprefix: "011"
+    alpha2: US
+    alpha3: USA
+    cioc: USA
+    ccn3: "840"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Northern America
-  continent: North America
-  capital: Washington D.C.
-  area: 9.37261e+06
+    region: Americas
+    subregion: Northern America
+    continent: North America
+    capital: Washington D.C.
+    area: 9.37261e+06
 coordinates:
-  longitudestring: 97 00 W
-  latitudestring: 38 00 N
-  minlongitude: -179.23108
-  minlatitude: 17.831509
-  maxlongitude: -66.885414
-  maxlatitude: 71.441055
-  latitude: 39.443256
-  longitude: -98.95734
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -171.791110603
+    minlatitude: 18.91619
+    maxlongitude: -66.96466
+    maxlatitude: 71.3577635769
+    latitude: 37.09024
+    longitude: -95.712891

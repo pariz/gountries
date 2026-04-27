@@ -1,65 +1,110 @@
 name:
-  common: Trinidad and Tobago
-  official: Republic of Trinidad and Tobago
-  native:
-    eng:
-      common: Trinidad and Tobago
-      official: Republic of Trinidad and Tobago
+    common: Trinidad and Tobago
+    official: The Republic of Trinidad and Tobago
+    native:
+        eng:
+            common: Trinidad and Tobago
+            official: Republic of Trinidad and Tobago
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Trinidadian
 tlds:
-- .tt
+    - .tt
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Trinidad und Tobago
-    official: Republik Trinidad und Tobago
-  FIN:
-    common: Trinidad ja Tobago
-    official: Trinidadin ja Tobagon tasavalta
-  FRA:
-    common: Trinité-et-Tobago
-    official: République de Trinité-et-Tobago
-  ITA:
-    common: Trinidad e Tobago
-    official: Repubblica di Trinidad e Tobago
-  JPN:
-    common: トリニダード・トバゴ
-    official: トリニダード·トバゴ共和国
-  NLD:
-    common: Trinidad en Tobago
-    official: Republiek Trinidad en Tobago
-  RUS:
-    common: Тринидад и Тобаго
-    official: Республика Тринидад и Тобаго
-  SPA:
-    common: Trinidad y Tobago
-    official: República de Trinidad y Tobago
+    ARA:
+        common: ترينيداد وتوباغو
+        official: جمهورية ترينيداد وتوباغو
+    CES:
+        common: Trinidad a Tobago
+        official: Republika Trinidad a Tobago
+    DEU:
+        common: Trinidad und Tobago
+        official: Republik Trinidad und Tobago
+    EST:
+        common: Trinidad ja Tobago
+        official: Trinidadi ja Tobago Vabariik
+    FIN:
+        common: Trinidad ja Tobago
+        official: Trinidadin ja Tobagon tasavalta
+    FRA:
+        common: Trinité-et-Tobago
+        official: République de Trinité-et-Tobago
+    HRV:
+        common: Trinidad i Tobago
+        official: Republika Trinidad i Tobago
+    HUN:
+        common: Trinidad és Tobago
+        official: Trinidad és Tobago Köztársaság
+    ITA:
+        common: Trinidad e Tobago
+        official: Repubblica di Trinidad e Tobago
+    JPN:
+        common: トリニダード・トバゴ
+        official: トリニダード・トバゴ共和国
+    KOR:
+        common: 트리니다드 토바고
+        official: 트리니다드 토바고 공화국
+    NLD:
+        common: Trinidad en Tobago
+        official: Republiek Trinidad en Tobago
+    PER:
+        common: ترینیداد و توباگو
+        official: جمهوری ترینیداد و توباگو
+    POL:
+        common: Trynidad i Tobago
+        official: Trynidad i Tobago
+    POR:
+        common: Trinidade e Tobago
+        official: República de Trinidad e Tobago
+    RUS:
+        common: Тринидад и Тобаго
+        official: Республика Тринидад и Тобаго
+    SLK:
+        common: Trinidad a Tobago
+        official: Republika Trinidad a Tobaga
+    SPA:
+        common: Trinidad y Tobago
+        official: República de Trinidad y Tobago
+    SRP:
+        common: Trinidad i Tobago
+        official: Republika Trinidad i Tobago
+    SWE:
+        common: Trinidad och Tobago
+        official: Republiken Trinidad och Tobago
+    TUR:
+        common: Trinidad ve Tobago
+        official: Trinidad ve Tobago Cumhuriyeti
+    URD:
+        common: ٹرینیڈاڈ و ٹوباگو
+        official: جمہوریہ ٹرینیڈاڈ و ٹوباگو
+    ZHO:
+        common: 特立尼达和多巴哥
+        official: 特立尼达和多巴哥共和国
 currencies:
-- TTD
-borders: []
+    - TTD
 codes:
-  alpha2: TT
-  alpha3: TTO
-  cioc: TTO
-  ccn3: "780"
-  callingcodes:
-  - "1868"
-  internationalprefix: "011"
+    alpha2: TT
+    alpha3: TTO
+    cioc: TRI
+    ccn3: "780"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Port of Spain
-  area: 5130
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Port of Spain
+    area: 5130
 coordinates:
-  longitudestring: 61 00 W
-  latitudestring: 11 00 N
-  minlongitude: -74
-  minlatitude: 10.033333
-  maxlongitude: -60.5
-  maxlatitude: 20
-  latitude: 10.68574
-  longitude: -61.164062
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -61.9725001
+    minlatitude: 9.9930001
+    maxlongitude: -60.45089989999999
+    maxlatitude: 11.4004
+    latitude: 10.691803
+    longitude: -61.222503

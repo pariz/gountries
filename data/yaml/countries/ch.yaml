@@ -1,81 +1,131 @@
 name:
-  common: Switzerland
-  official: Swiss Confederation
-  native:
-    fra:
-      common: Suisse
-      official: Confédération suisse
-    gsw:
-      common: Schweiz
-      official: Schweizerische Eidgenossenschaft
-    ita:
-      common: Svizzera
-      official: Confederazione Svizzera
-    roh:
-      common: Svizra
-      official: Confederaziun svizra
+    common: Switzerland
+    official: The Swiss Confederation
+    native:
+        fra:
+            common: Suisse
+            official: Confédération suisse
+        gsw:
+            common: Schweiz
+            official: Schweizerische Eidgenossenschaft
+        ita:
+            common: Svizzera
+            official: Confederazione Svizzera
+        roh:
+            common: Svizra
+            official: Confederaziun svizra
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Swiss
 tlds:
-- .ch
+    - .ch
 languages:
-  fra: French
-  gsw: Swiss German
-  ita: Italian
-  roh: Romansh
+    de: ""
+    fr: ""
+    fra: French
+    gsw: Swiss German
+    it: ""
+    ita: Italian
+    rm: ""
+    roh: Romansh
 translations:
-  FRA:
-    common: Suisse
-    official: Confédération suisse
-  ITA:
-    common: Svizzera
-    official: Confederazione svizzera
-  JPN:
-    common: スイス
-    official: スイス連邦
-  NLD:
-    common: Zwitserland
-    official: Zwitserse Confederatie
-  POR:
-    common: Suíça
-    official: Confederação Suíça
-  RUS:
-    common: Швейцария
-    official: Швейцарская Конфедерация
-  SPA:
-    common: Suiza
-    official: Confederación Suiza
+    ARA:
+        common: سويسرا
+        official: الاتحاد السويسري
+    CES:
+        common: Švýcarsko
+        official: Švýcarská konfederace
+    DEU:
+        common: Schweiz
+        official: Schweizerische Eidgenossenschaft
+    EST:
+        common: Šveits
+        official: Šveitsi Konföderatsioon
+    FIN:
+        common: Sveitsi
+        official: Sveitsin valaliitto
+    FRA:
+        common: Suisse
+        official: Confédération suisse
+    HRV:
+        common: Švicarska
+        official: švicarska Konfederacija
+    HUN:
+        common: Svájc
+        official: Svájc
+    ITA:
+        common: Svizzera
+        official: Confederazione svizzera
+    JPN:
+        common: スイス
+        official: スイス連邦
+    KOR:
+        common: 스위스
+        official: 스위스 연방
+    NLD:
+        common: Zwitserland
+        official: Zwitserse Confederatie
+    PER:
+        common: سوئیس
+        official: کنفدراسیون سوئیس
+    POL:
+        common: Szwajcaria
+        official: Konfederacja Szwajcarska
+    POR:
+        common: Suíça
+        official: Confederação Suíça
+    RUS:
+        common: Швейцария
+        official: Швейцарская Конфедерация
+    SLK:
+        common: Švajčiarsko
+        official: Švajčiarska konfederácia
+    SPA:
+        common: Suiza
+        official: Confederación Suiza
+    SRP:
+        common: Švajcarska
+        official: Švajcarska Konfederacija
+    SWE:
+        common: Schweiz
+        official: Schweiziska edsförbundet
+    TUR:
+        common: İsviçre
+        official: İsviçre Konfederasyonu
+    URD:
+        common: سویٹذرلینڈ
+        official: سوئیس  متحدہ
+    ZHO:
+        common: 瑞士
+        official: 瑞士联邦
 currencies:
-- CHE
-- CHF
-- CHW
+    - CHF
 borders:
-- AUT
-- FRA
-- ITA
-- LIE
-- DEU
+    - AUT
+    - FRA
+    - ITA
+    - LIE
+    - DEU
 codes:
-  alpha2: CH
-  alpha3: CHE
-  cioc: SUI
-  ccn3: "756"
-  callingcodes:
-  - "41"
-  internationalprefix: "00"
+    alpha2: CH
+    alpha3: CHE
+    cioc: SUI
+    ccn3: "756"
+    callingcodes:
+        - "41"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Bern
-  area: 41284
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Bern
+    area: 41284
 coordinates:
-  longitudestring: 8 00 E
-  latitudestring: 47 00 N
-  minlongitude: 6
-  minlatitude: 45.36667
-  maxlongitude: 10.5
-  maxlatitude: 47.8085
-  latitude: 46.8038
-  longitude: 8.222855
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 5.95608
+    minlatitude: 45.81792
+    maxlongitude: 10.4923401
+    maxlatitude: 47.8084546
+    latitude: 46.818188
+    longitude: 8.227511999999999

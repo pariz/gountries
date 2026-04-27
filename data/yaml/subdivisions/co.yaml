@@ -1,76 +1,6 @@
-- name: Cauca
-  names:
-  - Cauca
-  code: CAU
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.781685
-    minlatitude: 2.5690384
-    maxlongitude: -76.77186
-    maxlatitude: 2.575255
-    latitude: 2.5725522
-    longitude: -76.77837
-- name: Distrito Capital de Bogotá
-  names:
-  - Santafé de Bogotá Distrito Capital
-  code: DC
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.45177
-    minlatitude: 3.72977
-    maxlongitude: -73.99631
-    maxlatitude: 4.8371
-    latitude: 4.598056
-    longitude: -74.075836
-- name: Guaviare
-  names:
-  - Guaviare
-  code: GUV
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.2716
-    minlatitude: 1.051796
-    maxlongitude: -73.24516
-    maxlatitude: 1.0722202
-    latitude: 1.0619181
-    longitude: -73.2559
-- name: La Guajira
-  names:
-  - La Guajira
-  code: LAG
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.66419
-    minlatitude: 10.39699
-    maxlongitude: -71.113174
-    maxlatitude: 12.458462
-    latitude: 11.354774
-    longitude: -72.520485
-- name: Sucre
-  names:
-  - Sucre
-  code: SUC
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.89498
-    minlatitude: 8.56835
-    maxlongitude: -74.55743
-    maxlatitude: 9.04574
-    latitude: 8.81389
-    longitude: -74.7253
 - name: Amazonas
   names:
-  - Amazonas
+    - Amazonas
   code: AMA
   countryalpha2: CO
   coordinates:
@@ -81,10 +11,332 @@
     maxlongitude: -69.39555
     maxlatitude: 0.11057
     latitude: -1.4429123
-    longitude: -71.572395
+    longitude: -71.5723953
+- name: Antioquia
+  names:
+    - Antioquia
+  code: ANT
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.12709
+    minlatitude: 5.41826
+    maxlongitude: -73.88748
+    maxlatitude: 8.889778699999999
+    latitude: 7.1986064
+    longitude: -75.34121789999999
+- name: Arauca
+  names:
+    - Arauca
+  code: ARA
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.20248
+    minlatitude: 6.48352
+    maxlongitude: -69.76795
+    maxlatitude: 7.10438
+    latitude: 7.079371
+    longitude: -70.758377
+- name: Atlántico
+  names:
+    - Atlántico
+  code: ATL
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.26715
+    minlatitude: 10.2557104
+    maxlongitude: -74.71324
+    maxlatitude: 11.1067254
+    latitude: 10.6966159
+    longitude: -74.8741045
+- name: Bolívar
+  names:
+    - Bolívar
+  code: BOL
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.70403019999999
+    minlatitude: 6.99981
+    maxlongitude: -73.74835
+    maxlatitude: 10.8013601
+    latitude: 8.6704382
+    longitude: -74.0300122
+- name: Boyacá
+  names:
+    - Boyacá
+  code: BOY
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.43772
+    minlatitude: 5.40465
+    maxlongitude: -73.33131999999999
+    maxlatitude: 5.481
+    latitude: 5.45
+    longitude: -73.35
+- name: Caldas
+  names:
+    - Caldas
+  code: CAL
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -75.21738049999999
+    minlatitude: 5.4777194
+    maxlongitude: -75.2068233
+    maxlatitude: 5.4854088
+    latitude: 5.4815477
+    longitude: -75.21144079999999
+- name: Caquetá
+  names:
+    - Caquetá
+  code: CAQ
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.30578
+    minlatitude: -0.7065199999999999
+    maxlongitude: -71.32021999999999
+    maxlatitude: 2.9332
+    latitude: 0.869892
+    longitude: -73.8419063
+- name: Casanare
+  names:
+    - Casanare
+  code: CAS
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.07694
+    minlatitude: 4.286
+    maxlongitude: -69.8356
+    maxlatitude: 6.30716
+    latitude: 5.7589269
+    longitude: -71.5723953
+- name: Cauca
+  names:
+    - Cauca
+  code: CAU
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.78168769999999
+    minlatitude: 2.5690383
+    maxlongitude: -76.7718601
+    maxlatitude: 2.5752548
+    latitude: 2.5725523
+    longitude: -76.7783748
+- name: Cesar
+  names:
+    - Cesar
+  code: CES
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.13982
+    minlatitude: 7.676399999999999
+    maxlongitude: -72.88257
+    maxlatitude: 10.86722
+    latitude: 9.3372948
+    longitude: -73.65362089999999
+- name: Chocó
+  names:
+    - Chocó
+  code: CHO
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.88727999999999
+    minlatitude: 3.96467
+    maxlongitude: -76.0026
+    maxlatitude: 8.67598
+    latitude: 5.2528033
+    longitude: -76.8259652
+- name: Córdoba
+  names:
+    - Córdoba
+  code: COR
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.50993
+    minlatitude: 7.347090000000001
+    maxlongitude: -74.78514
+    maxlatitude: 9.447802399999999
+    latitude: 8.4029253
+    longitude: -75.89986739999999
+- name: Cundinamarca
+  names:
+    - Cundinamarca
+  code: CUN
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.89067
+    minlatitude: 3.7269
+    maxlongitude: -73.05084
+    maxlatitude: 5.8367
+    latitude: 5.026002999999999
+    longitude: -74.0300122
+- name: Distrito Capital de Bogotá
+  names:
+    - Santafé de Bogotá Distrito Capital
+  code: DC
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.45177
+    minlatitude: 3.72977
+    maxlongitude: -73.99631
+    maxlatitude: 4.8371
+    latitude: 4.598056000000001
+    longitude: -74.075833
+- name: Guainía
+  names:
+    - Guainía
+  code: GUA
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -70.9425
+    minlatitude: 1.16702
+    maxlongitude: -66.84722
+    maxlatitude: 4.04741
+    latitude: 2.585393
+    longitude: -68.52471489999999
+- name: Guaviare
+  names:
+    - Guaviare
+  code: GUV
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.27159879999999
+    minlatitude: 1.051796
+    maxlongitude: -73.24516299999999
+    maxlatitude: 1.0722202
+    latitude: 1.0619181
+    longitude: -73.2558952
+- name: Huila
+  names:
+    - Huila
+  code: HUI
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.62425
+    minlatitude: 1.55547
+    maxlongitude: -74.41284999999999
+    maxlatitude: 3.84485
+    latitude: 2.5359349
+    longitude: -75.52766989999999
+- name: La Guajira
+  names:
+    - La Guajira
+  code: LAG
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.66418999999999
+    minlatitude: 10.39699
+    maxlongitude: -71.1131716
+    maxlatitude: 12.4584622
+    latitude: 11.3547743
+    longitude: -72.5204827
+- name: Magdalena
+  names:
+    - Magdalena
+  code: MAG
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.94542299999999
+    minlatitude: 8.9183801
+    maxlongitude: -73.54199
+    maxlatitude: 11.3489296
+    latitude: 10.4113014
+    longitude: -74.4056612
+- name: Meta
+  names:
+    - Meta
+  code: MET
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.93392
+    minlatitude: 1.60126
+    maxlongitude: -71.0774
+    maxlatitude: 4.92514
+    latitude: 3.2719904
+    longitude: -73.087749
+- name: Nariño
+  names:
+    - Nariño
+  code: NAR
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.38336
+    minlatitude: 1.22328
+    maxlongitude: -77.30888999999999
+    maxlatitude: 1.35415
+    latitude: 1.289822
+    longitude: -77.35861190000001
+- name: Norte de Santander
+  names:
+    - Norte de Santander
+  code: NSA
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -73.63743
+    minlatitude: 6.87306
+    maxlongitude: -72.04813
+    maxlatitude: 9.29051
+    latitude: 7.9462831
+    longitude: -72.8988069
+- name: Putumayo
+  names:
+    - Putumayo
+  code: PUT
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -77.18681
+    minlatitude: -0.56002
+    maxlongitude: -73.84129999999999
+    maxlatitude: 1.46781
+    latitude: 0.4359506
+    longitude: -75.52766989999999
 - name: Quindío
   names:
-  - Quindío
+    - Quindío
   code: QUI
   countryalpha2: CO
   coordinates:
@@ -94,11 +346,39 @@
     minlatitude: 4.07391
     maxlongitude: -75.38454
     maxlatitude: 4.71822
-    latitude: 4.461019
-    longitude: -75.66736
+    latitude: 4.4610191
+    longitude: -75.667356
+- name: Risaralda
+  names:
+    - Risaralda
+  code: RIS
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -76.21154
+    minlatitude: 4.66464
+    maxlongitude: -75.37608999999999
+    maxlatitude: 5.568049999999999
+    latitude: 4.99243
+    longitude: -76.01866
+- name: Santander
+  names:
+    - Santander
+  code: SAN
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -74.52665999999999
+    minlatitude: 5.70671
+    maxlongitude: -72.4764
+    maxlatitude: 8.1410123
+    latitude: 6.6437076
+    longitude: -73.65362089999999
 - name: San Andrés, Providencia y Santa Catalina
   names:
-  - San Andrés, Providencia y Santa Catalina
+    - San Andrés, Providencia y Santa Catalina
   code: SAP
   countryalpha2: CO
   coordinates:
@@ -110,65 +390,23 @@
     maxlatitude: 0
     latitude: 13.35395
     longitude: -81.37127
-- name: Vichada
+- name: Sucre
   names:
-  - Vichada
-  code: VID
+    - Sucre
+  code: SUC
   countryalpha2: CO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -71.07766
-    minlatitude: 2.7371
-    maxlongitude: -67.40982
-    maxlatitude: 6.32433
-    latitude: 4.423445
-    longitude: -69.28775
-- name: Bolívar
-  names:
-  - Bolívar
-  code: BOL
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.70403
-    minlatitude: 6.99981
-    maxlongitude: -73.74835
-    maxlatitude: 10.80136
-    latitude: 8.670438
-    longitude: -74.030014
-- name: Caldas
-  names:
-  - Caldas
-  code: CAL
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.21738
-    minlatitude: 5.4777193
-    maxlongitude: -75.206825
-    maxlatitude: 5.485409
-    latitude: 5.481548
-    longitude: -75.21144
-- name: Nariño
-  names:
-  - Nariño
-  code: NAR
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.38336
-    minlatitude: 1.22328
-    maxlongitude: -77.30889
-    maxlatitude: 1.35415
-    latitude: 1.289822
-    longitude: -77.35861
+    minlongitude: -74.89497999999999
+    minlatitude: 8.568349999999999
+    maxlongitude: -74.55743
+    maxlatitude: 9.04574
+    latitude: 8.813889999999999
+    longitude: -74.72529999999999
 - name: Tolima
   names:
-  - Tolima
+    - Tolima
   code: TOL
   countryalpha2: CO
   coordinates:
@@ -177,278 +415,26 @@
     minlongitude: -76.10852
     minlatitude: 2.8705
     maxlongitude: -74.47525
-    maxlatitude: 5.31695
-    latitude: 4.092517
-    longitude: -75.15454
-- name: Arauca
-  names:
-  - Arauca
-  code: ARA
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -71.20248
-    minlatitude: 6.48352
-    maxlongitude: -69.76795
-    maxlatitude: 7.10438
-    latitude: 7.079371
-    longitude: -70.75838
-- name: Caquetá
-  names:
-  - Caquetá
-  code: CAQ
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.30578
-    minlatitude: -0.70652
-    maxlongitude: -71.32022
-    maxlatitude: 2.9332
-    latitude: 0.869892
-    longitude: -73.8419
-- name: Casanare
-  names:
-  - Casanare
-  code: CAS
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.07694
-    minlatitude: 4.286
-    maxlongitude: -69.8356
-    maxlatitude: 6.30716
-    latitude: 5.758927
-    longitude: -71.572395
-- name: Cundinamarca
-  names:
-  - Cundinamarca
-  code: CUN
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.89067
-    minlatitude: 3.7269
-    maxlongitude: -73.05084
-    maxlatitude: 5.8367
-    latitude: 5.026003
-    longitude: -74.030014
-- name: Meta
-  names:
-  - Meta
-  code: MET
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.93392
-    minlatitude: 1.60126
-    maxlongitude: -71.0774
-    maxlatitude: 4.92514
-    latitude: 3.2719903
-    longitude: -73.087746
-- name: Cesar
-  names:
-  - Cesar
-  code: CES
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.13982
-    minlatitude: 7.6764
-    maxlongitude: -72.88257
-    maxlatitude: 10.86722
-    latitude: 9.337295
-    longitude: -73.65362
-- name: Guainía
-  names:
-  - Guainía
-  code: GUA
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -70.9425
-    minlatitude: 1.16702
-    maxlongitude: -66.84722
-    maxlatitude: 4.04741
-    latitude: 2.585393
-    longitude: -68.52471
-- name: Antioquia
-  names:
-  - Antioquia
-  code: ANT
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.12709
-    minlatitude: 5.41826
-    maxlongitude: -73.88748
-    maxlatitude: 8.889779
-    latitude: 7.1986065
-    longitude: -75.34122
-- name: Putumayo
-  names:
-  - Putumayo
-  code: PUT
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.18681
-    minlatitude: -0.56002
-    maxlongitude: -73.8413
-    maxlatitude: 1.46781
-    latitude: 0.4359506
-    longitude: -75.52767
+    maxlatitude: 5.316949999999999
+    latitude: 4.092516799999999
+    longitude: -75.1545381
 - name: Valle del Cauca
   names:
-  - Valle del Cauca
+    - Valle del Cauca
   code: VAC
   countryalpha2: CO
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -77.544075
+    minlongitude: -77.5440788
     minlatitude: 3.09083
     maxlongitude: -75.70488
     maxlatitude: 5.03687
     latitude: 3.8008893
-    longitude: -76.64127
-- name: Chocó
-  names:
-  - Chocó
-  code: CHO
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -77.88728
-    minlatitude: 3.96467
-    maxlongitude: -76.0026
-    maxlatitude: 8.67598
-    latitude: 5.2528033
-    longitude: -76.825966
-- name: Magdalena
-  names:
-  - Magdalena
-  code: MAG
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.94542
-    minlatitude: 8.91838
-    maxlongitude: -73.54199
-    maxlatitude: 11.348929
-    latitude: 10.411302
-    longitude: -74.40566
-- name: Norte de Santander
-  names:
-  - Norte de Santander
-  code: NSA
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.63743
-    minlatitude: 6.87306
-    maxlongitude: -72.04813
-    maxlatitude: 9.29051
-    latitude: 7.946283
-    longitude: -72.8988
-- name: Santander
-  names:
-  - Santander
-  code: SAN
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -74.52666
-    minlatitude: 5.70671
-    maxlongitude: -72.4764
-    maxlatitude: 8.141012
-    latitude: 6.6437078
-    longitude: -73.65362
-- name: Atlántico
-  names:
-  - Atlántico
-  code: ATL
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -75.26715
-    minlatitude: 10.255711
-    maxlongitude: -74.71324
-    maxlatitude: 11.106726
-    latitude: 10.696616
-    longitude: -74.87411
-- name: Boyacá
-  names:
-  - Boyacá
-  code: BOY
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -73.43772
-    minlatitude: 5.40465
-    maxlongitude: -73.33132
-    maxlatitude: 5.481
-    latitude: 5.45
-    longitude: -73.35
-- name: Córdoba
-  names:
-  - Córdoba
-  code: COR
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.50993
-    minlatitude: 7.34709
-    maxlongitude: -74.78514
-    maxlatitude: 9.447803
-    latitude: 8.4029255
-    longitude: -75.899864
-- name: Huila
-  names:
-  - Huila
-  code: HUI
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.62425
-    minlatitude: 1.55547
-    maxlongitude: -74.41285
-    maxlatitude: 3.84485
-    latitude: 2.535935
-    longitude: -75.52767
-- name: Risaralda
-  names:
-  - Risaralda
-  code: RIS
-  countryalpha2: CO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -76.21154
-    minlatitude: 4.66464
-    maxlongitude: -75.37609
-    maxlatitude: 5.56805
-    latitude: 4.99243
-    longitude: -76.01866
+    longitude: -76.64127119999999
 - name: Vaupés
   names:
-  - Vaupés
+    - Vaupés
   code: VAU
   countryalpha2: CO
   coordinates:
@@ -459,4 +445,18 @@
     maxlongitude: -69.11563
     maxlatitude: 2.08011
     latitude: 0.8553561
-    longitude: -70.812
+    longitude: -70.81199529999999
+- name: Vichada
+  names:
+    - Vichada
+  code: VID
+  countryalpha2: CO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -71.07766
+    minlatitude: 2.7371
+    maxlongitude: -67.40982
+    maxlatitude: 6.32433
+    latitude: 4.4234452
+    longitude: -69.2877535

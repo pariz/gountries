@@ -1,68 +1,117 @@
 name:
-  common: South Sudan
-  official: Republic of South Sudan
-  native:
-    eng:
-      common: South Sudan
-      official: Republic of South Sudan
+    common: South Sudan
+    official: The Republic of South Sudan
+    native:
+        eng:
+            common: South Sudan
+            official: Republic of South Sudan
 eumember: false
 landlocked: true
-nationality: ""
+nationality: South Sudanese
 tlds:
-- .ss
+    - .ss
 languages:
-  eng: English
+    ar: ""
+    en: ""
+    eng: English
 translations:
-  FIN:
-    common: Etelä-Sudan
-    official: Etelä-Sudanin tasavalta
-  FRA:
-    common: Soudan du Sud
-    official: République du Soudan du Sud
-  HRV:
-    common: Južni Sudan
-    official: Republika Južni Sudan
-  ITA:
-    common: Sudan del sud
-    official: Repubblica del Sudan del Sud
-  POR:
-    common: Sudão do Sul
-    official: República do Sudão do Sul
-  RUS:
-    common: Южный Судан
-    official: Республика Южный Судан
-  SPA:
-    common: Sudán del Sur
-    official: República de Sudán del Sur
+    ARA:
+        common: جنوب السودان
+        official: جمهورية جنوب السودان
+    CES:
+        common: Jižní Súdán
+        official: Jihosúdánská republika
+    DEU:
+        common: Südsudan
+        official: Republik Südsudan
+    EST:
+        common: Lõuna-Sudaan
+        official: Lõuna-Sudaani Vabariik
+    FIN:
+        common: Etelä-Sudan
+        official: Etelä-Sudanin tasavalta
+    FRA:
+        common: Soudan du Sud
+        official: République du Soudan du Sud
+    HRV:
+        common: Južni Sudan
+        official: Republika Južni Sudan
+    HUN:
+        common: Dél-Szudán
+        official: Dél-szudáni Köztársaság
+    ITA:
+        common: Sudan del sud
+        official: Repubblica del Sudan del Sud
+    JPN:
+        common: 南スーダン
+        official: 南スーダン共和国
+    KOR:
+        common: 남수단
+        official: 남수단 공화국
+    NLD:
+        common: Zuid-Soedan
+        official: Republiek Zuid-Soedan
+    PER:
+        common: سودان جنوبی
+        official: جمهوری سودان جنوبی
+    POL:
+        common: Sudan
+        official: Republika Sudanu
+    POR:
+        common: Sudão do Sul
+        official: República do Sudão do Sul
+    RUS:
+        common: Южный Судан
+        official: Республика Южный Судан
+    SLK:
+        common: Južný Sudán
+        official: Juhosudánska republika
+    SPA:
+        common: Sudán del Sur
+        official: República de Sudán del Sur
+    SRP:
+        common: Južni Sudan
+        official: Republika Južni Sudan
+    SWE:
+        common: Sydsudan
+        official: Republiken Sydsudan
+    TUR:
+        common: Güney Sudan
+        official: Güney Sudan Cumhuriyeti
+    URD:
+        common: جنوبی سوڈان
+        official: جمہوریہ جنوبی سوڈان
+    ZHO:
+        common: 南苏丹
+        official: 南苏丹共和国
 currencies:
-- SSP
+    - SSP
 borders:
-- CAF
-- COD
-- ETH
-- KEN
-- SDN
-- UGA
+    - CAF
+    - COD
+    - ETH
+    - KEN
+    - SDN
+    - UGA
 codes:
-  alpha2: SS
-  alpha3: SSD
-  cioc: ""
-  ccn3: "728"
-  callingcodes:
-  - "211"
-  internationalprefix: "0"
+    alpha2: SS
+    alpha3: SSD
+    ccn3: "728"
+    callingcodes:
+        - "211"
+    internationalprefix: "0"
 geo:
-  region: Africa
-  subregion: Middle Africa
-  continent: Africa
-  capital: Juba
-  area: 619745
+    region: Africa
+    subregion: Northern Africa
+    continent: Africa
+    capital: Juba
+    area: 619745
 coordinates:
-  longitudestring: 30 00 E
-  latitudestring: 7 00 N
-  minlongitude: 23.44085
-  minlatitude: 3.48898
-  maxlongitude: 35.948997
-  maxlatitude: 12.236389
-  latitude: 7.3038583
-  longitude: 30.280752
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.4408491
+    minlatitude: 3.48898
+    maxlongitude: 35.9489971
+    maxlatitude: 12.236389
+    latitude: 6.876991899999999
+    longitude: 31.3069788

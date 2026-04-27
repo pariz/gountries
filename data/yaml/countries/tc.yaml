@@ -1,65 +1,109 @@
 name:
-  common: Turks and Caicos Islands
-  official: Turks and Caicos Islands
-  native:
-    eng:
-      common: Turks and Caicos Islands
-      official: Turks and Caicos Islands
+    common: Turks and Caicos Islands
+    official: The Turks and Caicos Islands
+    native:
+        eng:
+            common: Turks and Caicos Islands
+            official: Turks and Caicos Islands
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Turks and Caicos Islander
 tlds:
-- .tc
+    - .tc
 languages:
-  eng: English
+    en: ""
+    eng: English
 translations:
-  DEU:
-    common: Turks-und Caicosinseln
-    official: Turks und Caicos Inseln
-  FIN:
-    common: Turks-ja Caicossaaret
-    official: Turks-ja Caicossaaret
-  HRV:
-    common: Otoci Turks i Caicos
-    official: Otoci Turks i Caicos
-  JPN:
-    common: タークス・カイコス諸島
-    official: タークス·カイコス諸島
-  NLD:
-    common: Turks-en Caicoseilanden
-    official: Turks-en Caicoseilanden
-  POR:
-    common: Ilhas Turks e Caicos
-    official: Ilhas Turks e Caicos
-  RUS:
-    common: Теркс и Кайкос
-    official: Теркс и Кайкос острова
-  SPA:
-    common: Islas Turks y Caicos
-    official: Islas Turcas y Caicos
+    ARA:
+        common: جزر توركس وكايكوس
+        official: جزر توركس وكايكوس
+    CES:
+        common: Turks a Caicos
+        official: Turks a Caicos
+    DEU:
+        common: Turks-und Caicosinseln
+        official: Turks und Caicos Inseln
+    EST:
+        common: Turks ja Caicos
+        official: Turksi ja Caicose saared
+    FIN:
+        common: Turks-ja Caicossaaret
+        official: Turks-ja Caicossaaret
+    FRA:
+        common: Îles Turques-et-Caïques
+        official: Îles Turques et Caïques
+    HRV:
+        common: Otoci Turks i Caicos
+        official: Otoci Turks i Caicos
+    HUN:
+        common: Turks- és Caicos-szigetek
+        official: Turks- és Caicos-szigetek
+    ITA:
+        common: Isole Turks e Caicos
+        official: Turks e Caicos
+    JPN:
+        common: タークス・カイコス諸島
+        official: タークス・カイコス諸島
+    KOR:
+        common: 터크스 케이커스 제도
+        official: 터크스 케이커스 제도
+    NLD:
+        common: Turks-en Caicoseilanden
+        official: Turks-en Caicoseilanden
+    PER:
+        common: جزایر تورکس و کایکوس
+        official: جزایر تورکس و کایکوس
+    POL:
+        common: Turks i Caicos
+        official: Turks i Caicos
+    POR:
+        common: Ilhas Turks e Caicos
+        official: Ilhas Turks e Caicos
+    RUS:
+        common: Теркс и Кайкос
+        official: Теркс и Кайкос острова
+    SLK:
+        common: Turks a Caicos
+        official: Ostrovy Turks a Caicos
+    SPA:
+        common: Islas Turks y Caicos
+        official: Islas Turcas y Caicos
+    SRP:
+        common: Ostrva Terks i Kejkos
+        official: Ostrva Terks i Kejkos
+    SWE:
+        common: Turks- och Caicosöarna
+        official: Turks- och Caicosöarna
+    TUR:
+        common: Turks ve Caicos Adaları
+        official: Turks ve Caicos Adaları
+    URD:
+        common: جزائر کیکس و ترکیہ
+        official: جزائر کیکس و ترکیہ
+    ZHO:
+        common: 特克斯和凯科斯群岛
+        official: 特克斯和凯科斯群岛
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: TC
-  alpha3: TCA
-  cioc: ""
-  ccn3: "796"
-  callingcodes:
-  - "1649"
-  internationalprefix: "011"
+    alpha2: TC
+    alpha3: TCA
+    ccn3: "796"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Americas
-  subregion: Caribbean
-  continent: North America
-  capital: Cockburn Town
-  area: 948
+    region: Americas
+    subregion: Caribbean
+    continent: North America
+    capital: Cockburn Town
+    area: 948
 coordinates:
-  longitudestring: 71 35 W
-  latitudestring: 21 45 N
-  minlongitude: -72.46667
-  minlatitude: 21.116667
-  maxlongitude: -71.083336
-  maxlatitude: 21.95
-  latitude: 21.758726
-  longitude: -71.71515
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -72.52069999999999
+    minlatitude: 21.1459922
+    maxlongitude: -71.05949989999999
+    maxlatitude: 22.0016285
+    latitude: 21.694025
+    longitude: -71.797928

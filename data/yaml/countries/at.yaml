@@ -1,70 +1,119 @@
 name:
-  common: Austria
-  official: Republic of Austria
-  native:
-    bar:
-      common: Österreich
-      official: Republik Österreich
+    common: Austria
+    official: The Republic of Austria
+    native:
+        bar:
+            common: Österreich
+            official: Republik Österreich
 eumember: true
 landlocked: true
-nationality: ""
+nationality: Austrian
 tlds:
-- .at
+    - .at
 languages:
-  bar: Austro-Bavarian German
+    bar: Austro-Bavarian German
+    de: ""
 translations:
-  CYM:
-    common: Awstria
-    official: Republic of Austria
-  FRA:
-    common: Autriche
-    official: République d'Autriche
-  ITA:
-    common: Austria
-    official: Repubblica d'Austria
-  JPN:
-    common: オーストリア
-    official: オーストリア共和国
-  NLD:
-    common: Oostenrijk
-    official: Republiek Oostenrijk
-  POR:
-    common: Áustria
-    official: República da Áustria
-  SPA:
-    common: Austria
-    official: República de Austria
+    ARA:
+        common: النمسا
+        official: جمهورية النمسا
+    CES:
+        common: Rakousko
+        official: Rakouská republika
+    DEU:
+        common: Österreich
+        official: Republik Österreich
+    EST:
+        common: Austria
+        official: Austria Vabariik
+    FIN:
+        common: Itävalta
+        official: Itävallan tasavalta
+    FRA:
+        common: Autriche
+        official: République d'Autriche
+    HRV:
+        common: Austrija
+        official: Republika Austrija
+    HUN:
+        common: Ausztria
+        official: Ausztria
+    ITA:
+        common: Austria
+        official: Repubblica d'Austria
+    JPN:
+        common: オーストリア
+        official: オーストリア共和国
+    KOR:
+        common: 오스트리아
+        official: 오스트리아 공화국
+    NLD:
+        common: Oostenrijk
+        official: Republiek Oostenrijk
+    PER:
+        common: اتریش
+        official: جمهوری اتریش
+    POL:
+        common: Austria
+        official: Republika Austrii
+    POR:
+        common: Áustria
+        official: República da Áustria
+    RUS:
+        common: Австрия
+        official: Австрийская Республика
+    SLK:
+        common: Rakúsko
+        official: Rakúska republika
+    SPA:
+        common: Austria
+        official: República de Austria
+    SRP:
+        common: Austrija
+        official: Republika Austrija
+    SWE:
+        common: Österrike
+        official: Republiken Österrike
+    TUR:
+        common: Avusturya
+        official: Avusturya Cumhuriyeti
+    URD:
+        common: آسٹریا
+        official: جمہوریہ آسٹریا
+    ZHO:
+        common: 奥地利
+        official: 奥地利共和国
 currencies:
-- EUR
+    - EUR
 borders:
-- CZE
-- DEU
-- HUN
-- ITA
-- LIE
-- SVK
-- SVN
-- CHE
+    - CZE
+    - DEU
+    - HUN
+    - ITA
+    - LIE
+    - SVK
+    - SVN
+    - CHE
 codes:
-  alpha2: AT
-  alpha3: AUT
-  cioc: AUT
-  ccn3: "040"
-  callingcodes:
-  - "43"
-  internationalprefix: "00"
+    alpha2: AT
+    alpha3: AUT
+    cioc: AUT
+    ccn3: "040"
+    callingcodes:
+        - "43"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Western Europe
-  continent: Europe
-  capital: Vienna
-  area: 83871
+    region: Europe
+    subregion: Western Europe
+    continent: Europe
+    capital: Vienna
+    area: 83871
 coordinates:
-  longitudestring: 13 20 E
-  latitudestring: 47 20 N
-  minlongitude: 1.2
-  minlatitude: 46.37722
-  maxlongitude: 19
-  maxlatitude: 49.016666
-  latitude: 47.58844
-  longitude: 14.140211
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 9.530783399999999
+    minlatitude: 46.37233579999999
+    maxlongitude: 17.1607329
+    maxlatitude: 49.0206081
+    latitude: 47.516231
+    longitude: 14.550072

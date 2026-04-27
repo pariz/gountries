@@ -1,68 +1,120 @@
 name:
-  common: Uzbekistan
-  official: Republic of Uzbekistan
-  native:
-    rus:
-      common: Узбекистан
-      official: Республика Узбекистан
-    uzb:
-      common: O‘zbekiston
-      official: O'zbekiston Respublikasi
+    common: Uzbekistan
+    official: The Republic of Uzbekistan
+    native:
+        rus:
+            common: Узбекистан
+            official: Республика Узбекистан
+        uzb:
+            common: O‘zbekiston
+            official: O'zbekiston Respublikasi
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Uzbekistani
 tlds:
-- .uz
+    - .uz
 languages:
-  rus: Russian
-  uzb: Uzbek
+    rus: Russian
+    uz: ""
+    uzb: Uzbek
 translations:
-  DEU:
-    common: Usbekistan
-    official: Republik Usbekistan
-  FIN:
-    common: Uzbekistan
-    official: Uzbekistanin tasavalta
-  FRA:
-    common: Ouzbékistan
-    official: République d'Ouzbékistan
-  HRV:
-    common: Uzbekistan
-    official: Republika Uzbekistan
-  POR:
-    common: Uzbequistão
-    official: República do Usbequistão
-  RUS:
-    common: Узбекистан
-    official: Республика Узбекистан
+    ARA:
+        common: أوزباكستان
+        official: جمهورية أوزباكستان
+    CES:
+        common: Uzbekistán
+        official: Republika Uzbekistán
+    DEU:
+        common: Usbekistan
+        official: Republik Usbekistan
+    EST:
+        common: Usbekistan
+        official: Usbekistani Vabariik
+    FIN:
+        common: Uzbekistan
+        official: Uzbekistanin tasavalta
+    FRA:
+        common: Ouzbékistan
+        official: République d'Ouzbékistan
+    HRV:
+        common: Uzbekistan
+        official: Republika Uzbekistan
+    HUN:
+        common: Üzbegisztán
+        official: Üzbég Köztársaság
+    ITA:
+        common: Uzbekistan
+        official: Repubblica di Uzbekistan
+    JPN:
+        common: ウズベキスタン
+        official: ウズベキスタン共和国
+    KOR:
+        common: 우즈베키스탄
+        official: 우즈베키스탄 공화국
+    NLD:
+        common: Oezbekistan
+        official: Republiek Oezbekistan
+    PER:
+        common: ازبکستان
+        official: جمهوری ازبکستان
+    POL:
+        common: Uzbekistan
+        official: Republika Uzbekistanu
+    POR:
+        common: Uzbequistão
+        official: República do Usbequistão
+    RUS:
+        common: Узбекистан
+        official: Республика Узбекистан
+    SLK:
+        common: Uzbekistan
+        official: Uzbecká republika
+    SPA:
+        common: Uzbekistán
+        official: República de Uzbekistán
+    SRP:
+        common: Uzbekistan
+        official: Republika Uzbekistan
+    SWE:
+        common: Uzbekistan
+        official: Republiken Uzbekistan
+    TUR:
+        common: özbekistan
+        official: özbekistan Cumhuriyeti
+    URD:
+        common: ازبکستان
+        official: جمہوریہ ازبکستان
+    ZHO:
+        common: 乌兹别克斯坦
+        official: 乌兹别克斯坦共和国
 currencies:
-- UZS
+    - UZS
 borders:
-- AFG
-- KAZ
-- KGZ
-- TJK
-- TKM
+    - AFG
+    - KAZ
+    - KGZ
+    - TJK
+    - TKM
 codes:
-  alpha2: UZ
-  alpha3: UZB
-  cioc: UZB
-  ccn3: "860"
-  callingcodes:
-  - "998"
-  internationalprefix: "810"
+    alpha2: UZ
+    alpha3: UZB
+    cioc: UZB
+    ccn3: "860"
+    callingcodes:
+        - "998"
+    internationalprefix: "810"
 geo:
-  region: Asia
-  subregion: Central Asia
-  continent: Asia
-  capital: Tashkent
-  area: 447400
+    region: Asia
+    subregion: Central Asia
+    continent: Asia
+    capital: Tashkent
+    area: 447400
 coordinates:
-  longitudestring: 64 00 E
-  latitudestring: 41 00 N
-  minlongitude: 56.083332
-  minlatitude: 35.266666
-  maxlongitude: 80.38333
-  maxlatitude: 48.583332
-  latitude: 41.772392
-  longitude: 63.14589
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.9982179
+    minlatitude: 37.1722571
+    maxlongitude: 73.148946
+    maxlatitude: 45.590075
+    latitude: 41.377491
+    longitude: 64.585262

@@ -1,66 +1,115 @@
 name:
-  common: American Samoa
-  official: American Samoa
-  native:
-    eng:
-      common: American Samoa
-      official: American Samoa
-    smo:
-      common: Sāmoa Amelika
-      official: Sāmoa Amelika
+    common: American Samoa
+    official: The Territory of American Samoa
+    native:
+        eng:
+            common: American Samoa
+            official: American Samoa
+        smo:
+            common: Sāmoa Amelika
+            official: Sāmoa Amelika
 eumember: false
 landlocked: false
-nationality: ""
+nationality: American Samoan
 tlds:
-- .as
+    - .as
 languages:
-  eng: English
-  smo: Samoan
+    en: ""
+    eng: English
+    sm: ""
+    smo: Samoan
 translations:
-  FIN:
-    common: Amerikan Samoa
-    official: Amerikan Samoa
-  FRA:
-    common: Samoa américaines
-    official: Samoa américaines
-  ITA:
-    common: Samoa Americane
-    official: Samoa americane
-  JPN:
-    common: アメリカ領サモア
-    official: 米サモア
-  NLD:
-    common: Amerikaans Samoa
-    official: Amerikaans Samoa
-  RUS:
-    common: Американское Самоа
-    official: американское Самоа
-  SPA:
-    common: Samoa Americana
-    official: Samoa Americana
+    ARA:
+        common: ساموا الأمريكية
+        official: ساموا الأمريكية
+    CES:
+        common: Americká Samoa
+        official: Americká Samoa
+    DEU:
+        common: Amerikanisch-Samoa
+        official: Amerikanisch-Samoa
+    EST:
+        common: Ameerika Samoa
+        official: Ameerika Samoa
+    FIN:
+        common: Amerikan Samoa
+        official: Amerikan Samoa
+    FRA:
+        common: Samoa américaines
+        official: Samoa américaines
+    HRV:
+        common: Američka Samoa
+        official: američka Samoa
+    HUN:
+        common: Szamoa
+        official: Szamoa
+    ITA:
+        common: Samoa Americane
+        official: Samoa americane
+    JPN:
+        common: アメリカ領サモア
+        official: 米領サモア
+    KOR:
+        common: 아메리칸사모아
+        official: 아메리칸사모아
+    NLD:
+        common: Amerikaans Samoa
+        official: Amerikaans Samoa
+    PER:
+        common: ساموآی آمریکا
+        official: ساموآی آمریکا
+    POL:
+        common: Samoa Amerykańskie
+        official: Samoa Amerykańskie
+    POR:
+        common: Samoa Americana
+        official: Samoa americana
+    RUS:
+        common: Американское Самоа
+        official: американское Самоа
+    SLK:
+        common: Americká Samoa
+        official: Americká Samoa
+    SPA:
+        common: Samoa Americana
+        official: Samoa Americana
+    SRP:
+        common: Američka Samoa
+        official: Američka Samoa
+    SWE:
+        common: Amerikanska Samoa
+        official: Amerikanska Samoa
+    TUR:
+        common: Amerikan Samoası
+        official: Amerikan Samoası
+    URD:
+        common: امریکی سمووا
+        official: امریکی سمووا
+    ZHO:
+        common: 美属萨摩亚
+        official: 美属萨摩亚
 currencies:
-- USD
-borders: []
+    - USD
 codes:
-  alpha2: AS
-  alpha3: ASM
-  cioc: ASA
-  ccn3: "016"
-  callingcodes:
-  - "1684"
-  internationalprefix: "011"
+    alpha2: AS
+    alpha3: ASM
+    cioc: ASA
+    ccn3: "016"
+    callingcodes:
+        - "1"
+    internationalprefix: "011"
 geo:
-  region: Oceania
-  subregion: Polynesia
-  continent: Australia
-  capital: Pago Pago
-  area: 199
+    region: Oceania
+    subregion: Polynesia
+    continent: Australia
+    capital: Pago Pago
+    area: 199
 coordinates:
-  longitudestring: 170 00 W
-  latitudestring: 14 20 S
-  minlongitude: -171.09187
-  minlatitude: -14.38247
-  maxlongitude: -169.41608
-  maxlatitude: -11.04969
-  latitude: -14.319567
-  longitude: -170.74036
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -171.0076904
+    minlatitude: -14.7217608
+    maxlongitude: -169.2059326
+    maxlatitude: -13.4056506
+    latitude: -14.270972
+    longitude: -170.132217

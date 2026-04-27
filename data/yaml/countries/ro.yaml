@@ -1,61 +1,116 @@
 name:
-  common: Romania
-  official: Romania
-  native:
-    ron:
-      common: România
-      official: România
-eumember: true
-landlocked: false
-nationality: ""
-tlds:
-- .ro
-languages:
-  ron: Romanian
-translations:
-  FRA:
-    common: Roumanie
-    official: Roumanie
-  HRV:
-    common: Rumunjska
-    official: Rumunija
-  ITA:
     common: Romania
     official: Romania
-  JPN:
-    common: ルーマニア
-    official: ルーマニア
-  RUS:
-    common: Румыния
-    official: Румыния
+    native:
+        ron:
+            common: România
+            official: România
+eumember: true
+landlocked: false
+nationality: Romanian
+tlds:
+    - .ro
+languages:
+    ro: ""
+    ron: Romanian
+translations:
+    ARA:
+        common: رومانيا
+        official: رومانيا
+    CES:
+        common: Rumunsko
+        official: Rumunsko
+    DEU:
+        common: Rumänien
+        official: Rumänien
+    EST:
+        common: Rumeenia
+        official: Rumeenia
+    FIN:
+        common: Romania
+        official: Romania
+    FRA:
+        common: Roumanie
+        official: Roumanie
+    HRV:
+        common: Rumunjska
+        official: Rumunija
+    HUN:
+        common: Románia
+        official: Románia
+    ITA:
+        common: Romania
+        official: Romania
+    JPN:
+        common: ルーマニア
+        official: ルーマニア
+    KOR:
+        common: 루마니아
+        official: 루마니아
+    NLD:
+        common: Roemenië
+        official: Roemenië
+    PER:
+        common: رومانی
+        official: رومانی
+    POL:
+        common: Rumunia
+        official: Rumunia
+    POR:
+        common: Roménia
+        official: Romênia
+    RUS:
+        common: Румыния
+        official: Румыния
+    SLK:
+        common: Rumunsko
+        official: Rumunsko
+    SPA:
+        common: Rumania
+        official: Rumania
+    SRP:
+        common: Rumunija
+        official: Rumunija
+    SWE:
+        common: Rumänien
+        official: Rumänien
+    TUR:
+        common: Romanya
+        official: Romanya
+    URD:
+        common: رومانیہ
+        official: رومانیہ
+    ZHO:
+        common: 罗马尼亚
+        official: 罗马尼亚
 currencies:
-- RON
+    - RON
 borders:
-- BGR
-- HUN
-- MDA
-- SRB
-- UKR
+    - BGR
+    - HUN
+    - MDA
+    - SRB
+    - UKR
 codes:
-  alpha2: RO
-  alpha3: ROU
-  cioc: ROU
-  ccn3: "642"
-  callingcodes:
-  - "40"
-  internationalprefix: "00"
+    alpha2: RO
+    alpha3: ROU
+    cioc: ROU
+    ccn3: "642"
+    callingcodes:
+        - "40"
+    internationalprefix: "00"
 geo:
-  region: Europe
-  subregion: Eastern Europe
-  continent: Europe
-  capital: Bucharest
-  area: 238391
+    region: Europe
+    subregion: Eastern Europe
+    continent: Europe
+    capital: Bucharest
+    area: 238391
 coordinates:
-  longitudestring: 25 00 E
-  latitudestring: 46 00 N
-  minlongitude: 19
-  minlatitude: 43.666668
-  maxlongitude: 29.65
-  maxlatitude: 48.25
-  latitude: 45.83774
-  longitude: 25.005936
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 20.2617591
+    minlatitude: 43.6186193
+    maxlongitude: 29.77839999999999
+    maxlatitude: 48.26518
+    latitude: 45.943161
+    longitude: 24.96676

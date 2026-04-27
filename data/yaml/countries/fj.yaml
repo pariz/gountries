@@ -1,70 +1,120 @@
 name:
-  common: Fiji
-  official: Republic of Fiji
-  native:
-    eng:
-      common: Fiji
-      official: Republic of Fiji
-    fij:
-      common: Viti
-      official: Matanitu Tugalala o Viti
-    hif:
-      common: फिजी
-      official: रिपब्लिक ऑफ फीजी
+    common: Fiji
+    official: The Republic of Fiji
+    native:
+        eng:
+            common: Fiji
+            official: Republic of Fiji
+        fij:
+            common: Viti
+            official: Matanitu Tugalala o Viti
+        hif:
+            common: फिजी
+            official: रिपब्लिक ऑफ फीजी
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Fijian
 tlds:
-- .fj
+    - .fj
 languages:
-  eng: English
-  fij: Fijian
-  hif: Fiji Hindi
+    en: ""
+    eng: English
+    fij: Fijian
+    fj: ""
+    hi: ""
+    hif: Fiji Hindi
 translations:
-  DEU:
-    common: Fidschi
-    official: Republik Fidschi
-  FIN:
-    common: Fidži
-    official: Fidžin tasavalta
-  FRA:
-    common: Fidji
-    official: République des Fidji
-  ITA:
-    common: Figi
-    official: Repubblica di Figi
-  JPN:
-    common: フィジー
-    official: フィジー共和国
-  NLD:
-    common: Fiji
-    official: Republiek Fiji
-  SPA:
-    common: Fiyi
-    official: República de Fiji
+    ARA:
+        common: فيجي
+        official: جمهورية جزر فيجي
+    CES:
+        common: Fidži
+        official: Republika Fidžijských ostrovů
+    DEU:
+        common: Fidschi
+        official: Republik Fidschi
+    EST:
+        common: Fidži
+        official: Fidži Vabariik
+    FIN:
+        common: Fidži
+        official: Fidžin tasavalta
+    FRA:
+        common: Fidji
+        official: République des Fidji
+    HRV:
+        common: Fiđi
+        official: Republika Fidži
+    HUN:
+        common: Fidzsi-szigetek
+        official: Fidzsi-szigeteki Köztársaság
+    ITA:
+        common: Figi
+        official: Repubblica di Figi
+    JPN:
+        common: フィジー
+        official: フィジー諸島共和国
+    KOR:
+        common: 피지
+        official: 피지 공화국
+    NLD:
+        common: Fiji
+        official: Republiek Fiji
+    PER:
+        common: فیجی
+        official: جمهوری جزایر فیجی
+    POL:
+        common: Fidżi
+        official: Republika Fidżi
+    POR:
+        common: Fiji
+        official: República de Fiji
+    RUS:
+        common: Фиджи
+        official: Республика Фиджи
+    SLK:
+        common: Fiǆi
+        official: Fiǆijská republika
+    SPA:
+        common: Fiyi
+        official: República de Fiji
+    SRP:
+        common: Fidži
+        official: Republika Fidži
+    SWE:
+        common: Fiji
+        official: Republiken Fiji
+    TUR:
+        common: Fiji
+        official: Fiji Cumhuriyeti
+    URD:
+        common: فجی
+        official: جمہوریہ فجی
+    ZHO:
+        common: 斐济
+        official: 斐济共和国
 currencies:
-- FJD
-borders: []
+    - FJD
 codes:
-  alpha2: FJ
-  alpha3: FJI
-  cioc: FIJ
-  ccn3: "242"
-  callingcodes:
-  - "679"
-  internationalprefix: "00"
+    alpha2: FJ
+    alpha3: FJI
+    cioc: FIJ
+    ccn3: "242"
+    callingcodes:
+        - "679"
+    internationalprefix: "00"
 geo:
-  region: Oceania
-  subregion: Melanesia
-  continent: Australia
-  capital: Suva
-  area: 18272
+    region: Oceania
+    subregion: Melanesia
+    continent: Australia
+    capital: Suva
+    area: 18272
 coordinates:
-  longitudestring: 175 00 E
-  latitudestring: 18 00 S
-  minlongitude: 180
-  minlatitude: -21.016666
-  maxlongitude: -179.98334
-  maxlatitude: -12.466667
-  latitude: -17.658161
-  longitude: 178.14726
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 176.7919922
+    minlatitude: -20.8998713
+    maxlongitude: -177.8686523
+    maxlatitude: -12.2084957
+    latitude: -17.713371
+    longitude: 178.065032

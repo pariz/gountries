@@ -1,35 +1,5 @@
-- name: Bagmati
-  names:
-  - Bagmati
-  code: BA
-  countryalpha2: NP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 84.6261
-    minlatitude: 27.318205
-    maxlongitude: 86.06501
-    maxlatitude: 28.342005
-    latitude: 28.036758
-    longitude: 85.43756
-- name: Kosi [Koshi]
-  names:
-  - Kosi [Koshi]
-  code: KO
-  countryalpha2: NP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 86.4182
-    minlatitude: 25.396599
-    maxlongitude: 87.2665
-    maxlatitude: 26.826216
-    latitude: 26.545925
-    longitude: 86.93737
-- name: Sagarmatha
-  names:
-  - Sagarmatha
-  code: SA
+- name: मध्यमाञ्चल विकास क्षेत्र
+  code: "1"
   countryalpha2: NP
   coordinates:
     longitudestring: ""
@@ -38,95 +8,157 @@
     minlatitude: 0
     maxlongitude: 0
     maxlatitude: 0
-    latitude: 27.98781
-    longitude: 86.92499
+    latitude: 0
+    longitude: 0
+- name: मध्य-पश्चिमाञ्चल विकास क्षेत्र
+  code: "2"
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: पश्चिमाञ्चल विकास क्षेत्र
+  code: "3"
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: पूर्वाञ्चल विकास क्षेत्र
+  code: "4"
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: सुदूर-पश्चिमाञ्चल विकास क्षेत्र
+  code: "5"
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Bagmati
+  names:
+    - Bagmati
+  code: BA
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 84.62609499999999
+    minlatitude: 27.3182049
+    maxlongitude: 86.06501
+    maxlatitude: 28.3420049
+    latitude: 28.0367577
+    longitude: 85.4375574
 - name: Bheri
   names:
-  - Bheri
+    - Bheri
   code: BH
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 80.984436
+    minlongitude: 80.98443600000002
     minlatitude: 27.85854
-    maxlongitude: 82.45865
+    maxlongitude: 82.45864910000002
     maxlatitude: 29.135872
     latitude: 28.517456
-    longitude: 81.7787
-- name: Narayani
+    longitude: 81.77870209999999
+- name: Dhawalagiri
   names:
-  - Narayani
-  code: NA
+    - Dhawalagiri
+  code: DH
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 84.16066
-    minlatitude: 27.551008
-    maxlongitude: 84.34496
-    maxlatitude: 27.61414
-    latitude: 27.586348
-    longitude: 84.32265
-- name: Rapti
+    minlongitude: 82.869958
+    minlatitude: 27.9980379
+    maxlongitude: 84.19720490000002
+    maxlatitude: 29.3155821
+    latitude: 28.611176
+    longitude: 83.5070203
+- name: Gandaki
   names:
-  - Rapti
-  code: RA
+    - Gandaki
+  code: GA
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 81.74727
-    minlatitude: 27.682508
-    maxlongitude: 83.154785
-    maxlatitude: 28.992126
-    latitude: 28.274347
-    longitude: 82.38858
-- name: Mahakali
-  names:
-  - Mahakali
-  code: MA
-  countryalpha2: NP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 80.27049
-    minlatitude: 29.369179
-    maxlongitude: 80.33278
-    maxlatitude: 29.40975
-    latitude: 29.39
-    longitude: 80.3
+    minlongitude: 83.4406971
+    minlatitude: 27.7426719
+    maxlongitude: 85.19313799999999
+    maxlatitude: 28.91346
+    latitude: 28.3732037
+    longitude: 84.4382721
 - name: Janakpur
   names:
-  - Janakpur
+    - Janakpur
   code: JA
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 85.87938
-    minlatitude: 26.670305
-    maxlongitude: 85.99422
-    maxlatitude: 26.838316
+    minlongitude: 85.8793826
+    minlatitude: 26.6703051
+    maxlongitude: 85.9942174
+    maxlatitude: 26.8383167
     latitude: 26.728611
     longitude: 85.925
 - name: Karnali
   names:
-  - Karnali
+    - Karnali
   code: KA
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
     minlongitude: 81.255875
-    minlatitude: 28.70978
-    maxlongitude: 83.68975
-    maxlatitude: 30.433393
-    latitude: 29.386255
-    longitude: 82.38858
+    minlatitude: 28.7097791
+    maxlongitude: 83.6897499
+    maxlatitude: 30.4333931
+    latitude: 29.3862555
+    longitude: 82.38857829999999
+- name: Kosi [Koshi]
+  names:
+    - Kosi [Koshi]
+  code: KO
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 86.4182005
+    minlatitude: 25.396598
+    maxlongitude: 87.26650049999999
+    maxlatitude: 26.8262154
+    latitude: 26.5459247
+    longitude: 86.93737159999999
 - name: Lumbini
   names:
-  - Lumbini
+    - Lumbini
   code: LU
   countryalpha2: NP
   coordinates:
@@ -138,59 +170,185 @@
     maxlatitude: 0
     latitude: 27.45
     longitude: 83.25
-- name: Seti
+- name: Mahakali
   names:
-  - Seti
-  code: SE
+    - Mahakali
+  code: MA
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 80.50386
-    minlatitude: 28.39424
-    maxlongitude: 81.81597
-    maxlatitude: 30.071577
-    latitude: 29.690542
-    longitude: 81.33994
-- name: Dhawalagiri
-  names:
-  - Dhawalagiri
-  code: DH
-  countryalpha2: NP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 82.86996
-    minlatitude: 27.998037
-    maxlongitude: 84.197205
-    maxlatitude: 29.315582
-    latitude: 28.611176
-    longitude: 83.50702
-- name: Gandaki
-  names:
-  - Gandaki
-  code: GA
-  countryalpha2: NP
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 83.4407
-    minlatitude: 27.742672
-    maxlongitude: 85.19314
-    maxlatitude: 28.91346
-    latitude: 28.373203
-    longitude: 84.43827
+    minlongitude: 80.2704906
+    minlatitude: 29.3691794
+    maxlongitude: 80.33278229999999
+    maxlatitude: 29.4097501
+    latitude: 29.39
+    longitude: 80.3
 - name: Mechi
   names:
-  - Mechi
+    - Mechi
   code: ME
   countryalpha2: NP
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 87.46893
+    minlongitude: 87.4689351
     minlatitude: 26.361404
-    maxlongitude: 88.199326
-    maxlatitude: 27.917402
-    latitude: 26.876001
-    longitude: 87.93348
+    maxlongitude: 88.19932589999999
+    maxlatitude: 27.9174019
+    latitude: 26.8760007
+    longitude: 87.9334803
+- name: Narayani
+  names:
+    - Narayani
+  code: NA
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 84.1606619
+    minlatitude: 27.5510084
+    maxlongitude: 84.344962
+    maxlatitude: 27.6141404
+    latitude: 27.5863482
+    longitude: 84.3226488
+- name: Koshi Province
+  names:
+    - Koshi
+  code: P1
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 86.5015001
+    minlatitude: 26.3473741
+    maxlongitude: 88.2018297
+    maxlatitude: 28.346008
+    latitude: 27.226594
+    longitude: 87.134487
+- name: Madhesh Province
+  names:
+    - Madhesh
+  code: P2
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 84.646302
+    minlatitude: 26.33333
+    maxlongitude: 86.9457
+    maxlatitude: 27.066774
+    latitude: 26.726581
+    longitude: 85.878288
+- name: Bagmati Province
+  names:
+    - Bagmati
+  code: P3
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 84.45634
+    minlatitude: 27.316666
+    maxlongitude: 86.7
+    maxlatitude: 28.766666
+    latitude: 27.923508
+    longitude: 85.237122
+- name: Gandaki Province
+  names:
+    - Gandaki
+  code: P4
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 83.05629
+    minlatitude: 27.328852
+    maxlongitude: 85.194321
+    maxlatitude: 28.88339
+    latitude: 28.243426
+    longitude: 83.896532
+- name: Lumbini Province
+  names:
+    - Lumbini
+  code: P5
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.65873
+    minlatitude: 26.733333
+    maxlongitude: 84.621499
+    maxlatitude: 28.633333
+    latitude: 27.610125
+    longitude: 83.393209
+- name: Karnali Province
+  names:
+    - Karnali
+  code: P6
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.98909
+    minlatitude: 27.856192
+    maxlongitude: 83.6897499
+    maxlatitude: 30.246437
+    latitude: 28.820317
+    longitude: 82.200189
+- name: Sudurpashchim Province
+  names:
+    - Sudurpashchim
+  code: P7
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.0584698
+    minlatitude: 28.2037
+    maxlongitude: 81.806982
+    maxlatitude: 30.133331
+    latitude: 29.056774
+    longitude: 81.10252
+- name: Rapti
+  names:
+    - Rapti
+  code: RA
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 81.7472689
+    minlatitude: 27.682508
+    maxlongitude: 83.1547849
+    maxlatitude: 28.99212589999999
+    latitude: 28.274347
+    longitude: 82.38857829999999
+- name: Sagarmatha
+  names:
+    - Sagarmatha
+  code: SA
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 27.9878093
+    longitude: 86.9249842
+- name: Seti
+  names:
+    - Seti
+  code: SE
+  countryalpha2: NP
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 80.5038579
+    minlatitude: 28.394239
+    maxlongitude: 81.815972
+    maxlatitude: 30.0715771
+    latitude: 29.6905427
+    longitude: 81.3399414

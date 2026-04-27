@@ -1,68 +1,113 @@
 name:
-  common: Bhutan
-  official: Kingdom of Bhutan
-  native:
-    dzo:
-      common: འབྲུག་ཡུལ་
-      official: འབྲུག་རྒྱལ་ཁབ་
+    common: Bhutan
+    official: The Kingdom of Bhutan
+    native:
+        dzo:
+            common: འབྲུག་ཡུལ་
+            official: འབྲུག་རྒྱལ་ཁབ་
 eumember: false
 landlocked: true
-nationality: ""
+nationality: Bhutanese
 tlds:
-- .bt
+    - .bt
 languages:
-  dzo: Dzongkha
+    dz: ""
+    dzo: Dzongkha
 translations:
-  CYM:
-    common: Bhwtan
-    official: Kingdom of Bhutan
-  DEU:
-    common: Bhutan
-    official: Königreich Bhutan
-  FIN:
-    common: Bhutan
-    official: Bhutanin kuningaskunta
-  JPN:
-    common: ブータン
-    official: ブータン王国
-  NLD:
-    common: Bhutan
-    official: Koninkrijk Bhutan
-  POR:
-    common: Butão
-    official: Reino do Butão
-  RUS:
-    common: Бутан
-    official: Королевство Бутан
-  SPA:
-    common: Bután
-    official: Reino de Bután
+    ARA:
+        common: بوتان
+        official: مملكة بوتان
+    CES:
+        common: Bhútán
+        official: Bhútánské království
+    DEU:
+        common: Bhutan
+        official: Königreich Bhutan
+    EST:
+        common: Bhutan
+        official: Bhutani Kuningriik
+    FIN:
+        common: Bhutan
+        official: Bhutanin kuningaskunta
+    FRA:
+        common: Bhoutan
+        official: Royaume du Bhoutan
+    HRV:
+        common: Butan
+        official: Kraljevina Butan
+    HUN:
+        common: Bhután
+        official: Bhutáni Királyság
+    ITA:
+        common: Bhutan
+        official: Regno del Bhutan
+    JPN:
+        common: ブータン
+        official: ブータン王国
+    KOR:
+        common: 부탄
+        official: 부탄 왕국
+    NLD:
+        common: Bhutan
+        official: Koninkrijk Bhutan
+    PER:
+        common: بوتان
+        official: پادشاهی بوتان
+    POL:
+        common: Bhutan
+        official: Bhutan
+    POR:
+        common: Butão
+        official: Reino do Butão
+    RUS:
+        common: Бутан
+        official: Королевство Бутан
+    SLK:
+        common: Bhután
+        official: Bhutánske krâľovstvo
+    SPA:
+        common: Bután
+        official: Reino de Bután
+    SRP:
+        common: Butan
+        official: Kraljevina Butan
+    SWE:
+        common: Bhutan
+        official: Konungariket Bhutan
+    TUR:
+        common: Butan
+        official: Butan Krallığı
+    URD:
+        common: بھوٹان
+        official: سلطنت بھوٹان
+    ZHO:
+        common: 不丹
+        official: 不丹王国
 currencies:
-- BTN
-- INR
+    - BTN
 borders:
-- CHN
-- IND
+    - CHN
+    - IND
 codes:
-  alpha2: BT
-  alpha3: BTN
-  cioc: BHU
-  ccn3: "064"
-  callingcodes:
-  - "975"
-  internationalprefix: "00"
+    alpha2: BT
+    alpha3: BTN
+    cioc: BHU
+    ccn3: "064"
+    callingcodes:
+        - "975"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Southern Asia
-  continent: Asia
-  capital: Thimphu
-  area: 38394
+    region: Asia
+    subregion: Southern Asia
+    continent: Asia
+    capital: Thimphu
+    area: 38394
 coordinates:
-  longitudestring: 90 30 E
-  latitudestring: 27 30 N
-  minlongitude: 80
-  minlatitude: 26.716667
-  maxlongitude: 92.03333
-  maxlatitude: 30
-  latitude: 27.41688
-  longitude: 90.43476
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 88.7464739
+    minlatitude: 26.702016
+    maxlongitude: 92.125232
+    maxlatitude: 28.246987
+    latitude: 27.514162
+    longitude: 90.433601

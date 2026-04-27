@@ -1,62 +1,114 @@
 name:
-  common: Oman
-  official: Sultanate of Oman
-  native:
-    ara:
-      common: عمان
-      official: سلطنة عمان
+    common: Oman
+    official: The Sultanate of Oman
+    native:
+        ara:
+            common: عمان
+            official: سلطنة عمان
 eumember: false
 landlocked: false
-nationality: ""
+nationality: Omani
 tlds:
-- .om
+    - .om
 languages:
-  ara: Arabic
+    ar: ""
+    ara: Arabic
 translations:
-  DEU:
-    common: Oman
-    official: Sultanat Oman
-  FIN:
-    common: Oman
-    official: Omanin sulttaanikunta
-  HRV:
-    common: Oman
-    official: Sultanat Oman
-  JPN:
-    common: オマーン
-    official: オマーン·スルタン国
-  NLD:
-    common: Oman
-    official: Sultanaat van Oman
-  POR:
-    common: Omã
-    official: Sultanato de Omã
+    ARA:
+        common: عمان
+        official: سلطنة عمان
+    CES:
+        common: Omán
+        official: Sultanát Omán
+    DEU:
+        common: Oman
+        official: Sultanat Oman
+    EST:
+        common: Omaan
+        official: Omaani Sultaniriik
+    FIN:
+        common: Oman
+        official: Omanin sulttaanikunta
+    FRA:
+        common: Oman
+        official: Sultanat d'Oman
+    HRV:
+        common: Oman
+        official: Sultanat Oman
+    HUN:
+        common: Omán
+        official: Ománi Szultanátus
+    ITA:
+        common: oman
+        official: Sultanato dell'Oman
+    JPN:
+        common: オマーン
+        official: オマーン国
+    KOR:
+        common: 오만
+        official: 오만 술탄국
+    NLD:
+        common: Oman
+        official: Sultanaat van Oman
+    PER:
+        common: عمان
+        official: سلطان‌نشین عُمان
+    POL:
+        common: Oman
+        official: Sułtanat Omanu
+    POR:
+        common: Omã
+        official: Sultanato de Omã
+    RUS:
+        common: Оман
+        official: Султанат Оман
+    SLK:
+        common: Omán
+        official: Ománsky sultanát
+    SPA:
+        common: Omán
+        official: Sultanato de Omán
+    SRP:
+        common: Oman
+        official: Sultanat Oman
+    SWE:
+        common: Oman
+        official: Sultanatet Oman
+    TUR:
+        common: Umman
+        official: Umman Sultanlığı
+    URD:
+        common: عمان
+        official: سلطنت عمان
+    ZHO:
+        common: 阿曼
+        official: 阿曼苏丹国
 currencies:
-- OMR
+    - OMR
 borders:
-- SAU
-- ARE
-- YEM
+    - SAU
+    - ARE
+    - YEM
 codes:
-  alpha2: OM
-  alpha3: OMN
-  cioc: OMA
-  ccn3: "512"
-  callingcodes:
-  - "968"
-  internationalprefix: "00"
+    alpha2: OM
+    alpha3: OMN
+    cioc: OMA
+    ccn3: "512"
+    callingcodes:
+        - "968"
+    internationalprefix: "00"
 geo:
-  region: Asia
-  subregion: Western Asia
-  continent: Asia
-  capital: Muscat
-  area: 309500
+    region: Asia
+    subregion: Western Asia
+    continent: Asia
+    capital: Muscat
+    area: 309500
 coordinates:
-  longitudestring: 57 00 E
-  latitudestring: 21 00 N
-  minlongitude: 45
-  minlatitude: 16.633333
-  maxlongitude: 59.838055
-  maxlatitude: 26.505
-  latitude: 20.566622
-  longitude: 56.157963
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 52.0000019
+    minlatitude: 16.4571999
+    maxlongitude: 60.30399999999999
+    maxlatitude: 26.4361001
+    latitude: 21.4735329
+    longitude: 55.975413
