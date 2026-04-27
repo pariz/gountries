@@ -20,7 +20,7 @@ func TestMain(m *testing.M) {
 	os.Exit(m.Run())
 }
 
-func ExampleBorderingCountries() {
+func ExampleCountry_BorderingCountries() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
 	for _, country := range se.BorderingCountries() {
@@ -33,7 +33,7 @@ func ExampleBorderingCountries() {
 
 }
 
-func ExampleTranslations() {
+func ExampleCountry_translations() {
 
 	se, _ := query.FindCountryByAlpha("SWE")
 	fmt.Println(se.Translations["DEU"].Common)

@@ -15,6 +15,11 @@ type Country struct {
 	LandLocked  bool
 	Nationality string
 
+	// AltSpellings collects unofficial / alternative names a country may be
+	// looked up by. Populated from upstream gem `unofficial_names` and mledoze
+	// `altSpellings`, deduplicated. These names are indexed for `FindCountryByName`.
+	AltSpellings []string `yaml:"altspellings"`
+
 	TLDs []string `json:"tld"`
 
 	Languages    map[string]string

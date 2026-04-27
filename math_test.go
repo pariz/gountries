@@ -18,8 +18,8 @@ func ExampleCalculatePythagorasEquirectangular() {
 	fmt.Println(distance)
 
 	// Output:
-	// 1430.5502701671583
-	// 2667.2283097795016
+	// 1326.748584888358
+	// 2650.281173643059
 }
 
 func ExampleCalculateHaversine() {
@@ -38,7 +38,7 @@ func ExampleCalculateHaversine() {
 	fmt.Println(distance)
 
 	// Output:
-	// 1430.1937864547901
-	// 2641.26145088825
+	// 1326.3589326391889
+	// 2626.379314009457
 
 }

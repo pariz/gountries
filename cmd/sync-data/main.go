@@ -207,6 +207,7 @@ type mledozeEntry struct {
 		Suffixes []string `json:"suffixes"`
 	} `json:"idd"`
 	Capital      []string                       `json:"capital"`
+	AltSpellings []string                       `json:"altSpellings"`
 	Region       string                         `json:"region"`
 	Subregion    string                         `json:"subregion"`
 	Languages    map[string]string              `json:"languages"`
@@ -284,6 +285,7 @@ type outCountry struct {
 	EuMember     bool                   `yaml:"eumember"`
 	LandLocked   bool                   `yaml:"landlocked"`
 	Nationality  string                 `yaml:"nationality"`
+	AltSpellings []string               `yaml:"altspellings,omitempty"`
 	TLDs         []string               `yaml:"tlds,omitempty"`
 	Languages    map[string]string      `yaml:"languages,omitempty"`
 	Translations map[string]outBaseLang `yaml:"translations,omitempty"`
@@ -332,6 +334,31 @@ func mergeCountry(gc gemCountry, me mledozeEntry) outCountry {
 
 	if len(me.TLD) > 0 {
 		oc.TLDs = append([]string(nil), me.TLD...)
+	}
+
+	// AltSpellings: dedup union of gem.unofficial_names + mledoze.altSpellings.
+	seen := make(map[string]struct{})
+	for _, n := range gc.UnofficialNames {
+		if n == "" {
+			continue
+		}
+		key := strings.ToLower(n)
+		if _, ok := seen[key]; ok {
+			continue
+		}
+		seen[key] = struct{}{}
+		oc.AltSpellings = append(oc.AltSpellings, n)
+	}
+	for _, n := range me.AltSpellings {
+		if n == "" {
+			continue
+		}
+		key := strings.ToLower(n)
+		if _, ok := seen[key]; ok {
+			continue
+		}
+		seen[key] = struct{}{}
+		oc.AltSpellings = append(oc.AltSpellings, n)
 	}
 
 	// languages: gem has codes only; mledoze has code → name. Combine.
