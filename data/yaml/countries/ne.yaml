@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: true
 nationality: Nigerian
+altspellings:
+    - Niger
+    - Níger
+    - ニジェール
+    - NE
+    - Nijar
 tlds:
     - .ne
 languages:

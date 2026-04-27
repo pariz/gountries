@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Angolan
+altspellings:
+    - Angola
+    - アンゴラ
+    - AO
+    - República de Angola
+    - ʁɛpublika de an'ɡɔla
 tlds:
     - .ao
 languages:

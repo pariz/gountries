@@ -11,6 +11,19 @@ name:
 eumember: false
 landlocked: false
 nationality: East Timorese
+altspellings:
+    - East Timor
+    - Timor-Leste
+    - Timor oriental
+    - 東ティモール
+    - Oost-Timor
+    - TL
+    - Timor
+    - Democratic Republic of Timor-Leste
+    - República Democrática de Timor-Leste
+    - Repúblika Demokrátika Timór-Leste
+    - Timór Lorosa'e
+    - Timor Lorosae
 tlds:
     - .tl
 languages:

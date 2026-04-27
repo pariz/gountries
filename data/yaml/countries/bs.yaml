@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Bahamian
+altspellings:
+    - Bahamas
+    - The Bahamas
+    - バハマ
+    - BS
+    - Commonwealth of the Bahamas
 tlds:
     - .bs
 languages:

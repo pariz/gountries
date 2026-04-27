@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Somali
+altspellings:
+    - Somalia
+    - الصومال
+    - ソマリア
+    - Somalië
+    - SO
+    - aṣ-Ṣūmāl
+    - Federal Republic of Somalia
+    - Jamhuuriyadda Federaalka Soomaaliya
+    - Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya
 tlds:
     - .so
 languages:

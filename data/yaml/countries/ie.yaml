@@ -11,6 +11,17 @@ name:
 eumember: true
 landlocked: false
 nationality: Irish
+altspellings:
+    - Ireland
+    - Irland
+    - Irlande
+    - Irlanda
+    - アイルランド
+    - Ierland
+    - IE
+    - Éire
+    - Republic of Ireland
+    - Poblacht na hÉireann
 tlds:
     - .ie
 languages:

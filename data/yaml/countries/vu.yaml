@@ -14,6 +14,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Ni-Vanuatu
+altspellings:
+    - Vanuatu
+    - バヌアツ
+    - VU
+    - Republic of Vanuatu
+    - Ripablik blong Vanuatu
+    - République de Vanuatu
 tlds:
     - .vu
 languages:

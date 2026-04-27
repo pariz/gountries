@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Saint Helenian
+altspellings:
+    - Saint Helena
+    - Sankt Helena
+    - Sainte Hélène
+    - Santa Helena
+    - セントヘレナ・アセンションおよびトリスタンダクーニャ
+    - Sint-Helena
+    - Saint Helena, Ascension and Tristan da Cunha
+    - St. Helena, Ascension and Tristan da Cunha
 tlds:
     - .sh
     - .ac

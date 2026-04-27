@@ -11,6 +11,20 @@ name:
 eumember: false
 landlocked: true
 nationality: Vatican Citizen
+altspellings:
+    - Vatican City
+    - Holy See
+    - Vatikan
+    - Cité du Vatican
+    - Ciudad del Vaticano
+    - バチカン市国
+    - Vaticaanstad
+    - Vatican City State (Holy See)
+    - VA
+    - Holy See (Vatican City State)
+    - Vatican City State
+    - Vatican
+    - Stato della Città del Vaticano
 tlds:
     - .va
 languages:

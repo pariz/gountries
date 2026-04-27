@@ -11,6 +11,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Paraguayan
+altspellings:
+    - Paraguay
+    - パラグアイ
+    - PY
+    - Republic of Paraguay
+    - República del Paraguay
+    - Tetã Paraguái
 tlds:
     - .py
 languages:

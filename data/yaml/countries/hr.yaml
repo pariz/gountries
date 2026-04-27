@@ -8,6 +8,18 @@ name:
 eumember: true
 landlocked: false
 nationality: Croatian
+altspellings:
+    - Croatia
+    - Kroatien
+    - Croatie
+    - Croacia
+    - クロアチア
+    - Kroatië
+    - Croatia (Hrvatska)
+    - HR
+    - Hrvatska
+    - Republic of Croatia
+    - Republika Hrvatska
 tlds:
     - .hr
 languages:

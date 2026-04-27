@@ -11,6 +11,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Chinese
+altspellings:
+    - Macao
+    - Macau
+    - マカオ
+    - MO
+    - 澳门
+    - Macao Special Administrative Region of the People's Republic of China
+    - 中華人民共和國澳門特別行政區
+    - Região Administrativa Especial de Macau da República Popular da China
 tlds:
     - .mo
 languages:

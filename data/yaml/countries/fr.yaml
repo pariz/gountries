@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: French
+altspellings:
+    - France
+    - Frankreich
+    - the French Republic
+    - フランス
+    - Frankrijk
+    - Francia
+    - FR
+    - French Republic
+    - République française
 tlds:
     - .fr
 languages:

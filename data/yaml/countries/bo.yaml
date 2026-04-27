@@ -17,6 +17,20 @@ name:
 eumember: false
 landlocked: true
 nationality: Bolivian
+altspellings:
+    - Bolivia
+    - Bolivien
+    - Bolivie
+    - ボリビア多民族国
+    - BO
+    - Buliwya
+    - Wuliwya
+    - Bolivia, Plurinational State of
+    - Plurinational State of Bolivia
+    - Estado Plurinacional de Bolivia
+    - Buliwya Mamallaqta
+    - Wuliwya Suyu
+    - Tetã Volívia
 tlds:
     - .bo
 languages:

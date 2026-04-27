@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: German
+altspellings:
+    - Germany
+    - Deutschland
+    - Allemagne
+    - Alemania
+    - ドイツ
+    - Duitsland
+    - DE
+    - Federal Republic of Germany
+    - Bundesrepublik Deutschland
 tlds:
     - .de
 languages:

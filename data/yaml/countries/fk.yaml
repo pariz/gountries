@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Falkland Islander
+altspellings:
+    - Falkland Islands
+    - Falkland Islands [Malvinas]
+    - Falklandinseln
+    - Îles Malouines
+    - Islas Malvinas
+    - フォークランド（マルビナス）諸島
+    - Falklandeilanden [Islas Malvinas]
+    - FK
+    - Falkland Islands (Malvinas)
 tlds:
     - .fk
 languages:

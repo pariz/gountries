@@ -11,6 +11,13 @@ name:
 eumember: true
 landlocked: false
 nationality: Maltese
+altspellings:
+    - Malta
+    - Malte
+    - マルタ
+    - MT
+    - Republic of Malta
+    - Repubblika ta' Malta
 tlds:
     - .mt
 languages:

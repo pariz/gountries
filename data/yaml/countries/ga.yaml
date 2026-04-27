@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Gabonese
+altspellings:
+    - Gabon
+    - Gabun
+    - Gabón
+    - ガボン
+    - GA
+    - Gabonese Republic
+    - République Gabonaise
 tlds:
     - .ga
 languages:

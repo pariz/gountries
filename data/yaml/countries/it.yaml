@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Italian
+altspellings:
+    - Italy
+    - Italien
+    - Italie
+    - Italia
+    - イタリア
+    - Italië
+    - IT
+    - Italian Republic
+    - Repubblica italiana
 tlds:
     - .it
 languages:

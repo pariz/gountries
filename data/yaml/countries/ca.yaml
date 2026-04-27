@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Canadian
+altspellings:
+    - Canada
+    - Kanada
+    - Canadá
+    - カナダ
+    - CA
 tlds:
     - .ca
 languages:

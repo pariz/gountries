@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Latvian
+altspellings:
+    - Latvia
+    - Lettland
+    - Lettonie
+    - Letonia
+    - ラトビア
+    - Letland
+    - LV
+    - Republic of Latvia
+    - Latvijas Republika
 tlds:
     - .lv
 languages:

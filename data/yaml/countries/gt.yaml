@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Guatemalan
+altspellings:
+    - Guatemala
+    - グアテマラ
+    - GT
 tlds:
     - .gt
 languages:

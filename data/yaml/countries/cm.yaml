@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Cameroonian
+altspellings:
+    - Cameroon
+    - Kamerun
+    - Cameroun
+    - Camerún
+    - カメルーン
+    - Kameroen
+    - CM
+    - Republic of Cameroon
+    - République du Cameroun
 tlds:
     - .cm
 languages:

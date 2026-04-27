@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Mauritanian
+altspellings:
+    - Mauritania
+    - موريتانيا
+    - Mauretanien
+    - Mauritanie
+    - モーリタニア
+    - Mauritanië
+    - MR
+    - Islamic Republic of Mauritania
+    - al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah
 tlds:
     - .mr
 languages:

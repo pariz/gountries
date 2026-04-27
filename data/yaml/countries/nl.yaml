@@ -8,6 +8,17 @@ name:
 eumember: true
 landlocked: false
 nationality: Dutch
+altspellings:
+    - Netherlands
+    - The Netherlands
+    - Niederlande
+    - Pays-Bas
+    - Países Bajos
+    - オランダ
+    - Nederland
+    - Нидерландия
+    - NL
+    - Holland
 tlds:
     - .nl
 languages:

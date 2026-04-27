@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Qatari
+altspellings:
+    - Qatar
+    - قطر
+    - Katar
+    - カタール
+    - QA
+    - State of Qatar
+    - Dawlat Qaṭar
 tlds:
     - .qa
     - قطر.

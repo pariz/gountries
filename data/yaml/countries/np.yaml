@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: true
 nationality: Nepalese
+altspellings:
+    - Nepal
+    - Népal
+    - the Federal Democratic Republic of Nepal
+    - ネパール
+    - NP
+    - Federal Democratic Republic of Nepal
+    - Loktāntrik Ganatantra Nepāl
 tlds:
     - .np
 languages:

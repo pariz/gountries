@@ -8,6 +8,14 @@ name:
 eumember: true
 landlocked: true
 nationality: Hungarian
+altspellings:
+    - Hungary
+    - Ungarn
+    - Hongrie
+    - Hungría
+    - ハンガリー
+    - Hongarije
+    - HU
 tlds:
     - .hu
 languages:

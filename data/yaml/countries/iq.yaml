@@ -14,6 +14,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Iraqi
+altspellings:
+    - Iraq
+    - العراق
+    - Irak
+    - イラク
+    - IQ
+    - Republic of Iraq
+    - Jumhūriyyat al-‘Irāq
 tlds:
     - .iq
 languages:

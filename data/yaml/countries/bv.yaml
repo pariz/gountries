@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: ""
+altspellings:
+    - Bouvet Island
+    - Bouvetinsel
+    - ブーベ島
+    - Bouveteiland
+    - BV
+    - Bouvetøya
+    - Bouvet-øya
 tlds:
     - .bv
 languages:

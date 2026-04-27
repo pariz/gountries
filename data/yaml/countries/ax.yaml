@@ -8,6 +8,15 @@ name:
 eumember: true
 landlocked: false
 nationality: Swedish
+altspellings:
+    - Åland Islands
+    - Åland
+    - オーランド諸島
+    - Ålandeilanden
+    - AX
+    - Aaland
+    - Aland
+    - Ahvenanmaa
 tlds:
     - .ax
 languages:

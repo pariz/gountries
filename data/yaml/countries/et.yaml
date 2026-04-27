@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: true
 nationality: Ethiopian
+altspellings:
+    - Ethiopia
+    - Äthiopien
+    - Éthiopie
+    - Etiopía
+    - エチオピア
+    - Ethiopië
+    - ET
+    - ʾĪtyōṗṗyā
+    - Federal Democratic Republic of Ethiopia
+    - የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ
 tlds:
     - .et
 languages:

@@ -8,6 +8,15 @@ name:
 eumember: true
 landlocked: true
 nationality: Austrian
+altspellings:
+    - Austria
+    - Österreich
+    - Autriche
+    - オーストリア
+    - Oostenrijk
+    - AT
+    - Osterreich
+    - Oesterreich
 tlds:
     - .at
 languages:

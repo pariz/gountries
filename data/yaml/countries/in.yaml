@@ -14,6 +14,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Indian
+altspellings:
+    - India
+    - Indien
+    - Inde
+    - インド
+    - IN
+    - Bhārat
+    - Republic of India
+    - Bharat Ganrajya
+    - இந்தியா
 tlds:
     - .in
 languages:

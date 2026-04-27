@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Bahraini
+altspellings:
+    - Bahrain
+    - البحرين
+    - Bahreïn
+    - Bahrein
+    - バーレーン
+    - BH
+    - Kingdom of Bahrain
+    - Mamlakat al-Baḥrayn
 tlds:
     - .bh
 languages:

@@ -8,6 +8,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Sierra Leonean
+altspellings:
+    - Sierra Leone
+    - シエラレオネ
+    - SL
+    - Republic of Sierra Leone
 tlds:
     - .sl
 languages:

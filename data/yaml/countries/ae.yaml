@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Emirian
+altspellings:
+    - United Arab Emirates
+    - الإمارات العربية المتحدة
+    - Vereinigte Arabische Emirate
+    - Émirats Arabes Unis
+    - Emiratos Árabes Unidos
+    - アラブ首長国連邦
+    - Verenigde Arabische Emiraten
+    - AE
+    - UAE
+    - Emirates
 tlds:
     - .ae
     - امارات.

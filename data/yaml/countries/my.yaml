@@ -11,6 +11,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Malaysian
+altspellings:
+    - Malaysia
+    - Malaisie
+    - Malasia
+    - マレーシア
+    - Maleisië
+    - MY
 tlds:
     - .my
 languages:

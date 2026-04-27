@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Saint Vincentian
+altspellings:
+    - Saint Vincent and the Grenadines
+    - Saint Vincent und die Grenadinen
+    - Saint-Vincent et les Grenadines
+    - San Vicente y Granadinas
+    - セントビンセントおよびグレナディーン諸島
+    - Saint Vincent en de Grenadines
+    - St. Vincent Grenadines
+    - St Vincent Grenadines
+    - VC
 tlds:
     - .vc
 languages:

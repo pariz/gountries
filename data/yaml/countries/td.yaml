@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: true
 nationality: Chadian
+altspellings:
+    - Chad
+    - تشاد
+    - Tschad
+    - Tchad
+    - チャド
+    - Tsjaad
+    - TD
+    - Republic of Chad
+    - République du Tchad
 tlds:
     - .td
 languages:

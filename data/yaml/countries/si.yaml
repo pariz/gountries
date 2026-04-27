@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Slovene
+altspellings:
+    - Slovenia
+    - Slowenien
+    - Slovénie
+    - Eslovenia
+    - スロベニア
+    - Slovenië
+    - SI
+    - Republic of Slovenia
+    - Republika Slovenija
 tlds:
     - .si
 languages:

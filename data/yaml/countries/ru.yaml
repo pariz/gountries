@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Russian
+altspellings:
+    - Russia
+    - Russian Federation
+    - Russland
+    - Russie
+    - Rusia
+    - ロシア連邦
+    - Rusland
+    - Россия
+    - Расія
+    - RU
+    - Российская Федерация
 tlds:
     - .ru
     - .su

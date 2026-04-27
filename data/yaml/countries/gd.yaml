@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Grenadian
+altspellings:
+    - Grenada
+    - グレナダ
+    - GD
 tlds:
     - .gd
 languages:

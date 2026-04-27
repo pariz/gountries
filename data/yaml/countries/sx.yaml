@@ -14,6 +14,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Dutch
+altspellings:
+    - Sint Maarten
+    - セント・マーチン島
+    - SX
+    - Sint Maarten (Dutch part)
 tlds:
     - .sx
 languages:

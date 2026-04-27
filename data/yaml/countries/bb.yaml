@@ -8,6 +8,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Barbadian
+altspellings:
+    - Barbade
+    - Barbados
+    - バルバドス
+    - BB
 tlds:
     - .bb
 languages:

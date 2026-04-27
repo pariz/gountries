@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Surinamer
+altspellings:
+    - Suriname
+    - Surinam
+    - スリナム
+    - SR
+    - Sarnam
+    - Sranangron
+    - Republic of Suriname
+    - Republiek Suriname
 tlds:
     - .sr
 languages:

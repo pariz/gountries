@@ -11,6 +11,20 @@ name:
 eumember: false
 landlocked: true
 nationality: Kazakhstani
+altspellings:
+    - Kazakhstan
+    - Kasachstan
+    - Kazajistán
+    - カザフスタン
+    - Kazachstan
+    - KZ
+    - Qazaqstan
+    - Казахстан
+    - Republic of Kazakhstan
+    - Қазақстан Республикасы
+    - Qazaqstan Respublïkası
+    - Республика Казахстан
+    - Respublika Kazakhstan
 tlds:
     - .kz
     - .қаз

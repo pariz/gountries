@@ -14,6 +14,14 @@ name:
 eumember: false
 landlocked: true
 nationality: Rwandan
+altspellings:
+    - Rwanda
+    - Ruanda
+    - ルワンダ
+    - RW
+    - Republic of Rwanda
+    - Repubulika y'u Rwanda
+    - République du Rwanda
 tlds:
     - .rw
 languages:

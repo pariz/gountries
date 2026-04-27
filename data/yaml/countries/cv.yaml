@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Cape Verdian
+altspellings:
+    - Cape Verde
+    - Kap Verde
+    - Cap Vert
+    - Cabo Verde
+    - カーボベルデ
+    - Kaapverdië
+    - CV
+    - Republic of Cabo Verde
+    - República de Cabo Verde
 tlds:
     - .cv
 languages:

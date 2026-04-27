@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Caymanian
+altspellings:
+    - Cayman Islands
+    - Kaimaninseln
+    - Îles Caïmans
+    - Islas Caimán
+    - ケイマン諸島
+    - Caymaneilanden
+    - KY
 tlds:
     - .ky
 languages:

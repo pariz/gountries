@@ -8,6 +8,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Liberian
+altspellings:
+    - Liberia
+    - リベリア
+    - LR
+    - Republic of Liberia
 tlds:
     - .lr
 languages:

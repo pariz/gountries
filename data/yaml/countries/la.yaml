@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: true
 nationality: Laotian
+altspellings:
+    - Laos
+    - ラオス人民民主共和国
+    - Lao People s Democratic Republic
+    - LA
+    - Lao
+    - Lao People's Democratic Republic
+    - Sathalanalat Paxathipatai Paxaxon Lao
 tlds:
     - .la
 languages:

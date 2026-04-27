@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: true
 nationality: Slovak
+altspellings:
+    - Slovakia
+    - Slowakei
+    - Slovaquie
+    - República Eslovaca
+    - スロバキア
+    - Slowakije
+    - SK
+    - Slovak Republic
+    - Slovenská republika
 tlds:
     - .sk
 languages:

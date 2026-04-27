@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Maldivan
+altspellings:
+    - Maldives
+    - Malediven
+    - Maldivas
+    - モルディブ
+    - Maldiven
+    - MV
+    - Maldive Islands
+    - Republic of the Maldives
+    - Dhivehi Raajjeyge Jumhooriyya
 tlds:
     - .mv
 languages:

@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Romanian
+altspellings:
+    - Romania
+    - Rumänien
+    - Roumanie
+    - Rumania
+    - ルーマニア
+    - Roemenië
+    - RO
+    - Roumania
+    - România
 tlds:
     - .ro
 languages:

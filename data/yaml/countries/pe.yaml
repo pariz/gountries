@@ -14,6 +14,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Peruvian
+altspellings:
+    - Peru
+    - Pérou
+    - Perú
+    - ペルー
+    - PE
+    - Republic of Peru
+    - República del Perú
 tlds:
     - .pe
 languages:

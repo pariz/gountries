@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Bruneian
+altspellings:
+    - Brunei
+    - ブルネイ・ダルサラーム
+    - BN
+    - Brunei Darussalam
+    - Nation of Brunei
+    - the Abode of Peace
 tlds:
     - .bn
 languages:

@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Wallis and Futuna Islander
+altspellings:
+    - Wallis and Futuna
+    - Wallis und Futuna
+    - Wallis et Futuna
+    - Wallis y Futuna
+    - ウォリス・フツナ
+    - Wallis en Futuna
+    - WF
+    - Territory of the Wallis and Futuna Islands
+    - Territoire des îles Wallis et Futuna
 tlds:
     - .wf
 languages:

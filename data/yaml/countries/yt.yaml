@@ -8,6 +8,12 @@ name:
 eumember: true
 landlocked: false
 nationality: French
+altspellings:
+    - Mayotte
+    - マヨット
+    - YT
+    - Department of Mayotte
+    - Département de Mayotte
 tlds:
     - .yt
 languages:

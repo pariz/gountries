@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Syrian
+altspellings:
+    - Syria
+    - سوريا
+    - سورية
+    - Syrien
+    - Syrie
+    - Siria
+    - シリア・アラブ共和国
+    - Syrië
+    - SY
+    - Syrian Arab Republic
+    - Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah
 tlds:
     - .sy
     - سوريا.

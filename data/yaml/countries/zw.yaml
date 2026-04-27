@@ -50,6 +50,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Zimbabwean
+altspellings:
+    - Zimbabwe
+    - Simbabwe
+    - Zimbabue
+    - ジンバブエ
+    - ZW
+    - Republic of Zimbabwe
 tlds:
     - .zw
 languages:

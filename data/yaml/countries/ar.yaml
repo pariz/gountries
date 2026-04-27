@@ -11,6 +11,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Argentinean
+altspellings:
+    - Argentina
+    - Argentinien
+    - Argentine
+    - アルゼンチン
+    - Argentinië
+    - AR
+    - Argentine Republic
+    - República Argentina
 tlds:
     - .ar
 languages:

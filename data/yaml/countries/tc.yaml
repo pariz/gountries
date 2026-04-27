@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Turks and Caicos Islander
+altspellings:
+    - Turks and Caicos Islands
+    - Turks- und Caicosinseln
+    - Îles Turks et Caïcos
+    - Islas Turks y Caicos
+    - タークス・カイコス諸島
+    - Turks- en Caicoseilanden
+    - Turks and Caicos
+    - TC
 tlds:
     - .tc
 languages:

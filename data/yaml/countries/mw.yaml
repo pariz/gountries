@@ -11,6 +11,11 @@ name:
 eumember: false
 landlocked: true
 nationality: Malawian
+altspellings:
+    - Malawi
+    - マラウイ
+    - MW
+    - Republic of Malawi
 tlds:
     - .mw
 languages:

@@ -8,6 +8,15 @@ name:
 eumember: true
 landlocked: false
 nationality: Polish
+altspellings:
+    - Poland
+    - Polen
+    - Pologne
+    - Polonia
+    - ポーランド
+    - PL
+    - Republic of Poland
+    - Rzeczpospolita Polska
 tlds:
     - .pl
 languages:

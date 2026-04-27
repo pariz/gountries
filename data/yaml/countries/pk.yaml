@@ -11,6 +11,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Pakistani
+altspellings:
+    - Pakistan
+    - Paquistán
+    - パキスタン
+    - PK
+    - Pākistān
+    - Islamic Republic of Pakistan
+    - Islāmī Jumhūriya'eh Pākistān
 tlds:
     - .pk
 languages:

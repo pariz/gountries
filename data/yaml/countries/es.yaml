@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Spanish
+altspellings:
+    - Spain
+    - Spanien
+    - Espagne
+    - España
+    - スペイン
+    - Spanje
+    - ES
+    - Kingdom of Spain
+    - Reino de España
 tlds:
     - .es
 languages:

@@ -11,6 +11,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Malagasy
+altspellings:
+    - Madagascar
+    - Madagaskar
+    - the Republic of Madagascar
+    - マダガスカル
+    - MG
+    - Republic of Madagascar
+    - Repoblikan'i Madagasikara
+    - République de Madagascar
 tlds:
     - .mg
 languages:

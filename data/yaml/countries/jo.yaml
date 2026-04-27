@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Jordanian
+altspellings:
+    - Jordan
+    - الأردن
+    - Jordanien
+    - Jordanie
+    - Jordania
+    - ヨルダン
+    - Jordanië
+    - JO
+    - Hashemite Kingdom of Jordan
+    - al-Mamlakah al-Urdunīyah al-Hāshimīyah
 tlds:
     - .jo
     - الاردن.

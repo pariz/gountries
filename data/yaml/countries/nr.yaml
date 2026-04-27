@@ -11,6 +11,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Nauruan
+altspellings:
+    - Nauru
+    - ナウル
+    - NR
+    - Naoero
+    - Pleasant Island
+    - Republic of Nauru
+    - Ripublik Naoero
 tlds:
     - .nr
 languages:

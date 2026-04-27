@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Omani
+altspellings:
+    - Oman
+    - عمان
+    - Omán
+    - オマーン
+    - OM
+    - Sultanate of Oman
+    - Salṭanat ʻUmān
 tlds:
     - .om
 languages:

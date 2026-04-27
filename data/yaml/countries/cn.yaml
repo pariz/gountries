@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Chinese
+altspellings:
+    - China
+    - Chine
+    - 中国
+    - CN
+    - Zhōngguó
+    - Zhongguo
+    - Zhonghua
+    - People's Republic of China
+    - 中华人民共和国
+    - Zhōnghuá Rénmín Gònghéguó
 tlds:
     - .cn
     - .中国

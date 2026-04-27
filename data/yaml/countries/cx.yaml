@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Christmas Island
+altspellings:
+    - Christmas Island
+    - Weihnachtsinsel
+    - クリスマス島
+    - Christmaseiland
+    - CX
+    - Territory of Christmas Island
 tlds:
     - .cx
 languages:

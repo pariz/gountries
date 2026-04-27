@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Anguillian
+altspellings:
+    - Anguilla
+    - アンギラ
+    - AI
 tlds:
     - .ai
 languages:

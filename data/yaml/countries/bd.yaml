@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Bangladeshi
+altspellings:
+    - Bangladesh
+    - Bangladesch
+    - バングラデシュ
+    - BD
+    - People's Republic of Bangladesh
+    - Gônôprôjatôntri Bangladesh
 tlds:
     - .bd
 languages:

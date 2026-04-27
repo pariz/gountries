@@ -14,6 +14,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Eritrean
+altspellings:
+    - Eritrea
+    - إريتريا
+    - Érythrée
+    - エリトリア
+    - ER
+    - State of Eritrea
+    - ሃገረ ኤርትራ
+    - Dawlat Iritriyá
+    - ʾErtrā
+    - Iritriyā
 tlds:
     - .er
 languages:

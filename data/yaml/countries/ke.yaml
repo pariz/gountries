@@ -11,6 +11,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Kenyan
+altspellings:
+    - Kenya
+    - Kenia
+    - ケニア
+    - KE
+    - Republic of Kenya
+    - Jamhuri ya Kenya
 tlds:
     - .ke
 languages:

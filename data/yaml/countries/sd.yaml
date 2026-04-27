@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Sudanese
+altspellings:
+    - Sudan
+    - السودان
+    - Soudan
+    - Sudán
+    - スーダン
+    - Soedan
+    - SD
+    - Republic of the Sudan
+    - Jumhūrīyat as-Sūdān
 tlds:
     - .sd
 languages:

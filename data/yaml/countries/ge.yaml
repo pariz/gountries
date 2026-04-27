@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Georgian
+altspellings:
+    - Georgia
+    - Georgien
+    - Géorgie
+    - グルジア
+    - Georgië
+    - GE
+    - Sakartvelo
 tlds:
     - .ge
 languages:

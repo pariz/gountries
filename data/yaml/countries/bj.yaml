@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Beninese
+altspellings:
+    - Benin
+    - Bénin
+    - ベナン
+    - BJ
+    - Republic of Benin
+    - République du Bénin
 tlds:
     - .bj
 languages:

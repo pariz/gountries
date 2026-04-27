@@ -14,6 +14,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Dutch
+altspellings:
+    - Curaçao
+    - キュラソー島
+    - CW
+    - Curacao
+    - Kòrsou
+    - Country of Curaçao
+    - Land Curaçao
+    - Pais Kòrsou
 tlds:
     - .cw
 languages:

@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Kittian and Nevisian
+altspellings:
+    - Saint Kitts and Nevis
+    - Föderation St. Kitts und Nevis
+    - Saint Kitts et Nevis
+    - Saint Kitts y Nevis
+    - セントクリストファー・ネイビス
+    - Saint Kitts en Nevis
+    - St. Kitts and Nevis
+    - St Kitts and Nevis
+    - KN
+    - Federation of Saint Christopher and Nevis
 tlds:
     - .kn
 languages:

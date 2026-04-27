@@ -11,6 +11,19 @@ name:
 eumember: false
 landlocked: true
 nationality: Belarusian
+altspellings:
+    - Belarus
+    - Weißrussland
+    - Biélorussie
+    - Bielorrusia
+    - ベラルーシ
+    - Wit-Rusland
+    - Беларусь
+    - BY
+    - Bielaruś
+    - Republic of Belarus
+    - Белоруссия
+    - Республика Белоруссия
 tlds:
     - .by
 languages:

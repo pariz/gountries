@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: true
 nationality: Azerbaijani
+altspellings:
+    - Azerbaijan
+    - Aserbaidschan
+    - Azerbaïdjan
+    - Azerbaiyán
+    - アゼルバイジャン
+    - Azerbeidzjan
+    - AZ
+    - Republic of Azerbaijan
+    - Azərbaycan Respublikası
 tlds:
     - .az
 languages:

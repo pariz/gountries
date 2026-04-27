@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Indonesian
+altspellings:
+    - Indonesia
+    - Indonesien
+    - Indonésie
+    - インドネシア
+    - Indonesië
+    - ID
+    - Republic of Indonesia
+    - Republik Indonesia
 tlds:
     - .id
 languages:

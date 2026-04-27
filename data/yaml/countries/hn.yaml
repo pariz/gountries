@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Honduran
+altspellings:
+    - Honduras
+    - ホンジュラス
+    - HN
+    - Republic of Honduras
+    - República de Honduras
 tlds:
     - .hn
 languages:

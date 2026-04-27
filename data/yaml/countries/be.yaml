@@ -14,6 +14,19 @@ name:
 eumember: true
 landlocked: false
 nationality: Belgian
+altspellings:
+    - Belgium
+    - Belgien
+    - Belgique
+    - Bélgica
+    - ベルギー
+    - België
+    - BE
+    - Belgie
+    - Kingdom of Belgium
+    - Koninkrijk België
+    - Royaume de Belgique
+    - Königreich Belgien
 tlds:
     - .be
 languages:

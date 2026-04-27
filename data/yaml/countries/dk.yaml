@@ -8,6 +8,17 @@ name:
 eumember: true
 landlocked: false
 nationality: Danish
+altspellings:
+    - Denmark
+    - Dänemark
+    - Danemark
+    - Dinamarca
+    - デンマーク
+    - Denemarken
+    - DK
+    - Danmark
+    - Kingdom of Denmark
+    - Kongeriget Danmark
 tlds:
     - .dk
 languages:

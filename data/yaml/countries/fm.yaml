@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Micronesian
+altspellings:
+    - Micronesia
+    - Mikronesien
+    - Micronésie
+    - ミクロネシア連邦
+    - Micronesië
+    - FM
+    - Federated States of Micronesia
+    - Micronesia, Federated States of
 tlds:
     - .fm
 languages:

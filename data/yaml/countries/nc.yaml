@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: New Caledonian
+altspellings:
+    - New Caledonia
+    - Neukaledonien
+    - Nouvelle-Calédonie
+    - Nueva Caledonia
+    - ニューカレドニア
+    - Nieuw-Caledonië
+    - NC
 tlds:
     - .nc
 languages:

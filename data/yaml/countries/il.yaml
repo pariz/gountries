@@ -11,6 +11,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Israeli
+altspellings:
+    - Israel
+    - Israël
+    - イスラエル
+    - IL
+    - State of Israel
+    - Medīnat Yisrā'el
 tlds:
     - .il
 languages:

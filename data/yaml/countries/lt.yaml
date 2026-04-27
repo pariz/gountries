@@ -8,6 +8,18 @@ name:
 eumember: true
 landlocked: false
 nationality: Lithuanian
+altspellings:
+    - Lithuania
+    - Litauen
+    - Lituanie
+    - Lituania
+    - リトアニア
+    - Litouwen
+    - Літва
+    - Lietuva
+    - LT
+    - Republic of Lithuania
+    - Lietuvos Respublika
 tlds:
     - .lt
 languages:

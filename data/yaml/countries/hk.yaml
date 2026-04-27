@@ -11,6 +11,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Hong Kongese
+altspellings:
+    - Hong Kong
+    - 香港
+    - Hongkong
+    - HK
 tlds:
     - .hk
     - .香港

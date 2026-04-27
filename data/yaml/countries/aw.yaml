@@ -11,6 +11,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Aruban
+altspellings:
+    - Aruba
+    - アルバ
+    - AW
 tlds:
     - .aw
 languages:

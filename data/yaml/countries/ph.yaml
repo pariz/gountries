@@ -11,6 +11,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Filipino
+altspellings:
+    - Philippines
+    - Philippinen
+    - Filipinas
+    - フィリピン
+    - Filipijnen
+    - PH
+    - Republic of the Philippines
+    - Repúblika ng Pilipinas
 tlds:
     - .ph
 languages:

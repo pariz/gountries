@@ -20,6 +20,22 @@ name:
 eumember: false
 landlocked: false
 nationality: Congolese
+altspellings:
+    - Congo (Democratic Republic of the)
+    - Congo (Dem. Rep.)
+    - Kongo (Dem. Rep.)
+    - Congo (Rep. Dem.)
+    - コンゴ民主共和国
+    - Congo [DRC]
+    - Democratic Republic of the Congo
+    - Congo, Democratic Republic of
+    - Congo (Kinshasa)
+    - CD
+    - DR Congo
+    - Congo-Kinshasa
+    - Congo, the Democratic Republic of the
+    - Democratic Republic of Congo
+    - DRC
 tlds:
     - .cd
 languages:

@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Mozambican
+altspellings:
+    - Mozambique
+    - Mosambik
+    - モザンビーク
+    - MZ
+    - Republic of Mozambique
+    - República de Moçambique
 tlds:
     - .mz
 languages:

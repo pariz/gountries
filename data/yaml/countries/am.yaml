@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: true
 nationality: Armenian
+altspellings:
+    - Armenia
+    - Armenien
+    - Arménie
+    - アルメニア
+    - Armenië
+    - AM
+    - Hayastan
+    - Republic of Armenia
+    - Հայաստանի Հանրապետություն
 tlds:
     - .am
 languages:

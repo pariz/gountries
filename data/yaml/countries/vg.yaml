@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Virgin Islander
+altspellings:
+    - British Virgin Islands
+    - Britische Jungferninseln
+    - Îles Vierges britanniques
+    - Islas Vírgenes del Reino Unido
+    - イギリス領ヴァージン諸島
+    - Britse Maagdeneilanden
+    - Virgin Islands (British)
+    - VG
+    - Virgin Islands, British
 tlds:
     - .vg
 languages:

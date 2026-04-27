@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Dominican
+altspellings:
+    - Dominican Republic
+    - Dominikanische Republik
+    - République Dominicaine
+    - República Dominicana
+    - ドミニカ共和国
+    - Dominicaanse Republiek
+    - DO
 tlds:
     - .do
 languages:

@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Andorran
+altspellings:
+    - Andorre
+    - Andorra
+    - アンドラ
+    - AD
+    - Principality of Andorra
+    - Principat d'Andorra
 tlds:
     - .ad
 languages:

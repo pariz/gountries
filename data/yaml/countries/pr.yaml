@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Puerto Rican
+altspellings:
+    - Puerto Rico
+    - プエルトリコ
+    - PR
+    - Commonwealth of Puerto Rico
+    - Estado Libre Asociado de Puerto Rico
 tlds:
     - .pr
 languages:

@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: French
+altspellings:
+    - Saint Pierre and Miquelon
+    - Saint-Pierre und Miquelon
+    - Saint-Pierre-et-Miquelon
+    - San Pedro y Miquelón
+    - サンピエール島・ミクロン島
+    - Saint Pierre en Miquelon
+    - PM
+    - Collectivité territoriale de Saint-Pierre-et-Miquelon
 tlds:
     - .pm
 languages:

@@ -8,6 +8,14 @@ name:
 eumember: true
 landlocked: false
 nationality: French
+altspellings:
+    - Saint Martin
+    - サン・マルタン（フランス領）
+    - Saint-Martin
+    - MF
+    - Collectivity of Saint Martin
+    - Collectivité de Saint-Martin
+    - Saint Martin (French part)
 tlds:
     - .fr
     - .gp

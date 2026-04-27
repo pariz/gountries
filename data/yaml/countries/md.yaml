@@ -8,6 +8,19 @@ name:
 eumember: false
 landlocked: true
 nationality: Moldovan
+altspellings:
+    - Moldova
+    - Moldawien
+    - Moldavie
+    - Moldavia
+    - Moldova (Republic of)
+    - the Republic of Moldova
+    - モルドバ共和国
+    - Moldavië
+    - MD
+    - Moldova, Republic of
+    - Republic of Moldova
+    - Republica Moldova
 tlds:
     - .md
 languages:

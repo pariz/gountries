@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Sao Tomean
+altspellings:
+    - São Tomé and Príncipe
+    - São Tomé und Príncipe
+    - São Tomé et Príncipe
+    - Santo Tomé y Príncipe
+    - サントメ・プリンシペ
+    - Sao Tomé en Principe
+    - ST
+    - Democratic Republic of São Tomé and Príncipe
+    - Sao Tome and Principe
+    - República Democrática de São Tomé e Príncipe
 tlds:
     - .st
 languages:

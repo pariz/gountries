@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Sammarinese
+altspellings:
+    - San Marino
+    - Saint-Marin
+    - サンマリノ
+    - SM
+    - Republic of San Marino
+    - Repubblica di San Marino
 tlds:
     - .sm
 languages:

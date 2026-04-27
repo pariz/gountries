@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Trinidadian
+altspellings:
+    - Trinidad and Tobago
+    - Trinidad und Tobago
+    - Trinité et Tobago
+    - Trinidad y Tobago
+    - トリニダード・トバゴ
+    - Trinidad en Tobago
+    - TT
+    - Republic of Trinidad and Tobago
 tlds:
     - .tt
 languages:

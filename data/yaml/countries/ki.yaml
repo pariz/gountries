@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: I-Kiribati
+altspellings:
+    - Kiribati
+    - キリバス
+    - KI
+    - Republic of Kiribati
+    - Ribaberiki Kiribati
 tlds:
     - .ki
 languages:

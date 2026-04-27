@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Salvadoran
+altspellings:
+    - El Salvador
+    - Salvador
+    - エルサルバドル
+    - SV
+    - Republic of El Salvador
+    - República de El Salvador
 tlds:
     - .sv
 languages:

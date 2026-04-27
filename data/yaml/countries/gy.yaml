@@ -8,6 +8,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Guyanese
+altspellings:
+    - Guyana
+    - ガイアナ
+    - GY
+    - Co-operative Republic of Guyana
 tlds:
     - .gy
 languages:

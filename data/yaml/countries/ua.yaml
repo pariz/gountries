@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Ukrainian
+altspellings:
+    - Ukraine
+    - Ucrania
+    - ウクライナ
+    - Oekraïne
+    - Украина
+    - Україна
+    - Украіна
+    - UA
+    - Ukrayina
 tlds:
     - .ua
     - .укр

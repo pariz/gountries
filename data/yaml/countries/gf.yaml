@@ -8,6 +8,15 @@ name:
 eumember: true
 landlocked: false
 nationality: French Guianan
+altspellings:
+    - French Guiana
+    - Französisch Guyana
+    - Guayana Francesa
+    - フランス領ギアナ
+    - Frans-Guyana
+    - GF
+    - Guiana
+    - Guyane
 tlds:
     - .gf
 languages:

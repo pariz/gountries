@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Ghanaian
+altspellings:
+    - Ghana
+    - ガーナ
+    - GH
 tlds:
     - .gh
 languages:

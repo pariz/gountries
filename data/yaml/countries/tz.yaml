@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Tanzanian
+altspellings:
+    - Tanzania
+    - Tansania
+    - Tanzanie
+    - タンザニア
+    - Tanzania United Republic
+    - TZ
+    - Tanzania, United Republic of
+    - United Republic of Tanzania
+    - Jamhuri ya Muungano wa Tanzania
 tlds:
     - .tz
 languages:

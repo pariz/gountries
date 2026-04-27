@@ -11,6 +11,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Haitian
+altspellings:
+    - Haiti
+    - ハイチ
+    - Haïti
+    - HT
+    - Republic of Haiti
+    - République d'Haïti
+    - Repiblik Ayiti
 tlds:
     - .ht
 languages:

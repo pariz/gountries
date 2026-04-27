@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Moroccan
+altspellings:
+    - Morocco
+    - المغرب
+    - Marokko
+    - Maroc
+    - Marruecos
+    - モロッコ
+    - MA
+    - Kingdom of Morocco
+    - Al-Mamlakah al-Maġribiyah
 tlds:
     - .ma
     - المغرب.

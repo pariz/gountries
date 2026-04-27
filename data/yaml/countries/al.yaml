@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Albanian
+altspellings:
+    - Albania
+    - Albanien
+    - Albanie
+    - アルバニア
+    - Albanië
+    - AL
+    - Shqipëri
+    - Shqipëria
+    - Shqipnia
 tlds:
     - .al
 languages:

@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: South Georgia and the South Sandwich Islander
+altspellings:
+    - South Georgia
+    - South Georgia and the South Sandwich Islands
+    - Südgeorgien und die Südlichen Sandwichinseln
+    - サウスジョージア・サウスサンドウィッチ諸島
+    - Zuid-Georgia en Zuidelijke Sandwicheilanden
+    - GS
 tlds:
     - .gs
 languages:

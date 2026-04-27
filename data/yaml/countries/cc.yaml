@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Cocos Islander
+altspellings:
+    - Cocos (Keeling) Islands
+    - Kokosinseln
+    - ココス（キーリング）諸島
+    - Cocoseilanden
+    - CC
+    - Keeling Islands
+    - Cocos Islands
 tlds:
     - .cc
 languages:

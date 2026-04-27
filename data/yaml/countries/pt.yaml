@@ -8,6 +8,13 @@ name:
 eumember: true
 landlocked: false
 nationality: Portuguese
+altspellings:
+    - Portugal
+    - ポルトガル
+    - PT
+    - Portuguesa
+    - Portuguese Republic
+    - República Portuguesa
 tlds:
     - .pt
 languages:

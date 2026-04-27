@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Marshallese
+altspellings:
+    - Marshall Islands
+    - Marshallinseln
+    - Îles Marshall
+    - Islas Marshall
+    - マーシャル諸島
+    - Marshalleilanden
+    - MH
+    - Republic of the Marshall Islands
+    - Aolepān Aorōkin M̧ajeļ
 tlds:
     - .mh
 languages:

@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Lebanese
+altspellings:
+    - Lebanon
+    - لبنان
+    - Libanon
+    - Liban
+    - Líbano
+    - レバノン
+    - LB
+    - Lebanese Republic
+    - Al-Jumhūrīyah Al-Libnānīyah
 tlds:
     - .lb
 languages:

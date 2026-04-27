@@ -8,6 +8,11 @@ name:
 eumember: false
 landlocked: false
 nationality: Montenegrin
+altspellings:
+    - Crna Gora
+    - Montenegro
+    - モンテネグロ
+    - ME
 tlds:
     - .me
 languages:

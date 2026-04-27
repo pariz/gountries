@@ -8,6 +8,15 @@ name:
 eumember: true
 landlocked: false
 nationality: Estonian
+altspellings:
+    - Estonia
+    - Estland
+    - Estonie
+    - エストニア
+    - EE
+    - Eesti
+    - Republic of Estonia
+    - Eesti Vabariik
 tlds:
     - .ee
 languages:

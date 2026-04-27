@@ -11,6 +11,17 @@ name:
 eumember: false
 landlocked: true
 nationality: Uzbekistani
+altspellings:
+    - Uzbekistan
+    - Usbekistan
+    - Ouzbékistan
+    - Uzbekistán
+    - ウズベキスタン
+    - Oezbekistan
+    - UZ
+    - Republic of Uzbekistan
+    - O‘zbekiston Respublikasi
+    - Ўзбекистон Республикаси
 tlds:
     - .uz
 languages:

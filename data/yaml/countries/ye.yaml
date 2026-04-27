@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Yemeni
+altspellings:
+    - Yemen
+    - اليمن
+    - Jemen
+    - Yémen
+    - イエメン
+    - YE
+    - Yemeni Republic
+    - al-Jumhūriyyah al-Yamaniyyah
 tlds:
     - .ye
 languages:

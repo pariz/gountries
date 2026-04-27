@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Saudi Arabian
+altspellings:
+    - Saudi Arabia
+    - Kingdom of Saudi Arabia
+    - السعودية
+    - Saudi-Arabien
+    - Arabie Saoudite
+    - Arabia Saudí
+    - サウジアラビア
+    - Saoedi-Arabië
+    - Saudi
+    - SA
+    - Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah
 tlds:
     - .sa
     - .السعودية

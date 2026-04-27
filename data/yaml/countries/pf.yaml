@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: French Polynesian
+altspellings:
+    - French Polynesia
+    - Französisch-Polynesien
+    - Polynésie Française
+    - Polinesia Francesa
+    - フランス領ポリネシア
+    - Frans-Polynesië
+    - PF
+    - Pōrīnetia Farāni
 tlds:
     - .pf
 languages:

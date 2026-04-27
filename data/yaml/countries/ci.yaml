@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Ivorian
+altspellings:
+    - Côte D'Ivoire
+    - Elfenbeinküste
+    - コートジボワール
+    - Ivoorkust
+    - Cote D'Ivoire (Ivory Coast)
+    - Cote d Ivoire (Ivory Coast)
+    - Ivory Coast
+    - CI
+    - Cote d'Ivoire
+    - Republic of Côte d'Ivoire
+    - République de Côte d'Ivoire
 tlds:
     - .ci
 languages:

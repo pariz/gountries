@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Gambian
+altspellings:
+    - Gambia
+    - The Gambia
+    - ガンビア
+    - GM
+    - Republic of the Gambia
 tlds:
     - .gm
 languages:

@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Jamaican
+altspellings:
+    - Jamaica
+    - Jamaika
+    - Jamaïque
+    - ジャマイカ
+    - JM
 tlds:
     - .jm
 languages:

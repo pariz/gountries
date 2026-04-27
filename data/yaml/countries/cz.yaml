@@ -11,6 +11,17 @@ name:
 eumember: true
 landlocked: true
 nationality: Czech
+altspellings:
+    - Czech Republic
+    - Tschechische Republik
+    - République Tchèque
+    - República Checa
+    - チェコ
+    - Tsjechië
+    - Czechia
+    - Česká republika
+    - CZ
+    - Česko
 tlds:
     - .cz
 languages:

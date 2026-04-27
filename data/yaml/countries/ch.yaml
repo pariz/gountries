@@ -17,6 +17,17 @@ name:
 eumember: false
 landlocked: true
 nationality: Swiss
+altspellings:
+    - Switzerland
+    - Schweiz
+    - Suisse
+    - Suiza
+    - スイス
+    - Zwitserland
+    - CH
+    - Swiss Confederation
+    - Svizzera
+    - Svizra
 tlds:
     - .ch
 languages:

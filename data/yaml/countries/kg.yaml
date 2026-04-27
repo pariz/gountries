@@ -11,6 +11,19 @@ name:
 eumember: false
 landlocked: true
 nationality: Kirghiz
+altspellings:
+    - Kyrgyzstan
+    - Kirgisistan
+    - Kirghizistan
+    - Kirguizistán
+    - キルギス
+    - Kirgizië
+    - Kyrgzstan
+    - KG
+    - Киргизия
+    - Kyrgyz Republic
+    - Кыргыз Республикасы
+    - Kyrgyz Respublikasy
 tlds:
     - .kg
 languages:

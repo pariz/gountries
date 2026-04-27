@@ -11,6 +11,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Djibouti
+altspellings:
+    - Djibouti
+    - جيبوتي
+    - Dschibuti
+    - ジブチ
+    - DJ
+    - Jabuuti
+    - Gabuuti
+    - Republic of Djibouti
+    - République de Djibouti
+    - Gabuutih Ummuuno
+    - Jamhuuriyadda Jabuuti
 tlds:
     - .dj
 languages:

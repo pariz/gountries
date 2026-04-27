@@ -11,6 +11,17 @@ name:
 eumember: false
 landlocked: false
 nationality: American Samoan
+altspellings:
+    - American Samoa
+    - Amerikanisch-Samoa
+    - Samoa américaines
+    - Samoa Americana
+    - アメリカ領サモア
+    - Amerikaans Samoa
+    - AS
+    - Amerika Sāmoa
+    - Amelika Sāmoa
+    - Sāmoa Amelika
 tlds:
     - .as
 languages:

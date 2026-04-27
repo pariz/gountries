@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Monegasque
+altspellings:
+    - Monaco
+    - Mónaco
+    - モナコ
+    - MC
+    - Principality of Monaco
+    - Principauté de Monaco
 tlds:
     - .mc
 languages:

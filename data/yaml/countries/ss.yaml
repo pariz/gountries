@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: true
 nationality: South Sudanese
+altspellings:
+    - South Sudan
+    - Südsudan
+    - 南スーダン
+    - Zuid-Soedan
+    - SS
 tlds:
     - .ss
 languages:

@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: true
 nationality: Mosotho
+altspellings:
+    - Lesotho
+    - レソト
+    - LS
+    - Kingdom of Lesotho
+    - Muso oa Lesotho
 tlds:
     - .ls
 languages:

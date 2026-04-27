@@ -14,6 +14,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Comoran
+altspellings:
+    - Comoros
+    - Union der Komoren
+    - Comores
+    - コモロ
+    - Comoren
+    - KM
+    - Union of the Comoros
+    - Union des Comores
+    - Udzima wa Komori
+    - al-Ittiḥād al-Qumurī
 tlds:
     - .km
 languages:

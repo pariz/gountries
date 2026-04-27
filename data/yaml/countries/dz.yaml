@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Algerian
+altspellings:
+    - Algeria
+    - الجزائر
+    - Algerien
+    - Algérie
+    - Argelia
+    - アルジェリア
+    - Algerije
+    - DZ
+    - Dzayer
 tlds:
     - .dz
     - الجزائر.

@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Dominican
+altspellings:
+    - Dominica
+    - ドミニカ国
+    - DM
+    - Dominique
+    - Wai‘tu kubuli
+    - Commonwealth of Dominica
 tlds:
     - .dm
 languages:

@@ -8,6 +8,17 @@ name:
 eumember: true
 landlocked: false
 nationality: Greek
+altspellings:
+    - Greece
+    - Griechenland
+    - Grèce
+    - Grecia
+    - ギリシャ
+    - Griekenland
+    - GR
+    - Elláda
+    - Hellenic Republic
+    - Ελληνική Δημοκρατία
 tlds:
     - .gr
 languages:

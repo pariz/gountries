@@ -11,6 +11,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Norfolk Islander
+altspellings:
+    - Norfolk Island
+    - Norfolkinsel
+    - Île de Norfolk
+    - Isla de Norfolk
+    - ノーフォーク島
+    - Norfolkeiland
+    - NF
+    - Territory of Norfolk Island
+    - Teratri of Norf'k Ailen
 tlds:
     - .nf
 languages:

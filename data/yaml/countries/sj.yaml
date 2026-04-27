@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Norwegian
+altspellings:
+    - Svalbard and Jan Mayen
+    - Svalbard und Jan Mayen
+    - Îles Svalbard et Jan Mayen
+    - Islas Svalbard y Jan Mayen
+    - スヴァールバル諸島およびヤンマイエン島
+    - Svalbard en Jan Mayen
+    - SJ
+    - Svalbard and Jan Mayen Islands
 tlds:
     - .sj
 languages:

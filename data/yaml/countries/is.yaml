@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Icelander
+altspellings:
+    - Iceland
+    - Island
+    - Islande
+    - Islandia
+    - アイスランド
+    - IJsland
+    - IS
+    - Republic of Iceland
+    - Lýðveldið Ísland
 tlds:
     - .is
 languages:

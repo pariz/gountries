@@ -4,6 +4,13 @@ name:
 eumember: false
 landlocked: false
 nationality: ""
+altspellings:
+    - Antarctica
+    - Antarktis
+    - Antarctique
+    - Antártida
+    - 南極
+    - AQ
 tlds:
     - .aq
 translations:

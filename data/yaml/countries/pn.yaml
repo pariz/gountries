@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Pitcairn Islander
+altspellings:
+    - Pitcairn
+    - ピトケアン
+    - Pitcairneilanden
+    - Pitcairn Islands
+    - PN
+    - Pitcairn Henderson Ducie and Oeno Islands
 tlds:
     - .pn
 languages:

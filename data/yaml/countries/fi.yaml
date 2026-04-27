@@ -11,6 +11,17 @@ name:
 eumember: true
 landlocked: false
 nationality: Finnish
+altspellings:
+    - Finland
+    - Finnland
+    - Finlande
+    - Finlandia
+    - フィンランド
+    - FI
+    - Suomi
+    - Republic of Finland
+    - Suomen tasavalta
+    - Republiken Finland
 tlds:
     - .fi
 languages:

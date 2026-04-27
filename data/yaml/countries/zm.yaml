@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Zambian
+altspellings:
+    - Zambia
+    - Sambia
+    - Zambie
+    - ザンビア
+    - ZM
+    - Republic of Zambia
 tlds:
     - .zm
 languages:

@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Solomon Islander
+altspellings:
+    - Solomon Islands
+    - Salomonen
+    - Îles Salomon
+    - Islas Salomón
+    - ソロモン諸島
+    - Salomonseilanden
+    - SB
 tlds:
     - .sb
 languages:

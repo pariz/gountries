@@ -14,6 +14,16 @@ name:
 eumember: true
 landlocked: true
 nationality: Luxembourger
+altspellings:
+    - Luxembourg
+    - Luxemburg
+    - Luxemburgo
+    - ルクセンブルク
+    - LU
+    - Grand Duchy of Luxembourg
+    - Grand-Duché de Luxembourg
+    - Großherzogtum Luxemburg
+    - Groussherzogtum Lëtzebuerg
 tlds:
     - .lu
 languages:

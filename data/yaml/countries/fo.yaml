@@ -11,6 +11,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Faroese
+altspellings:
+    - Faroe Islands
+    - Färöer-Inseln
+    - Îles Féroé
+    - Islas Faroe
+    - フェロー諸島
+    - Faeröer
+    - FO
+    - Føroyar
+    - Færøerne
+    - Faeroe Islands
 tlds:
     - .fo
 languages:

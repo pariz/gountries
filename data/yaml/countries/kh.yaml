@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Cambodian
+altspellings:
+    - Cambodia
+    - Kambodscha
+    - Cambodge
+    - Camboya
+    - カンボジア
+    - Cambodja
+    - KH
+    - Kingdom of Cambodia
 tlds:
     - .kh
 languages:

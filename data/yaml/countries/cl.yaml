@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Chilean
+altspellings:
+    - Chile
+    - チリ
+    - Chili
+    - CL
+    - Republic of Chile
+    - República de Chile
 tlds:
     - .cl
 languages:

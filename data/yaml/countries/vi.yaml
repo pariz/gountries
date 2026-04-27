@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Virgin Islander
+altspellings:
+    - Virgin Islands of the United States
+    - Amerikanische Jungferninseln
+    - Îles Vierges américaines
+    - Islas Vírgenes de los Estados Unidos
+    - アメリカ領ヴァージン諸島
+    - Amerikaanse Maagdeneilanden
+    - Virgin Islands (U.S.)
+    - United States Virgin Islands
+    - U.S. Virgin Islands
+    - VI
+    - Virgin Islands, U.S.
 tlds:
     - .vi
 languages:

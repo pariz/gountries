@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Saint Lucian
+altspellings:
+    - Saint Lucia
+    - Saint-Lucie
+    - Santa Lucía
+    - セントルシア
+    - St. Lucia
+    - St Lucia
+    - LC
 tlds:
     - .lc
 languages:

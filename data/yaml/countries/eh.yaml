@@ -14,6 +14,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Sahrawi
+altspellings:
+    - Western Sahara
+    - الصحراء الغربية
+    - Westsahara
+    - Sahara Occidental
+    - 西サハラ
+    - Westelijke Sahara
+    - EH
+    - Taneẓroft Tutrimt
 tlds:
     - .eh
 languages:

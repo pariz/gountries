@@ -11,6 +11,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Tuvaluan
+altspellings:
+    - Tuvalu
+    - ツバル
+    - TV
 tlds:
     - .tv
 languages:

@@ -17,6 +17,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Singaporean
+altspellings:
+    - Singapore
+    - Singapur
+    - Singapour
+    - シンガポール
+    - SG
+    - Singapura
+    - Republik Singapura
+    - 新加坡共和国
 tlds:
     - .sg
     - .新加坡

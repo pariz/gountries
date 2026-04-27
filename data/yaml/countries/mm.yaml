@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Myanmarian
+altspellings:
+    - Myanmar (Burma)
+    - ミャンマー
+    - Burma
+    - MM
+    - Republic of the Union of Myanmar
+    - Pyidaunzu Thanmăda Myăma Nainngandaw
 tlds:
     - .mm
 languages:

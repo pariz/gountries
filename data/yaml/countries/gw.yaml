@@ -11,6 +11,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Guinea-Bissauan
+altspellings:
+    - Guinea-Bissau
+    - Guinée-Bissau
+    - ギニアビサウ
+    - Guinee-Bissau
+    - Guinea Bissau
+    - GW
+    - Republic of Guinea-Bissau
+    - República da Guiné-Bissau
 tlds:
     - .gw
 languages:

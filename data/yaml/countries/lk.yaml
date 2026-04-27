@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Sri Lankan
+altspellings:
+    - Sri Lanka
+    - スリランカ
+    - LK
+    - ilaṅkai
+    - Democratic Socialist Republic of Sri Lanka
 tlds:
     - .lk
     - .இலங்கை

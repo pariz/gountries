@@ -11,6 +11,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Ugandan
+altspellings:
+    - Uganda
+    - ウガンダ
+    - Oeganda
+    - UG
+    - Republic of Uganda
+    - Jamhuri ya Uganda
 tlds:
     - .ug
 languages:

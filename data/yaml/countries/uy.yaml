@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Uruguayan
+altspellings:
+    - Uruguay
+    - ウルグアイ
+    - UY
+    - Oriental Republic of Uruguay
+    - República Oriental del Uruguay
 tlds:
     - .uy
 languages:

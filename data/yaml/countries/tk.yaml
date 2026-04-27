@@ -14,6 +14,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Tokelauan
+altspellings:
+    - Tokelau
+    - Îles Tokelau
+    - Islas Tokelau
+    - トケラウ
+    - TK
 tlds:
     - .tk
 languages:

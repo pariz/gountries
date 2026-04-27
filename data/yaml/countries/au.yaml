@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Australian
+altspellings:
+    - Australia
+    - Australien
+    - Australie
+    - オーストラリア
+    - Australië
+    - 澳洲
+    - AU
 tlds:
     - .au
 languages:

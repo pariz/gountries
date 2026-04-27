@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Iranian
+altspellings:
+    - Iran
+    - Irán
+    - Iran (Islamic Republic Of)
+    - イラン・イスラム共和国
+    - Islamic Republic of Iran
+    - IR
+    - Iran, Islamic Republic of
+    - Jomhuri-ye Eslāmi-ye Irān
 tlds:
     - .ir
     - ایران.

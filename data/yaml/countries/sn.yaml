@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Senegalese
+altspellings:
+    - Senegal
+    - Sénégal
+    - セネガル
+    - SN
+    - Republic of Senegal
+    - République du Sénégal
 tlds:
     - .sn
 languages:

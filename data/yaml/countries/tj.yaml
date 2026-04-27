@@ -11,6 +11,18 @@ name:
 eumember: false
 landlocked: true
 nationality: Tadzhik
+altspellings:
+    - Tajikistan
+    - Tadschikistan
+    - Tayikistán
+    - タジキスタン
+    - Tadzjikistan
+    - Tajikstan
+    - TJ
+    - Toçikiston
+    - Republic of Tajikistan
+    - Ҷумҳурии Тоҷикистон
+    - Çumhuriyi Toçikiston
 tlds:
     - .tj
 languages:

@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: true
 nationality: Burkinabe
+altspellings:
+    - Burkina Faso
+    - ブルキナファソ
+    - BF
 tlds:
     - .bf
 languages:

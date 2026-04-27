@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Brazilian
+altspellings:
+    - Brazil
+    - Brasilien
+    - Brésil
+    - Brasil
+    - ブラジル
+    - Brazilië
+    - BR
+    - Federative Republic of Brazil
+    - República Federativa do Brasil
 tlds:
     - .br
 languages:

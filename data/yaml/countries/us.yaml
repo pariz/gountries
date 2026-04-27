@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: American
+altspellings:
+    - United States
+    - United States of America
+    - USA
+    - Vereinigte Staaten von Amerika
+    - États-Unis
+    - Estados Unidos
+    - アメリカ合衆国
+    - Verenigde Staten
+    - Соединенные Штаты Америки
+    - US
 tlds:
     - .us
 languages:

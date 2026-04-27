@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Vietnamese
+altspellings:
+    - Vietnam
+    - ベトナム
+    - Viet Nam
+    - VN
+    - Socialist Republic of Vietnam
+    - Cộng hòa Xã hội chủ nghĩa Việt Nam
 tlds:
     - .vn
 languages:

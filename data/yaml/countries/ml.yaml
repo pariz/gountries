@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: true
 nationality: Malian
+altspellings:
+    - Mali
+    - マリ
+    - ML
+    - Republic of Mali
+    - République du Mali
 tlds:
     - .ml
 languages:

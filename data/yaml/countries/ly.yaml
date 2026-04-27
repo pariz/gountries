@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Libyan
+altspellings:
+    - Libya
+    - ليبيا
+    - Libyen
+    - Libye
+    - Libia
+    - リビア
+    - Libië
+    - Libyan Arab Jamahiriya
+    - LY
+    - State of Libya
+    - Dawlat Libya
 tlds:
     - .ly
 languages:

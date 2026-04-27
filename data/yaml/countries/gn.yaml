@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Guinean
+altspellings:
+    - Guinea
+    - Guinée
+    - ギニア
+    - Guinee
+    - GN
+    - Republic of Guinea
+    - République de Guinée
 tlds:
     - .gn
 languages:

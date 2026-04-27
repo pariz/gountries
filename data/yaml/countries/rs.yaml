@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: true
 nationality: Serbian
+altspellings:
+    - Serbia
+    - Serbien
+    - Serbie
+    - セルビア
+    - Servië
+    - RS
+    - Srbija
+    - Republika Srbija
+    - Србија
+    - Република Србија
+    - Republic of Serbia
 tlds:
     - .rs
     - .срб

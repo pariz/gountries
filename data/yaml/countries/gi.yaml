@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Gibraltar
+altspellings:
+    - Gibraltar
+    - ジブラルタル
+    - GI
 tlds:
     - .gi
 languages:

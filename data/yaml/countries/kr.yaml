@@ -8,6 +8,20 @@ name:
 eumember: false
 landlocked: false
 nationality: South Korean
+altspellings:
+    - South Korea
+    - Korea (South)
+    - Südkorea
+    - Corée du Sud
+    - Corea del Sur
+    - 大韓民国
+    - Zuid-Korea
+    - Korea (Republic of)
+    - KR
+    - Korea, Republic of
+    - Republic of Korea
+    - 남한
+    - 남조선
 tlds:
     - .kr
     - .한국

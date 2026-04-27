@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Egyptian
+altspellings:
+    - Egypt
+    - مصر
+    - Ägypten
+    - Égypte
+    - Egipto
+    - エジプト
+    - Egypte
+    - EG
+    - Arab Republic of Egypt
 tlds:
     - .eg
     - .مصر

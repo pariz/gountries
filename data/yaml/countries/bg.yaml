@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Bulgarian
+altspellings:
+    - Bulgaria
+    - България
+    - Bulgarien
+    - Bulgarie
+    - ブルガリア
+    - Bulgarije
+    - BG
+    - Republic of Bulgaria
+    - Република България
 tlds:
     - .bg
 languages:

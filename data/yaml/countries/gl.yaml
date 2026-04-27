@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Greenlandic
+altspellings:
+    - Greenland
+    - Grönland
+    - Groenland
+    - Groenlandia
+    - グリーンランド
+    - GL
+    - Grønland
 tlds:
     - .gl
 languages:

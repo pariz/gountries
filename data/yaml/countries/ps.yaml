@@ -8,6 +8,20 @@ name:
 eumember: false
 landlocked: false
 nationality: Palestinian
+altspellings:
+    - Palestine
+    - فلسطين
+    - Palästina
+    - Palestina
+    - the Occupied Palestinian Territory
+    - パレスチナ
+    - Palestijnse gebieden
+    - Palestinian Territory Occupied
+    - Palestinian Authority
+    - PS
+    - Palestine, State of
+    - State of Palestine
+    - Dawlat Filasṭin
 tlds:
     - .ps
     - فلسطين.

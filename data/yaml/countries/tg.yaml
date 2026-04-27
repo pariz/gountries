@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Togolese
+altspellings:
+    - Togo
+    - トーゴ
+    - TG
+    - Togolese
+    - Togolese Republic
+    - République Togolaise
 tlds:
     - .tg
 languages:

@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Nigerian
+altspellings:
+    - Nigeria
+    - Nigéria
+    - the Federal Republic of Nigeria
+    - ナイジェリア
+    - NG
+    - Nijeriya
+    - Naíjíríà
+    - Federal Republic of Nigeria
 tlds:
     - .ng
 languages:

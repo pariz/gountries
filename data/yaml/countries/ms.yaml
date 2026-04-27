@@ -8,6 +8,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Montserratian
+altspellings:
+    - Montserrat
+    - モントセラト
+    - MS
 tlds:
     - .ms
 languages:

@@ -11,6 +11,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Tongan
+altspellings:
+    - Tonga
+    - トンガ
+    - TO
 tlds:
     - .to
 languages:

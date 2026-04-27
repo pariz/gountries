@@ -11,6 +11,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Dutch
+altspellings:
+    - Bonaire, Sint Eustatius and Saba
+    - Caribbean Netherlands
+    - Caribisch Nederland
+    - ボネール、シント・ユースタティウスおよびサバ
+    - BES islands
+    - Bonaire Sint Eustatius and Saba
 tlds:
     - .bq
     - .nl

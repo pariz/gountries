@@ -8,6 +8,18 @@ name:
 eumember: false
 landlocked: false
 nationality: Thai
+altspellings:
+    - Thailand
+    - Thaïlande
+    - Tailandia
+    - タイ
+    - ประเทศไทย
+    - TH
+    - Prathet
+    - Thai
+    - Kingdom of Thailand
+    - ราชอาณาจักรไทย
+    - Ratcha Anachak Thai
 tlds:
     - .th
     - .ไทย

@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Ecuadorean
+altspellings:
+    - Ecuador
+    - Équateur
+    - エクアドル
+    - EC
+    - Republic of Ecuador
+    - República del Ecuador
 tlds:
     - .ec
 languages:

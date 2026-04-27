@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: true
 nationality: Liechtensteiner
+altspellings:
+    - Liechtenstein
+    - リヒテンシュタイン
+    - LI
+    - Principality of Liechtenstein
+    - Fürstentum Liechtenstein
 tlds:
     - .li
 languages:

@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Venezuelan
+altspellings:
+    - Venezuela
+    - ベネズエラ・ボリバル共和国
+    - VE
+    - Bolivarian Republic of Venezuela
+    - Venezuela, Bolivarian Republic of
+    - República Bolivariana de Venezuela
 tlds:
     - .ve
 languages:

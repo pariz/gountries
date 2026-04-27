@@ -14,6 +14,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Bosnian, Herzegovinian
+altspellings:
+    - Bosnia and Herzegovina
+    - Bosnien und Herzegowina
+    - Bosnie et Herzégovine
+    - Bosnia y Herzegovina
+    - ボスニア・ヘルツェゴビナ
+    - Bosnië en Herzegovina
+    - Bosnia Herzegovina
+    - BA
+    - Bosnia-Herzegovina
+    - Босна и Херцеговина
 tlds:
     - .ba
 languages:

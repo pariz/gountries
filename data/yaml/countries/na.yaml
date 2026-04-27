@@ -32,6 +32,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Namibian
+altspellings:
+    - Namibia
+    - Namibie
+    - ナミビア
+    - Namibië
+    - NA
+    - Republic of Namibia
 tlds:
     - .na
 languages:

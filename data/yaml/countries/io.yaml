@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Indian
+altspellings:
+    - British Indian Ocean Territory
+    - Britisches Territorium im Indischen Ozean
+    - イギリス領インド洋地域
+    - Britse Gebieden in de Indische Oceaan
+    - IO
 tlds:
     - .io
 languages:

@@ -11,6 +11,10 @@ name:
 eumember: false
 landlocked: false
 nationality: Niuean
+altspellings:
+    - Niue
+    - ニウエ
+    - NU
 tlds:
     - .nu
 languages:

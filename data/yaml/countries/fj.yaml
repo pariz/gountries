@@ -14,6 +14,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Fijian
+altspellings:
+    - Fiji
+    - Fidschi
+    - Fidji
+    - フィジー
+    - FJ
+    - Viti
+    - Republic of Fiji
+    - Matanitu ko Viti
+    - Fijī Gaṇarājya
 tlds:
     - .fj
 languages:

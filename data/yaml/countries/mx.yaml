@@ -8,6 +8,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Mexican
+altspellings:
+    - Mexico
+    - Mexiko
+    - Mexique
+    - México
+    - メキシコ
+    - MX
+    - Mexicanos
+    - United Mexican States
+    - Estados Unidos Mexicanos
 tlds:
     - .mx
 languages:

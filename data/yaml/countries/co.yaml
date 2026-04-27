@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Colombian
+altspellings:
+    - Colombia
+    - Kolumbien
+    - Colombie
+    - コロンビア
+    - CO
+    - Republic of Colombia
+    - República de Colombia
 tlds:
     - .co
 languages:

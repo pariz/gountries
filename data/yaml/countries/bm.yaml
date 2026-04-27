@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Bermudian
+altspellings:
+    - Bermuda
+    - Bermudes
+    - Bermudas
+    - バミューダ
+    - BM
+    - The Islands of Bermuda
+    - The Bermudas
+    - Somers Isles
 tlds:
     - .bm
 languages:

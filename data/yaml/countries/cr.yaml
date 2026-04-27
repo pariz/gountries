@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Costa Rican
+altspellings:
+    - Costa Rica
+    - コスタリカ
+    - CR
+    - Republic of Costa Rica
+    - República de Costa Rica
 tlds:
     - .cr
 languages:

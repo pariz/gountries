@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Cuban
+altspellings:
+    - Cuba
+    - Kuba
+    - キューバ
+    - CU
+    - Republic of Cuba
+    - República de Cuba
 tlds:
     - .cu
 languages:

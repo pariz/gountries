@@ -8,6 +8,19 @@ name:
 eumember: false
 landlocked: false
 nationality: Taiwanese
+altspellings:
+    - Taiwan, Province of China
+    - Taiwan
+    - Taiwán
+    - 台灣
+    - 臺灣
+    - 台湾
+    - TW
+    - Táiwān
+    - Republic of China
+    - 中華民國
+    - Zhōnghuá Mínguó
+    - Chinese Taipei
 tlds:
     - .tw
     - .台灣

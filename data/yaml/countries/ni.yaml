@@ -8,6 +8,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Nicaraguan
+altspellings:
+    - Nicaragua
+    - ニカラグア
+    - NI
+    - Republic of Nicaragua
+    - República de Nicaragua
 tlds:
     - .ni
 languages:

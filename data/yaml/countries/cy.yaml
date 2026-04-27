@@ -11,6 +11,18 @@ name:
 eumember: true
 landlocked: false
 nationality: Cypriot
+altspellings:
+    - Cyprus
+    - Zypern
+    - Chypre
+    - Chipre
+    - キプロス
+    - CY
+    - Kýpros
+    - Kıbrıs
+    - Republic of Cyprus
+    - Κυπριακή Δημοκρατία
+    - Kıbrıs Cumhuriyeti
 tlds:
     - .cy
 languages:

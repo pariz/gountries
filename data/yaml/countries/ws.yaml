@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Samoan
+altspellings:
+    - Samoa
+    - サモア
+    - WS
+    - Independent State of Samoa
+    - Malo Saʻoloto Tutoʻatasi o Sāmoa
 tlds:
     - .ws
 languages:

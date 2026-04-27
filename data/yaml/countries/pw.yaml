@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: false
 nationality: Palauan
+altspellings:
+    - Palau
+    - パラオ
+    - PW
+    - Republic of Palau
+    - Beluu er a Belau
 tlds:
     - .pw
 languages:

@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Saint Barthélemy Islander
+altspellings:
+    - Saint Barthélemy
+    - Saint-Barthélemy
+    - サン・バルテルミー
+    - BL
+    - St. Barthelemy
+    - Collectivity of Saint Barthélemy
+    - Collectivité de Saint-Barthélemy
 tlds:
     - .bl
 languages:

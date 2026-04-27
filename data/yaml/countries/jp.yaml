@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: Japanese
+altspellings:
+    - Japan
+    - Japon
+    - Japón
+    - 日本
+    - JP
+    - Nippon
+    - Nihon
 tlds:
     - .jp
     - .みんな

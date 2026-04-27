@@ -11,6 +11,17 @@ name:
 eumember: false
 landlocked: true
 nationality: Swazi
+altspellings:
+    - Swaziland
+    - Swasiland
+    - Suazilandia
+    - スワジランド
+    - SZ
+    - weSwatini
+    - Swatini
+    - Ngwane
+    - Kingdom of Eswatini
+    - Umbuso weSwatini
 tlds:
     - .sz
 languages:

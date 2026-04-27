@@ -38,6 +38,17 @@ name:
 eumember: false
 landlocked: false
 nationality: South African
+altspellings:
+    - South Africa
+    - Republik Südafrika
+    - Afrique du Sud
+    - República de Sudáfrica
+    - 南アフリカ
+    - Zuid-Afrika
+    - ZA
+    - RSA
+    - Suid-Afrika
+    - Republic of South Africa
 tlds:
     - .za
 languages:

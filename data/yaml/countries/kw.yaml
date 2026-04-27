@@ -8,6 +8,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Kuwaiti
+altspellings:
+    - Kuwait
+    - الكويت
+    - Koweït
+    - クウェート
+    - Koeweit
+    - KW
+    - State of Kuwait
+    - Dawlat al-Kuwait
 tlds:
     - .kw
 languages:

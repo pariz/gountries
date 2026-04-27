@@ -8,6 +8,16 @@ name:
 eumember: true
 landlocked: false
 nationality: Swedish
+altspellings:
+    - Sweden
+    - Schweden
+    - Suède
+    - Suecia
+    - スウェーデン
+    - Zweden
+    - SE
+    - Kingdom of Sweden
+    - Konungariket Sverige
 tlds:
     - .se
 languages:

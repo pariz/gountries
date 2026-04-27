@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Tunisian
+altspellings:
+    - Tunisia
+    - تونس
+    - Tunesien
+    - Tunisie
+    - Túnez
+    - チュニジア
+    - Tunesië
+    - TN
+    - Republic of Tunisia
+    - al-Jumhūriyyah at-Tūnisiyyah
 tlds:
     - .tn
 languages:

@@ -11,6 +11,14 @@ name:
 eumember: false
 landlocked: true
 nationality: Central African
+altspellings:
+    - Central African Republic
+    - Zentralafrikanische Republik
+    - République Centrafricaine
+    - República Centroafricana
+    - 中央アフリカ共和国
+    - Centraal-Afrikaanse Republiek
+    - CF
 tlds:
     - .cf
 languages:

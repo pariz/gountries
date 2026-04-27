@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: true
 nationality: Bhutanese
+altspellings:
+    - Bhutan
+    - Bhoutan
+    - Bután
+    - ブータン
+    - BT
+    - Kingdom of Bhutan
 tlds:
     - .bt
 languages:

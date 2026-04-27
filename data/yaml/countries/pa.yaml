@@ -8,6 +8,13 @@ name:
 eumember: false
 landlocked: false
 nationality: Panamanian
+altspellings:
+    - Panama
+    - Panamá
+    - パナマ
+    - PA
+    - Republic of Panama
+    - República de Panamá
 tlds:
     - .pa
 languages:

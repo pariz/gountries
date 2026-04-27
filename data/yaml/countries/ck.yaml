@@ -11,6 +11,15 @@ name:
 eumember: false
 landlocked: false
 nationality: Cook Islander
+altspellings:
+    - Cook Islands
+    - Cookinseln
+    - Îles Cook
+    - Islas Cook
+    - クック諸島
+    - Cookeilanden
+    - CK
+    - Kūki 'Āirani
 tlds:
     - .ck
 languages:

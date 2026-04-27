@@ -8,6 +8,17 @@ name:
 eumember: false
 landlocked: false
 nationality: Turkish
+altspellings:
+    - Turkey
+    - Türkei
+    - Turquie
+    - Turquía
+    - トルコ
+    - Turkije
+    - TR
+    - Turkiye
+    - Republic of Turkey
+    - Türkiye Cumhuriyeti
 tlds:
     - .tr
 languages:

@@ -8,6 +8,11 @@ name:
 eumember: true
 landlocked: false
 nationality: French
+altspellings:
+    - Martinique
+    - Martinica
+    - マルティニーク
+    - MQ
 tlds:
     - .mq
 languages:

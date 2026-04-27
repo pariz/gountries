@@ -14,6 +14,16 @@ name:
 eumember: false
 landlocked: false
 nationality: American
+altspellings:
+    - Northern Mariana Islands
+    - Nördliche Marianen
+    - Mariannes du Nord
+    - Islas Marianas del Norte
+    - 北マリアナ諸島
+    - Noordelijke Marianeneilanden
+    - MP
+    - Commonwealth of the Northern Mariana Islands
+    - Sankattan Siha Na Islas Mariånas
 tlds:
     - .mp
 languages:

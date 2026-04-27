@@ -8,6 +8,25 @@ name:
 eumember: false
 landlocked: false
 nationality: North Korean
+altspellings:
+    - Korea (Democratic People's Republic of)
+    - Korea (North)
+    - North Korea
+    - Nordkorea
+    - Corée du Nord
+    - Corea del Norte
+    - 朝鮮民主主義人民共和国
+    - Noord-Korea
+    - Korea Democratic People's Republic
+    - Korea (Democratic People s Republic of)
+    - KP
+    - Democratic People's Republic of Korea
+    - DPRK
+    - 조선민주주의인민공화국
+    - Chosŏn Minjujuŭi Inmin Konghwaguk
+    - Korea, Democratic People's Republic of
+    - 북한
+    - 북조선
 tlds:
     - .kp
 languages:

@@ -11,6 +11,12 @@ name:
 eumember: false
 landlocked: true
 nationality: Motswana
+altspellings:
+    - Botswana
+    - ボツワナ
+    - BW
+    - Republic of Botswana
+    - Lefatshe la Botswana
 tlds:
     - .bw
 languages:

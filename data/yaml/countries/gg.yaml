@@ -14,6 +14,16 @@ name:
 eumember: false
 landlocked: false
 nationality: Channel Islander
+altspellings:
+    - Guernsey and Alderney
+    - Guernsey und Alderney
+    - Guernsey et Alderney
+    - Guernsey y Alderney
+    - ガーンジー
+    - Guernsey
+    - GG
+    - Bailiwick of Guernsey
+    - Bailliage de Guernesey
 tlds:
     - .gg
 languages:

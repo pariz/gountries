@@ -8,6 +8,14 @@ name:
 eumember: false
 landlocked: false
 nationality: American
+altspellings:
+    - United States Minor Outlying Islands
+    - US-Amerikanische Hoheitsgebiete
+    - Dépendances américaines
+    - Islas menores de Estados Unidos
+    - 合衆国領有小離島
+    - Kleine afgelegen eilanden van de Verenigde Staten
+    - UM
 tlds:
     - .us
 languages:
