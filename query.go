@@ -95,7 +95,7 @@ func (q Query) FindCountries(c Country) (countries []Country) {
 		// Name
 		//
 
-		if c.Name.Common != "" && strings.ToLower(c.Name.Common) == strings.ToLower(country.Name.Common) {
+		if c.Name.Common != "" && !strings.EqualFold(c.Name.Common, country.Name.Common) {
 			continue
 		}
 

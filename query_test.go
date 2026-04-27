@@ -8,6 +8,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestFindCountryByName(t *testing.T) {
@@ -167,6 +168,18 @@ func TestFindCountries(t *testing.T) {
 
 	assert.Equal(t, countries[0].Alpha2, "SE", fmt.Sprintf("Countries did not return expected result %s: %s", "SE", countries[0].Alpha2))
 
+}
+
+// TestFindCountriesByCommonName guards against a long-standing inversion bug
+// where FindCountries with Name.Common set returned every country EXCEPT the
+// one matching, due to a `==` that should have been `!=`.
+func TestFindCountriesByCommonName(t *testing.T) {
+	c := Country{}
+	c.Name.Common = "Sweden"
+
+	got := query.FindCountries(c)
+	require.Len(t, got, 1, "expected exactly one country to match common name 'Sweden'")
+	assert.Equal(t, "SE", got[0].Alpha2)
 }
 
 func TestFindCountriesByRegion(t *testing.T) {
