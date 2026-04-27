@@ -106,13 +106,14 @@ func populateCountries(fsys fs.FS, root string) map[string]Country {
 		if e.IsDir() || !strings.HasSuffix(e.Name(), ".yaml") {
 			continue
 		}
-		data, err := fs.ReadFile(fsys, path.Join(dir, e.Name()))
+		full := path.Join(dir, e.Name())
+		data, err := fs.ReadFile(fsys, full)
 		if err != nil {
-			continue
+			panic(fmt.Errorf("gountries: read %s: %w", full, err))
 		}
 		var c Country
 		if err := yaml.Unmarshal(data, &c); err != nil {
-			continue
+			panic(fmt.Errorf("gountries: parse %s: %w", full, err))
 		}
 		countries[c.Codes.Alpha2] = c
 	}
@@ -133,13 +134,14 @@ func populateSubdivisions(fsys fs.FS, root string) map[string][]SubDivision {
 		if e.IsDir() || !strings.HasSuffix(e.Name(), ".yaml") {
 			continue
 		}
-		data, err := fs.ReadFile(fsys, path.Join(dir, e.Name()))
+		full := path.Join(dir, e.Name())
+		data, err := fs.ReadFile(fsys, full)
 		if err != nil {
-			continue
+			panic(fmt.Errorf("gountries: read %s: %w", full, err))
 		}
 		var subdivisions []SubDivision
 		if err := yaml.Unmarshal(data, &subdivisions); err != nil {
-			continue
+			panic(fmt.Errorf("gountries: parse %s: %w", full, err))
 		}
 		alpha2 := strings.TrimSuffix(e.Name(), ".yaml")
 		out[alpha2] = subdivisions
